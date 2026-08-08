@@ -1,7 +1,7 @@
 # Okruhy — Farmakologie (všeobecné lékařství, LFP)
 
 Zdroje: `Inputs/seznam-otazek-VL.docx` (oficiální seznam) · `Inputs/podminky-predmetu-Farmakologie-II.pdf`
-Vypracované: `Inputs/obecka-vypracovane-otazky.pdf` (73 s.) · `Inputs/specka-1-vypracovane-otazky.pdf` (94 s.)
+Vypracované: `obecka-vypracovane-otazky.pdf` (73 s.) · `specka-1-vypracovane-otazky.pdf` (94 s.) · `specka-2-vypracovane-otazky.pdf` (97 s.)
 **Vypracované otázky mají přednost před obecnými znalostmi — podle nich tě katedra zkouší.**
 
 Zkouška: **úterý 1. 9. 2026** · **test (50 otázek, nutno 35 = 70 %) + ústní** (losuje se 1 obecná + 2 speciální)
@@ -11,22 +11,33 @@ Zkouška: **úterý 1. 9. 2026** · **test (50 otázek, nutno 35 = 70 %) + ústn
 **Stavy:** `▢` neviděno · `◩` rozpracováno · `☑` umím
 ⚠️ `☑` se nedává za přečtení — jen za **dvě úspěšná aktivní vybavení** ve `/zkousej-me`.
 
-## ⚠️ Mezery ve vypracovaných otázkách
+## Pokrytí materiálem
 
-| Chybí | Otázka | Řešení |
-|---|---|---|
-| `O35` | Biologická léčba | **zpracováno** → `vypisky-O35-biologicka-lecba.md` ⚠️ z obecných znalostí, ověřit |
-| `S1-53` | Makrolidy | **chybí — sehnat nebo zpracovat** |
+| Část | Otázek | Pokryto | Chybí |
+|---|---|---|---|
+| Obecná | 35 | 34 + O35 dopsáno | — |
+| Speciální I | 53 | 52 | **`S1-53` Makrolidy** |
+| Speciální II | 48 | **48 — kompletní** | — |
+| **Celkem** | **136** | **135** | **1** |
 
-Vypracovaná Specka 1 končí na s. 94 u tetracyklinů — makrolidy tam nejsou. Vypadá to na useknutý konec souboru; zkus sehnat úplnou verzi.
+**Celkový objem vypracovaných otázek: 264 stran.**
 
-Menší body k ověření při čtení:
-- `O14` — seznam zmiňuje **redistribuci**, nadpis ve vypracování ji neuvádí
-- `O23` — seznam zmiňuje **NNT**, nadpis ve vypracování ho neuvádí
-- Ve Specce 1 je **překlep v číslování**: Sympatolytika alfa jsou označena „45" místo „44". Obě témata tam jsou, jen posunutá.
+### Co zbývá dořešit
+
+- **`S1-53` Makrolidy** — ve Specce 1 chybí, soubor končí u tetracyklinů. Sehnat úplnou verzi; kdyby se nepodařilo do 15. 8., zpracovat zvlášť.
+- **`O35` Biologická léčba** — `vypisky-O35-biologicka-lecba.md`, ⚠️ psáno z obecných znalostí, **ověřit proti přednáškám**.
+
+### Drobnosti k ověření při čtení
+
+- `O14` — seznam zmiňuje **redistribuci**, nadpis ve vypracování ne
+- `O23` — seznam zmiňuje **NNT**, nadpis ve vypracování ne
+- `S2-31` — seznam zmiňuje **anabolické steroidy**, nadpis ve vypracování jen „Androgeny"
+- Ve Specce 1 je **překlep v číslování**: Sympatolytika alfa označena „45" místo „44". Obě témata tam jsou.
 
 
 ## Obecná farmakologie — 35 otázek
+
+*(v PDF číslováno 1–34)*
 
 | # | Otázka | Vypracované | Stav | Zkoušeno | Pozn. |
 |---|---|---|---|---|---|
@@ -68,7 +79,7 @@ Menší body k ověření při čtení:
 
 ## Speciální farmakologie I — 53 otázek
 
-*(v PDF číslováno 35–86, tj. o 34 výš než tady)*
+*(v PDF číslováno 35–86, tj. o 34 výš)*
 
 | # | Otázka | Vypracované | Stav | Zkoušeno | Pozn. |
 |---|---|---|---|---|---|
@@ -128,53 +139,55 @@ Menší body k ověření při čtení:
 
 ## Speciální farmakologie II — 48 otázek
 
+*(v PDF číslováno 87–134, tj. o 86 výš)*
+
 | # | Otázka | Vypracované | Stav | Zkoušeno | Pozn. |
 |---|---|---|---|---|---|
-| S2-1 | Chemoterapeutika močových a střevních infekcí | *(čeká)* | ▢ | — | |
-| S2-2 | Antiparazitika | *(čeká)* | ▢ | — | |
-| S2-3 | Antituberkulotika a antileprotika | *(čeká)* | ▢ | — | |
-| S2-4 | Antimykotika | *(čeká)* | ▢ | — | |
-| S2-5 | Antivirotika | *(čeká)* | ▢ | — | |
-| S2-6 | Antiretrovirotika | *(čeká)* | ▢ | — | |
-| S2-7 | Antitusika, mukolytika, expektorancia | *(čeká)* | ▢ | — | |
-| S2-8 | Antiastmatika | *(čeká)* | ▢ | — | |
-| S2-9 | Antihistaminika | *(čeká)* | ▢ | — | |
-| S2-10 | Laxativa, antidiaroika | *(čeká)* | ▢ | — | |
-| S2-11 | Farmakoterapie vředové choroby gastroduodena a GERD | *(čeká)* | ▢ | — | |
-| S2-12 | Prokinetika, antiemetika, emetika | *(čeká)* | ▢ | — | |
-| S2-13 | Farmakoterapie nespecifických střevních zánětů | *(čeká)* | ▢ | — | |
-| S2-14 | Spasmolytika | *(čeká)* | ▢ | — | |
-| S2-15 | Hepatoprotektiva, cholagoga | *(čeká)* | ▢ | — | |
-| S2-16 | Farmaka v očním lékařství | *(čeká)* | ▢ | — | |
-| S2-17 | Drogová (léková) závislost | *(čeká)* | ▢ | — | |
-| S2-18 | Ethylalkohol, methylalkohol | *(čeká)* | ▢ | — | |
-| S2-19 | Konopí, kanabinoidy | *(čeká)* | ▢ | — | |
-| S2-20 | Halucinogeny | *(čeká)* | ▢ | — | |
-| S2-21 | Stimulancia | *(čeká)* | ▢ | — | |
-| S2-22 | Nikotin | *(čeká)* | ▢ | — | |
-| S2-23 | Metylxantiny a jejich deriváty | *(čeká)* | ▢ | — | |
-| S2-24 | Antirevmatika | *(čeká)* | ▢ | — | |
-| S2-25 | Antiuratika | *(čeká)* | ▢ | — | |
-| S2-26 | Imunosupresiva, imunostimulancia | *(čeká)* | ▢ | — | |
-| S2-27 | Hormony hypothalamu, hypofýzy, jejich analoga | *(čeká)* | ▢ | — | |
-| S2-28 | Farmakoterapie onemocnění štítné žlázy | *(čeká)* | ▢ | — | |
-| S2-29 | Glukokortikoidy, mineralokortikoidy | *(čeká)* | ▢ | — | |
-| S2-30 | Farmakoterapie obezity | *(čeká)* | ▢ | — | |
-| S2-31 | Androgeny, anabolické steroidy | *(čeká)* | ▢ | — | |
-| S2-32 | Estrogeny, gestageny | *(čeká)* | ▢ | — | |
-| S2-33 | Kontraceptiva | *(čeká)* | ▢ | — | |
-| S2-34 | Farmakoterapie benigní hyperplazie prostaty | *(čeká)* | ▢ | — | |
-| S2-35 | Cytostatika | *(čeká)* | ▢ | — | |
-| S2-36 | Farmakoterapie anemií | *(čeká)* | ▢ | — | |
-| S2-37 | Rtg kontrastní látky | *(čeká)* | ▢ | — | |
-| S2-38 | Léčiva používaná pro místní účinek na kůži a sliznicích | *(čeká)* | ▢ | — | |
-| S2-39 | Infuzní terapie | *(čeká)* | ▢ | — | |
-| S2-40 | Vitaminy rozpustné v tucích | *(čeká)* | ▢ | — | |
-| S2-41 | Vitaminy rozpustné ve vodě | *(čeká)* | ▢ | — | |
-| S2-42 | Farmakoterapie osteoporózy | *(čeká)* | ▢ | — | |
-| S2-43 | Fytoterapie | *(čeká)* | ▢ | — | |
-| S2-44 | Obecná toxikologie | *(čeká)* | ▢ | — | |
-| S2-45 | Terapie otrav a předávkování | *(čeká)* | ▢ | — | |
-| S2-46 | Toxikologie rostlin a hub | *(čeká)* | ▢ | — | |
-| S2-47 | Toxikologie živočišných jedů | *(čeká)* | ▢ | — | |
-| S2-48 | intoxikace sloučeninami rtuti, arzénu a olova | *(čeká)* | ▢ | — | |
+| S2-1 | Chemoterapeutika močových a střevních infekcí | s. 1 | ▢ | — |  |
+| S2-2 | Antiparazitika | s. 2–3 | ▢ | — |  |
+| S2-3 | Antituberkulotika a antileprotika | s. 4–5 | ▢ | — |  |
+| S2-4 | Antimykotika | s. 6–7 | ▢ | — |  |
+| S2-5 | Antivirotika | s. 8–9 | ▢ | — |  |
+| S2-6 | Antiretrovirotika | s. 10 | ▢ | — |  |
+| S2-7 | Antitusika, mukolytika, expektorancia | s. 11 | ▢ | — |  |
+| S2-8 | Antiastmatika | s. 12–14 | ▢ | — |  |
+| S2-9 | Antihistaminika | s. 15–16 | ▢ | — |  |
+| S2-10 | Laxativa, antidiaroika | s. 17 | ▢ | — |  |
+| S2-11 | Farmakoterapie vředové choroby gastroduodena a GERD | s. 18–19 | ▢ | — |  |
+| S2-12 | Prokinetika, antiemetika, emetika | s. 20 | ▢ | — |  |
+| S2-13 | Farmakoterapie nespecifických střevních zánětů | s. 21–22 | ▢ | — |  |
+| S2-14 | Spasmolytika | s. 23 | ▢ | — |  |
+| S2-15 | Hepatoprotektiva, cholagoga | s. 24 | ▢ | — |  |
+| S2-16 | Farmaka v očním lékařství | s. 25–26 | ▢ | — |  |
+| S2-17 | Drogová (léková) závislost | s. 27–28 | ▢ | — |  |
+| S2-18 | Ethylalkohol, methylalkohol | s. 29 | ▢ | — |  |
+| S2-19 | Konopí, kanabinoidy | s. 30–31 | ▢ | — |  |
+| S2-20 | Halucinogeny | s. 32–33 | ▢ | — |  |
+| S2-21 | Stimulancia | s. 34 | ▢ | — |  |
+| S2-22 | Nikotin | s. 35 | ▢ | — |  |
+| S2-23 | Metylxantiny a jejich deriváty | s. 36 | ▢ | — |  |
+| S2-24 | Antirevmatika | s. 37–39 | ▢ | — |  |
+| S2-25 | Antiuratika | s. 40 | ▢ | — |  |
+| S2-26 | Imunosupresiva, imunostimulancia | s. 41–42 | ▢ | — |  |
+| S2-27 | Hormony hypothalamu, hypofýzy, jejich analoga | s. 43–45 | ▢ | — |  |
+| S2-28 | Farmakoterapie onemocnění štítné žlázy | s. 46–47 | ▢ | — |  |
+| S2-29 | Glukokortikoidy, mineralokortikoidy | s. 48–50 | ▢ | — |  |
+| S2-30 | Farmakoterapie obezity | s. 51 | ▢ | — |  |
+| S2-31 | Androgeny, anabolické steroidy | s. 52–53 | ▢ | — | ⚠️ ověřit anabolika |
+| S2-32 | Estrogeny, gestageny | s. 54–55 | ▢ | — |  |
+| S2-33 | Kontraceptiva | s. 56–57 | ▢ | — |  |
+| S2-34 | Farmakoterapie benigní hyperplazie prostaty | s. 58 | ▢ | — |  |
+| S2-35 | Cytostatika | s. 59–61 | ▢ | — |  |
+| S2-36 | Farmakoterapie anemií | s. 62–63 | ▢ | — |  |
+| S2-37 | Rtg kontrastní látky | s. 64–65 | ▢ | — |  |
+| S2-38 | Léčiva používaná pro místní účinek na kůži a sliznicích | s. 66–71 | ▢ | — |  |
+| S2-39 | Infuzní terapie | s. 72–74 | ▢ | — |  |
+| S2-40 | Vitaminy rozpustné v tucích | s. 75 | ▢ | — |  |
+| S2-41 | Vitaminy rozpustné ve vodě | s. 76 | ▢ | — |  |
+| S2-42 | Farmakoterapie osteoporózy | s. 77–80 | ▢ | — |  |
+| S2-43 | Fytoterapie | s. 81–84 | ▢ | — |  |
+| S2-44 | Obecná toxikologie | s. 85 | ▢ | — |  |
+| S2-45 | Terapie otrav a předávkování | s. 86 | ▢ | — |  |
+| S2-46 | Toxikologie rostlin a hub | s. 87–88 | ▢ | — |  |
+| S2-47 | Toxikologie živočišných jedů | s. 89–92 | ▢ | — |  |
+| S2-48 | intoxikace sloučeninami rtuti, arzénu a olova | s. 93–97 | ▢ | — |  |
