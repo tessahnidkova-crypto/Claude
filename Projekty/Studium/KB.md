@@ -70,7 +70,7 @@ Sem patří všechno, co se o zkoušení zjistí — od spolužaček, z vlastní
 ## Otevřené otázky
 
 **Na Tessu:**
-- [ ] **Datum zářijového termínu farmakologie** — blokuje plán učení
+- [ ] **Je vypsaný opravný termín farmakologie?** S tvrdou testovou branou na 1. termínu je to zásadní pro taktiku
 - [ ] **Co konkrétně nevyšlo u patofyziologie?** Která látka, jaký typ otázky, co řekl zkoušející. Zapsat, dokud si to pamatuje.
 - [ ] Tabulka uznaných předmětů (SharePoint — nahrát jako `.xlsx` do chatu, síť ji odsud nenačte)
 
