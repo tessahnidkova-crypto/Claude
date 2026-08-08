@@ -21,17 +21,27 @@ Předměty shodné mezi všeobecným a zubním lékařstvím se na ZL uznávají
 
 ## Co musí splnit v 1. ročníku ZL
 
-| Předmět | Typ | Termín | Stav |
-|---|---|---|---|
-| Biofyzika | *(doplnit)* | *(doplnit)* | ▢ |
-| Preklinické zubní lékařství | *(doplnit)* | *(doplnit)* | ▢ |
+Podle oficiálního studijního plánu (`studijni-plan.md`, zdroj `Inputs/studijni-plan-ZL-LFP.pdf`):
+
+| Předmět | Semestr | Zakončení | Kredity | Stav |
+|---|---|---|---|---|
+| Biofyzika | **letní** | zápočet + **zkouška** | 7 | ▢ |
+| Preklinické zubní lékařství I | zimní + letní | **jen zápočty, žádná zkouška** | 9 | ▢ |
+
+**⚠️ Klíčové dopady:**
+
+1. **Biofyzika je letní předmět.** Zkouška spadá do letního zkouškového (červen 2027), ne do lednového.
+2. **Preklinika I nemá v 1. ročníku zkoušku.** Zkouška přichází až u Preklinického ZL II ve 2. ročníku.
+3. **V celém 1. ročníku má jedinou zkoušku — biofyziku, v létě.** Zimní semestr je bez zkoušky.
+4. **Obě věci jsou ale úzké krčky.** Preklinické ZL II (2. ročník) vyžaduje zápočet z prekliniky I **a zkoušku z biofyziky**. Preklinika na VL ekvivalent nemá, uznat se nedá. Ročník je lehký na objem, ne na následky.
 
 ## Nejbližší termín — farmakologie, září 2026
 
-- **Co:** zkouška z farmakologie, možnost složit v září a nechat převést/uznat pro ZL
-- **Datum:** *(doplnit — tohle je teď nejdůležitější chybějící údaj)*
+- **Co:** zkouška z farmakologie, možnost složit v září a nechat uznat pro ZL
+- **Datum:** *(doplnit — nejdůležitější chybějící údaj)*
 - **Stav:** neřešeno
-- ⚠️ **Nevyjasněno:** je farmakologie ta zkouška, kvůli které skončilo studium VL? Pokud ano, mění to sázku i způsob přípravy. → viz Otevřené otázky
+- ⚠️ **Na ZL je farmakologie dvousemestrální předmět 3. ročníku** (ZS zápočet, LS zápočet + zkouška). Zkouška se váže na oba zápočty — „složit v září a nechat uznat" tedy není samozřejmý krok. **Musí potvrdit studijní oddělení.**
+- ⚠️ **Nevyjasněno:** je farmakologie ta zkouška, kvůli které skončilo studium VL? Pokud ano, mění to sázku i způsob přípravy.
 
 ## Jak která katedra zkouší
 
@@ -51,8 +61,13 @@ Sem patří všechno, co se o zkoušení zjistí — od spolužaček, z vlastní
 
 ## Otevřené otázky
 
+**Na Tessu:**
 - [ ] **Byla farmakologie ta nesplněná zkouška z VL?** Kolik pokusů už proběhlo a kolik jich zbývá?
 - [ ] Přesné datum zářijového termínu farmakologie
 - [ ] Tabulka uznaných předmětů (SharePoint — nahrát jako `.xlsx` do chatu, síť ji odsud nenačte)
-- [ ] Rozvrh a forma zkoušky u biofyziky a preklinického zubního lékařství
-- [ ] Existuje písemné rozhodnutí o uznání předmětů?
+
+**Na studijní oddělení — vyřídit dřív, než se do čehokoli investuje čas:**
+- [ ] **Jak přesně proběhne uznání farmakologie**, když je na ZL dvousemestrální a zkouška se váže na oba zápočty?
+- [ ] **Existuje písemné rozhodnutí o uznání předmětů?** Ústní příslib není totéž.
+- [ ] **Počítají se uznané kredity do 60 potřebných za ročník?** Biofyzika (7) + preklinika (9) = 16 vlastních kreditů; zbytek musí přijít z uznání.
+- [ ] Forma zkoušky u biofyziky (ústní / písemná / test) a jak se uděluje zápočet z prekliniky
