@@ -1,0 +1,11 @@
+# Systémové smetí
+.DS_Store
+Thumbs.db
+
+# Dočasné soubory
+*.tmp
+*~
+
+# Velké binární věci, které do gitu nepatří (nahraj je jinam a odkaž)
+*.mp4
+*.mov
