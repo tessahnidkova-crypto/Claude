@@ -10,7 +10,8 @@ Poslední aktualizace: 2026-08-08
 
 - **Obor:** Zubní lékařství, LF UK Plzeň
 - **Ročník:** 1., akademický rok 2026/27 (nastupuje)
-- **Studijní historie:** Všeobecné lékařství na téže fakultě — splněný 1. a 2. ročník, ve 3. ročníku splněna psychologie. Studium ukončeno pro nesplněnou zkoušku ve 3. ročníku.
+- **Studijní historie:** Všeobecné lékařství na téže fakultě — splněný 1. a 2. ročník, ve 3. ročníku splněna psychologie. Studium ukončeno pro **nesplněnou patofyziologii**.
+- **Souběžně 2026/27 studuje i VL** — účelově, kvůli třem zkouškám. Viz `rok-2026-27.md`.
 
 ## Uznávání předmětů z VL
 
