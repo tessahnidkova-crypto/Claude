@@ -1,7 +1,9 @@
 # Okruhy — Farmakologie (všeobecné lékařství, LFP)
 
 Zdroje: `Inputs/seznam-otazek-VL.docx` (oficiální seznam) · `Inputs/podminky-predmetu-Farmakologie-II.pdf`
-Vypracované odpovědi: `Inputs/obecka-vypracovane-otazky.pdf` (73 stran) — **hlavní zdroj, má přednost před obecnými znalostmi**
+Vypracované: `Inputs/obecka-vypracovane-otazky.pdf` (73 s.) · `Inputs/specka-1-vypracovane-otazky.pdf` (94 s.)
+**Vypracované otázky mají přednost před obecnými znalostmi — podle nich tě katedra zkouší.**
+
 Zkouška: **úterý 1. 9. 2026** · **test (50 otázek, nutno 35 = 70 %) + ústní** (losuje se 1 obecná + 2 speciální)
 
 ⚠️ Rozsah zahrnuje **v plném rozsahu i Farmakologii I**.
@@ -9,13 +11,19 @@ Zkouška: **úterý 1. 9. 2026** · **test (50 otázek, nutno 35 = 70 %) + ústn
 **Stavy:** `▢` neviděno · `◩` rozpracováno · `☑` umím
 ⚠️ `☑` se nedává za přečtení — jen za **dvě úspěšná aktivní vybavení** ve `/zkousej-me`.
 
-## ⚠️ Mezera ve vypracovaných otázkách
+## ⚠️ Mezery ve vypracovaných otázkách
 
-Vypracovaná Obecka pokrývá **34 z 35 otázek**. **Chybí `O35` — Biologická léčba** (rozdělení přípravků, názvosloví, biosimilars, přínosy a rizika). Ta se musí sehnat nebo zpracovat jinde.
+| Chybí | Otázka | Řešení |
+|---|---|---|
+| `O35` | Biologická léčba | **zpracováno** → `vypisky-O35-biologicka-lecba.md` ⚠️ z obecných znalostí, ověřit |
+| `S1-53` | Makrolidy | **chybí — sehnat nebo zpracovat** |
 
-Dva menší podezřelé body, kde se název v seznamu a ve vypracování liší — při čtení ověř, že je látka pokrytá:
+Vypracovaná Specka 1 končí na s. 94 u tetracyklinů — makrolidy tam nejsou. Vypadá to na useknutý konec souboru; zkus sehnat úplnou verzi.
+
+Menší body k ověření při čtení:
 - `O14` — seznam zmiňuje **redistribuci**, nadpis ve vypracování ji neuvádí
 - `O23` — seznam zmiňuje **NNT**, nadpis ve vypracování ho neuvádí
+- Ve Specce 1 je **překlep v číslování**: Sympatolytika alfa jsou označena „45" místo „44". Obě témata tam jsou, jen posunutá.
 
 
 ## Obecná farmakologie — 35 otázek
@@ -56,65 +64,67 @@ Dva menší podezřelé body, kde se název v seznamu a ve vypracování liší 
 | O32 | Léčiva v těhotenství, teratogenní účinek, léčiva v době kojení | s. 68–70 | ▢ | — |  |
 | O33 | Farmakoterapie v dětství | s. 71–72 | ▢ | — |  |
 | O34 | Farmakoterapie ve stáří, polypragmazie | s. 73 | ▢ | — |  |
-| O35 | Biologická léčba: základní rozdělení přípravků (názvosloví; biosimilars), terapeutické přínosy a rizika | **chybí** | ▢ | — | ⚠️ sehnat jinde |
+| O35 | Biologická léčba: základní rozdělení přípravků (názvosloví; biosimilars), terapeutické přínosy a rizika | `vypisky-O35` | ▢ | — | ⚠️ z obecných znalostí |
 
 ## Speciální farmakologie I — 53 otázek
 
+*(v PDF číslováno 35–86, tj. o 34 výš než tady)*
+
 | # | Otázka | Vypracované | Stav | Zkoušeno | Pozn. |
 |---|---|---|---|---|---|
-| S1-1 | Cholinergní přenos vzruchu | *(čeká)* | ▢ | — | |
-| S1-2 | Přímá cholinomimetika | *(čeká)* | ▢ | — | |
-| S1-3 | Nepřímá cholinomimetika | *(čeká)* | ▢ | — | |
-| S1-4 | Parasympatolytika | *(čeká)* | ▢ | — | |
-| S1-5 | Adrenergní přenos vzruchu | *(čeká)* | ▢ | — | |
-| S1-6 | Neselektivní sympatomimetika | *(čeká)* | ▢ | — | |
-| S1-7 | Sympatomimetika alfa | *(čeká)* | ▢ | — | |
-| S1-8 | Sympatomimetika beta | *(čeká)* | ▢ | — | |
-| S1-9 | Nepřímá sympatomimetika | *(čeká)* | ▢ | — | |
-| S1-10 | Sympatolytika alfa | *(čeká)* | ▢ | — | |
-| S1-11 | Sympatolytika beta | *(čeká)* | ▢ | — | |
-| S1-12 | Myorelaxancia | *(čeká)* | ▢ | — | |
-| S1-13 | Lokální anestetika | *(čeká)* | ▢ | — | |
-| S1-14 | Celková anestetika – inhalační | *(čeká)* | ▢ | — | |
-| S1-15 | Celková anestetika – intravenózní | *(čeká)* | ▢ | — | |
-| S1-16 | Hypnotika | *(čeká)* | ▢ | — | |
-| S1-17 | Benzodiazepiny | *(čeká)* | ▢ | — | |
-| S1-18 | Antiepileptika | *(čeká)* | ▢ | — | |
-| S1-19 | Antiparkinsonika | *(čeká)* | ▢ | — | |
-| S1-20 | Neuroleptika | *(čeká)* | ▢ | — | |
-| S1-21 | Antidepresiva – tricyklická, inhibitory MAO | *(čeká)* | ▢ | — | |
-| S1-22 | Antidepresiva – SSRI, SNRI a atypická antidepresiva | *(čeká)* | ▢ | — | |
-| S1-23 | Anxiolytika, stabilizátory nálady | *(čeká)* | ▢ | — | |
-| S1-24 | Farmakoterapie Alzheimerovy choroby. Nootropika. | *(čeká)* | ▢ | — | |
-| S1-25 | Opium a jeho alkaloidy | *(čeká)* | ▢ | — | |
-| S1-26 | Deriváty a náhražky morfinu | *(čeká)* | ▢ | — | |
-| S1-27 | Eikosanoidy | *(čeká)* | ▢ | — | |
-| S1-28 | Analgetika-antipyretika | *(čeká)* | ▢ | — | |
-| S1-29 | Nesteroidní antiflogistika | *(čeká)* | ▢ | — | |
-| S1-30 | Farmakoterapie migrény | *(čeká)* | ▢ | — | |
-| S1-31 | Léčiva s pozitivně inotropním účinkem, digoxin | *(čeká)* | ▢ | — | |
-| S1-32 | Antiarytmika | *(čeká)* | ▢ | — | |
-| S1-33 | ACE inhibitory a antagonisté angiotensinu | *(čeká)* | ▢ | — | |
-| S1-34 | Diuretika | *(čeká)* | ▢ | — | |
-| S1-35 | Blokátory Ca-kanálů | *(čeká)* | ▢ | — | |
-| S1-36 | Nitrity a nitráty | *(čeká)* | ▢ | — | |
-| S1-37 | Farmakoterapie srdečního selhání | *(čeká)* | ▢ | — | |
-| S1-38 | Farmakoterapie ischemické choroby srdeční | *(čeká)* | ▢ | — | |
-| S1-39 | Antihypertenziva | *(čeká)* | ▢ | — | |
-| S1-40 | Farmakoterapie aterosklerózy, hyperlipidemie | *(čeká)* | ▢ | — | |
-| S1-41 | Parenterální antikoagulancia | *(čeká)* | ▢ | — | |
-| S1-42 | Perorální antikoagulancia | *(čeká)* | ▢ | — | |
-| S1-43 | Fibrinolytika, trombolytika, hemostatika | *(čeká)* | ▢ | — | |
-| S1-44 | Antiagregancia | *(čeká)* | ▢ | — | |
-| S1-45 | Inzulin, jeho analoga a glukagon | *(čeká)* | ▢ | — | |
-| S1-46 | Perorální antidiabetika | *(čeká)* | ▢ | — | |
-| S1-47 | Principy antibiotické terapie | *(čeká)* | ▢ | — | |
-| S1-48 | Peniciliny, inhibitory betalaktamáz | *(čeká)* | ▢ | — | |
-| S1-49 | Cefalosporiny, karbapenemy, monobaktamy | *(čeká)* | ▢ | — | |
-| S1-50 | Aminoglykozidy, chinolóny | *(čeká)* | ▢ | — | |
-| S1-51 | Linkosamidy, glykopeptidy, polymyxiny | *(čeká)* | ▢ | — | |
-| S1-52 | Tetracyklíny, amfenikoly | *(čeká)* | ▢ | — | |
-| S1-53 | Makrolidy | *(čeká)* | ▢ | — | |
+| S1-1 | Cholinergní přenos vzruchu | s. 1–2 | ▢ | — |  |
+| S1-2 | Přímá cholinomimetika | s. 3–4 | ▢ | — |  |
+| S1-3 | Nepřímá cholinomimetika | s. 5 | ▢ | — |  |
+| S1-4 | Parasympatolytika | s. 6–7 | ▢ | — |  |
+| S1-5 | Adrenergní přenos vzruchu | s. 8 | ▢ | — |  |
+| S1-6 | Neselektivní sympatomimetika | s. 9 | ▢ | — |  |
+| S1-7 | Sympatomimetika alfa | s. 10 | ▢ | — |  |
+| S1-8 | Sympatomimetika beta | s. 11 | ▢ | — |  |
+| S1-9 | Nepřímá sympatomimetika | s. 12 | ▢ | — |  |
+| S1-10 | Sympatolytika alfa | s. 13 | ▢ | — |  |
+| S1-11 | Sympatolytika beta | s. 14–15 | ▢ | — |  |
+| S1-12 | Myorelaxancia | s. 16 | ▢ | — |  |
+| S1-13 | Lokální anestetika | s. 17 | ▢ | — |  |
+| S1-14 | Celková anestetika – inhalační | s. 18 | ▢ | — |  |
+| S1-15 | Celková anestetika – intravenózní | s. 19 | ▢ | — |  |
+| S1-16 | Hypnotika | s. 20–23 | ▢ | — |  |
+| S1-17 | Benzodiazepiny | s. 24–25 | ▢ | — |  |
+| S1-18 | Antiepileptika | s. 26–28 | ▢ | — |  |
+| S1-19 | Antiparkinsonika | s. 29–32 | ▢ | — |  |
+| S1-20 | Neuroleptika | s. 33 | ▢ | — |  |
+| S1-21 | Antidepresiva – tricyklická, inhibitory MAO | s. 34–35 | ▢ | — |  |
+| S1-22 | Antidepresiva – SSRI, SNRI a atypická antidepresiva | s. 36–37 | ▢ | — |  |
+| S1-23 | Anxiolytika, stabilizátory nálady | s. 38–39 | ▢ | — |  |
+| S1-24 | Farmakoterapie Alzheimerovy choroby. Nootropika. | s. 40–41 | ▢ | — |  |
+| S1-25 | Opium a jeho alkaloidy | s. 42–43 | ▢ | — |  |
+| S1-26 | Deriváty a náhražky morfinu | s. 44–45 | ▢ | — |  |
+| S1-27 | Eikosanoidy | s. 46–47 | ▢ | — |  |
+| S1-28 | Analgetika-antipyretika | s. 48–49 | ▢ | — |  |
+| S1-29 | Nesteroidní antiflogistika | s. 50–51 | ▢ | — |  |
+| S1-30 | Farmakoterapie migrény | s. 52 | ▢ | — |  |
+| S1-31 | Léčiva s pozitivně inotropním účinkem, digoxin | s. 53 | ▢ | — |  |
+| S1-32 | Antiarytmika | s. 54–56 | ▢ | — |  |
+| S1-33 | ACE inhibitory a antagonisté angiotensinu | s. 57–59 | ▢ | — |  |
+| S1-34 | Diuretika | s. 60–62 | ▢ | — |  |
+| S1-35 | Blokátory Ca-kanálů | s. 63 | ▢ | — |  |
+| S1-36 | Nitrity a nitráty | s. 64 | ▢ | — |  |
+| S1-37 | Farmakoterapie srdečního selhání | s. 65 | ▢ | — |  |
+| S1-38 | Farmakoterapie ischemické choroby srdeční | s. 66 | ▢ | — |  |
+| S1-39 | Antihypertenziva | s. 67–70 | ▢ | — |  |
+| S1-40 | Farmakoterapie aterosklerózy, hyperlipidemie | s. 71–73 | ▢ | — |  |
+| S1-41 | Parenterální antikoagulancia | s. 74–76 | ▢ | — |  |
+| S1-42 | Perorální antikoagulancia | s. 77 | ▢ | — |  |
+| S1-43 | Fibrinolytika, trombolytika, hemostatika | s. 78 | ▢ | — |  |
+| S1-44 | Antiagregancia | s. 79–80 | ▢ | — |  |
+| S1-45 | Inzulin, jeho analoga a glukagon | s. 81–82 | ▢ | — |  |
+| S1-46 | Perorální antidiabetika | s. 83–84 | ▢ | — |  |
+| S1-47 | Principy antibiotické terapie | s. 85–87 | ▢ | — |  |
+| S1-48 | Peniciliny, inhibitory betalaktamáz | s. 88–89 | ▢ | — |  |
+| S1-49 | Cefalosporiny, karbapenemy, monobaktamy | s. 90–91 | ▢ | — |  |
+| S1-50 | Aminoglykozidy, chinolóny | s. 92 | ▢ | — |  |
+| S1-51 | Linkosamidy, glykopeptidy, polymyxiny | s. 93 | ▢ | — |  |
+| S1-52 | Tetracyklíny, amfenikoly | s. 94 | ▢ | — |  |
+| S1-53 | Makrolidy | **chybí** | ▢ | — | ⚠️ sehnat |
 
 ## Speciální farmakologie II — 48 otázek
 
