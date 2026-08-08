@@ -15,17 +15,37 @@ Zkouška: **úterý 1. 9. 2026** · **test (50 otázek, nutno 35 = 70 %) + ústn
 
 | Část | Otázek | Pokryto | Chybí |
 |---|---|---|---|
-| Obecná | 35 | 34 + O35 dopsáno | — |
-| Speciální I | 53 | 52 | **`S1-53` Makrolidy** |
+| Obecná | 35 | 34 ve vypracovaných + `O35` dopsáno | — |
+| Speciální I | 53 | 52 ve vypracovaných + `S1-53` dopsáno | — |
 | Speciální II | 48 | **48 — kompletní** | — |
-| **Celkem** | **136** | **135** | **1** |
+| **Celkem** | **136** | **136** | **—** |
 
 **Celkový objem vypracovaných otázek: 264 stran.**
 
-### Co zbývá dořešit
+### Dvě otázky ve vypracovaných chybí — obě dopsané
 
-- **`S1-53` Makrolidy** — ve Specce 1 chybí, soubor končí u tetracyklinů. Sehnat úplnou verzi; kdyby se nepodařilo do 15. 8., zpracovat zvlášť.
-- **`O35` Biologická léčba** — `vypisky-O35-biologicka-lecba.md`, ⚠️ psáno z obecných znalostí, **ověřit proti přednáškám**.
+| Chybí ve vypracovaných | Náhrada | Původ |
+|---|---|---|
+| `O35` Biologická léčba *(oficiálně č. 35)* | `vypisky-O35-biologicka-lecba.md` | ⚠️ obecné znalosti |
+| `S1-53` Makrolidy *(oficiálně č. 88)* | `vypisky-S1-53-makrolidy.md` | ⚠️ obecné znalosti |
+
+**Pokrytí je tím 136/136**, ale dvě otázky nejsou od katedry. Až sežene úplné verze, přebít jimi.
+
+### ⚠️ Převodní klíč — číslování ve vypracovaných NENÍ oficiální číslování
+
+Vypracované soubory číslují průběžně **1–134** přes všechny tři části. Oficiální seznam má **136** otázek a čísluje zvlášť v každé sekci. Rozdíl dvou čísel = přesně ty dvě vynechané otázky.
+
+| Oficiální pozice | Část | Číslo ve vypracovaných | Přepočet |
+|---|---|---|---|
+| 1–34 | Obecná `O1`–`O34` | 1–34 | shodné |
+| **35** | **Biologická léčba** | **vynecháno** | — |
+| 36–87 | Speciální I `S1-1`–`S1-52` | 35–86 | **PDF = S1 + 34** |
+| **88** | **Makrolidy** | **vynecháno** | — |
+| 89–136 | Speciální II `S2-1`–`S2-48` | 87–134 | **PDF = S2 + 86** |
+
+**Kontrola:** Specka 1 končí číslem 86 (ne 87) a Specka 2 začíná číslem 87 (ne 89). Kdyby makrolidy ve vypracovaných byly, čísla by seděla jinak.
+
+⚠️ Ve vypracovaných chybí i číslo **44** — Sympatolytika alfa jsou omylem označena „45" stejně jako sympatolytika beta. Obě témata tam jsou.
 
 ### Drobnosti k ověření při čtení
 
@@ -135,7 +155,7 @@ Zkouška: **úterý 1. 9. 2026** · **test (50 otázek, nutno 35 = 70 %) + ústn
 | S1-50 | Aminoglykozidy, chinolóny | s. 92 | ▢ | — |  |
 | S1-51 | Linkosamidy, glykopeptidy, polymyxiny | s. 93 | ▢ | — |  |
 | S1-52 | Tetracyklíny, amfenikoly | s. 94 | ▢ | — |  |
-| S1-53 | Makrolidy | **chybí** | ▢ | — | ⚠️ sehnat |
+| S1-53 | Makrolidy | `vypisky-S1-53` | ▢ | — | ⚠️ z obecných znalostí |
 
 ## Speciální farmakologie II — 48 otázek
 
