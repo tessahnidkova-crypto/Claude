@@ -114,6 +114,18 @@ Pravidlo: **„Když to nástroj umí, předpokládej, že to udělá."** Instru
 
 # Práce s materiály
 
+## ⚠️ Výstupy vždy jako Google dokument
+
+**Každý hotový studijní materiál** (zkrácené otázky, výpisky, tahák, plán učení, shrnutí) **zakládej jako Google dokument na Disku** — ne jen jako soubor v repu. Tessa se z nich učí na tabletu i na mobilu a Disk je čte na obojím bez stahování.
+
+**Kam:** `Disk / Zubní lékařství / <Předmět> /`. Když složka předmětu není, založ ji.
+
+**Jak:** nahraj obsah jako `text/html` s `contentMimeType: text/html` — Disk z něj udělá nativní Google dokument včetně tabulek. ⚠️ Nahrání `.docx` s konverzí **nefunguje**, vrací „Invalid conversion requested" (ověřeno 2026-08-08).
+
+**Zdroj zůstává v repu.** Google dokument je export, ne originál — markdown vždycky commitni do `Projekty/Studium/Predmety/<Předmět>/`. Když se bude materiál za měsíc přepisovat, edituje se markdown a dokument se přegeneruje. (Platí pravidlo „ulož ZDROJ, ne jen export".)
+
+**Když Disk není připojený:** vyrob soubor, ulož ho do repu, **řekni to nahlas** a nabídni ruční nahrání. Nikdy nepředstírej, že dokument vznikl.
+
 - **Jedna změna na kolo.** Když něco iteruješ (výpisky, plán učení, text), měň jednu věc a měř ji stejně jako minule. Když se to zlepší, musíš vědět čím.
 - **Zjednodušuj:** elegance není, když není co přidat, ale když není co odebrat. U taháku to platí dvojnásob.
 - **Reference místo popisů.** Tabulka je lepší než odstavec, schéma lepší než tabulka, konkrétní příklad lepší než definice. U anatomie a klasifikací: vždycky struktura, ne souvislý text.
