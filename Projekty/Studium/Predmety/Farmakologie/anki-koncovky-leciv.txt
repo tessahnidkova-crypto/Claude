@@ -1,0 +1,66 @@
+# Anki / Quizlet — koncovky léčiv (stems)
+# Import do Anki: Soubor -> Importovat -> oddelovac Tab -> pole: Koncovka / Skupina / Zastupci / Okruh
+# Import do Quizletu: Vytvorit set -> Importovat -> mezi pojmem a definici TAB, mezi kartami novy radek
+#
+# 60 karet. Zdroj: [obecne znalosti] — overit proti materialum katedry.
+
+-olol	beta-blokátory — metoprolol, bisoprolol, karvedilol	S1-11
+-pril	ACE inhibitory — enalapril, ramipril, perindopril	S1-33
+-sartan	blokátory AT1 receptoru (sartany) — losartan, valsartan, telmisartan	S1-33
+-dipin	dihydropyridinové blokátory Ca-kanálů — amlodipin, nifedipin, nitrendipin	S1-35
+-zosin	alfa1-blokátory — doxazosin, prazosin	S1-10
+-osin	alfa1-blokátory uroselektivní — tamsulosin, silodosin	S2-34
+-terol	beta2-mimetika (dlouhodobá) — formoterol, salmeterol	S2-8
+-tropium	inhalační anticholinergika — ipratropium, tiotropium	S2-8
+-statin	inhibitory HMG-CoA reduktázy — simvastatin, atorvastatin, rosuvastatin	S1-40
+-fibrát	fibráty — fenofibrát	S1-40
+-prazol	inhibitory protonové pumpy — omeprazol, pantoprazol, esomeprazol	S2-11
+-tidin	antagonisté H2 receptorů — famotidin, ranitidin	S2-11
+-setron	antagonisté 5-HT3 (antiemetika) — ondansetron, granisetron	S2-12
+-triptan	agonisté 5-HT1 (migréna) — sumatriptan, zolmitriptan	S1-30
+-parin	hepariny — enoxaparin, nadroparin, dalteparin	S1-41
+-xaban	přímé inhibitory faktoru Xa — rivaroxaban, apixaban, edoxaban	S1-42
+-gatran	přímé inhibitory trombinu — dabigatran	S1-42
+-pláza / -ase	fibrinolytika — altepláza, tenektepláza	S1-43
+-grel-	inhibitory P2Y12 (antiagregancia) — klopidogrel, prasugrel, tikagrelor	S1-44
+-cilin	peniciliny — amoxicilin, ampicilin, oxacilin	S1-48
+cef- / cefa-	cefalosporiny — cefazolin, cefuroxim, ceftriaxon	S1-49
+-penem	karbapenemy — meropenem, imipenem, ertapenem	S1-49
+-floxacin	fluorochinolony — ciprofloxacin, levofloxacin, moxifloxacin	S1-50
+-cyklin	tetracykliny — doxycyklin, tetracyklin, tigecyklin	S1-52
+-thromycin	makrolidy — erythromycin, klarithromycin, azithromycin	S1-53
+-micin / -micin	aminoglykosidy — gentamicin, amikacin, tobramycin	S1-50
+-konazol	azolová antimykotika — flukonazol, itrakonazol, vorikonazol	S2-4
+-fungin	echinokandiny (antimykotika) — kaspofungin, anidulafungin	S2-4
+-vir	antivirotika — acyklovir, oseltamivir, valacyklovir	S2-5
+-navir	inhibitory HIV proteázy — ritonavir, atazanavir	S2-6
+-mab	monoklonální protilátky — infliximab, rituximab, trastuzumab	O35
+-cept	fúzní proteiny — etanercept, abatacept, aflibercept	O35
+-tinib	inhibitory tyrozinkinázy (MALÁ molekula, ne biologikum!) — imatinib, erlotinib	S2-35
+-zepam / -zolam	benzodiazepiny — diazepam, oxazepam, midazolam	S1-17
+-barbital	barbituráty — fenobarbital	S1-16
+-kain	lokální anestetika — lidokain, bupivakain, trimekain	S1-13
+-kurium / -konium	nedepolarizující myorelaxancia — atrakurium, rokuronium	S1-12
+-tylin / -pramin	tricyklická antidepresiva — amitriptylin, imipramin, klomipramin	S1-21
+-oxetin / -alopram	SSRI — fluoxetin, paroxetin, citalopram, escitalopram	S1-22
+-apin / -idon	atypická antipsychotika — klozapin, olanzapin, quetiapin, risperidon	S1-20
+-azin	fenothiaziny (klasická antipsychotika) — chlorpromazin, levomepromazin	S1-20
+-pramid	prokinetika / antiemetika — metoklopramid, itoprid	S2-12
+-profen / -fenac / -ikam	nesteroidní antiflogistika — ibuprofen, diklofenak, piroxikam, meloxikam	S1-29
+-coxib	selektivní inhibitory COX-2 — celekoxib, etorikoxib	S1-29
+-son / -olon	glukokortikoidy — prednison, methylprednisolon, hydrokortison	S2-29
+-gliptin	inhibitory DPP-4 — sitagliptin, linagliptin	S1-46
+-gliflozin	inhibitory SGLT2 — dapagliflozin, empagliflozin	S1-46
+-glitazon	thiazolidindiony — pioglitazon	S1-46
+-glutid / -natid	agonisté GLP-1 — liraglutid, semaglutid, exenatid	S1-46
+-dronát	bisfosfonáty — alendronát, zoledronát, risedronát	S2-42
+-prost	analoga prostaglandinů — latanoprost, misoprostol	S2-16
+-rubicin	antracyklinová cytostatika — doxorubicin, daunorubicin	S2-35
+-platina	platinová cytostatika — cisplatina, karboplatina	S2-35
+-tekan	inhibitory topoisomerázy I — irinotekan, topotekan	S2-35
+-fylin	metylxantiny — theofylin, aminofylin	S2-23
+-adin / -astin	antihistaminika II. generace — loratadin, cetirizin, bilastin	S2-9
+-lukast	antagonisté leukotrienových receptorů — montelukast	S2-8
+-limus	imunosupresiva (inhibitory kalcineurinu / mTOR) — takrolimus, sirolimus, everolimus	S2-26
+-thiazid	thiazidová diuretika — hydrochlorothiazid, chlortalidon	S1-34
+-semid / -anid	kličková diuretika — furosemid	S1-34
