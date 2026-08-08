@@ -6,9 +6,15 @@ Druhá vrstva pravidel. **Doplňuje** master `CLAUDE.md` v kořeni, nepřebíjí
 
 ## Kontext
 
-- Obor: **Zubní lékařství**, Lékařská fakulta Univerzity Karlovy v Plzni
-- Fáze: **preklinika (1.–2. ročník)** — velké objemy faktografie, hodně memorování, latina, základ pro klinické ročníky
-- Aktuální ročník a zapsané předměty: viz `KB.md`
+- Obor: **Zubní lékařství**, Lékařská fakulta UK v Plzni
+- **1. ročník, ak. rok 2026/27** — ale ne standardní prvák: Tessa má za sebou dva dokončené ročníky všeobecného lékařství na téže fakultě, takže se jí shodné předměty uznávají.
+- **K splnění v 1. ročníku: biofyzika + preklinické zubní lékařství.** Plus možnost složit v září farmakologii a nechat ji uznat.
+- Detaily, uznané předměty a termíny: `KB.md`
+
+**Co z toho plyne pro práci:**
+- **Nepracuj s ní jako s prvákem.** Zná fakultu, katedry, způsob zkoušení i systém studia. Nevysvětluj základy studia medicíny.
+- **Ročník je odlehčený — to je příležitost, ne volno.** Kapacita navíc se dá investovat do předtažení klinických předmětů nebo do latiny a anatomie ze zubního pohledu. Když přijde řeč na plánování, tohle připomeň.
+- **Zkušenost z VL je aktivum.** U každého předmětu se ptej, jestli ho už nepotkala — výpisky, které si pamatuje, jsou lepší startovní bod než stavba od nuly.
 
 ---
 
@@ -84,19 +90,19 @@ Zdroj: <odkud seznam je> · Zkouška: <RRRR-MM-DD> · Forma: <ústní/písemná>
 
 ---
 
-## Předměty preklinické části *(odhad — nech Tessu opravit podle sylabu)*
+## Předměty k splnění
 
-Tenhle seznam jsem **odhadl**, ne ověřil proti sylabu LF UK Plzeň. Až Tessa řekne, jak se předměty jmenují doopravdy, přepiš to tady a v `KB.md`.
+**1. ročník ZL (2026/27):**
 
-- Anatomie
-- Histologie a embryologie
-- Biologie
-- Lékařská biofyzika
-- Biochemie
-- Fyziologie
-- Preklinické zubní lékařství
-- Latinská terminologie
-- První pomoc
+| Předmět | Priorita | Pozn. |
+|---|---|---|
+| Biofyzika | povinná | |
+| Preklinické zubní lékařství | povinná | jádro oboru, na VL ekvivalent není |
+| Farmakologie | volitelná příležitost | zářijový termín 2026, pak nechat uznat pro ZL |
+
+Ostatní shodné předměty **uznány z všeobecného lékařství** — přesný seznam v `KB.md` (čeká na tabulku ze studijního plánu).
+
+⚠️ Kdyby se objevil další předmět, který v téhle tabulce není, **je to signál, že uznání neproběhlo tak, jak Tessa čeká** — ověřit na studijním oddělení, ne domýšlet.
 
 ---
 

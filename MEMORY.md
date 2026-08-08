@@ -8,15 +8,18 @@ Formát: krátká odrážka, u měnitelných věcí s datem poslední aktualizac
 
 ## Kdo
 
-- **Tessa** — studentka zubního lékařství, Lékařská fakulta Univerzity Karlovy v Plzni
-- Fáze studia: **preklinika (1.–2. ročník)** *(aktualizuj, až se posune)*
+- **Tessa** — studentka zubního lékařství, Lékařská fakulta UK v Plzni (LFP)
 - Jazyk komunikace: čeština
 
 ## Studium
 
-- Obor: Zubní lékařství, LF UK Plzeň
-- Aktuální ročník: *(doplnit)*
-- Zkouškové období: *(doplnit termíny — patří sem jen ta nejbližší, detaily do `Projekty/Studium/KB.md`)*
+- Obor: **Zubní lékařství**, LF UK Plzeň — **nastupuje do 1. ročníku** (ak. rok 2026/27)
+- **Předchozí studium: Všeobecné lékařství, tatáž fakulta.** Dokončené 1. a 2. ročník + zkouška z psychologie ve 3. ročníku. Studium ukončeno pro nesplněnou zkoušku ve 3. ročníku.
+- **Uznávání:** předměty shodné mezi VL a ZL se na zubním uznávají. Díky tomu je 1. ročník ZL výrazně odlehčený.
+- **K splnění v 1. ročníku ZL:** biofyzika · preklinické zubní lékařství
+- **Nejbližší termín:** zkouška z **farmakologie v září 2026** (možnost složit a nechat uznat pro ZL) — *přesné datum doplnit*
+
+⚠️ Detaily, seznam uznaných předmětů a termíny → `Projekty/Studium/KB.md`
 
 ## Jak pracujeme
 
