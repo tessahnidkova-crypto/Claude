@@ -7,7 +7,10 @@ Zapisuje se přes `/session-close`. Živý rozpracovaný stav sem NEPATŘÍ — 
 
 ## 2026
 
-- 2026-08-08 — Termín farmakologie potvrzen na 1. 9. 2026 (24 dní) → postaven plán učení ve 4 fázích, verdikt „vejde se, ale bez rezervy"
+- 2026-08-08 — Farmakologie: rozsah zjištěn z oficiálního seznamu — 136 okruhů (35 obecná / 53 spec. I / 48 spec. II), zahrnuje i Farmakologii I
+- 2026-08-08 — Farmakologie: z podmínek předmětu zjištěno, že test (50 ot., nutno 35) je na 1. termínu tvrdá brána — při neúspěchu propadá termín a je 4, bez ústní části
+- 2026-08-08 — OPRAVA plánu: původní pravidlo „při skluzu škrtej šířku" je s testovou branou obráceně — šířka je nepodkročitelná, flexuje hloubka
+- 2026-08-08 — Termín farmakologie potvrzen na 1. 9. 2026 (24 dní) → postaven plán učení ve 4 fázích
 - 2026-08-08 — Rozhodnuto: nastoupit i na VL jako nástroj — složit farmakologii, patofyziologii a patologii, nechat uznat do 3. ročníku ZL, pak VL ukončit
 - 2026-08-08 — Upřesněno: zkouška, kvůli které skončilo VL, byla patofyziologie (ne farmakologie) — určuje prioritu přípravy v zimě
 - 2026-08-08 — Zpracován oficiální studijní plán ZL do `studijni-plan.md`, zdroj uložen do `Inputs/` — nahrazuje odhady tvrdými daty

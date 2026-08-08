@@ -44,10 +44,12 @@ Plný rozpis a rizika: **`rok-2026-27.md`**. Ve zkratce: Tessa nastupuje i na VL
 - **Patofyziologie:** ⚠️ **zkouška, kvůli které předtím skončilo studium VL.** Nejtěžší položka roku, příprava musí začít od toho, co konkrétně minule nevyšlo.
 - **Patologie:** letní semestr, souběžně s biofyzikou.
 
-## Nejbližší termín — farmakologie, září 2026
+## Nejbližší termín — farmakologie, úterý 1. 9. 2026
 
-- **Datum:** *(doplnit — nejdůležitější chybějící údaj, bez něj nejde plán učení)*
-- **Stav:** neřešeno
+- **Rozsah:** 136 okruhů (35 obecná / 53 speciální I / 48 speciální II), včetně Farmakologie I v plném rozsahu
+- **Forma:** počítačový test (50 otázek, nutno 35 = 70 %) **+ ústní** (losují se 3 otázky: 1 obecná + 2 speciální)
+- ⚠️ **Test je na 1. termínu tvrdá brána** — při neúspěchu propadá termín a je udělena 4, k ústní části se nepokračuje. Na 2. a 3. termínu se pokračuje i po neúspěšném testu.
+- **Plán:** `Predmety/Farmakologie/plan-2026-09-01.md` · **Okruhy:** `Predmety/Farmakologie/okruhy.md`
 
 ## Jak která katedra zkouší
 
