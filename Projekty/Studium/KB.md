@@ -35,13 +35,18 @@ Podle oficiálního studijního plánu (`studijni-plan.md`, zdroj `Inputs/studij
 3. **V celém 1. ročníku má jedinou zkoušku — biofyziku, v létě.** Zimní semestr je bez zkoušky.
 4. **Obě věci jsou ale úzké krčky.** Preklinické ZL II (2. ročník) vyžaduje zápočet z prekliniky I **a zkoušku z biofyziky**. Preklinika na VL ekvivalent nemá, uznat se nedá. Ročník je lehký na objem, ne na následky.
 
+## Paralelní studium všeobecného lékařství
+
+Plný rozpis a rizika: **`rok-2026-27.md`**. Ve zkratce: Tessa nastupuje i na VL, ale jen aby si složila **farmakologii (září)**, **patofyziologii (zima)** a **patologii (léto)**. Uznají se jí do 3. ročníku ZL, pak VL ukončí.
+
+- **Farmakologie:** uznání potvrzené Tessou jako jisté — vyřešeno, neřešit znovu.
+- **Patofyziologie:** ⚠️ **zkouška, kvůli které předtím skončilo studium VL.** Nejtěžší položka roku, příprava musí začít od toho, co konkrétně minule nevyšlo.
+- **Patologie:** letní semestr, souběžně s biofyzikou.
+
 ## Nejbližší termín — farmakologie, září 2026
 
-- **Co:** zkouška z farmakologie, možnost složit v září a nechat uznat pro ZL
-- **Datum:** *(doplnit — nejdůležitější chybějící údaj)*
+- **Datum:** *(doplnit — nejdůležitější chybějící údaj, bez něj nejde plán učení)*
 - **Stav:** neřešeno
-- ⚠️ **Na ZL je farmakologie dvousemestrální předmět 3. ročníku** (ZS zápočet, LS zápočet + zkouška). Zkouška se váže na oba zápočty — „složit v září a nechat uznat" tedy není samozřejmý krok. **Musí potvrdit studijní oddělení.**
-- ⚠️ **Nevyjasněno:** je farmakologie ta zkouška, kvůli které skončilo studium VL? Pokud ano, mění to sázku i způsob přípravy.
 
 ## Jak která katedra zkouší
 
@@ -62,12 +67,13 @@ Sem patří všechno, co se o zkoušení zjistí — od spolužaček, z vlastní
 ## Otevřené otázky
 
 **Na Tessu:**
-- [ ] **Byla farmakologie ta nesplněná zkouška z VL?** Kolik pokusů už proběhlo a kolik jich zbývá?
-- [ ] Přesné datum zářijového termínu farmakologie
+- [ ] **Datum zářijového termínu farmakologie** — blokuje plán učení
+- [ ] **Co konkrétně nevyšlo u patofyziologie?** Která látka, jaký typ otázky, co řekl zkoušející. Zapsat, dokud si to pamatuje.
 - [ ] Tabulka uznaných předmětů (SharePoint — nahrát jako `.xlsx` do chatu, síť ji odsud nenačte)
 
 **Na studijní oddělení — vyřídit dřív, než se do čehokoli investuje čas:**
-- [ ] **Jak přesně proběhne uznání farmakologie**, když je na ZL dvousemestrální a zkouška se váže na oba zápočty?
-- [ ] **Existuje písemné rozhodnutí o uznání předmětů?** Ústní příslib není totéž.
-- [ ] **Počítají se uznané kredity do 60 potřebných za ročník?** Biofyzika (7) + preklinika (9) = 16 vlastních kreditů; zbytek musí přijít z uznání.
-- [ ] Forma zkoušky u biofyziky (ústní / písemná / test) a jak se uděluje zápočet z prekliniky
+- [ ] **Poplatky za studium** při dvou souběžných studiích + předchozím neukončeném VL `[⚠️ ověřit]`
+- [ ] **Písemné potvrzení uznání patofyziologie a patologie** do 3. ročníku ZL (farmakologie je podle Tessy jistá)
+- [ ] **Počítají se uznané kredity do 60 za ročník?** Biofyzika (7) + preklinika (9) = 16 vlastních
+- [ ] Forma zkoušky u biofyziky a jak se uděluje zápočet z prekliniky
+- [ ] Kdy a jak ukončit VL, aby nebyly ohrožené doklady o složených zkouškách

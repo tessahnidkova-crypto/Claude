@@ -7,6 +7,8 @@ Zapisuje se přes `/session-close`. Živý rozpracovaný stav sem NEPATŘÍ — 
 
 ## 2026
 
+- 2026-08-08 — Rozhodnuto: nastoupit i na VL jako nástroj — složit farmakologii, patofyziologii a patologii, nechat uznat do 3. ročníku ZL, pak VL ukončit
+- 2026-08-08 — Upřesněno: zkouška, kvůli které skončilo VL, byla patofyziologie (ne farmakologie) — určuje prioritu přípravy v zimě
 - 2026-08-08 — Zpracován oficiální studijní plán ZL do `studijni-plan.md`, zdroj uložen do `Inputs/` — nahrazuje odhady tvrdými daty
 - 2026-08-08 — Zjištěno: biofyzika je LETNÍ předmět a preklinika I nemá zkoušku → v 1. ročníku je jediná zkouška, a to v červnu 2027
 - 2026-08-08 — Zjištěno: biofyzika Zk + preklinika I Z jsou prerekvizity Preklinického ZL II → lehký ročník, ale dva úzké krčky

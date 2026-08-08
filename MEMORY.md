@@ -13,13 +13,23 @@ Formát: krátká odrážka, u měnitelných věcí s datem poslední aktualizac
 
 ## Studium
 
-- Obor: **Zubní lékařství**, LF UK Plzeň — **nastupuje do 1. ročníku** (ak. rok 2026/27)
-- **Předchozí studium: Všeobecné lékařství, tatáž fakulta.** Dokončené 1. a 2. ročník + zkouška z psychologie ve 3. ročníku. Studium ukončeno pro nesplněnou zkoušku ve 3. ročníku.
-- **Uznávání:** předměty shodné mezi VL a ZL se na zubním uznávají. Díky tomu je 1. ročník ZL výrazně odlehčený.
-- **K splnění v 1. ročníku ZL:** biofyzika · preklinické zubní lékařství
-- **Nejbližší termín:** zkouška z **farmakologie v září 2026** (možnost složit a nechat uznat pro ZL) — *přesné datum doplnit*
+- **Cílový obor: Zubní lékařství**, LF UK Plzeň — nastupuje do 1. ročníku (ak. rok 2026/27)
+- **Předchozí studium: Všeobecné lékařství, tatáž fakulta.** Dokončené 1. a 2. ročník + psychologie ve 3. ročníku. Studium ukončeno pro **nesplněnou patofyziologii**.
+- **Uznávání:** shodné předměty z VL se na ZL uznávají → 1. ročník ZL je odlehčený. K splnění zbývá **biofyzika** (letní, zkouška) a **preklinické ZL I** (zápočty, bez zkoušky).
 
-⚠️ Detaily, seznam uznaných předmětů a termíny → `Projekty/Studium/KB.md`
+## ⚠️ Dvě paralelní studia v 2026/27
+
+Tessa je přijatá na obojí. **Všeobecné lékařství nastupuje pouze jako nástroj** — složí si tři zkoušky, které se jí uznají do 3. ročníku zubního, a pak VL ukončí.
+
+| Kdy | Co |
+|---|---|
+| září 2026 | farmakologie (VL) — **nejbližší termín** |
+| zimní semestr | patofyziologie (VL) · preklinika I zápočet (ZL) |
+| letní semestr | patologie (VL) · biofyzika zkouška (ZL) · preklinika I zápočet (ZL) |
+
+⚠️ **Patofyziologie je ta zkouška, kvůli které předtím skončila.** Zaslouží si nejvíc přípravy z celého roku.
+
+⚠️ Detaily, rizika a otevřené otázky → `Projekty/Studium/rok-2026-27.md` a `KB.md`
 
 ## Jak pracujeme
 

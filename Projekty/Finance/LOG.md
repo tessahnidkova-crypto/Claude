@@ -7,4 +7,5 @@ Zapisuje se přes `/session-close`. Živý rozpracovaný stav sem NEPATŘÍ — 
 
 ## 2026
 
+- 2026-08-08 — Otevřeno riziko: poplatky za studium při dvou souběžných studiích na LFP — neověřeno, dotaz na studijní oddělení — viz Projekty/Studium/rok-2026-27.md
 - 2026-08-08 — Projekt založen při stavbě vaultu — viz kořenový README.md
