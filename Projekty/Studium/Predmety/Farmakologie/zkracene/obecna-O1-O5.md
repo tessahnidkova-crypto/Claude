@@ -262,52 +262,107 @@ Registrace **nevyžaduje plné klinické zkoušení** — stačí **studie bioek
 
 # O5 — Způsoby aplikace léčiv, výhody a nevýhody
 
-> ## ⚠️ Tady mají tvoje materiály díru
+> ## ✅ Přepsáno podle podrobné Obecky 2024/2025 (s. 25–26)
 >
-> Vypracovaná otázka na s. 12 je **o generacích lékových forem**, ne o způsobech aplikace a jejich výhodách a nevýhodách — přestože přesně to je v názvu otázky. Kdybys odpověděla jen podle zdroje, u ústní tě zkoušející rovnou zastaví.
->
-> Doplnil jsem proto přehled aplikačních cest a **označil ho `[+]`**. Ověř si ho proti přednáškám.
+> Původní verze vycházela z vypracovaných otázek, kde je pod touhle otázkou **úplně jiná látka** (generace lékových forem). Doplnil jsem ji tehdy z obecných znalostí a **kostru jsem zvolil špatně** — třídil jsem podle jednotlivých cest, zatímco tvůj materiál třídí podle **celkového a lokálního podání**. Přepsáno podle materiálu.
 
 ## Kostra odpovědi
 
-> Co je léková forma → **aplikační cesty a jejich kompromis** → generace lékových forem → dělení podle skupenství
+> Čím je volba cesty určená → **celkové podání: intravaskulární × extravaskulární** → lokální podání → jednotlivé cesty s výhodami a nevýhodami
 
-## `[+]` Způsoby aplikace — jádro otázky
+## Čím je volba cesty určená
 
-**Léková forma** = aplikační forma přípravku, tedy jeho fyzikální, chemická a tvarová charakteristika.
+- Odpovídá **účelu farmakoterapie** a oblasti, **kde má léčivo působit**
+- Závisí na **fyzikálně-chemických vlastnostech** léčiva — a **léková forma jim musí být uzpůsobena**
 
-**Základní dělení:** enterální (přes GIT) × **parenterální** (mimo GIT) × lokální.
+## 1. Celkové (systémové) podání
 
-| Cesta | Výhody | Nevýhody |
+Léčivo je **vstřebáno do oběhu** a krví unášeno do místa účinku. Systémový účinek je jak **terapeutický**, tak **nežádoucí**.
+
+| Skupina | Cesty | Typické použití |
 |---|---|---|
-| **Perorální** | nejpohodlnější, bezpečná, levná, možnost samopodání | **first-pass efekt**, pomalý a kolísavý nástup, nelze u zvracení a bezvědomí, dráždění GIT |
-| **Sublingvální** | **obchází first-pass efekt**, velmi rychlý nástup | jen malé dávky, nutná spolupráce |
-| **Rektální** | obchází část first-pass efektu, lze u zvracení a u dětí | nespolehlivé vstřebávání, hůře přijímané |
-| **Intravenózní** | **100% biologická dostupnost, okamžitý účinek**, možnost titrace | invazivní, nevratná po podání, riziko infekce a embolie |
-| **Intramuskulární** | rychlejší než p.o., možnost **depotních** forem | bolestivé, nevhodné při antikoagulaci |
-| **Subkutánní** | pomalé rovnoměrné vstřebávání, samopodání (inzulin) | malé objemy |
-| **Inhalační** | přímo na cílový orgán, **rychlý nástup, nízká systémová dávka** | vyžaduje nácvik techniky |
-| **Transdermální** | dlouhodobé rovnoměrné uvolňování, obchází first-pass | pomalý nástup, jen silně účinné látky, lokální dráždění |
-| **Lokální** (kožní, oční, nosní) | vysoká koncentrace v místě, minimum systémových účinků | riziko systémového vstřebání při porušené bariéře |
+| **Intravaskulární** | intravenózní | ATB, analgetika, výživa |
+| | **intraarteriální** | trombolytika, kontrastní látky |
+| **Extravaskulární** | perorální · rektální · vaginální · sublinguální · i.m. · s.c. · epidurální · intrathekální · inhalační · transdermální | |
 
-> **Klíčová věta k zapamatování:** perorální podání je nejpohodlnější, ale platí za to **first-pass efektem a kolísavou biologickou dostupností**; intravenózní podání je nejspolehlivější, ale platí za to **nevratností**.
+> ⚠️ Ve tvém materiálu je na s. 25 překlep **„intraAtriální"** — správně je **intraarteriální** (do tepny). Na s. 26 a 75 už je to napsané správně.
 
-## Generace lékových forem *(ze zdroje)*
+## 2. Lokální (místní) podání
 
-| Generace | Co to je | Vlastnosti |
+- Léčivo se aplikuje **na kůži, sliznice nebo do dutin**
+- Cílem je **působení v místě podání**
+- **Průnik do systémové cirkulace je nežádoucí**
+
+---
+
+## Jednotlivé cesty
+
+### Perorální (p.o.)
+
+**Nejčastější a nejoblíbenější.** Kapalné i tuhé lékové formy.
+
+| Výhody | Nevýhody |
+|---|---|
+| **jednoduché podání** | pomalejší nástup účinku |
+| **nejfyziologičtější** | vliv **pH prostředí a enzymatické výbavy** |
+| levná výroba | interakce s potravou |
+| | soutěž o transportní mechanismy |
+| | **FIRST PASS EFEKT** |
+
+### Rektální
+
+**Kde je obtížné perorální podání.** Čípky a klyzmata, celkové i lokální podání.
+
+| Výhody | Nevýhody |
+|---|---|
+| **dobré prokrvení** | absorpce **nekompletní a variabilní** |
+| **část obchází portální řečiště** = menší first-pass efekt než p.o. | |
+| **účinek do 15 minut** | |
+
+### Sublinguální a bukální
+
+⚠️ **Nepolykat.** Tablety, žvýkací tablety, pastilky, lízátka, spreje, bukální filmy a tablety.
+
+- **Pouze silně lipofilní látky**
+- Léčivo se vstřebává **rovnou do systémového oběhu** — krev je odváděna do **horní duté žíly**, takže **není first-pass efekt**
+- **Nástup účinku do 2 minut**
+
+### Intravenózní a intraarteriální
+
+Invazivní metody → **sterilně**. Podávají se sterilní apyrogenní roztoky a mikroemulze.
+
+| Výhody | Nevýhody |
+|---|---|
+| **velmi rychlý průnik do systémové cirkulace** | bolestivé |
+| **účinek do 2 minut** | rizikové |
+| | náročné na provedení |
+
+#### Periferní žilní kanylace
+
+Základní přístup do cévního řečiště — nejčastěji žíla dorza ruky, předloktí, oblast lokte, povodí **v. cephalica** a **v. basilica**.
+
+| Barva | Gauge | Průměr |
 |---|---|---|
-| **I.** | klasické, **neřízené uvolňování** | většina přípravků, levné, rychlý nástup — celý obsah se uvolní naráz |
-| **II.** | **řízené uvolňování** | prodloužené (retardety), urychlené, zpožděné, pulzní |
-| **III.** | **cílená distribuce (targeting)** | pasivní (cytostatika) a aktivní (monoklonální protilátky) |
+| Žlutá | 24 | 0,7 mm |
+| Modrá | 22 | 0,9 mm |
+| Růžová | 20 | 1,1 mm |
+| Zelená | 18 | 1,3 mm |
+| Šedá | 16 | 1,7 mm |
+| Oranžová | 14 | 2,2 mm |
 
-**Systémy řízeného uvolňování:** **rezervoárový** (jádro s léčivou látkou + polymerový obal, který řídí uvolňování rozpuštěním, difuzí nebo osmózou) × **matricový** (bez membrány, látka je rozptýlena v matrici, která se biodegraduje nebo se vyloučí nezměněná).
+> Mnemotechnika na pořadí: **čím tmavší a „vážnější" barva, tím tlustší kanyla.** Oranžová a šedá jsou pro velké objemy a resuscitaci.
 
-**Výhody prodlouženého uvolňování:** menší výkyvy plazmatických koncentrací → méně nežádoucích účinků vázaných na vrcholy → nižší frekvence podávání → **lepší compliance**.
+### Ostatní cesty
 
-⚠️ **Retardované formy se nesmí dělit** — narušil by se mechanismus uvolňování. Dělit lze pouze tablety s **půlicí rýhou**.
+> ⚠️ **Tyhle jsem zatím neověřil proti podrobné Obecce** — jsou na s. 27–28, které jsem ještě nečetl. Zatím platí obecné shrnutí; až se k nim dostanu, doplním jejich znění.
 
-## Dělení podle skupenství a užití
-
-**Podle užití:** vnitřní *ad usum internum* (IPLP **bílá** signatura) × zevní *ad usum externum* (IPLP **červená** signatura).
-
-**Podle skupenství:** pevné (tablety, tobolky, granuláty, čípky, globule) · polotuhé (masti, gely, náplasti) · kapalné (roztoky, kapky, sirupy, injekce, infuze, klyzmata) · transdermální náplasti · plynné (inhalanda).
+| Cesta | Podstata |
+|---|---|
+| **Intramuskulární** | rychlejší než p.o.; možnost depotních forem; bolestivé, riziko nekrózy |
+| **Subkutánní** | pomalá konstantní resorpce; inzuliny, hepariny, vakcíny |
+| **Epidurální** | nad tvrdou plenu, páteřní kanál |
+| **Intrathekální** | subarachnoideálně; obchází hematoencefalickou bariéru |
+| **Inhalační** | absorpce v alveolech, rychlost blízká i.v.; obchází játra |
+| **Intranazální** | obchází first-pass; malá plocha, omezený objem |
+| **Transdermální** | plynulý přívod, obchází first-pass; jen malé lipofilní molekuly |
+| **Intraartikulární · intraoseální · intravitreální** | uvedeny v materiálu, ověřit rozsah |

@@ -160,26 +160,26 @@ Na konci fáze α je **distribuční rovnováha**: koncentrace **volného** lé�
 
 **Vztah k poločasu:** čím větší V_d, tím **delší** biologický poločas eliminace.
 
-## `[+]` Redistribuce — chybí ve zdroji, ale je v názvu otázky
+## Redistribuce
 
-> ⚠️ Ve vypracovaných otázkách **redistribuce vůbec není** — vypadla i z jejich vlastního nadpisu. Přitom je to jeden z nejvděčnějších konceptů celé farmakokinetiky. Doplňuji z obecných znalostí, **ověř proti přednáškám**.
+> ✅ **Ověřeno proti podrobné Obecce 2024/2025, s. 80.** Ve vypracovaných otázkách redistribuce chybí úplně — vypadla i z jejich vlastního nadpisu.
 
-**Redistribuce** = přesun léčiva z **dobře prokrvených orgánů** (mozek, srdce, játra, ledviny), kam se dostane nejdřív, do **méně prokrvených tkání** (sval, tuk).
+**Redistribuce** = **přesun látky z místa účinku na jiné místo**.
 
-**Klíčový důsledek: účinek skončí, aniž by se léčivo vyloučilo.** Léčivo z místa účinku jen odteče jinam.
+**Spolu s eliminačními procesy vede k ukončení účinku léčiva.**
 
-### Klasický příklad — thiopental
+Důležitá je zejména u **vysoce lipofilních léků působících na CNS** po i.v. podání.
+
+### Klasický příklad — thiopental *(celkové anestetikum)*
 
 | Fáze | Co se děje | Čas |
 |---|---|---|
-| Podání i.v. | vysoce lipofilní látka rychle proniká do **mozku** (silně prokrven) | vteřiny → **anestezie** |
-| **Redistribuce** | přesun z mozku do svalu a **tukové tkáně** | 5–10 min → **pacient se probouzí** |
-| Eliminace | metabolismus a exkrece | **hodiny** |
+| Po i.v. podání | **zaplaví nejlépe prokrvované orgány** | c_max v mozku **za 30 s** |
+| **Redistribuce** | vyplavování z mozku, přesun **do svalů, kůže a tuku** | **15–30 min** |
+| Probuzení | | **za 5–20 min** |
 
 > **Otázka, kterou se u stolu doptají:** *„Proč thiopental působí jen pár minut, když má poločas několik hodin?"*
 > **Odpověď: účinek neukončuje eliminace, ale redistribuce.**
-
-Stejně se chová **fentanyl** po jednorázové dávce a **diazepam** podaný i.v.
 
 ### ⚠️ Co se stane při opakovaném podání
 
