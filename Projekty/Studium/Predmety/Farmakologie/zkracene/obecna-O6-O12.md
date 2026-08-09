@@ -218,7 +218,7 @@ Podání ve formě **par nebo aerosolu do plic**, lokálně i systémově.
 
 ---
 
-# O9 — Komunikace s pacientem, adherence, compliance, význam placeba a noceba
+# O9 — Komunikace s pacientem při předepisování léčiv, adherence, compliance, význam placeba a noceba
 
 > ## ⚠️ Tahle otázka ve tvých materiálech prakticky chybí
 >

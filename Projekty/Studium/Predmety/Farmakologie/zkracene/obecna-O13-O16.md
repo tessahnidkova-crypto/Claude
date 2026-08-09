@@ -21,7 +21,7 @@ Zdroj: `Inputs/obecka-vypracovane-otazky.pdf`, s. 29–41 · Zkráceno 2026-08-0
 
 ---
 
-# O13 — Absorpce léčiv, Batemanova funkce, biologická dostupnost a AUC
+# O13 — Absorpce léčiv, Batemanova funkce, biologická dostupnost a její měření, AUC
 
 ## Kostra odpovědi
 
@@ -120,11 +120,11 @@ Podáno **500 mg**, k účinku se dostane **140 mg**:
 
 ---
 
-# O14 — Distribuce léčiv, distribuční objem, vazba na plazmatické bílkoviny, bariéry
+# O14 — Distribuce léčiv, distribuční objem, redistribuce, vazba léčiv na plazmatické bílkoviny, bariéry v organismu
 
 ## Kostra odpovědi
 
-> Co distribuce je → fáze α a β → distribuční objem a čtyři kategorie léčiv → nasycovací dávka → vazba na bílkoviny a její tři důsledky → bariéry
+> Co distribuce je → fáze α a β → distribuční objem a čtyři kategorie léčiv → **redistribuce** → nasycovací dávka → vazba na bílkoviny a její tři důsledky → bariéry
 
 ## Distribuce
 
@@ -159,6 +159,35 @@ Na konci fáze α je **distribuční rovnováha**: koncentrace **volného** lé�
 | ❹ **Kumuluje se ve tkáních** | **> 0,8** | tkáně | **amiodaron**, tricyklická antidepresiva, chlorochin |
 
 **Vztah k poločasu:** čím větší V_d, tím **delší** biologický poločas eliminace.
+
+## `[+]` Redistribuce — chybí ve zdroji, ale je v názvu otázky
+
+> ⚠️ Ve vypracovaných otázkách **redistribuce vůbec není** — vypadla i z jejich vlastního nadpisu. Přitom je to jeden z nejvděčnějších konceptů celé farmakokinetiky. Doplňuji z obecných znalostí, **ověř proti přednáškám**.
+
+**Redistribuce** = přesun léčiva z **dobře prokrvených orgánů** (mozek, srdce, játra, ledviny), kam se dostane nejdřív, do **méně prokrvených tkání** (sval, tuk).
+
+**Klíčový důsledek: účinek skončí, aniž by se léčivo vyloučilo.** Léčivo z místa účinku jen odteče jinam.
+
+### Klasický příklad — thiopental
+
+| Fáze | Co se děje | Čas |
+|---|---|---|
+| Podání i.v. | vysoce lipofilní látka rychle proniká do **mozku** (silně prokrven) | vteřiny → **anestezie** |
+| **Redistribuce** | přesun z mozku do svalu a **tukové tkáně** | 5–10 min → **pacient se probouzí** |
+| Eliminace | metabolismus a exkrece | **hodiny** |
+
+> **Otázka, kterou se u stolu doptají:** *„Proč thiopental působí jen pár minut, když má poločas několik hodin?"*
+> **Odpověď: účinek neukončuje eliminace, ale redistribuce.**
+
+Stejně se chová **fentanyl** po jednorázové dávce a **diazepam** podaný i.v.
+
+### ⚠️ Co se stane při opakovaném podání
+
+Periferní tkáně (sval, tuk) se postupně **nasytí**. Redistribuce už nemá kam odvádět → **účinek se prodlužuje a léčivo kumuluje**.
+
+Prakticky: po jedné dávce thiopentalu se pacient probudí za pár minut, po opakovaných dávkách se probouzí **výrazně déle**. Tuková tkáň zároveň funguje jako **depot**, ze kterého se léčivo pomalu uvolňuje zpět.
+
+> **Souvislost s V_d:** léčiva s vysokým distribučním objemem (kategorie ❹ výše) jsou právě ta, která se výrazně redistribuují do tkání — a proto je u nich neúčinná hemodialýza.
 
 ### Nasycovací dávka
 
@@ -229,6 +258,17 @@ Léčiva **soutěží o stejné vazebné místo**. Vytěsnění zvýší koncent
 ## Kostra odpovědi
 
 > Dvě cesty eliminace → pravidlo pěti poločasů → clearance jako rychlost eliminace → orgánová clearance a extrakční poměr → co clearance ovlivňuje
+
+## `[+]` Fáze α a β — jsou v názvu otázky
+
+Podrobně jsou rozebrané u O14, ale **u ústní části je zmiň i tady**, protože je zkoušející čeká:
+
+| Fáze | Co dominuje | Jak vypadá křivka |
+|---|---|---|
+| **α — distribuční** | přesun léčiva **do tkání** | rychlý počáteční pokles plazmatické koncentrace |
+| **β — eliminační** | **metabolismus a exkrece** | pomalejší pokles; z tkání se léčivo vrací do krve |
+
+⚠️ **Biologický poločas eliminace se odečítá z fáze β**, ne z fáze α. Strmý pokles na začátku není eliminace, ale distribuce.
 
 ## Eliminace — dvě cesty
 
@@ -331,6 +371,16 @@ Když **interval mezi dávkami nestačí k úplné eliminaci**, každá další 
 | **τ > t₁/₂** | **nízká** |
 
 > Jednoduše: **čím častěji dávkuješ vzhledem k poločasu, tím víc se léčivo hromadí.**
+
+### `[+]` Kumulační index
+
+⚠️ Ve zdroji je **kumulační index jen v nadpisu, v textu není definovaný.** Doplňuji, `[⚠️ ověřit proti přednáškám]`.
+
+**Kumulační index** = číslo, které říká, **kolikrát vyšší je koncentrace v ustáleném stavu než po první dávce**. Vyjadřuje míru kumulace.
+
+Odpovídá tabulce výše: při `τ = t₁/₂` je kumulační index přibližně **2**, při `τ < t₁/₂` je **vyšší než 2**, při `τ > t₁/₂` se blíží **1** (léčivo se prakticky nekumuluje).
+
+> U zkoušky stačí říct, co to je a jak souvisí s poměrem dávkovacího intervalu a poločasu. Vzorec po tobě nejspíš chtít nebudou — ale kdyby ano, vychází z toho, jaká část dávky zbude v těle před podáním další.
 
 ## ⚠️ Co je jinak u kinetiky 0. řádu
 
