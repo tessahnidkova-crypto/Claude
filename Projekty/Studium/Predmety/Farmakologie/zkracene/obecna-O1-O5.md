@@ -60,7 +60,15 @@ Všechno ostatní je ze tvého zdroje, jen zhuštěné.
 
 **Český lékopis** = základní farmaceutické dílo **normativního charakteru s celostátní závazností**. Připravuje lékopisná komise, vydává **ministerstvo zdravotnictví**, přebírá z Evropského lékopisu. Stanovuje postupy výroby, zkoušení, uchovávání a dávkování léčiv.
 
-**Léčiva podle vztahu k lékopisu:** oficiální (uvedena) · neoficiální (neuvedena, ale používaná) · **obsolentní** (zastaralá, vyřazená).
+**Léčiva podle vztahu k lékopisu:**
+
+| Termín | Význam |
+|---|---|
+| **Oficinální** | uvedená v lékopisu (z lat. *officina* = lékárna) |
+| **Neoficinální** | v lékopisu nejsou, v praxi se používat mohou |
+| **Obsoletní** | zastaralá, vyřazená z platného lékopisu |
+
+> ⚠️ **Pozor na pravopis:** ve tvých vypracovaných otázkách je chybně „oficiální" a „obsolentní". Správně je **oficinální** a **obsoletní**. „Oficiální" je úplně jiné slovo a u zkoušky to zazní jako neznalost termínu.
 
 ### Národní část — tabulky *(nejčastěji zkoušená část)*
 
