@@ -220,62 +220,79 @@ Podání ve formě **par nebo aerosolu do plic**, lokálně i systémově.
 
 # O9 — Komunikace s pacientem při předepisování léčiv, adherence, compliance, význam placeba a noceba
 
-> ## ⚠️ Tahle otázka ve tvých materiálech prakticky chybí
+> ## ✅ Přepsáno podle podrobné Obecky 2024/2025
 >
-> Na s. 23 je jen definice compliance a seznam faktorů — pak už jen „xx" a odkaz „str. 62". **Adherence, komunikace s pacientem, placebo ani nocebo tam nejsou vůbec**, přestože jsou v názvu otázky.
->
-> Napsal jsem ji proto téměř celou `[+]`. **Ověř proti přednáškám.**
+> Původní verze vycházela z vypracovaných otázek, kde je tahle otázka prakticky prázdná, a doplnil jsem ji z obecných znalostí. **Ta verze si s tvým materiálem odporovala** — rozlišoval jsem compliance, adherenci a konkordanci jako tři různé úrovně. **Tvůj materiál říká něco jiného a platí on.**
 
 ## Kostra odpovědi
 
-> Tři pojmy a posun mezi nimi (compliance → adherence → konkordance) → co compliance ovlivňuje → důsledky nespolupráce → jak ji zlepšit → placebo a nocebo
+> Kdo a jak předepisuje → co pacientovi vysvětlit → compliance a adherence → na čem compliance závisí a jak ji zlepšit → placebo → nocebo
 
-## Tři pojmy — na jejich rozlišení otázka stojí
+## Předepisování a komunikace
 
-| Pojem | Význam | Role pacienta |
-|---|---|---|
-| **Compliance** | ochota a schopnost pacienta **dodržovat** terapeutický režim | pasivní — pacient poslouchá `[zdroj]` |
-| **Adherence** `[+]` | míra, v jaké chování pacienta odpovídá **společně dohodnutému** doporučení | aktivní — pacient souhlasil |
-| **Konkordance** `[+]` | partnerský vztah, v němž se lékař a pacient na léčbě **dohodnou** včetně pacientových preferencí | rovnocenná |
+Předepisování upravuje **vyhláška č. 329/2019 Sb.** Léčivé přípravky předepisují **podle své odbornosti** lékaři, **stomatologové** a veterinární lékaři, v listinné nebo elektronické podobě.
 
-> **Posun od compliance k adherenci není jen slovíčkaření** — přenáší odpovědnost z „neposlušného pacienta" na kvalitu dohody. To je přesně věta, kterou zkoušející chce slyšet.
+*(Podrobnosti o receptu, žádance a poukazu jsou v O3 — tady je zmiň jen v přehledu.)*
 
-**Non-compliance** = nespolupracující pacient.
+**E-recept pacient získá jako** papírovou průvodku · e-mail · aplikaci · SMS.
+⚠️ **Formu je nutné zvolit podle pacienta** — u seniora papírová průvodka, ne SMS. Tohle je jádro „komunikace" v téhle otázce.
 
-## Co compliance ovlivňuje *(ze zdroje)*
+**Co pacientovi vždy vysvětlit:**
+- **lékovou formu** — děti sirupy, senioři tablety
+- způsob podávání a **dávkování**
+- případné **lékové interakce**
+- případný **doplatek**
+- **všechny následky nedodržení terapie**
 
-- **počet léčiv** a složitost režimu
-- **délka léčby** — čím delší, tím horší
-- **nežádoucí účinky**
-- **věk** pacienta
-- **mentální stav** a spolupráce rodiny
-- **cena** léku
+## Compliance a adherence
 
-`[+]` Dále: **bezpříznaková onemocnění** (hypertenze, hyperlipidemie — pacient nic necítí, tak lék vysadí) · nedostatečné pochopení smyslu léčby · nedůvěra k lékaři.
+> ⚠️ **Podle tvého materiálu jsou to pojmy rovnocenné.** Compliance se nahrazuje pojmem **adherence**, který jen víc zdůrazňuje **podíl zodpovědnosti pacienta**. Neprezentuj je jako dva různé jevy.
 
-## `[+]` Důsledky nespolupráce
+**Definice:** ochota a schopnost pacienta **dodržovat terapeutický režim** — do jaké míry udržuje pokyny pro užívání léčiv.
 
-Selhání léčby · zbytečná eskalace dávek a záměna za silnější léky · **rozvoj rezistence u antibiotik** · zbytečné hospitalizace a náklady · mylný závěr, že léčivo nefunguje.
+**Na čem záleží:**
+- **fyzické a duševní schopnosti** pacienta
+- zdravotní stav
+- **ochota a vůle se podřídit**
+- **počet užívaných přípravků** a dávkování současně podávaných léčiv *(má být průběžně kontrolováno, pozor na interakce)*
+- povaha terapie — složitost režimu, nežádoucí účinky, subjektivní účinek
+- **i povaha onemocnění**
 
-## `[+]` Jak compliance zlepšit
+**Revize při každé změně terapie.**
 
-1. **Zjednodušit režim** — méně léků, méně dávek denně, fixní kombinace
-2. **Vysvětlit smysl** léčby a co se stane bez ní
-3. **Předem pojmenovat nežádoucí účinky** — pacient, který o nich ví, lék nevysadí při prvním projevu
-4. **Ověřit porozumění** — nechat pacienta zopakovat vlastními slovy
-5. **Písemný plán**, dávkovače, připomínky
-6. **Zapojit rodinu**, zejména u seniorů
+**Jak compliance zlepšit:**
+1. **Nejjednodušší možný terapeutický režim**
+2. **Informovat rodinu** pacienta o režimu
+3. **Diskuse a promlouvání s pacientem, možnost volby**
 
-## `[+]` Placebo a nocebo
+## Placebo
 
-**Placebo** = přípravek bez farmakologicky účinné látky. **Placebový efekt** = zlepšení stavu na základě **očekávání** pacienta a podmiňování, nikoli farmakologického působení.
+**Definice:** neúčinná látka **upravená do stejné formy jako lék** — vzhledem i chutí.
+Název je odvozen z latinského ***placeo* = líbit se**.
 
-**Nocebo** = zrcadlový jev — **negativní očekávání vyvolá nežádoucí účinky**, i když pacient dostal neúčinnou látku.
+**Použití:** ve **III. fázi klinických studií** — srovnání placeba a nové účinné látky.
 
-**Proč na tom záleží klinicky:**
-- Placebová složka je přítomná **u každé léčby**, i té účinné — proto se v klinickém hodnocení srovnává s placebem a **zaslepuje** (viz O4)
-- **Nocebo efekt je důvod, proč záleží na tom, jak lékař o nežádoucích účincích mluví.** Zdůrazňování rizik zvyšuje jejich výskyt.
-- Podání placeba **bez vědomí pacienta je eticky problematické** — narušuje důvěru a informovaný souhlas
+**Placebo má prokazatelně pozitivní dopad na zdraví pacienta:**
+- působí **psychika** — pacient se domnívá, že je léčen
+- **zklidnění může způsobit reálné zlepšení** zdravotního stavu
+
+**Účinek je individuální a liší se podle typu nemoci:**
+
+| Funguje dobře | Funguje minimálně |
+|---|---|
+| **bolest, deprese** | **nádorová onemocnění** |
+
+## Nocebo
+
+**Definice:** projevuje se, když pacient **očekává, že léčba nebo její způsob jeho stav zhorší** — a v důsledku toho očekávání se stav **skutečně zhorší**. Je to **opačný efekt než placebo**.
+
+**Kdy vzniká:**
+- po podání neutrálně působící látky je pacientovi **oznámeno, že se projeví vedlejší účinky**
+- je-li mu oznámena **vysoká cena léčby**
+
+**Širší význam pojmu:** selhání léku, do něhož pacient vkládal velké naděje — očekávaný léčebný efekt se nedostaví a **naopak se objeví nežádoucí účinky**.
+
+> **Praktický důsledek pro komunikaci:** způsob, jakým lékař o nežádoucích účincích a ceně mluví, sám ovlivňuje, jestli se objeví. To je most mezi první a poslední částí téhle otázky.
 
 ---
 
