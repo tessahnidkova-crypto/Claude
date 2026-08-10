@@ -1,7 +1,8 @@
 # Farmakologie — zkrácené otázky · Obecná O17–O20
 
-Zdroj: `Inputs/obecka-vypracovane-otazky.pdf`, s. 42–48 · Zkráceno 2026-08-08
-⚠️ Zatím **neověřeno** proti podrobné Obecce 2024/2025 — ta má tyhle otázky na s. 86–93.
+Zdroj: `Inputs/obecka-vypracovane-otazky.pdf` + **`obecka-podrobna-cast2.pdf`, s. 1–14**
+✅ **`O17` a `O18` ověřeny a doplněny podle podrobné Obecky 2024/2025.**
+⚠️ `O19` a `O20` zatím neověřeny — jsou v části 2 na s. 7–14.
 
 **Značky:** `[+]` = doplněno mnou · `[⚠️ ověřit]` = nejistota
 
@@ -20,6 +21,8 @@ Zdroj: `Inputs/obecka-vypracovane-otazky.pdf`, s. 42–48 · Zkráceno 2026-08-0
 > | agnoista | **agonista** |
 > | ⍺-amantin | **α-amanitin** |
 > | aminoglykozidová | **aminoglykosidová** |
+> | Diazen | **diazepam** |
+> | „Dehydrogenace – Ethanol (AlkoholReduktázy)" | **alkoholdehydrogenáza** |
 
 ---
 
@@ -38,7 +41,7 @@ Většina **xenobiotik** (cizorodých látek) včetně léčiv je po vstupu do o
 | Osud | Co se děje | Příklad |
 |---|---|---|
 | **Bioaktivace proléčiva** | neúčinná látka se metabolismem stane účinnou; původní forma = **proléčivo (prodrug)** | **kodein → morfin** |
-| **Přeměna na toxickou látku** | účinná látka se bioaktivací změní na toxickou | **cyklofosfamid → akrolein** · paracetamol (nefrotoxicita) |
+| **Přeměna na toxickou látku** | účinná látka se bioaktivací změní na toxickou | **cyklofosfamid → akrolein** · **paracetamol → NAPQI** |
 | **Ztráta účinnosti** | přeměna na neúčinný nebo méně účinný metabolit | **first-pass efekt** |
 | **Vyloučení beze změny** | léčivo biotransformaci nepodléhá, odchází močí nezměněné | **lithium, gentamicin** |
 
@@ -51,7 +54,10 @@ Většina **xenobiotik** (cizorodých látek) včetně léčiv je po vstupu do o
 
 ## 1. fáze — reakce funkcionalizační
 
-Molekula se obvykle stává **rozpustnější ve vodě** (neplatí vždy) a může dál podléhat 2. fázi.
+> ✅ **Doplněno podle podrobné Obecky — tohle je definice, kterou jsem předtím neměl:**
+> **Cílem I. fáze je vytvořit ve struktuře látky volnou polární funkční skupinu** — **`-OH`, `-SH`, `-NH₂`, `-COOH`**.
+
+Molekula se tím obvykle stává **rozpustnější ve vodě** (neplatí vždy) a může dál podléhat 2. fázi.
 
 ### Katalyzované cytochromem P450 (jaterní monooxygenázový systém)
 
@@ -72,6 +78,15 @@ Molekula se obvykle stává **rozpustnější ve vodě** (neplatí vždy) a mů�
 | Redukce | chloramfenikol, naloxon, dantrolen |
 | **Hydrolýza esterů** | prokain, kyselina acetylsalicylová, klofibrát |
 | **Hydrolýza amidů** | **prokainamid, lidokain**, indometacin |
+
+### `✅` Redukce — redukční dehalogenace
+
+**Hlavní cesta metabolismu chlorovaných uhlovodíků.** Vznikají při ní **reaktivní sloučeniny** — volné radikály a **fosgen** (bojový plyn) → **hepatotoxicita**.
+
+| Anestetikum | Metabolismus | Hepatotoxicita |
+|---|---|---|
+| **Halotan** *(dříve užívané)* | **redukční dehalogenace** | **ano** |
+| **Sevofluran, desfluran, izofluran** *(moderní)* | **oxidační reakce** | **minimální** |
 
 ## 2. fáze — konjugační
 
@@ -98,6 +113,31 @@ Závisí na **cestě podání** a na **aktivitě enzymů**.
 
 Po perorálním podání může být léčivo aktivováno i biodegradováno **už při průchodu střevní sliznicí**. Nejvýznamnější je ale **jaterní metabolismus**: vstřebání do portálního oběhu → **extrakce játry** → do systémového řečiště se dostane jen část dávky = **biologická dostupnost**.
 
+## `✅` Kdy neplatí pořadí I. → II. fáze
+
+> Tuhle sekci jsem předtím vůbec neměl a je to vděčná otázka na doptání.
+
+**Molekuly, které volnou funkční skupinu ve své struktuře už obsahují, podléhají rovnou II. fázi.** Klasický příklad: **paracetamol**.
+
+### ⚠️ Paracetamol — nejlepší příklad celé otázky
+
+| Cesta | Podíl | Co vznikne |
+|---|---|---|
+| **Glukuronidace a sulfatace** | většina | neškodné konjugáty — **hlavní cesty metabolismu a detoxikace** |
+| **Oxidace** | **~10 %** | **NAPQI** (N-acetyl-p-chinonimin) — **toxický** |
+
+**NAPQI se váže kovalentně v játrech a ledvinách.** Za normálních okolností je detoxikován **konjugací s glutathionem**.
+
+**Kdy dojde k poškození jater a ledvin:**
+- **nedostatek glutathionu**
+- **vyšší dávky paracetamolu**
+- **indukce enzymů tvořících NAPQI — často ethanolem**
+
+**Prevence:** dodržet **denní dávku paracetamolu 3 g**.
+
+> ### **Antidotum: N-acetylcystein — prekurzor glutathionu.**
+> Tohle je jedna z nejvděčnějších vět v celé obecné farmakologii. Spojuje mechanismus, toxicitu i léčbu do jedné logické linie.
+
 ---
 
 # O18 — Úloha jater v eliminaci léčiv, first-pass efekt
@@ -118,6 +158,20 @@ Podílejí se na ní enzymy **střevní sliznice i hepatocytů**.
 
 **Léčiva s výrazným first-pass efektem:** **morfin · pethidin · salbutamol · verapamil · nitroglycerin**
 
+## `✅` Extrakce játry — tři kategorie
+
+> Doplněno podle podrobné Obecky. **Klasická otázka, kterou jsem předtím neměl vůbec.**
+
+**Faktory jaterní eliminace:** velikost jater · **jaterní clearance**
+
+| Extrakce | Co to znamená | Zástupci |
+|---|---|---|
+| **Nízká** | nejsou efektivně odstraněny | **diazepam, fenytoin, warfarin** |
+| **Střední** | **nejméně častá skupina** | kyselina acetylsalicylová |
+| **Vysoká** | **rychle a extenzivně metabolizovány játry** | **verapamil, lidokain, morfin, propranolol** |
+
+> **Propojení, které stojí za vyslovení:** léčiva s **vysokou** jaterní extrakcí mají velký first-pass efekt — a právě u nich **při jaterním onemocnění nejvíc stoupne biologická dostupnost** (viz O24).
+
 ## Dva póly hepatocytu
 
 | Pól | Prostupnost | Transport |
@@ -128,6 +182,23 @@ Podílejí se na ní enzymy **střevní sliznice i hepatocytů**.
 **Cesta přes sinusoidální pól:** hepatocyt → sinusoidy → jaterní žíly → **VCI** → systémový oběh → **ledviny** → moč
 
 **Cesta přes žlučový pól:** hepatocyt → žluč → **duodenum a tenké střevo** → stolice, **nebo enterohepatální cirkulace**
+
+### `✅` Enterohepatální cirkulace — doplnění
+
+Perorální podání → absorpce ze střeva → portální krví do jater → **konjugace s kyselinou glukuronovou** → přechod do žluči → zpět do střeva → **bakteriální β-glukuronidázy v tlustém střevě konjugát štěpí** → reabsorpce.
+
+⚠️ **Rozhodující je molekulová hmotnost konjugátu:**
+
+| Hmotnost | Kam jde |
+|---|---|
+| **MH < 300** | **přednostně do krve** → glomerulární filtrace → moč |
+| **MH > 300** | **do žluči** |
+
+**Význam pro homeostázu endogenních látek:** žlučové kyseliny, **vitaminy D₃ a B₁₂**, kyselina listová, estrogeny.
+
+**Hepatobiliární exkrece** je významná pro **amfifilní látky** — mají lipofilní část i skupinu s elektrickým nábojem (**bilirubin**).
+
+⚠️ **Antibiotická léčba mění střevní mikroflóru** → snižuje schopnost dekonjugace → **snížení plazmatických koncentrací** (mykofenolát).
 
 ## Klinický příklad — morfin
 
