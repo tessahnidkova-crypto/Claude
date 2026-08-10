@@ -96,7 +96,21 @@ Tuhé mechanicky pevné výlisky z tabletoviny. **Ne všechny lze půlit** — j
 
 **Léčivé žvýkací gumy:** lokálně i systémově — např. **Nicorette** (substituce nikotinu), Travel-Gum (antihistaminikum proti kinetózám).
 
-> **Vypustil jsem:** podrobný výčet tradičních tinktur a aromatických vod, 8 velikostí tvrdých tobolek, detaily hodnocení enterosolventních tablet. Na zkoušce stačí princip a jeden příklad.
+### `✅` Enterosolventní tablety — hodnocení, které zdroj uvádí
+
+> **Vydrží 2 hodiny v HCl o koncentraci 0,1 mol/l, a poté se do 1 hodiny rozpadnou v tlumivém roztoku o pH 6,8.**
+>
+> Tahle dvojice čísel je konkrétní a snadno zapamatovatelná — přesně to, čím se dá odpověď podepřít. **Příklad: Pancreolan Forte.**
+
+Připravují se ze **zrněných prášků s částicemi již potaženými** acidorezistentním obalem, nebo **potažením hotové tablety**.
+
+### `✅` Kódy lékových forem, jak je má zdroj
+
+**POR TBL NOB** neobalené · **TBL MFL** obalené · **TBL EFF** šumivé · **POR TBL SOL** pro přípravu roztoku · **TBL DIS** pro disperzi · **POR TBL SUS** dispergovatelné v ústech · **TBL ENT** enterosolventní · **POR TBL RET** s řízeným uvolňováním (*cum liberatione modificata*) · **TBL ORM** působící v dutině ústní (*tabulettae orales*)
+
+> ⚠️ **U obalovaných tablet zdroj mluví o „tabletách 2. generace"** a u konvenčních o „1. generaci" — je to stejné dělení jako u lékových forem v O5. **Propoj to nahlas**, dělá to dobrý dojem.
+
+> **Vypustil jsem:** podrobný výčet tradičních aromatických vod a 8 velikostí tvrdých tobolek. Na zkoušce stačí princip a jeden příklad.
 
 ---
 
