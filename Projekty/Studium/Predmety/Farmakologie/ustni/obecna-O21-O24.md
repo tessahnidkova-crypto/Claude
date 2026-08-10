@@ -21,14 +21,7 @@
 
 Vycházejí z **fyzikálně-chemických vlastností**, ne z vazby na cíl.
 
-| Mechanismus | Příklady |
-|---|---|
-| **Osmotická aktivita** | **manitol** · laktulóza, sorbitol, MgSO₄ · **plazmaexpandery** |
-| **Acidobazická rovnováha** | **antacida** (NaHCO₃, Al(OH)₃, Mg(OH)₂, CaCO₃) |
-| **Denaturace proteinů** | **adstringencia** (sloučeniny Al a Zn, AgNO₃) |
-| **Adsorpce** | **aktivní uhlí**, cholestyramin |
-| **Oxidoredukce** | dezinficiencia a antiseptika (KMnO₄, H₂O₂, povidon-jod) |
-| **Tvorba komplexů** | **antidota — dimerkaprol** |
+**Osmotická aktivita** — **manitol**, laktulóza, **plazmaexpandery** · **acidobazická rovnováha** — **antacida** (NaHCO₃, Al(OH)₃, CaCO₃) · **denaturace proteinů** — **adstringencia** (sloučeniny Al a Zn, AgNO₃) · **adsorpce** — **aktivní uhlí**, cholestyramin · **oxidoredukce** — antiseptika (KMnO₄, H₂O₂, povidon-jod) · **tvorba komplexů** — **antidota (dimerkaprol)**
 
 **Specifické mechanismy** — stačí **nízká efektivní koncentrace**, protože struktura léčiva vyhovuje cílové molekule.
 
@@ -111,12 +104,7 @@ A + R  ↔  AR  ↔  AR*  →  signál  →  účinek
 
 Molekula má **tři části**: vážící ligand · vážící **DNA** · řídící transkripci. ⚠️ **Asi 10 % ligandů jsou xenobiotika** — tohle je molekulární podstata **enzymové indukce**.
 
-| Zkratka | Receptor | Ligand |
-|---|---|---|
-| **GR / MR** | gluko- / mineralokortikoidní | **kortizol / aldosteron** |
-| **AR / PR / ER** | androgenní / progesteronový / estrogenní | **testosteron / progesteron / estradiol** |
-| **VDR / TR** | vitamin D₃ / thyroidní | **kalcitriol / trijodthyronin** |
-| **PXR** | pregnanový X | **steroidy a léčiva** — receptor xenobiotik |
+**GR** kortizol · **MR** aldosteron · **AR** testosteron · **PR** progesteron · **ER** estradiol · **VDR** kalcitriol · **TR** trijodthyronin · **PXR** steroidy a léčiva (**receptor xenobiotik**)
 
 ## Druzí poslové
 
