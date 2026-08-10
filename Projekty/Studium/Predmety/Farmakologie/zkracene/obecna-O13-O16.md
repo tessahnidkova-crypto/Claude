@@ -377,6 +377,8 @@ Ze znalosti celkové clearance a cílové terapeutické koncentrace se tedy **vy
 
 **Společný princip:** po zahájení podávání koncentrace stoupá a **současně přímo úměrně stoupá i rychlost eliminace**. Faktorem úměrnosti je **celková clearance**.
 
+> `✅` **CL_celková = CL_hepatická + CL_renální + CL_pulmonální + CL_ostatní**
+
 ## Kontinuální podávání a steady state
 
 Nárůst koncentrace se **postupně zpomaluje**, protože se zmenšuje rozdíl mezi rychlostí přísunu a rychlostí eliminace. Nakonec se vyrovnají → **ustálený stav (steady state)**.
@@ -424,3 +426,39 @@ U saturační kinetiky **ustálená koncentrace NENÍ přímo úměrná rychlost
 - Ustálení nastává **až za delší dobu**
 
 > ⚠️ **Rychlost dávkování nesmí být vyšší než V_max.** Jinak koncentrace neustále roste, ustálený stav nikdy nenastane a dojde k **intoxikaci**.
+
+## ⚠️ `✅` Farmakokinetické modelování a TDM — chybělo mi celé
+
+> **K čemu to celé je:** dávkovací režim se nenavrhuje od stolu, ale **spočítá se z naměřených hladin**. Tohle je odpověď na otázku „a jak se to dělá v praxi".
+
+### Kompartmentové modelování
+
+Když jsou známé hodnoty farmakokinetických parametrů, dá se pomocí zvoleného **kompartmentového modelu** predikovat průběh koncentrace **pro různá dávkování** — a pro konkrétního pacienta navrhnout režim, který drží křivku **uvnitř farmakoterapeutického okna (TD50 – ED50)**.
+
+**To je podstata individualizace farmakoterapie a součást TDM** (*terapeutického monitorování léčiv*).
+
+*Příklad ze zdroje:* plazmatické koncentrace **vankomycinu** podávaného i.v. infuzí, proložené **dvoukompartmentovým modelem** nelineární regresní analýzou metodou nejmenších čtverců.
+
+### Nekompartmentová analýza
+
+**Nevychází z kompartmentových modelů** — nepoužívá jejich rovnice. Analyzuje závislost koncentrace na čase přímo:
+
+- **AUC se počítá lichoběžníkovou metodou**
+- **t₁/₂ lineární regresní analýzou**
+
+> ⚠️ **Intenzita účinku je lépe určena plazmatickou koncentrací léčiva než podanou dávkou.** To je věta, která celou otázku odůvodňuje.
+
+### ⚠️ Terapeuticky monitorovaná léčiva — naučit se zpaměti
+
+| Skupina | Zástupci |
+|---|---|
+| **Imunosupresiva** | **cyklosporin, takrolimus** |
+| **Kardiovaskulární** | **digoxin** |
+| **Respirační** | **teofylin** |
+| **CNS** | **lithium, fenytoin** |
+| **Antibakteriální** | **aminoglykosidy** |
+| **Protinádorová** | **methotrexát** |
+
+> **Všechna mají něco společného: úzké terapeutické okno.** Když si na to vzpomeneš, vyjmenuješ je i bez memorování — a zároveň to propojíš s **terapeutickým indexem z O23** (TI ≥ 2,5 = použitelné jen za monitorování).
+>
+> ⚠️ **Fenytoin je tu podruhé** — má nejen úzké okno, ale i **saturační kinetiku** (O12). To je nejlepší jediný příklad, na kterém se dá ukázat, proč se hladiny vůbec měří.
