@@ -403,15 +403,52 @@ Příliš hydrofilní látka do membrány nevstoupí, příliš lipofilní se v 
 
 # O11 — Základní farmakokinetické parametry a procesy
 
+✅ **Ověřeno a doplněno podle podrobné Obecky (s. 60–67) dne 2026-08-10.**
+
 ## Kostra odpovědi
 
-> Co farmakokinetika řeší → ADME → tabulka parametrů se symbolem a významem → proč stačí měřit plazmatickou koncentraci
+> Co farmakokinetika řeší → **klinická farmakokinetika a interindividuální variabilita** → ADME → ⚠️ **primární × sekundární parametry** → tabulka parametrů se symbolem a významem → proč stačí měřit plazmatickou koncentraci
 
 ## Rámec
 
 **Farmakokinetika** studuje děje ovlivňující **přítomnost léčiva v organismu v čase** — od podání po vyloučení. Odpovídá na otázku **„Co dělá organismus s léčivem?"**
 
 **Základní děje — ADME:** **A**bsorpce · **D**istribuce · **M**etabolismus · **E**xkrece
+*(Podrobně: absorpce O13 · distribuce O14 · metabolismus O17 · exkrece O20.)*
+
+## `✅` Klinická farmakokinetika
+
+> **Zabývá se interindividuální variabilitou koncentrací léčiv a jejich metabolitů v organismu.**
+
+**Osm faktorů, které variabilitu způsobují:** **věk** · **pohlaví** · tělesná konstituce · **genetický polymorfismus** · **onemocnění jater a ledvin** · kardiovaskulární onemocnění · **lékové interakce** · **interakce léčiv s potravou**
+
+**Vede to ke dvěma věcem:** **individualizaci farmakoterapie** a **terapeutickému monitorování hladiny léčiva v séru (TDM)** s následnou úpravou dávkování.
+
+## ⚠️ `✅` Primární × sekundární parametry — tenhle rozdíl mi chyběl
+
+> **Rozdělení, které katedra uvádí a na které se dá dobře doptat.** Logika je jednoduchá: **primární parametry se mění, když se změní fyziologie. Sekundární se z nich počítají.**
+
+### Primární — přímo závislé na změnách fyziologických parametrů
+
+| Parametr | Na čem závisí |
+|---|---|
+| **Rychlostní konstanta absorpce `k_a`** | **průtok krve v místě absorpce**, **motilita GIT** |
+| **Zdánlivý distribuční objem `V_d`** | **velikost a složení těla**, **vazba na plazmatické bílkoviny** |
+| **Renální a jaterní clearance `CL`** | **průtok ledvinami/játry** · vazba na plazmatické bílkoviny · **tvorba moči** · **pH moči** · **hepatocelulární aktivita** |
+
+### Sekundární — závisí na primárních
+
+**Biologický poločas eliminace `t₁/₂`** · **biologická dostupnost** (absolutní i relativní) · **AUC** · **podíl léčiva vyloučeného v nezměněné formě do moči**
+
+> ### Dvě definice, které stojí za doslovné zapamatování
+> **Clearance = objem plazmy očištěný od léčiva za jednotku času.**
+>
+> **Distribuční objem `V_d` = zdánlivý objem krve, který by byl potřeba, aby v něm dané množství látky dosáhlo stejné koncentrace jako v krvi.**
+> - ⚠️ **Vyšší V_d = látka je více distribuována do tkání**
+> - ⚠️ **Významný především pro odhad nárazové (saturační) dávky**
+
+**Absolutní biologická dostupnost** se zjišťuje **porovnáním AUC po podání dvěma cestami** — jednou v testované lékové formě, podruhé **intravenózně**.
+**AUC** je **přímo úměrná celkovému množství léčiva v plazmatickém kompartmentu**.
 
 ## Farmakokinetické parametry *(nejdůležitější tabulka celé otázky)*
 
