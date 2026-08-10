@@ -398,15 +398,29 @@ Koncentrace léčiva v systémové cirkulaci je v **distribuční rovnováze** s
 
 # O12 — Farmakokinetické procesy nultého a prvního řádu, saturační kinetika
 
+✅ **Ověřeno a doplněno podle podrobné Obecky (s. 68–70) dne 2026-08-10.**
+
 ## Kostra odpovědi
 
-> Postavit obě kinetiky proti sobě → co dělá AUC v každé z nich → proč je kinetika 0. řádu nebezpečná → příklady
+> **Položit dvě otázky, které zdroj používá jako rozcestník** → postavit obě kinetiky proti sobě → co dělá AUC v každé z nich → proč je kinetika 0. řádu nebezpečná → saturační kinetika → poločas a pravidlo 5 poločasů
+
+## `✅` Dvě otázky, kterými zdroj otázku otevírá — použij je taky
+
+> **1) Odstraňují eliminační orgány léčivo stejně efektivně při nízkých i vysokých koncentracích?**
+> **2) Je kapacita orgánů limitována a má rychlost eliminace nepřekročitelné maximum?**
+>
+> | Odpovědi | Druh kinetiky |
+> |---|---|
+> | **1) ANO · 2) NE** | **kinetika 1. řádu** — lineární farmakokinetika |
+> | **1) NE · 2) ANO** | **kinetika 0. řádu** — nelineární farmakokinetika |
+>
+> Je to nejelegantnější způsob, jak celou otázku otevřít — ukážeš, že rozumíš principu, ne že si pamatuješ tabulku.
 
 ## Srovnání — tohle je celá otázka
 
 | | **Kinetika 1. řádu** (lineární) | **Kinetika 0. řádu** (nelineární, **saturační**) |
 |---|---|---|
-| **Kapacita eliminace** | dostatečná při nízkých i vysokých koncentracích | **limitovaná, má překročitelné maximum** |
+| **Kapacita eliminace** | dostatečná při nízkých i vysokých koncentracích | **limitovaná, má nepřekročitelné maximum** |
 | **Co je konstantní** | **podíl** léčiva odstraněný za čas | **množství** odstraněné za čas |
 | **Průběh poklesu** | exponenciální | **lineární — přímka** |
 | **Poločas t₁/₂** | **konstantní**, nezávislý na dávce | **není konstantní**, prodlužuje se s dávkou |
@@ -427,10 +441,53 @@ Kapacita orgánů eliminovat léčivo je **vyčerpaná (saturovaná)**. Rychlost
 
 Při stálém přívodu léčiva se saturovatelnou eliminací **přívod převýší maximální rychlost eliminace** → léčivo se hromadí → **intoxikace**.
 
-**Zapamatuj si zástupce:** **etanol · salicyláty · teofylin · fenytoin** `[+ fenytoin — klasický příklad, ve zdroji chybí, ověř]` · omeprazol
+> ⚠️ **Pozor na formulaci, kterou má zdroj a která zní protismyslně:** *„rychlost snižování koncentrace se s časem od podání nemění"*. Znamená to, že za jednotku času ubývá **stále stejné množství** léčiva — proto je pokles **přímka**, ne exponenciála. Pokles koncentrace i celková doba eliminace jsou **úměrné dávce a počáteční koncentraci**.
+
+**`✅` Zástupci podle podrobné Obecky:** **salicyláty · teofylin · omeprazol · ethanol**
+
+> ⚠️ **Fenytoin** je klasický učebnicový příklad saturační kinetiky `[obecné znalosti]`, ale **podrobná Obecka ho v tomhle výčtu neuvádí** — zdroj jmenuje jen ty čtyři výše. Zmínit ho můžeš, ale nevydávej ho za údaj z materiálu.
 
 > **Praktický důsledek:** u těchto léčiv **malé zvýšení dávky může vyvolat velký a nepředvídatelný vzestup koncentrace**. Proto se u nich monitorují plazmatické hladiny.
 
-## Saturační kinetika
+## `✅` Saturační kinetika — už z materiálu, ne z mého odhadu
 
-⚠️ Ve zdroji je nadpis „SATURAČNÍ KINETIKA" **bez textu**. `[+]` Doplnění: většina léčiv se saturovatelnou eliminací se chová **smíšeně** — při nízkých koncentracích podle kinetiky 1. řádu, a **po vyčerpání kapacity** enzymů či transportérů přechází do kinetiky 0. řádu. Popisuje to **Michaelisova–Mentenové kinetika**. `[⚠️ ověřit proti přednáškám]`
+> ⚠️ **Oprava.** Ve tvých *vypracovaných otázkách* byl nadpis „SATURAČNÍ KINETIKA" bez textu a já ho doplnil `[+]` odhadem. **Podrobná Obecka text má a můj odhad potvrdila** — tady je ověřená verze.
+
+> ### **Michaelisova–Mentenové kinetika**
+
+- **Omezena na malý okruh látek**
+- Má **maximální rychlost** → dojde k **saturaci (vyčerpání) enzymů substrátem**
+- ⚠️ **Přidáním dalšího substrátu se rychlost eliminace už nezvýší**
+- **Málo látek dosahuje terapeutických koncentrací dostatečně vysokých**, aby k saturaci došlo — proto ten malý okruh
+
+> ### ⚠️ Jádro pojmu — tohle je ta věta, kterou chtějí slyšet
+> **Jedna a tatáž látka se podle své koncentrace v plazmě vylučuje kinetikou 0. i 1. řádu.**
+>
+> | Koncentrace v plazmě | Kinetika |
+> |---|---|
+> | **nízká** | **1. řádu** |
+> | **vysoká** (enzymy nasyceny) | **0. řádu** |
+>
+> Grafem je závislost rychlosti metabolismu na koncentraci s **v_max** a **K_M** *(koncentrace, při níž je rychlost rovna ½ v_max)*.
+
+## `✅` Rychlostní konstanta eliminace a poločas
+
+| Veličina | Vzorec | Co znamená |
+|---|---|---|
+| **Rychlostní konstanta eliminace `k_e`** | **k_e = CL / V_d** | rychlost poklesu koncentrace s ubíhajícím časem |
+| **Biologický poločas eliminace `t₁/₂`** | **t₁/₂ = ln2 · V_d / CL ≈ 0,7 · V_d / CL** | čas potřebný ke snížení aktuální koncentrace v plazmě **na polovinu** |
+
+*(CL = clearance, V_d = distribuční objem)*
+
+### ⚠️ Pravidlo 5 poločasů — snadné body
+
+| Poločas | Zbývající koncentrace |
+|---|---|
+| 1 | **50 %** |
+| 2 | **25 %** |
+| 3 | **12,5 %** |
+| 4 | **6,25 %** |
+| 5 | **3,125 %** |
+
+> **Za 5 poločasů klesne koncentrace ze 100 % na ~3 % — léčivo je prakticky eliminováno.**
+> Totéž platí obráceně: za 5 poločasů se při opakovaném podávání dosáhne **ustáleného stavu**.
