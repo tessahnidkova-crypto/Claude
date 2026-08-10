@@ -161,6 +161,10 @@ Roztoky: fyziologický, **Hartmannův**, Ringerův, Darrowův.
 
 ## Dermatologika
 
+**Léčba kožních onemocnění nebo preventivní ochrana kůže a jejích derivátů.**
+
+`✅` **Dělení podle skupenství:** ***liquida cutanea*** (roztoky, suspenze, emulze, **šampony, pěny**) · ***praeparata semisolida ad usum cutaneum*** (masti, krémy, gely, pasty) · ***pulveres adspersorii*** (zásypy)
+
 **Zlaté pravidlo aplikace:**
 
 > **Mokvavá ložiska → „mokré" hydrofilní přípravky** (roztoky, lotiony, gely, krémy).
@@ -174,6 +178,31 @@ Roztoky: fyziologický, **Hartmannův**, Ringerův, Darrowův.
 | **Gely** (*gelata*) | gelotvorná látka v prostředí; vysychavý a **chladivý** efekt |
 | **Pasty** (*pastae*) | základ + **20–25 % pevné dispergované látky** (často oxid zinečnatý, mastek) |
 | **Zásypy** (*pulveres adspersorii*) | velký povrch → absorbují vodu, pot, maz; krycí a kluzný účinek. **Na otevřené rány musí být sterilní** |
+
+### ⚠️ `✅` Skupiny dermatologik podle účinku — tenhle výčet mi chyběl celý
+
+> Otázka se jmenuje „…a dermatologika", takže **je pravděpodobné, že chtějí slyšet právě tohle rozdělení**. Naučit se je snadno — většina názvů se vysvětluje sama.
+
+| Skupina | Účinek |
+|---|---|
+| **Dezinficiencia a antiseptika** | čistí pokožku, **poškozují či ničí choroboplodné zárodky** |
+| **Adstringencia** | „stahovadla" — **vysušují a stahují drobná poranění** |
+| **Antihidrotika** | proti **nadměrnému pocení** — ucpávají nebo tlumí potní žlázy |
+| **Antiseborrhoika** | snižují **nadměrnou tvorbu kožního mazu** |
+| **Antipruriginosa** | proti **svědění** |
+| **Lokální anestetika** | místní znecitlivění |
+| **Přípravky na popáleniny** | chladivý a hydratační účinek |
+| **Protimikrobiální léčiva** | **ATB, antimykotika, virostatika** |
+| **Protiparazitární léčiva** | **antiskabietika** → svrab · **antipedikulotika** → vši |
+| **Přípravky chránící před zářením** | filtrují škodlivé složky před průnikem ke kůži |
+| **Přípravky na omrzliny** | **vaskulotonizující** — při povrchovém poškození |
+| **Keratoplastika a keratolytika** | ovlivňují **rohovou vrstvu — *stratum corneum epidermidis*** |
+| **Antipsoriatika** | ⚠️ **paliativní** působení proti **lupénce** |
+| **Steroidní a jiná antiflogistika** | protizánětlivě — **inhibicí tvorby mediátorů zánětu** |
+| **Epitelizancia a granulancia** | povzbuzují **růst a překrývání kožních defektů epitelem** |
+| **Léčebná kosmetologika** | upravují vzhled kůže a adnex — např. **emoliencia** (změkčující kůži) |
+
+> **Dvojice, na kterou se vyplatí dát pozor:** **keratoplastika** podporují normální rohovatění, **keratolytika** rohovou vrstvu naopak rozpouštějí `[obecné znalosti]` — zdroj u nich uvádí jen společné „ovlivňují stratum corneum".
 | **Léčivé náplasti** (*emplasta medicata*) | udržují látku v kontaktu s kůží — keratolytické (40% kys. salicylová), protizánětlivé |
 
 **Masťové základy:** hydrofobní (vazelína, vepřové sádlo, tuk z ovčí vlny) špatně se smývají · **Macrogoli unguentum je jediný hydrofilní základ**.
