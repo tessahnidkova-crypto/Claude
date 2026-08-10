@@ -483,13 +483,30 @@ V ČR **povolena** za tří podmínek současně: přípravek je **nedostupný**
 
 # O4 — Preklinické a klinické hodnocení léčiv
 
+✅ **Ověřeno a doplněno podle podrobné Obecky (s. 19–24) dne 2026-08-10.**
+
 ## Kostra odpovědi
 
-> Kolik to stojí času a kolik látek projde → čtyři stupně (in silico → in vitro → in vivo → in homo) → preklinické testy a jejich veličiny → klinické fáze I–IV → co dělá studii důvěryhodnou
+> Co se od nového léčiva čeká a **jak vůbec vzniká** → čtyři stupně (in silico → in vitro → in vivo → in homo) → preklinické testy a jejich veličiny → klinické fáze I–IV → registrace → co dělá studii důvěryhodnou → **orphan léčiva** → bioekvivalence generik
+
+## `✅` Co se od nového léčiva očekává
+
+- možnost **vyléčit dosud nevyléčitelnou chorobu** nebo **kvalitativně nové možnosti terapie**
+- **větší bezpečnost** a **pozitivní ovlivnění kvality života**
+- ⚠️ přínos i **z farmakoekonomického hlediska**
+- **finančně a časově náročný proces**
+
+### `✅` Pět cest, jak nové léčivo vzniká
+
+1. **Modifikace chemické struktury** už známého léčiva
+2. **Screening nově objevených přírodních látek** a jejich farmakologických vlastností
+3. **Objevení nových vlastností** už známých chemických látek
+4. **Cílená syntéza** látek navržených na základě porozumění biologickým mechanismům
+5. **Systematický screening** molekul s biologickou aktivitou pomocí počítačů — **CAMDD** *(Computer Aided Molecular Drug Design)*
 
 ## Rámec
 
-Vývoj léčiva trvá **12–15 let**. Do praxe se dostane **1 látka z 5 000–10 000**.
+> ⚠️ **Čísla „12–15 let" a „1 látka z 5 000–10 000" podrobná Obecka neuvádí** — pocházejí z tvých vypracovaných otázek `[obecné znalosti]`. Jsou to běžně citované údaje, ale nevydávej je za data z materiálu.
 
 | Stupeň | Kde | Co |
 |---|---|---|
@@ -530,6 +547,33 @@ Upravuje **zákon č. 378/2007 Sb.**, vyhláška o **správné klinické praxi (
 3. **Zaslepená (dvojitě)** — pacient ani lékař neví, kdo je v které skupině
 
 **Co objektivitu naopak ruší:** variabilita nemoci, individualita pacienta, farmakogenetické rozdíly, spontánní úzdrava, komorbidity a interakce, **bias lékaře i pacienta** (placebo a nocebo).
+
+> ⚠️ **Časové údaje u jednotlivých fází** („~1 rok", „~2 roky", „min. 5 let") **v podrobné Obecce nejsou** — jsou z tvých vypracovaných otázek `[obecné znalosti]`. Počty účastníků zdroj potvrzuje: fáze III uvádí jako **100 až 1 000 pacientů**.
+
+## `✅` Registrace nového léčiva
+
+Probíhá **po úspěšné fázi III**, upravuje ji zákon a vyhláška.
+
+- **hodnocení dokumentace** prokazující **bezpečnost, účinnost a kvalitu**
+- **posouzení návrhů SPC, PIL a obalů**
+- **výstup: hodnotící zpráva → Rozhodnutí o registraci** *(teprve pak se smí přípravek prodávat)*
+
+**K žádosti o schválení klinické studie se přikládají čtyři dokumenty:** soubor informací pro zkoušejícího · **protokol** (plán klinického zkoušení) · informace pro subjekt hodnocení · **informovaný souhlas**.
+
+## ⚠️ `✅` Orphan léčiva — blok, který mi chyběl celý
+
+> **Vděčná část otázky.** Ukazuje, že chápeš, proč trh sám některá léčiva nevyrobí — a to je přesně to, co dělá vývoj léčiv jiným než běžný průmysl.
+
+> ### **Orphan drug = léčivo pro diagnózu, prevenci nebo léčbu život ohrožujících či velmi vzácných onemocnění s prevalencí nižší než 5 nemocných na 10 000 obyvatel v EU.**
+
+- ⚠️ **80 % těchto chorob vzniká na genetickém základě**
+- **Výrobci se zdráhají** — poptávka nezaručuje návratnost investic
+- **Problém i s klinickým zkoušením** — nelze získat dostatečně velké soubory, chybějí epidemiologické studie
+- **Proto se firmám poskytují výhody:** **nižší poplatky při registraci** · **dočasné daňové úlevy**
+
+| Choroby dětského věku | Choroby dospělého věku |
+|---|---|
+| vrozené vývojové vady · **spinální svalová atrofie** · **dědičné poruchy metabolismu** · **cystická fibróza** | **Huntingtonova choroba** · **Kaposiho sarkom** · akutní myeloidní leukemie · **amyotrofická laterální skleróza** |
 
 ## Bioekvivalence generik
 
