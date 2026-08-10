@@ -12,7 +12,20 @@ Aktualizováno 2026-08-08
 | 4 | Vypracované otázky (Obecka, Specka 1, 2) | `Inputs/obecka-vypracovane…`, `specka-1…`, `specka-2…` | **kostra** — struktura odpovědí, ale ⚠️ obsahuje chyby |
 | 5 | Obecné znalosti | — | jen když nic výše téma nepokrývá, vždy značit `[+]` |
 
-## ⚠️ Podrobná Obecka má rozbité kódování fontu
+## Podrobná Obecka — dvě části, různě čitelné
+
+| Část | Soubor | Stran | Pokrývá | Čtení |
+|---|---|---|---|---|
+| 1 | `obecka-podrobna-cast1.pdf` | 100 | **O1–O16** | ⚠️ **jen jako obrázek** |
+| 2 | `obecka-podrobna-cast2.pdf` | 72 | **O17–O34** | ✅ **text jde extrahovat přímo** |
+
+⚠️ **`O35` Biologická léčba není ani v jedné části.** Zůstává pokrytá jen mým `vypisky-O35-biologicka-lecba.md` z obecných znalostí.
+
+**Mapa části 2:** O17 s.1 · O18 s.4 · O19 s.7 · O20 s.10 · O21 s.15 · O22 s.20 · O23 s.32 · O24 s.37 · O25 s.40 · O26 s.45 · O27 s.49 · O28 s.51 · O29 s.54 · O30 s.58 · O31 s.61 · O32 s.63 · O33 s.69 · O34 s.71
+
+*(Část 2 hlásí při otevírání `MuPDF error: cannot find object in xref` — je to neškodné, text se načte správně. Stačí potlačit stderr.)*
+
+## ⚠️ Část 1 má rozbité kódování fontu
 
 Extrakce textu vrací nesmysly (`H*3:7G^8.*3H<`). **Musí se číst jako obrázek** — vyrenderovat stránku přes pymupdf a přečíst. Text z ní nikdy nekopíruj přímo.
 
