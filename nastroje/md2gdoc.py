@@ -21,9 +21,16 @@ def inline(s: str) -> str:
     s = html.escape(s)
     s = re.sub(r"`([^`]+)`", r'<code style="background:#F0F4F2;padding:1px 4px;'
                             r'border-radius:2px;font-size:10pt">\1</code>', s)
-    s = re.sub(r"\*\*([^*]+)\*\*", r"<b>\1</b>", s)
-    s = re.sub(r"(?<!\*)\*([^*]+)\*(?!\*)", r"<i>\1</i>", s)
+    # ***tučná kurzíva*** musí jít první, jinak ji sežere pravidlo pro **tučné**
+    s = re.sub(r"\*\*\*(.+?)\*\*\*", r"<b><i>\1</i></b>", s)
+    # **tučné** smí obsahovat *kurzívu* uvnitř — proto lookahead a rekurze do skupiny
+    s = re.sub(r"\*\*(.+?)\*\*(?!\*)", lambda m: f"<b>{_kurziva(m.group(1))}</b>", s)
+    s = _kurziva(s)
     return s
+
+
+def _kurziva(s: str) -> str:
+    return re.sub(r"(?<!\*)\*([^*]+)\*(?!\*)", r"<i>\1</i>", s)
 
 
 def convert(md: str) -> str:
@@ -61,10 +68,43 @@ def convert(md: str) -> str:
             while i < len(lines) and lines[i].strip().startswith(">"):
                 buf.append(lines[i].strip().lstrip(">").strip())
                 i += 1
-            body = " ".join(x for x in buf if x)
-            color = CRIT if "⚠️" in body else ACCENT
-            out.append(f'<p style="border-left:3px solid {color};padding-left:12px;'
-                       f'margin:10px 0">{inline(body)}</p>')
+            color = CRIT if "⚠️" in " ".join(buf) else ACCENT
+
+            # uvnitř citace se často používá nadpis (`> ### Titulek`) a odrážky —
+            # bez tohohle by se vypsaly i s ### a - jako holý text
+            casti, odstavec, seznam = [], [], []
+
+            def zavri():
+                if seznam:
+                    casti.append("<ul style='margin:4px 0'>"
+                                 + "".join(f"<li>{inline(x)}</li>" for x in seznam)
+                                 + "</ul>")
+                    seznam.clear()
+                if odstavec:
+                    casti.append(f"<div style='margin:4px 0'>{inline(' '.join(odstavec))}</div>")
+                    odstavec.clear()
+
+            for radek in buf:
+                nadpis = re.match(r"^(#{1,4})\s+(.*)$", radek)
+                if nadpis:
+                    zavri()
+                    velikost = {1: "13pt", 2: "12.5pt", 3: "12pt", 4: "11pt"}[len(nadpis.group(1))]
+                    casti.append(f"<div style='font-size:{velikost};color:{color};"
+                                 f"font-weight:bold;margin:4px 0'>{inline(nadpis.group(2))}</div>")
+                elif re.match(r"^[-*]\s+", radek):
+                    if odstavec:
+                        zavri()
+                    seznam.append(re.sub(r"^[-*]\s+", "", radek))
+                elif radek:
+                    if seznam:
+                        zavri()
+                    odstavec.append(radek)
+                else:
+                    zavri()
+            zavri()
+
+            out.append(f'<div style="border-left:3px solid {color};padding-left:12px;'
+                       f'margin:10px 0">{"".join(casti)}</div>')
             continue
 
         # seznam

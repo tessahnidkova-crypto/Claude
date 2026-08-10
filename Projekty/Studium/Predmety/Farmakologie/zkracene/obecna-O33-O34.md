@@ -64,9 +64,11 @@ Zdroj: **`Inputs/obecka-podrobna-cast2.pdf`, s. 69–72** — podrobná Obecka 2
 - **Intramuskulární injekce do *m. quadriceps femoris***
 
 > ### *Dosis pro infantibus* podle českého lékopisu
-> **dávka pro dítě = dávka pro dospělého × povrch těla [m²] / 1,7**
+> **dávka pro dítě = dávka pro dospělého × povrch těla [m²] / 1,73**
 >
-> Číslo **1,7** je průměrný povrch těla dospělého v m².
+> Číslo **1,73** je průměrný povrch těla dospělého v m².
+>
+> ⚠️ **Rozpor uvnitř materiálu:** tady (část 2, s. 69) je ve zdroji **1,7**, v **O1** (část 1, s. 6) je **1,73**. Správně je **1,73 m²** — to je standardní referenční hodnota `[obecné znalosti]`. **U zkoušky používej 1,73.**
 
 ## ⚠️ Tři specifické nežádoucí účinky — nejvděčnější část otázky
 
