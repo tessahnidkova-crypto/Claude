@@ -101,6 +101,11 @@ Podáno **500 mg**, k účinku se dostane **140 mg**:
 
 **AUC** = plocha ohraničená křivkou koncentrace a časovou osou.
 
+> ### `✅` Na čem AUC závisí — jednořádková odpověď, kterou se vyplatí umět
+> **AUC závisí na podané dávce a na clearance léčiva. ⚠️ Nezávisí na rychlosti přívodu.**
+>
+> Proto rychlejší absorpce zvedne `c_max` a zkrátí `t_max`, ale **plochu nezmění** — léčivo se do těla dostane stejné množství, jen dřív.
+
 **Tři fáze křivky:**
 
 1. **Vzestup** — rychlost absorpce převyšuje rychlost eliminace
@@ -274,6 +279,34 @@ Podrobně jsou rozebrané u O14, ale **u ústní části je zmiň i tady**, prot
 
 1. **Exkrece nezměněné molekuly** — jen malá část léčiv
 2. **Metabolismus → exkrece metabolitu** — **většina léčiv**
+
+## ⚠️ `✅` Pozor: katedra má pod O15 i celou biotransformaci
+
+> Podrobná Obecka (s. 86–93) probírá pod touhle otázkou **znovu I. a II. fázi biotransformace a exkreci**. Detailně je to v **O17** (fáze, reakce, příklady) a v **O20** (exkrece) — **projdi si je spolu s touhle otázkou**. Níže je jen to, co v O17 není.
+
+### `✅` Podíly konjugačních enzymů — čísla, která má jen tenhle oddíl
+
+| Enzymy | Podíl na II. fázi |
+|---|---|
+| **Glukuronosyltransferázy (UGT)** | **15 %** |
+| **Sulfotransferázy (SULT), glutathion-S-transferázy (GST), N-acetyltransferázy (NAT)** | **5 %** |
+
+**UGT** — konjugace **kyseliny glukuronové** s léčivem; **energii dodává hydrolýza UDP** (uridindifosfátu). U člověka fungují skupiny **UGT1A a UGT2B**, **nejvíc substrátů má 1A1**. Vyskytují se v **játrech, ledvinách, plicích, střevě, mozku a krevních destičkách**.
+*Substráty:* **hypolipidemika** (gemfibrozil, ezetimib, simvastatin, atorvastatin, cerivastatin) · **etinylestradiol** · **buprenorfin** · **ibuprofen, ketoprofen**.
+
+**SULT** — přenášejí **sulfát z fosfoadenosinfosfosulfátu (PAPS)**; substrátem je **paracetamol** a **endogenní steroidy** (kortizol, pregnenolon, estrogen, testosteron).
+
+> ### ⚠️ **GST a „redox pufr"** — nejhezčí myšlenka téhle části
+> Glutathion-S-transferázy konjugují **glutathion (γ-glutamylcysteinylglycin)** s xenobiotikem **přes atom síry cysteinu**.
+> - **snižují nebezpečí oxidačního stresu**
+> - systém **redukovaný / oxidovaný glutathion = „redox pufr" organismu**
+> - odstraňují např. vznikající **superoxidový radikál**
+>
+> **Propoj to s paracetamolem z O17:** NAPQI se detoxikuje právě glutathionem, a antidotem je **N-acetylcystein** jako jeho prekurzor. Tady je vysvětlení, **proč** glutathionu ubývá a proč na tom organismu tolik záleží.
+
+**Minoritní děje II. fáze:** **metylace**, **konjugace s aminokyselinami (glycin)** a další.
+
+⚠️ **Děje II. fáze probíhají většinou v cytosolu** a podléhají **stejným vlivům jako CYP** — **genový polymorfismus, enzymová indukce a inhibice** → tedy i **lékovým interakcím**.
 
 ## Biologický poločas a pravidlo pěti poločasů
 
