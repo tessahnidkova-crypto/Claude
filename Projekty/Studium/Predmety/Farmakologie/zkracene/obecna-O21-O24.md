@@ -1,7 +1,7 @@
 # Farmakologie — zkrácené otázky · Obecná O21–O24
 
-Zdroj: `Inputs/obecka-vypracovane-otazky.pdf`, s. 49–57 · Zkráceno 2026-08-08
-⚠️ Zatím **neověřeno** proti podrobné Obecce 2024/2025.
+Zdroj: `Inputs/obecka-vypracovane-otazky.pdf`, s. 49–57 + **`obecka-podrobna-cast2.pdf`, s. 15–39** · Zkráceno 2026-08-08
+✅ **Ověřeno a doplněno podle podrobné Obecky 2024/2025 (2026-08-10).** Doplňky jsou označené `✅`.
 
 **Značky:** `[+]` = doplněno mnou · `[⚠️ ověřit]` = nejistota
 
@@ -53,13 +53,13 @@ Vycházejí z **fyzikálně-chemických vlastností**, ne z vazby na cíl:
 
 | Mechanismus | Příklady |
 |---|---|
-| Změny **osmotické aktivity** | osmotická diuretika (**manitol**), osmotická projímadla (laktulóza, sorbitol, síran hořečnatý), plazmaexpandery |
-| Vliv na **acidobazickou rovnováhu** | **antacida**, hydrogenuhličitan sodný |
-| **Denaturace proteinů** | adstringencia |
-| **Adsorpce** | **aktivní uhlí** |
-| Oxidoredukční vlastnosti | dezinficiencia a antiseptika |
-| **Tvorba komplexů** | antidota |
-| Povrchová aktivita | detergencia |
+| Změny **osmotické aktivity** | osmotická diuretika (**manitol**) · osmotická a salinická projímadla (**laktulóza, sorbitol, PEG, MgSO₄**) · krevní náhrady = **plazmaexpandery** (krystaloidy, koloidy) |
+| Vliv na **acidobazickou rovnováhu** | **antacida** snižující kyselost žaludeční šťávy (**NaHCO₃, Al(OH)₃, Mg(OH)₂, CaCO₃**, algináty) · látky upravující **pH krve a moči** (NaHCO₃) |
+| **Denaturace proteinů** | **adstringencia** = látky působící na povrchu tkáně svíravě — **sloučeniny Al a Zn, AgNO₃** |
+| **Adsorpce** | **adsorbencia — aktivní uhlí, cholestyramin** |
+| Oxidoredukční vlastnosti | **dezinficiencia a antiseptika** — KMnO₄, formaldehyd, fenol a jeho deriváty, thymol, **methylenová modř, H₂O₂, povidon-jod** |
+| **Tvorba komplexních sloučenin** | **antidota — dimerkaprol** |
+| Povrchová aktivita | **detergencia** — antiseptika a dezinficiencia |
 
 ## Specifické mechanismy *(velká většina léčiv)*
 
@@ -77,6 +77,13 @@ Stačí **nízká efektivní koncentrace**, protože chemická struktura léčiv
 | **Agonista** | váže se **a vyvolá odpověď** — receptor je aktivován |
 | **Antagonista** | váže se, ale **odpověď je nulová** |
 
+> **Přirovnání, které má zdroj a u zkoušky funguje:** agonista je klíč, který zámek **odemkne**. Antagonista je klíč, který do zámku **jde, ale nedá se otočit**.
+
+**Receptor** = protein účastnící se regulace funkcí organismu prostřednictvím endogenních signálních molekul, které působí jako ligandy.
+
+**Xenobiotikum** = léčivo či jiná látka z vnějšího prostředí, která se váže na receptor a **vyvolá stejnou odpověď jako endogenní ligand**.
+Příklad ze zdroje: **buspiron** na **serotoninovém receptoru 1A** → **anxiolytický účinek** (nahradí serotonin).
+
 ### Kompetitivní × nekompetitivní antagonismus *(vděčné doptání)*
 
 | | Kompetitivní | Nekompetitivní |
@@ -88,6 +95,58 @@ Stačí **nízká efektivní koncentrace**, protože chemická struktura léčiv
 | Příklad | **atropin** vs. acetylcholin na M-receptoru | **fenoxybenzamin** na α-receptorech — pokles TK přetrvává dlouho po eliminaci |
 
 **Kaskáda účinku:** vazba ligandu → aktivace receptoru → přenos signálu → ovlivnění efektoru → **změna buněčné funkce**
+
+## `✅` Receptorová rezerva a tachyfylaxe
+
+> Celá tahle sekce mi předtím chyběla a podrobná Obecka ji má jako samostatný oddíl otázky 21.
+
+**Vztah mezi počtem obsazených vazebných míst a účinkem je u mnoha typů receptorů nelineární — k vyvolání maximálního účinku stačí obsazení jen malé části receptorů.** Zbytek se jeví jako nadbytečný, ale má **dva konkrétní úkoly:**
+
+| Úkol receptorové rezervy | K čemu je to dobré |
+|---|---|
+| **Zvýšení rychlosti vazby** ligandu | **urychlení nástupu biologického účinku** |
+| **Funkční rezerva** | **zabraňuje rychlému poklesu účinku z důvodu tachyfylaxe** |
+
+> ### **Tachyfylaxe = rychlé vymizení účinku léčiva při opakovaném podání v krátkých intervalech.**
+> Učebnicový příklad zdroje: **nitroglycerin**.
+
+## `✅` Vnitřní aktivita — afinita × účinnost
+
+> **Vnitřní aktivita = schopnost léčiva aktivovat receptor.** Okupační teorie (že stačí receptor obsadit) se ukázala jako nedostačující — proto se rozlišují dvě různé vlastnosti.
+
+| Anglicky | Česky | Co to je |
+|---|---|---|
+| **affinity** | **afinita** | schopnost ligandu **navázat se** na receptor — určuje **počet obsazených receptorů** |
+| **efficacy** | **vnitřní aktivita / účinnost** | schopnost receptor po navázání **aktivovat** |
+
+> ⚠️ **Vazba je základní podmínkou farmakologického účinku, ale ne jedinou.** Tohle je celý smysl rozlišení.
+
+**Schéma interakce, které stojí za nakreslení:**
+
+```
+agonista A:      A + R  ↔  AR  ↔  AR*  →  signál  →  účinek
+                 └ afinita ┘   └─ vnitřní aktivita ─┘
+
+antagonista B:   B + R  ↔  BR        (dál se nepokračuje)
+```
+
+**Vnitřní aktivita se měří jako poměr maximálního účinku léčiva k maximálnímu účinku referenční látky** (obvykle endogenního ligandu), jejíž vnitřní aktivita je **1 (100 %)**.
+
+| Ligand | Vnitřní aktivita | Maximální účinek |
+|---|---|---|
+| **Plný agonista** | **= 1 (100 %)** | stejný jako referenční látka — **maximální dosažitelný** |
+| **Parciální agonista** | **0 < x < 1** | **menší než u plného agonisty** |
+| **Antagonista** | **= 0** | žádný |
+
+### `✅` Příklady — tabulka, kterou má zdroj a která je nejvděčnější částí otázky
+
+| Plní agonisté | Parciální agonisté | Antagonisté |
+|---|---|---|
+| **formoterol** — selektivní agonista na **β₂-adrenergním receptoru** (úlevové antiastmatikum, bronchodilatans) | **acebutolol, pindolol** — betablokátory s **vnitřní sympatomimetickou aktivitou** | **propranolol** (neselektivní) a **atenolol** (β₁-selektivní) — blokátory β-adrenergních receptorů |
+| **endogenní agonisté a jejich analoga** — inzuliny, růstový hormon, vazopresin, L-tyroxin, estrogeny | **aripiprazol** — parciální agonista na **dopaminových D₂ receptorech** (atypické neuroleptikum) | **losartan a ostatní sartany** — blokátory **AT₁-receptoru pro angiotensin II** |
+| **baklofen** — agonista na **GABA_B receptoru** (centrální myorelaxans) | **buprenorfin** — parciální agonista na **opioidních receptorech** (analgetikum-anodynum) | **klopidogrel, prasugrel** — blokátory **P2Y₁₂-receptoru pro ADP** (protidestičková léčiva) |
+
+> **Indikace betablokátorů** (kdyby se doptali): angina pectoris, **infarkt myokardu**, arytmie, **srdeční selhávání**, hypertenze. Výběr konkrétního léčiva závisí na indikaci, věku a komorbiditách.
 
 ---
 
@@ -127,27 +186,81 @@ Propustnost: **Na⁺, K⁺, Ca²⁺** (nikotinové, glutamátové) nebo **Cl⁻*
 
 ### ② Metabotropní a G-proteiny
 
-**G-proteiny** vážou guaninové nukleotidy, skládají se ze **tří podjednotek (α, β, γ)** ukotvených v membráně. Mohou mít **aktivační i inhibiční** aktivitu. Jeden typ G-proteinu může být ovlivněn více receptory a ovlivnit více efektorů.
+**Nejrozsáhlejší skupina receptorů — `✅` působí přes ně až 40 % dnes používaných léčiv.**
+
+**G-proteiny** vážou guaninové nukleotidy, skládají se ze **tří podjednotek (α, β, γ)** ukotvených v membráně. Mohou mít **aktivační i inhibiční** aktivitu. Jeden typ G-proteinu může být ovlivněn více receptory a ovlivnit více efektorů (např. iontový kanál i intracelulární enzym).
+
+> ### `✅` Cyklus G-proteinu ve čtyřech krocích — nakresli to, je to rychlejší než vyprávět
+> 1. **Ligand se naváže na receptor** → na α-podjednotce se **vymění GDP za GTP**
+> 2. **Komplex α-GTP disociuje** od receptoru a **oddělí se od komplexu βγ**
+>    - **α** interaguje s cílovým proteinem — **adenylátcykláza, fosfolipáza**
+>    - **βγ** aktivuje svůj cílový protein — **iontový kanál, kináza**
+> 3. Po navázání na cílový protein **stoupne GTPázová aktivita α-podjednotky** → **hydrolýza GTP na GDP**
+> 4. **α se znovu spojí s βγ = klidový stav receptoru**
+
+### `✅` ③ Receptory s intracelulární proteinkinázovou aktivitou — signální kaskády
+
+Vazba ligandu na extracelulární část ovlivní **integrální intracelulární část s enzymatickou aktivitou — nejčastěji tyrozinkinázovou**. Ovlivňuje **proliferaci, diferenciaci, migraci a apoptózu** buněk → klíčový význam pro růst organismu, funkci imunitního systému a **potlačení nádorového bujení**.
+
+| Kaskáda | Co dělá | Klinický přesah |
+|---|---|---|
+| **Ras / Raf / MAP kinázy** | zprostředkuje účinky **růstových faktorů** | **cíl pro novou protinádorovou léčbu** |
+| **JAK / STAT** | **Janus-kinázy (JAK) aktivují proteiny STAT** → přesun STAT do jádra → vazba na promotory → změna exprese genů | **kontroluje syntézu a uvolňování zánětlivých mediátorů**; hyperaktivace v tkáni **karcinomu prostaty** → ↑ proliferace + útlum apoptózy |
 
 ### ④ Receptory regulující transkripci
 
 Molekula receptoru má **tři funkční části**: část **vázající ligand** · část zajišťující **vazbu na DNA** · část **řídící transkripci**.
 Jeden receptor ovlivňuje transkripci **více genů**; účinek závisí na typu tkáně.
 
+**Ligandy jsou lipofilní signální molekuly** — malé, snadno projdou membránou: **steroidní hormony** (glukokortikoidy, estrogeny, androgeny, gestageny, vitamin D) · **hormony štítné žlázy** · prostaglandiny, leukotrieny.
+⚠️ **Řada xenobiotik (asi 10 % ligandů)** touto cestou **zahajuje transkripci genů pro enzymy metabolizující léčiva** — to je molekulární podstata **enzymové indukce** z O19.
+
+#### ⚠️ `✅` Hlavní skupiny — POZOR, ve zdroji je tahle tabulka posunutá o řádek
+
+> **Ve tvé podrobné Obecce jsou receptory a ligandy spárované špatně** — sloupec ligandů je posunutý (GR má u sebe „steroidní hormony", MR „kortizol", AR „aldosteron", PR „estradiol", ER „testosteron"). **Naučit se to takhle znamená u zkoušky říct nesmysl.** Níže je opravená verze `[obecné znalosti]`.
+
+| Zkratka | Receptor | Ligand |
+|---|---|---|
+| **GR** | glukokortikoidní | **kortizol** |
+| **MR** | mineralokortikoidní | **aldosteron** |
+| **AR** | **androgenní** *(zdroj píše „adrenogenní" — překlep)* | **testosteron** |
+| **PR** | progesteronový (gestagenní) | **progesteron** |
+| **ER** | estrogenní | **estradiol** |
+| **VDR** | receptor pro vitamin D₃ | **kalcitriol** |
+| **RAR** | retinoidní | all-trans-retinoát |
+| **RXR** | retinoidní X | 9-cis-retinoát |
+| **TR** | thyroidní | **trijodthyronin** |
+| **PPAR** | receptory aktivované proliferátory peroxisomů | **mastné kyseliny** |
+| **PXR** | pregnanový X receptor | **steroidy a léčiva** — receptor xenobiotik |
+| **FXR** | farnesoidní X receptor | **žlučové kyseliny** |
+| **LXR** | jaterní X receptor | zdroj uvádí žlučové kyseliny; obecně se uvádějí **oxysteroly** `[⚠️ ověřit]` |
+| — | **sirotčí (orphan) receptory** | **neznámé** |
+
 ## Druzí poslové
+
+**Chemicky různorodá skupina:**
+- **hydrofilní molekuly a ionty** — cAMP, cGMP, **IP₃, Ca²⁺**
+- **lipofilní molekuly** — **DAG**, fosfatidylinositoly
+- **plyny** — **NO, CO**
+
+**Mění** aktivitu intracelulárních enzymů · strukturu a funkci dalších proteinů · **propustnost iontových kanálů**.
 
 | Posel | Vznik | Účinek |
 |---|---|---|
-| **cAMP** | **adenylátcykláza** mění ATP na cAMP; aktivována **G_s**, tlumena **G_i** | hydrolyzován **fosfodiesterázami** na AMP |
-| **IP₃** | **fosfolipáza C** štěpí fosfatidylinositoldifosfát | otevře Ca²⁺ kanál v ER → **kalciový signál** (kalmodulin, troponin C) → kontrakce, neurotransmise, sekrece |
-| **DAG** | totéž štěpení | aktivuje **proteinkinázu C** |
-| **NO** | z **argininu**; aktivuje **guanylátcyklázu** → cGMP → proteinkináza G | **vazodilatace**, inhibice agregace destiček, kontraktilita |
+| **cAMP** — *hlavní zástupce* | membránová **adenylátcykláza** mění **ATP na cyklický 3′,5′-AMP + pyrofosfát**; aktivována **G_s**, tlumena **G_i** | v buňce nepřetrvá dlouho — hydrolyzován cytosolickými **fosfodiesterázami** na AMP |
+| **IP₃** | **fosfolipáza C** (po aktivaci G-proteinem) štěpí **difosfát fosfatidylinositolu** | naváže se na svůj receptor v membráně ER = **kalciový kanál řízený ligandem** → únik zásob Ca²⁺ do cytosolu = **kalciový signál** (v komplexu s **kalmodulinem, troponinem C**) → svalová kontrakce, neurotransmise, žlázová sekrece, proliferace, **syntéza NO** |
+| **DAG** | totéž štěpení | aktivuje **proteinkinázu C** → fosforylace mnoha proteinů — enzymů, **transkripčních faktorů**, regulátorů kontraktilních proteinů a transportérů |
+| **NO** | tvořen **NO-syntázami (NOS) z argininu**; v hladké svalovině aktivuje **guanylátcyklázu** (GTP → cGMP) → **proteinkináza G** | **vazodilatace**, inhibice agregace destiček, přenos vzruchů, **srdeční kontraktilita, peristaltika** |
+
+**NO je přítomen** v hladké cévní svalovině, myokardu, **endoteliích**, leukocytech, trombocytech a fibroblastech.
+**Léčiva uvolňující NO = vazodilatancia s velmi rychlým účinkem:** **nitroglycerin, nitráty izosorbidu**.
 
 > ⚠️ **NO má dvě tváře:** léčebně **nitroglycerin** jako vazodilatans a baktericidní účinek makrofágů — ale **při sepsi masivní uvolnění NO vede ke generalizované vazodilataci, poklesu TK a šoku**.
 
 ## Další cílové struktury
 
-**Iontové kanály** — napěťově řízené (mění propustnost podle membránového potenciálu) nebo chemicky řízené.
+**Iontové kanály — `✅` primárně jimi působí 13 % léčiv.** Obvykle **multimerní transmembránové proteiny** s **vodním pórem selektivně propustným pro kationty či anionty**. Řízený selektivní transport iontů je základem **tvorby a šíření elektrických impulzů v srdci a nervovém systému, sekrece tekutin v plicích, GIT a ledvinách a sekrece hormonů**.
+Mohou být **napěťově řízené** (mění propustnost podle membránového potenciálu) nebo **chemicky řízené** — extracelulárními i intracelulárními ligandy, nebo **přímo G-proteiny**.
 
 **Enzymy — druhý nejčastější cíl po receptorech:**
 
@@ -161,8 +274,38 @@ Jeden receptor ovlivňuje transkripci **více genů**; účinek závisí na typu
 **Transportní proteiny:**
 - **Antidepresiva a antipsychotika** — inhibitory zpětného vychytávání katecholaminů
 - **Kardioglykosidy** — inhibice **Na⁺/K⁺-ATPázy**
-- **Thiazidy** — Na⁺/Cl⁻ kotransportér v distálním tubulu
-- **Kličková diuretika** — **Na⁺/K⁺/2Cl⁻ kotransportér** v Henleově kličce
+- **Thiazidy** — Na⁺/Cl⁻ kotransportér v **proximální části distálního tubulu**
+- **Kličková diuretika** — **Na⁺/K⁺/2Cl⁻ kotransportér** v **luminální membráně Henleovy kličky**
+
+## `✅` Receptorová heterogenita
+
+> Poslední oddíl otázky 22 v podrobné Obecce. Předtím mi chyběl celý.
+
+**Regulace receptorově řízených funkcí je komplexní** — endogenní i exogenní látky se na různé podtypy receptorů vážou **s odlišnou afinitou**.
+
+Receptory se dělí do **typů, podtypů a izoforem** na základě:
+- **odlišných farmakologických vlastností**
+- **cest přenosu signálu** z receptoru do buňky
+- **primárních struktur**
+
+**Variabilitu ještě zvyšuje uspořádání** — dimery, trimery až **oligomery z podjednotek**, přičemž každá podjednotka má několik strukturních variant.
+
+⚠️ **Genové mutace a syntéza změněných receptorových proteinů** zvyšují variabilitu odpovědi organismu na léčivo a **mohou být zodpovědné za vznik některých onemocnění**.
+
+### Funkční antagonismus
+
+**Jeden buněčný efektor je protichůdně ovlivňován aktivací více typů receptorů pro různé ligandy.** Učebnicový příklad zdroje — **tonus hladké svaloviny bronchu**:
+
+| Podnět | Cesta | Výsledek |
+|---|---|---|
+| **Muskarinové receptory** | vyplavení **Ca²⁺** | **kontrakce** |
+| **Adrenalin** | **adenylátcykláza → cAMP → proteinkináza A** | **relaxace** + blokáda uvolňování Ca²⁺ |
+
+Rozhoduje **fosforylace (kontrakce) × defosforylace (relaxace)** společného efektoru — např. proteinkinázy C.
+
+### Orphan („sirotčí") receptory
+
+**Receptory s neznámou funkcí, jejichž ligandy dosud nebyly objeveny.** Odhaleny novými molekulárně genetickými technikami.
 
 ---
 
@@ -236,13 +379,45 @@ Při optimálním dávkování jsou koncentrace **uvnitř farmakoterapeutického
 
 **Příklad:** anxiolytikum — v terapeutické dávce odstraňuje úzkost, ve vyšší vyvolá **sedaci**, ve vysoké **útlum dechu**.
 
+> ### ⚠️ `✅` Doplněk, který jsem předtím neměl a je to hezká pointa
+> **Když je nežádoucí účinek závažný, je lepším indexem bezpečnosti poměr `TD5 / ED95`.**
+>
+> Logika: nechci porovnávat *průměry*, ale **nejhorší reálný scénář** — dávku, která už u 5 % lidí toxicky působí, proti dávce, která je potřeba, aby zabrala u 95 % lidí.
+
 **Dávkování:** **nasycovací dávka** urychlí dosažení okna · **udržovací dávka** drží koncentraci uvnitř okna.
 
 ## Terapeutické riziko — NNT
 
-**NNT (number needed to treat)** = **počet pacientů, které je třeba léčit, aby se u jednoho projevil daný efekt** — pozitivní i negativní.
+### `✅` Proč terapeutický index nestačí
 
-**Výhoda:** při kvantifikaci přínosu lze vzít v úvahu **závažnost základního onemocnění**.
+**Terapeutický index není zcela uspokojivé měřítko bezpečnosti léčiva:**
+- je založen na **údajích o toxicitě na zvířatech** — nemusí odrážet klinicky významné formy toxicity
+- **nebere v úvahu idiosynkratické toxické reakce**
+
+Proto existují sofistikovanější metody analýzy rizik a přínosů — mezi nimi **NNT**.
+
+> ### **NNT (number needed to treat) = počet pacientů, které je třeba léčit, aby se u jednoho projevil daný efekt** — prospěšný i nepříznivý.
+
+### `✅` Příklad ze zdroje — antidepresiva v léčbě bolesti
+
+| Sledovaný efekt | NNT | Ze 100 léčených pacientů |
+|---|---|---|
+| **Úleva od bolesti** (přínos) | **3** | **33 pacientů** zaznamená úlevu |
+| **Méně závažné nežádoucí účinky** | **3** | **33 pacientů** je bude mít |
+| **Závažné nežádoucí účinky** | **22** | **4–5 pacientů** je bude mít |
+
+### `✅` Druhý příklad — proč NNT umí zohlednit závažnost nemoci
+
+**Výhoda NNT:** při kvantifikaci přínosu lze vzít v úvahu **závažnost základního onemocnění**.
+
+| | Onemocnění | Snížení úmrtnosti | NNT pro záchranu 1 života |
+|---|---|---|---|
+| **Léčivo A** | často smrtelné | **z 50 % na 25 %** | **4** |
+| **Léčivo B** | velmi zřídka smrtelné | **z 5 % na 2,5 %** | **40** |
+
+> **Obě léčiva snižují úmrtnost na polovinu — ale efekt léčiva A je významnější.** U léčiva B musí být riziku nežádoucích účinků vystaveno **40 pacientů**, aby se zachránil jeden život; u léčiva A **jen 4**.
+>
+> Tohle je nejlepší způsob, jak otázku zakončit — ukazuje, že chápeš, proč se relativní čísla („snížení o polovinu") sama o sobě nedají srovnávat.
 
 ---
 
@@ -250,7 +425,64 @@ Při optimálním dávkování jsou koncentrace **uvnitř farmakoterapeutického
 
 ## Kostra odpovědi
 
-> Vlastnosti léčiva → vlastnosti pacienta → prostředí a interakce → **tři stavy, které mění všechno: hemodynamika, ledviny, játra**
+> **Projdi ADME po fázích a u každé jmenuj faktory** → pak vlivy na farmakodynamiku → nakonec **tři stavy, které mění všechno: hemodynamika, ledviny, játra**
+
+> ### ⚠️ `✅` Změna kostry oproti mé první verzi
+> Podrobná Obecka staví celou otázku **na ADME** — čtyři fáze a u každé seznam faktorů. Moje původní verze byla postavená na *vlastnostech pacienta*, což je stejný obsah v jiném pořadí, ale **odpovídat se vyplatí v pořadí, ve kterém to má katedra**.
+
+## `✅` Vlivy na farmakokinetiku — ADME po fázích
+
+### ① Absorpce → z místa aplikace do krevního oběhu
+
+| Faktor | Jak působí |
+|---|---|
+| **Vlastnosti léčiva** | rozpustnost v tuku a vodě · velikost molekuly · **lipofilnost** (pro transport přes membrány) |
+| **Léková forma** | rychlost uvolňování z tablet, kapslí, injekčních forem; **nanosystémy a liposomální formy** ji cíleně mění |
+| **Průtok krve** | **↑ průtok zrychluje absorpci** (po fyzické námaze) · **↓ průtok ji zpomaluje** (**šok**, kardiovaskulární onemocnění) |
+| **pH v GIT** | **kyselé prostředí žaludku → absorpce kyselin** · **zásadité prostředí střeva → absorpce zásad** |
+| **Potraviny** | jídlo může absorpci zpomalit i urychlit · mění **pH žaludku** · ⚠️ **grapefruit inhibuje CYP450** |
+| **Onemocnění GIT** | záněty, obstrukce, **chirurgické výkony** → změna **absorpční plochy** |
+
+### ② Distribuce → z krve do tkání a orgánů
+
+| Faktor | Jak působí |
+|---|---|
+| **Průtok krve** | dobře prokrvené tkáně = rychlá distribuce · **↓ prokrvení = ↓ distribuce** (tuková tkáň, kosti) |
+| **Vazba na plazmatické bílkoviny** | především **albumin**; ⚠️ **farmakologicky aktivní je jen nevázaná frakce**; **cirhóza** mění koncentraci proteinů → mění distribuci |
+| **Lipofilnost** | lipofilní léčiva jdou do tukové tkáně (**diazepam**) → **dlouhodobé uchovávání v těle, možná kumulace** |
+| **Hematoencefalická bariéra** | brání průniku některých léčiv do CNS (**řada ATB**) |
+| **Zánětlivé procesy** | mění **propustnost cév** → ovlivní distribuci (opět typicky ATB) |
+
+### ③ Metabolismus → biotransformace, hlavně v játrech
+
+| Faktor | Jak působí |
+|---|---|
+| **CYP450 — genetické variace** | ⚠️ **polymorfismus CYP2D6** → odlišné metabolické rychlosti u různých lidí |
+| **Lékové interakce** | **rifampicin indukuje · ketokonazol inhibuje** → mění metabolismus jiných léčiv *(celá otázka O19)* |
+| **Jaterní funkce** | **jaterní insuficience → ↓ schopnost metabolizovat → ↑ koncentrace v krvi → riziko toxicity** |
+| **Výživa a dieta** | nedostatek živin ovlivní enzymatickou aktivitu jater — např. **nedostatek vitaminu K** |
+| **Věk** | **novorozenci mají nezralé enzymy** · **staří lidé snížený metabolismus** |
+
+### ④ Exkrece / eliminace → obvykle ledvinami
+
+| Faktor | Jak působí |
+|---|---|
+| **Renální funkce** | **↓ funkce ledvin zpomaluje vylučování → kumulace a toxicita** (chronické selhání ledvin) |
+| **Průtok krve ledvinami** | ovlivní míru filtrace oběma směry |
+| **Věk** | staří lidé mají často **zhoršenou renální funkci** |
+| **Dietní faktory** | příjem některých látek ovlivní renální clearance — **sodík, draslík** |
+
+## `✅` Vlivy na farmakodynamiku
+
+> **Farmakodynamika = účinky léčiva na tělo** — zejména na receptory, enzymy a kanály, s nimiž interaguje.
+
+| Skupina | Faktor | Příklad |
+|---|---|---|
+| **Vlastnosti léčiva** | **specifita a afinita k receptoru** | agonista × antagonista mají na témž receptoru **opačné působení** |
+| | **dávkování a koncentrace v místě účinku** | ovlivněna farmakokinetikou (distribuce, metabolismus) i farmakodynamikou (interakce s receptory) |
+| **Receptory a cílové molekuly** | **genetické polymorfismy** | polymorfismy **β-adrenergního receptoru** → odlišná odpověď na **betablokátory** |
+| | **tkáňová specifita** | antiemetika působí v **CNS** × **ACE inhibitory** v srdci a ledvinách |
+| | **tolerance a desenzibilizace** | dlouhodobé užívání → **je potřeba vyšší dávka pro stejný účinek** |
 
 ## Vlivy na straně léčiva a podání
 

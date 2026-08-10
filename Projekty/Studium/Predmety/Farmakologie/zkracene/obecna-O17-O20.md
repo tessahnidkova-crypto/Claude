@@ -1,8 +1,7 @@
 # Farmakologie — zkrácené otázky · Obecná O17–O20
 
 Zdroj: `Inputs/obecka-vypracovane-otazky.pdf` + **`obecka-podrobna-cast2.pdf`, s. 1–14**
-✅ **`O17` a `O18` ověřeny a doplněny podle podrobné Obecky 2024/2025.**
-⚠️ `O19` a `O20` zatím neověřeny — jsou v části 2 na s. 7–14.
+✅ **Všechny čtyři otázky ověřeny a doplněny podle podrobné Obecky 2024/2025.**
 
 **Značky:** `[+]` = doplněno mnou · `[⚠️ ověřit]` = nejistota
 
@@ -212,9 +211,45 @@ Morfin je v hepatocytech biotransformován na **morfin-6-glukuronid**, což je *
 
 ## Kostra odpovědi
 
-> Dva mechanismy a jejich opačný důsledek → podmínky vzniku → inhibitory podle enzymu s příklady → induktory → tolerance a zkřížená indukce
+> Enzymy jako cíl léčiv → **pět způsobů, jak léčivo enzym ovlivní** → inhibice a její klinické interakce → indukce a její typy → tolerance a zkřížená indukce
 
-## Rámec
+## `✅` Rámec — tímhle otázku otevři
+
+> Doplněno podle podrobné Obecky. **Tenhle úvod jsem předtím neměl vůbec** a katedra podle něj otázku staví.
+
+**Enzymy jsou po receptorech druhý nejčastější molekulární cíl léčiv** — jak enzymy lidského organismu, tak enzymy patogenních mikroorganismů.
+
+### Pět způsobů, jak léčivo enzym ovlivní
+
+| Typ | Podstata | Příklady |
+|---|---|---|
+| **① Kompetitivní reverzibilní inhibitor** | soutěží se substrátem **o aktivní místo** → snižuje rychlost tvorby produktu | **fyzostigmin** (reverzibilní inhibice acetylcholinesterázy) · **ACE inhibitory** · cytostatika — inhibitory **DNA topoizomeráz** · inhibitory **kalcineurinu** (imunosupresiva) · inhibitory **aromatázy** (hormonální protinádorová léčba) · inhibitory **HIV-proteáz** (léčba AIDS) |
+| **② Nekompetitivní reverzibilní inhibitor** | váže se **na jiné místo** → **alostericky** ovlivní vazbu substrátu, případně sníží katalytickou aktivitu | |
+| **③ Ireverzibilní inhibitor** | **kovalentní vazba** na funkční skupinu enzymu; nebo vznikne produkt, který se kovalentně naváže = **„sebevražda" enzymu** | **organofosfáty** — bojové látky **soman, sarin, tabun** |
+| **④ Falešný substrát** | enzym zpracuje analog místo pravého substrátu | **methyldopa** místo DOPA pro DOPA-dekarboxylázu → vzniká **methylnoradrenalin** místo noradrenalinu · **fluorouracil** nahrazuje uracil, nelze převést na thymidylát → **blokáda syntézy DNA** (cytostatikum) |
+| **⑤ Aktivátor enzymu** | zvyšuje aktivitu | **nitráty** uvolňují **NO** → aktivace **guanylátcyklázy** → **myorelaxace** |
+
+> ### ⚠️ Ireverzibilní inhibice — věta, kterou musíš říct
+> **Účinek je ukončen až syntézou nových, neinhibovaných molekul enzymu.**
+>
+> U organofosfátů: po rozštěpení acetylcholinesterázou zbytek molekuly zůstává **ireverzibilně vázán v aktivním místě**, změněná struktura se postupně stabilizuje a **enzym už nelze reaktivovat podáním antidota**.
+
+### `✅` Kdy je blokáda enzymu žádoucí — terapeutické využití
+
+| Léčivo | Blokovaný enzym | Indikace |
+|---|---|---|
+| **Alopurinol** | **xantinoxidáza** | terapie **dny** |
+| **Disulfiram** | **aldehyddehydrogenáza** | součást terapie **závislosti na alkoholu** |
+
+## Inhibice enzymové aktivity
+
+**Snížení až úplné zablokování funkce biotransformačních enzymů** v důsledku jejich interakce s xenobiotikem. **Projevy intoxikace se mohou objevit už několik hodin po podání látky.**
+
+⚠️ Některé látky mohou blokovat **více enzymů najednou — ireverzibilní vazbou na hemové železo**.
+
+**Kompetitivní inhibitory podle podrobné Obecky:** **fluorochinolony** → CYP3A4 · **chinidin** → hetero-blokáda CYP2D6 · **cimetidin** a **ketokonazol**
+
+### Rámec lékových interakcí
 
 **Většina dosud popsaných lékových interakcí** stojí na metabolismu léčiv a má dva mechanismy:
 
@@ -242,23 +277,47 @@ Morfin je v hepatocytech biotransformován na **morfin-6-glukuronid**, což je *
 
 **Chinidin · propafenon** (antiarytmika) · **fluoxetin** (antidepresivum) → interakce s **betablokátory** → **zesílení bradykardizujícího účinku**.
 
-### CYP2C19
+### Warfarin — dvě opačná rizika
 
-Hlavní enzym metabolizující **warfarin**.
 - **Inhibitory** — statiny, **makrolidy** → ↑ hladiny a účinek warfarinu → **riziko krvácení**
 - **Induktor** — **třezalka tečkovaná** → ↓ hladiny a účinek warfarinu → **riziko trombózy**
 
 > To je hezká dvojice do jedné věty: **stejné léčivo, dva opačné mechanismy, dvě opačná rizika.**
 
-## Induktory
+> ### ⚠️ Rozpor mezi zdroji — **`[⚠️ ověřit]`**
+> Tvoje **vypracované otázky** uvádějí, že warfarin metabolizuje **CYP2C19**. **Obecná farmakologie tenhle enzym u warfarinu neuvádí — účinnější S-warfarin metabolizuje především `CYP2C9`** `[obecné znalosti]`. Podrobná Obecka 2024/2025 tuhle konkrétní dvojici neřeší, takže rozpor nejde rozhodnout z tvých materiálů.
+>
+> **Doporučení k ústní zkoušce:** neříkej číslo enzymu, pokud se tě na něj přímo nezeptají. Řekni mechanismus (*„warfarin je substrát CYP2C podrodiny, inhibitory zvyšují jeho hladiny a riziko krvácení, induktory ji snižují a hrozí trombóza"*) — to je věcně bezpečné a odpovídá to oběma zdrojům.
 
-**CYP3A4, CYP2C9, CYP2C19:** **barbituráty · rifampicin · karbamazepin · steroidy** (estrogeny, dexamethason) · **extrakty třezalky** (hypericin)
+## Indukce enzymů
 
-**CYP1A1 a CYP1A2:** aromatické uhlovodíky — **tabákový kouř**; kuřáci mají těchto enzymů víc
+**Zvýšení aktivity biotransformačních enzymů působením xenobiotika.**
 
-**CYP2E1:** **etanol** a rozpouštědla (aceton, dioxan) · **hladovění a diabetes**; mechanismus indukce není znám
+- Slouží jako **ochrana organismu před chemickým stresem**
+- **Závisí na dávce induktoru**
+- Indukovat lze zejména **CYP oxidázy**
+- ⚠️ **Tento jev může být podkladem farmakologické tolerance**
+
+### `✅` Typy indukce — podle podrobné Obecky
+
+| Typ | Co se indukuje | Detail |
+|---|---|---|
+| **Fenobarbitalový typ** | **CYP2B1, 2B2, 3A1, 3A4** a podrodina **2C** | zvyšuje se metabolismus **fenobarbitalu samotného (autoindukce)** i dalších látek **(heteroindukce)** — tolbutamid, kortizol, kumarin; ⚠️ **obvykle stoupá i hmota jater** |
+| **Benzpyrenový typ** | **CYP1A1 a CYP1A2** `[obecné znalosti]` | aromatické uhlovodíky — **tabákový kouř**; kuřáci mají těchto enzymů víc |
+| **Neindukovatelné enzymy** | — | **některé enzymy indukovat nelze — např. `CYP2D6`** |
+
+> ⚠️ **Chyba ve zdroji:** v podrobné Obecce je pod nadpisem „Benzpyrenový typ indukce" **omylem zkopírován text o neindukovatelných enzymech** (CYP2D6). Obsah benzpyrenového typu tam tedy chybí — doplněno z obecné znalosti a z tvých vypracovaných otázek, které aromatické uhlovodíky a tabákový kouř uvádějí.
+
+**Další induktory podle tvých vypracovaných otázek:**
+- **CYP3A4, CYP2C9, CYP2C19:** **barbituráty · rifampicin · karbamazepin · steroidy** (estrogeny, dexamethason) · **extrakty třezalky** (hypericin)
+- **CYP2E1:** **etanol** a rozpouštědla (aceton, dioxan) · **hladovění a diabetes**; mechanismus indukce není znám
 
 ## Klinický význam
+
+> ### ⚠️ Příklad, který má podrobná Obecka jako jediný pod nadpisem „Klinický význam"
+> **Třezalka snižuje účinnost hormonální antikoncepce**, protože indukuje CYP, na kterém se antikoncepce metabolizuje.
+>
+> Tohle řekni — je to konkrétní, praktické a je to přesně to, co katedra pod „klinickým významem" myslí.
 
 **Autoindukce → tolerance.** Opakovaným podáním léčivo zvýší aktivitu enzymů, které ho samo metabolizují. Důsledek: **klesá intenzita účinku a zkracuje se doba působení** = tolerance.
 
@@ -300,17 +359,26 @@ Denně vzniká **180 l primární moči**, z níž se **99 % reabsorbuje**.
 
 | Velikost molekuly | Průchod |
 |---|---|
-| **do 5 000 Da** (⌀ do 1,4 nm) | **velmi snadno — většina léčiv** |
+| **do 5 000 Da** (⌀ do 1,4 nm) | **velmi snadno — velká většina léčiv, bez omezení** |
 | 5 000–25 000 Da | rozhoduje **náboj** (kationty > anionty — **negativně nabitý heparin neprochází**) a tvar |
-| velké molekuly a proteiny (albumin, IgG) | minimálně |
+| **`✅` 60 000–70 000 Da** | **úplný limit za fyziologických podmínek** |
+| velké molekuly a proteiny (dextrany, albumin, IgG) | minimálně |
 
-⚠️ **Léčiva vázaná na plazmatické bílkoviny se do primární moči nedostanou.**
+**Filtrace je determinována velikostí molekuly, částečně jejím tvarem a částečně nábojem.**
+
+⚠️ **Léčiva vázaná na plazmatické bílkoviny (penicilinová ATB, warfarin) nebo na krevní buňky se do primární moči nedostanou.**
 
 Přefiltrované množství je přímo úměrné **plazmatické koncentraci volného léčiva** a **rychlosti GF**.
 
 **GF se stanovuje látkou, která se jen filtruje a nereabsorbuje — inulinem.** V praxi se používá **clearance kreatininu**.
 
-**Léčiva vylučovaná převážně GF:** **aminoglykosidová ATB · digoxin · vankomycin**
+**Léčiva vylučovaná převážně GF:** **aminoglykosidová ATB · digoxin · vankomycin** — u nich má **pokles GF velký vliv na farmakokinetiku**.
+
+### `✅` Renální clearance — definice a faktory
+
+> ### **Renální clearance = objem plazmy obsahující určité množství látky, který je odstraněn z těla ledvinami za jednotku času** [ml/min]
+
+**Faktory ovlivňující clearance:** **věk** · **genetický polymorfismus** · **onemocnění jater a ledvin** · **snížené zásobení eliminačních orgánů krví** · **lékové interakce**
 
 **Kdy je nutná individualizace dávkování:** renální selhání (GF a renální clearance výrazně snížené) · **stáří** (progresivní pokles) · **novorozenec — GF v prvních dnech po porodu stoupá až 10×**
 
@@ -343,6 +411,37 @@ Převážně **pasivní difuze lipofilních látek** zpět do krve. Reabsorpce v
 - Stejně u **otravy salicyláty nebo barbituráty**
 - ⚠️ **Okyselování při otravě zásaditými léčivy se nedoporučuje** — riziko metabolické acidózy
 
+## `✅` Poruchy vylučovací funkce ledvin — CKD
+
+> Celá tahle sekce mi předtím chyběla. Podrobná Obecka ji má jako samostatný oddíl otázky, takže se na ni pravděpodobně doptají.
+
+> ### **CKD (chronic kidney disease) = poškození struktury či funkce ledvin přetrvávající alespoň 3 měsíce, které má důsledky pro zdravotní stav pacienta.**
+
+**Etiopatogeneze:**
+
+| Skupina | Zástupci |
+|---|---|
+| **Důsledek původního onemocnění** | **diabetes mellitus** · **arteriální hypertenze** · glomerulonefritida |
+| **Dědičná onemocnění ledvin** | **polycystická nemoc ledvin** · tuberózní skleróza · von Hippel-Lindauova choroba · **Alportův syndrom** |
+| **Tubulo-intersticiální nefritidy** | |
+
+⚠️ Zdroj píše *„Aportův syndrom"* — správně je **Alportův syndrom**.
+
+**Farmakokinetika léčiv u CKD — projde se celým ADME:**
+
+| Fáze | Změna |
+|---|---|
+| **Absorpce** | **hyperamonemie → ↑ pH žaludku** · porucha evakuace žaludku při **uremické nebo diabetické neuropatii** |
+| **Distribuce** | **nízká vazebná kapacita plazmatických proteinů** · metabolická acidóza · **obsazení bílkovin uremickými toxiny** · hypoalbuminemie u nefrotického syndromu |
+| **Eliminace** | pokles **GF i tubulární sekrece** → **prodloužení poločasu → kumulace** |
+
+**Stanovení dávky u CKD — postup v pěti krocích:**
+1. **Vyšetření renálních funkcí** (clearance kreatininu)
+2. **Zjištění, jak se léčivo eliminuje**
+3. **Volba podle mechanismu eliminace** — pečlivě zvážit alternativy k léčivům vylučovaným ledvinami
+4. **Výpočet iniciální a udržovací dávky**
+5. **Buď snížit dávku** při zachovaném intervalu, **nebo prodloužit dávkovací interval**
+
 ## Játra a enterohepatální cirkulace
 
 Přestup z krve přes sinusoidální a luminální membránu → **žlučí do střeva** → stolice. V duodenu a tenkém střevě se ale léčivo může **znovu vstřebat**.
@@ -361,3 +460,18 @@ Fyziologický význam pro **žlučové kyseliny, vitaminy D₃ a B₁₂, kyseli
 > ⚠️ **Antibiotická léčba mění střevní mikroflóru** → snižuje schopnost dekonjugace → **může snížit plazmatické koncentrace** (mykofenolát a další imunosupresiva).
 
 **Cílené přerušení cirkulace:** **aktivní uhlí** v tenkém střevě — přeruší enterohepatální cirkulaci **α-amanitinu při otravě muchomůrkou zelenou**.
+
+**Hepatobiliární exkrece se týká látek s amfifilním charakterem** — mají lipofilní část i skupinu nesoucí elektrický náboj.
+
+## `✅` Ostatní extrarenální cesty
+
+| Cesta | Co se jí vylučuje |
+|---|---|
+| **Plíce** | **těkavé látky — inhalační anestetika** |
+| **Pot, sliny** | **množství léčiv velmi malé** |
+| **Mateřské mléko** | zvláštní význam — **ohrožení kojeného dítěte** |
+
+> ### ⚠️ Mateřské mléko — mechanismus, který zdroj uvádí a stojí za zapamatování
+> **Mléko má nižší pH (asi 7,0) než plazma → hromadí se v něm zásaditá léčiva.**
+>
+> Je to iontová past: zásadité léčivo se v kyselejším mléce protonizuje, ztratí schopnost projít membránou zpět a **koncentruje se tam**. Stejný princip jako u ovlivnění pH moči o pár odstavců výš — jen v opačném gardu.
