@@ -322,9 +322,11 @@ Označení doplňku stravy **musí** obsahovat termín „doplněk stravy", **ne
 
 # O3 — Předepisování léčivých přípravků
 
+✅ **Ověřeno a doplněno podle podrobné Obecky (s. 13–18) dne 2026-08-10.**
+
 ## Kostra odpovědi
 
-> Co je lékařský předpis → e-recept jako standard → části listinného receptu latinsky → recept s modrým pruhem → platnosti → generická substituce
+> Co je lékařský předpis → **tři druhy: recept / žádanka / poukaz** → e-recept jako standard → části listinného receptu latinsky → **speciální formulace** → **IPLP a magistraliter receptura** → recept s modrým pruhem a konopí → platnosti → generická substituce
 
 ## Základ
 
@@ -355,11 +357,90 @@ Vzniká v systému lékaře, odesílá se do **centrálního úložiště**. Pac
 | **Subscriptio** | počet balení — **latinsky ve 4. pádě**, římskou číslicí i slovy |
 | **Signatura** | pokyny pacientovi — **D.S.**, datum, podpis, razítko |
 
-## Recept s modrým pruhem
+## ⚠️ `✅` Speciální formulace na receptu — blok, který mi skoro celý chyběl
 
-Na **omamné látky skupiny I a psychotropní skupiny II**. Od 1. 1. 2022 jako e-recept s příznakem „vysoce návyková látka".
+> Zdroj jich vyjmenovává jedenáct. Jsou to poznámky, kterými lékař mění standardní režim výdeje — vděčná otázka na doptání, protože každá má konkrétní důvod.
+
+| Formulace | Co znamená |
+|---|---|
+| **Hradí pacient** | přípravek **nemá být hrazen** z veřejného pojištění — např. **hormonální antikoncepce** |
+| **Základní úhrada** | hradí se z veřejného pojištění, **výši určuje pojišťovna** |
+| **Zvýšená úhrada** | vyšší než základní |
+| **Hradí zaměstnavatel** | ⚠️ **nemoc z povolání** |
+| **NEZAMĚŇOVAT** | lékař trvá na přípravku **konkrétního výrobce** — např. při **alergii na pomocnou látku**; jinak lékárna **smí zaměnit za generikum** |
+| **PŘEKROČENÍ** | ⚠️ **záměrné překročení dávkování** stanoveného Českým lékopisem; **bez něj lékárník vydá jen tolik, kolik smí** |
+| **Neregistrovaný LP** | viz režimy v O2 |
+| **Opakovací recept** | **Repetatur + kolikrát**; platí **6 měsíců**; ⚠️ **nelze u omamných a návykových látek** |
+| **Neodkladná péče** | pacientovi, s jehož pojišťovnou nemá lékař uzavřenou smlouvu (např. soukromá nemocnice) |
+| **Pohotovost** | recept z pohotovostní služby — platí **den vystavení + následující den** |
+| ***Ad usum proprium*** | „k vlastnímu užití" — lékař předepisuje **sobě nebo rodině** |
+| ***Ad manus medici* / *pro medico*** | **lékař přípravek aplikuje**, ale v lékárně jej vyzvedne pacient |
+
+## ⚠️ `✅` IPLP a magistraliter receptura — celý tenhle blok mi chyběl
+
+> **Pro tebe je tohle nejdůležitější doplněk celé otázky.** IPLP předepisují podle zdroje hlavně **oční lékaři, dermatologové a neurologové** — ale v zubním lékařství se individuálně připravují ústní vody a lokální přípravky, takže je pravděpodobné, že se tě na receptáž doptají.
+
+**IPLP připravuje lékárník v lékárně. Jejich počet klesá** — kvůli nákladnosti, pracnosti, neznalosti a **špatné ověřitelnosti kvality, bezpečnosti a účinnosti**.
+
+**Zdroje receptur:** **národní část Českého lékopisu** · sborníky předpisů a učebnice (*Praescriptiones magistrales*) · konzultace s farmaceuty · **IPLP receptář (iplprecept.cz)**
+
+### Jak se píše *Praescriptio* u IPLP
+
+- **2. pád jednotného čísla** *(Acidi salicylici — „kyseliny salicylové")*
+- **jedna látka na jeden řádek**, začíná **velkým písmenem**
+- **dávka v gramech — písmeno „g" se nepíše**
+- ⚠️ **minimálně jedno desetinné místo** — píše se `10,0`, ne `10`
+- ⚠️ **vykřičník při úmyslném překročení** dávky
+
+### ⚠️ Čtyři latinské zkratky — tohle se ptají
+
+| Zkratka | Latinsky | Význam | Příklad |
+|---|---|---|---|
+| **aa** | *ana partes aequales* | **po stejných částech** | `Acidi salicylici / Resorcini · aa 2,0` → obě látky po 2 g |
+| **ad** | — | **doplň do** (celkového množství) | `Ethanoli 60 % · ad 100,0` → dolij do 100 g celkem |
+| **aa ad** | — | **po stejných částech doplň do** | `Zinci oxidi / Talci / Glyceroli · aa ad 41,0` |
+| **q.s.** | *quantum satis* | **kolik je třeba** | `Cacao olei · q.s.` |
+
+### *Subscriptio* — pokyny pro přípravu
+
+**M. f.** = *Misce fiat / fiant* = **smíchej, aby vznikl / vznikly**
+
+> ### ⚠️ Dispenzovaná × dividovaná forma — klasická chytačka
+>
+> | | **D. t. dos. No. …** | **Div. in dos. aeq. No. …** |
+> |---|---|---|
+> | Latinsky | *Dentur tales doses* | *Divide in doses aequales* |
+> | Česky | **„dej takových dávek"** | **„rozděl na takový počet dávek"** |
+> | Uvedené množství je | **na JEDEN kus** lékové formy | **celkové na VŠECHNY dávky** |
+>
+> **Tohle je ten rozdíl, na kterém se dá chybovat o řád.** U dispenzované píšeš dávku na jednu tabletu; u dividované celkovou navážku, kterou lékárník rozdělí.
+
+**Signatura:** **S.** = *signa* = označ · **D.** = *da / detur / dentur* = vydej · běžně **D. S.** + pokyny **česky**
+
+## Recept s modrým pruhem, žádanky a poukaz
+
+**Recept s modrým pruhem** — na **omamné látky skupiny I a psychotropní skupiny II**. Od 1. 1. 2022 jako e-recept s příznakem **„vysoce návyková látka"**.
 **Pouze 1 druh přípravku na recept · nesmí být opakovací.**
 Příklady: morfin, metadon, fentanyl (omamné) · fentermin, methylfenidát (psychotropní).
+
+### `✅` Žádanka — dva druhy
+
+| | **Běžná** | **S modrým pruhem** |
+|---|---|---|
+| Forma | listinná **i elektronická** | ⚠️ **pouze listinná** |
+| Počet položek | **neomezeně** | ⚠️ **nejvýše 5 léčivých přípravků** |
+| Zvláštnost | stejné informace jako e-recept | **1 originál + 3 průpisy** (zakládá oddělení i lékárna) |
+
+### `✅` Poukaz na zdravotnický prostředek
+
+Listinný nebo elektronický. ⚠️ **Musí být vyplněna diagnóza.** Vydává se v **lékárně, výdejně zdravotnických prostředků, oční optice** nebo u smluvního výdejce.
+
+### `✅` Léčebné konopí — LP na předpis s omezením
+
+- předepisuje **jen lékař se specializovanou způsobilostí**
+- ⚠️ **výhradně elektronicky**
+- **maximálně 180 g na 1 měsíc na 1 pacienta**
+- od 1. 1. 2020 **hrazeno z 90 % do 30 g měsíčně** (1 g na den)
 
 ## Platnost předpisů *(vděčná otázka na doptání)*
 
@@ -380,7 +461,23 @@ V ČR **povolena** za tří podmínek současně: přípravek je **nedostupný**
 
 **Užitečné formulace:** *ad usum proprium* = lékař předepisuje sobě či rodině · *ad manus medici* (pro medico) = lékař přípravek aplikuje, pacient jej vyzvedne · *nezaměňovat* = trvání na konkrétním výrobci.
 
-> **Vypustil jsem:** AISLP, brevíř a podrobnosti lékového záznamu. Stačí vědět, že **lékový záznam** eviduje předepsané a vydané e-recepty (lékař vidí 5 let zpět, farmaceut 1 rok), funguje na principu **opt-out** a slouží proti duplicitám a nežádoucím kombinacím.
+## `✅` Informační zdroje a lékový záznam
+
+| Zdroj | Co to je |
+|---|---|
+| **AISLP** — Automatizovaný informační systém LP | **největší databáze** LP registrovaných v ČR a na Slovensku (SÚKL i centralizovaně přes EMA), **parafarmaceutik** a prostředků zdravotnické techniky; **vždy aktuální**; ke každému LP **SPC, PIL, složení, způsob výdeje, ceny a úhrady, preskripční a indikační omezení** |
+| **Brevíř** | **zkrácené** informace o všech LP dostupných v ČR, **řazené abecedně**, oborově specializované |
+
+**Lékový záznam** — evidence všech vystavených a vydaných e-receptů konkrétního pacienta (**od 1. 6. 2020**; **od 8. 10. 2021 i záznamy o očkování**).
+
+| Kdo | Vidí nazpět | Kdy smí nahlížet |
+|---|---|---|
+| **Lékař** | **5 let** | při poskytování zdravotních služeb pacientovi, **při zásahu ZZS** |
+| **Klinický farmaceut** | 5 let | při poskytování zdravotních služeb pacientovi |
+| **Farmaceut** | **1 rok** | **při výdeji LP a ztotožnění pacienta** při osobní konzultaci |
+| **Pacient** | — | vždy do svého |
+
+> ⚠️ **Opraveno:** v první verzi jsem psal, že lékový záznam funguje na principu **opt-out**. **Podrobná Obecka to netvrdí** — vymezuje jen okruh oprávněných osob. Tvrzení jsem odstranil; pokud ho potřebuješ, ověř si ho v přednášce. `[⚠️ ověřit]`
 
 ---
 
