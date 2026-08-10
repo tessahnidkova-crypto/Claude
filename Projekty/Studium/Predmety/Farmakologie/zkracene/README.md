@@ -33,8 +33,19 @@
 
 ⚠️ **Chyby nalezené v podrobné Obecce** (opravené v mých souborech): posunutá tabulka jaderných receptorů v O22 · text neindukovatelných enzymů pod nadpisem „benzpyrenový typ" v O19 · „Aportův syndrom" místo **Alportův** v O20 · „adrenogenní receptor" místo **androgenní**.
 
-**Priorita 2 — `O1`–`O4`, `O6`–`O8`, `O10`–`O13`, `O15`–`O16`.**
-Podrobná Obecka část 1, ⚠️ **jen jako obrázek** (rozbité kódování fontu).
+**Priorita 2 — `O2`–`O4`, `O6`–`O8`, `O10`, `O11`, `O13`, `O15`, `O16`.**
+
+✅ **Rozbité kódování části 1 je opravené** — viz `../KB-zdroje.md`. Zdroj se teď čte jako text
+z `Inputs/obecka-podrobna-cast1-CITELNA.pdf`, mapa stránek je v KB. Renderování obrázků
+už není potřeba, takže ověření zbylých otázek je rychlé.
+
+**Hotovo z priority 2 (2026-08-10):**
+- **O1** — doplněna odvětví farmakologie (9), tabulka morfémů, původ a zdroje léčiv,
+  struktura lékopisu, obsah tabulek I–V, *dosis pro infantibus*
+- **O10** — zkontrolována proti s. 56–59, **odpovídá zdroji, beze změny**
+- **O12** — potvrzena a doplněna saturační kinetika (Michaelis–Mentenová, K_M, v_max),
+  `k_e = CL/V_d`, `t₁/₂ = 0,7·V_d/CL`, pravidlo 5 poločasů; opravena moje chyba
+  „překročitelné maximum" → **nepřekročitelné**
 
 **Priorita 3 — `O35`.** Sehnat oficiální zpracování, moje verze je z obecných znalostí.
 
