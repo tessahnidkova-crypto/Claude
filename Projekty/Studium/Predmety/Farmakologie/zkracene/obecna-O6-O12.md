@@ -31,7 +31,10 @@ Zdroj: `Inputs/obecka-vypracovane-otazky.pdf`, s. 13–28 · Zkráceno 2026-08-0
 
 ## Tekuté formy — *liquida peroralia*
 
-Cílová skupina: **problémy s polykáním**, sonda, děti do 6 let (flexibilní dávkování), geriatrie. Odměřování pipetou, stříkačkou, odměrkou; **1 ml ≈ 20 kapek**.
+Cílová skupina: **problémy s polykáním**, sonda, děti do 6 let (flexibilní dávkování), geriatrie. Odměřování pipetou, stříkačkou, odměrkou; **1 ml vodného roztoku ≈ 20 kapek**.
+`✅` **Lžičky:** **čajová 5 ml · polévková 15 ml**. Typická léčiva: analgetika, spasmolytika, **expektorancia, antitusika**, ATB.
+
+> `✅` **Perorální podání může být i lokální** — když má léčivo působit přímo v GIT: **antacida** při pálení žáhy, léčiva na průjmy a na **zánětlivá onemocnění střev (Crohnova nemoc)**. *(Zdroj píše „Cronova" — správně **Crohnova**.)*
 
 | Forma | Podstata |
 |---|---|
@@ -43,7 +46,27 @@ Cílová skupina: **problémy s polykáním**, sonda, děti do 6 let (flexibiln�
 
 **Tradiční rostlinné roztoky:** macerát (louhování za studena) · nálev (přelití vroucí vodou — list, nať, květ) · odvar (od pokojové teploty se přivede k varu — kořen, hlíza, semeno) · tinktury · aromatické vody · léčivé lihy.
 
-**Výhody roztoků:** snadná příprava a aplikace, rychlý účinek, flexibilní dávkování. **Nevýhoda:** omezená chemická a mikrobiální stabilita.
+**Výhody roztoků:** snadná příprava a aplikace, rychlý účinek, flexibilní dávkování. **Nevýhoda:** omezená chemická a mikrobiální stabilita → uchovávat **v dobře uzavřených obalech, chráněné před světlem, za snížené teploty**.
+
+### `✅` Konkrétní údaje, které zdroj uvádí a stojí za zapamatování
+
+**Rozpouštědla (*solvens*):** voda · **ethanol — 60 % = *spiritus dilutus*, 85 % = *spiritus concentratus*** · **glycerol 85 %**
+
+**Tinktury (*tincturae*)** — čiré, tmavě zbarvené tekutiny s charakteristickým zápachem a chutí.
+> ⚠️ **Poměr: 1 díl drogy : 5–10 dílů extrakční tekutiny** (zpravidla **ethanol 60–96 %**). Získávají se **extrakcí (macerací)** nebo rozpouštěním hustých či suchých extraktů. **K vnitřnímu i vnějšímu užití.**
+
+| Tinktura | Latinsky | Použití |
+|---|---|---|
+| **Kozlíková** | *Valerianae tinctura* | **sedativum, anxiolytikum** |
+| **Z kamenouhelného dehtu** | *Carbonis detergens tinctura* | **zevně** — svědivost, rohovatění kůže, **lupénka** |
+
+**Sirupy (POR SIR)** — vodné roztoky s velkým podílem **sacharózy** nebo jiného sladidla (glukóza, sorbitol, **sacharin, aspartam, acesulfam**), **viskózní konzistence**, jen k vnitřnímu užití.
+Lékopisné IPLP sirupy: ***sirupus simplex*** (prostý) · ***sirupus althaeae*** (proskurníkový) · ***sirupus aurantii*** (pomerančový)
+
+> ### `✅` Injekční roztok podaný per os — praktická zvláštnost
+> Používá se **jen krajně** (interna, JIP). Problémy: **špatná biologická dostupnost · first-pass efekt · degradace v žaludku · nevhodné pomocné látky** (⚠️ **ethanol — ne u kojenců**).
+> **Podmínka vhodnosti:** injekční i perorální forma musí obsahovat **stejnou sůl** léčiva.
+> U nás se takto po naředění podává např. **furosemid**.
 
 ## Pevné formy — tablety
 
