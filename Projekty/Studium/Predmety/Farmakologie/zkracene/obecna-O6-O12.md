@@ -227,11 +227,22 @@ Sterilní, k aplikaci **do spojivkového vaku**. Léčí vnější oko a předn�
 
 ⚠️ **Do oka pronikne jen asi 1 % dávky** — zbytek vyplaví slzy. Proto se aplikuje opakovaně.
 
-**Požadavky:** sterilita (protimikrobiální přísada **benzalkonium-chlorid**) · izotonicita · **pH 7–9** pro bezbolestnou aplikaci (tolerance 5–11) · snížené povrchové napětí · **viskozita vyšší než u slz** (prodlouží kontakt).
+`✅` Léčivo se dostává dovnitř **transkorneální difuzí**. **Biologická dostupnost závisí na objemu roztoku a na době kontaktu** léčiva s absorpční plochou — proto se zvyšuje viskozita.
 
-**Formy:** oční kapky (*oculoguttae*, do 20 ml) · oční vody (*aquae ophtalmicae*, výplach, do 200 ml) · polotuhé (*oculenta*, tuby do 5 g) · **oční inzerty** (*lamelae*, do spojivkového vaku, řízené uvolňování) · oční injekce (pod spojivku, max 1 ml).
+**Požadavky:** sterilita a aseptičnost (protimikrobiální přísada **benzalkonium-chlorid 0,01 %**; vehikulum **sterilizovaná voda nebo olej určený pro injekce**) · izotonicita · **pH 7–9** pro bezbolestnou aplikaci (tolerance 5–11) · snížené povrchové napětí · **viskozita vyšší než u slz** (prodlouží kontakt).
 
-Jednodávkové obaly **bez** protimikrobiální přísady × vícedávkové **s** přísadou, max 10 ml.
+**Formy:**
+
+| Forma | Latinsky | Objem / zvláštnost |
+|---|---|---|
+| **Oční kapky** | *oculoguttae*, **collyria** | vodné i **olejovité** roztoky a suspenze; **vícedávkové max 10 ml** |
+| **Oční vody** | *aquae ophtalmicae*, **lotiones** | k **výplachům**, **max 200 ml** |
+| Prášky pro oční kapky a vody | *pulveres pro oculoguttis et aquis ophtalmicis* | sterilní, pro přípravu roztoku či suspenze |
+| **Polotuhé oční přípravky** | *oculenta*, *ocularia semisolida* | masti, krémy, gely na spojivku; **tuby s aplikátorem, max 5 g**; ⚠️ **základ nesmí dráždit spojivku** |
+| **Oční inzerty** | *oculoinserta*, **lamelae** | do spojivkového vaku; **matricové nebo membránové systémy**, uvolňují léčivo po stanovenou dobu |
+| **Oční injekce** | — | pod spojivku, vzácně do **přední komory či sklivce**; **max 1 ml**; ⚠️ **až při nedostatečném účinku kapek**; ATB, **mydriatika**, kortikoidy |
+
+Jednodávkové obaly **bez** protimikrobiální přísady × vícedávkové **s** přísadou (po otevření **omezená použitelnost**).
 
 **Aplikace:** záklon hlavy, pohled vzhůru, odtáhnout dolní víčko, kapka do spojivkového vaku, **zavřít oči a stlačit vnitřní koutek asi minutu** — zabrání odtoku slzným kanálkem a systémovému vstřebání.
 
