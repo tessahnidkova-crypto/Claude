@@ -6,6 +6,13 @@ Thumbs.db
 *.tmp
 *~
 
+# Python — bytecode cache, vzniká při spouštění skriptů z nastroje/
+__pycache__/
+*.pyc
+
+# Mezikrok při generování PDF (md2pdf.py ho maže sám, tohle je pojistka)
+*.tisk.html
+
 # Velké binární věci, které do gitu nepatří (nahraj je jinam a odkaž)
 *.mp4
 *.mov
