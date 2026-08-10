@@ -145,20 +145,15 @@ Alergické reakce jsou **imunologicky zprostředkované** a vyžadují **předch
 
 ## Změny farmakokinetiky
 
-| Fáze | Změna |
-|---|---|
-| **Absorpce** | ↓ **kyselá sekrece o 40 %** · **zpomalení motility progesteronem** · **urychlená plicní** absorpce · ⚠️ **snížená po i.m. podání** |
-| **Distribuce** | **V_d ↑ až o 50 %**, tělesná voda **+ až 7 l** · **diluční hypoalbuminemie → ↑ volná frakce** |
-| **Eliminace jaterní** | **↑ CYP3A4, 2D6, 2C9** · **↓ CYP1A2 a 2C19** |
-| **Eliminace renální** | **↑ průtok o 25–50 %, ↑ GF o 50 %** → ↑ exkrece |
+**Absorpce:** ↓ **kyselá sekrece o 40 %** · **zpomalení motility progesteronem** · urychlená plicní absorpce · ⚠️ **snížená po i.m. podání**
+**Distribuce:** **V_d ↑ až o 50 %**, tělesná voda **+ až 7 l** · **diluční hypoalbuminemie → ↑ volná frakce**
+**Eliminace:** **↑ CYP3A4, 2D6, 2C9**, **↓ CYP1A2 a 2C19** · **↑ průtok ledvinami o 25–50 %, ↑ GF o 50 %**
 
 ## Placenta a plod
 
-**Téměř všechna léčiva pronikají v určité míře do cirkulace plodu.** Hlavní mechanismus je **prostá difuze** — nejlépe prostupují látky **lipofilní, neionizované, s nízkou MH**. **P-glykoprotein** naopak některá léčiva **vypuzuje zpět k matce**.
+**Téměř všechna léčiva pronikají v určité míře do cirkulace plodu.** Hlavní mechanismus je **prostá difuze** — nejlépe prostupují látky **lipofilní, neionizované, s nízkou MH**. **P-glykoprotein** naopak některá léčiva **vypuzuje zpět k matce**. **Eliminace u plodu je velmi nezralá** — zajišťuje ji hlavně **zpětná difuze k matce**.
 
 > ⚠️ **Krev plodu má nižší pH než mateřská** → **slabé báze proniknou snáze a v krvi plodu ionizují**, čímž se tam zachytí (iontová past).
-
-**Eliminace u plodu je velmi nezralá** — zajišťuje ji hlavně **zpětná difuze do mateřského kompartmentu**.
 
 ## ⚠️ Tři období a čemu odpovídají
 
@@ -190,16 +185,10 @@ Alergické reakce jsou **imunologicky zprostředkované** a vyžadují **předch
 
 ## Co je vhodné
 
-| Skupina | **Vhodné** | **Nevhodné** |
-|---|---|---|
-| Analgetika | **paracetamol** | **ibuprofen ve III. trimestru**, ASA, kodein |
-| **ATB** | **peniciliny**, cefalosporiny | **tetracykliny, chinolony, sulfonamidy** |
-| Antidiabetika | **inzulin** | perorální antidiabetika |
-| Antitrombotika | **nízkomolekulární hepariny** | **warfarin** |
-| Antihypertenziva | **methyldopa** | **ACE inhibitory** |
-| Hypolipidemika | pryskyřice | **statiny** |
+**Vhodné:** **paracetamol** · **peniciliny** a cefalosporiny · **inzulin** · **nízkomolekulární hepariny** · **methyldopa**
+**Nevhodné:** **ibuprofen ve III. trimestru**, ASA, kodein · **tetracykliny, chinolony, sulfonamidy** · perorální antidiabetika · **warfarin** · **ACE inhibitory** · **statiny**
 
-**Doporučení:** ověřit těhotenství před nasazením · **vyloučit léčiva zejména v I. trimestru** · **dlouhodobě prověřené preparáty** · **monoterapie nejnižší možnou dávkou** · **užívat večer, kdy je nauzea nejmenší**.
+**Doporučení:** ověřit těhotenství před nasazením · **vyloučit léčiva zejména v I. trimestru** · **prověřené preparáty**, **monoterapie nejnižší dávkou** · **užívat večer, kdy je nauzea nejmenší**.
 
 > ⚠️ **Klíčová věta u chronických onemocnění: terapie se považuje za menší riziko než neléčené onemocnění.**
 
