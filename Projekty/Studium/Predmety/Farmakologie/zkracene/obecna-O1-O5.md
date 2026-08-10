@@ -188,11 +188,33 @@ Všechno ostatní je ze tvého zdroje, jen zhuštěné.
 
 # O2 — Legislativa související s léčivy, doplňky stravy a zdravotnickými prostředky, regulační orgány
 
+✅ **Ověřeno a doplněno podle podrobné Obecky (s. 7–12) dne 2026-08-10.**
+
 ## Kostra odpovědi
 
-> Tři kategorie a hranice mezi nimi (léčivo × doplněk stravy × zdravotnický prostředek) → pravidla propagace → regulační autority
+> **Zákon o léčivech a co definuje** → tři kategorie a hranice mezi nimi (léčivo × doplněk stravy × zdravotnický prostředek) → **klasifikace LP a informace o nich** → **zvláštní použití: neregistrovaný, léčebný program, off-label** → originál × generikum → pravidla propagace → regulační autority
 
 **Jádro otázky je hranice mezi kategoriemi.** Zkoušející chce slyšet, že víš, proč doplněk stravy nesmí tvrdit, že něco léčí.
+
+## `✅` Zákon o léčivech — čím otázku otevřít
+
+> Tenhle úvod mi předtím chyběl celý, přitom je to doslova název otázky („legislativa").
+
+**Zákon o léčivech stanovuje podmínky pro:**
+1. **výzkum, výrobu, přípravu, distribuci, kontrolu a odstraňování** léčivých přípravků a látek
+2. **registraci, poregistrační sledování, předepisování a výdej** LP, prodej vyhrazených LP a poskytování informací
+3. **mezinárodní spolupráci** při ochraně veřejného zdraví a vytváření **jednotného trhu léčiv EU**
+4. **vedení dokumentace** o všech výše uvedených činnostech
+
+### `✅` Pomocné látky — konkrétní příklady, které zdroj uvádí
+
+**Pomocná látka** = jakákoliv složka LP, která **není léčivou látkou ani obalovým materiálem**.
+
+**plniva · pojiva · kluzné látky · rozvolňovadla a rozpouštědla · barviva · protimikrobiální látky** (např. v očních kapkách) · **chuťová a čichová korigencia**
+
+> ⚠️ **Barviva mají dvě různé role — a tohle je detail, který se hezky pamatuje:**
+> - **rozlišení síly:** **warfarin 5 mg modrá, 3 mg růžová** *(bezpečnostní funkce — záměna warfarinu je nebezpečná)*
+> - **marketing:** růžový Ibalgin
 
 ## Tři kategorie
 
@@ -207,6 +229,70 @@ Všechno ostatní je ze tvého zdroje, jen zhuštěné.
 **Doplňky stravy** dělíme na vitaminy · minerály a stopové prvky · extrakty z rostlin (ginkgo, guarana) · antioxidanty · anabolické suplementy (karnitin, BCAA) · ostatní (aminokyseliny, glukosamin, kreatin).
 
 Označení doplňku stravy **musí** obsahovat termín „doplněk stravy", **nesmí** přisuzovat schopnost prevence, léčby nebo vyléčení nemoci, a **nesmí** naznačovat, že vyvážená strava nestačí. Smí nést jen **schválená** výživová a zdravotní tvrzení.
+
+## `✅` ATC klasifikace — pět úrovní, teď i s názvy
+
+| Úroveň | Název |
+|---|---|
+| **1.** | **anatomická** |
+| **2.** | **hlavní terapeutická** |
+| **3.** | terapeutická |
+| **4.** | chemicko-terapeutická |
+| **5.** | **účinná látka** |
+
+**Písmena, která se vyplatí znát:** **A** trávicí trakt a metabolismus · **B** krev a krvetvorné orgány · **C** kardiovaskulární systém · **D** dermatologika · **G** urogenitální trakt a pohlavní hormony · **H** systémová hormonální léčiva (kromě pohlavních hormonů a inzulinů) · **J** antiinfektiva pro systémovou aplikaci · **L** cytostatika a imunomodulancia · **M** muskuloskeletární systém · **N** nervový systém · **P** antiparazitika, insekticidy, repelenty · **R** respirační systém · **V** různé přípravky
+
+## `✅` Klasifikace léčivých přípravků
+
+**Podle způsobu výroby:**
+
+| | **HVLP** | **IPLP** |
+|---|---|---|
+| Co to je | **hromadně vyráběné** LP | **individuálně připravované** LP |
+| Kde | **průmyslově, v šaržích, mimo zdravotnická zařízení** | **v lékárně, farmaceutem** |
+| Podle čeho | **registrace u SÚKL / EMA** | **individuální lékařský předpis** |
+
+**Podle možnosti výdeje — čtyři kategorie:**
+
+| Kategorie | Kdo vydává | Podmínka |
+|---|---|---|
+| **Vázaný na lékařský předpis** | **pouze farmaceut** | jen proti receptu |
+| **Volně prodejný s omezením** | **farmaceut + průkaz totožnosti** | ⚠️ **omezený počet balení — kvůli výrobě drog**; typicky **pseudoefedrin** |
+| **Volně prodejný (OTC)** | farmaceut nebo **farmaceutický asistent** | v lékárně, bez receptu |
+| **Vyhrazený** | **i mimo lékárnu** — u prodejců vyhrazených léčiv | bezpečné přípravky: **čaje, dezinfekce, slabá analgetika** |
+
+## `✅` Informace o léčivém přípravku — SPC × PIL
+
+| | **SPC** — souhrn údajů o přípravku | **PIL** — příbalová informace |
+|---|---|---|
+| Pro koho | **odbornou veřejnost** | **uživatele (pacienta)** |
+| Postavení | **součást rozhodnutí o registraci** | **součást léčivého přípravku** (u HVLP) |
+| Dostupnost | **povinně veřejný dokument, už před registrací** | přiložena v balení |
+| Obsah | informace podstatné pro správné používání | **zjednodušené** informace |
+
+## ⚠️ `✅` Zvláštní používání léčivých přípravků — tenhle blok mi chyběl celý
+
+> **Vděčná část otázky**, protože ukazuje, že rozumíš tomu, že registrace není jediná cesta k léčivu.
+
+| Režim | Podmínky |
+|---|---|
+| **Neregistrovaný LP** | v ČR **není distribuován** žádný registrovaný LP srovnatelného složení a vlastností · je **registrovaný v zahraničí** · **neobsahuje GMO** · **pacient je s postupem seznámen** |
+| **Specifický léčebný program** | schvalují **MZČR, SZÚ a SÚKL** · některé jsou **hrazeny z veřejného pojištění** · ⚠️ **použití se nemusí hlásit SÚKL** |
+| **Off-label** | použití **mimo SPC** — jiná indikace, jiná aplikační cesta, jiná věková kategorie |
+
+> ### ⚠️ Věta, kterou u off-label musíš říct
+> **Off-label použití NENÍ postup non lege artis ani nezákonné použití.** Přesně na tohle se doptávají — je to častý omyl.
+
+## `✅` Originální × generický lék
+
+| | **Originální (referenční)** | **Generikum** |
+|---|---|---|
+| Definice | **první zaregistrovaný** lék s danou léčivou látkou; léčivá látka i know-how jsou **patentově chráněné** | obsahuje **stejné léčivo ve stejném množství** |
+| Léková forma | — | **stejná** |
+| Biologická účinnost | — | **stejná** |
+| Pomocné látky | — | ⚠️ **typ a poměr se mohou lišit** |
+
+> **To poslední je pointa:** generikum není identická kopie — liší se pomocnými látkami. Proto může mít jinou barvu, chuť nebo snášenlivost, i když účinek je stejný.
 
 ## Propagace léčivých přípravků
 
@@ -226,7 +312,9 @@ Označení doplňku stravy **musí** obsahovat termín „doplněk stravy", **ne
 |---|---|---|
 | **SÚKL** | ČR | registrace LP, **stanovení cen a úhrad**, sledování bezpečnosti, dozor nad pohybem léčiv, správa **centrálního úložiště e-receptů** |
 | **EMA** | EU | schvaluje léčiva pro EU, hodnotí žádosti o registraci, sleduje bezpečnost; **brání protekcionismu států** |
-| **FDA** | USA | léčiva, potraviny, kosmetika, zdravotnické přístroje |
+| **FDA** — *Food & Drug Administration* | USA | **vládní agentura USA** — kontrola a regulace léčiv, potravin, kosmetiky a lékařských přístrojů |
+
+⚠️ Zdroj píše zkratku **„EDA"** — správně je **FDA**.
 
 > **Vypustil jsem:** doslovný výčet zákazů v reklamě (převedl jsem ho na čtyři principy — u zkoušky se lépe pamatuje i lépe zní).
 
