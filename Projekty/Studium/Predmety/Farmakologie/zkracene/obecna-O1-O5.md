@@ -1,6 +1,8 @@
 # Farmakologie — zkrácené otázky · Obecná O1–O5
 
-Zdroj: `Inputs/obecka-vypracovane-otazky.pdf`, s. 1–12 · Zkráceno 2026-08-08
+Zdroj: `Inputs/obecka-vypracovane-otazky.pdf`, s. 1–12 + **`obecka-podrobna-cast1-CITELNA.pdf`, s. 1–31** · Zkráceno 2026-08-08, ověřeno 2026-08-10
+
+✅ **O1 ověřena a doplněna podle podrobné Obecky.** Doplňky jsou označené `✅`.
 
 **Značky:** `[+]` = doplněno mnou, ve tvých materiálech to není · `[⚠️ ověřit]` = nejistota
 Všechno ostatní je ze tvého zdroje, jen zhuštěné.
@@ -24,16 +26,42 @@ Všechno ostatní je ze tvého zdroje, jen zhuštěné.
 | **Farmakodynamika** | Co dělá léčivo s organismem? | mechanismy účinku | indikace, kontraindikace, nežádoucí účinky, část interakcí |
 | **Farmakokinetika** | Co dělá organismus s léčivem? | ADME — absorpce, distribuce, metabolismus, exkrece | způsob aplikace, dávkování, část interakcí |
 
-**Podobory:** klinická farmakologie (nástavbový lékařský obor, ≠ klinická farmacie) · farmakoepidemiologie · farmakoekonomika · farmakogenetika · toxikologie · **farmakovigilance** = léková bdělost, sledování nežádoucích účinků.
+**Pharmacon = léčivo, logos = věda.** Studuje účinky léčiv na organismus **i jejich nežádoucí a toxické účinky**.
+
+### `✅` Odvětví farmakologie — podrobná Obecka jich vyjmenovává devět
+
+> Moje první verze měla jen pět. Katedra je má jako samostatný oddíl hned na začátku otázky, takže je pravděpodobné, že je chce slyšet vyjmenovat.
+
+| Odvětví | Co studuje |
+|---|---|
+| **Farmakogenetika** | vliv **genotypu** na účinky a kinetiku léčiv → cílem je **individualizovaná medicína** |
+| **Klinická farmakologie** | hodnocení **nových** léčiv a jejich zavádění do klinické praxe |
+| **Farmakovigilance** *(zdroj píše „farmakoviligance" — překlep)* | **nežádoucí a neobvyklé účinky** = léková bdělost |
+| **Farmakoepidemiologie** | vliv léčiv na **zdravotní stav obyvatelstva** |
+| **Etnofarmakologie** | přírodní léčivé prostředky a jejich využití; sem patří **fytoterapie** = rostlinná terapie *(zdroj píše „fototerapie" — překlep, fototerapie je léčba světlem)* |
+| **Farmakoekonomika** | finanční náklady na výrobu, distribuci a užívání |
+| **Farmacie** | technologie výroby, přípravy, distribuce a uchovávání; **klinická farmacie** informuje o nových léčivech v praxi |
+| **Farmakognosie** | studuje **přírodní zdroje** léčiv |
+| **Toxikologie** | účinky **toxických** látek |
 
 ## Farmakoterapie — čtyři typy
 
-| Typ | Podstata | Příklad |
+> **Farmakoterapie = prevence, léčba a diagnostika nemoci pomocí léčiv.** *(Zdroj ji řadí vedle farmakodynamiky a farmakokinetiky jako třetí pilíř.)*
+
+| Typ | Podstata | Příklad ze zdroje |
 |---|---|---|
-| Kauzální | odstraňuje příčinu | antibiotikum |
-| Substituční | nahrazuje chybějící látku | inzulin |
-| Symptomatická | tlumí projev | ibuprofen |
-| Placebo | bez farmakologicky účinné látky | |
+| **I. Kauzální** | léčba **příčiny** | **ATB** |
+| **II. Substituční** | **nahrazení toho, co chybí** | **inzulin**, pankreatické a thyroidní hormony |
+| **III. Symptomatická** | tlumí projev — např. bolest | **analgetika (opiáty)** |
+| **IV. Placebo** | **bez účinné látky** | **homeopatika** |
+
+### `✅` Compliance — zdroj ji uvádí právě tady
+
+> **Compliance = ochota a schopnost pacienta dodržovat terapeutický režim.**
+>
+> **Pět faktorů, které ji ovlivňují:** **počet léčiv** · **délka léčby** · **nežádoucí účinky** · **věk** · **mentální stav**
+>
+> ⚠️ Podrobněji je compliance v **O9** — tam si ověř, že compliance a adherence jsou podle katedry **pojmy rovnocenné**.
 
 ## Právní pojmy — přesné definice
 
@@ -47,46 +75,114 @@ Všechno ostatní je ze tvého zdroje, jen zhuštěné.
 
 **Podle výdeje:** vázané na předpis → volně prodejné s omezením (pseudoefedrin, na průkaz) → volně prodejné (OTC) → vyhrazené (i mimo lékárnu).
 
-## Názvy léčiv — čtyři, na příkladu paracetamolu
+## `✅` Názvy léčiv — podle podrobné Obecky je jich **pět**, ne čtyři
 
-| Typ názvu | Příklad |
+> ⚠️ **Oprava mé první verze.** Měl jsem čtyři názvy a slučoval jsem generický s INN. **Zdroj je uvádí jako dva samostatné body.** Názvosloví vytváří **WHO** a má **celosvětovou platnost**.
+
+| # | Typ názvu | Charakteristika | Příklad *(paracetamol)* |
+|---|---|---|---|
+| 1 | **Chemický** | většinou krkolomný, ale **nejlépe popisuje látku** | N-acetyl-para-aminofenol |
+| 2 | **Generický (obecný)** | běžně užívaný název | paracetamol |
+| 3 | **Mezinárodní nechráněný — INN** | mezinárodně závazný | paracetamol |
+| 4 | **Lékopisný** | **přepis INN** (latinizovaný) | paracetamolum |
+| 5 | **Výrobní (chráněný)** | ⚠️ **začíná velkým písmenem** | Paralen |
+
+**SPC = souhrn údajů o přípravku**, vydává **SÚKL**.
+
+### `✅` Morfémy v názvech — tabulka, kterou má zdroj a kterou jsem předtím vynechal
+
+> **Tohle je nejvděčnější část otázky.** Podle koncovky se pozná léková skupina, aniž bys léčivo znala — a katedra to podle všeho zkouší, protože na to má vlastní tabulku. *(Máš k tomu i `../anki-koncovky-leciv.txt`.)*
+
+| Typ morfému | Morfém | Terapeutická skupina | Příklad |
+|---|---|---|---|
+| **Předpona** | **gli-** | perorální **antidiabetika** | gliklazid, glipizid |
+| | **cef-** | **cefalosporinová ATB** | cefotaxim, cefazolin *(zdroj píše „cefataxim" — překlep)* |
+| **Vpona** | **-gest-** | **gestageny** | levonorgestrel |
+| **Přípona** | **-triptan** | **antimigrenika** | sumatriptan, eletriptan |
+| | **-pril** | **inhibitory ACE** | kaptopril, lisinopril |
+| | **-am** | **benzodiazepiny** | diazepam, alprazolam |
+| | **-mab** | **monoklonální protilátky** | rituximab, adalimumab *(zdroj píše „adalizumab" — překlep)* |
+| | **-kaftor** | regulátory vodivosti **Cl⁻ kanálu** — léčiva **cystické fibrózy** | ivakaftor, lumakaftor |
+
+## `✅` Tři druhy účinku
+
+| Účinek | Podstata |
 |---|---|
-| Chemický | N-acetyl-para-aminofenol |
-| **Generický (INN)** | paracetamol |
-| Lékopisný | paracetamolum |
-| Výrobní (chráněný) | Paralen |
+| **Farmakologický** | ovlivnění funkcí organismu různými mechanismy působení |
+| **Imunologický** | ovlivnění imunitního (obranného) systému — **posílení i oslabení** |
+| **Metabolický** | ovlivnění metabolismu |
+
+> ⚠️ **Tahle trojice je zároveň právní hranicí** mezi léčivým přípravkem a zdravotnickým prostředkem — prostředek žádný z těchto tří účinků mít nesmí (viz O2).
+
+## `✅` Původ a zdroje léčiv — teď už z materiálu, ne z mé hlavy
+
+> ⚠️ **Oprava.** V první verzi jsem tuhle část doplnil `[+]` z obecných znalostí, protože ve tvých vypracovaných otázkách chyběla. **V podrobné Obecce je** — a je členěná jinak, než jsem psal. **Platí tahle verze.**
+
+**Nejdéle používané látky pocházejí z rostlin a živočichů** — *přírodní léčiva = drogy*, tedy celé léčivé rostliny, jejich části nebo produkty, případně živočišné produkty.
+⚠️ **Na přelomu 19. a 20. století přišla akcelerace syntetické chemie** — to je zlom, který stojí za zmínku.
+
+| Zdroj | Podskupina | Příklady |
+|---|---|---|
+| **① Izolace látek** | **rostlinného původu** — velké množství látek, **ekonomicky výhodné** | **alkaloidy** (morfin, kodein, vinblastin) · **glykosidy** (digoxin) · antibiotika · flavonoidy · **karotenoidy** |
+| | **živočišného původu** | **heparin**, aprotinin |
+| | **anorganického původu** | soli — např. **KCl** |
+| **② Polosyntetická metoda** | | **zisk kodeinu z morfinu** · **peniciliny** |
+| **③ Syntetická metoda** | | **aspirin**, antipyrin · **chemoterapeutika** |
+| **④ Další** | | **tkáňové a buněčné kultury** · **biotechnologie** · **genetické inženýrství** |
 
 ## Lékopis
 
-**Český lékopis** = základní farmaceutické dílo **normativního charakteru s celostátní závazností**. Připravuje lékopisná komise, vydává **ministerstvo zdravotnictví**, přebírá z Evropského lékopisu. Stanovuje postupy výroby, zkoušení, uchovávání a dávkování léčiv.
+**Český lékopis** = základní farmaceutické dílo **normativního charakteru s celostátní závazností**. Připravuje **lékopisná komise**, vydává **ministerstvo zdravotnictví**, přebírá se především z **Evropského lékopisu**. Stanovuje postupy pro **výrobu** léčivých a pomocných látek a pro **přípravu, zkoušení, uchovávání a dávkování** léčivých přípravků.
+
+### `✅` Struktura českého lékopisu
+
+| Část | Díly | Obsah |
+|---|---|---|
+| **1. Evropská část** | **obecná = 1. díl** | všeobecné zásady (značky, symboly, **jednotky SI**) · **zkušební metody** · obaly a obalový materiál · zkoumadla · texty ke sterilitě a technologii vakcín |
+| | **speciální = 2.–3. díl** | **vakcíny** (humánní i veterinární) · **imunoséra** · alergeny · **rostlinné drogy** · **homeopatické přípravky** · **radiofarmaka** · chirurgická šicí vlákna · vaty |
+| **2. Národní část** | **4. díl** | **tabulky I–V** (viz níže) |
 
 **Léčiva podle vztahu k lékopisu:**
 
 | Termín | Význam |
 |---|---|
-| **Oficinální** | uvedená v lékopisu (z lat. *officina* = lékárna) |
-| **Neoficinální** | v lékopisu nejsou, v praxi se používat mohou |
-| **Obsoletní** | zastaralá, vyřazená z platného lékopisu |
+| **Oficinální** | uvedená v lékopisu = **lékopisné látky** (z lat. *officina* = lékárna) |
+| **Neoficinální** | v lékopisu nejsou; **užívat se mohou**, ale v praxi jsou méně běžné |
+| **Obsoletní** | **zastaralá** — vyřazená ze současně platného lékopisu |
 
-> ⚠️ **Pozor na pravopis:** ve tvých vypracovaných otázkách je chybně „oficiální" a „obsolentní". Správně je **oficinální** a **obsoletní**. „Oficiální" je úplně jiné slovo a u zkoušky to zazní jako neznalost termínu.
+> ### ⚠️ Pravopis těch dvou termínů — a nová informace
+> Správně je **oficinální** a **obsoletní**. „Oficiální" (= úřední) a „obsolentní" jsou jiná, resp. neexistující slova.
+>
+> **Nově zjištěno 2026-08-10:** stejný překlep — „OFICIÁLNÍ" a „OBSOLENTNÍ" — **má i podrobná Obecka 2024/2025, tedy materiál od katedry.** Nejsou to tedy chyby toho, kdo psal vypracované otázky; přebírají se z katederního zdroje.
+>
+> **Co s tím u zkoušky:** říkej správné tvary — je to odborná terminologie a zní to lépe. **Ale nikoho neopravuj.** Když zkoušející řekne „oficiální léčiva", je to jeho zavedený úzus; hádka o pravopis ti nepřinese ani bod.
 
 ### Národní část — tabulky *(nejčastěji zkoušená část)*
 
 | Tabulka | Co | Skladování | Označení | Příklady |
 |---|---|---|---|---|
-| **I** | omamné a psychotropní látky | uzamčená místnost nebo kovová schránka | **modrý pruh** z dolního levého rohu | fentanyl, morfin, kodein (§§) · diazepam, buprenorfin (§) |
-| **II — venena** | velmi účinná, vysoce toxická | uzamčená skříň | **bílé písmo na černém** | atropin, digoxin, adrenalin, methanol |
-| **III — separanda** | silně účinná, toxická a žíravá | odděleně od ostatních | **červené písmo na bílém** | kyselina listová, diazepam, methylprednisolon |
-| **IV** | doporučené dávky pro dospělé | | | jednotlivá, denní, **maximální** dávka |
-| **V** | doporučené dávky pro děti | | | kategorie do 1 roku / do 6 let / do 15 let |
+| **I** | omamné a psychotropní látky | **uzamčená místnost** nebo přenosná uzamykatelná **kovová schránka** | **modrý pruh** — z **levého dolního do pravého horního** rohu štítku | **§§ omamné:** fentanylum, morphini hydrochloridum trihydricum · **§ psychotropní:** amfetamini sulfas, buprenorphinum, diazepamum · **(§) prekurzory:** ephedrini hydrochloridum, pseudoephedrini hydrochloridum, acidum sulfuricum |
+| **II — venena ††** | **velmi silně účinná** léčiva (vysoce toxické látky) | **uzamčená skříň** | štítky s písmem `[⚠️ ověřit barvu]` | **atropin, digoxinum, epinephrinum, sufentanilum, methanolum** |
+| **III — separanda †** | **silně účinná** léčiva (toxické a žíravé látky) | **odděleně** od ostatních léčiv | **červené písmo na bílém pozadí** | acidum folicum, **acidum tranexamicum**, diazepamum, methylprednisolonum |
+| **IV** | doporučené terapeutické dávky **pro dospělé** — odvozené z klinických studií a praxe | | | **jednotlivá** · **denní** · **maximální** dávka |
+| **V** | doporučené dávky **pro děti** — kojenci a děti **do 15 let** | | | tři kategorie: **do 1 roku / do 6 let / do 15 let**; nejspolehlivější zdroj je **SPC** |
 
-> **Maximální dávka** = dávka, kterou **lékárník nesmí překročit** pro jednotlivé podání ani za 24 hodin — pokud to lékař na receptu výslovně neoznačí.
+> ⚠️ **Značky u tabulek:** venena **††** (dva kříže), separanda **†** (jeden kříž), omamné **§§**, psychotropní **§**, prekurzory **(§)**. Zdroj je uvádí, je to snadný bod.
+
+> **Maximální dávka** = dávka, kterou **lékárník při výdeji nesmí překročit** — ani pro jednotlivé podání, ani během 24 hodin. **Pokud to lékař na receptu výslovně neoznačí.**
+
+> ⚠️ **Barvu písma u venen podrobná Obecka neuvádí** (věta je v ní useknutá na „označení se štítky s písmem"). Moje původní „bílé písmo na černém" je z obecných znalostí — **`[⚠️ ověřit]`**, u separand červené na bílém zdroj potvrzuje.
+
+> ### `✅` Dávka pro dítě podle lékopisu — *dosis pro infantibus*
+> **dávka pro dítě = plocha těla dítěte [m²] / 1,73 × dávka pro dospělé**
+>
+> ⚠️ **Rozpor uvnitř tvých materiálů:** tady je dělitel **1,73**, v otázce **O33** (část 2, s. 69) je **1,7**. Správně je **1,73 m²** — to je standardní průměrná plocha těla dospělého `[obecné znalosti]`. U zkoušky použij **1,73**.
+>
+> Zdroj u vzorce poznamenává: *„jen pro představu, není nutno umět"*.
 
 **ATC klasifikace** = anatomicko-terapeuticko-chemická, mezinárodní, **5 úrovní**; první písmeno = anatomická skupina (C = kardiovaskulární, J = antiinfektiva, N = nervový systém).
 
-> **⚠️ Ve tvých materiálech chybí „původ a zdroje léčiv"**, přestože je to v názvu otázky. `[+]` Doplň si: rostlinné (atropin, digoxin, morfin), živočišné (heparin, inzulin), minerální, mikrobiální (peniciliny), **synteticky připravené** (dnes většina) a **biotechnologické** (rekombinantní inzulin, monoklonální protilátky).
-
-> **Vypustil jsem:** celý výčet 14 písmen ATC, podrobnou strukturu dílů lékopisu, výčet pomocných látek. U zkoušky stačí princip a příklady.
+> **Vypustil jsem:** celý výčet 14 písmen ATC a výčet pomocných látek. U zkoušky stačí princip a příklady.
 
 ---
 
