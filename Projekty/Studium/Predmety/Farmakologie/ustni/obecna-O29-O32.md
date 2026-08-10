@@ -165,13 +165,7 @@ Alergické reakce jsou **imunologicky zprostředkované** a vyžadují **předch
 
 ## Stupně teratogenity A–X
 
-| Stupeň | Význam | Příklady |
-|---|---|---|
-| **A** | studie u těhotných **neprokázaly riziko** | **levothyroxin, kyselina listová** |
-| **B** | **relativně bezpečné** | **paracetamol, amoxicilin** |
-| **C** | **teratogenní u zvířat** | teofylin, amlodipin |
-| **D** | doklady rizika, **v kritických situacích lze podat** | **sartany, ACE inhibitory** |
-| **X** | **riziko jednoznačně převažuje** | **warfarin, statiny** |
+**A** studie u těhotných **neprokázaly riziko** — **levothyroxin, kyselina listová** · **B** relativně bezpečné — **paracetamol, amoxicilin** · **C** teratogenní u zvířat — teofylin, amlodipin · **D** doklady rizika, **v kritických situacích lze podat** — **sartany, ACE inhibitory** · **X** riziko jednoznačně převažuje — **warfarin, statiny**
 
 ## Významné teratogeny
 
@@ -179,9 +173,7 @@ Alergické reakce jsou **imunologicky zprostředkované** a vyžadují **předch
 
 **II. a III. trimestr:** **benzodiazepiny a barbituráty** → **závislost plodu, abstinenční syndrom** · **ACE inhibitory** → **renální selhání, oligohydramnion** · **NSAID** → ⚠️ **předčasné uzavření Botallovy dučeje** · **tetracykliny** → ⚠️ **porucha vývoje skloviny — „tetracyklinové zuby"** · warfarin → intrakraniální hemoragie
 
-> ### Dva pojmenované syndromy
-> **Fetální hydantoinový syndrom** (fenytoin) — rozštěpy obličeje, **hypoplazie distálních článků prstů a absence nehtů**, mikrocefalie, mentální retardace, vady srdce.
-> **Fetální warfarinový syndrom** — retardace růstu, **malformace kostí a kloubů (sedlový nos)**, hluchota, mikrocefalie.
+> **Dva pojmenované syndromy:** **fetální hydantoinový** (fenytoin) — rozštěpy obličeje, **hypoplazie distálních článků prstů a absence nehtů**, mikrocefalie · **fetální warfarinový** — **malformace kostí a kloubů (sedlový nos)**, hluchota, mikrocefalie.
 
 ## Co je vhodné
 
