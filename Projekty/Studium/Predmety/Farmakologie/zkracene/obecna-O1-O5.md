@@ -587,13 +587,16 @@ Registrace **nevyžaduje plné klinické zkoušení** — stačí **studie bioek
 
 # O5 — Způsoby aplikace léčiv, výhody a nevýhody
 
-> ## ✅ Přepsáno podle podrobné Obecky 2024/2025 (s. 25–26)
+> ## ✅ Přepsáno podle podrobné Obecky 2024/2025 (s. 25–31), dokončeno 2026-08-10
 >
-> Původní verze vycházela z vypracovaných otázek, kde je pod touhle otázkou **úplně jiná látka** (generace lékových forem). Doplnil jsem ji tehdy z obecných znalostí a **kostru jsem zvolil špatně** — třídil jsem podle jednotlivých cest, zatímco tvůj materiál třídí podle **celkového a lokálního podání**. Přepsáno podle materiálu.
+> **Kostru jsem původně zvolil špatně** — třídil jsem podle jednotlivých cest, zatímco materiál třídí podle **celkového a lokálního podání**. Přepsáno podle materiálu.
+>
+> ### ⚠️ Oprava mého dřívějšího tvrzení
+> Napsal jsem, že ve tvých vypracovaných otázkách je pod O5 **„úplně jiná látka" (generace lékových forem)**. **To byl můj omyl.** Podrobná Obecka má **lékové formy jako součást otázky 5** (s. 29–31, ještě před začátkem O6 na s. 32). Vypracované otázky tedy byly na správném tématu — jen mu chyběla první polovina o způsobech aplikace. **Obojí teď najdeš níže.**
 
 ## Kostra odpovědi
 
-> Čím je volba cesty určená → **celkové podání: intravaskulární × extravaskulární** → lokální podání → jednotlivé cesty s výhodami a nevýhodami
+> Čím je volba cesty určená → **celkové podání: intravaskulární × extravaskulární** → lokální podání → jednotlivé cesty s výhodami a nevýhodami → **lékové formy: disperzní systém a tři generace**
 
 ## Čím je volba cesty určená
 
@@ -676,18 +679,155 @@ Základní přístup do cévního řečiště — nejčastěji žíla dorza ruky
 | Oranžová | 14 | 2,2 mm |
 
 > Mnemotechnika na pořadí: **čím tmavší a „vážnější" barva, tím tlustší kanyla.** Oranžová a šedá jsou pro velké objemy a resuscitaci.
+>
+> ⚠️ **Tuhle tabulku podrobná Obecka nemá** — je z obecných znalostí `[obecné znalosti]`. Praktická je, ale u zkoušky z farmakologie ji nikdo nečeká.
 
-### Ostatní cesty
+### `✅` Intramuskulární podání
 
-> ⚠️ **Tyhle jsem zatím neověřil proti podrobné Obecce** — jsou na s. 27–28, které jsem ještě nečetl. Zatím platí obecné shrnutí; až se k nim dostanu, doplním jejich znění.
+Hydrofilní i lipofilní léčiva **včetně proteinů**. Musí být **apyrogenní, sterilní, izotonické a mít vhodné pH**.
+⚠️ **Lze podat i nerozpuštěné léčivo** — suspenze, emulze a **olejovité přípravky**.
 
-| Cesta | Podstata |
+- **Účinek za 10–15 minut**
+- ⚠️ **Možnost vytvořit depo** — zásobu, ze které se látka pomalu uvolňuje
+
+**Rizika:** bolest, infekce, **absces** · **poškození nervu** · hematom
+
+> ### ⚠️ **Nicolauův syndrom** (*embolia cutis medicamentosa*)
+> **Nekróza tkáně** po intramuskulární aplikaci, která byla provedena **příliš rychle nebo příliš velkým tlakem**.
+>
+> Tohle je pojmenovaná komplikace s latinským názvem — přesně typ detailu, kterým se dá otázka ozdobit.
+
+### `✅` Subkutánní podání
+
+- **Jen nedráždivé přípravky, do objemu 2 ml**
+- **Nástup účinku za 15–20 minut**
+- ⚠️ **Výrazně závisí na prokrvení místa** *(propojení na O24 — při šoku nespolehlivé)*
+- Možnost **podkožních implantátů**
+
+### `✅` Epidurální a intrathekální podání
+
+| Cesta | Kam |
 |---|---|
-| **Intramuskulární** | rychlejší než p.o.; možnost depotních forem; bolestivé, riziko nekrózy |
-| **Subkutánní** | pomalá konstantní resorpce; inzuliny, hepariny, vakcíny |
-| **Epidurální** | nad tvrdou plenu, páteřní kanál |
-| **Intrathekální** | subarachnoideálně; obchází hematoencefalickou bariéru |
-| **Inhalační** | absorpce v alveolech, rychlost blízká i.v.; obchází játra |
-| **Intranazální** | obchází first-pass; malá plocha, omezený objem |
-| **Transdermální** | plynulý přívod, obchází first-pass; jen malé lipofilní molekuly |
-| **Intraartikulární · intraoseální · intravitreální** | uvedeny v materiálu, ověřit rozsah |
+| **Epidurální** | do prostoru **nad tvrdou plenu míšní**, kdekoli podél páteře |
+| **Intrathekální** | do **subarachnoidálního** prostoru, obvykle v **bederní** oblasti |
+
+- **Silný místní účinek při minimalizaci celkových reakcí**
+- ⚠️ **Obchází hematoencefalickou bariéru**
+
+> ⚠️ **Ve zdroji jsou popisky u obou cest prohozené** — „(spinální)" je u epidurálního a „(epidurální)" u intrathekálního. Platí rozdělení v tabulce výše: **epidurální = nad tvrdou plenu, intrathekální = subarachnoideálně**.
+
+### `✅` Inhalační podání
+
+Plyny, **kapalné i pevné aerosoly**. Lokální i celkové podání.
+
+- **Rychlost účinku se blíží intravenóznímu podání** — sekundy až několik minut
+- **Obchází presystémovou eliminaci (first-pass efekt)**
+
+### `✅` Intranazální podání
+
+Nosní kapky a spreje, lokální i celkové podání.
+
+| Výhody | Nevýhody |
+|---|---|
+| **nosní sliznice je bohatě prokrvená** | **malá absorpční plocha** |
+| **účinek do 5 minut** | **limitace objemu** |
+| **vyhýbá se first-pass efektu** | |
+
+### `✅` Transdermální podání
+
+**Jde systémově.** Volnou difuzí prostupují **lipofilní léčiva s malou molekulou**.
+
+- snadná aplikace · **absence presystémové eliminace** · **plynulý přívod do organismu**
+- riziko **podráždění pokožky a alergických reakcí**
+- **rychlost absorpce lze zvýšit okluzí**
+- ⚠️ **Aplikovat na místo bez chlupů, ale NEHOLIT** — po oholení je absorpce větší (a tím nepředvídatelná)
+
+### `✅` Intraartikulární podání
+
+Při terapii **zánětlivých i nezánětlivých onemocnění kloubů**. Podávají se **kortikosteroidy** a **kyselina hyaluronová**. Typicky **naváděné pomocí ultrasonografie (USG)**.
+
+### `✅` Intraoseální podání
+
+⚠️ **Jen pro urgentní zajištění pacienta.**
+
+**Místa vpichu:** **hlavice humeru** · vnitřní kotník · **sternum** · **vnitřní strana tibie 2 cm distálně od tuberositas tibiae** · u dětí **lopata kyčelní kosti**
+
+> ⚠️ **Maximálně 24 hodin**, poté je nutné nahradit žilním vstupem — **riziko osteomyelitidy**.
+
+### `✅` Intravitreální podání
+
+Injekční aplikace **do sklivce**, v terapii očních onemocnění: **makulární degenerace**, **diabetická retinopatie**, **endoftalmitida**.
+
+---
+
+## `✅` Lékové formy
+
+> **Léková forma = aplikační forma daného léčivého přípravku** — jeho fyzikální, chemická a tvarová charakteristika.
+
+- **umožňuje podání léčivé látky**
+- je to **způsob koexistence léčivé a pomocné látky** v přípravku
+- ⚠️ **typ je určován především vehikulem — *remedium constituens*** — do něhož jsou látky zpracovány
+
+**Charakterizována třemi věcmi:**
+
+| Znak | Rozdělení |
+|---|---|
+| **Tvar** | **tvarově specifické** (tablety, tobolky) × **nespecifické** (roztoky) |
+| **Látkové složení** | chemické složení pomocných látek |
+| **Struktura** | **disperzita** |
+
+### Disperzní systém
+
+> **Pokud alespoň jedna látka vytváří homogenní fázi, v níž jsou ostatní látky rozptýleny v drobných částečkách, vzniká disperzní systém.**
+
+| Typ | Velikost částic | Co to je |
+|---|---|---|
+| **Molekulární** | **< 1 nm** | **pravé roztoky** — vodný roztok NaCl, glukózy |
+| **Koloidní** | mezi | **koloidní roztoky** |
+| **Hrubá disperze** | **> 1 μm** | suspenze, emulze |
+
+### ⚠️ Tři generace lékových forem — jádro téhle části
+
+| Generace | Co to je | Charakteristika |
+|---|---|---|
+| **1. generace** | **klasické (konvenční)** — s neřízeným uvolňováním | **většina léků na trhu**; nejjednodušší, **nejméně efektivní → častější podání**; **objemné jednorázové uvolnění** léčivé látky |
+| **2. generace** | **s řízeným uvolňováním** | odlišná **doba nebo rychlost** uvolnění; ⚠️ **většinu perorálních forem 2. generace NELZE dělit** |
+| **3. generace** | **s řízenou biodistribucí — targeting** | léčivo jen tam, kde má působit |
+
+**Čtyři podtypy 2. generace:** **s prodlouženým uvolňováním = retardety** *(často značené ZOK)* · **s urychleným** · **se zpožděným** · **s pulzním** uvolňováním
+
+**3. generace — dva typy cílení:**
+
+| Typ | Princip | Příklad |
+|---|---|---|
+| **Pasivní targeting** | upraví se vlastnosti molekuly tak, aby prošla jen tam, kam chceme | **cytostatika** — velké molekuly projdou **velmi fenestrovanými kapilárami nádoru** |
+| **Aktivní targeting** | molekula cíleně vyhledá receptor | **monoklonální protilátky (MAB)** |
+
+> **Cílem je zanést účinnou látku nejkratší cestou do cílové tkáně k receptorům**, aby **nepřišla do kontaktu s tkáněmi, které by mohla toxicky ovlivnit**.
+
+### Dva typy systémů řízeného uvolňování
+
+| | **Rezervoárový** | **Matricový** |
+|---|---|---|
+| Stavba | **jádro s léčivou látkou + polymerový obal** | **bez membrány** — látka je **dispergována v matrici** |
+| Co řídí uvolňování | **obal** — rozpouštěním (membrána rozpustná při určitém pH), **difuzí** (porézní membrána) nebo **osmózou** | matrice se buď **rozpouští (biodegradovatelná)**, nebo se z ní látka uvolní **difuzí** a matrice **odejde nezměněná ve stolici** |
+
+> ### ⚠️ Tři výhody prodlouženého uvolňování — vděčná pointa
+> 1. **snížení výkyvů plazmatických koncentrací**
+> 2. **předchází nežádoucím účinkům spojeným s vrcholy** koncentrací
+> 3. **snižuje frekvenci podávání → zvyšuje compliance**
+>
+> Ta trojice hezky propojuje farmakokinetiku (bod 1) s klinikou (bod 2) a s pacientem (bod 3).
+
+### `✅` Dělení lékových forem — tři hlediska
+
+**Podle užití:**
+
+| | Latinsky | Signatura u IPLP |
+|---|---|---|
+| **Pro vnitřní užití** | *ad usum internum* | ⚠️ **bílá** |
+| **Pro vnější užití** | *ad usum externum* | ⚠️ **červená** |
+
+**Podle skupenství:** **pevné** (granuláty, zásypy, prášky pro injekce, tablety, tobolky, **čípky a globule**) · **polotuhé** (masti, pasty, gely) · **kapalné** (roztoky, kapky, sirupy, **kloktadla a spreje do úst**, oční kapky, klyzmata, injekce a infuze) · **transdermální náplasti** · **plynné — inhalanda**
+
+**Podle místa aplikace:** **gastrointestinální** (perorální, orální) · **parenterální** (injekce, infuze, **inserty, implantáty**) · **topické** (rektální, vaginální, ušní, nosní, oční, kožní, plicní)
