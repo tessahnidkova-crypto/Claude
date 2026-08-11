@@ -47,6 +47,32 @@ Vypracované soubory číslují průběžně **1–134** přes všechny tři č�
 
 ⚠️ Ve vypracovaných chybí i číslo **44** — Sympatolytika alfa jsou omylem označena „45" stejně jako sympatolytika beta. Obě témata tam jsou.
 
+### ⚠️ Třetí číslování — podrobná Specka 2 (2026-08-10)
+
+**`specka2-podrobna-cast1-CITELNA.pdf` má vlastní číslování 84–125, které NENÍ oficiální.**
+Je **o 5 až 7 nižší** a rozdíl v průběhu roste, protože soubor **dvě otázky vynechává**.
+
+| V podrobné Specce 2 | Oficiálně | Rozdíl |
+|---|---|---|
+| 84 Chemoterapeutika močových | **89** | +5 |
+| 90 Antitusika | **95** | +5 |
+| *(chybí Antiastmatika)* | *96* | |
+| 91 Antihistaminika | **97** | **+6** |
+| 102 Halucinogeny | **108** | +6 |
+| *(chybí Stimulancia)* | *109* | |
+| 103 Nikotin | **110** | **+7** |
+| 124 Fytoterapie | **131** | +7 |
+
+⚠️ **Nikdy nepřevádět jedním pevným offsetem** — mění se. **Mapuj podle názvu otázky, ne podle čísla.**
+
+**Ověřeno proti `seznam-otazek-VL.docx`** (oficiální seznam má 136 otázek; Speciální II = **88–136**).
+
+**Co v podrobné Specce 2 části 1 chybí a Tessa to teprve pošle:**
+**96 Antiastmatika · 109 Stimulancia · 132–136** (obecná toxikologie, terapie otrav, toxikologie rostlin a hub, živočišných jedů, rtuť/arzén/olovo).
+*(Soubor navíc obsahuje „125. Alternativní metody léčby", což v oficiálním seznamu jako samostatná otázka není — patrně dodatek k fytoterapii.)*
+
+⚠️ **`vypisky-S1-53-makrolidy.md` je pojmenovaný špatně** — makrolidy jsou **oficiální otázka 88**, tedy **první otázka Speciální farmakologie II**, ne S1-53.
+
 ### Drobnosti k ověření při čtení
 
 - `O14` — seznam zmiňuje **redistribuci**, nadpis ve vypracování ne

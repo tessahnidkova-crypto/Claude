@@ -19,6 +19,8 @@ Aktualizováno 2026-08-08
 | 1 | ⚠️ `obecka-podrobna-cast1.pdf` | 100 | **O1–O16** | **nepoužívat** — rozbité kódování |
 | 1 | ✅ **`obecka-podrobna-cast1-CITELNA.pdf`** | 100 | **O1–O16** | ✅ **text jde extrahovat přímo** |
 | 2 | `obecka-podrobna-cast2.pdf` | 72 | **O17–O34** | ✅ **text jde extrahovat přímo** |
+| S2/1 | ⚠️ `specka2-podrobna-cast1.pdf` | 91 | **otázky 89–131** | **nepoužívat** — rozbité kódování |
+| S2/1 | ✅ **`specka2-podrobna-cast1-CITELNA.pdf`** | 91 | **otázky 89–131** | ✅ **opraveno 2026-08-10, čte se jako text** |
 
 ⚠️ **`O35` Biologická léčba není ani v jedné části.** Zůstává pokrytá jen mým `vypisky-O35-biologicka-lecba.md` z obecných znalostí.
 
