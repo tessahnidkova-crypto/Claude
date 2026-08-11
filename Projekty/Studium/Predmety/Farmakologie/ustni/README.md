@@ -5,12 +5,13 @@
 Tohle je **hlavní učební materiál**. Obsahuje to, co u ústní zkoušky skutečně řekneš,
 aby bylo vidět pochopení — bez detailů, na kterých se vyhoří.
 
-## ⚠️ Dvě vrstvy — nepleť si je
+## ⚠️ Tři vrstvy — nepleť si je
 
-| Složka | K čemu | Rozsah |
-|---|---|---|
-| **`ustni/`** *(jsi tady)* | **ústní část** — co říct a v jakém pořadí | **1–1,5 strany** na otázku |
-| `../zkracene/` | **test na počítači** — šířka a detail | 2,5 strany na otázku |
+| Složka | K čemu | Rozsah | Kdy |
+|---|---|---|---|
+| `../zkracene/` | **test na počítači** — šířka a detail | 2,5 strany | průchod 1 |
+| **`ustni/`** *(jsi tady)* | **ústní část** — co říct a v jakém pořadí | **1–1,5 strany** | průchod 2 |
+| `../tahak/` | **poslední projetí** — kostra + čísla + pasti | **0,3 strany** · celá obecka na **10 stranách** | 28.–31. 8. |
 
 **Proč obojí:** test na počítači je **tvrdá podmínka prvního termínu** — pod 35/50 bodů
 termín propadá, známka 4 a k ústní části se nejde. Na test potřebuješ šířku,
