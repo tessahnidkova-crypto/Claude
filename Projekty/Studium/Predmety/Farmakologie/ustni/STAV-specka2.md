@@ -17,20 +17,15 @@ Aktualizováno 2026-08-10 · **oficiální číslování** (viz převodní tabul
 |---|---|---|
 | `specka2-089-095.md` | **89–95** | 0,4–1,3 strany |
 | `specka2-097-103.md` | **97–103** | 0,6–1,3 strany |
+| `specka2-104-108.md` | **104–108** | 0,7–1,6 strany |
+| `specka2-110-113.md` | **110–113** | 0,8–1,4 strany |
+
+**Hotovo 23 z 48 otázek Specky II.** *(Otázka 88 Makrolidy je zpracovaná zvlášť.)*
 
 ## Zbývá zpracovat
 
 | Otázky | Téma | Strany zdroje (část 1) |
 |---|---|---|
-| **104** | Farmaka v očním lékařství | s. 21–27 |
-| **105** | Drogová (léková) závislost | s. 27–30 |
-| **106** | Ethylalkohol, methylalkohol | s. 27–30 |
-| **107** | Konopí, kanabinoidy | s. 30–31 |
-| **108** | Halucinogeny | s. 31–33 |
-| **110** | Nikotin | s. 33–34 |
-| **111** | Metylxantiny | s. 34–35 |
-| **112** | Antirevmatika | s. 35–37 |
-| **113** | Antiuratika | s. 37–38 |
 | **114** | Imunosupresiva, imunostimulancia | s. 38–41 |
 | **115** | Hormony hypotalamu a hypofýzy | s. 41–47 |
 | **116** | Onemocnění štítné žlázy | s. 47–51 |
