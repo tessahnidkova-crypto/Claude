@@ -26,6 +26,8 @@ Dokončeno 2026-08-10 · **oficiální číslování** (převodní tabulka v `..
 
 **PDF:** `../pdf-ustni/specka2-*.pdf` + **`SPECKA2-vse-v-jednom.pdf`** (67 stran, se záložkami)
 
+**Tahák na poslední projetí:** `../tahak/specka2-tahak.md` + `.pdf` — **12 stran, ~0,31 strany na otázku**
+
 ## ⚠️ Dvě otázky nemá pokryté žádný materiál
 
 | Otázka | Stav |
