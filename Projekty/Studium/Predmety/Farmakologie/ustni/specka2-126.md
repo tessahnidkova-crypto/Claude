@@ -33,44 +33,28 @@
 **Kortikosteroidy** — **vazokonstrikční, protizánětlivý, antiproliferativní, imunomodulační** účinek. ⚠️ **Dostupnost se zlepšuje esterifikací, aktivita halogenizací.**
 **Indikace:** solární dermatitida, **atopický ekzém**, menší popálenina, **lupus erythematodes**. ⚠️ **KI: primárně infekční onemocnění · rány, akné · laktace, novorozenci.** **NÚ: atrofie kůže, strie**, akneformní erupce, **purpura**, **zvýšený růst ochlupení**.
 
-| Další léčivo | Podstata |
-|---|---|
-| **Kalcineurinové blokátory** | **imunomodulační externa** — ⚠️ **selektivně blokují tvorbu a uvolňování prozánětlivých cytokinů**; především **atopický ekzém** |
-| **Analoga vitaminu D** | ⚠️ **zastavují proliferaci keratinocytů** → **psoriáza** |
-| **Modifikátory imunitní odpovědi** | indukce a modulace tvorby cytokinů — **virová a nádorová kožní onemocnění** |
-| **Glycerol 85 %** | **váže vodu a snižuje vysychání** — pomocná a hydratační látka |
+**Kalcineurinové blokátory** — imunomodulační externa, ⚠️ **selektivně blokují tvorbu prozánětlivých cytokinů**; především **atopický ekzém**
+**Analoga vitaminu D** — ⚠️ **zastavují proliferaci keratinocytů** → **psoriáza**
+**Modifikátory imunitní odpovědi** — modulace tvorby cytokinů, **virová a nádorová kožní onemocnění**
+**Glycerol 85 %** — **váže vodu a snižuje vysychání**
 
 ### ⚠️ Koncentrační řady — nejvděčnější část otázky
 
-**Účinek obou látek závisí na koncentraci** — to je přesně typ detailu, na který se ptají.
+**Účinek obou látek závisí na koncentraci** — přesně ten typ detailu, na který se ptají.
 
-| **Kyselina salicylová** | Účinek |
-|---|---|
-| **1–2 %** | **antiseptický, keratoplastický** |
-| **3–5 %** | antipruriginózní, **fungistatický**, antihidrotický |
-| **5–10 %** | ⚠️ **keratolytický** |
-| **40–60 %** | ⚠️ **leptavý — ve formě kolodia k odstranění bradavic** |
+**Kyselina salicylová:** **1–2 %** antiseptický, **keratoplastický** · **3–5 %** antipruriginózní, **fungistatický**, antihidrotický · **5–10 %** ⚠️ **keratolytický** · **40–60 %** ⚠️ **leptavý — v kolodiu k odstranění bradavic**
+⚠️ **Snadno se resorbuje — při rozsáhlé aplikaci hrozí systémová toxicita** — a **zvyšuje průnik současně aplikovaných látek**.
 
-⚠️ **Kyselina salicylová se snadno resorbuje — při rozsáhlé aplikaci hrozí systémová toxicita** — a **zvyšuje průnik současně aplikovaných látek**.
+**Močovina (urea):** **do 10 %** hydratační · **10–20 %** antibakteriální · **nad 20 %** antipruriginózní · **40–50 %** ⚠️ **keratolytický**
+⚠️ **Netoxická, nedráždivá, nevyvolává alergie.**
 
-| **Močovina (urea)** | Účinek |
-|---|---|
-| **do 10 %** | **hydratační** |
-| **10–20 %** | **antibakteriální** |
-| **nad 20 %** | antipruriginózní |
-| **40–50 %** | ⚠️ **keratolytický** |
-
-⚠️ **Močovina je netoxická, nedráždivá a nevyvolává alergie.**
-
-> **Klíč k zapamatování:** u obou látek platí **čím vyšší koncentrace, tím agresivnější účinek** — od hydratace/antisepse přes keratolýzu až k leptání.
+> **Klíč:** u obou platí **čím vyšší koncentrace, tím agresivnější účinek** — od hydratace přes keratolýzu až k leptání.
 
 ## Oficiální přípravky — fixní kombinace
 
-| Přípravek | Složení | Účinek |
-|---|---|---|
-| **Jarischův roztok** | **kyselina boritá, glycerol** | **antipruriginózní, keratoplastický, hydratační** |
-| **Chlumského roztok** | **kafr, fenol, ethanol** | **antiseptikum** |
-| **Novikovův roztok** | **brilantová zeleň, tanin, ethanol** | ⚠️ **tekutý obvaz**, antiseptický |
+**Jarischův roztok** — kyselina boritá, glycerol → **antipruriginózní, keratoplastický, hydratační**
+**Chlumského roztok** — kafr, fenol, ethanol → **antiseptikum**
+**Novikovův roztok** — brilantová zeleň, tanin, ethanol → ⚠️ **tekutý obvaz**, antiseptický
 
 ## ⚠️ Dezinficiencia × antiseptika — rozdíl, na kterém otázka stojí
 
@@ -85,8 +69,4 @@
 
 **Dělení podle chemické struktury:**
 
-| Skupina | Mechanismus | Zástupci |
-|---|---|---|
-| **Alkoholy** | **působí na bakteriální membrány, denaturují bílkoviny** | **ethanol 60–70 %**, isopropanol 70 % |
-| **Fenoly** | **denaturace bílkovin, oxidační účinky** | **chlorhexidin** |
-| **Aldehydy** | **denaturace bílkovin** | **formaldehyd** |
+**Alkoholy** — ⚠️ **působí na bakteriální membrány a denaturují bílkoviny**: **ethanol 60–70 %**, isopropanol 70 % · **fenoly** — denaturace bílkovin, **oxidační účinky**: **chlorhexidin** · **aldehydy** — denaturace bílkovin: **formaldehyd**
