@@ -65,13 +65,25 @@ Je **o 5 až 7 nižší** a rozdíl v průběhu roste, protože soubor **dvě ot
 
 ⚠️ **Nikdy nepřevádět jedním pevným offsetem** — mění se. **Mapuj podle názvu otázky, ne podle čísla.**
 
-**Ověřeno proti `seznam-otazek-VL.docx`** (oficiální seznam má 136 otázek; Speciální II = **88–136**).
+**Ověřeno proti `seznam-otazek-VL.docx`** (oficiální seznam má 136 otázek; Speciální II = **89–136**, tj. **48 otázek**).
 
 **Co v podrobné Specce 2 části 1 chybí a Tessa to teprve pošle:**
 **96 Antiastmatika · 109 Stimulancia · 132–136** (obecná toxikologie, terapie otrav, toxikologie rostlin a hub, živočišných jedů, rtuť/arzén/olovo).
 *(Soubor navíc obsahuje „125. Alternativní metody léčby", což v oficiálním seznamu jako samostatná otázka není — patrně dodatek k fytoterapii.)*
 
-⚠️ **`vypisky-S1-53-makrolidy.md` je pojmenovaný špatně** — makrolidy jsou **oficiální otázka 88**, tedy **první otázka Speciální farmakologie II**, ne S1-53.
+### ⚠️ Oprava mého dřívějšího tvrzení (2026-08-16)
+
+Tvrdil jsem, že **`vypisky-S1-53-makrolidy.md` je pojmenovaný špatně** a že makrolidy jsou první otázka Speciální farmakologie II. **Není to pravda — soubor je pojmenovaný správně.**
+
+V `seznam-otazek-VL.docx` stojí nadpis **„Otázky ze speciální farmakologie II." až ZA makrolidy**. Tedy:
+
+| Část | Oficiální čísla | Počet |
+|---|---|---|
+| Obecná | **1–35** | 35 |
+| **Speciální I** | **36–88** — poslední otázka je **88 Makrolidy** = `S1-53` | **53** |
+| **Speciální II** | **89–136** — první otázka je **89 Chemoterapeutika močových a střevních infekcí** | **48** |
+
+⚠️ **Makrolidy patří do Specky I, ne do Specky II.** Číslo 88 bylo správně, zařazení ne.
 
 ### Drobnosti k ověření při čtení
 

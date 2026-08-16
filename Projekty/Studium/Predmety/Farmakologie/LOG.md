@@ -1,0 +1,2 @@
+2026-08-16 — Ověřeno strojově proti `Inputs/seznam-otazek-VL.docx`: Specka II = otázky **89–136** (48), zpracováno **46**, chybí **96 Antiastmatika** a **109 Stimulancia**. Názvy všech 46 sedí s oficiálním seznamem.
+2026-08-16 — **Oprava mého omylu:** tvrdil jsem, že 88 Makrolidy je první otázka Specky II a že `vypisky-S1-53-makrolidy.md` má špatný název. Nadpis „Otázky ze speciální farmakologie II." je v seznamu **až za makrolidy** → Specka I = 36–88, Specka II = 89–136, název souboru je správný. Opraveno v `okruhy.md`, `ustni/STAV-specka2.md`, `tahak/`.

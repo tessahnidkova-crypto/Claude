@@ -1,18 +1,20 @@
 # Speciální farmakologie II — tahák na poslední projetí
 
-**Otázky 88–136, oficiální číslování.** U každé: **kostra** = co říct a v jakém pořadí · **odrážky** = bez čeho odpověď neobstojí.
+**Otázky 89–136, oficiální číslování** — to je celá Speciální farmakologie II, **48 otázek**. U každé: **kostra** = co říct a v jakém pořadí · **odrážky** = bez čeho odpověď neobstojí.
 ⚠️ = past nebo věta, kterou zkoušející čeká. · ⛔ = **otázka není v žádném tvém materiálu**
+
+> ⚠️ **Otázka 88 Makrolidy sem NEPATŘÍ** — v oficiálním seznamu je to **poslední otázka Speciální farmakologie I** (`S1-53`). Je zpracovaná v `../vypisky-S1-53-makrolidy.md`. Bonusově ji tu necháváme, protože sousedí s antibiotiky ze Specky II.
 
 ---
 
-## 88 · Makrolidy
+## 88 · Makrolidy *(patří do Specky I — bonus)*
 
 **Kostra:** mechanismus → spektrum → zástupci podle generace → interakce
 - **Bakteriostatické, vážou se na 50S podjednotku ribozomu** → inhibice proteosyntézy
 - **Spektrum:** G+, **atypické patogeny** (mykoplazmata, chlamydie, legionely), *H. pylori*, *Campylobacter*
 - **Erytromycin · klaritromycin · azitromycin** (dlouhý poločas, krátké kúry)
 - ⚠️ **Inhibitory CYP3A4** → interakce se statiny, warfarinem (riziko krvácení)
-*(Zpracováno v `../vypisky-S1-53-makrolidy.md` — pozor, soubor má špatný název.)*
+*(Zpracováno v `../vypisky-S1-53-makrolidy.md` — název souboru je **správný**, `S1-53` = 53. otázka Specky I = oficiální 88.)*
 
 ## 89 · Chemoterapeutika močových a střevních infekcí
 

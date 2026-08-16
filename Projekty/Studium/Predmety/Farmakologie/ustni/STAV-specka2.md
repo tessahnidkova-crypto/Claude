@@ -1,8 +1,12 @@
-# Speciální farmakologie II — HOTOVO
+# Speciální farmakologie II — STAV
 
-Dokončeno 2026-08-10 · **oficiální číslování** (převodní tabulka v `../okruhy.md`)
+Dokončeno 2026-08-10 · **ověřeno proti oficiálnímu seznamu 2026-08-16** · převodní tabulka v `../okruhy.md`
 
-## ✅ Zpracováno všech 48 otázek Specky II
+> **Speciální farmakologie II = oficiální otázky 89–136, tedy 48 otázek.**
+> ✅ **Zpracováno 46 z 48.** Chybí **96 Antiastmatika** a **109 Stimulancia** — viz níže.
+> ✅ **Názvy všech 46 otázek strojově zkontrolovány proti `Inputs/seznam-otazek-VL.docx`** — sedí bez výjimky.
+
+## ✅ Zpracované otázky
 
 | Soubor | Otázky |
 |---|---|
@@ -21,14 +25,20 @@ Dokončeno 2026-08-10 · **oficiální číslování** (převodní tabulka v `..
 | `specka2-132-133.md` | **132–133** |
 | `specka2-134-136.md` | **134–136** |
 
-**Otázka 88 Makrolidy** — první otázka Specky II — je v `../vypisky-S1-53-makrolidy.md`.
-⚠️ **Soubor je pojmenovaný špatně**, číslo „S1-53" neexistuje.
+### ⚠️ Oprava mého dřívějšího tvrzení (2026-08-16)
+
+Napsal jsem tady, že **88 Makrolidy je první otázka Specky II** a že `vypisky-S1-53-makrolidy.md` má špatný název. **Obojí bylo špatně.**
+
+V oficiálním seznamu je nadpis „Otázky ze speciální farmakologie II." **až za makrolidy**:
+**Specka I = 36–88** (poslední je 88 Makrolidy = `S1-53`) · **Specka II = 89–136**.
+
+Soubor `vypisky-S1-53-makrolidy.md` je tedy **pojmenovaný správně** a **makrolidy se učí jako Specka I**.
 
 **PDF:** `../pdf-ustni/specka2-*.pdf` + **`SPECKA2-vse-v-jednom.pdf`** (67 stran, se záložkami)
 
 **Tahák na poslední projetí:** `../tahak/specka2-tahak.md` + `.pdf` — **12 stran, ~0,31 strany na otázku**
 
-## ⚠️ Dvě otázky nemá pokryté žádný materiál
+## ⛔ Dvě otázky nemá pokryté žádný materiál — TOHLE JE JEDINÁ DÍRA
 
 | Otázka | Stav |
 |---|---|
@@ -36,6 +46,8 @@ Dokončeno 2026-08-10 · **oficiální číslování** (převodní tabulka v `..
 | **109 Stimulancia** | v podrobné Specce 2 **není** — sehnat jinde |
 
 Právě kvůli nim se rozchází číslování zdroje s oficiálním (posun +5 → +6 → +7).
+
+⚠️ **Losují se 2 speciální otázky. Pravděpodobnost, že padne jedna z těchto dvou, není zanedbatelná** — sežeň je (spolužáci, jiná verze skript, přednáškové slidy) a pošli mi je, zpracuju je stejně jako zbytek.
 
 ## Rozsah po otázkách
 
