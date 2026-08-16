@@ -1,7 +1,7 @@
 # Speciální farmakologie II — tahák na poslední projetí
 
 **Otázky 89–136, oficiální číslování** — to je celá Speciální farmakologie II, **48 otázek**. U každé: **kostra** = co říct a v jakém pořadí · **odrážky** = bez čeho odpověď neobstojí.
-⚠️ = past nebo věta, kterou zkoušející čeká. · ⛔ = **otázka není v žádném tvém materiálu**
+⚠️ = past nebo věta, kterou zkoušející čeká. · ✅ **Všech 48 otázek pokryto.**
 
 > ⚠️ **Otázka 88 Makrolidy sem NEPATŘÍ** — v oficiálním seznamu je to **poslední otázka Speciální farmakologie I** (`S1-53`). Je zpracovaná v `../vypisky-S1-53-makrolidy.md`. Bonusově ji tu necháváme, protože sousedí s antibiotiky ze Specky II.
 
@@ -78,7 +78,17 @@
 - **Butamirát** — nekodeinové, ⚠️ **netlumí dechové centrum, vhodný pro kojence**
 - **N-acetylcystein** — ⚠️ **prekurzor glutathionu a antidotum otravy paracetamolem**
 
-## ⛔ 96 · Antiastmatika — **není v podrobné Specce 2, sehnat jinde**
+## 96 · Antiastmatika
+
+**Kostra:** úlevová × kontrolující → astma × CHOPN → klasifikace → bronchodilatancia → kortikosteroidy → ostatní
+- ⚠️ **Dvě role léčby:** **úlevová = tlumení bronchokonstrikce** · **kontrolující = tlumení zánětu**. Pacient má **vždy u sebe záchrannou medikaci**
+- **Astma** reverzibilní, ⚠️ **zánět DC i bez symptomů** · **CHOPN** ⚠️ **není plně reverzibilní**, kouření, **pravostranné selhání**
+- **Spirometrie:** lehké **> 80 %** · středně těžké **60–80 %** · ⚠️ **těžké < 60 %**
+- **β2-agonisté:** SABA **salbutamol, fenoterol, terbutalin** · LABA **formoterol** (rychlý), **salmeterol** (pomalý) · U-LABA **indakaterol, vilanterol**. NÚ ⚠️ **třes, tachykardie, hypokalemie**
+- **Anticholinergika:** SAMA **ipratropium** · LAMA **aklidinium** · U-LAMA **tiotropium, glykopyronium**. NÚ **sucho v ústech, glaukom**
+- **Xantiny** (teofylin, aminofylin) — ⚠️ **inhibice fosfodiesteráz → ↑ cAMP** + **antagonismus adenosinových receptorů**; aditivně, když nelze inhalačně
+- ⚠️ **IKS = lék první volby u astmatu**; **beklometazon, budesonid, flutikazon**. ⚠️ **Život zachraňující u status asthmaticus, ale záchvatu NEZABRÁNÍ**
+- **Antileukotrieny** — ⚠️ **v ČR jen montelukast** · **anti-IgE omalizumab** (s.c.) · **PDE4 roflumilast** (těžká CHOPN)
 
 ## 97 · Antihistaminika
 
@@ -193,7 +203,17 @@
 - **MDMA** — ⚠️ **inhibitor zpětného vychytávání prakticky všech neurotransmiterů**; **hypertermie, rhabdomyolýza, neurotoxická**. Léčba: **klid + malá dávka benzodiazepinů**
 - **Psilocybin** (lysohlávky) · **fencyklidin** — ⚠️ **antagonista NMDA**, pocit nadlidské síly
 
-## ⛔ 109 · Stimulancia — **není v podrobné Specce 2, sehnat jinde**
+## 109 · Stimulancia
+
+**Kostra:** společný mechanismus → MDMA → kokain → amfetaminy → terapeutické využití → závislost
+- ⚠️ **Společný jmenovatel: ↑ monoaminů v synapsi** — uvolňováním (amfetaminy, MDMA) nebo **inhibicí zpětného vychytávání** (kokain)
+- **MDMA** = **3,4-methylendioxy-N-methylamfetamin**, ⚠️ **entaktogen**; vyplavení **5-HT, NA, DA**; **napětí žvýkacích svalů, hypertermie**; ⚠️ **neurotoxicita při velkých dávkách**
+- **Kokain:** ⚠️ **inhibice zpětného vychytávání DA a NA + blokáda Na⁺ kanálů + agonista σ** → **lokální anestetikum, vazokonstrikce, euforie**
+- **Crack** = volná báze, kouří se; ⚠️ **oxidací methylekgonidin — kardio- a hepatotoxický**
+- ⚠️ **Chronicky: perforace nosního septa** · akutně **spasmus koronárních tepen → IM**, **formikace**
+- **Amfetaminy** = **nepřímá sympatomimetika**; ⚠️ **psychóza podobná paranoidní schizofrenii**
+- ⚠️ **Terapeuticky: metylfenidát a amfetamin u ADHD, modafinil u narkolepsie**
+- ⚠️ **Závislost: mírná fyzická, silná psychická.** Abstinence = **zrcadlo účinku** (dysforie, únava, spánek, hlad, deprese)
 
 ## 110 · Nikotin
 

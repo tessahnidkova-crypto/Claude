@@ -3,16 +3,18 @@
 Dokončeno 2026-08-10 · **ověřeno proti oficiálnímu seznamu 2026-08-16** · převodní tabulka v `../okruhy.md`
 
 > **Speciální farmakologie II = oficiální otázky 89–136, tedy 48 otázek.**
-> ✅ **Zpracováno 46 z 48.** Chybí **96 Antiastmatika** a **109 Stimulancia** — viz níže.
-> ✅ **Názvy všech 46 otázek strojově zkontrolovány proti `Inputs/seznam-otazek-VL.docx`** — sedí bez výjimky.
+> ✅ **Zpracováno všech 48 z 48.**
+> ✅ **Názvy všech 48 otázek strojově zkontrolovány proti `Inputs/seznam-otazek-VL.docx`** — sedí bez výjimky.
 
 ## ✅ Zpracované otázky
 
 | Soubor | Otázky |
 |---|---|
 | `specka2-089-095.md` | **89–95** |
+| `specka2-096.md` | **96** |
 | `specka2-097-103.md` | **97–103** |
 | `specka2-104-108.md` | **104–108** |
+| `specka2-109.md` | **109** |
 | `specka2-110-113.md` | **110–113** |
 | `specka2-114-115.md` | **114–115** |
 | `specka2-116-119.md` | **116–119** |
@@ -34,24 +36,24 @@ V oficiálním seznamu je nadpis „Otázky ze speciální farmakologie II." **a
 
 Soubor `vypisky-S1-53-makrolidy.md` je tedy **pojmenovaný správně** a **makrolidy se učí jako Specka I**.
 
-**PDF:** `../pdf-ustni/specka2-*.pdf` + **`SPECKA2-vse-v-jednom.pdf`** (67 stran, se záložkami)
+**PDF:** `../pdf-ustni/specka2-*.pdf` + **`SPECKA2-vse-v-jednom.pdf`** (72 stran, **48 záložek**)
 
-**Tahák na poslední projetí:** `../tahak/specka2-tahak.md` + `.pdf` — **12 stran, ~0,31 strany na otázku**
+**Tahák na poslední projetí:** `../tahak/specka2-tahak.md` + `.pdf` — **13 stran, ~0,31 strany na otázku**
 
-## ⛔ Dvě otázky nemá pokryté žádný materiál — TOHLE JE JEDINÁ DÍRA
+## ✅ Dříve chybějící otázky — DOPLNĚNO 2026-08-16
 
-| Otázka | Stav |
+| Otázka | Kde nakonec byla |
 |---|---|
-| **96 Antiastmatika** | v podrobné Specce 2 **není** — sehnat jinde |
-| **109 Stimulancia** | v podrobné Specce 2 **není** — sehnat jinde |
+| **96 Antiastmatika** | `Inputs/specka-2-vypracovane-otazky.pdf`, **otázka 94**, s. 12–14 |
+| **109 Stimulancia** | `Inputs/specka-2-vypracovane-otazky.pdf`, **otázka 107**, s. 34 |
 
-Právě kvůli nim se rozchází číslování zdroje s oficiálním (posun +5 → +6 → +7).
+⚠️ **Oprava:** tvrdil jsem, že tyhle dvě otázky nemá pokryté žádný materiál. **Byla to chyba** — hledal jsem jen v *podrobné* Specce 2, kde skutečně nejsou, ale **ve vypracovaných otázkách obě jsou**. Tessa se zeptala, jestli tam nejsou pod jiným číslem, a měla pravdu.
 
-⚠️ **Losují se 2 speciální otázky. Pravděpodobnost, že padne jedna z těchto dvou, není zanedbatelná** — sežeň je (spolužáci, jiná verze skript, přednáškové slidy) a pošli mi je, zpracuju je stejně jako zbytek.
+⚠️ **Vypracované otázky mají oproti oficiálnímu číslování pevný posun +2** (87 = 89 … 134 = 136) — na rozdíl od podrobné Specky 2, kde posun roste. Právě proto, že vypracované **obsahují všech 48 otázek**.
 
 ## Rozsah po otázkách
 
-**Cíl byl 1–1,5 strany.** Podle Tessina pravidla („pokud nejde zkrátit, zkrať co nejvíc, ale ať tam je vše podstatné") **jedenáct otázek limit překračuje** — u všech by další krácení znamenalo vyhazovat obsah, ne text:
+**Cíl byl 1–1,5 strany.** Podle Tessina pravidla („pokud nejde zkrátit, zkrať co nejvíc, ale ať tam je vše podstatné") **čtrnáct otázek limit překračuje** — u všech by další krácení znamenalo vyhazovat obsah, ne text:
 
 | Otázka | Stran | Proč |
 |---|---|---|
@@ -66,9 +68,11 @@ Právě kvůli nim se rozchází číslování zdroje s oficiálním (posun +5 �
 | **106** Ethylalkohol, methylalkohol | 1,6 | dvě látky + akutní i chronické účinky |
 | **116** Štítná žláza | 1,6 | + příštítná tělíska a kalcitonin |
 | **123** Cytostatika | 1,6 | šest mechanismů + orgánová toxicita |
+| **96** Antiastmatika | 2,2 | dvě nemoci + klasifikace + 3 třídy bronchodilatancií + 4 třídy kontrolující léčby |
+| **109** Stimulancia | 1,8 | MDMA + kokain + amfetaminy, každé se svou kinetikou a toxicitou |
 | **133** Terapie otrav | 1,6 | tabulka antidot + kyanidy |
 
-**Ostatních 36 otázek je v limitu**, většina kolem 1,0–1,3 strany.
+**Ostatních 34 otázek je v limitu**, většina kolem 1,0–1,3 strany.
 
 ## Chyby a zvláštnosti nalezené ve zdroji
 

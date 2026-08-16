@@ -5,7 +5,7 @@
 | Soubor | Obsah | Rozsah |
 |---|---|---|
 | `obecka-tahak.md` / `.pdf` | **obecná farmakologie, otázky O1–O35** | 10 stran · ~0,29 str./otázka |
-| `specka2-tahak.md` / `.pdf` | **speciální farmakologie II, otázky 89–136** *(+ bonus 88 Makrolidy ze Specky I)* | 12 stran · ~0,31 str./otázka |
+| `specka2-tahak.md` / `.pdf` | **speciální farmakologie II, otázky 89–136** *(+ bonus 88 Makrolidy ze Specky I)* | 13 stran · ~0,31 str./otázka |
 
 ## Jak je číst
 
@@ -13,7 +13,6 @@ U každé otázky:
 - **Kostra** — co říct a **v jakém pořadí**. Když si u zkoušky vybavíš jen tuhle řádku, odpověď má strukturu a nerozsype se.
 - **Odrážky** — fakta, bez kterých odpověď neobstojí.
 - **⚠️** — past nebo věta, kterou zkoušející čeká.
-- **⛔** — otázka **není v žádném dodaném materiálu** (Specka 2: **96 Antiastmatika**, **109 Stimulancia**).
 
 ## Tři vrstvy materiálu — kterou kdy
 
@@ -29,3 +28,5 @@ U každé otázky:
 
 - **Specka 1 (otázky 36–88)** — podrobný zdroj zatím nedodán, tahák neexistuje
 - **O35 Biologická léčba** — v obecce jen z obecných znalostí, ne z materiálu katedry
+
+✅ **Specka 2 je kompletní — všech 48 otázek (89–136).**
