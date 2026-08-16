@@ -15,33 +15,23 @@
 
 **Cílem je účinek v místě nálezu bez nutnosti systémového podání → nedojde k systémové nežádoucí reakci.**
 
-| Terapeutický efekt závisí na | Absorpci ovlivňuje |
-|---|---|
-| **účinné látce** · **vehikulu** · **způsobu aplikace** | ⚠️ **tloušťka rohové vrstvy a integrita kůže** · vlastnosti a **koncentrace** léku · **stav cévního systému v koriu** |
+**Efekt závisí na účinné látce, vehikulu a způsobu aplikace.** ⚠️ **Absorpci ovlivňuje tloušťka rohové vrstvy a integrita kůže**, koncentrace léku a **stav cévního systému v koriu**.
+> **Průnik rohovou vrstvou: transepidermálně** (trans- nebo intercelulárně) × **transadnexálně** (vývody žláz)
 
-> **Průnik rohovou vrstvou:** **transepidermálně** (transcelulárně nebo intercelulárně) × **transadnexálně** (vývody žláz)
-
-**Složení zevního léku:** **účinná látka** (kortikoid, ATB) · **vehikulum/baze** (vazelína) · **pomocné látky** — rozpouštědla (makrogol, glycerol, propylenglykol)
+**Složení zevního léku:** **účinná látka** · **vehikulum/baze** (vazelína) · **pomocné látky** (makrogol, glycerol, propylenglykol)
 
 ## Lékové formy
 
-| Skupina | Formy |
-|---|---|
-| **Tekuté** | **roztoky** — vehikulem voda nebo líh, ⚠️ **působí povrchně, na mokvavé rány** · **kolodia** — navíc **elastická hmota**, např. **keratolytická léčba bradavic** · koupele |
-| **Pevné** | **obklady** — **vzdušné (vysýchavé)** × **zapařovací (neprodyšné)** · **zásypy** — základ **oxid zinečnatý a talek**, absorbují vodu, pot, maz, chladivé, ⚠️ **ne na mokvající dermatózy** · **tekuté pudry** — suspenze ve vodě a glycerolu, **nutno protřepat** · **gely** — koloidní, polotuhé |
-| **Masťové** | **oleje** (tekuté) · **masti** — vazelína, vepřové sádlo, včelí vosk · **krémy** — mísením olejů a mastí s vodnými roztoky, ⚠️ **o/v = denní krémy, v/o = noční krémy** · **pasty** — masťový základ s práškovou hmotou |
+**Tekuté:** **roztoky** (voda nebo líh) — ⚠️ **působí povrchně, na mokvavé rány** · **kolodia** s elastickou hmotou — ⚠️ **keratolytická léčba bradavic** · koupele
+**Pevné:** **obklady** — **vzdušné (vysýchavé)** × **zapařovací (neprodyšné)** · **zásypy** (oxid zinečnatý a talek) — ⚠️ **ne na mokvající dermatózy** · **tekuté pudry** — nutno protřepat · gely
+**Masťové:** oleje · **masti** (vazelína, včelí vosk) · **krémy** — ⚠️ **o/v = denní, v/o = noční** · **pasty** — masťový základ s práškovou hmotou
 
-## Externa podle účinku
-
-**antimikrobiální · antivirotika · antiseptika a dezinficiencia · antiseboroika** (tlumí sekreci mazových žláz — akné, seboroická dermatitida) **· antihidrotika** (omezují pocení) **· antipruriginóza · cytostatika · fotoprotektiva** (krémy s UV faktorem) **· keratolytika** (odstraňují rohovou vrstvu) **· keratoplastika** (podporují její tvorbu) **· adstringencia** (svíravě, zastavují mokvání, zmenšují zánět)
+> **Externa podle účinku** *(stejné dělení jako u dermatologik v otázce 112)*: antimikrobiální · antiseptika · **antiseboroika · antihidrotika · antipruriginóza** · cytostatika · **fotoprotektiva** · **keratolytika × keratoplastika** · **adstringencia**
 
 ## Hlavní léčiva
 
-**Kortikosteroidy** — účinky **vazokonstrikční, protizánětlivý, antiproliferativní, imunomodulační**.
-⚠️ **Biologická dostupnost se zlepšuje esterifikací, aktivita se zvyšuje halogenizací.**
-**Indikace:** solární dermatitida, **atopický ekzém**, menší popálenina, **lupus erythematodes**
-⚠️ **KI: všechny typy primárně infekčních onemocnění · rány, akné · laktace, novorozenci**
-**NÚ:** **atrofie kůže, strie** · akneformní erupce · **purpura** · **zvýšený růst ochlupení**
+**Kortikosteroidy** — **vazokonstrikční, protizánětlivý, antiproliferativní, imunomodulační** účinek. ⚠️ **Dostupnost se zlepšuje esterifikací, aktivita halogenizací.**
+**Indikace:** solární dermatitida, **atopický ekzém**, menší popálenina, **lupus erythematodes**. ⚠️ **KI: primárně infekční onemocnění · rány, akné · laktace, novorozenci.** **NÚ: atrofie kůže, strie**, akneformní erupce, **purpura**, **zvýšený růst ochlupení**.
 
 | Další léčivo | Podstata |
 |---|---|
@@ -61,7 +51,7 @@
 | **5–10 %** | ⚠️ **keratolytický** |
 | **40–60 %** | ⚠️ **leptavý — ve formě kolodia k odstranění bradavic** |
 
-**Kyselina salicylová** je bílý krystalický prášek **špatně rozpustný ve vodě, dobře v ethanolu a oleji**; ⚠️ **snadno se resorbuje — při rozsáhlé aplikaci hrozí systémová toxicita** a **zvyšuje průnik současně aplikovaných látek**.
+⚠️ **Kyselina salicylová se snadno resorbuje — při rozsáhlé aplikaci hrozí systémová toxicita** — a **zvyšuje průnik současně aplikovaných látek**.
 
 | **Močovina (urea)** | Účinek |
 |---|---|
