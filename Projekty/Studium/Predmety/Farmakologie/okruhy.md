@@ -85,6 +85,40 @@ V `seznam-otazek-VL.docx` stojí nadpis **„Otázky ze speciální farmakologie
 
 ⚠️ **Makrolidy patří do Specky I, ne do Specky II.** Číslo 88 bylo správně, zařazení ne.
 
+
+### ✅ Čtvrté číslování — podrobná Specka 1 (2026-08-16)
+
+**`Inputs/specka1-podrobna-cast1.pdf` (90 s.) + `specka1-podrobna-cast2.pdf` (43 s.)** číslují **32–83**.
+
+> ### ⚠️ Posun je +4 a je PEVNÝ — na rozdíl od Specky 2
+> **Oficiální = číslo ve zdroji + 4.** Ověřeno strojově **název po názvu u všech 52 otázek**: 32 Cholinergní přenos = **36** … 83 Tetracyklíny = **87**.
+> **Žádná otázka není přeházená ani vynechaná uvnitř rozsahu.**
+
+| Ve zdroji | Oficiálně |
+|---|---|
+| 32 Cholinergní přenos vzruchu | **36** |
+| 47 Hypnotika | **51** |
+| 62 Léčiva s pozitivně inotropním účinkem | **66** |
+| 83 Tetracyklíny, amfenikoly | **87** |
+| *(chybí Makrolidy)* | *88* |
+
+**Chybí jen 88 Makrolidy** — a to **v obou zdrojích Specky 1**: podrobná končí u 83 (= 87), vypracované otázky u 86 (= 87). Zůstává `vypisky-S1-53-makrolidy.md` z obecných znalostí.
+
+⚠️ **Vypracované otázky Specky 1 mají jiný posun (+1)** a navíc **chybné číslování 44** (dvakrát „45"). Podrobná Specka 1 tuhle chybu nemá.
+⚠️ Podrobná Specka 1 obsahuje na s. 52 vloženou stránku **„JEN DOPLNĚNÍ PRO INFO – NENÍ OTÁZKA"**.
+
+### ⚠️ Souhrn: každý zdroj má vlastní číslování
+
+| Zdroj | Posun proti oficiálnímu | Chování |
+|---|---|---|
+| **obecka-vypracovane** | 0 (1–34) | chybí O35 |
+| **specka-1-vypracovane** | **+1** | chybí 88; ⚠️ chyba: dvakrát „45" |
+| **specka1-podrobna** | **+4** *(pevný)* | chybí 88 |
+| **specka-2-vypracovane** | **+2** *(pevný)* | **kompletní, všech 48** |
+| **specka2-podrobna** | **+5 → +7** *(roste!)* | chybí 96 a 109 |
+
+⚠️ **Než prohlásíš otázku za chybějící, prohledej VŠECHNY zdroje.** Otázky 96 a 109 jsem mylně označil za nedostupné, protože jsem hledal jen v podrobné Specce 2 — ve vypracovaných obě jsou.
+
 ### Drobnosti k ověření při čtení
 
 - `O14` — seznam zmiňuje **redistribuci**, nadpis ve vypracování ne
