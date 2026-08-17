@@ -30,6 +30,8 @@ Dokončeno 2026-08-17 · **Specka I = oficiální otázky 36–88, tedy 53 otáz
 
 **PDF:** `../pdf-ustni/specka1-*.pdf` + **`SPECKA1-vse-v-jednom.pdf`** (73 stran, **53 záložek**)
 
+**Tahák na poslední projetí:** `../tahak/specka1-tahak.md` + `.pdf` — **21 stran, ~0,41 strany na otázku**
+
 ## ⚠️ Jediná díra: otázka 88 Makrolidy
 
 **Makrolidy nejsou ani v podrobné Specce 1, ani ve vypracovaných otázkách** — oba zdroje končí u tetracyklinů (= otázka 87). Zpracoval jsem je z **obecných znalostí**; podrobná verze je v `../vypisky-S1-53-makrolidy.md`.

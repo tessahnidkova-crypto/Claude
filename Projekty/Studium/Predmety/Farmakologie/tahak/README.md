@@ -5,7 +5,12 @@
 | Soubor | Obsah | Rozsah |
 |---|---|---|
 | `obecka-tahak.md` / `.pdf` | **obecná farmakologie, otázky O1–O35** | 10 stran · ~0,29 str./otázka |
+| `specka1-tahak.md` / `.pdf` | **speciální farmakologie I, otázky 36–88** | 21 stran · ~0,41 str./otázka |
 | `specka2-tahak.md` / `.pdf` | **speciální farmakologie II, otázky 89–136** *(+ bonus 88 Makrolidy ze Specky I)* | 13 stran · ~0,31 str./otázka |
+
+**Celkem 44 stran na poslední projetí celého předmětu.**
+
+⚠️ **Tahák Specky 1 je hustší než ostatní dva** (0,41 vs. 0,29–0,31 strany na otázku) — není to nedbalost, Specka 1 má víc mechanismů na otázku (vegetativní farmakologie, anestetika, kardiologie, antibiotika). Rozložení je rovnoměrné, netáhne to pár dlouhých otázek.
 
 ## Jak je číst
 
@@ -13,6 +18,7 @@ U každé otázky:
 - **Kostra** — co říct a **v jakém pořadí**. Když si u zkoušky vybavíš jen tuhle řádku, odpověď má strukturu a nerozsype se.
 - **Odrážky** — fakta, bez kterých odpověď neobstojí.
 - **⚠️** — past nebo věta, kterou zkoušející čeká.
+- **❌** *(jen ve Specce 1)* — **věcná chyba ve zdroji katedry**. Takhle to NEŘÍKEJ; správná verze je hned vedle.
 
 ## Tři vrstvy materiálu — kterou kdy
 
@@ -24,9 +30,12 @@ U každé otázky:
 
 ⚠️ **Tahák nenahrazuje ústní vrstvu.** Když u otázky zjistíš, že kostra nedává smysl, vrať se do `../ustni/` — tam je to vysvětlené.
 
-## Co ještě chybí
+## Stav pokrytí
 
-- **Specka 1 (otázky 36–88)** — podrobný zdroj zatím nedodán, tahák neexistuje
-- **O35 Biologická léčba** — v obecce jen z obecných znalostí, ne z materiálu katedry
+✅ **Všechny tři části jsou kompletní — 136 z 136 otázek ve všech vrstvách.**
 
-✅ **Specka 2 je kompletní — všech 48 otázek (89–136).**
+⚠️ **Dvě otázky nejsou z materiálu katedry, jen z obecných znalostí:**
+- **O35 Biologická léčba** (obecka)
+- **88 Makrolidy** (Specka I) — chybí v obou zdrojích Specky 1
+
+Až seženeš materiál katedry k těmhle dvěma, přebijeme to jím.
