@@ -104,6 +104,8 @@ V `seznam-otazek-VL.docx` stojí nadpis **„Otázky ze speciální farmakologie
 
 **Chybí jen 88 Makrolidy** — a to **v obou zdrojích Specky 1**: podrobná končí u 83 (= 87), vypracované otázky u 86 (= 87). Zůstává `vypisky-S1-53-makrolidy.md` z obecných znalostí.
 
+✅ **Zpracováno 2026-08-17: všech 53 otázek Specky I** → `ustni/specka1-*.md`, stav a nalezené chyby v `ustni/STAV-specka1.md`.
+
 ⚠️ **Vypracované otázky Specky 1 mají jiný posun (+1)** a navíc **chybné číslování 44** (dvakrát „45"). Podrobná Specka 1 tuhle chybu nemá.
 ⚠️ Podrobná Specka 1 obsahuje na s. 52 vloženou stránku **„JEN DOPLNĚNÍ PRO INFO – NENÍ OTÁZKA"**.
 
