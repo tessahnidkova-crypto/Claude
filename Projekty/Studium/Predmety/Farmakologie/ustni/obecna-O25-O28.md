@@ -105,7 +105,7 @@ Tvoří **~30 % enzymů CYP450**, oxiduje **10 % léčiv** — **NSAID, antiepil
 | **S-warfarin** | alely CYP2C9\*2 a \*3 → **předávkování, krvácivé komplikace** |
 | **Omeprazol** | předávkování nehrozí (široké okno), ale ⚠️ **snižuje aktivaci klopidogrelu → riziko tromboembolie** |
 | **Izoniazid** | pomalým metabolizátorem je **~60 % kavkazské populace** → **hepatotoxicita a periferní neuropatie** |
-| **Azathioprin** | ↑ imunosupresivní a cytotoxické účinky |
+| **Azathioprin** | ⚠️ enzym **thiopurin-S-methyltransferáza (TPMT)**, ne CYP · u PM **snížená biotransformace 6-merkaptopurinu** → ↑ imunosupresivní a cytotoxické účinky metabolitů `[starý zdroj]` |
 
 ---
 

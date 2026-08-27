@@ -86,6 +86,13 @@
 
 **Kyselé léčivo → albumin. Zásadité → kyselý α₁-glykoprotein.** Vazba je **reverzibilní a nespecifická**.
 
+| Bílkovina | Co váže | Detail `[starý zdroj]` |
+|---|---|---|
+| **Albumin** | látky **kyselého** charakteru | ⚠️ poměr **1 albumin : 1–2 molekuly** léčiva · uplatňují se **hydrofobní, vodíkové, iontové vazby a van der Waalsovy síly** |
+| **α₁-kyselý glykoprotein** *(orosomukoid)* | látky **bazické, lipofilní** | ⚠️ **pouze JEDNO vazebné místo** → snadněji se nasytí a snadněji dojde ke kompetici |
+
+⚠️ **Penicilin a sulfonamidy vytěsňují z vazby na albumin i bilirubin** — u novorozence hrozí **jádrový ikterus**.
+
 > ### ⚠️ **Účinná je pouze volná (nevázaná) frakce.**
 
 **Tři důsledky:**

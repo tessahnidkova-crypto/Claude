@@ -80,7 +80,11 @@ Učebnicovým příkladem je **thiopental**, silně lipofilní celkové anesteti
 > **Představ si tuk jako houbu.** Poprvé je suchá a nasaje thiopental okamžitě — pacient se probudí. **Ale houba má konečnou kapacitu.** Po několika dávkách je nasáklá a další thiopental už nemá kam odejít — **zůstane v mozku a pacient spí dál**.
 > **Klinicky to znamená:** thiopental je skvělý na **jednorázový úvod** do anestezie, ale **naprosto nevhodný pro udržování**. Pro to se používá propofol, který se skutečně eliminuje, ne jen přesouvá.
 
-**Vazba na plazmatické bílkoviny** se řídí povahou léčiva: **kyselá léčiva se vážou na albumin, zásaditá na kyselý α₁-glykoprotein**. Vazba je **reverzibilní a nespecifická**.
+**Vazba na plazmatické bílkoviny** se řídí povahou léčiva: **kyselá léčiva se vážou na albumin, zásaditá na kyselý α₁-glykoprotein, kterému se také říká orosomukoid**. Vazba je **reverzibilní a nespecifická**.
+
+U albuminu se váže **jedna molekula albuminu na jednu až dvě molekuly léčiva** a uplatňují se přitom **hydrofobní, vodíkové a iontové vazby a van der Waalsovy síly**. **Kyselý α₁-glykoprotein má naproti tomu pouze jedno vazebné místo**, a proto se snadněji nasytí a snadněji na něm dochází ke kompetici.
+
+Za zmínku stojí, že **penicilin a sulfonamidy vytěsňují z vazby na albumin i bilirubin — a u novorozence tak hrozí jádrový ikterus**.
 
 Nejdůležitější věta zní: **účinná je pouze volná, nevázaná frakce**. Z toho plynou tři důsledky. **Zaprvé, vázaná frakce funguje jako zásobárna** — postupně se uvolňuje, udržuje hladinu a prodlužuje účinek. **Zadruhé, vázané léčivo se nefiltruje v glomerulu a nepřestupuje bariérami** — je pro tělo nedostupné. A **zatřetí, dvě léčiva mohou o vazebné místo soutěžit, a to je léková interakce** — vytěsněné léčivo náhle zvýší svou volnou frakci a může vyvolat toxicitu. Klasickým příkladem je kombinace warfarinu s nesteroidním antiflogistikem.
 

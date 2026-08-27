@@ -41,6 +41,7 @@ Nejdéle se používají látky z rostlin a živočichů (**přírodní léčiva
 
 Základní farmaceutické dílo **normativní povahy s celostátní závazností**. Připravuje lékopisná komise, vydává **ministerstvo zdravotnictví**, přebírá se z Evropského lékopisu.
 **Struktura:** evropská část (obecná = 1. díl, speciální = 2.–3. díl) + **národní část = tabulky, 4. díl**.
+**Obecná část** obsahuje mj. **obecné články lékových forem**. **Speciální část:** ⚠️ **vakcíny · imunoséra · alergeny · rostlinné drogy a přípravky z nich · homeopatické přípravky · radiofarmaka · chirurgická šicí vlákna · vaty** *(pro humánní i veterinární použití)*. `[starý zdroj vypracovaných otázek]`
 
 | Termín | Význam |
 |---|---|
@@ -64,7 +65,7 @@ Základní farmaceutické dílo **normativní povahy s celostátní závazností
 
 > **Kostra:** zákon o léčivech → **hranice mezi třemi kategoriemi** → klasifikace LP → SPC × PIL → zvláštní použití → originál × generikum → propagace → regulační orgány
 
-**Zákon o léčivech** stanovuje podmínky pro: výzkum, výrobu, distribuci a odstraňování · **registraci, předepisování a výdej** · mezinárodní spolupráci a jednotný trh EU · vedení dokumentace.
+**Zákon o léčivech — ⚠️ č. 378/2007 Sb.** — stanovuje podmínky pro: výzkum, výrobu, distribuci a odstraňování · **registraci, poregistrační sledování, předepisování a výdej** · mezinárodní spolupráci a jednotný trh EU · vedení dokumentace. **Doplňky stravy upravuje ⚠️ vyhláška č. 58/2018 Sb.** `[starý zdroj]`
 
 ## ⚠️ Jádro otázky — hranice mezi kategoriemi
 
@@ -98,7 +99,7 @@ Základní farmaceutické dílo **normativní povahy s celostátní závazností
 | Režim | Podmínky |
 |---|---|
 | **Neregistrovaný LP** | v ČR není srovnatelný registrovaný · je registrovaný v zahraničí · **neobsahuje GMO** · **pacient je seznámen** |
-| **Specifický léčebný program** | schvaluje **MZČR, SZÚ a SÚKL** · ⚠️ **nemusí se hlásit SÚKL** |
+| **Specifický léčebný program** | schvaluje **MZČR, SZÚ a SÚKL** · ⚠️ **nemusí se hlásit SÚKL** · některé **hrazeny z veřejného pojištění (Purinethol, Furolin)** `[starý zdroj]` |
 | **Off-label** | mimo SPC — jiná indikace, cesta nebo věk |
 
 > ⚠️ **Off-label použití NENÍ non lege artis ani nezákonné.** Přesně na tohle se doptávají.

@@ -44,7 +44,11 @@ A z distribučního objemu plyne ještě jeden praktický důsledek: **léčivo 
 
 Učebnicovým příkladem je **thiopental**, silně lipofilní celkové anestetikum. Po nitrožilním podání jde okamžitě **do mozku**, protože ten je vysoce prokrvený, a pacient rychle usne. Za pár minut se ale **redistribuuje do svalů a tukové tkáně** a pacient se probouzí, **ačkoli léčivo z těla nezmizelo**. Klinicky důležité je, že **při opakovaném podání se tuková tkáň nasytí, redistribuce přestane fungovat a účinek se dramaticky prodlouží**.
 
-**Vazba na plazmatické bílkoviny** se řídí povahou léčiva: **kyselá léčiva se vážou na albumin, zásaditá na kyselý α₁-glykoprotein**. Vazba je **reverzibilní a nespecifická**.
+**Vazba na plazmatické bílkoviny** se řídí povahou léčiva: **kyselá léčiva se vážou na albumin, zásaditá na kyselý α₁-glykoprotein, kterému se také říká orosomukoid**. Vazba je **reverzibilní a nespecifická**.
+
+U albuminu se váže **jedna molekula albuminu na jednu až dvě molekuly léčiva** a uplatňují se přitom **hydrofobní, vodíkové a iontové vazby a van der Waalsovy síly**. **Kyselý α₁-glykoprotein má naproti tomu pouze jedno vazebné místo**, a proto se snadněji nasytí a snadněji na něm dochází ke kompetici.
+
+Za zmínku stojí, že **penicilin a sulfonamidy vytěsňují z vazby na albumin i bilirubin — a u novorozence tak hrozí jádrový ikterus**.
 
 Nejdůležitější věta zní: **účinná je pouze volná, nevázaná frakce**. Z toho plynou tři důsledky. **Zaprvé, vázaná frakce funguje jako zásobárna** — postupně se uvolňuje, udržuje hladinu a prodlužuje účinek. **Zadruhé, vázané léčivo se nefiltruje v glomerulu a nepřestupuje bariérami** — je pro tělo nedostupné. A **zatřetí, dvě léčiva mohou o vazebné místo soutěžit, a to je léková interakce** — vytěsněné léčivo náhle zvýší svou volnou frakci a může vyvolat toxicitu. Klasickým příkladem je kombinace warfarinu s nesteroidním antiflogistikem.
 

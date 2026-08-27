@@ -31,6 +31,21 @@ Zkouška: **úterý 1. 9. 2026** · **test (50 otázek, nutno 35 = 70 %) + ústn
 
 **Pokrytí je tím 136/136**, ale dvě otázky nejsou od katedry. Až sežene úplné verze, přebít jimi.
 
+### ⚠️ Existují DVĚ verze vypracovaných obecek — nepleť si je *(vyřešeno 2026-08-27)*
+
+| Soubor | Otázek | Číslování | Verdikt |
+|---|---|---|---|
+| `Inputs/obecka-vypracovane-otazky.pdf` (73 s.) | **34** | ⚠️ **UŽ oficiální nové** (1–34) | ✅ **primární zdroj** — z něj jsou všechny vrstvy |
+| `Inputs/obecka-vypracovane-STARA-VERZE-31otazek.pdf` (61 s.) | **31** | staré, před reformou | ⚠️ **archiv** — v průměru **0,6× obsahu** nové verze |
+
+**Nová verze už obsahuje** otázku `3` Předepisování, rozdělené lékové formy `6/7/8` i **NNT** v otázce `23`. Přerovnávat se nemusí nic.
+
+**Převod staré → nové** *(kdyby bylo někdy potřeba)*: `1–2` → beze změny · **nová `3` Předepisování = ve staré NEBYLA** · `3–4` → **+1** · stará `5` Lékové formy → **rozpadá se na `6`, `7`, `8`** · `6–31` → **+3** · **nová `35` Biologická léčba = ve staré NEBYLA**.
+
+**Co ze staré verze bylo dotaženo do materiálů** (zbytek je podmnožina nové): zákon **378/2007 Sb.** a vyhláška **58/2018 Sb.** (O2) · speciální část lékopisu (O1) · **Purinethol, Furolin** u specifického léčebného programu (O2) · poměr **1 albumin : 1–2 molekuly**, van der Waalsovy síly, **orosomukoid s jediným vazebným místem**, vytěsnění bilirubinu (O14) · enzym **TPMT** u azathioprinu (O26).
+
+⚠️ **Chyba ve staré verzi:** píše **„oxomukoid"** — správně je **orosomukoid**.
+
 ### ⚠️ Převodní klíč — číslování ve vypracovaných NENÍ oficiální číslování
 
 Vypracované soubory číslují průběžně **1–134** přes všechny tři části. Oficiální seznam má **136** otázek a čísluje zvlášť v každé sekci. Rozdíl dvou čísel = přesně ty dvě vynechané otázky.

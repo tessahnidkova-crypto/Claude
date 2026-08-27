@@ -130,7 +130,7 @@ Nejlepším příkladem do odpovědi je ale **kodein**, protože na něm jde uk�
 
 Druhým významným enzymem je **CYP2C9**, který tvoří **asi třicet procent enzymů cytochromu P450 a oxiduje kolem deseti procent léčiv** — nesteroidní antiflogistika, antiepileptika, antikoagulancia a antihypertenziva.
 
-U **S-warfarinu** vedou alely CYP2C9 hvězdička dva a hvězdička tři u pomalého metabolizátora k **předávkování a krvácivým komplikacím**. U **omeprazolu** předávkování nehrozí, protože má široké terapeutické okno, ale **omeprazol snižuje aktivaci klopidogrelu, a tím zvyšuje riziko tromboembolie**. U **izoniazidu** je pomalým metabolizátorem **asi šedesát procent kavkazské populace**, což vede k **hepatotoxicitě a periferní neuropatii**. A u **azathioprinu** se zvyšují imunosupresivní a cytotoxické účinky."
+U **S-warfarinu** vedou alely CYP2C9 hvězdička dva a hvězdička tři u pomalého metabolizátora k **předávkování a krvácivým komplikacím**. U **omeprazolu** předávkování nehrozí, protože má široké terapeutické okno, ale **omeprazol snižuje aktivaci klopidogrelu, a tím zvyšuje riziko tromboembolie**. U **izoniazidu** je pomalým metabolizátorem **asi šedesát procent kavkazské populace**, což vede k **hepatotoxicitě a periferní neuropatii**. A u **azathioprinu**, kde je enzymem **thiopurin-S-methyltransferáza, tedy TPMT, a ne cytochrom**, vede u pomalého metabolizátora **snížená biotransformace 6-merkaptopurinu** ke zvýšení imunosupresivních a cytotoxických účinků metabolitů."
 
 > ### Aby ti to dávalo smysl
 > **Kombinace omeprazolu s klopidogrelem je hezká, protože v ní hraje polymorfismus i interakce zároveň — a je to přesně opačná logika než u warfarinu.**
