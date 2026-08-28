@@ -474,6 +474,38 @@ Z **neurohypofýzy** se uvolňují dva hormony, které **vznikají v hypothalamu
 
 Samotný vazopresin se pro terapii nehodí, protože má poločas jen deset minut. Používají se proto analoga: **desmopressin je selektivní na V2, tedy nepůsobí vazokonstrikčně, a používá se u centrálního diabetu insipidu, u nočního pomočování a k profylaxi krvácení u hemofilie A**; **terlipressin je naopak selektivní na V1 a používá se u krvácení z trávicího traktu, zejména z jícnových varixů**.“
 
+💬 **Ať to dává smysl**
+⚠️ **Nejdřív si ujasni hierarchii, protože bez ní se v otázce ztratíš: hypothalamus velí hypofýze a hypofýza velí periferním žlázám.**
+**Hypothalamus posílá dva druhy povelů: LIBERINY („uvolni") a STATINY („zastav").** *Pozor — „statin" tady nemá nic společného s léky na cholesterol; je to prostě inhibiční faktor.*
+**Tři hypothalamické hormony, které musíš znát:**
+- **Somatostatin** — brzdí růstový hormon a TSH, a navíc snižuje průtok splanchnickou oblastí. *(Odtud jeho použití u krvácení z jícnových varixů.)*
+- **Gonadoliberin (GnRH)** — uvolňuje **LH i FSH**, tedy oba pohlavní hormony hypofýzy najednou.
+- ⚠️ **Dopamin — a tady je ta nejdůležitější zvláštnost: prolaktin je jediný hormon hypofýzy, který je řízen BRZDĚNÍM, ne uvolňováním.** **Dopamin ho trvale drží na uzdě.**
+⚠️ **A z toho plyne rovnou dvojí:**
+1. **Zablokuješ dopamin → prolaktin vyletí** (odtud hyperprolaktinemie po antipsychotikách, viz Specka I, otázka 55).
+2. ⚠️ **Podáš agonistu dopaminu (bromokriptin, kabergolin) → prolaktin klesne.** **A protože ty agonisté nejen zastaví tvorbu prolaktinu, ale ZASTAVÍ I RŮST NÁDORU, je PROLAKTINOM jediným nádorem hypofýzy, který se dá vyléčit konzervativně, bez operace.** **Tuhle větu řekni — je efektní a je pravdivá.**
+**Oktreotid** = **analog somatostatinu s delším poločasem** (přirozený by vydržel minuty). **Používá se u akromegalie, u krvácení z jícnových varixů a u endokrinně aktivních nádorů GIT.**
+⚠️ **Nejvděčnější část otázky je paradox gonadoliberinu — a stojí za to vysvětlit, PROČ to tak je:**
+**Tělo GnRH normálně vylučuje v PULZECH, každých asi 90 minut.** **Receptory hypofýzy jsou na tenhle rytmus nastavené.**
+- **Podáš-li ho PULZNĚ, napodobíš fyziologii → hypofýza vyplaví LH a FSH → STIMULACE.**
+- ⚠️ **Podáš-li ho KONTINUÁLNĚ, receptory jsou trvale bombardované a hypofýza se brání DOWN-REGULACÍ** (viz obecka O22) — **stáhne receptory dovnitř a přestane reagovat.** **Výsledkem je útlum, ne stimulace.**
+⚠️ **A z toho plyne, že jedna a tatáž látka má dvě zcela opačná využití podle způsobu podání: pulzně k obnovení plodnosti a při umělém oplodnění, kontinuálně k takzvané BIOCHEMICKÉ KASTRACI u karcinomu prostaty, endometriózy a syndromu polycystických ovarií.** **Rizikem dlouhodobého útlumu je osteoporóza**, protože pohlavní hormony chrání kost.
+**Růstový hormon** ⚠️ **na růst nepůsobí přímo — působí přes SOMATOMEDINY (IGF-1 a IGF-2), které se tvoří v JÁTRECH.** *(Proto se hladina IGF-1 měří místo růstového hormonu — je stabilnější.)*
+**Poruchy se liší podle věku, a je to logické — záleží, jestli jsou růstové ploténky ještě otevřené:**
+- **Nedostatek v dětství → hypofyzární nanismus** (léčí se somatotropinem podkožně).
+- **Nadbytek v dětství → GIGANTISMUS** (ploténky jsou otevřené, takže se roste do výšky).
+- ⚠️ **Nadbytek v dospělosti → AKROMEGALIE** — ploténky jsou uzavřené, takže se **nedá růst do délky, jen do šířky: mohutní ruce, nohy, čelist a nadočnicové oblouky.** ⚠️ **Zubařsky: typická je PROGENIE — předsun dolní čelisti a rozestupující se zuby.** *[obecné znalosti]* **Léčí se analogy somatostatinu, které nejen sníží produkci růstového hormonu, ale i zmenší samotný adenom.**
+**Neurohypofýza** není žláza — ⚠️ **je to jen SKLADIŠTĚ.** **Oxytocin a vazopresin vznikají v hypothalamu a do zadního laloku putují AXONY nervových buněk**, odkud se uvolňují.
+**Oxytocin** — **na dělohu působí kontrakčně, na mléčnou žlázu ejekcí mléka.** ⚠️ **Citlivost dělohy prudce stoupá až na konci těhotenství** — proto se v prvních měsících nic neděje. **Spouští se dvěma podněty: sáním bradavky a roztažením děložního hrdla.** **Jeho antagonista ATOSIBAN se používá k zastavení předčasného porodu.**
+⚠️ **Vazopresin (ADH) — tři receptory a stačí si pamatovat čísla:**
+- **V1 = CÉVY** → vazokonstrikce.
+- **V2 = VODA** → v distálním tubulu vloží do membrány **AKVAPORINY**, tedy vodní kanály, takže se voda vstřebá zpátky a moč se zahustí.
+- **V3 = zvyšuje ACTH.**
+⚠️ **Afinita k V1 je NIŽŠÍ než k V2 — a proto se ve fyziologických dávkách projeví jen zadržování vody, kdežto stažení cév až při vysokých dávkách** (například v šoku).
+**Samotný vazopresin má poločas 10 minut, takže je terapeuticky nepoužitelný. Používají se selektivní analoga — a tady stačí pravidlo podle čísla receptoru:**
+- 🔑 **DESMOPRESSIN = V2 = VODA.** **Nepůsobí na cévy.** Používá se u **centrálního diabetu insipidu** (kde ADH chybí a pacient močí litry), u **nočního pomočování** a ⚠️ **k profylaxi krvácení u hemofilie A** *(vyplaví z endotelu zásoby faktoru VIII a von Willebrandova faktoru — zubařsky užitečné před extrakcí). [obecné znalosti]*
+- 🔑 **TERLIPRESSIN = V1 = CÉVY.** Používá se u **krvácení z trávicího traktu, hlavně z jícnových varixů** — stáhne cévy ve splanchnické oblasti a krvácení ustane.
+
 🔑 **GnRH pulzně stimuluje, kontinuálně inhibuje.** Na tomhle paradoxu stojí biochemická kastrace.
 ⚠️ **Desmopressin = V2 = voda. Terlipressin = V1 = cévy.** Podle čísla poznáš indikaci.
 
@@ -496,6 +528,26 @@ Vděčná jsou čísla o transportu: **volná frakce T4 je pět setin procenta, 
 **U hypotyreózy je jedinou účinnou léčbou podávání thyreoidálních hormonů.** Je potřeba rozlišit **substituční léčbu, tedy nízké dávky udržující fyziologické koncentrace, a supresivní léčbu, tedy velké dávky, které zpětnovazebně potlačí TSH** — ta je nutná u karcinomu štítné žlázy, ale nese **vyšší riziko kardiovaskulárních obtíží**.
 
 **Levothyroxin, tedy T4, je nejpoužívanější, ale má pomalý nástup. Liothyronin, tedy T3, působí rychle, protože je to přímo účinný hormon — proto se nehodí k dlouhodobé terapii a je vyhrazen pro myxedémové kóma.** **Oba se musí užívat nalačno.**“
+
+💬 **Ať to dává smysl**
+**Štítná žláza vyrábí T4 (thyroxin) a T3 (trijodthyronin)** — čísla znamenají **počet atomů jódu** v molekule. **Parafolikulární C-buňky vyrábějí kalcitonin**, který se týká vápníku (viz otázka o osteoporóze).
+⚠️ **Nejdůležitější vztah v celé otázce: T4 je ZÁSOBNÍ forma, T3 je ÚČINNÁ forma.**
+**Žláza vyrábí převážně T4, ten koluje v krvi vázaný na bílkovinu a v cílových tkáních se z něj DEJODACÍ (odštěpením jednoho jódu) stane T3, který je až DESETKRÁT účinnější.**
+⚠️ **A z toho plynou obě ta čísla o vazbě i o poločase:** **T4 je vázaný pevněji — volné frakce má jen 0,05 %, zatímco T3 0,5 %.** **A protože účinkuje jen volná frakce** (viz obecka O14), **T4 sám o sobě skoro nepůsobí — jen čeká.** **Proto má T4 asi třikrát delší poločas, kolem 7 dní.**
+🔑 **Prakticky to znamená: levothyroxin (T4) stačí jednou denně a hladina je stabilní. Liothyronin (T3) působí hned, ale kolísá — proto se nehodí k dlouhodobé léčbě a je vyhrazen pro myxedémové kóma**, tedy život ohrožující dekompenzaci hypotyreózy, kde nemáš čas čekat.
+⚠️ **Oba se užívají NALAČNO** — jídlo, hlavně vápník, železo a káva, jejich vstřebání výrazně zhoršuje.
+**Řízení: TRH z hypothalamu → TSH z hypofýzy → hormony štítné žlázy.** **A ty pak zpětnovazebně brzdí obojí.**
+⚠️ **A z té zpětné vazby plyne důležitá diagnostická věc: u hypotyreózy je TSH VYSOKÉ** (hypofýza se marně snaží žlázu popohnat) **a u hypertyreózy NÍZKÉ.** **TSH tedy jde proti hormonům štítné žlázy — a proto se měří jako první.** *[obecné znalosti]*
+⚠️ **Jód je zvláštní tím, že vadí jeho nedostatek i nadbytek:** **dlouhodobý NEDOSTATEK → žláza se snaží zvětšením kompenzovat → STRUMA (vole). NADBYTEK → paradoxně ATROFIE.**
+🔑 **A přesně tenhle paradoxní útlum se využívá terapeuticky: vysoké dávky jodidů ZPOMALÍ uvolňování hormonů — proto se podávají u tyreotoxické krize.** *(Je to tzv. Wolff-Chaikoffův efekt. — [obecné znalosti])*
+⚠️ **Účinky hormonů štítné žlázy si nemusíš pamatovat jako seznam — stačí si zapamatovat, že se PODOBAJÍ AKTIVACI SYMPATIKU:** **zrychlené srdce, sklon k arytmiím, nervozita, pocení, třes, hubnutí.** **A hypotyreóza je pak přesný opak: zpomalení všeho — bradykardie, zima, únava, zácpa, přibývání na váze.** *(Vzpomeň si na obecku O28: hypotyreóza zpomaluje i odbourávání léků.)*
+**Na buněčné úrovni stimulují sodíko-draselnou ATPázu** — tedy hlavního spotřebiče energie v buňce. **Odtud zvýšený energetický výdej a tvorba tepla.**
+⚠️ **Jsou nezbytné pro vývoj mozku a kostry — a jejich nedostatek v dětství vede ke KRETENISMU**, tedy k nevratné mentální retardaci s poruchou růstu. **Proto se štítná žláza testuje u každého novorozence.** *[obecné znalosti]*
+**Hypertyreóza** — nejčastěji **Gravesova-Basedowova choroba** (autoimunitní, protilátky žlázu stimulují). ⚠️ **Tři možnosti léčby a je dobré je vidět jako stupňování: (1) thyreostatika blokující syntézu, doplněná BETABLOKÁTORY, které utlumí příznaky** *(a to dává smysl, protože příznaky jsou v podstatě sympatické — viz Specka I, otázka 46)* **· (2) destrukce žlázy radioaktivním jódem · (3) chirurgické odstranění.**
+⚠️ **Tyreotoxická krize je náhle vystupňovaná hypertyreóza ohrožující život, především SRDEČNÍM SELHÁNÍM** — srdce žene naplno, dokud se nevyčerpá. **Léčí se nitrožilně kombinací: betablokátor (zbrzdí srdce) + jodidy (zpomalí uvolňování) + thiamazol (zastaví syntézu) + hydrokortizon.**
+⚠️ **U hypotyreózy rozliš dva druhy léčby, protože se na to ptají:**
+- **SUBSTITUČNÍ** = **nízké dávky, které jen doplní, co chybí** → cílem jsou normální hladiny.
+- **SUPRESIVNÍ** = **vysoké dávky, které zpětnovazebně SRAZÍ TSH k nule.** ⚠️ **Používá se u karcinomu štítné žlázy — protože TSH by zbytkovou nádorovou tkáň stimuloval k růstu.** **Cenou je vyšší kardiovaskulární riziko z předávkování hormony.**
 
 🔑 **T4 je zásoba, T3 je účinná forma.** Proto má T4 dlouhý poločas a stačí jednou denně.
 ⚠️ **Jód ve vysokých dávkách paradoxně inhibuje syntézu hormonů** — proto se používá u tyreotoxické krize.
@@ -524,6 +576,28 @@ Nejelegantnějším detailem otázky je **enzymová bariéra: k aldosteronovým 
 
 Blokátory aldosteronu, tedy **spironolakton a eplerenon**, mohou způsobit **hyperkalemii, zvlášť v kombinaci s ACE inhibitory, sartany nebo při renální insuficienci**; u spironolaktonu je navíc typický **antiandrogenní efekt s gynekomastií**.“
 
+💬 **Ať to dává smysl**
+**Kortizol je hlavní stresový hormon** — vyplavuje se z kůry nadledvin, když je tělo pod zátěží, a **připraví ho na boj: zvýší cukr v krvi, potlačí zánět a imunitu a zvýší citlivost cév na katecholaminy.**
+⚠️ **A to je zároveň důvod, proč jsou glukokortikoidy tak mocné i tak zrádné: nejsou to „protizánětlivé léky" — jsou to hormony, které přenastaví celý metabolismus.**
+**Zástupci:** ⚠️ **prednison je PROLÉČIVO, které se v játrech mění na aktivní prednisolon** (viz obecka O26 — u pacienta s těžkým jaterním selháním proto raději rovnou prednisolon). **Methylprednisolon je jeho metylovaný derivát a dexamethason je velmi potentní syntetický glukokortikoid.**
+⚠️ **Nežádoucí účinky jsou jádrem otázky, protože z nich plynou VŠECHNA pravidla léčby. A dají se odvodit — každý je jen přehnaná fyziologická funkce kortizolu:**
+- **Kortizol tlumí imunitu** → **pomalé hojení ran a aktivace latentních infekcí** (tuberkulóza, herpes). ⚠️ **Zubařsky: pomalejší hojení po extrakci a vyšší riziko orální kandidózy.**
+- ⚠️ **Kortizol se řídí zpětnou vazbou → když ho dodáš zvenku, nadledviny se „vypnou" a přestanou vyrábět vlastní.** **A z toho plynou hned dvě věci: pacient NEDOKÁŽE ZAREAGOVAT NA STRES, a při náhlém vysazení dostane REBOUND — adrenální krizi**, protože vlastní produkce se rozjíždí týdny.
+- **Metabolické účinky** → **iatrogenní Cushingův syndrom** (měsíčitý obličej, býčí šíje, tuk na trupu, strie), **diabetogenní efekt** (proto se u diabetika po kortikoidu rozhodí cukr) **a dyslipidemie.**
+- **Katabolický efekt** → **úbytek svalů a OSTEOPORÓZA** (kortikoidy jsou nejčastější lékovou příčinou osteoporózy — viz otázka 130).
+- **Hypokalemie**, ⚠️ **hlavně v kombinaci s diuretiky** — protože i glukokortikoidy mají zbytkový mineralokortikoidní efekt.
+⚠️ **Trojí použití a je dobré si je odlišit podle CÍLE:**
+1. **SUBSTITUČNÍ** — u Addisonovy choroby (nadledviny nefungují). **Hydrokortizonem 2–3× denně se snahou napodobit přirozený rytmus — největší dávka RÁNO**, protože tehdy je fyziologicky vrchol kortizolu.
+2. **SYSTÉMOVÁ** — prednison, methylprednisolon, dexamethason pro protizánětlivý, imunosupresivní, antialergický a antiedematózní efekt. ⚠️ **Prednison a methylprednisolon mají MENŠÍ mineralokortikoidní efekt než hydrokortizon**, tedy méně zadržují sodík a vodu.
+3. **LOKÁLNÍ** — dexamethason a triamcinolon v kapkách, do kloubu, inhalačně, do nosu. ⚠️ **Nežádoucí účinky pak bývají jen lokální: atrofie kůže a sliznic a KANDIDÓZA DUTINY ÚSTNÍ.**
+🔑 **Čtyři pravidla terapie, která se dají odříkat jedním dechem a jsou přímým důsledkem těch nežádoucích účinků: lokálně místo systémově · nejnižší dávka · nejkratší dobu · vysazovat pomalu.** **A dvě čísla: nad 3 měsíce systémové léčby se nežádoucí účinky rozvinou, za relativně bezpečnou se považuje dávka do 2,5 mg prednisonu denně.**
+⚠️ **A tady je nejdůležitější věta pro tebe osobně, protože ji zdroj výslovně jmenuje: pacient na dlouhodobé kortikoterapii potřebuje PŘED STOMATOLOGICKÝM ZÁKROKEM zvýšenou dávku.**
+**Vysvětlení: jeho nadledviny jsou vypnuté zpětnou vazbou, takže na stres nedokážou zareagovat vlastním kortizolem.** **Bez navýšení hrozí adrenální krize — pokles tlaku až kolaps.** **Tohle se opravdu může stát v ordinaci.**
+**Mineralokortikoid = aldosteron**, řídí hospodaření se sodíkem a draslíkem. **Jeho receptory jsou jen v distálním tubulu, tlustém střevě, měchýři a potních žlázách.**
+⚠️ **A nejelegantnější detail celé otázky, který stojí za to říct: k aldosteronovému receptoru má afinitu i KORTIZOL — a kortizolu je v krvi mnohonásobně víc.** **Tak jak to, že receptor neobsadí trvale?**
+**Odpověď: cílové buňky mají ENZYMOVOU BARIÉRU — enzym 11-beta-hydroxysteroiddehydrogenázu, který kortizol na místě přemění na neúčinný metabolit.** ⚠️ **Na aldosteron ten enzym nepůsobí.** **Selektivita tedy není dána receptorem, ale vrátným, který před ním stojí.** *(Odtud i to, že lékořice, která ten enzym blokuje, způsobuje hypertenzi a hypokalemii. — [obecné znalosti])*
+**Blokátory aldosteronu — spironolakton a eplerenon** (viz otázka 69) — ⚠️ **způsobují HYPERKALEMII, zvlášť v kombinaci s ACE inhibitory nebo sartany a při renální insuficienci** (všechny tři totiž zadržují draslík). ⚠️ **A spironolakton má navíc ANTIANDROGENNÍ efekt — u mužů gynekomastii**, protože není selektivní a sahá i na androgenní receptory.
+
 🔑 **Lokálně místo systémově, nejnižší dávka, nejkratší dobu, pomalu vysadit.**
 ⚠️ **Zubařsky:** pacient na dlouhodobé kortikoterapii potřebuje **před zákrokem vyšší dávku** — sám by na stres nedokázal zareagovat.
 
@@ -538,6 +612,24 @@ Blokátory aldosteronu, tedy **spironolakton a eplerenon**, mohou způsobit **hy
 **Anorektika působí v hypothalamu na úrovni centra příjmu potravy zvýšením nabídky neurotransmiterů — noradrenalinu, dopaminu, GABA a serotoninu.** Zástupcem je **fentermin, inhibitor zpětného vychytávání noradrenalinu, serotoninu a dopaminu, efektivní u pacientů s nezdrženlivou chutí k jídlu**; jeho nežádoucími účinky jsou ale **zvýšení tlaku, nespavost, agitovanost, tachyarytmie a psychózy**. Používá se také **fixní kombinace bupropionu s naltrexonem** — bupropion jako anticravingová terapie a **naltrexon jako antagonista mí-opioidních receptorů snižující euforizující účinek potravy**.
 
 **Analoga GLP-1** napodobují **přirozený hormon zvyšující pocit sytosti a snižující chuť k jídlu**; používají se i u diabetu druhého typu, protože zároveň potencují sekreci inzulinu. Podávají se **injekčně v předplněném peru** a zástupci jsou **liraglutid a semaglutid**.“
+
+💬 **Ať to dává smysl**
+⚠️ **Tři skupiny léků na obezitu jsou hezky uspořádané podle toho, KDE do problému zasahují — a stojí za to je takhle představit:**
+1. **Orlistat řeší, co se vstřebá ve STŘEVĚ.**
+2. **Anorektika řeší, kolik toho člověk sní — zasahují v MOZKU.**
+3. **Analoga GLP-1 řeší, jak dlouho vydrží pocit sytosti — napodobují STŘEVNÍ HORMON.**
+**Orlistat** — **lipáza je enzym, který ve střevě štěpí tuky na menší kousky, aby se daly vstřebat.** ⚠️ **Zablokuješ ji → tuk zůstane nerozštěpený → nevstřebá se a odejde stolicí.** **Zhruba třetina snědeného tuku projde tělem bez užitku.**
+⚠️ **Musí se podávat s KAŽDÝM jídlem obsahujícím tuk** — funguje jen na to, co je zrovna ve střevě, ne systémově.
+⚠️ **A odtud plyne i jeho hlavní nevýhoda, která je zároveň jeho „výchovným" mechanismem: STEATOREA — mastná, objemná stolice s obtížně předvídatelným vyprazdňováním a flatulencí.** **Čím víc tuku pacient sní, tím horší následek** — takže se sám naučí tuk omezovat. *[obecné znalosti]*
+⚠️ **A protože brání vstřebání tuku, brání i vstřebání všeho, co je v tuku rozpuštěné — tedy VITAMINŮ A, D, E a K** (viz Specka I, otázka 75, kde totéž dělají pryskyřice). **Proto se musí doplňovat.**
+**Anorektika** (*an-orexis* = bez chuti k jídlu) — ⚠️ **působí v HYPOTHALAMU, kde je centrum příjmu potravy, a to zvýšením nabídky neurotransmiterů: noradrenalinu, dopaminu, GABA a serotoninu.**
+**Fentermin** je **inhibitor zpětného vychytávání noradrenalinu, serotoninu a dopaminu** — ⚠️ **tedy vlastně stimulans příbuzné amfetaminům** (viz otázka 109). **A odtud plynou přesně ty nežádoucí účinky, které bys u stimulancia čekala: zvýšení tlaku, nespavost, agitovanost, tachyarytmie a psychózy.** **Hodí se pro pacienta s nezdrženlivou chutí k jídlu.**
+⚠️ **Kombinace bupropion + naltrexon je chytrá a stojí za vysvětlení, protože propojuje dvě věci z jiných otázek:**
+- **Bupropion** je antidepresivum s anticravingovým účinkem (viz Specka I, otázka 57 — používá se i na odvykání kouření).
+- ⚠️ **Naltrexon je ANTAGONISTA opioidních mí receptorů** (viz Specka I, otázka 61). **A proč zrovna on? Protože jídlo — hlavně sladké a tučné — vyplavuje endorfiny a tím vytváří ODMĚNU, úplně stejně jako droga** (viz otázka 105). **Naltrexon tuhle odměnu zablokuje, takže jídlo přestane být tak lákavé.**
+**Analoga GLP-1 (liraglutid, semaglutid)** — ⚠️ **GLP-1 je přirozený STŘEVNÍ hormon (inkretin), který se vyplaví po jídle a řekne mozku „jsem sytý", zpomalí vyprazdňování žaludku a zároveň podpoří sekreci inzulinu.**
+⚠️ **A odtud dvojí využití: používají se i u diabetu 2. typu** (viz Specka I, otázka 81 — kde gliptiny prodlužují životnost vlastních inkretinů; tohle je krok dál, přímo dodaný analog s dlouhým poločasem).
+**Podávají se injekčně v předplněném peru** — ⚠️ **a to proto, že je to PEPTID, který by se v žaludku strávil** (stejný důvod jako u inzulinu, viz Specka I, otázka 80). *(U semaglutidu existuje i perorální forma se speciálním nosičem. — [obecné znalosti])*
 
 🔑 **Orlistat blokuje vstřebání tuku, anorektikum blokuje chuť, GLP-1 analog navodí sytost.** Tři úplně různé cesty.
 ⚠️ **Orlistat snižuje vstřebávání vitaminů A, D, E a K** — proto se doplňují.
@@ -561,6 +653,25 @@ Jejich nežádoucí účinky se liší podle skupiny. **U mužů mohou vysoké d
 **U žen naopak dochází k virilizaci — akné, hirsutismus, zhrubnutí hlasu, alopecie a nepravidelná menstruace.**
 
 **U obou pohlaví jsou to změny chování a agresivita a hepatocelulární karcinom.** A **u dětí předčasné uzavření růstových plotének**, tedy paradoxně nižší výška v dospělosti.“
+
+💬 **Ať to dává smysl**
+**Testosteron vzniká v LEYDIGOVÝCH buňkách varlete pod vlivem LH z hypofýzy.**
+⚠️ **Klíčovým detailem celé otázky je enzym 5-ALFA-REDUKTÁZA, který testosteron přemění na DIHYDROTESTOSTERON (DHT) — a ten je ÚČINNĚJŠÍ.** **Testosteron je tedy do jisté míry proléčivo svého vlastního silnějšího derivátu.**
+⚠️ **A z toho plyne rovnou terapeutické využití: FINASTERID blokuje 5-alfa-reduktázu → vznikne méně DHT → prostata se zmenší.** **Proto se používá u benigní hyperplazie prostaty** *(a v nižší dávce u androgenní alopecie, protože DHT stojí i za mužským vypadáváním vlasů — a právě u finasteridu se popsal ten NOCEBO efekt s erektilní dysfunkcí z obecky O9)*.
+🔑 **Všimni si rozdílu proti α1-blokátorům ze Specky I, otázky 45: tamsulosin prostatu jen UVOLNÍ (uleví hned), finasterid ji skutečně ZMENŠÍ (trvá měsíce).** **Jedno je symptomatické, druhé kauzální.**
+**Substituční léčba:** ⚠️ **estery testosteronu mají delší účinek a NEPODLÉHAJÍ tolik biodegradaci v játrech**, proto se dají podat perorálně, nitrosvalově i transdermálně. *(Samotný testosteron by játra při prvním průchodu zlikvidovala — viz obecka O18.)*
+⚠️ **Antiandrogeny se dělí podle toho, jestli zasahují VÝROBU, nebo ÚČINEK — a je to hezky logické dělení:**
+- ⚠️ **Inhibitory SEKRECE = analoga gonadoliberinu (goserelin, leuprorelin).** **A tady se ti vrací ten paradox z otázky 115: KONTINUÁLNÍ podávání GnRH jeho vlastní účinek paradoxně POTLAČÍ** (down-regulace receptorů hypofýzy). **Výsledek: hypofýza přestane vylučovat LH, varle přestane vyrábět testosteron.** **To je ta biochemická kastrace** — používá se u **karcinomu prostaty, endometriózy a děložních myomů.**
+- **Inhibitory ÚČINKU = antagonisté androgenního receptoru (flutamid, bikalutamid).** **Testosteron se vyrábí dál, ale nemá kam sednout.**
+**Anabolické steroidy** ⚠️ **nejsou schválené pro medicínskou praxi** — jsou to deriváty testosteronu upravené tak, aby posílily anabolický (stavební) efekt na svaly na úkor androgenního. **Zneužívají se ke zvýšení svalové hmoty a síly.**
+⚠️ **A teď nejlepší část otázky, protože vypadá jako protimluv: u MUŽŮ vysoké dávky anabolik vedou k FEMINIZACI. Jak to?**
+**Vysvětlení má dvě části:**
+1. ⚠️ **Testosteron je PREKURZOREM ESTROGENU** — enzym aromatáza ho na estrogen přeměňuje. **Čím víc testosteronu dodáš, tím víc estrogenu vznikne.**
+2. ⚠️ **A v některých tkáních, typicky v prsní žláze, jsou POUZE ESTROGENOVÉ receptory** — androgenní tam nejsou. **Takže tam se projeví jen ten estrogen.**
+**Výsledek: GYNEKOMASTIE.** **A k tomu se přidá zpětná vazba — hypofýza vidí dost hormonu, přestane vylučovat LH, varlata se ZMENŠÍ a přestanou tvořit spermie → NEPLODNOST.** **Plus akné.**
+⚠️ **U ŽEN je to opačně — dodáš mužský hormon, kde žádný nemá být → VIRILIZACE: akné, hirsutismus (mužský typ ochlupení), ZHRUBNUTÍ HLASU, alopecie a nepravidelná menstruace.** *Zhrubnutí hlasu a hirsutismus jsou přitom nevratné.*
+**U obou pohlaví: změny chování a agresivita a HEPATOCELULÁRNÍ KARCINOM** (hlavně u perorálních forem, které zatěžují játra).
+⚠️ **A poslední, nejparadoxnější důsledek — u dětí a dospívajících anabolika růst NEZRYCHLÍ, ale ZASTAVÍ.** **Vysvětlení: pohlavní hormony jsou právě tím signálem, který na konci puberty UZAVŘE růstové ploténky.** **Dodáš je předčasně → ploténky se uzavřou dřív → dítě zůstane MENŠÍ, než by bylo.** **Zpočátku sice povyroste rychleji, ale konečná výška je nižší.**
 
 🔑 **Testosteron je prekurzor estrogenu** — proto vysoké dávky u mužů vedou ke gynekomastii.
 ⚠️ **U dětí anabolika růst nezrychlí, ale zastaví** — předčasně uzavřou růstové ploténky.
