@@ -62,6 +62,24 @@ def convert(md: str) -> str:
             out.append("".join(t))
             continue
 
+        # schéma v ```blocích``` — kreslené diagramy a rozhodovací stromy.
+        # Bez tohohle by se vytiskly jako běžný text a ztratilo by se zarovnání.
+        if ln.strip().startswith("```"):
+            i += 1
+            buf = []
+            while i < len(lines) and not lines[i].strip().startswith("```"):
+                buf.append(lines[i])
+                i += 1
+            i += 1  # zavírací ```
+            out.append(
+                '<pre style="font-family:Consolas,\'DejaVu Sans Mono\',monospace;'
+                'font-size:9pt;line-height:1.35;background:#F4F7F5;'
+                f'border:1px solid {LINE};border-left:3px solid {ACCENT};'
+                'border-radius:3px;padding:10px 12px;margin:10px 0;'
+                'white-space:pre;overflow-x:auto">'
+                + html.escape("\n".join(buf)) + "</pre>")
+            continue
+
         # citace / zvýrazněný blok
         if ln.strip().startswith(">"):
             buf = []
