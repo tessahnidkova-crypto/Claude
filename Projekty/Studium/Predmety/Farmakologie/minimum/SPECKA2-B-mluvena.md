@@ -1,6 +1,7 @@
 # MINIMUM MLUVENÉ — Speciální farmakologie II, část B (otázky 104–119)
 
 > **Text v uvozovkách je souvislá odpověď, kterou u zkoušky řekneš nahlas.**
+> **💬 = ať to dává smysl.** Lidsky vysvětlené všechno, co je v mluveném textu odborně — **nemusíš si k tomu nic dohledávat.** Přečti nejdřív 💬, pak se vrať k uvozovkám.
 > 🔑 = na čem to udržíš v hlavě · ⚠️ = past, na kterou se chytá
 
 ---
@@ -18,6 +19,21 @@ Nejdůležitější skupinou jsou **antiglaukomatika**. **Glaukom je chronická 
 Dělí se **podle mechanismu do čtyř skupin**. **Odtok komorové tekutiny zvyšují analoga prostaglandinů, tedy latanoprost a bimatoprost, a mioticky působící parasympatomimetika, tedy pilokarpin.** **Tvorbu komorové tekutiny snižují betablokátory — betaxolol a karteolol — a inhibitory karboanhydrázy, tedy acetazolamid a brinzolamid.** **Obojím mechanismem působí brimonidin**, což je agonista alfa dva receptorů. A **u těžkého glaukomu se používají hyperosmotické látky, manitol a glycerol.**
 
 Z dalších skupin jsou to **antineovaskularizační látky potlačující VEGF, podávané intravitreálně** — **ranibizumab a aflibercept, který funguje jako falešný receptor pro VEGF** — a **umělé slzy u syndromu suchého oka**, kde platí, že **čím výraznější je poškození rohovky, tím vyšší se volí viskozita** — od povidonu přes deriváty celulózy až po **kyselinu hyaluronovou u nejtěžších stavů**.“
+
+💬 **Ať to dává smysl**
+⚠️ **Nejdůležitější věta celé otázky a zároveň to, co se přehlíží: oční kapky NEJSOU lokální léčba.** **Až 80 % kapky přejde do systémové cirkulace** — steče slznými cestami do nosu a odtud se vstřebá nosní sliznicí. ⚠️ **A protože nosní sliznice odtéká mimo portální oběh, lék NEPODLÉHÁ first-pass efektu** (viz obecka O18) — **do těla se tedy dostane celý, nezdaněný játry.**
+⚠️ **Praktický důsledek je vážný: betablokátor v očních kapkách u glaukomu může u astmatika vyvolat bronchospasmus** a u pacienta s bradykardií ji ještě zpomalit. **Kapka do oka je systémová dávka.**
+**A odtud plyne i ta praktická rada, která zní jako drobnost, ale má smysl: po aplikaci zavřít oko na 10 sekund** (a ideálně stlačit vnitřní koutek) — **tím se zabrání odtoku do nosu, takže víc léku zůstane v oku a míň se ho dostane do těla.** **Interval mezi dvěma kapkami je proto, že druhá kapka by tu první jednoduše vyplavila** (do spojivkového vaku se vejde míň, než je objem kapky — viz obecka O8).
+**Mydriatikum** rozšíří zornici, **cykloplegikum** ochrne akomodaci. **Používají se hlavně diagnosticky**, aby oční lékař viděl na sítnici. ⚠️ **Terapeuticky pak u zánětů: rozšířená zornice zabrání tomu, aby duhovka přisedla k čočce a srostla — to jsou SYNECHIE.**
+⚠️ **Glaukom — vysvětli, co to vlastně je, protože definice zní abstraktně: v oku se neustále tvoří komorová voda a musí odtékat.** **Když odtok vázne, tlak uvnitř oka stoupne a začne tlačit na zrakový nerv, který postupně odumírá.** ⚠️ **A protože nervová vlákna se neobnovují, ztráta zraku je NEVRATNÁ** — proto je léčba celoživotní a proto se glaukom léčí, i když pacient zatím dobře vidí.
+🔑 **A z toho plyne, že možnosti jsou jen dvě — a všechna antiglaukomatika jsou v jedné z nich:**
+- **ZVYŠ ODTOK:** **analoga prostaglandinů (latanoprost, bimatoprost)** — dnes první volba, jednou denně · **pilokarpin**, který **zúží zornici, čímž odtáhne duhovku z odtokového úhlu a uvolní cestu** (viz Specka I, otázka 37).
+- **SNIŽ TVORBU:** **betablokátory (betaxolol, karteolol)** · **inhibitory karboanhydrázy (acetazolamid, brinzolamid)** — karboanhydráza je enzym, který se na tvorbě komorové vody podílí.
+- **OBOJÍ: brimonidin**, agonista α2 receptorů.
+- **A u těžkého akutního glaukomu hyperosmotické látky (manitol, glycerol)** — **osmoticky vytáhnou vodu z oka do krve**, stejně jako manitol vytáhne vodu z mozku (viz otázka 98).
+**VEGF** = vaskulární endoteliální růstový faktor — **látka, která podněcuje růst nových cév.** ⚠️ **U vlhké formy věkem podmíněné makulární degenerace a u diabetické retinopatie rostou v sítnici nové, křehké cévy, které prosakují a krvácejí — a tím ničí ostré vidění.**
+**Ranibizumab** je monoklonální protilátka proti VEGF. ⚠️ **Aflibercept je elegantnější: je to FALEŠNÝ RECEPTOR — molekula, která vypadá jako receptor pro VEGF, takže na sebe VEGF naváže dřív, než dorazí ke skutečnému receptoru.** Je to past, ne blokáda. **Podávají se intravitreálně, tedy injekcí přímo do sklivce.**
+**Umělé slzy** — logika volby je jednoduchá: ⚠️ **čím větší poškození rohovky, tím vyšší viskozita**, aby přípravek na oku vydržel déle. **Od řídkého povidonu přes deriváty celulózy až po kyselinu hyaluronovou u nejtěžších stavů.**
 
 🔑 **Snižuj tvorbu, nebo zvyšuj odtok** — jiná možnost u glaukomu není.
 ⚠️ **Oční kapky jsou systémové** — betablokátor v očních kapkách může u astmatika vyvolat bronchospasmus.
@@ -43,6 +59,24 @@ Za zmínku stojí, že **návykové látky jsou vždy psychotropně účinné, a
 Drogy se dělí na **měkké, které nezpůsobují fyzickou závislost — kanabinoidy a LSD — a tvrdé, které poškozují organismus a mají vysoké riziko závislosti, tedy heroin a kokain.**
 
 **Základem terapie je psychická a sociální podpora**; farmakoterapie slouží **k dlouhodobé substituci, ke zmírnění abstinenčních příznaků, k zablokování příjemného pocitu z drogy a ke snížení nutkání**. Podle mechanismu jde o **agonisty jako nikotin a metadon, parciální agonisty jako buprenorfin a vareniklin, a antagonisty jako naloxon a naltrexon**; zvláštní postavení má **disulfiram, který navozuje nepříjemné pocity po požití alkoholu**.“
+
+💬 **Ať to dává smysl**
+**Rozeber si tu definici po částech, protože každé slovo něco znamená:** ⚠️ **„chronické" = trvá roky · „relabující" = návraty jsou součástí nemoci, ne selhání charakteru · „onemocnění CNS" = je to prokazatelná změna v mozku, ne slabá vůle.** **Tohle je klíčové: závislost je nemoc mozku, ne morální vada.**
+**Craving** = **bažení, neodolatelná touha po látce.** Je to ten pocit, který se vrací i po letech abstinence.
+⚠️ **Jádro celé otázky je systém odměny — a stojí za to ho vysvětlit tak, aby to dávalo smysl:**
+**Mozek má okruh, který nás odměňuje za věci potřebné k přežití** — za jídlo, za vodu, za sex, za společnost. **Když uděláš něco užitečného, vyplaví se DOPAMIN v nucleus accumbens a ty cítíš uspokojení.** **Ten pocit tě naučí to chování opakovat.** **Je to učicí mechanismus, ne jen „potěšení".**
+⚠️ **A teď co udělá droga: vyplaví dopamin PŘÍMO — obejde celou tu cestu s užitečným chováním. A vyplaví ho MNOHONÁSOBNĚ VÍC, než by dokázalo cokoli přirozeného.**
+**Mozek si z toho vezme jediné poučení: tohle je to nejdůležitější, co jsem kdy zažil. Opakuj to.**
+⚠️ **A odtud plyne, proč je závislost tak úporná — dvě věci:**
+1. **Mozek se před tím přehnaným zaplavením brání tím, že SNÍŽÍ POČET DOPAMINOVÝCH RECEPTORŮ ve striatu** (down-regulace, viz obecka O22). **Výsledek: pacient přestane mít radost i z normálních věcí — jídlo, sex, přátelé mu už nic nedají.** **Bez drogy necítí nic. To není slabost, to je poškozený mechanismus.**
+2. **A zároveň se poškodí prefrontální kůra — tedy oblast rozhodování a sebekontroly.** **Systém odměny je tedy přebuzený a brzda oslabená najednou.**
+⚠️ **Nejdůležitější věta otázky, protože vysvětluje relaps po letech abstinence: po opakovaném užívání se dopamin vyplavuje UŽ PŘI POUHÉM ZAHLÉDNUTÍ PODMÍNĚNÝCH PODNĚTŮ, takzvaných CUES.** **Stačí ulice, kde se to dělo, konkrétní člověk, hudba, vůně, nebo i jehla ve filmu — a mozek spustí bažení bez jediné molekuly drogy.**
+**Proto se v léčbě tolik pracuje se změnou prostředí a proto může relaps přijít i po deseti letech.**
+**„Bio-psycho-socio-spirituální model"** znamená jen, že **se na vzniku závislosti podílí všechno najednou** — geny, psychika, prostředí i hodnoty a smysl života. **Neexistuje jediná příčina.**
+⚠️ **A z toho plyne, proč je základem léčby psychická a sociální podpora, ne lék.** **Farmakoterapie umí čtyři věci a žádná z nich není „vyléčit":** dlouhodobě **substituovat** · zmírnit **abstinenční příznaky** · **zablokovat příjemný pocit** z drogy · **snížit craving.**
+**Tři typy léků podle mechanismu:** **agonisté (nikotinová substituce, metadon)** — dodají látku bezpečně · **parciální agonisté (buprenorfin, vareniklin)** — dají část účinku a zároveň blokují plný (viz obecka O21) · **antagonisté (naltrexon)** — droga přestane fungovat, takže nemá smysl ji brát.
+**Disulfiram** je zvláštní: **nedělá nic s cravingem — jen způsobí, že po alkoholu je člověku strašně zle** (viz otázka 106).
+⚠️ **Antidepresiva závislost nevyvolávají** — je to častý mýtus a stojí za to tu větu říct. **Nemají rychlý nástup ani euforizující efekt, takže nedávají odměnu, kterou by mozek chtěl opakovat.**
 
 🔑 **Dopamin v nucleus accumbens = systém odměny.** Všechny drogy končí u něj.
 ⚠️ **Antidepresiva závislost nevyvolávají** — to je věta, kterou stojí za to říct.
@@ -70,6 +104,22 @@ Vděčnou otázkou je **použití ethanolu v medicíně. Je velmi omezené — s
 **Abstinenční syndrom** se projeví třesem, pocením, neklidem, křečemi a sluchovými halucinacemi; **těžké stavy s epileptickými záchvaty nebo deliriem ohrožují život a léčí se benzodiazepiny nebo klomethiazolem**.
 
 Z chronických následků je nutné zmínit **Korsakovovu psychózu, alkoholickou kardiomyopatii, cirhózu a fetální alkoholový syndrom**. **Hlavním smyslem léčby je trvalá abstinence — farmakologická léčba má velmi omezený účinek.** Používá se **disulfiram, inhibitor aldehyddehydrogenázy**, dále naltrexon a SSRI ke snížení cravingu.“
+
+💬 **Ať to dává smysl**
+**Ethanol je malá, dobře rozpustná molekula** — proto **se vstřebává už v ústech a v jícnu** (měřitelná hladina do 5 minut) a **distribuuje se do veškeré tělesné vody.**
+⚠️ **Z toho plyne praktická věc, kterou stojí za to zmínit: člověk s menším podílem tělesné vody dosáhne ze stejného množství vyšší hladiny** — proto se **ženy a senioři opijí rychleji** (viz obecka O34).
+**Metabolismus je klíč k celé otázce:** **ethanol → (alkoholdehydrogenáza) → ACETALDEHYD → (aldehyddehydrogenáza) → kyselina octová.** ⚠️ **Acetaldehyd je ten jed, který dělá kocovinu** — bolest hlavy, nevolnost, návaly. *[obecné znalosti]*
+⚠️ **Alkohol se odbourává kinetikou NULTÉHO ŘÁDU** (viz obecka O12) — **stálých asi 0,1–0,15 ‰ za hodinu bez ohledu na to, kolik jsi vypila.** Proto se z osmi piv nevystřízlivíš o moc rychleji než za osm hodin.
+⚠️ **CYP2E1 vysvětluje toleranci: chronický konzument si tenhle enzym INDUKUJE** (viz obecka O19), **takže alkohol odbourává rychleji a potřebuje víc, aby cítil totéž.** ⚠️ **A pozor na zákeřný vedlejší důsledek: tentýž CYP2E1 vyrábí toxický NAPQI z paracetamolu** (viz obecka O17). **Proto může být u alkoholika hepatotoxická i běžná dávka paracetamolu.**
+**Promile a účinky — nemusíš to umět přesně, stačí ta škála: 0,2–0,3 uvolnění a euforie · 0,5 zhoršená koordinace · 1,0 ataxie (vrávorání) · 3,0 stupor · 4,0 kóma.**
+⚠️ **Použití ethanolu v medicíně je vděčná otázka a odpověď zní překvapivě stroze: je velmi omezené.** **Slouží jako rozpouštědlo a nosič v lékových formách a lokálně jako dezinfekce.** ⚠️ **Vnitřně má JEDINOU indikaci — otravu metanolem a etylenglykolem.**
+⚠️ **A tady je nejlepší farmakologie v celé otázce, protože je to čistý KOMPETITIVNÍ ANTAGONISMUS z obecky O21 použitý v praxi:**
+**Metanol sám o sobě prakticky neškodí. Zabíjí ho až to, na co ho tělo přemění.** Alkoholdehydrogenáza z něj udělá **formaldehyd** a pak **KYSELINU MRAVENČÍ** — a **ta je tím skutečným jedem: způsobuje poškození zrakového nervu až oslepnutí, bradykardii, křeče a těžkou metabolickou acidózu.**
+⚠️ **Léčba tedy nespočívá v tom, že bys metanol odstranila — ale v tom, že mu ZABRÁNÍŠ, aby se přeměnil.** **Podá se 10% ethanol nitrožilně. Ethanol má k alkoholdehydrogenáze mnohem vyšší afinitu, takže enzym obsadí a metanol se nemá kde metabolizovat** — a mezitím se vyloučí v nezměněné podobě nebo se odstraní **hemodialýzou.** **Acidóza se zároveň koriguje bikarbonátem.**
+⚠️ **A odtud plyne i to, proč se příznaky otravy metanolem objeví AŽ SE ZPOŽDĚNÍM** (často až po 12–24 hodinách): **metanol se odbourává pomaleji než ethanol, takže kyselina mravenčí se hromadí postupně.** ⚠️ **Pacient tedy zpočátku vypadá jen opile — a když přijde o zrak, je pozdě.**
+**Abstinenční syndrom** — třes, pocení, neklid, křeče, sluchové halucinace. ⚠️ **Těžké formy (delirium tremens, epileptický záchvat) ohrožují život a léčí se benzodiazepiny** — protože alkohol působí na GABA receptor a benzodiazepin ho dokáže nahradit (viz Specka I, otázka 52).
+**Chronické následky:** **Korsakovova psychóza** (těžká porucha paměti s konfabulacemi, z nedostatku vitaminu B1) · **kardiomyopatie** · **cirhóza** · ⚠️ **fetální alkoholový syndrom** — poškození plodu s charakteristickými rysy obličeje a mentální retardací. **U alkoholu v těhotenství neexistuje bezpečná dávka.**
+**Disulfiram** blokuje **aldehyddehydrogenázu** → ⚠️ **po požití alkoholu se hromadí ACETALDEHYD a pacientovi je extrémně zle** (návaly, bušení srdce, zvracení). **Je to záměrně vyvolaná otrava jako odstrašení** — nesnižuje craving, jen zvyšuje cenu za napití.
 
 🔑 **Ethanol je antidotum metanolu, protože oba soupeří o stejný enzym.** Kompetitivní antagonismus v praxi.
 ⚠️ **Metanol sám o sobě neškodí — zabíjí jeho metabolit, kyselina mravenčí.** Proto se blokuje jeho tvorba.
