@@ -420,3 +420,362 @@ Warfarin totiž **zablokuje výrobu i přirozených BRZD srážení — proteinu
 ⚠️ **První dny warfarin sráží VÍC** — brzdy (protein C) doslouží dřív než plyn. Proto překryv s heparinem.
 
 ---
+
+## 78 · Fibrinolytika, trombolytika, hemostatika
+
+„Na začátku je dobré rozlišit tři skupiny podle toho, kde v procesu zasahují: **antiagregans působí na tepenný trombus, antikoagulans na žilní, a trombolytikum rozpouští už vzniklou sraženinu.**
+
+**Trombolytika aktivují plazminogen na plazmin, a ten štěpí fibrin.** Patří sem **altepláza, což je rekombinantní tkáňový aktivátor plazminogenu, dále retepláza a tenektepláza.** **Hlavní indikací je časná ischemická cévní mozková příhoda.**
+
+**Antifibrinolytika — kyselina tranexamová, kyselina aminokapronová a aprotinin — naopak brání rozpuštění vzniklé zátky.**
+
+**Místní hemostatika jsou oxycelulóza, kolagenová houbička, fibrinové lepidlo a felypresin.**
+
+**Systémová hemostatika jsou koagulační faktory** — u **hemofilie A chybí faktor VIII, u hemofilie B faktor IX** — dále **vitamin K, který se vstřebá jen za přítomnosti žluči, protamin sulfát a antidota DOAC.**"
+
+💬 **Ať to dává smysl**
+**Fibrinolýza** je **přirozený úklidový systém**: jakmile céva zahojí, **tělo sraženinu rozpustí.** Dělá to enzym **plazmin**, který vzniká z neaktivního **plazminogenu.** **Trombolytikum tenhle přirozený systém jen prudce nastartuje.**
+**tPA (tkáňový aktivátor plazminogenu)** je látka, kterou si tělo vyrábí samo; **altepláza je její vyrobená kopie.**
+⚠️ **Nejdůležitější věta otázky: plazmin nerozlišuje.** Rozpustí sraženinu v mozkové tepně — **ale zároveň rozpustí každou hemostatickou zátku, kterou máš kdekoli v těle.** Čerstvá rána, vřed v žaludku, místo po vpichu — **všude to začne krvácet.**
+**Proto se trombolytikum používá jen v život ohrožujících situacích a jen v úzkém časovém okně** (u mozkové příhody řádově do 4,5 hodiny) **a má dlouhý seznam kontraindikací** — čerstvá operace, krvácení, úraz hlavy. *[obecné znalosti]*
+**Antifibrinolytika dělají přesný opak — brání rozpuštění zátky.** ⚠️ **Kyselina tranexamová je pro tebe zubařsky velmi užitečná:** používá se jako **výplach nebo lokální aplikace při krvácení po extrakci**, hlavně u pacientů na antikoagulační léčbě. **Funguje tak, že obsadí vazebné místo na plazminogenu, takže se nemůže navázat na fibrin — a zátka vydrží.** *[obecné znalosti]*
+⚠️ **Zubařsky zlatý odstavec — místní hemostatika:** **oxycelulóza** (oxidovaná celulóza, vstřebatelná síťka) a **kolagenová houbička** jsou **standardní materiály, které se vkládají do extrakční rány.** **Nepůsobí chemicky — dávají fibrinu a destičkám povrch, na kterém se mohou uchytit**, tedy fungují jako lešení. **Fibrinové lepidlo** dodá rovnou fibrin. **Felypresin** je vazokonstrikční přísada v prilokainovém anestetiku a **alternativa adrenalinu u pacientů, kde adrenalin nechceš** (viz otázka 48).
+**Hemofilie** je **vrozená porucha srážení vázaná na chromozom X** — proto postihuje prakticky jen muže. ⚠️ *Studentský zdroj ji označuje jako „získanou geneticky", což je nesmysl — je to **vrozený** defekt.*
+🔑 **Hemofilie A = faktor VIII, hemofilie B = faktor IX** — abecedně po pořadí (A je před B, VIII je před IX).
+⚠️ **A tady je nejlepší otázka na pochopení hemostázy: proč hemofilik nevykrvácí z říznutí do prstu, ale krvácí do kloubů?**
+Odpověď: **destičky má úplně v pořádku.** **Primární, tedy destičková zátka vznikne normálně a krvácení se zastaví.** ⚠️ **Jenže tu zátku nemá čím zpevnit — chybí mu fibrinová síť.** Takže **za pár hodin se zátka rozpadne a krvácení se obnoví.** **Odtud typicky OPOŽDĚNÉ a PROTRAHOVANÉ krvácení** a krvácení do velkých kloubů a svalů, kde je tlak na zátku největší.
+⚠️ **Pro tebe to znamená konkrétní věc: u hemofilika po extrakci rána nemusí krvácet hned — začne krvácet druhý den.** *[obecné znalosti]*
+**Vitamin K se vstřebá jen se žlučí**, protože je rozpustný v tucích (viz otázka 75). ⚠️ **U pacienta s ucpanými žlučovými cestami tedy vitamin K perorálně nezabere a musí se podat injekčně.**
+
+🔑 **Hemofilie A = VIII, B = IX.** **Oxycelulóza a kolagenová houbička = standard po extrakci.**
+⚠️ **Hemofilik krvácí opožděně** — destičková zátka vznikne, ale nemá ji co zpevnit.
+
+---
+
+## 79 · Antiagregancia
+
+„**Kyselina acetylsalicylová acetylací nevratně blokuje cyklooxygenázu 1 v destičce**, takže nevznikne **tromboxan A2**, který je hlavním aktivátorem shlukování destiček.
+
+**Zásadní je, že účinek trvá až pět dní, protože destička nemá jádro a nový enzym si nedokáže vyrobit.**
+
+**Kontraindikací je současné podání ibuprofenu**, protože ten se naváže na stejné místo a aspirinu ho zablokuje.
+
+Druhou skupinou jsou **blokátory receptoru P2Y12, tedy receptoru pro ADP: klopidogrel, který je proléčivem, a proto u něj polymorfismus cytochromu vede k rezistenci · prasugrel, který nastupuje rychleji · a tikagrelor s kangrelorem, které jsou reverzibilní a nepotřebují bioaktivaci.**
+
+Nitrožilně se podává **abciximab, protilátka proti glykoproteinovému receptoru, a epoprostenol.**"
+
+💬 **Ať to dává smysl**
+**Destička se aktivuje několika nezávislými cestami** — nejvýznamnější jsou **tromboxan A2** (viz otázka 62) a **ADP**. **A právě proto se aspirin a klopidogrel kombinují: každý blokuje JINOU cestu**, takže se účinek násobí. *(Cenou je vyšší riziko krvácení, proto se duální léčba dává jen na omezenou dobu, typicky po zavedení stentu. — [obecné znalosti])*
+⚠️ **Nejhezčí myšlenka otázky — proč nízká dávka aspirinu jednou denně ředí krev, když má aspirin poločas jen desítky minut:**
+**Aspirin enzym chemicky přilepí (acetyluje), takže je vyřazený NATRVALO.** A teď to podstatné: **destička nemá buněčné jádro, takže si nový enzym nemůže vyrobit.** **Je vyřazená na celý zbytek svého života, tedy 7 až 10 dní.** **Endotel jádro má — a nový enzym si během pár hodin doplní.**
+⚠️ **A odtud plyne to nejdůležitější: nízká dávka aspirinu vyřadí destičky (tromboxan, srážení), ale endotelu (prostacyklin, ochrana proti srážení) dovolí se zotavit.** Rovnováha se překlopí ve prospěch nesrážení. **Účinek tedy netrvá podle poločasu léku, ale podle životnosti destičky.**
+**Praktický důsledek: aspirin se před velkými operacemi vysazuje 5–7 dní dopředu**, protože musí být vyměněny všechny destičky. ⚠️ *Před běžnou extrakcí se ale nevysazuje — riziko trombózy převáží nad krvácením, které se dá zvládnout lokálně (viz otázka 78). — [obecné znalosti]*
+⚠️ **Interakce s ibuprofenem jde proti intuici a je to vděčná otázka:** ibuprofen se naváže na **stejné místo v enzymu, ale jen REVERZIBILNĚ** — sedí tam a zase odejde. **Jenže dokud tam sedí, aspirin se nemá kam navázat a nemůže enzym acetylovat.** Aspirin má krátký poločas, takže **než ibuprofen odejde, aspirin je z krve pryč.**
+**Výsledek: pacient si vezme oba a ani jeden neudělá svou práci.** ⚠️ **Kardiak tak nenápadně přijde o kardioprotekci, přestože svůj aspirin poctivě bere.** **Řešením je odstup — aspirin nejmíň 2 hodiny před ibuprofenem.** *[obecné znalosti]*
+⚠️ **Klopidogrel je PROLÉČIVO** (viz obecka O26) — sám nefunguje, musí ho aktivovat **CYP2C19.** A protože je u toho enzymu **genetický polymorfismus**, **pomalý metabolizátor si aktivní látku nevytvoří a lék u něj nefunguje** — říká se tomu **klopidogrelová rezistence.** Pacient poctivě bere lék, který u něj nic nedělá. **Proto vznikly tikagrelor a prasugrel — tikagrelor bioaktivaci nepotřebuje vůbec.**
+**Reverzibilní vs. ireverzibilní má i praktický dopad:** **tikagrelor je reverzibilní, takže jeho účinek odezní za pár dní podle poločasu léku**, kdežto u ireverzibilních se musí počkat na obměnu destiček.
+
+🔑 **Aspirin vyřadí destičku na CELÝ JEJÍ ŽIVOT** — nemá jádro, nový enzym si neudělá.
+⚠️ **Ibuprofen aspirinu zabere místo a kardioprotekce se ztratí.**
+
+---
+
+## 80 · Inzulin, jeho analoga a glukagon
+
+„**Inzulin se tvoří v beta-buňkách Langerhansových ostrůvků pankreatu** a při jeho sekreci **se odštěpuje C-peptid, který je proto ukazatelem VLASTNÍ sekrece inzulinu.**
+
+**Nejsilnějším sekretagogem, tedy podnětem k vyplavení, je glukóza**; jeho antagonisty jsou **adrenalin, glukagon, růstový hormon a kortizol.**
+
+**Inzulin je bílkovina, a proto se v trávicím traktu stráví — podává se výhradně parenterálně, obvykle podkožně.**
+
+Důležitou vlastností je, že **inzulin žene draslík do buněk**, a proto **se glukóza s inzulinem nitrožilně používá k léčbě hyperkalemie.**
+
+Podává se v **režimu bazál-bolus** a **exogenní inzulin se asi ze šedesáti procent metabolizuje v ledvinách.**
+
+**Glukagon vzniká v alfa-buňkách.** Podává se **nitrosvalově, aby ho zvládl aplikovat i laik**, a je zásadní vědět, že **nefunguje, pokud nejsou zásoby glykogenu** — tedy u alkoholika nebo u vyhladovělého člověka."
+
+💬 **Ať to dává smysl**
+**Inzulin je hormon sytosti — vyplaví se po jídle a jeho úkolem je uklidit cukr z krve do buněk.** Glukagon je jeho protihráč: **při hladu cukr z jater naopak uvolní.**
+⚠️ **C-peptid je diagnosticky zlatý a stojí za to vysvětlit proč:** inzulin se v buňce vyrábí jako jeden dlouhý řetězec (proinzulin), ze kterého se **při zpracování odštěpí spojovací kousek — právě C-peptid.** **Vyplaví se tedy vždycky v poměru 1 : 1 s vlastním inzulinem.**
+**A teď to podstatné: SYNTETICKÝ inzulin, který si pacient píchá, C-peptid NEOBSAHUJE.** ⚠️ **Když tedy naměříš C-peptid, měříš přesně to, kolik si pacient vyrobil SÁM — bez ohledu na to, kolik si píchl.** **Tím se odliší diabetik 1. typu (beta-buňky zničené, C-peptid nízký) od diabetika 2. typu (buňky ještě pracují, C-peptid normální nebo vysoký).**
+**Sekretagog** = látka, která spouští sekreci. **Glukóza je ten hlavní — a dává to smysl: čím víc cukru, tím víc inzulinu.**
+**Antagonisté inzulinu jsou všechno „stresové" hormony** — adrenalin, kortizol, růstový hormon, glukagon. **Všechny zvyšují cukr v krvi, protože při stresu potřebuješ palivo.** ⚠️ *Proto kortikoidy zhoršují diabetes a proto je u infekce nebo stresu potřeba víc inzulinu.*
+**Proč jen injekčně:** inzulin je **bílkovina** — a bílkovina se v žaludku a střevě **stráví na aminokyseliny** stejně jako maso. **Je to úplně stejný důvod, proč se injekčně podávají i biologika** (viz obecka O35).
+**Bazál-bazál/bolus režim:** **bazální inzulin (dlouhodobý) pokrývá základní potřebu celý den, bolusový (rychlý) se píchá k jídlu.** Napodobuje se tím přirozená sekrece.
+⚠️ **Proč se glukóza s inzulinem používá u hyperkalemie — je to hezky logické, když si to rozebereš:** **inzulin žene do buněk nejen cukr, ale i DRASLÍK** (aktivuje sodíko-draslíkovou pumpu). **Draslík z těla neodejde, jen se schová dovnitř buněk — ale to úplně stačí k tomu, aby přestal ohrožovat srdce arytmií.** Je to **rychlé nouzové řešení, které kupuje čas**, než se draslík skutečně vyloučí.
+⚠️ **A glukóza je tam kvůli inzulinu, ne kvůli pacientovi** — aby pacientovi po podání inzulinu nespadl cukr. **Tohle je typická doplňující otázka.**
+⚠️ **Glukagon cukr NEDODÁVÁ — jen ho vytáhne ze zásob.** Rozloží jaterní glykogen na glukózu. **A proto NEFUNGUJE u opilého ani u vyhladovělého člověka: alkohol blokuje tvorbu glukózy v játrech a při hladovění jsou zásoby glykogenu už vyčerpané. Není co uvolnit.** Tam se musí podat glukóza přímo do žíly.
+**Proč nitrosvalově:** aby ho **dokázal píchnout i laik** — příbuzný diabetika, který najde bezvědomého člověka. **Trefit sval zvládne každý, trefit žílu ne.**
+⚠️ **Po probrání z hypoglykemie musí pacient hned sníst sacharidy** — jinak se propadne znovu, protože **zásoba glykogenu je právě vyčerpaná** a glukagon už podruhé nezabere.
+
+🔑 **C-peptid = vlastní inzulin.** Syntetický ho neobsahuje.
+⚠️ **Glukagon nedodává cukr — jen ho vytáhne ze zásob.** Proto u opilého ani u vyhladovělého nefunguje.
+
+---
+
+## 81 · Perorální antidiabetika
+
+„Diabetes 2. typu má **dva fenotypy, a je dobré je rozlišit, protože určují volbu léku: inzulinová rezistence se projeví vysokou glykemií NALAČNO, zatímco selhávání sekrece se projeví POSTPRANDIÁLNÍ hyperglykemií**, tedy po jídle.
+
+**Lékem první volby je metformin.** Zvyšuje citlivost tkání k inzulinu, zpomaluje vstřebávání glukózy ve střevě a **mírně snižuje hmotnost.** Jeho **nejzávažnějším nežádoucím účinkem je laktátová acidóza**, která ale **vzniká prakticky jen při nerespektování kontraindikací, především renální insuficience**; její **mortalita je kolem padesáti procent**, a proto se **funkce ledvin kontroluje jednou ročně.**
+
+**Deriváty sulfonylurey stimulují sekreci inzulinu i při nízké glykemii, a proto u nich hrozí hypoglykemie a přírůstek hmotnosti.**
+
+**Gliptiny, které působí přes inkretinový systém a enzym DPP-4, a glifloziny, které jsou inhibitory SGLT-2 a vyplavují cukr do moči, mají účinek závislý na glykemii — a proto u nich hypoglykemie nehrozí.**
+
+**Pioglitazon** má rizikové nežádoucí účinky — **otoky, srdeční selhání a karcinom močového měchýře.**"
+
+💬 **Ať to dává smysl**
+**Diabetes 2. typu je jiná nemoc než 1. typu.** U **1. typu jsou beta-buňky zničené autoimunitně a inzulin prostě není** → musí se dodat. U **2. typu inzulin je, ale tkáně na něj přestaly reagovat (inzulinová rezistence), a časem beta-buňky vyčerpáním selhávají.**
+**Postprandiální** = po jídle (*prandium* = oběd). **Nalačno vysoká glykemie ukazuje na to, že játra pouštějí cukr i v klidu (rezistence); vysoká glykemie po jídle ukazuje na to, že se nestihne vyplavit dost inzulinu (selhávání sekrece).**
+**Metformin nezvyšuje sekreci inzulinu — a proto sám o sobě NEZPŮSOBUJE hypoglykemii.** Jen zlepší, jak tělo reaguje na ten inzulin, který má. ⚠️ **A protože nenutí buňku vylučovat, nevede ani k přibývání na váze — dokonce mírně hubne.** To je jeden z důvodů, proč je první volbou.
+⚠️ **Laktátová acidóza — proč vzniká a proč jsou ledviny klíčové:** metformin **zvyšuje tvorbu laktátu** (kyseliny mléčné). **Vylučuje se ledvinami v nezměněné podobě.** **Když ledviny selhávají, metformin se hromadí, laktátu přibývá a krev se okyselí.** **Mortalita kolem 50 % je vysoká** — proto jsou kontraindikace tak přísné. ⚠️ **Klíčová věta ale zní: při dodržení kontraindikací je metformin bezpečný lék.** Nebezpečí není v léku, ale v tom, že se nasadí komu nemá.
+⚠️ **Nejdůležitější rozdíl v celé otázce — a je to čistě o bezpečnosti:**
+- **Sulfonylurea zavře na beta-buňce draslíkový kanál NATVRDO** → buňka sype inzulin **pořád, bez ohledu na to, jestli je cukr vysoký nebo nízký.** ⚠️ **A proto může způsobit hypoglykemii** — i u pacienta, který zapomněl jíst. **Navíc inzulin ukládá tuk, takže pacient přibírá.**
+- **Gliptiny a glifloziny fungují JEN TEHDY, když je cukru moc.** Gliptin prodlužuje životnost **inkretinů** — střevních hormonů, které **se vyplavují po jídle** a nutí slinivku vydat inzulin. **Žádné jídlo = žádné inkretiny = žádný účinek.** ⚠️ **Proto u nich hypoglykemie prakticky nehrozí — a to je hlavní bezpečnostní rozdíl mezi starou a novou generací antidiabetik.**
+**Přirovnání, které si zapamatuj: zdravá beta-buňka je spínač závislý na cukru. Sulfonylurea ten spínač zalepí v poloze „zapnuto". Gliptin a gliflozin ho nechají fungovat, jen zesílí signál, když už přijde.**
+**Gliflozin (inhibitor SGLT-2)** funguje úplně jinak než všechny ostatní: **zablokuje přenašeč v ledvinném tubulu, kterým se glukóza vstřebává zpátky z moči do krve.** **Cukr tedy prostě odejde močí.**
+⚠️ **A z toho se dají odvodit všechny jeho nežádoucí účinky, aniž bys je memorovala:** **cukr v moči táhne s sebou vodu → polyurie a dehydratace** · **cukr v moči je potrava pro kvasinky → mykotické infekce genitálu a močové infekce** · **a při renální insuficienci nefunguje, protože se profiltruje málo glukózy — není co blokovat.**
+
+🔑 **Sulfonylurea tlačí pořád → hypoglykemie. Gliptin a gliflozin jen při vysokém cukru → bezpečné.**
+⚠️ **Metformin: 1. volba, laktátová acidóza, ledviny jednou ročně.**
+
+---
+
+## 82 · Principy antibiotické terapie
+
+„Antibiotika se dělí podle účinku na **bakteriostatická, která reverzibilně zastaví množení bakterií** — efekt se dostaví za tři až čtyři dny a **po vysazení se bakterie množí dál** — a na **baktericidní, která bakterie přímo usmrcují, ireverzibilně a rychle.**
+
+Podle farmakokinetiky a farmakodynamiky se dělí na **závislé na koncentraci**, kam patří **aminoglykosidy a metronidazol** — ty se podávají **jednou denně ve vysoké dávce** — a na **závislé na čase**, kam patří **betalaktamy**, které se podávají **často nebo v kontinuální infuzi.**
+
+Podle rozpustnosti jsou **hydrofilní**, s malým distribučním objemem, vylučovaná ledvinami a nepronikající do buněk, a **lipofilní** s velkým distribučním objemem, která pronikají i intracelulárně.
+
+**Rezistence je primární, tedy vrozená a přítomná i bez předchozího kontaktu s antibiotikem, nebo sekundární, tedy získaná mutací nebo přenosem plazmidu.**
+
+Základním parametrem je **minimální inhibiční koncentrace, MIC.**"
+
+💬 **Ať to dává smysl**
+⚠️ **Rozdíl mezi statickým a cidním antibiotikem je klinicky zásadní a stojí za to říct proč:** **bakteriostatikum bakterie jen ZMRAZÍ — nedokáže je zabít. Dorazit je musí imunitní systém pacienta.**
+**A z toho plyne přímo indikace: u pacienta, který svou imunitu nemá nebo nestačí, musíš zvolit baktericidní antibiotikum** — **u imunosuprimovaného pacienta, u endokarditidy, meningitidy a sepse.** **Tam prostě není kdo by uklízel.** *(U endokarditidy a meningitidy je navíc problém, že se tam imunitní buňky špatně dostávají.)*
+⚠️ **Závislost na koncentraci versus na čase je nejpraktičtější část otázky, protože určuje, JAK SE LÉK DÁVKUJE:**
+- **Závislé na KONCENTRACI** (aminoglykosidy, metronidazol): **čím vyšší vrchol hladiny, tím víc bakterií zabijí.** ⚠️ **Proto se podávají NÁRAZOVĚ, celá denní dávka najednou** — chceš vysoký vrchol. **Navíc mají postantibiotický efekt: bakterie se ještě nějakou dobu nemnoží, i když už hladina klesla.** *[obecné znalosti]*
+- **Závislé na ČASE** (betalaktamy — peniciliny, cefalosporiny): **nezáleží na tom, jak vysoko hladina vyskočí, ale JAK DLOUHO zůstane nad MIC.** ⚠️ **Proto se podávají ČASTO — třikrát, čtyřikrát denně nebo v kontinuální infuzi.** **Vynechaná dávka je u nich mnohem větší problém než u aminoglykosidu.**
+**MIC (minimální inhibiční koncentrace)** = **nejnižší koncentrace antibiotika, která ještě zastaví růst bakterie.** Je to prahová hodnota, ke které se vztahuje všechno ostatní.
+**Z hydrofilnosti se dá odvodit celé chování antibiotika** (viz obecka O10 a O14): **hydrofilní = malý distribuční objem, nedostane se do buňky, vylučuje se ledvinami** (→ při renální insuficienci se hromadí). **Lipofilní = velký distribuční objem, projde do buněk i do tkání, metabolizuje se v játrech.**
+**Primární rezistence** = **bakterie na to antibiotikum nikdy nebyla citlivá** — třeba proto, že nemá cíl, na který lék míří. *(Mykoplazma nemá buněčnou stěnu, takže penicilin na ni nemůže fungovat — viz otázka 88.)*
+**Sekundární rezistence** = **bakterie ji získala během života** — buď náhodnou **mutací**, nebo **přijetím plazmidu.**
+⚠️ **Plazmid je nejnebezpečnější mechanismus a stojí za to vysvětlit proč:** je to **malý kroužek DNA, který si bakterie předávají mezi sebou — a to i mezi různými druhy.** Není to tedy dědičnost z matky na dceru, **ale HORIZONTÁLNÍ přenos, jako by si bakterie posílaly návod.** **A navíc jeden plazmid často nese geny rezistence hned k několika antibiotikům najednou.**
+⚠️ **Důsledek je zásadní: použití JEDNOHO antibiotika může vyselektovat kmen, který je rezistentní i k těm, se kterými se pacient nikdy nesetkal.**
+⚠️ **A poslední věta, kterou stojí za to říct nahlas: poddávkované nebo předčasně ukončené antibiotikum je horší než žádné.** Vytvoří přesně ty **podprahové koncentrace, které citlivé bakterie zabijí, ale odolné nechají naživu a uvolní jim místo.** **Je to darwinovský výběr** (viz obecka O27) — antibiotikum rezistenci nevytváří, **jen ji vyselektuje.**
+
+🔑 **Statické zastaví, cidní zabijí.** **Betalaktam = ČAS (často). Aminoglykosid = KONCENTRACE (nárazově).**
+⚠️ **Plazmid se přenáší i mezi druhy a nese rezistenci k víc antibiotikům najednou.**
+
+---
+
+## 83 · Peniciliny, inhibitory betalaktamáz
+
+„**Nositelem účinku penicilinů je betalaktamový kruh**; objevil je **Fleming v roce 1928.**
+
+**Penicilin G, tedy benzylpenicilin, se podává injekčně** a je lékem první volby u **meningitidy, sepse, pneumokokové pneumonie, endokarditidy, aktinomykóz a anaerobních infekcí.**
+
+**Penicilin V, tedy fenoxymetylpenicilin, je odolný vůči žaludeční kyselině, a proto se podává perorálně. Je lékem první volby u infekcí ústní dutiny a ve stomatologické praxi.**
+
+**Oxacilin je odolný vůči stafylokokové betalaktamáze.**
+
+**Aminopeniciliny — ampicilin nitrožilně a amoxicilin perorálně — mají spektrum rozšířené o gramnegativní bakterie.**
+
+**Potencované peniciliny jsou kombinace s inhibitorem betalaktamázy: amoxicilin s kyselinou klavulanovou a piperacilin s tazobaktamem, který má nejširší spektrum ze všech penicilinů.**
+
+Za zmínku stojí, že **Hoigného syndrom není alergická reakce — je to důsledek technicky chybného podání suspenze.**"
+
+💬 **Ať to dává smysl**
+**Bakteriální buňka má kolem sebe pevnou STĚNU** (peptidoglykan), která ji drží pohromadě proti vnitřnímu tlaku. **Lidská buňka žádnou stěnu nemá — má jen membránu.**
+⚠️ **A na tom stojí celá elegance penicilinů: betalaktamový kruh napodobuje tvar stavebního kamene bakteriální stěny.** Enzym, který stěnu staví, **ho omylem chytí — kruh se rozevře a enzym trvale zablokuje.** **Stěna se přestane opravovat, tlak uvnitř ji roztrhne a bakterie praskne.**
+**A protože lidská buňka žádnou stěnu nestaví, není v člověku co poškodit.** ⚠️ **To je učebnicový příklad SELEKTIVNÍ TOXICITY — a proto jsou peniciliny jedny z nejméně toxických léků vůbec.**
+⚠️ **Z toho plyne i důležité omezení: peniciliny působí jen na bakterie, které se právě MNOŽÍ.** **Klidná bakterie stěnu nestaví — a co se nestaví, to se nedá pokazit.** Proto se nekombinují s bakteriostatiky, která množení zastaví.
+**Betalaktamáza** je **enzym, kterým se bakterie brání — rozštípne betalaktamový kruh dřív, než stačí zabrat.** Je to nejčastější mechanismus rezistence k penicilinům.
+🔑 **Kyselina klavulanová je obětní beránek** — sama prakticky nic nezabíjí. **Má ale betalaktamový kruh, takže na sebe betalaktamázu naláká a obsadí ji.** Zatímco enzym „žvýká" klavulanát, **amoxicilin projde nepoškozený.** Přesně to je Amoksiklav.
+**Penicilin G vs. V — celý rozdíl je v odolnosti vůči kyselině:** **G se v žaludku rozloží, proto jen injekčně. V odolá, proto v tabletě.** *(V jako „vnitřně", pomůcka k zapamatování.)*
+⚠️ **Zubařsky nejdůležitější věta v celé otázce, a je přímo ze zdroje katedry: PENICILIN V JE LÉKEM PRVNÍ VOLBY U INFEKCÍ ÚSTNÍ DUTINY A VE STOMATOLOGICKÉ PRAXI.** Tuhle větu řekni doslova. **Důvod: běžná ústní flóra — streptokoky a anaeroby — na něj zůstává citlivá.** *(Když je alergie na penicilin nebo je postižená kost či absces, jde se na klindamycin — viz otázka 86.)*
+**Aminopeniciliny** mají **navíc aminoskupinu, díky které projdou póry ve vnější membráně gramnegativních bakterií** — odtud rozšířené spektrum. *[obecné znalosti]*
+⚠️ **A teď proč jsou peniciliny nejčastější příčinou anafylaxe — je to hezké propojení s obeckou O30:** **otevřený betalaktamový kruh je velmi reaktivní a chemicky se naváže na tělesné bílkoviny.** **Tím se z malé molekuly stane HAPTEN — něco velkého, co imunitní systém uvidí.** Sám penicilin je pro lymfocyt neviditelný; **teprve nalepený na albumin se stane terčem.** **Odtud plyne, že peniciliny způsobují asi 75 % všech anafylaktických reakcí na léky.**
+**Hoigného syndrom** = po **nechtěném vstříknutí depotní suspenze do cévy** vzniknou mikroembolizace krystalů → **pacient má úzkost, pocit blížící se smrti, halucinace.** ⚠️ **Vypadá to dramaticky a snadno se to zamění za anafylaxi, ale ALERGIE TO NENÍ — je to technická chyba podání.** *(Rozlišení je zásadní, protože po záměně by pacient zbytečně dostal doživotní zákaz penicilinů.)*
+
+🔑 ⚠️ **PENICILIN V = ÚSTA.** Tuhle větu u zkoušky použij.
+🔑 **Kyselina klavulanová je obětní beránek** — naláká na sebe betalaktamázu.
+
+---
+
+## 84 · Cefalosporiny, karbapenemy, monobaktamy
+
+„U cefalosporinů je nejdůležitější **trend generací: s rostoucí generací roste záběr na gramnegativní bakterie a klesá na grampozitivní.**
+
+**První generace, cefazolin, působí na grampozitivní bakterie**, je **alternativou při alergii na penicilin** a **neproniká do mozkomíšního moku.**
+
+**Druhá generace, cefuroxim, má rozšířené spektrum o gramnegativní.**
+
+**Třetí generace — cefotaxim, ceftriaxon a ceftazidim — proniká do centrálního nervového systému, a proto je lékem volby u meningitid**; nepůsobí ale na listerie.
+
+**Čtvrtá generace, cefepim, působí na grampozitivní i gramnegativní** a je **lékem první volby u febrilní neutropenie.**
+
+**Pátá generace, ceftarolin, působí i na MRSA.**
+
+**Karbapenemy — imipenem, který se musí podávat s cilastatinem, a meropenem — jsou rezervní antibiotika s téměř úplným spektrem**; mají **zkříženou alergii s peniciliny.**
+
+**Monobaktamy, tedy aztreonam, působí jen na gramnegativní bakterie** a jsou **lékem první volby u pseudomonádových infekcí u cystické fibrózy.**"
+
+💬 **Ať to dává smysl**
+**Grampozitivní a gramnegativní** je dělení podle barvení podle Grama, ale **prakticky jde o stavbu obalu: G+ mají silnou peptidoglykanovou stěnu a nic dalšího, G− mají stěnu tenkou, ale nad ní ještě VNĚJŠÍ MEMBRÁNU.** ⚠️ **A právě ta vnější membrána je bariéra, kterou musí antibiotikum překonat** — proto se generace vyvíjely směrem k lepšímu průniku k G−. *[obecné znalosti]*
+**Cefalosporiny jsou taky betalaktamy** — mechanismus je stejný jako u penicilinů (viz 83).
+⚠️ **Celou otázku si zapamatuj jako jeden trend a dvě výjimky:**
+- **Trend: od 1. ke 3. generaci se záběr posouvá od G+ ke G−** (a přitom se ztrácí síla na G+).
+- **Výjimka 1: 4. generace trend OBRÁTÍ** — umí zase obojí.
+- **Výjimka 2: 5. generace přidá MRSA.**
+⚠️ **Nejpraktičtější věta: do mozkomíšního moku jde až TŘETÍ generace.** **Meningitida = cefotaxim nebo ceftriaxon, nikdy cefazolin.** *(Důvod: první generace hematoencefalickou bariérou neprojde.)* ⚠️ *A protože na **listerie** třetí generace nepůsobí, doplňuje se u rizikových pacientů ampicilin.*
+**MRSA** = meticilin-rezistentní *Staphylococcus aureus* — **stafylokok odolný k celé skupině betalaktamů**, protože si změnil cílový enzym tak, že se na něj betalaktam nenaváže. **Proto je pátá generace a vankomycin (viz 86) tak cenné.**
+**Febrilní neutropenie** = **pacient po chemoterapii nemá bílé krvinky a dostane horečku.** ⚠️ **Je to život ohrožující stav, protože nemá vlastní obranu** (viz otázka 82 — musíš zvolit baktericidní a širokospektré antibiotikum, a to hned, ještě než víš, co ho vlastně napadlo).
+**Karbapenemy jsou „rezervní"** — schovávají se pro situace, kde ostatní selhala. ⚠️ **Nasazovat je zbytečně znamená vypěstovat rezistenci k poslednímu, co zbývá.**
+⚠️ **A teď nejlepší otázka celé kapitoly: cilastatin NENÍ antibiotikum ani inhibitor betalaktamázy.** Chrání imipenem před **LIDSKÝM enzymem — dehydropeptidázou v ledvinných tubulech**, který by ho rozložil dřív, než by stihl působit.
+**Porovnej to s kyselinou klavulanovou z otázky 83: ta chrání před BAKTERIÁLNÍM enzymem.** **Stejný princip ochrany, ale opačná strana barikády.** **Tohle srovnání řekni — ukazuje, že látce rozumíš, a ne že si pamatuješ dvojice slov.**
+⚠️ **Superinfekce u 2. a 3. generace** je přímý důsledek širokého spektra: **antibiotikum vyhubí i vlastní užitečnou flóru a uvolní tím místo tomu, na co nepůsobí** — **kvasinkám a *Clostridium difficile*** (viz otázka 86). **Není to toxicita, je to uvolněná nika.**
+
+🔑 **Do likvoru jde až TŘETÍ generace.** Meningitida = cefotaxim / ceftriaxon.
+⚠️ **Cilastatin chrání před LIDSKÝM enzymem, klavulanát před BAKTERIÁLNÍM.**
+
+---
+
+## 85 · Aminoglykosidy, chinolony
+
+„**Aminoglykosidy — gentamicin, tobramycin, amikacin, lokálně neomycin — jsou baktericidní s rychlým nástupem.**
+
+**Nevstřebávají se z trávicího traktu, a proto se podávají jen injekčně nebo lokálně.**
+
+**Jejich hlavními nežádoucími účinky jsou ototoxicita, tedy poškození osmého hlavového nervu s tinnitem, hluchotou a závratěmi, a nefrotoxicita postihující ledvinné tubuly.**
+
+**V abscesu nefungují**, protože jeho prostředí je kyselé a anaerobní.
+
+**Chinolony inhibují bakteriální topoizomerázy, a tím zastaví syntézu DNA.**
+
+**Jsou kontraindikované u dětí a v těhotenství** a **jejich indikace jsou dnes omezené kvůli nežádoucím účinkům — poškození šlach, depresím a neuropatiím.**
+
+Z generací se používají **fluorochinolony druhé generace, ciprofloxacin a levofloxacin, a čtvrtá, takzvaně respirační generace, moxifloxacin.**"
+
+💬 **Ať to dává smysl**
+⚠️ **Aminoglykosidy jsou krásný příklad toho, jak se z jedné vlastnosti molekuly odvodí úplně všechno ostatní. Ta vlastnost je: velké, silně nabité a hydrofilní molekuly.**
+**A teď se podívej, co z toho plyne** (všechno navazuje na obecku O10):
+- **Nabité neprojde membránou → nevstřebají se ze střeva → jen injekčně.**
+- **Nabité neprojde do buňky → na vnitrobuněčné patogeny nefungují.**
+- **Hydrofilní se nedostane do mozku → nepůsobí u meningitidy bez přímé aplikace.**
+- **Hydrofilní odchází nezměněné ledvinami → při renální insuficienci se hromadí a musí se snížit dávka.**
+**Nemusíš tedy memorovat čtyři fakta — stačí jedno a zbytek si odvodíš.**
+**Mechanismus: vážou se na 30S podjednotku ribozomu a způsobí, že bakterie překládá bílkoviny CHYBNĚ.** Vzniknou nefunkční proteiny, které poškodí membránu — **proto jsou baktericidní, i když působí na ribozom.** *[obecné znalosti]*
+⚠️ **Proč v abscesu nefungují — vděčná otázka a pro tebe zubařsky relevantní:** absces má **kyselé a anaerobní prostředí.** Aminoglykosid **potřebuje k průniku do bakterie kyslíkem poháněný transport**, a ten v anaerobním prostředí nefunguje. **Navíc se v kyselém prostředí víc ionizuje.** ⚠️ **Proto se u abscesů volí klindamycin** (viz otázka 86). *[obecné znalosti]*
+⚠️ **Ototoxicita versus nefrotoxicita — rozdíl, který stojí za to znát:**
+- **Ototoxicita je NEVRATNÁ**, protože **vláskové buňky vnitřního ucha se neobnovují.** Co zanikne, je pryč navždy.
+- **Nefrotoxicita se většinou upraví**, protože **tubulární buňky regenerují.**
+⚠️ **A ještě zákeřnější detail: jako první se poškozují VYSOKÉ frekvence**, které člověk v běžné řeči nepotřebuje. **Pacient si tedy poškození dlouho nevšimne** — a když si všimne, je pozdě. **Proto se u dlouhodobé léčby dělá audiometrie**, nespoléhá se na to, že si pacient postěžuje.
+**Chinolony blokují topoizomerázy (gyrázy)** — enzymy, které **rozplétají a znovu splétají zamotanou bakteriální DNA**, aby se dala kopírovat. **Bez nich se DNA nemůže replikovat.**
+⚠️ **Nežádoucí účinky chinolonů vypadají nesourodě, ale je jich dost na to, aby se z nich staly rezervní léky:** **poškození až ruptura šlach** (typicky Achillovy, i po jediném podání, a riziko roste s kortikoidy), **neuropatie**, **psychické účinky včetně depresí**, **prodloužení QT**. ⚠️ **Kontraindikace u dětí a těhotných je kvůli riziku poškození chrupavek.**
+⚠️ **Chyba ve studentském zdroji:** uvádí, že chinolony blokují „DNA polymerázu" — správně je **topoizomeráza (gyráza)**. Je to **jiný enzym s jinou funkcí** a u zkoušky by to znělo jako neznalost.
+
+🔑 **Aminoglykosid ničí UCHO a LEDVINU.** Ucho nevratně, ledvinu většinou vratně.
+⚠️ **V abscesu nefungují** — kyselé a anaerobní prostředí. Tam patří klindamycin.
+
+---
+
+## 86 · Linkosamidy, glykopeptidy, polymyxiny
+
+„**Klíčovou vlastností klindamycinu je jeho dobrý průnik do kostí a do abscesů.** Je účinný na **stafylokoky, streptokoky a anaeroby**, a používá se proto u **osteomyelitid, abscesů a aktinomykóz.**
+
+**Vankomycin je velká molekula, která působí na buněčnou stěnu**; jeho spektrum jsou **grampozitivní koky.** Je **nefrotoxický** a podává se v **pomalé nitrožilní infuzi.**
+
+**Red man syndrom je zarudnutí horní poloviny těla při rychlém podání — není to alergická reakce a stačí infuzi zpomalit.**
+
+**Hlavními indikacemi vankomycinu jsou MRSA a perorální podání u pseudomembranózní kolitidy vyvolané Clostridium difficile** — tam se nevstřebá a **působí lokálně ve střevě.**
+
+**Polymyxiny, tedy kolistin, jsou rezervní antibiotika pro multirezistentní gramnegativní kmeny**; jsou **nefrotoxické a neurotoxické.**"
+
+💬 **Ať to dává smysl**
+⚠️ **Zubařsky je tohle spolu s otázkou 83 nejdůležitější antibiotická otázka, kterou budeš potřebovat v praxi.**
+🔑 **Klindamycin: KOST + ABSCES + ANAEROBY.** Tyhle tři vlastnosti dohromady z něj dělají **standardní volbu u odontogenních infekcí a osteomyelitid čelisti — zvlášť u pacienta alergického na penicilin.**
+**A dává to smysl, když si to rozebereš:** odontogenní infekce **je typicky smíšená s převahou anaerobů**, často **tvoří absces** a **může přejít na kost.** **Klindamycin pokrývá přesně tuhle kombinaci** — na rozdíl od aminoglykosidů, které v abscesu nefungují (otázka 85), a od makrolidů, které do kosti tak dobře nepronikají (otázka 88).
+⚠️ **Ale pozor na obojakost, kterou je dobré zmínit: klindamycin je zároveň nejčastější příčinou pseudomembranózní kolitidy.** Vyhubí **anaerobní střevní flóru** a tím **uvolní místo *Clostridium difficile***, které se pomnoží a vyprodukuje toxin. **Vzniká těžký, někdy život ohrožující průjem.**
+**A tady je pointa, kterou stojí za to říct nahlas: jedno antibiotikum z téhle otázky tu nemoc způsobí (klindamycin), a druhé ji léčí (vankomycin).**
+**Vankomycin** je **velká molekula, která se váže přímo na stavební kámen buněčné stěny** — je to jiný mechanismus než u betalaktamů, a proto **funguje i na MRSA**, kde betalaktamy selhaly.
+⚠️ **A teď nejelegantnější myšlenka celé otázky: „nevstřebává se" je jednou nevýhoda a podruhé přesně to, co chceš.**
+- **U sepse nebo MRSA se musí podat NITROŽILNĚ**, protože ústy by se nevstřebal.
+- ⚠️ **U pseudomembranózní kolitidy se naopak podá ÚSTY — a právě proto, že se nevstřebá: projde celým trávicím traktem a v tlustém střevě dosáhne obrovské místní koncentrace, aniž by se dostal do krve.** Působí přesně tam, kde je klostridium, a nikde jinde.
+⚠️ **A z toho plyne past, kterou zkoušející milují: u kolitidy se vankomycin NESMÍ podat nitrožilně** — do střeva by se nedostal. **Cesta podání tady rozhoduje o všem.**
+**Red man syndrom** = zarudnutí obličeje, krku a horní poloviny těla, svědění, někdy pokles tlaku. ⚠️ **Není to alergie — vankomycin přímo vytlačí histamin z mastocytů bez účasti imunitního systému.** Je to **pseudoalergická reakce** z obecky O30. **A proto stačí infuzi zpomalit — u pravé alergie by to nepomohlo vůbec.** **Závisí to totiž na rychlosti podání, ne na dávce.**
+**Polymyxiny (kolistin)** poškozují **buněčnou membránu** gramnegativních bakterií jako detergent. **Jsou to nejzazší rezervy pro multirezistentní kmeny** — používají se, i když jsou nefro- a neurotoxické, protože jinak není čím léčit.
+
+🔑 ⚠️ **Klindamycin = kost + absces + anaeroby = odontogenní infekce.**
+⚠️ **Red man = rychlost infuze, ne alergie.** **U kolitidy vankomycin ústy, nikdy do žíly.**
+
+---
+
+## 87 · Tetracykliny, amfenikoly
+
+„**Tetracykliny jsou bakteriostatické a inhibují proteosyntézu vazbou na 30S podjednotku ribozomu — nepůsobí tedy na buněčnou stěnu.**
+
+Mají **široké spektrum zahrnující grampozitivní i gramnegativní bakterie a navíc mykoplazmata, chlamydie, borelie a aktinomycety.** Používají se u **atypických pneumonií a chlamydiových uretritid.**
+
+**Doxycyklin se podává perorálně a je kontraindikován do dvanácti let a u těhotných a kojících žen.**
+
+**Chloramfenikol je rovněž bakteriostatický a působí na ribozom. Má výbornou farmakokinetiku a široké spektrum, ale způsobuje ireverzibilní aplastickou anemii**, a proto se dnes používá jen tam, kde není náhrada."
+
+💬 **Ať to dává smysl**
+⚠️ **Hned na začátku si oprav jednu chybu, kterou má i studentský materiál: tetracykliny působí na RIBOZOM, ne na buněčnou stěnu.** *(V jednom z vypracovaných materiálů je u tetracyklinů uvedena inhibice buněčné stěny — je to špatně a u zkoušky by to znělo jako záměna s peniciliny.)*
+**Ribozom je „továrna na bílkoviny".** **Bakteriální ribozom má podjednotky 30S a 50S, lidský 40S a 60S** — a **právě ten rozdíl umožňuje, aby antibiotikum zasáhlo bakterii a ne nás.** Je to další příklad **selektivní toxicity.** *[obecné znalosti]*
+🔑 **Zapamatuj si dvojici: tetracykliny a aminoglykosidy = 30S · makrolidy, linkosamidy a chloramfenikol = 50S.**
+**Proč tak široké spektrum a zvláště ty „atypické" bakterie:** tetracykliny jsou **lipofilní a dostanou se dovnitř buněk** — a **chlamydie a mykoplazmata žijí právě uvnitř buněk nebo nemají stěnu**, takže na ně betalaktamy nefungují (viz otázka 88).
+⚠️ **A teď zubařsky nejdůležitější věc v celé Specce I, a stojí za to ji říct celou:**
+**Tetracyklin CHELUJE VÁPNÍK** — vytvoří s ním pevný komplex (viz obecka O25, chelát). ⚠️ **A proto se uloží všude tam, kde se právě vápník zabudovává: do mineralizující se skloviny a dentinu, a do rostoucí kosti.**
+**Důsledek: zub je zbarvený ZEVNITŘ, ne na povrchu.** ⚠️ **Nedá se to vyčistit, vypískovat ani vybělit** — barva je uvnitř tvrdé tkáně. **A protože se ukládá jen během podávání, vznikne PRUH odpovídající té době**, ne rovnoměrně zbarvený zub. **Z toho se dá zpětně vyčíst, kdy dítě antibiotikum dostalo.**
+⚠️ **A odtud hranice dvanácti let: do té doby probíhá mineralizace stálých zubů.** Potom už se poškodit nemají čím. **A odtud i kontraindikace v těhotenství** — plod si zuby a kosti zakládá.
+**Ze stejného chelačního mechanismu plyne i praktická interakce: tetracyklin se nesmí zapíjet mlékem ani brát s antacidy či železem** — vápník, hořčík nebo železo ho na sebe naváží ve střevě a **antibiotikum se vůbec nevstřebá.**
+⚠️ **Chloramfenikol je nejsmutnější příběh antibiotické farmakologie a je hezký k vyprávění, protože ukazuje, jak se poměřuje přínos a riziko:** má **široké spektrum, výbornou kinetiku, projde i do mozkového abscesu a je levný.** **A přesto se prakticky nepoužívá — kvůli jedinému nežádoucímu účinku.**
+**Aplastická anemie** = **útlum kostní dřeně, která přestane vyrábět všechny krvinky.** ⚠️ **A tři věci ji dělají tak zákeřnou: je IREVERZIBILNÍ, NEZÁVISÍ NA DÁVCE (je to reakce typu B podle obecky O29, tedy bizarní a nepředvídatelná) a byla popsána i po očních kapkách.** **Nedá se jí tedy předejít opatrným dávkováním — jediná ochrana je lék nepoužít.**
+*(Nezaměňuj to s* **gray baby syndromem** *z obecky O33 — ten vzniká u novorozenců z nezralé glukuronidace a je to úplně jiný mechanismus.)*
+
+🔑 ⚠️ **Tetracyklin = RIBOZOM (30S), ne stěna.** **Chloramfenikol = kostní dřeň.**
+⚠️ **Tetracyklin chelátem vápníku barví zub ZEVNITŘ — nedá se to vyčistit ani vybělit.** Odtud hranice 12 let.
+
+---
+
+## 88 · Makrolidy
+
+> ⚠️ **Tahle otázka není ve vypracovaných otázkách katedry** — je z obecných znalostí. Ověř proti přednášce.
+
+„**Makrolidy jsou bakteriostatické a vážou se na 50S podjednotku ribozomu**, přičemž **sdílejí vazebné místo s linkosamidy, a proto mezi nimi vzniká zkřížená rezistence.**
+
+**Jejich doménou jsou atypické patogeny — mykoplazma, chlamydie a legionela** — dále grampozitivní koky, *Bordetella pertussis* a *Helicobacter pylori*.
+
+**Mají výborný průnik do buněk**, což je právě důvod účinnosti na atypické patogeny, **do mozkomíšního moku ale neproniknou**, a **eliminují se žlučí, takže se dávka při renální insuficienci nemusí upravovat.**
+
+**Hlavními indikacemi jsou atypická pneumonie, kde jsou lékem volby, a respirační infekce při alergii na penicilin — což je jejich nejčastější klinická role** — dále černý kašel a eradikace *Helicobacter pylori* klarithromycinem.
+
+**Z nežádoucích účinků je nejzávažnější prodloužení intervalu QT**, dále obtíže v trávicím traktu a kovová chuť u klarithromycinu.
+
+**Erythromycin a klarithromycin jsou silné inhibitory CYP3A4, zatímco azithromycin prakticky ne.**"
+
+💬 **Ať to dává smysl**
+⚠️ **Co vlastně dělá patogen „atypickým" — tohle je jádro otázky a stojí za to to vysvětlit:**
+- **Buď žije UVNITŘ lidské buňky** (chlamydie, legionela) — **a tam se hydrofilní antibiotikum nedostane.**
+- **Nebo NEMÁ BUNĚČNOU STĚNU** (mykoplazma) — **a pak je penicilin úplně k ničemu, protože není co rozbít.** *(Je to primární rezistence z otázky 82 — nikoli získaná, prostě tam chybí cíl.)*
+**A makrolid vyřeší obojí najednou: je LIPOFILNÍ, takže projde do buňky, a míří na RIBOZOM, který má i mykoplazma.** **Proto jsou u atypických pneumonií lékem volby.**
+**Atypická pneumonie** se projevuje jinak než klasická — **plíživý začátek, suchý kašel, únava, mírná horečka, a na snímku vypadá hůř, než jak se pacient cítí.** *[obecné znalosti]*
+⚠️ **Nejčastější klinická role makrolidů je ale prostě náhrada penicilinu u alergiků** — u respiračních infekcí. **Pro tebe je ale důležité vědět, kdy makrolid nestačí:** ⚠️ **u odontogenní infekce s postižením kosti nebo s abscesem má přednost klindamycin** (viz otázka 86), protože **makrolid do kosti tak dobře nepronikne.**
+**Eliminace žlučí, ne ledvinami** — praktický důsledek: **u pacienta se selhávajícími ledvinami se dávka nemusí snižovat**, což je u antibiotik spíš výjimka.
+⚠️ **Prodloužení QT** znamená riziko závažné arytmie (viz otázka 67). **Riziko roste v kombinaci s jinými léky, které QT prodlužují** — některá antiarytmika, antipsychotika, antidepresiva.
+⚠️ **A nejpraktičtější interakce, kterou stojí za to znát a která se dá zapamatovat jednou pomůckou: erythromycin a klarithromycin jsou silné inhibitory CYP3A4** (viz obecka O19) — **zvýší hladiny léků, které se přes tenhle enzym odbourávají.**
+**Klinicky nejnebezpečnější kombinace:**
+- **se statinem** → **rabdomyolýza** (viz otázka 75),
+- **s warfarinem** → **krvácení** (viz otázka 77),
+- **s blokátorem vápníkových kanálů** → prudký pokles tlaku.
+🔑 **A-zithromycin = A-ni neinhibuje CYP.** **Proto u pacienta na statinu nebo warfarinu volíš azithromycin, ne klarithromycin.** Tohle je konkrétní, praktické a u zkoušky se to cení.
+**Zkřížená rezistence s linkosamidy** vzniká proto, že **se vážou na stejné místo na 50S podjednotce.** ⚠️ **Když tedy bakterie zmutuje to místo, ztratí citlivost k oběma skupinám najednou** — a to je důležité právě pro tebe, protože **klindamycin i makrolid jsou obě náhrady penicilinu u alergika.**
+
+🔑 **Makrolid = atypická pneumonie + alergie na penicilin.** Dvě situace, kdy po něm sáhneš.
+⚠️ **Azithromycin u pacienta na statinu nebo warfarinu, nikdy klarithromycin.**
