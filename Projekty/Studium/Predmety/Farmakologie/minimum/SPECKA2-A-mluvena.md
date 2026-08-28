@@ -335,6 +335,28 @@ Jádrem otázky je **rozdíl mezi první a druhou generací**.
 
 **Antihistaminika druhé generace prostupují bariérou jen v menší míře, a proto jsou nesedativní**, jsou **selektivní** a mají **delší dobu účinku**. Patří sem **cetirizin, levocetirizin, desloratadin a fexofenadin**.“
 
+💬 **Ať to dává smysl**
+**Histamin** je **signální molekula, kterou má tělo naskladněnou hotovou** v granulích **mastocytů a bazofilů** — v komplexu s heparinem, který ho tam drží. ⚠️ **A protože je předem hotový, vysype se během vteřin** — to je důvod, proč alergická reakce typu I nastupuje tak bleskově (viz obecka O30).
+**Spouštěčem je typicky navázání alergenu na IgE protilátky sedící na povrchu mastocytu** — mastocyt to vyhodnotí jako povel a **exocytózou vysype obsah granulí.**
+**Dva receptory, dvě úplně různé role:**
+- ⚠️ **H1 = ALERGIE.** Je na **endotelu cév** (→ propustnost, otok, zarudnutí), na **hladké svalovině** (→ bronchokonstrikce) a na **nervových zakončeních** (→ svědění). **Signalizuje přes fosfolipázu C, IP₃ a DAG, tedy přes vápník** (viz obecka O22).
+- ⚠️ **H2 = ŽALUDEK.** Je na parietálních buňkách a **spouští sekreci kyseliny** přes cAMP. *(Odtud H2 blokátory u vředové choroby — viz otázka 99.)*
+**Když si tohle rozdělíš, nemusíš u žádného léku přemýšlet: „anti-H1" znamená protialergický, „anti-H2" znamená na žaludek.**
+⚠️ **Věta, která odliší dobrou odpověď od průměrné: antihistaminika nejsou prostí antagonisté — jsou to INVERZNÍ AGONISTÉ.**
+**Vysvětlení, které tomu dá smysl:** receptor **není buď zapnutý, nebo vypnutý — přepíná se mezi aktivní a neaktivní formou i sám od sebe**, takže má nějakou **bazální aktivitu i bez histaminu.** **Obyčejný antagonista by jen zabránil histaminu se navázat a nechal by tu bazální aktivitu být.** ⚠️ **Inverzní agonista se ale naváže na NEAKTIVNÍ formu a udrží ji v neaktivním stavu — takže sníží i tu klidovou aktivitu pod normál.** *(Vzpomeň si na obecku O21: afinita a vnitřní aktivita jsou dvě různé věci — tady je vnitřní aktivita záporná.)*
+⚠️ **Jádrem otázky je rozdíl generací — a je celý jen o dvou vlastnostech: PRŮNIKU DO MOZKU a SELEKTIVITĚ.**
+**První generace (prometazin, hydroxyzin, moxastin-teoklát):**
+- **Prochází hematoencefalickou bariérou → SEDACE.** ⚠️ **A to se dnes dokonce využívá záměrně** — u svědivé kožní nemoci, kde pacient v noci nespí, nebo jako mírné hypnotikum.
+- ⚠️ **Je NESELEKTIVNÍ — blokuje i muskarinové, serotoninové a dopaminové receptory.** **A odtud se odvodí všechny nežádoucí účinky: sucho v ústech, zácpa, poruchy akomodace, zahuštění hlenu** — je to přesně ten **anticholinergní syndrom** ze Specky I, otázky 39.
+- **Krátká vazba → podává se 2–3× denně.**
+- *(Právě proto, že blokuje i další receptory, se některé používají na úplně jiné věci: **moxastin-teoklát jako antiemetikum u kinetózy**, viz otázka 100.)*
+**Druhá generace (cetirizin, levocetirizin, desloratadin, fexofenadin):**
+- ⚠️ **Do mozku prakticky neproniká → NESEDUJE.**
+- **Je SELEKTIVNÍ pro H1 → žádné anticholinergní účinky.**
+- **Delší účinek → stačí jednou denně.**
+⚠️ **Nejdůležitější klinická věta: antihistaminikum NENÍ lékem první volby u anafylaxe — tím je adrenalin.** Antihistaminikum se **jen přidává**, protože **blokuje pouze jeden z mnoha vyplavených mediátorů, a ten je navíc už dávno venku a působí.** *(Podrobně v obecce O30.)*
+⚠️ **Zubařsky:** **první generace vysušuje sliznice** — u pacienta, který bere hydroxyzin nebo prometazin dlouhodobě, počítej s xerostomií.
+
 🔑 **První generace jde do mozku a blokuje všechno. Druhá zůstává na periferii a blokuje jen H1.**
 ⚠️ **Antihistaminikum u anafylaxe není lék první volby** — tím je adrenalin. Antihistaminikum se přidává.
 
@@ -364,6 +386,25 @@ Základem terapie je **doplňování tekutin**. Z léčiv jsou tři skupiny. **S
 
 A na závěr důležité varování: **obstipancia se nesmějí použít u infekčních průjmů — a ani tehdy, když nevíme, z čeho průjem je.** Zadržel bys patogen ve střevě.“
 
+💬 **Ať to dává smysl**
+⚠️ **Otázku otevři poctivě, protože to zdroj sám zdůrazňuje: nejčastější příčinou zácpy je málo pohybu, málo tekutin a málo vlákniny — takže základem léčby je REŽIM, ne lék.** **Laxativa se obecně nedoporučují**, i když jsou volně prodejná, **a navíc mohou zhoršit vstřebávání jiných léků** (zrychlí pasáž nebo je na sebe navážou).
+**Pět typů laxativ se dá pochopit podle toho, JAK vodu do stolice dostanou:**
+1. ⚠️ **Objemová (psyllium)** — **nestravitelná vláknina, která ve střevě nabobtná.** Zvětšený objem **natáhne stěnu střeva a tím spustí defekační reflex.** ⚠️ **Nutně se k nim musí pít — bez tekutiny se z nich stane zátka a zácpu naopak ZHORŠÍ.** To je nejčastější chyba pacientů.
+2. **Změkčující (tekutý parafín)** — nevstřebatelný olej, který stolici promastí. **V praxi se nepoužívá** — zhoršuje vstřebávání vitaminů rozpustných v tucích a hrozí aspirace.
+3. **Salinická (síran sodný, hořečnatý)** — **nevstřebatelné soli, které na sebe osmoticky natáhnou vodu**, zředí obsah a zároveň dráždí sliznici.
+4. ⚠️ **Osmotická (laktulóza)** — **nestravitelný cukr, který projde až do tlustého střeva, kde ho zpracují bakterie.** Přitom **váže vodu a snižuje pH střevního obsahu.**
+5. **Zvyšující motilitu** — dráždivá projímadla; ⚠️ **zdroj je výslovně nedoporučuje**, protože při dlouhodobém užívání střevo „zleniví" a stane se na nich závislým.
+⚠️ **Laktulóza a jaterní encefalopatie — tohle je nejhezčí část otázky, protože je to přímá aplikace IONTOVÉ PASTI z obecky O10. Umět to vysvětlit se vyplatí:**
+Při jaterním selhání **játra nezvládnou odbourat amoniak, který ve střevě vyrábějí bakterie.** Amoniak se vstřebá do krve, dostane se do mozku a **způsobí zmatenost až kóma.**
+**Laktulóza to řeší takto: bakterie ji rozloží na kyseliny → obsah tlustého střeva se OKYSELÍ → a v kyselém prostředí se z neionizovaného amoniaku (NH₃) stane amonný KATION (NH₄⁺).** ⚠️ **A nabitá částice se přes střevní stěnu nevstřebá — zůstane uvězněná ve střevě a odejde stolicí.** **Amoniak se tedy nezničí, jen se mu zabrání v odchodu do krve.** *(Druhá část léčby je rifaximin, který ty bakterie rovnou vyhubí — viz otázka 89.)*
+**Průjem** = **řídká, neformovaná stolice častěji než 3× denně.** ⚠️ **Důležité je vědět, že ho často způsobují LÉKY** — širokospektrá antibiotika (viz Specka I, otázka 86 — klostridiová kolitida), nesteroidní antiflogistika, cytostatika a samotná projímadla. **Než začneš léčit, zkontroluj medikaci.**
+⚠️ **Základem terapie průjmu je doplnění tekutin a iontů, ne zastavení průjmu.** Na průjem se neumírá kvůli stolici, **ale kvůli dehydrataci a rozvratu iontů.**
+**Tři skupiny léků:**
+- **Adsorbencia (aktivní uhlí, diosmektit)** — **mají obrovský povrch, na který na sebe navážou toxiny, bakterie i přebytečnou vodu.** ⚠️ **Pozor: naváží ale i jiné léky**, takže se musí podávat s odstupem. **A pacienta je nutné upozornit na černou stolici**, jinak ji bude považovat za krvácení.
+- **Střevní antiseptika (chloroxin, nifuroxazid, rifaximin)** — typicky u cestovatelských průjmů.
+- **Obstipancia (loperamid)** — ⚠️ **je to opioid, ale pouze periferní: přes mí receptory ve střevě zvýší tonus svěračů a zpomalí pasáž.** **Do mozku se nedostane** (je vyhazován P-glykoproteinem), **takže netlumí dech ani nevyvolává euforii.** *(Je to stejný trik jako u metylnaltrexonu, viz Specka I, otázka 61 — jen v opačném směru.)*
+⚠️ **A na závěr varování, které musí zaznít: obstipancia se NESMĚJÍ podat u infekčního průjmu — a ani tehdy, když nevíš, z čeho průjem je.** **Zastavíš pasáž a uvězníš patogen i jeho toxiny ve střevě** — hrozí toxické megakolon a zhoršení infekce. **Průjem je u infekce obranný mechanismus, kterým se tělo patogenu zbavuje.**
+
 🔑 **Laktulóza dvakrát: projímadlo a jaterní encefalopatie.** Obojí přes stejnou acidifikaci střeva.
 ⚠️ **Loperamid je opioid, který působí jen ve střevě** — proto zpomalí pasáž, ale netlumí dech.
 
@@ -387,7 +428,26 @@ Základem farmakoterapie je **trojkombinace — dvě antibiotika plus inhibitor 
 
 **K eradikaci Helicobactera se používá amoxicilin a klarithromycin po dobu čtrnácti dnů s účinností asi osmdesát procent.**“
 
-🔑 **Žaludek bolí PO jídle, duodenum NA LAČNO.**
+💬 **Ať to dává smysl**
+**Definice zní složitě, ale říká jednoduchou věc: vřed je defekt, který proniká HLOUBĚJI než jen do sliznice** — přesahuje pod *muscularis mucosae*. ⚠️ **Tím se liší od pouhé eroze**, která zůstává povrchová a zhojí se bez jizvy.
+**Žaludek se před vlastní kyselinou brání hlenem a prostaglandiny** (viz Specka I, otázka 64). ⚠️ **Vřed vzniká vždycky jako NEROVNOVÁHA mezi agresivními a ochrannými faktory** — buď je kyseliny moc, nebo je obrana oslabená.
+- **Primární vřed = Helicobacter pylori** (poškodí obranu).
+- **Sekundární = NSA** (vypnou ochranné prostaglandiny), **stresové vředy** u kriticky nemocných, endokrinní poruchy.
+⚠️ **Rozlišení lokalizace podle bolesti — ptají se na to skoro vždy a stojí za to vědět PROČ, ne jen ŽE:**
+- **Žaludeční vřed bolí PO jídle.** Jídlo spustí sekreci kyseliny **a ta dopadne přímo na obnažený vřed v žaludku.** Pacient se proto jídlu vyhýbá a **hubne.**
+- **Duodenální vřed bolí NA LAČNO a po jídle se uleví.** Nalačno teče kyselý žaludeční obsah do dvanáctníku bez ničeho, co by ho tlumilo. **Jídlo kyselinu naředí a zpomalí vyprazdňování žaludku — proto úleva.** Pacient proto jí častěji a **spíš přibývá.** *[obecné znalosti]*
+🔑 **Zkratka: „Žaludek = jíst bolí. Duodenum = hlad bolí."**
+**Komplikace je dobré umět vyjmenovat, protože jsou to důvody, proč se vřed léčí:** **krvácení** (nejčastější, může být masivní) · **perforace** (vřed prorazí stěnu → náhlá příhoda břišní) · **penetrace** (prorazí do sousedního orgánu, typicky do pankreatu) · **stenóza** z jizvení (vyústění žaludku se zúží) · **a nádorové bujení.**
+⚠️ **Helicobacter pylori je pozoruhodný tím, že přežije v prostředí, kde by nic žít nemělo — a stojí za to vysvětlit, jak to dělá: produkuje UREÁZU, enzym, který rozkládá močovinu na AMONIAK. Tím si kolem sebe vytvoří zásaditý obal a kyselina se k němu nedostane.** **Bičíky se pak zavrtá pod hlenovou vrstvu, kde je chráněný.** *[obecné znalosti]*
+⚠️ **A je klasifikován jako KARCINOGEN** — je to jediná bakterie s touhle klasifikací, protože **chronický zánět, který způsobuje, vede k atrofické gastritidě a k rakovině žaludku.** Tuhle větu stojí za to říct.
+**Trojkombinace = dvě antibiotika + inhibitor protonové pumpy.** ⚠️ **A dává to smysl hned dvakrát: antibiotika bakterii zabijí, a IPP jednak zvýší pH, takže antibiotika lépe fungují, jednak dá sliznici šanci se zahojit.** **Amoxicilin a klarithromycin po 14 dnů, účinnost asi 80 %.**
+⚠️ **Inhibitory protonové pumpy jsou nejúčinnější léky na kyselinu, protože blokují POSLEDNÍ krok celého procesu — samotnou pumpu, která vodíkové ionty vyhazuje do žaludku.** **Ať už ji cokoli aktivovalo (histamin, gastrin, acetylcholin), pumpa je zablokovaná.**
+- **Blokáda je IREVERZIBILNÍ** → účinek trvá asi 16 hodin, i když je lék z krve dávno pryč. *(Stejný princip jako u aspirinu a destiček — viz Specka I, otázka 79.)*
+- ⚠️ **Podávají se PŘED jídlem** — protože **zabírají jen na pumpy, které jsou právě aktivní**, a ty se aktivují jídlem. **Podat IPP po jídle znamená minout okamžik, kdy má působit.** Tohle je velmi praktická věc, kterou pacienti běžně dělají špatně.
+⚠️ **Dlouhodobé užívání zhoršuje vstřebávání hořčíku, vápníku, železa a vitaminu B12** — všechny totiž **potřebují kyselé prostředí, aby se uvolnily a vstřebaly.** Odtud riziko osteoporózy a anemie u dlouhodobých uživatelů.
+⚠️ **Interakce s klopidogrelem je vděčná a stojí za to vědět proč: klopidogrel je PROLÉČIVO aktivované CYP2C19** (viz Specka I, otázka 79) — **a omeprazol právě tenhle enzym inhibuje.** **Klopidogrel se tedy neaktivuje a pacient po stentu přijde o ochranu proti trombóze.** **Proto se u něj volí pantoprazol, který CYP2C19 inhibuje výrazně méně.**
+
+🔑 **Žaludek bolí PO jídle, duodenum NA LAČNO.** IPP se bere PŘED jídlem.
 ⚠️ **Omeprazol blokuje aktivaci klopidogrelu** — proto se u pacienta po stentu volí pantoprazol.
 
 ---
@@ -411,6 +471,29 @@ Protože se na tom podílí **několik neurotransmiterů — dopamin, acetylchol
 **Emetika jsou apomorfin, který stimuluje D2 receptory chemorecepční zóny, a emetin, který stimuluje zakončení nervus vagus.**
 
 **Antiemetika** se dělí podle receptoru. **Setrony, tedy ondansetron a granisetron, jsou antagonisté serotoninových 5-HT3 receptorů — jsou nejdůležitější a vysoce účinné, zejména u chemoterapie.** Dále **antihistaminika první generace u kinetóz**, **betahistin u vertiga a Ménièrovy choroby**, **prokinetika jako antagonisté D2** a **kanabinoidy, které se ale v České republice nepoužívají**.“
+
+💬 **Ať to dává smysl**
+**Prokinetikum** = *pro-* ve prospěch, *kinesis* pohyb → **lék, který rozhýbe línou peristaltiku.** ⚠️ **Nepoužívá se na zácpu, ale na horní trávicí trakt** — na reflux a na pocit plnosti a nevolnost, když se žaludek nevyprazdňuje.
+**Peristaltika** = postupující vlna, která posouvá obsah dál. **Peristola** = klidový tonus stěny.
+⚠️ **Klíčová věta, ze které plynou indikace: účinek prokinetik klesá ABORÁLNĚ** — tedy **čím dál od úst, tím slabší.** **Největší efekt tedy mají na dolní jícnový svěrač.** **A odtud je hlavní indikací gastroezofageální reflux:** zvýší tonus svěrače, takže **žaludeční obsah nemá kudy stoupat zpátky do jícnu.**
+⚠️ **Zubařsky je reflux důležitý, protože žaludeční kyselina eroduje sklovinu** — typicky na palatinálních plochách horních zubů. **Zubař bývá první, kdo si nepoznaného refluxu všimne.** *[obecné znalosti]*
+**Zástupci — a všimni si, že skoro všichni jsou antagonisté dopaminu D2:**
+- ⚠️ **Domperidon vs. metoklopramid je celý rozdíl v jedné vlastnosti — PRŮNIKU DO MOZKU.** **Metoklopramid je lipofilní a do CNS projde → způsobuje ospalost a hlavně EXTRAPYRAMIDOVÉ PŘÍZNAKY** (blokáda dopaminu v nigrostriatální dráze, viz Specka I, otázka 55). **Domperidon do mozku prakticky nejde → tyhle účinky nemá.**
+- **Cisaprid** je antagonista **5-HT4** a **zvyšuje motilitu i v dolních částech střeva** — tedy nemá to aborální omezení. *(Byl stažen kvůli arytmiím. — [obecné znalosti])*
+- **Itoprid** kombinuje **blokádu D2 s inhibicí acetylcholinesterázy** — tedy **navíc zvýší acetylcholin, který střevo rozhýbe** (vzpomeň si na parasympatikus a motilitu, Specka I, otázka 36).
+**Hyperprolaktinemie** mezi nežádoucími účinky se dá odvodit: **dopamin brzdí prolaktin, takže blokáda dopaminu prolaktin uvolní** (viz Specka I, otázka 55).
+⚠️ **Kontraindikací je mechanická obstrukce, krvácení nebo perforace** — a je to logické: **rozhýbat střevo, které je ucpané nebo prasklé, znamená katastrofu.**
+⚠️ **Zvracení řídí DVĚ různá centra — a to je klíč k celé druhé polovině otázky:**
+1. **Vlastní centrum pro zvracení** v prodloužené míše — **poslouchá NERVY**: z vestibulárního ústrojí (kinetóza), z bloudivého nervu (podráždění žaludku), z vyšších center (odpor, strach) a z trávicího traktu.
+2. ⚠️ **Chemorecepční spouštěcí zóna (CTZ) v area postrema** — **poslouchá CHEMII V KRVI.** **A tady je pointa: area postrema je jedno z mála míst mozku, kde CHYBÍ hematoencefalická bariéra** — je to úmyslné, aby mozek mohl přímo „ochutnávat" krev a všimnout si jedu. **Proto na ni působí toxiny a léky, které by se jinam v mozku nedostaly.** *[obecné znalosti]*
+⚠️ **A z toho, že se na zvracení podílí několik mediátorů — dopamin, acetylcholin, histamin a serotonin — plyne, že existuje několik různých typů antiemetik, a každý zabírá na jiný typ zvracení.** **Není jeden univerzální lék proti zvracení.** **Tohle je nejcennější věta otázky.**
+**Prakticky:**
+- ⚠️ **Setrony (ondansetron, granisetron) = blokáda 5-HT3 = zvracení po CHEMOTERAPII.** **Nejsilnější a nejdůležitější skupina.**
+- **Antihistaminika 1. generace = KINETÓZA** (protože jde přes vestibulární ústrojí a ta jsou navíc anticholinergní, viz otázka 97).
+- **Antagonisté D2 (metoklopramid) = zvracení z trávicího traktu.**
+- **Betahistin = vertigo a Ménièrova choroba.**
+⚠️ **Nejsilnějším emetogenem je cisplatina** — a mechanismus vysvětluje, proč zabírají zrovna setrony: **poškodí sliznici tenkého střeva, ta vyplaví obrovské množství SEROTONINU, a ten přes 5-HT3 receptory spustí zvracení.** **Blokáda serotoninu je proto přesně cílená léčba.**
+**Emetika (látky vyvolávající zvracení):** **apomorfin** stimuluje D2 v CTZ, **emetin** dráždí zakončení n. vagus. ⚠️ *Dnes se u otrav prakticky nepoužívají — viz otázka o terapii otrav.*
 
 🔑 **Dvě centra: jedno poslouchá nervy, druhé chemii v krvi.** Proto na zvracení funguje víc různých léků.
 ⚠️ **Metoklopramid jde do mozku, domperidon ne** — proto metoklopramid dělá extrapyramidové příznaky.
@@ -437,6 +520,28 @@ Léčbu je nejlepší podat **podle role jednotlivých skupin**.
 
 Logiku léčby se dá shrnout jednou větou: **aminosalicyláty na dlouhodobé držení, kortikoidy na rychlé navození remise, imunosupresiva na její udržení.**“
 
+💬 **Ať to dává smysl**
+**„Nespecifické střevní záněty" (IBD)** = chronické záněty střeva, u kterých **není infekční původce.** Patří sem **Crohnova nemoc a ulcerózní kolitida.**
+⚠️ **Rozdíl mezi nimi si zapamatuj přes dvě otázky: KDE to je a JAK HLUBOKO to jde.**
+| | **Crohnova nemoc** | **Ulcerózní kolitida** |
+|---|---|---|
+| Kde | ⚠️ **kdekoli od úst po konečník** | ⚠️ **jen tlusté střevo, začíná v rektu** |
+| Rozsah | ⚠️ **skip léze** — nemocné úseky se střídají se zdravými | **souvisle**, šíří se od rekta nahoru |
+| Hloubka | ⚠️ **celá stěna (transmurálně)** | ⚠️ **jen sliznice** |
+⚠️ **A z té hloubky se dají odvodit i příznaky, což je hezké, protože se nemusí memorovat:**
+- **Crohn jde přes celou stěnu → může se provrtat ven → PÍŠTĚLE a abscesy, hlavně perianální.** A protože **postihuje i tenké střevo, kde se vstřebávají živiny → poruchy vstřebávání a hubnutí.** ⚠️ **Zubařsky: aftózní vředy v ústech jsou běžný projev Crohnovy nemoci** a mohou nemoc dokonce předcházet.
+- **Kolitida je jen ve sliznici → nedělá píštěle, ale sliznice se odírá → KRVAVÉ A HLENOVÉ PRŮJMY.** A protože je postižené **rektum, které je plné receptorů → TENESMY**, tedy **bolestivé křečovité nucení na stolici, často bez výsledku.**
+⚠️ **Patogeneze v jedné větě, kterou stojí za to říct: ztrácí se imunitní tolerance vůči vlastní střevní mikroflóře.** **Střevo je normálně plné bakterií a imunita je „ignoruje" — u geneticky predisponovaného člověka na ně ale začne reagovat, jako by to byli útočníci.** **Není to tedy infekce, je to chybná reakce na normální osídlení.**
+⚠️ **A odtud přímo plyne, že antibiotika nemají smysl a podávají se jen při hnisavých perianálních komplikacích** — bakterie nejsou příčina, jsou jen záminka.
+**Logika léčby má tři patra a stojí za to ji říct jako celek:**
+- ⚠️ **Aminosalicyláty = základ, dlouhodobé držení. Lék první volby u ulcerózní kolitidy.**
+- ⚠️ **Kortikoidy = rychlé uhašení vzplanutí. Navodí remisi za dny, ale k dlouhodobému užívání se nehodí** kvůli nežádoucím účinkům.
+- ⚠️ **Imunosupresiva = udržení remise. Nastupují pomalu (3–6 měsíců), zato se dají brát dlouho.**
+**Kortikoid je tedy hasicí přístroj, aminosalicylát a imunosupresivum jsou prevence.**
+⚠️ **Nejelegantnější detail celé otázky, a rozhodně ho řekni — jak se aminosalicylát dostane přesně tam, kde má působit:** **mesalazin je účinná látka, ale kdyby se podal sám, vstřebal by se hned v tenkém střevě a do tlustého by nedošel.** **Proto se spojí AZOSKUPINOU do většího celku (sulfasalazin).** ⚠️ **A tuhle azoskupinu dokážou rozštípnout jedině BAKTERIE tlustého střeva — nikde jinde v těle takový enzym není.** **Lék tedy projde nedotčený až do tlustého střeva a teprve tam se aktivuje.** **Je to chytré cílení, které využívá vlastní mikroflóru jako spouštěč.**
+**Budesonid s řízeným uvolňováním** je stejná myšlenka z jiné strany: ⚠️ **je to kortikoid, který se sice vstřebá, ale játra ho při prvním průchodu z velké části zlikvidují (obrovský first-pass efekt, viz obecka O18).** **Ve střevě tedy působí naplno, ale do těla se ho dostane málo → srovnatelný účinek, výrazně méně systémových nežádoucích účinků.**
+**Azathioprin a 6-merkaptopurin** jsou **thiopurinová analoga — napodobují stavební kameny DNA a tím blokují syntézu purinů**, takže se rychle se dělící imunitní buňky nemohou množit. ⚠️ *Odbourává je enzym **TPMT**, u kterého existuje polymorfismus — viz obecka O26. Proto se před nasazením testuje.*
+
 🔑 **Crohn = celá stěna, skip léze, kdekoli. Kolitida = jen sliznice, od rekta, souvisle.**
 ⚠️ **Azoskupinu štěpí až bakterie tlustého střeva** — proto se aminosalicylát uvolní přesně tam, kde je zánět.
 
@@ -462,7 +567,27 @@ Indikacemi jsou **tišení bolesti a tlumení spasmů trávicího a urogenitáln
 
 A tady je pointa: **kontraindikace i nežádoucí účinky vycházejí z jediné věci — z parasympatolytického působení.** Když si to odvodíš, nemusíš je memorovat.“
 
-🔑 **Neurotropní = blokuj nerv. Muskulotropní = uvolni přímo sval.**
+💬 **Ať to dává smysl**
+**Spasmus** = **křeč hladké svaloviny.** **Kolika** = **vlnovitá, krutá bolest, která přichází v návalech** — vzniká, když se dutý orgán snaží protlačit něco, co neprojde (kámen ve žlučovodu nebo v močovodu).
+⚠️ **Věta, kterou zdroj zdůrazňuje a která odliší dobrou odpověď: spasmolytika neovlivňují hladkou svalovinu CÉV a BRONCHŮ.** **Působí selektivně na duté orgány trávicího a močového ústrojí** — proto **nesnižují tlak ani neroztahují průdušky.** *(Výjimkou jsou muskulotropní, viz níž.)*
+⚠️ **Dělení je vlastně jen o tom, KDE se do stahu zasáhne — a jsou dvě možnosti:**
+- **Neurotropní = přeruš POVEL.** Sval se stahuje na příkaz parasympatiku. **Zablokuješ muskarinový receptor a povel nedorazí.** ⚠️ **Jsou to tedy v podstatě parasympatolytika ze Specky I, otázky 39.**
+- **Muskulotropní = umlč SVAL SAMOTNÝ.** Nezajímá je, jaký povel přišel — **působí přímo uvnitř svalové buňky.** ⚠️ **A protože sahají na sval jako takový, na rozdíl od neurotropních uvolní i svalovinu cév.**
+**Papaverinový typ (drotaverin, pitofenon)** funguje **inhibicí fosfodiesterázy → zvýší se cAMP → sval povolí.** ⚠️ **Je to úplně stejný mechanismus jako u sildenafilu a u teofylinu** (viz Specka I, otázka 71 a otázka 96) — **jen v jiném orgánu.** *(Papaverin sám je alkaloid opia, ale nemá euforický ani analgetický účinek — nepatří tedy mezi opioidy funkčně.)*
+**Blokátory kalciového kanálu (pinaverin)** — logické: **vápník je to, co stah spouští** (viz Specka I, otázka 70). Zablokuješ ho → sval se nestáhne.
+**Spasmoanalgetika** kombinují spasmolytikum s analgetikem — ⚠️ **a u koliky to dává velký smysl: uvolníš křeč A ZÁROVEŇ utlumíš bolest.** Patří sem **metamizol** *(který má sám o sobě spasmolytický účinek — viz Specka I, otázka 63)*, **pethidin a tramadol.**
+⚠️ **A tady je pointa celé otázky, kterou stojí za to říct nahlas: kontraindikace ani nežádoucí účinky spasmolytik se nemusíš učit — všechny plynou z jediné věci, z PARASYMPATOLYTICKÉHO působení.**
+**Projdi si to a odvoď si to sama** (je to přesně anticholinergní syndrom ze Specky I, otázky 39):
+- **Glaukom s úzkým úhlem** — mydriáza ucpe odtok komorové vody.
+- **Hypertrofie prostaty** — retence moči.
+- **Tachykardie** — parasympatikus srdce brzdí, tak ho odbrzdíš.
+- **Atonie střev** — a v krajním případě **toxické megakolon nebo paralytický ileus**, protože střevo zastavíš úplně.
+- **Poruchy akomodace** — ochrnutí ciliárního svalu.
+- ⚠️ **A sucho v ústech** — což je pro tebe zubařsky relevantní u pacientů, kteří berou butylskopolamin dlouhodobě.
+**Dumping syndrom** mezi indikacemi = **stav po operaci žaludku, kdy potrava propadne do tenkého střeva příliš rychle** a vyvolá křeče, průjem a slabost.
+
+🔑 **Neurotropní = přeruš povel. Muskulotropní = umlč sval.**
+⚠️ **Kontraindikace jsou přesně ty anticholinergní** — glaukom, prostata, střevní atonie, tachykardie.
 ⚠️ **Kontraindikace jsou přesně ty anticholinergní** — glaukom, prostata, střevní atonie.
 
 ---
@@ -485,5 +610,24 @@ Indikacemi jsou stavy **po cholecystektomii, po operacích žlučových cest a b
 
 **Žlučové kameny vznikají při hypersaturaci žluči cholesterolem a volným bilirubinem**; terapeuticky se proto snižuje tvorba cholesterolu.“
 
+💬 **Ať to dává smysl**
+⚠️ **Otázku otevři upřímně, protože to říká sám zdroj: hepatoprotektiva jsou málo toxická, ale s NÍZKÝM PŘÍNOSEM a MINIMÁLNÍM prokázaným účinkem.** **Řekni to nahlas** — ukazuje to, že **rozlišuješ mezi tím, co se běžně předepisuje, a tím, co je doložené studiemi.** *(Je to stejný typ kritického postoje jako u Ginkgo biloba v Specce I, otázce 59.)*
+**Steatohepatitida** = *steatos* tuk + *hepar* játra + *-itis* zánět → **ztukovatělá a zanícená játra.** ⚠️ **Je to nespecifická reakce — játra na většinu poškození reagují stejně, ať už je příčinou alkohol, virus, metabolický syndrom nebo lék.**
+- **Alkoholická** — z alkoholu.
+- **Nealkoholická (NAFLD/NASH)** — ⚠️ **dnes nejčastější jaterní onemocnění vůbec, protože souvisí s obezitou a diabetem 2. typu.** *[obecné znalosti]*
+**Dvě komplikace, které se z toho vyvinou:**
+- ⚠️ **Portální hypertenze** — jaterní tkáň se přestaví jizvami, **krev z portální žíly neprojde játry** a hledá si obchvat. **Vzniknou jícnové varixy, které mohou masivně krvácet, a ascites.** *[obecné znalosti]*
+- ⚠️ **Jaterní encefalopatie** — poškozená játra **neodbourají amoniak** ze střeva, ten se dostane do mozku a **způsobí zmatenost, třes až kóma.**
+⚠️ **A tady je nejlepší farmakologická věc v otázce, protože je to přímá aplikace IONTOVÉ PASTI z obecky O10 — vysvětli to, ne odříkej:**
+**Laktulóza projde nestrávená do tlustého střeva, kde ji bakterie rozloží na kyseliny → obsah střeva se OKYSELÍ.** **A v kyselém prostředí se z neionizovaného amoniaku (NH₃) stane amonný KATION (NH₄⁺).** ⚠️ **Nabitá částice se přes střevní stěnu nevstřebá — zůstane uvězněná ve střevě a odejde stolicí.** **Amoniak se tedy nezničí; jen se mu zabrání dostat se do krve.** *(Druhá složka léčby je rifaximin, který amoniak produkující bakterie vyhubí — viz otázka 89.)*
+**Silymarin z ostropestřce mariánského** — **směs flavonoidů s antioxidačním účinkem.** ⚠️ **Je to nejprodávanější hepatoprotektivum a zároveň to, u kterého je důkazů nejméně.** Používá se u alkoholického a toxického poškození a u hepatitid. *(Jedinou situací s doloženým účinkem je otrava muchomůrkou zelenou. — [obecné znalosti])*
+**Esenciální fosfolipidy** = **nenasycené mastné kyseliny, které se zabudují do membrán jaterních buněk** a mají urychlit regeneraci organel.
+**Cholagoga** = **látky zvyšující tvorbu a odtok žluči** (*cholé* = žluč, *agogos* = vedoucí). ⚠️ **Dělí se podle toho, CO zvyšují: choleretika zvyšují množství a řídkost žluči (víc vody), cholecystokinetika vyprazdňují žlučník a žlučovody.**
+⚠️ **Kyselina ursodeoxycholová je z celé otázky nejužitečnější a má hned čtyři účinky, které plynou z jediné věci: je to HYDROFILNÍ žlučová kyselina.**
+**Vysvětlení:** normální žlučové kyseliny jsou spíš **lipofilní a v nadbytku poškozují buněčné membrány** žlučovodů a jater. **Ursodeoxycholová kyselina jejich podíl ve žluči ZŘEDÍ a nahradí šetrnější formou** → **žluč přestane žrát epitel.** **Odtud plyne účinek cholagogický, hepatoprotektivní, protizánětlivý i litolytický** *(litolytický = rozpouštějící kameny)*.
+**Kyselina obeticholová** naopak **sníží samotnou produkci žlučových kyselin a bilirubinu.**
+**Žlučové kameny** vznikají, když **je žluč přesycená cholesterolem nebo volným bilirubinem** — cholesterol se z ní vysráží jako krystalky, protože se v ní už nemá jak rozpustit. ⚠️ **Proto se terapeuticky snižuje tvorba cholesterolu a zvyšuje podíl žlučových kyselin, které ho drží v roztoku.**
+
 🔑 **Laktulóza u encefalopatie = iontová past ve střevě.** Amoniak se ionizuje a nevstřebá.
+⚠️ **Zdroj sám přiznává, že hepatoprotektiva mají minimální prokázaný účinek.** Řekni to — je to znak kritického čtení.
 ⚠️ **Zdroj sám přiznává, že hepatoprotektiva mají minimální prokázaný účinek.** Řekni to — je to znak kritického čtení.
