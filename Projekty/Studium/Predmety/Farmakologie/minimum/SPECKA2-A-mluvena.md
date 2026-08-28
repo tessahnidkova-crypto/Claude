@@ -1,0 +1,357 @@
+# MINIMUM MLUVENÉ — Speciální farmakologie II, část A (otázky 89–103)
+
+> **Text v uvozovkách je souvislá odpověď, kterou u zkoušky řekneš nahlas.**
+> 🔑 = na čem to udržíš v hlavě · ⚠️ = past, na kterou se chytá
+
+---
+
+## 89 · Chemoterapeutika močových a střevních infekcí
+
+„Tahle skupina se dělí podle toho, **kde má léčivo působit — v močových cestách, nebo ve střevě**. Spojuje je jedna společná vlastnost: **většina z nich se buď nevstřebává, nebo se koncentruje jen v cílovém orgánu**, takže působí lokálně a nezatěžuje zbytek těla.
+
+**Z močových chemoterapeutik je nejdůležitější nitrofurantoin.** Je **lékem první volby u nekomplikované močové infekce** — má sice horší snášenlivost a pomalejší nástup, ale zásadní výhodou je **velmi nízká rezistence u Escherichia coli**. Farmakokineticky je zajímavý tím, že **není distribuován systémově a terapeutických hladin dosahuje pouze v moči** — proto se hodí i k profylaxi. **Kontraindikací je těhotenství, děti do tří měsíců a renální selhání.**
+
+**Fosfomycin je širokospektré baktericidní léčivo, které inhibuje syntézu buněčné stěny.** Vstřebává se ze čtyřiceti až šedesáti procent, přičemž **jídlo vstřebávání zpomaluje**. Je **opět na vzestupu právě kvůli multirezistentním kmenům**.
+
+Dále sem patří **ko-trimoxazol a pivmecilinam**.
+
+**Ze střevních chemoterapeutik je nejvýznamnější rifaximin**, který se **z trávicího traktu prakticky nevstřebává**, a proto působí čistě lokálně. Kromě střevních infekcí je **součástí kombinační terapie jaterní encefalopatie**. Dále sem patří **chloroxin a nifuroxazid**, používané u infekčních průjmů, a **fidaxomicin, nové baktericidní antibiotikum s lokálním účinkem proti Clostridium difficile**.
+
+Za zmínku stojí i **chloramfenikol** — má široké spektrum a výbornou kinetiku, ale **jeho indikace jsou omezeny kvůli ireverzibilní aplastické anemii**, a proto je dnes nahraditelný.
+
+**Střevní antiinfektiva jsou pojmem nadřazeným antiseptikům a dezinficienciím**; v širším smyslu sem patří i antibiotika podávaná u střevních infekcí bez znalosti etiologie — **fluorochinolony, ko-trimoxazol a makrolidy**.“
+
+🔑 **Nitrofurantoin je jen v moči, rifaximin jen ve střevě.** Oba působí tam, kam se dostanou — a nikde jinde.
+⚠️ **Ko-trimoxazol často nepůsobí na Campylobacter jejuni** — na ten jsou makrolidy.
+
+---
+
+## 90 · Antiparazitika
+
+„Základní zásadou je, že **terapie se zahajuje výhradně na základě parazitologického vyšetření a cíleně podle konkrétního agens** — nikdy naslepo.
+
+Je potřeba vysvětlit, **proč je antiparazitární léčba obtížná**. Hlavní důvod je ten, že **parazité jsou eukaryota, tedy organismy podobnější vyšším živočichům než bakterie — a proto je léčba často toxická i pro hostitele**. Situaci dále komplikuje **chronický průběh, složité životní cykly a různá vývojová stadia**, na která jedno léčivo nemusí působit.
+
+Praktickým problémem v České republice je, že **parazitárních infekcí je u nás minimum, a proto je řada léků obtížně dostupná**. Pokud registrovaný lék k dispozici není, **smí lékař mimořádně předepsat neregistrovaný přípravek, pokud je registrovaný v zahraničí**.
+
+Ohroženi jsou **v rozvinutých zemích především imunosuprimovaní pacienti**, v rozvojových zemích pak lidé s **mnohočetnými infekcemi, špatnou výživou, AIDS a nedostatečnou hygienou**.
+
+**Antihelmintika** se dělí podle chemické struktury. **Benzimidazoly, tedy mebendazol a albendazol, působí na háďátka a tasemnice** — a **mebendazol je jediný, který je v České republice registrován a předepisován na střevní hlísty**. Dále **pyrantel pamoát na škrkavky a roupy, ivermektin na filárie a praziquantel na motolice a tasemnice**.
+
+**Antiprotozoika** jsou zaměřena hlavně na malárii. Patří sem **aminochinoliny, tedy chlorochin a chinin**; **antagonisté kyseliny listové, tedy sulfonamidy a pyrimethamin, které se používají i u toxoplazmózy**; některá **antibiotika, jako klindamycin, spiramycin a tetracykliny**; **amfotericin B na améby**; a **artemisinin, což je seskviterpen získávaný z pelyňku**. U trypanosomiázy a leishmaniózy se stále používají **těžké kovy — soli antimonu a melarsoprol**.“
+
+🔑 **Parazit je eukaryot jako my — proto je léčba toxická.** Tohle je jádro celé otázky.
+⚠️ **V ČR se na střevní hlísty předepisuje mebendazol.**
+
+---
+
+## 91 · Antituberkulotika a antileprotika
+
+„Otázku otevřu **zásadami antimykobakteriální léčby**, protože z nich plyne všechno ostatní.
+
+**Léčba je vždy dlouhodobá a vždy kombinovaná — začíná se čtyřmi až pěti preparáty, později se přechází na tři a doléčuje se dvěma.** Důvod je dvojí: **zastihnout všechny růstové fáze mykobakterií a předejít vzniku rezistence**. Léčba je **v rukou pneumologů, je kontrolovaná a ze zákona povinná**.
+
+**Základních léčiv je pět.**
+
+**Izoniazid je proléčivo, které aktivují samotné mykobakterie**; jeho slabinou je, že na něj **snadno vzniká rezistence**.
+
+**Rifampicin je baktericidní na většinu mykobakterií včetně atypických** a jeho velkou výhodou je, že **proniká i do míst špatně dostupných — do abscesů a plicních kaveren**. Pozor na to, že je to **silný induktor cytochromu P450**, a proto má četné lékové interakce.
+
+**Streptomycin je aminoglykosid, a proto je ototoxický a nefrotoxický** — riziko stoupá s věkem kvůli snížené glomerulární filtraci.
+
+**Etambutol je bakteriostatický a působí jen na množící se buňky.** A **pyrazinamid je baktericidní proléčivo, jehož mechanismus účinku není zcela jasný**.
+
+Při rezistenci nebo selhání se používá **náhradní léčba: klarithromycin, amikacin, kanamycin a fluorochinolony**.
+
+Vděčnou částí otázky jsou **čtyři stupně rezistence**. **Monorezistentní kmen je rezistentní na jedno základní antituberkulotikum. Polyrezistentní na více než jedno, ale ne současně na izoniazid a rifampicin. Multirezistentní, tedy MDR, je rezistentní současně na izoniazid a rifampicin. A extenzivně rezistentní, tedy XDR, navíc i na náhradní léčbu.**
+
+**Klíčem k celému dělení je tedy dvojice izoniazid plus rifampicin** — ta tvoří hranici mezi poly- a multirezistencí.
+
+**Lepru vyvolává Mycobacterium leprae** a léčí se **dapsonem v kombinaci s rifampicinem**. **Dapson je hematotoxický a zasahuje do metabolismu kyseliny listové**; u rezistentních forem se používá **klofazimin**.“
+
+🔑 **Hranice mezi poly- a multirezistencí je dvojice izoniazid + rifampicin.**
+⚠️ **Rifampicin je silný induktor** — proto rozbije antikoncepci, warfarin i antiretrovirotika.
+
+---
+
+## 92 · Antimykotika
+
+„Nejdřív stojí za to vysvětlit, **proč mykotických onemocnění přibývá**. Jsou dva důvody a oba jsou jatrogenní: **užívání širokospektrých antibiotik, která zničí saprofytickou flóru, a užívání léků zasahujících do imunitních reakcí — imunosupresiv a cytostatik.**
+
+Antimykotika zasahují **buněčnou stěnu nebo nukleové kyseliny** a působí buď fungistaticky, nebo fungicidně. **Rezistence na ně vzniká pomalu.**
+
+**Mechanismy jsou čtyři: inhibice syntézy ergosterolu, vazba na ergosterol s porušením integrity membrány, inhibice syntézy beta-glukanu, a inhibice syntézy DNA.**
+
+Ze **systémových antimykotik** jsou tři hlavní skupiny.
+
+**Polyeny se vážou na ergosterol.** Zástupcem je **amfotericin B, zlatý standard pro aspergilové infekce**, podávaný nitrožilně; je ale **hepatotoxický a nefrotoxický** a jeho nežádoucími účinky jsou horečka, zvracení a bolesti svalů a kloubů.
+
+**Azoly narušují syntézu ergosterolu a jsou největší a nejpoužívanější skupinou**; mají ale **významné lékové interakce**. **Flukonazol prostupuje hematoencefalickou bariérou** a používá se u kvasinek a kryptokokových meningitid — je ale **teratogenní**. **Itrakonazol má navíc záběr na aspergily a dermatofyta, ale k léčbě závažné aspergilózy je nevhodný — používá se jen profylakticky.** A **vorikonazol je lékem volby pro aspergilové infekce**.
+
+**Echinokandiny, tedy kaspofungin a další, jsou nejnovější skupinou a narušují syntézu beta-D-glukanu.** Jsou dobře snášené a jsou **první volbou u invazivní kandidózy**. Pozor ale na to, že **nepůsobí na kryptokoky a zygomycety, nepronikají hematoencefalickou bariérou a podávají se jen nitrožilně**.
+
+Z **lokálních antimykotik** jsou to **azoly — ekonazol, klotrimazol a mikonazol** — používané u dermatomykóz a kožních i orofaryngeálních kandidóz. Z neazolových je to **nystatin, který působí pouze proti kandidám**, a **amorolfin a cyklopirox ve formě laku na nehty u onychomykóz**.
+
+A na závěr věta, kterou zdroj zdůrazňuje: **léčba mykóz musí být vždy doplněna prevencí reinfekce** — péčí o obuv a osobní hygienu.“
+
+🔑 **Ergosterol je „houbový cholesterol"** — je ve stěně houby, ale ne v naší. Proto je to dobrý cíl.
+⚠️ **Vorikonazol = aspergilus. Echinokandin = kandida. Nystatin = jen kandidy a jen lokálně.**
+
+---
+
+## 93 · Antivirotika
+
+„Viry jsou nejmenší živé částice — obsahují **jen kapsidu a nukleovou kyselinu**, vniknou do hostitelské buňky, replikují se a uvolní nové viriony.
+
+Hned na začátku je potřeba říct, že **antivirotika mají velmi omezené spektrum léčitelných infekcí** a že **řada virových onemocnění je u imunokompetentního člověka samoúzdravná** — chřipka, plané neštovice, herpetické infekce.
+
+Proto je zásadní rozlišit, **kdy vůbec léčíme. Vždy se léčí HIV, hepatitida B a hepatitida C. Podle klinického a imunitního stavu pak cytomegalovirus, herpes simplex, varicella zoster, chřipka A, RSV a covid.**
+
+**U hepatitidy C**, což je RNA virus, se **od roku 2011 používají látky s přímým antivirovým účinkem**, které inhibují jeden ze tří klíčových enzymů replikačního cyklu. **Fixní kombinace sofosbuvir a velpatasvir vede k vyléčení u více než sedmadevadesáti procent nemocných** — to je jeden z největších úspěchů moderní farmakoterapie.
+
+**Hepatitida B se na rozdíl od hepatitidy C přepisuje do DNA, která se může integrovat do chromozomální DNA hostitele.** Proto **není vyléčitelná — cílem je jen dlouhodobá suprese replikace**. Základním léčivem je **tenofovir, který inhibuje reverzní transkriptázu**.
+
+Z **antiherpetik** je základem **aciklovir**. Tady je učebnicový příklad proléčiva: **aciklovir má perorální biologickou dostupnost jen deset až třicet procent, a proto se podává jako valaciklovir, čímž dostupnost stoupne na sedmdesát procent.** Používá se u herpes simplex a varicella zoster, hlavně u imunodeficientních pacientů. **Na cytomegalovirus účinný není — na ten je ganciklovir a foskarnet.**
+
+**U chřipky se používají inhibitory neuraminidázy** — a je dobré vysvětlit proč: **neuraminidáza je enzym nezbytný pro uvolnění virových částic z infikované buňky**. Působí na typ A i B. **Oseltamivir je proléčivo podávané perorálně, zanamivir se podává inhalačně a je kontraindikován u astmatu a CHOPN.**
+
+Nakonec **ribavirin, syntetický guanosinový analog**, který brání syntéze virové RNA. Používá se v kombinaci s interferony u hepatitidy C a u RSV. Je ale **teratogenní a mutagenní** a způsobuje **hemolytickou anemii, pankreatitidu a deprese**.“
+
+🔑 **Valaciklovir je aciklovir s lepší dostupností** — z 10–30 % na 70 %. Učebnicové proléčivo.
+⚠️ **Hepatitida C se dá vyléčit, hepatitida B ne** — protože se integruje do DNA hostitele.
+
+---
+
+## 94 · Antiretrovirotika
+
+„**HIV je retrovirus, který vyvolává získaný imunodeficientní syndrom, tedy AIDS.** Rozlišujeme **HIV-1, rozšířený po celém světě, a HIV-2, který se vyskytuje v západní Africe**.
+
+**Patogeneze spočívá v tom, že virus infikuje T-lymfocyty CD4 a postupně snižuje jejich počet**, čímž omezuje imunitní reakce. Pacient je pak ohrožen **oportunními infekcemi a malignitami**. Díky léčbě je to dnes **chronické onemocnění a pacienti přežívají řadu let**.
+
+Dvě věty, které musí zaznít: **cílem antiretrovirotik je potlačit mechanismy replikace viru — nevedou tedy k jeho eradikaci.** A **mechanismem účinku je inhibice HIV reverzní transkriptázy a proteázy**.
+
+**Léčba se zahajuje při poklesu CD4 lymfocytů pod tři sta padesát na milimetr krychlový.**
+
+Podává se **vždy v kombinaci několika preparátů z různých skupin** — ze stejného důvodu jako u tuberkulózy: aby se předešlo vzniku rezistence. Pravděpodobnost, že jeden virus získá současně mutace proti třem různým mechanismům, je řádově menší než u monoterapie.“
+
+🔑 **Antiretrovirotika virus nevyhubí — jen ho udrží pod kontrolou.**
+⚠️ **Léčba se zahajuje pod 350 CD4 buněk na mm³.**
+
+---
+
+## 95 · Antitusika, mukolytika, expektorancia
+
+„**Kašel je nejčastějším příznakem onemocnění dýchacích cest** a vzniká **podrážděním tusigenních zón** — ty se nacházejí nejen v dolních cestách dýchacích, ale i na **pleuře, bránici, perikardu, v jícnu a ve zevním zvukovodu**. Až na výjimky je to tedy **symptom se širokou škálou příčin**, ne nemoc sama.
+
+**Podle trvání dělíme kašel na akutní do dvou až tří týdnů, subakutní tři až osm týdnů a chronický nad osm týdnů.** Nejdůležitější je ale **dělení podle povahy, protože z něj plyne celá léčba: neproduktivní, tedy suchý kašel se tlumí antitusiky, zatímco produktivní, tedy vlhký kašel se řeší mukolytiky a expektorancii.**
+
+**Kašel má tři fáze: hluboký nádech, kompresivní fázi, kdy pacient vydechuje proti uzavřeným hlasivkám, a explozivní fázi, kdy se hlasivky otevřou, prudce naroste rychlost proudění a odstraní se hlen nebo cizí těleso.**
+
+**Antitusika** se dělí na kodeinová a nekodeinová. **Kodein tlumí reflexní oblouk kašle inhibicí neuronální aktivity v prodloužené míše** a působí přes **opioidní mí receptory**; zajímavé je, že **přestože je to opioid, vydává se na běžný recept**. **Dextrometorfan na rozdíl od kodeinu nemá analgetický účinek** a bývá **zneužíván jako psychoaktivní látka**.
+
+**Nekodeinová antitusika jsou slabší, ale netlumí dechové centrum a nevzniká na ně návyk** — patří sem **butamirát, který je volně prodejný a vhodný i pro kojence**. **Periferně působící antitusika, tedy dropropizin a levodropropizin**, tlumí dráždivost sliznice a používají se i před bronchoskopií.
+
+**Mukolytika snižují viskozitu a elasticitu hlenu** — hlavním zástupcem je **N-acetylcystein**, dále bromhexin. **Expektorancia naopak zvyšují sekreci bronchiálních žláz a tvorbu řídkého hlenu** — zástupcem je **guaifenesin**.
+
+Za zmínku stojí, že **N-acetylcystein je zároveň prekurzorem glutathionu, antioxidantem a antidotem při otravě paracetamolem.**
+
+A nakonec praktická věta: **kodein se nesmí podávat současně s mukolytiky a expektorancii** — potlačil bys vykašlávání hlenu, který zároveň uvolňuješ.“
+
+🔑 **Suchý kašel tlum, vlhký kašel rozpusť.** Nikdy obojí najednou.
+⚠️ **Kodein se metabolizuje na morfin přes CYP2D6** — proto se nepodává dětem do 12 let.
+
+---
+
+## 96 · Antiastmatika
+
+„Celou otázku je nejlepší otevřít větou, na kterou se dá pověsit všechno ostatní: **léčba nemocí s bronchiální obstrukcí má dvě odlišné role — úlevovou, která tlumí bronchokonstrikci, a kontrolující, která tlumí zánět.** A **pacient musí mít vždy u sebe záchrannou, tedy úlevovou medikaci.**
+
+Rozdíl mezi astmatem a CHOPN: **astma je neinfekční chronické zánětlivé onemocnění dýchacích cest s reverzibilní obstrukcí, v dětství většinou na alergickém podkladě. CHOPN má obstrukci, která není plně reverzibilní a progreduje — dochází k přestavbě sklípků a praskání sept — a nejčastější příčinou je kouření.** U CHOPN navíc hrozí **bronchogenní karcinom a pravostranné srdeční selhání**.
+
+Zásadní je, že **u astmatu je zánět v dýchacích cestách přítomný i bez klinických příznaků** — proto se léčí i mezi záchvaty.
+
+**Astma se klasifikuje podle frekvence příznaků a spirometrie na intermitentní, kde jsou příznaky maximálně jednou týdně a spirometrie je mezi záchvaty normální; perzistující lehké s hodnotou nad osmdesát procent; perzistující středně těžké se šedesáti až osmdesáti procenty; a perzistující těžké pod šedesát procent s trvalou obstrukcí.**
+
+Z **bronchodilatancií** jsou nejdůležitější **beta dva agonisté**. Dělí se podle nástupu a délky účinku na **SABA s účinkem čtyři hodiny — salbutamol, fenoterol, terbutalin, které se používají při akutním záchvatu; LABA s účinkem dvanáct hodin — formoterol s rychlým nástupem a salmeterol s pomalým; a ultra-LABA s účinkem čtyřiadvacet hodin**. Nežádoucími účinky jsou **třes kosterního svalstva, tachykardie a hypokalemie**.
+
+Dále **anticholinergika, dělená na SAMA — ipratropium, LAMA a ultra-LAMA — tiotropium**; jejich nežádoucí účinky jsou anticholinergní, tedy **suchost v ústech, poruchy chuti a zhoršení glaukomu**.
+
+A **xantiny, tedy teofylin a aminofylin**, které působí **nespecifickou inhibicí fosfodiesteráz se zvýšením cAMP** a jsou zároveň antagonisty adenosinových receptorů; používají se **aditivně u těžšího astmatu a CHOPN**.
+
+**Kontrolující léčbu představují především kortikosteroidy — jsou indikovány u všech pacientů s perzistujícím astmatem** a inhalační forma je **lékem první volby**. Zde je potřeba znát past: **kortikosteroidy jsou život zachraňující při status asthmaticus, ale samotnému záchvatu nezabrání**, protože jejich nástup trvá hodiny.
+
+Doplňkově se používají **antileukotrieny, v České republice montelukast**, dále **anti-IgE protilátka omalizumab u IgE mediovaného astmatu** a **inhibitor fosfodiesterázy 4 roflumilast u těžké CHOPN**.“
+
+🔑 **Úlevová léčba otevírá bronchus, kontrolující tlumí zánět.** Astmatik potřebuje obojí a nesmí je zaměnit.
+⚠️ **Zubařsky:** inhalační anticholinergika dělají **suchost v ústech**, inhalační kortikoidy **orofaryngeální kandidózu** — proto se **po inhalaci vyplachují ústa**.
+
+---
+
+## 97 · Antihistaminika
+
+„**Histamin je biogenní amin vznikající dekarboxylací histidinu.** Vysoké koncentrace jsou v **plicích, kůži, trávicím traktu i v mozku**. **Skladován je v zásobních granulích v komplexu s heparinem, a to v mastocytech a bazofilech; uvolňuje se exocytózou, nejčastěji při alergické reakci navázáním IgE na povrch mastocytu.**
+
+Působí přes receptory. **Receptor H1 je na endotelu cév, hladké svalovině a nervových zakončeních a signalizuje přes fosfolipázu C, IP3 a DAG se zvýšením intracelulárního vápníku. Receptor H2 je na žaludeční sliznici a signalizuje přes zvýšení cyklického AMP.**
+
+Věta, která odliší dobrou odpověď: **antihistaminika nejsou prostí antagonisté — jde o inverzní agonismus.** Váží se totiž na **neaktivní konformaci receptoru a ponechávají ji v neaktivním stavu**, čímž snižují i bazální aktivitu.
+
+Indikacemi jsou **prevence alergické rinosinusitidy, léčba alergické konjunktivitidy, kopřivky a angioedému**, dále **podání společně s adrenalinem při anafylaktické reakci** a **premedikace před výkony** s možným výskytem alergických reakcí.
+
+Jádrem otázky je **rozdíl mezi první a druhou generací**.
+
+**Antihistaminika první generace prostupují hematoencefalickou bariérou, a proto jsou sedativní** — což se dnes dokonce využívá záměrně. Jsou navíc **neselektivní, blokují i cholinergní, muskarinové, serotoninové a dopaminové receptory**, a mají **krátkou vazbu, takže se podávají dvakrát až třikrát denně**. Patří sem **prometazin, hydroxyzin a moxastin-teoklát**, který se používá jako antiemetikum. Jejich nežádoucí účinky jsou **sedace, poruchy soustředění a antimuskarinový efekt s vysušením sliznic a zahuštěním hlenu**.
+
+**Antihistaminika druhé generace prostupují bariérou jen v menší míře, a proto jsou nesedativní**, jsou **selektivní** a mají **delší dobu účinku**. Patří sem **cetirizin, levocetirizin, desloratadin a fexofenadin**.“
+
+🔑 **První generace jde do mozku a blokuje všechno. Druhá zůstává na periferii a blokuje jen H1.**
+⚠️ **Antihistaminikum u anafylaxe není lék první volby** — tím je adrenalin. Antihistaminikum se přidává.
+
+---
+
+## 98 · Laxativa, antidiaroika
+
+„U zácpy je potřeba začít poctivě: **nejčastější příčinou je nedostatek pohybu, nedostatek tekutin a málo vlákniny — a proto je základem terapie režimové opatření, ne léky.** Laxativa se celkově nedoporučují, přestože jsou často volně prodejná, a navíc **mohou způsobovat interakce na úrovni absorpce**.
+
+Rozlišujeme **pět typů laxativ**.
+
+**Objemová obsahují nestravitelné polysacharidy, které zvětší objem stolice a tím vyvolají defekační reflex** — zástupcem je **psyllium**. Je nutné k nim **doplnit tekutiny**, jinak zácpu naopak zhorší.
+
+**Změkčující stolici** jsou nevstřebatelné uhlovodíky, například tekutý parafín — ten se ale v praxi nepoužívá.
+
+**Salinická laxativa jsou nevstřebatelné soli, které zadržují vodu, ředí střevní obsah a dráždí sliznici** — síran sodný a hořečnatý.
+
+**Osmotická laxativa** představuje především **laktulóza**, která **snižuje pH střevního obsahu, mění bakteriální osídlení a váže vodu**. Dále **glycerol a sorbitol ve formě čípků, které účinkují do půl hodiny** a slouží k obnovení defekačního reflexu.
+
+**Laxativa zvyšující motilitu** působí dráždivě a **zdroj je výslovně nedoporučuje**.
+
+Za zmínku stojí, že **laktulóza má dvojí využití — jako projímadlo a v terapii jaterní encefalopatie**, protože acidifikuje obsah tlustého střeva a mění neionizovaný amoniak na amonný kation, který se nevstřebá.
+
+**Průjem je definován jako vyprazdňování řídké, neformované stolice častěji než třikrát denně.** Důležité je, že **řada léků průjem vyvolává jako nežádoucí účinek** — širokospektrá antibiotika, nesteroidní antiflogistika, chemoterapeutika a projímadla.
+
+Základem terapie je **doplňování tekutin**. Z léčiv jsou tři skupiny. **Střevní adsorbencia, tedy aktivní uhlí a diosmektit, vážou léčiva, toxiny a přebytečnou vodu**; u aktivního uhlí je nutné pacienta upozornit na černou stolici. **Střevní antiseptika, tedy chloroxin, nifuroxazid a rifaximin**, se používají typicky u cestovatelských průjmů. A **obstipancia, především loperamid, působí přes periferní mí-opioidní receptory — zvyšují tonus svěračů a prodlužují pasáž**.
+
+A na závěr důležité varování: **obstipancia se nesmějí použít u infekčních průjmů — a ani tehdy, když nevíme, z čeho průjem je.** Zadržel bys patogen ve střevě.“
+
+🔑 **Laktulóza dvakrát: projímadlo a jaterní encefalopatie.** Obojí přes stejnou acidifikaci střeva.
+⚠️ **Loperamid je opioid, který působí jen ve střevě** — proto zpomalí pasáž, ale netlumí dech.
+
+---
+
+## 99 · Farmakoterapie vředové choroby a GERD
+
+„**Vředová choroba je slizniční defekt přesahující pod muscularis mucosae v dosahu kyselé žaludeční sekrece.**
+
+Dělí se na **primární, kde je příčinou Helicobacter pylori, a sekundární**, kde jsou příčinou **nesteroidní antiflogistika, stresové vředy u kriticky nemocných, endokrinní poruchy nebo vážné komorbidity**.
+
+Klinicky se projeví **dyspeptickými potížemi** a je tu jedno rozlišení, na které se ptají skoro vždy: **vřed v žaludku bolí po jídle, zatímco vřed v duodenu bolí na lačno a po jídle se uleví.**
+
+**Komplikacemi jsou krvácení, perforace, penetrace do okolních orgánů, stenóza z jizvení a vznik nádorového bujení.**
+
+**Helicobacter pylori je bičíkatá gramnegativní tyčinka produkující ureázu a cytotoxiny**, díky nimž dokáže **adherovat a přežívat v žaludeční sliznici**. Vyvolává vředovou chorobu a atrofickou gastritidu a **je klasifikován jako karcinogen**.
+
+Základem farmakoterapie je **trojkombinace — dvě antibiotika plus inhibitor protonové pumpy.**
+
+**Inhibitory protonové pumpy jsou ireverzibilní blokátory vodíko-draselné ATPázy parietálních buněk žaludku.** Jejich efekt trvá asi **šestnáct hodin** a udrží **pH žaludku nad čtyřkou**; **podávají se před jídlem**. Zástupci jsou **omeprazol, esomeprazol, lansoprazol a pantoprazol**. Nežádoucím účinkem je při dlouhodobém užívání **snížené vstřebávání hořčíku, vápníku, železa a vitaminu B12**.
+
+**K eradikaci Helicobactera se používá amoxicilin a klarithromycin po dobu čtrnácti dnů s účinností asi osmdesát procent.**“
+
+🔑 **Žaludek bolí PO jídle, duodenum NA LAČNO.**
+⚠️ **Omeprazol blokuje aktivaci klopidogrelu** — proto se u pacienta po stentu volí pantoprazol.
+
+---
+
+## 100 · Prokinetika, antiemetika, emetika
+
+„**Prokinetika jsou léčiva stimulující ochablou propulzivní peristaltiku.** Zvyšují **klidový tonus dolního jícnového svěrače** a snižují vystupňovanou peristolu.
+
+Klíčem k pochopení jejich indikací je věta, že **účinek prokinetik klesá aborálně — největší efekt tedy mají na dolní jícnový svěrač.** Proto je hlavní indikací **gastroezofageální reflux**, dále duodenogastrický reflux a **nauzea a zvracení při chemoterapii**.
+
+Zástupci: **domperidon je antagonista dopaminových D2 receptorů s nízkým průnikem do centrálního nervového systému. Metoklopramid je rovněž antagonista D2, ale je lipofilní a proniká do CNS, proto způsobuje ospalost. Cisaprid je antagonista serotoninových 5-HT4 receptorů a zvyšuje prokinetiku i v distálních částech trávicí trubice. A itoprid kombinuje antagonismus D2 s inhibicí acetylcholinesterázy.**
+
+Nežádoucími účinky jsou **ospalost, hyperprolaktinemie a poruchy srdečního rytmu**; **kontraindikací je mechanická obstrukce, krvácení nebo perforace trávicího traktu**.
+
+Druhá polovina otázky se týká zvracení a je nejlepší ji otevřít tím, že **zvracení řídí dvě centra. Vlastní centrum pro zvracení je v laterální retikulární formaci prodloužené míchy a reaguje na podněty z vestibulárního ústrojí, z nervus vagus, z vyšších center a z trávicího traktu. Chemorecepční spouštěcí zóna je v area postrema a reaguje na toxiny a emetogenní podněty v krvi.**
+
+Protože se na tom podílí **několik neurotransmiterů — dopamin, acetylcholin, histamin a serotonin — existuje i několik různých mechanismů antiemetického účinku.**
+
+**Nejsilnějším emetogenem je cisplatina**, která uvolňuje serotonin ze sliznice tenkého střeva.
+
+**Emetika jsou apomorfin, který stimuluje D2 receptory chemorecepční zóny, a emetin, který stimuluje zakončení nervus vagus.**
+
+**Antiemetika** se dělí podle receptoru. **Setrony, tedy ondansetron a granisetron, jsou antagonisté serotoninových 5-HT3 receptorů — jsou nejdůležitější a vysoce účinné, zejména u chemoterapie.** Dále **antihistaminika první generace u kinetóz**, **betahistin u vertiga a Ménièrovy choroby**, **prokinetika jako antagonisté D2** a **kanabinoidy, které se ale v České republice nepoužívají**.“
+
+🔑 **Dvě centra: jedno poslouchá nervy, druhé chemii v krvi.** Proto na zvracení funguje víc různých léků.
+⚠️ **Metoklopramid jde do mozku, domperidon ne** — proto metoklopramid dělá extrapyramidové příznaky.
+
+---
+
+## 101 · Farmakoterapie nespecifických střevních zánětů
+
+„Nejdřív je nutné odlišit obě jednotky. **Crohnova nemoc postihuje celý trávicí trakt a celou stěnu, jsou pro ni typické skip léze — tedy postižené úseky střídající se se zdravými — a časté jsou záněty anu, rekta a úst.** Klinicky se projeví bolestmi břicha, teplotou, hubnutím, průjmy, aftózními vředy, píštělemi a poruchami absorpce živin.
+
+**Ulcerózní kolitida naproti tomu postihuje pouze sliznici, začíná v rektu a šíří se orálním směrem po tlustém střevě.** Typickými příznaky jsou **tenesmy, tedy bolestivé křečovité nucení na stolici, a krvavé a hlenové průjmy**.
+
+Patogeneticky vznikají obě **v důsledku změněné reaktivity imunitního systému střeva na komenzální mikrobiální flóru u geneticky predisponovaných jedinců** — **ztrácí se tedy imunitní tolerance vůči vlastní mikroflóře**.
+
+**Cílem léčby je potlačit zánětlivé procesy**; **antibiotika se podávají pouze při hnisavých perianálních komplikacích**, ne rutinně.
+
+Léčbu je nejlepší podat **podle role jednotlivých skupin**.
+
+**Aminosalicyláty, tedy mesalazin a sulfasalazin, jsou lékem první volby u ulcerózní kolitidy a hodí se k dlouhodobé léčbě.** Působí **lokálně protizánětlivě v tlustém střevě inhibicí cyklooxygenázy a lipooxygenázy**. Zajímavý je mechanismus jejich cílení: **obsahují azoskupiny, které štěpí bakterie až v tlustém střevě — a právě proto se léčivo uvolní přesně tam, kde má působit.**
+
+**Kortikosteroidy jsou efektivní v navození remise s rychlým nástupem, ale nehodí se k dlouhodobé léčbě kvůli nežádoucím účinkům.** Topické formy, například **budesonid s řízeným uvolňováním**, mají **srovnatelný účinek jako systémové, ale výrazně méně nežádoucích účinků**.
+
+**Imunosupresiva, tedy azathioprin a 6-merkaptopurin, jsou thiopurinová analoga inhibující syntézu purinů**; mají **pomalý nástup tři až šest měsíců** a slouží k **udržení remise**.
+
+Logiku léčby se dá shrnout jednou větou: **aminosalicyláty na dlouhodobé držení, kortikoidy na rychlé navození remise, imunosupresiva na její udržení.**“
+
+🔑 **Crohn = celá stěna, skip léze, kdekoli. Kolitida = jen sliznice, od rekta, souvisle.**
+⚠️ **Azoskupinu štěpí až bakterie tlustého střeva** — proto se aminosalicylát uvolní přesně tam, kde je zánět.
+
+---
+
+## 102 · Spasmolytika
+
+„**Spasmolytika odstraňují spasmus vnitřních dutých orgánů — trávicího ústrojí, tedy biliární koliku, a urogenitálního ústrojí, tedy ledvinovou koliku.**
+
+Zdroj zdůrazňuje jednu větu: **neovlivňují hladkou svalovinu cév a bronchů.** To je důležité, protože právě tím se liší od jiných látek působících na hladké svalstvo.
+
+Dělí se na **tři skupiny**.
+
+**Neurotropní spasmolytika jsou v podstatě parasympatolytika — působí antagonismem k muskarinovým receptorům.** Patří sem **neselektivní atropin, butylskopolamin a ipratropium** a **selektivní pirenzepin**.
+
+**Muskulotropní spasmolytika působí přímo na svalovou buňku a na rozdíl od neurotropních navozují i relaxaci hladké svaloviny cév.** Zástupci **papaverinového typu působí inhibicí fosfodiesterázy se zvýšením cyklického AMP** — patří sem **drotaverin a pitofenon**; samotný papaverin je alkaloid opia bez euforického i analgetického účinku a nepoužívá se. Dále sem patří **blokátory kalciového kanálu, například pinaverin**.
+
+**Spasmoanalgetika kombinují spasmolytikum s analgetikem** — používají se **krátkodobě**, například po gynekologických operacích; patří sem **metamizol, pethidin a tramadol**.
+
+Indikacemi jsou **tišení bolesti a tlumení spasmů trávicího a urogenitálního ústrojí — dráždivý tračník, spastické stavy, flatulence a dumping syndrom**.
+
+**Kontraindikacemi jsou glaukom, atonie střev, benigní hyperplazie prostaty, tachykardie a retence moči.** Nežádoucích účinků má nejvíc **parasympatolytická skupina** — retence moči, tachykardie, zvýšení nitroočního tlaku, poruchy akomodace a v krajním případě toxické megakolon nebo paralytický ileus.
+
+A tady je pointa: **kontraindikace i nežádoucí účinky vycházejí z jediné věci — z parasympatolytického působení.** Když si to odvodíš, nemusíš je memorovat.“
+
+🔑 **Neurotropní = blokuj nerv. Muskulotropní = uvolni přímo sval.**
+⚠️ **Kontraindikace jsou přesně ty anticholinergní** — glaukom, prostata, střevní atonie.
+
+---
+
+## 103 · Hepatoprotektiva, cholagoga
+
+„Tuhle otázku je poctivé otevřít tím, jak ji hodnotí sám zdroj: **hepatoprotektiva jsou málo toxická, ale s nízkým přínosem a minimálním prokázaným účinkem.** Stojí za to to říct nahlas — ukazuje to, že rozlišuješ mezi tím, co se předepisuje, a tím, co je doložené.
+
+**Poškození jater se nejčastěji projeví nespecifickou reakcí, tedy steatohepatitidou**, která může být **alkoholická nebo nealkoholická** — u té je příčinou virový infekt, metabolický syndrom nebo léky.
+
+**Komplikacemi steatohepatitidy jsou jaterní encefalopatie a portální hypertenze.** V **terapii jaterní encefalopatie se uplatní laktulóza**, která **acidifikuje obsah tlustého střeva a přeměňuje neionizovaný amoniak na amonný kation, jenž se nevstřebá** — je to tedy praktické využití iontové pasti.
+
+Z **hepatoprotektiv** je nejznámější **silymarin z ostropestřce**, jehož aktivní složkou je **směs flavonoidů s antioxidačním účinkem**; používá se u alkoholického a toxického poškození jater a u hepatitid. Dále **esenciální fosfolipidy, tedy směs nenasycených mastných kyselin, které se inkorporují do membrán hepatocytů a urychlují regeneraci organel**.
+
+**Cholagoga jsou látky zvyšující sekreci žluči.** Dělí se na **choleretika, která zvyšují obsah vody ve žluči, a cholecystokinetika, která usnadňují vyprazdňování žlučovodu**.
+
+Hlavním zástupcem je **kyselina ursodeoxycholová, která má cholagogický, hepatoprotektivní, protizánětlivý a litolytický účinek**; funguje tak, že **mění složení žluči ve prospěch hydrofilních žlučových kyselin**, čímž sníží retenci žluči a poškození epitelu. Dále **kyselina obeticholová, která snižuje produkci žlučových kyselin a bilirubinu**.
+
+Indikacemi jsou stavy **po cholecystektomii, po operacích žlučových cest a biliární dyspepsie**.
+
+**Žlučové kameny vznikají při hypersaturaci žluči cholesterolem a volným bilirubinem**; terapeuticky se proto snižuje tvorba cholesterolu.“
+
+🔑 **Laktulóza u encefalopatie = iontová past ve střevě.** Amoniak se ionizuje a nevstřebá.
+⚠️ **Zdroj sám přiznává, že hepatoprotektiva mají minimální prokázaný účinek.** Řekni to — je to znak kritického čtení.
