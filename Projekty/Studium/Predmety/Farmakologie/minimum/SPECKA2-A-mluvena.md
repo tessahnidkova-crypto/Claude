@@ -1,6 +1,7 @@
 # MINIMUM MLUVENÉ — Speciální farmakologie II, část A (otázky 89–103)
 
 > **Text v uvozovkách je souvislá odpověď, kterou u zkoušky řekneš nahlas.**
+> **💬 = ať to dává smysl.** Lidsky vysvětlené všechno, co je v mluveném textu odborně — **nemusíš si k tomu nic dohledávat.** Přečti nejdřív 💬, pak se vrať k uvozovkám.
 > 🔑 = na čem to udržíš v hlavě · ⚠️ = past, na kterou se chytá
 
 ---
@@ -21,6 +22,17 @@ Za zmínku stojí i **chloramfenikol** — má široké spektrum a výbornou kin
 
 **Střevní antiinfektiva jsou pojmem nadřazeným antiseptikům a dezinficienciím**; v širším smyslu sem patří i antibiotika podávaná u střevních infekcí bez znalosti etiologie — **fluorochinolony, ko-trimoxazol a makrolidy**.“
 
+💬 **Ať to dává smysl**
+**Chemoterapeutikum** je v téhle terminologii **protiinfekční látka vyrobená synteticky** (na rozdíl od antibiotika, které původně pochází z plísně nebo bakterie). **Dnes se to rozlišení stírá a používá se prakticky zaměnitelně.**
+⚠️ **Celá otázka stojí na jedné myšlence: tyhle léky nejsou slabé — jsou CÍLENÉ.** Nevstřebají se nebo se koncentrují jen v jednom orgánu, **takže dosáhnou obrovské koncentrace přesně tam, kde je infekce, a nikde jinde v těle nic nedělají.** **To, co u jiného léku vypadá jako vada („nevstřebává se"), je tady hlavní přednost.**
+**Nitrofurantoin** — **do krve se ho dostane málo, ale ledvina ho vyloučí do moči, kde se nakoncentruje.** ⚠️ **Proto funguje u zánětu močového měchýře, ale NEFUNGUJE u zánětu ledvinné pánvičky ani u urosepse** — tam je infekce ve tkáni, ne v moči. *[obecné znalosti]*
+**Proč je pořád první volbou po tolika letech:** ⚠️ **rezistence *E. coli* k němu zůstává velmi nízká.** A důvod je zajímavý — **působí několika mechanismy najednou, takže by bakterie musela zmutovat víc věcí naráz.** *[obecné znalosti]*
+**Kontraindikace dávají smysl, když víš, jak funguje:** ⚠️ **u renálního selhání ho ledvina do moči nedostane — takže nefunguje tam, kde má, a zároveň se hromadí v krvi, kde jen škodí.** **U novorozence a v pozdním těhotenství hrozí hemolýza**, protože nemá dozrálé ochranné enzymy červených krvinek.
+**Fosfomycin** je zajímavý tím, že **stačí JEDNA jediná dávka na nekomplikovanou cystitidu** — vysoká koncentrace v moči vydrží několik dní. **Blokuje úplně první krok stavby buněčné stěny**, tedy jiné místo než peniciliny — **proto funguje i na kmeny, které jsou k nim rezistentní.** *[obecné znalosti]*
+**Rifaximin** je příbuzný rifampicinu, ale upravený tak, aby se **nevstřebával.** ⚠️ **Projde celým střevem a v tlustém střevě dosáhne obrovské koncentrace, aniž by se dostal do krve** — je to úplně stejný princip jako u perorálního vankomycinu (viz Specka I, otázka 86).
+**Jaterní encefalopatie** = zmatenost až kóma u pacienta s jaterním selháním, protože **játra nezvládnou odbourat amoniak, který vyrábějí střevní bakterie.** ⚠️ **A proto se u ní podává rifaximin — vyhubí ty bakterie, které amoniak produkují.** *(Druhá část léčby je laktulóza, viz otázka 103.)*
+**Fidaxomicin** je novější lék proti *Clostridium difficile*. **Výhodou proti vankomycinu je, že je ještě cílenější — méně poškodí zbytek střevní flóry**, takže je menší riziko návratu nemoci. *[obecné znalosti]*
+
 🔑 **Nitrofurantoin je jen v moči, rifaximin jen ve střevě.** Oba působí tam, kam se dostanou — a nikde jinde.
 ⚠️ **Ko-trimoxazol často nepůsobí na Campylobacter jejuni** — na ten jsou makrolidy.
 
@@ -39,6 +51,19 @@ Ohroženi jsou **v rozvinutých zemích především imunosuprimovaní pacienti*
 **Antihelmintika** se dělí podle chemické struktury. **Benzimidazoly, tedy mebendazol a albendazol, působí na háďátka a tasemnice** — a **mebendazol je jediný, který je v České republice registrován a předepisován na střevní hlísty**. Dále **pyrantel pamoát na škrkavky a roupy, ivermektin na filárie a praziquantel na motolice a tasemnice**.
 
 **Antiprotozoika** jsou zaměřena hlavně na malárii. Patří sem **aminochinoliny, tedy chlorochin a chinin**; **antagonisté kyseliny listové, tedy sulfonamidy a pyrimethamin, které se používají i u toxoplazmózy**; některá **antibiotika, jako klindamycin, spiramycin a tetracykliny**; **amfotericin B na améby**; a **artemisinin, což je seskviterpen získávaný z pelyňku**. U trypanosomiázy a leishmaniózy se stále používají **těžké kovy — soli antimonu a melarsoprol**.“
+
+💬 **Ať to dává smysl**
+⚠️ **Jádro celé otázky je jediná věta a stojí za to ji říct hned na začátku: parazit je EUKARYOT, stejně jako my.**
+**Vysvětlení, proč z toho plyne všechno ostatní:** **bakterie je prokaryot — má úplně jinou buňku než my.** Má **buněčnou stěnu** (my ne) a **jiný typ ribozomu** (70S místo 80S). **Proto se dá vyrobit antibiotikum, které rozbije bakterii a nás se nedotkne — to je selektivní toxicita.**
+**Parazit ale žádnou takovou odlišnost nemá.** ⚠️ **Má jádro, mitochondrie a stejné ribozomy jako naše buňky — je to prostě malý živočich uvnitř velkého živočicha.** **Takže cokoli, co zabije jeho, ohrožuje i nás.** **Odtud plyne, že antiparazitika jsou obvykle toxičtější než antibiotika** a že se používají krátkodobě a cíleně.
+**Další tři důvody, proč je léčba obtížná:** **chronický průběh** (parazit se v těle zabydlí na roky) · **složité životní cykly** (mění hostitele i prostředí) · ⚠️ **různá vývojová stadia — vajíčko, larva, dospělec — na která jedno léčivo nemusí působit stejně.** Proto se léčba často opakuje po několika týdnech, aby zasáhla i to, co se mezitím vylíhlo.
+**Proč se nikdy neléčí naslepo:** protože **léky jsou toxické a každý působí na něco jiného.** Bez parazitologického vyšetření **nevíš, koho léčíš — a riskuješ toxicitu bez užitku.**
+**Praktický český problém, který zdroj zdůrazňuje:** parazitóz je u nás málo, **takže většina léků u nás není registrovaná.** ⚠️ **V takovém případě smí lékař mimořádně předepsat neregistrovaný přípravek, pokud je registrovaný v zahraničí** — je to zákonná výjimka a stojí za to ji zmínit.
+**Terminologie:** **antihelmintika** jsou proti **červům** (*helmint* = červ) — háďátka, roupy, škrkavky, tasemnice, motolice. **Antiprotozoika** jsou proti **jednobuněčným parazitům** (prvokům) — malárie, toxoplazmóza, amébóza.
+🔑 **Z antihelmintik si zapamatuj hlavně jedno: mebendazol je jediný, který je v ČR registrován a předepisuje se na střevní hlísty** (roupy jsou nejčastější, hlavně u dětí). **Pyrantel na roupy a škrkavky, praziquantel na tasemnice a motolice, ivermektin na filárie.**
+**Malárie** je nejvýznamnější protozoární infekce světa. **Chlorochin a chinin jsou klasika, artemisinin z pelyňku je dnes základ moderní léčby** (jeho objev dostal Nobelovu cenu). *[obecné znalosti]*
+⚠️ **Zajímavost, kterou stojí za to zmínit: sulfonamidy a pyrimethamin fungují jako antagonisté kyseliny listové** — tedy **stejným principem jako některá cytostatika: blokují dělení buněk.** **A protože parazit se dělí rychleji než většina našich buněk, je zasažen víc.** To je jeden z mála způsobů, jak u eukaryota selektivity dosáhnout.
+**Toxoplazmóza** je pro tebe zajímavá, protože **je nebezpečná hlavně v těhotenství a u imunosuprimovaných** — léčí se právě pyrimethaminem se sulfonamidem, u těhotných spiramycinem.
 
 🔑 **Parazit je eukaryot jako my — proto je léčba toxická.** Tohle je jádro celé otázky.
 ⚠️ **V ČR se na střevní hlísty předepisuje mebendazol.**
@@ -69,6 +94,26 @@ Vděčnou částí otázky jsou **čtyři stupně rezistence**. **Monorezistentn
 
 **Lepru vyvolává Mycobacterium leprae** a léčí se **dapsonem v kombinaci s rifampicinem**. **Dapson je hematotoxický a zasahuje do metabolismu kyseliny listové**; u rezistentních forem se používá **klofazimin**.“
 
+💬 **Ať to dává smysl**
+⚠️ **Nejdřív vysvětli, PROČ je léčba tuberkulózy tak neobvyklá — dlouhá, kombinovaná a povinná. Všechno plyne z vlastností mykobakterie:**
+- **Roste extrémně pomalu** (dělí se jednou za 20 hodin, běžná bakterie za 20 minut) → **antibiotikum, které působí na množící se buňky, ji zastihne jen zřídka → proto měsíce léčby.**
+- **Má voskový obal** z mykolových kyselin → **špatně jí cokoli proniká.**
+- ⚠️ **Přežívá uvnitř makrofágů a v kavernách, kam se léky dostávají hůř** — a některé bakterie tam „spí" v klidové fázi, kdy je nezasáhne skoro nic.
+**A odtud plyne, proč se kombinují čtyři léky:** ⚠️ **jednak aby se zastihly VŠECHNY růstové fáze** (aktivně rostoucí, pomalu rostoucí, spící v kyselém prostředí), **jednak aby se předešlo rezistenci.** **Pravděpodobnost, že jedna bakterie zmutuje současně proti čtyřem různým mechanismům, je řádově menší než u jednoho léku.** *(Stejná logika je u HIV, viz otázka 94.)*
+**Proč je léčba povinná ze zákona:** tuberkulóza je **infekční a přenáší se vzduchem** — nedoléčený pacient nejen sám relabuje, **ale hlavně roznáší rezistentní kmen.** Proto se používá i **přímo kontrolované podávání** (pacient si lék bere před zdravotníkem).
+**Pět základních léčiv, každé s jednou zapamatovatelnou vlastností:**
+- **Izoniazid** — ⚠️ **proléčivo, které aktivují samotné mykobakterie svým vlastním enzymem.** Elegantní, ale zranitelné: **stačí, aby bakterie ten enzym ztratila, a lék přestane fungovat** — proto na něj tak snadno vzniká rezistence. *(Způsobuje také periferní neuropatii, proto se přidává vitamin B6. — [obecné znalosti])*
+- **Rifampicin** — ⚠️ **jeho velkou předností je, že pronikne i tam, kam jiné léky ne: do abscesů a plicních kaveren.** ⚠️ **Ale je to silný INDUKTOR cytochromu P450** (viz obecka O19) → **sráží hladiny hormonální antikoncepce, warfarinu i antiretrovirotik.** A **indukce po vysazení odeznívá týdny.** *(Barví moč, slzy a pot do oranžova — nezaškodí to, ale pacient to musí vědět dopředu. — [obecné znalosti])*
+- **Streptomycin** — **je to aminoglykosid, takže má i všechny jeho vlastnosti** (viz Specka I, otázka 85): **ototoxicita a nefrotoxicita.** ⚠️ **Riziko roste s věkem, protože seniorům klesá glomerulární filtrace a lék se hromadí** (viz obecka O34).
+- **Etambutol** — bakteriostatický, **působí jen na množící se buňky.** *(Typicky poškozuje zrakový nerv — kontroluje se barvocit. — [obecné znalosti])*
+- **Pyrazinamid** — **baktericidní proléčivo, jehož mechanismus není zcela objasněn**; působí hlavně v kyselém prostředí uvnitř makrofágů.
+⚠️ **Čtyři stupně rezistence jsou vděčná část otázky a mají jednoduchý klíč: všechno se točí kolem dvojice IZONIAZID + RIFAMPICIN, protože to jsou dva nejúčinnější léky.**
+- **Monorezistence** = rezistence na **jeden** základní lék.
+- **Polyrezistence** = na **víc než jeden, ale NE současně na izoniazid a rifampicin.**
+- ⚠️ **MDR (multirezistentní)** = **současně na izoniazid A rifampicin.** **To je ta hranice** — přišel jsi o obě hlavní zbraně.
+- ⚠️ **XDR (extenzivně rezistentní)** = MDR **plus rezistence i na náhradní léčbu.** Léčba pak trvá roky a často selže.
+**Lepra** je způsobena *Mycobacterium leprae*, příbuzným původce tuberkulózy. **Léčí se dapsonem s rifampicinem**; **dapson je hematotoxický a zasahuje do metabolismu kyseliny listové**. U rezistentních forem **klofazimin**.
+
 🔑 **Hranice mezi poly- a multirezistencí je dvojice izoniazid + rifampicin.**
 ⚠️ **Rifampicin je silný induktor** — proto rozbije antikoncepci, warfarin i antiretrovirotika.
 
@@ -94,7 +139,29 @@ Z **lokálních antimykotik** jsou to **azoly — ekonazol, klotrimazol a mikona
 
 A na závěr věta, kterou zdroj zdůrazňuje: **léčba mykóz musí být vždy doplněna prevencí reinfekce** — péčí o obuv a osobní hygienu.“
 
-🔑 **Ergosterol je „houbový cholesterol"** — je ve stěně houby, ale ne v naší. Proto je to dobrý cíl.
+💬 **Ať to dává smysl**
+⚠️ **Otázka má stejný problém jako antiparazitika: houba je taky EUKARYOT, takže se hůř hledá cíl, který bychom neměli i my.**
+🔑 **A tady je celý trik: houba má v membráně místo cholesterolu ERGOSTEROL.** **Je to „houbový cholesterol" — plní stejnou funkci, ale je chemicky jiný.** ⚠️ **A protože ho lidská buňka nemá, je to ideální cíl.** **Většina antimykotik proto míří právě na něj.**
+**Čtyři mechanismy, ale prakticky stačí rozlišit dva hlavní přístupy k ergosterolu:**
+- **Azoly ho NEVYROBÍ** — blokují enzym jeho syntézy. **Membrána se postupně stane vadnou** → **fungistatický účinek** (houba přestane růst).
+- **Polyeny (amfotericin B) se na hotový ergosterol NAVÁŽOU** a **udělají v membráně díry** → obsah buňky vyteče → **fungicidní účinek** (houba zemře).
+**Echinokandiny míří jinam — na beta-D-glukan, což je stavební látka houbové STĚNY.** ⚠️ **A tuhle stěnu my nemáme vůbec, takže jsou skvěle snášené** — je to nejblíž k „penicilinu mezi antimykotiky".
+⚠️ **Proč mykóz přibývá — a je důležité říct, že OBOJÍ je způsobené medicínou samotnou (jatrogenně):**
+1. **Širokospektrá antibiotika vyhubí normální bakteriální flóru** — a **kvasinky, které tam do té doby jen nenápadně žily, dostanou volné pole.** *(Přesně proto vzniká orofaryngeální kandidóza a vaginální mykóza po antibiotikách.)*
+2. **Imunosupresiva a cytostatika vypnou imunitu**, která houby normálně drží na uzdě.
+⚠️ **Zubařsky je tohle velmi relevantní: orální kandidóza je nejčastější mykóza, kterou uvidíš** — u pacientů po antibiotikách, po inhalačních kortikoidech, u nositelů protéz, u diabetiků a u pacientů se xerostomií. **Léčí se lokálně nystatinem nebo klotrimazolem.** *[obecné znalosti]*
+**Zástupci — stačí si zapamatovat, kdo je na co, a jednu logiku „čím těžší infekce, tím agresivnější lék":**
+- ⚠️ **Vorikonazol = lék volby na ASPERGILY.** *(Amfotericin B je historicky „zlatý standard", ale je hodně toxický.)*
+- ⚠️ **Echinokandin (kaspofungin) = první volba u invazivní KANDIDÓZY.**
+- **Flukonazol** — ⚠️ **jediný, který dobře prostupuje do mozku**, proto se používá u kryptokokové meningitidy. **Je teratogenní.**
+- **Itrakonazol** — ⚠️ **umí aspergily, ale na těžkou aspergilózu je nevhodný — používá se jen profylakticky.** Tohle rozlišení zdroj zdůrazňuje.
+- **Nystatin** — ⚠️ **jen na kandidy a jen lokálně** (nevstřebává se). Ideální na ústa a sliznice.
+- **Amorolfin a cyklopirox** — ve formě **laku na nehty** u onychomykóz.
+⚠️ **Amfotericin B je proslulý svou toxicitou** — přezdívá se mu „amfoterrible": **poškozuje ledviny a játra a při podání vyvolá horečku, zimnici, zvracení a bolesti svalů.** Důvod je ten, že **se váže i na náš cholesterol, který je ergosterolu chemicky dost podobný** — selektivita tedy není dokonalá. *[obecné znalosti]*
+**Azoly mají významné lékové interakce**, protože **inhibují cytochrom P450** (viz obecka O19) — zvyšují hladiny statinů, warfarinu a dalších léků.
+**Poslední věta zdroje má praktickou hodnotu: léčba mykóz musí být vždy doplněna prevencí reinfekce** — u nohou péčí o obuv, u orální kandidózy dezinfekcí protézy. **Bez toho se infekce vrátí, i když léčba zabrala.**
+
+🔑 **Ergosterol je „houbový cholesterol"** — je v membráně houby, ale ne v naší. Proto je to dobrý cíl.
 ⚠️ **Vorikonazol = aspergilus. Echinokandin = kandida. Nystatin = jen kandidy a jen lokálně.**
 
 ---
