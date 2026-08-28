@@ -158,6 +158,20 @@ Sympatikus je režim **boje nebo útěku**: srdce zrychlí přes beta-1, průdu�
 
 **Isoprenalin** je čistě beta-agonista. **Dopamin** v nízkých dávkách vyvolává vazodilataci v ledvinách a koronárních tepnách. **Dobutamin** působí především na **beta-1** a podává se u kardiogenního šoku a srdečního selhání."
 
+💬 **Ať to dává smysl**
+**„Neselektivní" znamená, že látka sahá na víc druhů receptorů najednou** — nedá se u ní vybrat jen jeden účinek.
+**Co je katecholamin a proč na tom záleží:** je to skupina látek s **charakteristickým chemickým znakem — dvěma hydroxylovými skupinami (OH) na benzenovém kruhu.** A **přesně na tyhle dvě skupiny míří enzymy COMT a MAO.** Je to jako mít na sobě nálepku „rozlož mě".
+**Z toho plynou hned tři věci najednou, a to je celá pointa otázky:** **katecholamin se rychle rozloží → má krátký účinek → a hlavně se nedá dát v tabletě**, protože by ho enzymy ve střevě a v játrech zlikvidovaly dřív, než by se dostal do krve (first-pass efekt z obecky O18). **Proto adrenalin, noradrenalin i dopamin existují jen jako injekce nebo infuze.**
+**Adrenalin vs. noradrenalin — celý rozdíl je jediná chybějící schopnost, β2:**
+- **Adrenalin umí α i β, tedy VŠECHNO.**
+- **Noradrenalin umí α1 a β1, ale NE β2** — tedy **neumí roztáhnout průdušky ani cévy.**
+**A proto je adrenalin lékem anafylaxe, kdežto noradrenalin ne.** Anafylaxe má tři smrtící složky a **adrenalin řeší všechny tři jednou injekcí: α1 stáhne rozšířené cévy a zvedne padající tlak · β2 otevře zavřené průdušky · β1 nakopne srdce.** Noradrenalin by tomu člověku zvedl tlak, ale nechal ho udusit.
+**Noradrenalin je proto „čistý zvedák tlaku"** — používá se na jednotce intenzivní péče v infuzi u septického šoku, kde cévy zkolabovaly a je potřeba je stáhnout.
+**Isoprenalin** je opak: **čistě β**, žádné α. Zrychlí srdce a otevře průdušky, ale tlak nezvedne (spíš ho sníží, protože β2 cévy roztáhne).
+**Dopamin má zvláštnost: chová se jinak podle dávky.** V **nízkých** dávkách sahá na dopaminové receptory a **roztáhne cévy v ledvinách a věnčitých tepnách**. Ve vyšších dávkách začne působit jako β1 a nakonec jako α1. *[obecné znalosti]*
+**Dobutamin** je hlavně **β1**, tedy **čistá posila srdce** — proto se používá u kardiogenního šoku a při akutním srdečním selhání, kde srdce nemá sílu, ale cévy jsou v pořádku.
+**Anafylaxe** = prudká celotělová alergická reakce (viz obecka O30, typ I). **Adrenalin se u ní podává NITROSVALOVĚ do stehna**, ne do žíly — nitrožilně je při zachovaném oběhu příliš riziková arytmie. *[obecné znalosti]*
+
 🔑 **Adrenalin umí všechno. Noradrenalin umí všechno kromě plic.**
 ⚠️ **Katecholaminy nelze podat v tabletě** — COMT a MAO je zlikvidují dřív, než se stačí vstřebat.
 
@@ -170,6 +184,18 @@ Sympatikus je režim **boje nebo útěku**: srdce zrychlí přes beta-1, průdu�
 Zvláštní skupinu tvoří **lokální dekongestanty — nafazolin, oxymetazolin a xylometazolin**, které stáhnou cévy nosní sliznice a tím sníží překrvení a otok.
 
 Alfa-2 agonisté působí opačně, než by se čekalo. **Klonidin a methyldopa** se váží na **presynaptický** receptor, čímž utlumí výdej noradrenalinu, sníží tonus sympatiku a **krevní tlak klesne**. **Methyldopa je lékem volby u hypertenze v těhotenství**."
+
+💬 **Ať to dává smysl**
+**Celá otázka stojí na jednom rozdílu, který je zpočátku matoucí: α1 a α2 agonisté dělají opačné věci s tlakem.** A důvod je jen ten, **kde ten receptor sedí** (viz 40).
+**α1 agonista = stáhni cévu.** Kde to uděláš, tam zbledne a splaskne.
+- **V nose** → sliznice se stáhne, otok zmizí, projde vzduch. **To jsou nosní kapky.**
+- **V celém těle** → stoupne tlak. **To je midodrin u pacientů, kteří po postavení omdlévají (ortostatická hypotenze).**
+- **V oku** → stáhne se sval, který roztahuje zornici. **To je fenylefrin jako mydriatikum.**
+**Proč fenylefrin působí déle než adrenalin:** **není to katecholamin** — chybí mu ta OH skupina, na kterou míří COMT (viz 41). **Enzym ho tedy nepozná a nerozloží** → účinek trvá hodiny místo minut. **Právě proto se dá dát i v tabletě a jako kapky.**
+**α2 agonista = přiškrť sympatikus u zdroje.** Sedí **před** synapsí, na samotném nervu, a řekne mu „vypouštěj míň noradrenalinu". **Výsledek: méně sympatiku v celém těle → tlak klesne.** Zní to protichůdně jen do chvíle, než si vzpomeneš, že α2 je **brzda, ne plyn**.
+**Methyldopa v těhotenství** je jediná věc z α2, kterou musíš vědět jistě — **je to lék volby u hypertenze těhotných, protože je na ní nejdelší zkušenost a je prokazatelně bezpečná pro plod.** *(Ostatní běžná antihypertenziva jsou v těhotenství problematická — ACE inhibitory jsou dokonce kontraindikované, viz obecka O32.)*
+**Dekongestant** = *decongestio*, odkrvení. **Lék, který stáhne překrvenou sliznici.**
+**Rhinitis medicamentosa je nejcennější část otázky, protože je to čistá klinika, kterou pacienti reálně mají:** kapky **stáhnou cévy v nose**. Po vyprchání se ale céva **roztáhne ještě víc než původně** — tělo se totiž brání trvalému stažení tím, že si receptory přenastaví (**down-regulace**, viz obecka O22 a O27). **Pacient tedy nemá ucpaný nos z rýmy, ale z kapek — a čím víc kape, tím hůř.** Vzniká to při užívání **nad 5–7 dní** a řeší se tím, že se kapky vysadí a pár dní se to přetrpí.
 
 🔑 **Alfa-1 = postsynapticky = stáhni. Alfa-2 = presynapticky = uber.**
 🔑 **Methyldopa = těhotenství.** To je z alfa-2 to jediné, co musíš vědět jistě.
@@ -187,6 +213,19 @@ Nežádoucí účinky beta-2 agonistů jsou **tremor, tachykardie a hypokalemie*
 
 Z beta-3 agonistů se používá **mirabegron** u hyperaktivního močového měchýře."
 
+💬 **Ať to dává smysl**
+**Co je astma:** chronický **zánět** průdušek, na jehož podkladě se průdušky **stahují** (bronchokonstrikce). **Jsou to tedy dva problémy, ne jeden — a proto se léčí dvěma různými typy léků.** β2 agonista **rozšíří** stažené průdušky (rychlá úleva), **ale se zánětem neudělá vůbec nic.** Zánět řeší inhalační kortikoid. **Tohle je klíč k celé otázce i k té pasti dole.**
+**Zkratky se nemusíš učit — přelož si je:**
+- **SABA = Short-Acting Beta Agonist** = **krátce působící.** Rychlý nástup (minuty), účinek **4–6 hodin.** **Salbutamol.** To je ten **záchranný inhalátor**, který má astmatik v kapse a použije ho, když se dusí.
+- **LABA = Long-Acting** = **dlouze působící**, ale nastupuje pomalu. **Salmeterol.** Bere se **pravidelně dvakrát denně, i když je pacientovi dobře** — je to prevence, ne záchrana.
+- **RABA = Rapid-Acting** = **rychlý nástup A dlouhý účinek zároveň. Formoterol** — jediný, který umí obojí, proto se dá použít i jako záchranný.
+- **u-LABA = ultra-long** = **24 hodin, jedna dávka denně.**
+**Nejlepší přirovnání, které si zapamatuješ napořád: SABA je hasicí přístroj, LABA je protipožární prevence.** Hasicí přístroj nepoužíváš každý den. Prevenci naopak děláš i tehdy, když nehoří. **A hlavně: hasicím přístrojem se požár nepředchází a prevencí se hořící dům neuhasí.**
+**Proč se LABA nikdy nedává samotné — a je to nejdůležitější věta otázky:** LABA průdušky **rozšíří, ale zánět nechá běžet.** Pacient se cítí dobře, přestože se mu plíce dál poškozují — **příznak zmizí, nemoc pokračuje.** Velké studie prokázaly, že samotné LABA **zvyšuje mortalitu**. **Proto se dnes prodává výhradně v kombinovaném inhalátoru s kortikoidem.**
+**Nežádoucí účinky si taky odvodíš, ne naučíš.** β2 receptory nejsou jen v plicích — **jsou i v kosterním svalu (odtud třes, protože žádný inhalátor nemíří stoprocentně přesně) a část dávky se vstřebá do krve, kde sáhne i na β1 (odtud tachykardie).**
+**Hypokalemie** = **nízký draslík v krvi.** β2 stimulace **žene draslík z krve dovnitř buněk** (aktivuje sodíko-draslíkovou pumpu). Draslík z těla neubyl, jen se přestěhoval — **ale v krvi ho chybí, a to může způsobit arytmii.** Proto se u pacienta po velkých dávkách salbutamolu kalium kontroluje. *[obecné znalosti]*
+**Mirabegron a β3:** β3 receptor **uvolňuje močový měchýř.** U hyperaktivního měchýře (nutkání na moč každou chvíli) tedy **měchýř zklidní a zvětší jeho kapacitu** — a je to alternativa k anticholinergikům, která dělají sucho v ústech.
+
 🔑 **SABA = Salbutamol = záchranný.** **LABA = Long = udržovací.** **Formoterol umí obojí.** Astmatik má dva inhalátory: hasicí přístroj a prevenci požáru — a nesmí je zaměnit.
 ⚠️ **LABA se u astmatu nikdy nepodává samotné** — vždy jen v kombinaci s inhalačním kortikoidem. Samotné LABA maskuje zánět a zvyšuje mortalitu.
 
@@ -199,6 +238,17 @@ Z beta-3 agonistů se používá **mirabegron** u hyperaktivního močového mě
 **Efedrin a pseudoefedrin** se používají jako dekongestanty a ke zvýšení krevního tlaku, **amfetamin a jeho deriváty** jako psychostimulancia. **Kokain** má odlišný mechanismus — **blokuje zpětné vychytávání, tedy uptake 1**.
 
 Charakteristickým rysem těch, které vyplavují zásoby, je **tachyfylaxe** — účinek rychle mizí, protože se **vyčerpají zásoby mediátoru**. Je to naběračka, ne kohoutek: nedodává nic nového, jen vybírá to, co je v zásobě. Když je zásoba prázdná, látka funguje pořád stejně dobře, jen není co vyplavit."
+
+💬 **Ať to dává smysl**
+**„Nepřímé" znamená, že látka se na receptor vůbec nedotkne.** Místo aby napodobila noradrenalin, **donutí tělo, aby vypustilo svůj vlastní.** Výsledek vypadá stejně, ale mechanismus je úplně jiný — a to má klinické důsledky.
+**Dva způsoby, jak to jde udělat:**
+1. **Vytěsnit noradrenalin ze zásobních váčků** (efedrin, amfetamin) — látka se dostane do nervového zakončení a **vystrnadí odtud uskladněný mediátor.**
+2. **Zablokovat zpětné vychytávání** (kokain) — noradrenalin se normálně po použití nasaje zpátky do nervu (uptake 1, viz otázka 40). **Kokain tenhle vysavač ucpe, takže mediátor zůstane v synapsi a působí dál.**
+**Tachyfylaxe** (*tachys* = rychlý) = **účinek zmizí během minut, i když lék pořád podáváš.** A důvod je u efedrinu naprosto jednoduchý: **vyčerpaly se zásoby.**
+**Naběračka, ne kohoutek — tohle přirovnání si zapamatuj, protože je to celá odpověď:** efedrin **nedodává nic nového, jen nabírá z kbelíku, který už v nervu je.** Když je kbelík prázdný, **naběračka funguje pořád stejně dobře — jen není co nabírat.** Receptor se nezměnil, nic se neopotřebovalo, prostě došel materiál. **Proto se účinek rychle vrátí, jakmile si nerv zásoby doplní.**
+**A z toho plyne to nejcennější klinické pravidlo celé otázky:** u pacienta, který je **v šoku dlouhé hodiny**, jsou zásoby noradrenalinu dávno vyčerpané. **Efedrin by u něj nezabral vůbec.** Proto se podává **noradrenalin nebo adrenalin — tedy PŘÍMO působící látka, která funguje i s prázdnými váčky.** Efedrin je lék na krátkodobý propad tlaku, ne na hodiny.
+**Proč kokain tachyfylaxi nedělá:** protože **nevyčerpává zásoby, jen zpomaluje úklid.** Dokud nerv vůbec něco vypouští, kokain to zesiluje. **A ze stejného mechanismu plyne jeho zúžení cév** — proto se dřív používal jako lokální anestetikum v ORL a proto dlouhodobé šňupání **prorazí nosní přepážku**: sliznice je trvale bez krve a odumře. *[obecné znalosti]*
+**Pseudoefedrin** je ten dekongestant v tabletách proti rýmě, který lékárník vydá jen na občanku — protože se z něj dá vyrobit pervitin (viz obecka O2).
 
 🔑 **U efedrinu dojde noradrenalin, ne receptor** — proto tachyfylaxe během minut. **Kokain nevytlouká, jen ucpe odtok** — proto působí déle.
 ⚠️ **Proto se u dlouhodobě hypotenzního pacienta v šoku podává noradrenalin, ne efedrin.** Přímo působící látka funguje i tehdy, když jsou vezikuly prázdné.
@@ -215,6 +265,17 @@ Charakteristickým rysem těch, které vyplavují zásoby, je **tachyfylaxe** �
 
 **Selektivní alfa-1 blokátory pro prostatu** jsou **tamsulosin, alfuzosin a silodosin**. Uvolňují hladkou svalovinu prostaty a hrdla močového měchýře, čímž sníží odpor při močení u **benigní hyperplazie prostaty**. Je to tentýž receptor, který stahuje cévy — proto se jedna skupina používá na dvě zcela odlišné diagnózy."
 
+💬 **Ať to dává smysl**
+**Sympatolytikum = lék, který sympatikus RUŠÍ** (*lytikum* = rozpouštějící). U α-sympatolytik to znamená **zablokovat receptor, který stahuje cévu** → **céva zůstane roztažená → tlak klesne.**
+**A tady je hezká souvislost, kterou stojí za to říct nahlas: tentýž α1 receptor, který stahuje cévy, drží stažené i hladké svaly prostaty a hrdla močového měchýře.** Proto se **jedna receptorová skupina používá na dvě úplně nesouvisející diagnózy** — vysoký tlak a problémy s močením u zvětšené prostaty. **U prostaty lék nic nezmenší — jen povolí sevření, takže moč projde snáz.**
+**Feochromocytom** = **nádor dřeně nadledvin, který vylévá do krve obrovské množství adrenalinu a noradrenalinu.** Projeví se **záchvatovitou hypertenzí, bušením srdce, pocením a bolestí hlavy.** Léčí se operací — **ale před operací se musí pacient „zablokovat", jinak by při manipulaci s nádorem vytryskla dávka katecholaminů, která by ho zabila.**
+**A právě proto se tam používá fenoxybenzamin, i když je nekompetitivní — tohle je nejlepší otázka na pochopení obecky O21 v praxi:**
+- **Kompetitivní blokátor se dá přebít vyšší dávkou agonisty.** Kdyby nádor vychrlil obrovské množství katecholaminů, **přeprali by blokádu a tlak by vystřelil stejně.**
+- **Fenoxybenzamin se váže NEVRATNĚ** — receptor je vyřazený natrvalo a **žádné množství katecholaminů ho neodemkne.** **Nedá se přebít, a to je tady výhoda, ne nevýhoda.**
+**-zosin vs. -sulosin:** rozdíl je v **selektivitě k podtypům α1.** Léky na prostatu (**tamsulosin, silodosin**) míří přednostně na receptory v prostatě, takže **méně ovlivňují tlak** — pacient se z nich tolik nemotá.
+**Proč nejsou α1 blokátory lékem první volby na hypertenzi:** ve velkých studiích vyšly hůř než diuretika a další skupiny — hlavně kvůli riziku srdečního selhání. **Používají se tedy až jako přídavek, ne jako první krok.** *[obecné znalosti]*
+**Fenomén první dávky** — velmi konkrétní a zkoušková věc: **po první tabletě prazosinu se cévy naráz roztáhnou, pacient se postaví, krev mu steče do nohou a on omdlí (ortostatická synkopa).** Tělo nemá čas si na to zvyknout. **Proto se začíná nejnižší dávkou a podává se večer, aby pacient ležel.**
+
 🔑 **-zosin na tlak, -sulosin na prostatu. Feochromocytom = fenoxybenzamin.**
 ⚠️ **Fenoxybenzamin je nekompetitivní, tedy ireverzibilní — a právě proto se hodí u feochromocytomu.** Kompetitivní blokátor by masivní výlev katecholaminů nepřebil, ireverzibilní ano.
 ⚠️ **Fenomén první dávky:** první tableta prazosinu může vyvolat **synkopu z ortostatické hypotenze**, proto se začíná nízkou dávkou na noc.
@@ -230,6 +291,19 @@ Dále se dělí podle rozpustnosti. **Lipofilní**, jako propranolol a metoprolo
 Indikacemi jsou **hypertenze, ischemická choroba srdeční, srdeční selhání, arytmie jako antiarytmika druhé třídy, glaukom, tremor a profylaxe migrény**. Kontraindikacemi jsou **astma a chronická obstrukční plicní nemoc, atrioventrikulární blokáda, bradykardie a ischemická choroba dolních končetin**.
 
 Zásadní je, že se **nikdy nesmějí vysadit náhle** — hrozí rebound fenomén."
+
+💬 **Ať to dává smysl**
+**Betablokátor dělá jedinou věc: odpojí srdce od plynového pedálu sympatiku.** Srdce zpomalí, bije slaběji, **spotřebuje míň kyslíku** — a přesně proto pomáhá u anginy pectoris, kde je problém právě v tom, že srdce potřebuje víc kyslíku, než mu ucpaná tepna dodá.
+**Selektivita je tady všechno.** Vzpomeň si na 40: **β1 = srdce, β2 = plíce a cévy končetin.**
+- **Neselektivní** blokuje obojí → **zpomalí srdce, ale zároveň stáhne průdušky a cévy v nohou.** Odtud kontraindikace u astmatu a studené končetiny.
+- **β1 selektivní** míří hlavně na srdce → **je bezpečnější u plicních pacientů.** ⚠️ **Ale pozor, selektivita není absolutní — ve vysoké dávce sáhne i na β2.** Proto se u těžkého astmatu vyhýbáme i selektivním.
+**Třetí generace „s aditivními účinky"** znamená, že umí **navíc ještě něco jiného než blokádu β** — typicky **roztáhnout cévy** (karvedilol blokuje i α1, nebivolol uvolňuje NO). Proto se hodí u srdečního selhání a u pacientů s vysokým tlakem.
+**Lipofilní vs. hydrofilní — a proč se to ptají:**
+- **Lipofilní (tučný)** = **projde do mozku** (viz obecka O10) → **odtud únava, noční můry a živé sny.** Odbourávají ho **játra**.
+- **Hydrofilní (vodný)** = **do mozku nejde**, ale **vylučuje se ledvinami** → **při špatných ledvinách se hromadí a prodlužuje se jeho poločas.** Musíš tedy vědět, koho před tebou máš: u pacienta s ledvinami vol lipofilní, u pacienta s játry hydrofilní.
+**Proč tak široké spektrum indikací:** protože sympatikus je všude. **Hypertenze** (méně sympatiku = nižší tlak) · **angina** (nižší spotřeba kyslíku) · **srdeční selhání** (paradoxně — dlouhodobě chrání srdce před vyčerpáním nadměrnou stimulací) · **arytmie** (zpomalí vedení) · **glaukom** (timolol v kapkách sníží tvorbu komorové vody) · **tremor a tréma** (blokuje periferní projev nervozity) · **profylaxe migrény** (viz otázka 65).
+**Rebound fenomén — nejcennější část otázky, protože se dá krásně vysvětlit a je to pochopení, ne memorování:** když je receptor **dlouho blokovaný, buňka si myslí, že jí signál chybí — a nadělá si receptorů víc** (up-regulace, viz obecka O22). **Když lék náhle vysadíš, noradrenalinu je pořád úplně normální množství, ale najednou dopadne na dvojnásobek zámků.** Výsledek: **tachykardie, hypertenzní krize, u nemocného srdce i infarkt.** ⚠️ **Není to tedy z nadbytku mediátoru, ale z nadbytku receptorů** — přesně tuhle větu chtějí slyšet. **Proto se betablokátor vysazuje postupně během týdnů.**
+**Diabetici:** viz obecka O28 — **betablokátor umlčí varovné příznaky hypoglykemie** (třes, bušení srdce), takže pacient nepozná, že mu klesá cukr, a rovnou zkolabuje.
 
 🔑 **Selektivitu poznáš podle abecedy: A až M jsou většinou selektivní** (atenolol, betaxolol, bisoprolol, esmolol, metoprolol), **N až Z neselektivní** (nadolol, pindolol, propranolol, timolol). Karvedilol a labetalol jsou výjimky.
 ⚠️ **Rebound nevzniká z nadbytku mediátoru, ale z nadbytku RECEPTORŮ.** Dlouhá blokáda vede k up-regulaci, po vysazení dopadne normální hladina noradrenalinu na namnožené receptory → tachykardie, hypertenzní krize, infarkt.
