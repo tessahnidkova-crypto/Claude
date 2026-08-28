@@ -307,6 +307,20 @@ Prakticky je důležité, že **u periferních přístupů rozhoduje průměr ka
 
 Nejvděčnějším pojmem otázky je **refeeding syndrom. Je to soubor metabolických abnormalit vznikajících jako důsledek obnovení příjmu potravy — typicky po podání většího množství glukózy podvyživeným nebo hladovějícím pacientům.** **Laboratorně dojde k poklesu fosforu, hořčíku a sodíku, které je nutné substituovat, a klinicky se projeví psychickými změnami, parestéziemi až maligními arytmiemi a srdečním selháním.**“
 
+💬 **Ať to dává smysl**
+**Rozložení tekutin si zapamatuj jako pravidlo 60–40–20: tekutiny jsou 60 % hmotnosti, z toho 2/3 uvnitř buněk a 1/3 vně.** **A z té zevní části je 80 % v intersticiu (mezi buňkami) a jen 20 % v plazmě.** ⚠️ **Prakticky to znamená, že v cévách je jen malý zlomek veškeré vody v těle — proto se objem v oběhu ztrácí i mění velmi rychle.**
+⚠️ **A teď nejdůležitější věta celé otázky, která platí dvakrát: NEKORIGOVAT PŘÍLIŠ RYCHLE. Vysvětlení stojí za to říct, protože ukazuje, že chápeš, proč to tak je:**
+**Buňka se dlouhodobé hyponatremii přizpůsobí — vyrovná si vnitřní osmolaritu, aby nenabobtnala.** ⚠️ **Když pak sodík v krvi prudce zvýšíš, voda se náhle přesune ven z buněk a mozkové buňky se scvrknou** → **vzniká osmotický demyelinizační syndrom, nevratné poškození mozku.** **A při příliš rychlé korekci hypernatremie je to naopak — mozek OTEČE.** **V obou případech tedy neuškodí ta hodnota, ale RYCHLOST změny.**
+**Hyperchloremická acidóza** — ⚠️ **zajímavý jev: fyziologický roztok NENÍ tak fyziologický, jak zní.** **Obsahuje totiž víc chloridů, než je v plazmě.** **Po podání velkého množství se tedy nahromadí chloridy → změní se rovnováha mezi kationty a anionty → krev se okyselí.** **Proto se dnes preferují tzv. balancované roztoky (Hartmannův, Ringerfundin), které složením plazmu napodobují lépe.** *[obecné znalosti]* **Při acidóze se podává bikarbonát.**
+**Čtyři účely infuzní terapie** — a je dobré je odlišit, protože každý znamená jiný objem: ⚠️ **náhrada DEFICITU** (dohnat, co chybí) · **UDRŽOVACÍ** (pokrýt běžnou denní potřebu) · **náhrada PROBÍHAJÍCÍCH ZTRÁT** (zvracení, drény, horečka) · **NUTRIČNÍ podpora.**
+**Krystaloidy vs. koloidy — rozdíl je ve velikosti částic a v tom, kde tekutina zůstane:**
+- **Krystaloidy** = **roztoky iontů ve vodě** (fyziologický roztok, Hartmannův roztok, Ringerfundin). ⚠️ **Malé molekuly, takže z cévy rychle přejdou do intersticia** — v oběhu zůstane jen malá část.
+- **Koloidy** = **velké molekuly (želatiny, škroby), které v cévě zůstanou déle a natáhnou k sobě vodu.** ⚠️ **Ale od jejich používání se ustupuje — způsobují poruchy koagulace, renální dysfunkci a anafylaxi.** **Teoretická výhoda se v praxi neprokázala.**
+**Prakticky:** ⚠️ **o rychlosti podání rozhoduje PRŮMĚR kanyly, ne tlak infuze** — proto se u šoku zavádí co nejsilnější kanyla. **A pozor na opačný problém: přebytek tekutin, který se hromadí v tkáních a zhoršuje výsledky.** **Proto se dnes zdůrazňuje racionální podávání a AKUTNÍ DERESUSCITACE, tedy cílené odstranění přebytečné tekutiny.**
+⚠️ **REFEEDING SYNDROM je nejvděčnější pojem otázky a je to skutečně tak dramatické, jak zní: pacient přežije hladovění a zabije ho první pořádné jídlo.**
+**Mechanismus, který stojí za to umět vyprávět:** **při hladovění tělo přejde na spalování tuků a vnitrobuněčné zásoby fosforu, hořčíku a draslíku se vyčerpají — ale v krvi to nevidíš, protože hladiny zůstanou zdánlivě normální.** ⚠️ **Jakmile podáš glukózu, vyplaví se INZULIN — a ten žene do buněk nejen cukr, ale i fosfor, hořčík a draslík** (viz Specka I, otázka 80). **Jejich hladina v krvi se propadne během hodin.**
+⚠️ **A důsledky jsou vážné: psychické změny, parestezie, maligní arytmie a srdeční selhání** — protože fosfor je potřeba k tvorbě ATP a hořčík k práci srdečního svalu. **Proto se podvyživený pacient krmí POMALU a s postupným navyšováním, a chybějící ionty se aktivně doplňují.**
+
 🔑 **Nekorigovat příliš rychle.** Platí to pro sodík i pro výživu.
 ⚠️ **Refeeding syndrom: pacient přežije hladovění a zabije ho první jídlo.** Proto se podvyživený krmí pomalu.
 
@@ -328,6 +342,20 @@ Zásadní je jeho role **antidota warfarinu** — a tady je klíčová věta: **
 
 **Vitamin D** je nezbytný pro **hospodaření s vápníkem a fosforem**; jeho aktivní formou je **kalcitriol** a jeho receptory se nacházejí i **v buňkách imunitního systému**. Nedostatek vede u dětí ke **křivici** a u dospělých k **osteomalacii**.“
 
+💬 **Ať to dává smysl**
+⚠️ **Celá otázka stojí na jediném rozdílu, kterým ji otevři: vodorozpustný vitamin se v přebytku VYMOČÍ, tukorozpustný se ULOŽÍ.**
+**A z toho plyne všechno:** **u vodorozpustných hrozí prakticky jen nedostatek · u tukorozpustných hrozí NEDOSTATEK I PŘEBYTEK.** ⚠️ **Hypervitaminóza je tedy problém prakticky jen u A, D, E a K** — a **ukládají se v játrech a v tukové tkáni, odkud se uvolňují pomalu.**
+🔑 **Zapamatuj si to jako slovo „ADEK" — a jsou to zároveň ty vitaminy, jejichž vstřebání závisí na tucích a žluči.** *(Proto je narušují orlistat, pryskyřice i obstrukční žloutenka — viz otázky 118 a Specka I, 75.)*
+**Vitamin A** — **nezbytný pro zrak, růst a diferenciaci epitelů.** ⚠️ **Nedostatek se projeví ŠEROSLEPOSTÍ, protože retinal je součástí zrakového pigmentu v tyčinkách, které slouží k vidění za šera.** **Provitaminem je beta-karoten z mrkve.** *(Retinoidy, jeho deriváty, jsou zároveň silně teratogenní — viz obecka O32.)*
+**Vitamin E** — **hlavní lipofilní antioxidant, tedy ochránce membránových tuků před oxidací.** ⚠️ **Zdroj výslovně uvádí, že toxicita nebyla pozorována ani ve zvýšených dávkách** — je to tedy z celé čtveřice ten nejbezpečnější. *(Ale vzpomeň si na Specku I, otázku 59: jeho PŘÍNOS u Alzheimerovy choroby se v kontrolovaných studiích neprokázal. Bezpečný ≠ účinný.)*
+⚠️ **Vitamin K je farmakologicky nejdůležitější a celá jeho role se dá odvodit z jedné věty: bez něj se nevyrobí funkční koagulační faktory PROTROMBINOVÉHO KOMPLEXU — tedy II, VII, IX a X.** *(Zapamatuj si je jako „1972".)*
+**Tři formy: K1 fylochinon z rostlin (listová zelenina) · K2 menachinon od střevních bakterií · K3 syntetický.** ⚠️ **A protože je rozpustný v tucích, jeho vstřebání vyžaduje ŽLUČOVÉ KYSELINY — proto při obstrukční žloutence, kdy žluč neodtéká, vzniká krvácivost.**
+⚠️ **A teď nejdůležitější klinická věta celé otázky, kterou musíš umět: vitamin K jako antidotum warfarinu NENÍ okamžité antidotum.**
+**Vysvětlení, které to celé objasní:** **warfarin nezasahuje do srážení přímo — jen zavře jaterní továrnu na koagulační faktory** (viz Specka I, otázka 77). ⚠️ **Vitamin K tu továrnu zase otevře, ale faktory se musí TEPRVE VYROBIT — a to trvá 12 až 24 hodin.**
+⚠️ **Proto při ŽIVOT OHROŽUJÍCÍM krvácení vitamin K sám nestačí — musí se podat hotové faktory: KONCENTRÁT PROTROMBINOVÉHO KOMPLEXU nebo čerstvě mražená plazma.** **Vitamin K řeší zítřek, koncentrát řeší teď.**
+**Vitamin D** — **řídí hospodaření s vápníkem a fosforem.** **Jeho aktivní formou je KALCITRIOL** *(vzniká dvojí hydroxylací — v játrech a v ledvinách, takže při selhání ledvin se aktivní forma nevytvoří — [obecné znalosti])*. ⚠️ **A jeho receptory jsou i v buňkách imunitního systému** (viz otázka 114) — není to tedy jen „vitamin na kosti".
+⚠️ **Nedostatek: u DĚTÍ křivice (rachitis), u DOSPĚLÝCH osteomalacie.** **Rozdíl je v tom, že u dítěte se kost teprve staví a deformuje se, kdežto u dospělého se hotová kost změkčuje.**
+
 🔑 **A, D, E, K se ukládají — proto se dají předávkovat.**
 ⚠️ **Vitamin K jako antidotum warfarinu funguje až za 12–24 hodin** — na akutní krvácení je pomalý.
 
@@ -346,6 +374,26 @@ Prakticky je důležité, že **varem se ničí až šedesát procent** obsahu v
 **Nedostatek vede ke kurdějím, tedy skorbutu** — projeví se **krvácením do dásní, uvolňováním zubů, špatným hojením ran a únavou**, protože všechny tyto děje vyžadují funkční kolagen.
 
 Ze **skupiny B** je nejdůležitější **thiamin, tedy B1, jehož nedostatek vede k beri-beri a u alkoholiků k Wernickeově encefalopatii**; **riboflavin B2**; **niacin B3, jehož nedostatek způsobuje pelagru**; **pyridoxin B6, jehož deficit vyvolává izoniazid a projeví se periferní neuropatií**; **kyselina listová, jejíž nedostatek v těhotenství vede k defektům neurální trubice**; a **kobalamin B12, jehož vstřebávání vyžaduje vnitřní faktor a kyselé prostředí žaludku**.“
+
+💬 **Ať to dává smysl**
+⚠️ **Zrcadlově k otázce 128: vodorozpustné vitaminy se v těle prakticky neukládají a přebytek odejde močí.** **A z toho plyne obojí najednou — hypervitaminóza skoro nehrozí, ale ZÁSOBY JSOU MALÉ, takže se nedostatek projeví rychleji.** *(Výjimkou je B12, kterého mají játra zásobu na roky. — [obecné znalosti])*
+**Vitamin C (kyselina askorbová)** má tři hlavní role: ⚠️ **antioxidant · nezbytný pro syntézu KOLAGENU · a pomáhá vstřebávat železo** (udrží ho ve dvojmocné formě — viz otázka 124). **Plus funkce imunitního systému.**
+⚠️ **Detail, kterým se dá otázka ozdobit a který si zkoušející rádi poslechnou: rostliny i většina živočichů si vitamin C vyrábějí sami — nedokáže to jen ČLOVĚK, PRIMÁTI a MORČE.** **Ztratili jsme funkční gen pro poslední enzym té syntézy.** **Proto ho musíme přijímat potravou — a proto morče slouží jako pokusné zvíře ve výzkumu skorbutu.** *[obecné znalosti]*
+**Prakticky: varem se ničí až 60 % obsahu ve stravě** — proto se počítá hlavně syrová zelenina a ovoce.
+⚠️ **A teď to nejdůležitější pro tebe — SKORBUT (kurděje), protože je to čistě zubařská diagnóza a všechny příznaky plynou z JEDINÉ věci: bez vitaminu C se nedá vyrobit funkční kolagen.**
+**Kolagen je „výztuž" pojivové tkáně — drží pohromadě cévní stěnu, dáseň, závěsný aparát zubu i hojící se ránu.** ⚠️ **A když je vadný, rozpadne se přesně tohle:**
+- ⚠️ **Krvácení do dásní** — křehké kapiláry.
+- ⚠️ **Uvolňování a vypadávání zubů** — rozpadne se závěsný aparát (periodontium).
+- **Špatné hojení ran** — jizva se nemá z čeho vytvořit; dokonce se otevírají staré, dávno zhojené jizvy.
+- **Únava a bolesti kloubů.**
+🔑 **Zapamatuj si: krvácení z dásní a viklající se zuby jsou jedním z PRVNÍCH viditelných příznaků nedostatku vitaminu C — a zubař je může zachytit dřív než kdokoli jiný.**
+**Skupina B — u každého stačí jedna dvojice „co chybí → co se stane":**
+- ⚠️ **B1 thiamin → BERI-BERI** (postižení nervů a srdce). **A u ALKOHOLIKŮ Wernickeova encefalopatie** — zmatenost, poruchy očních pohybů a ataxie. *(Souvisí s Korsakovovou psychózou z otázky 106; proto se alkoholikovi podává thiamin VŽDY před glukózou, jinak se stav zhorší. — [obecné znalosti])*
+- **B2 riboflavin** — projeví se ragádami v koutcích úst a záněty jazyka. *[obecné znalosti]*
+- ⚠️ **B3 niacin → PELAGRA** (klasicky „tři D": dermatitida, diarea, demence).
+- ⚠️ **B6 pyridoxin → periferní neuropatie. A jeho deficit VYVOLÁVÁ IZONIAZID** (viz otázka 91) — proto se k léčbě tuberkulózy pyridoxin rutinně přidává. **To je hezké propojení, které stojí za to říct.**
+- ⚠️ **Kyselina listová → v těhotenství DEFEKTY NEURÁLNÍ TRUBICE** (spina bifida). **Proto se suplementuje už před početím** (viz obecka O32 a Specka I, otázka 53 — valproát její metabolismus zhoršuje).
+- ⚠️ **B12 kobalamin → megaloblastová anemie a neurologické postižení. Jeho vstřebání vyžaduje VNITŘNÍ FAKTOR a kyselé prostředí žaludku** (viz otázka 124).
 
 🔑 **Vodorozpustné se vyplaví močí** — proto se dají předávkovat jen výjimečně.
 ⚠️ **Zubařsky:** nedostatek vitaminu C se projeví **krvácením z dásní a uvolňováním zubů** — je to jeden z prvních viditelných příznaků.
@@ -367,6 +415,27 @@ Dále se používá **stroncium-ranelát, který zároveň podporuje novotvorbu 
 Z hormonální léčby se používají **SERM, tedy selektivní modulátory estrogenních receptorů**, a **kalcitonin, který snižuje aktivitu osteoklastů**.
 
 Pro tebe je nejdůležitější odstavec o **fluoru. Fluoridy se pasivně absorbují v duodenu a tenkém střevě a přibližně padesát procent podané dávky se inkorporuje do skeletu a zubů. V kosti i v zubním dentinu fluorový iont nahradí hydroxylovou skupinu v kalciumhydroxyapatitu a vzniká kalciumfluoroapatit, který má vyšší chemickou stabilitu.** Doporučená denní dávka k prevenci zubního kazu je **tři až pět desetin miligramu**. **U osteoporózy se ale fluor nepoužívá — pro malý efekt.**“
+
+💬 **Ať to dává smysl**
+⚠️ **Nejdřív si ujasni dvě buňky, protože bez nich otázka nedává smysl: OSTEOKLAST kost BOURÁ, OSTEOBLAST kost STAVÍ.** *(Pomůcka: klast — jako „katastrofa", bourá. Blast — jako „builder", staví.)*
+**Kost se celý život přestavuje — neustále se bourá a znovu staví.** ⚠️ **Osteoporóza vzniká, když se ta rovnováha překlopí ve prospěch bourání.** **Není to „měkká kost" jako u osteomalacie — kosti je málo, ale ta zbylá je normálně mineralizovaná.** **Je proto porézní a lámavá.**
+**T-skóre** — ⚠️ **neporovnává tě s vrstevníky, ale se ZDRAVÝM MLADÝM DOSPĚLÝM.** **Udává, o kolik standardních odchylek je tvoje kostní denzita pod tímhle vrcholem.**
+🔑 **Čísla si zapamatuj jako škálu: nad −1 normální · −1 až −2,5 OSTEOPENIE (předstupeň) · pod −2,5 OSTEOPORÓZA · pod −2,5 se zlomeninou TĚŽKÁ osteoporóza.**
+**Základem je vždycky vápník a vitamin D — tedy stavební materiál a hormon, který ho umí vstřebat.** ⚠️ **Bez nich by ostatní léky neměly z čeho stavět.** **U vápníku platí, že vstřebatelnost závisí na typu soli a na pH a KLESÁ S VĚKEM** *(a proto senioři na inhibitorech protonové pumpy vstřebávají vápník ještě hůř — viz otázka 99)*. **Nežádoucí účinky při dlouhodobém užívání: zácpa a riziko hyperkalcemie s ledvinovými kameny.**
+⚠️ **Léky si rozděl podle té jediné otázky: brzdí BOURÁNÍ, nebo pohání STAVĚNÍ?**
+**BRZDÍ BOURÁNÍ (antiresorpční):**
+- ⚠️ **BISFOSFONÁTY jsou hlavní skupina.** **Mají vazbu fosfor-uhlík-fosfor, díky které mají obrovskou afinitu ke kostní tkáni — zabudují se do kosti a zůstanou tam roky.** **Když se pak osteoklast pustí do bourání, pohltí je a to ho vyřadí z funkce.** ⚠️ *Proto mají extrémně dlouhý efekt i po vysazení.*
+- **DENOSUMAB** — monoklonální protilátka proti **RANKL**, což je signál, kterým osteoblasty říkají osteoklastům „bourejte". ⚠️ **Zablokuješ signál → osteoklast se ani neaktivuje.**
+- **KALCITONIN** — hormon z C-buněk štítné žlázy, snižuje aktivitu osteoklastů. **SERM** (selektivní modulátory estrogenních receptorů) — **napodobují ochranný účinek estrogenu na kost, aniž by stimulovaly prs a dělohu.**
+**POHÁNÍ STAVĚNÍ (anabolické):**
+- ⚠️ **TERIPARATID je rekombinantní úsek lidského parathormonu a je to nejzajímavější lék v otázce, protože zní jako protimluv.** **Parathormon přece kost odbourává!**
+ **Vysvětlení: záleží na tom, JAK je podán** — a je to úplně stejný princip jako u GnRH v otázce 115. ⚠️ **DLOUHODOBĚ ZVÝŠENÁ hladina parathormonu (jako u hyperparatyreózy) vede k převaze resorpce a kost ubývá. Ale KRÁTKÝ DENNÍ PULZ naopak stimuluje OSTEOBLASTY a kost přibývá.** **Stejná molekula, opačný výsledek podle časového profilu.**
+- **STRONCIUM-RANELÁT** dělá obojí — podporuje novotvorbu a brzdí resorpci. ⚠️ **Je to ale lék DRUHÉ linie a musí se podávat NALAČNO** (jinak ho jídlo, hlavně vápník, naváže).
+⚠️ **A teď odstavec o FLUORU, který je pro tebe nejdůležitější v celé otázce — a všimni si, že má dvě části s opačným závěrem:**
+**Mechanismus: fluoridy se pasivně vstřebají v duodenu a tenkém střevě a asi 50 % podané dávky se zabuduje do skeletu a zubů.** ⚠️ **V kosti i v dentinu fluorový iont NAHRADÍ HYDROXYLOVOU SKUPINU v kalciumhydroxyapatitu — a vznikne KALCIUMFLUOROAPATIT, který má vyšší chemickou stabilitu.**
+**A právě proto je odolnější vůči kyselinám z bakteriálního plaku — to je celý princip fluoridové prevence kazu.** **Doporučená denní dávka je 0,3–0,5 mg.**
+⚠️ **Ale u osteoporózy se fluor NEPOUŽÍVÁ — pro malý efekt.** **Kosti sice přibude, ale je horší kvality, takže se riziko zlomenin nesníží.** **Tuhle dvojznačnost stojí za to říct: co je výborné pro zub, není automaticky dobré pro kost.**
+⚠️ **A poslední zubařská věc, kterou musíš vědět: BISFOSFONÁTY a DENOSUMAB nesou riziko OSTEONEKRÓZY ČELISTI po extrakci.** **Mechanismus dává smysl — utlumíš přestavbu kosti, takže se rána v čelisti nedokáže zahojit a kost obnaží a odumře.** ⚠️ **Proto se sanace chrupu plánuje PŘED zahájením léčby, ne během ní.** *[obecné znalosti]*
 
 🔑 **Bisfosfonát brzdí osteoklast, teriparatid pohání osteoblast.** Bourání versus stavění.
 ⚠️ **Zubařsky dvakrát:** fluor tvoří **odolnější fluoroapatit** — a **bisfosfonáty i denosumab nesou riziko osteonekrózy čelisti po extrakci**, proto se sanace plánuje před zahájením léčby. `[obecné znalosti]`
