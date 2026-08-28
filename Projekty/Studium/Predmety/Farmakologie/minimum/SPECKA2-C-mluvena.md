@@ -1,6 +1,7 @@
 # MINIMUM MLUVENÉ — Speciální farmakologie II, část C (otázky 120–136)
 
 > **Text v uvozovkách je souvislá odpověď, kterou u zkoušky řekneš nahlas.**
+> **💬 = ať to dává smysl.** Lidsky vysvětlené všechno, co je v mluveném textu odborně — **nemusíš si k tomu nic dohledávat.** Přečti nejdřív 💬, pak se vrať k uvozovkám.
 > 🔑 = na čem to udržíš v hlavě · ⚠️ = past, na kterou se chytá
 
 ---
@@ -27,6 +28,24 @@ Nežádoucími účinky jsou proto především **tromboembolické příhody**, 
 
 Na rozdíl od estrogenů **gestageny HDL snižují**. Nejčastějším syntetickým gestagenem v antikoncepci je **levonorgestrel**.“
 
+💬 **Ať to dává smysl**
+**Tři přirozené estrogeny se liší jen tím, ve které životní fázi převažují — a to se dá zapamatovat jako příběh:** **estraDIOL je nejsilnější a vládne v plodném věku · estrON převezme vládu po menopauze (tvoří se hlavně v tukové tkáni, ne ve vaječníku) · estriOL je hormon TĚHOTENSTVÍ a vyrábí ho placenta.**
+⚠️ **Proč se přirozené estrogeny nepoužívají jako léky: rychle je odbourají játra při prvním průchodu** (viz obecka O18). **Proto se používá ETHINYLESTRADIOL — molekula upravená tak, aby játrům odolala, takže funguje i v tabletě a v malé dávce.** **Je proto nejběžnější složkou antikoncepce.**
+**Mechanismus je klasický steroidní: hormon projde do buňky, naváže se na NITROBUNĚČNÝ receptor a spustí přepis genů** (viz obecka O22 — jaderné receptory). ⚠️ **Odtud plyne, že účinek nastupuje pomalu, v řádu hodin až dnů, ne minut.**
+⚠️ **A teď jádro otázky — celý estrogen se dá shrnout do jedné dvojice, ze které plynou indikace i kontraindikace:**
+**CHRÁNÍ:**
+- **Zvyšuje HDL cholesterol** → ⚠️ **a proto mají ženy do menopauzy nižší kardiovaskulární riziko než muži stejného věku.** *(Po menopauze se rozdíl smaže.)*
+- **Udržuje kostní denzitu** → ⚠️ **a proto po menopauze, kdy estrogen vypadne, rychle vzniká osteoporóza** (viz otázka 130).
+**ALE SRÁŽÍ:**
+- ⚠️ **Zvyšuje koagulační faktory II, VII, IX a X a zároveň SNIŽUJE antitrombin III** — tedy **přidá plyn a ubere brzdu.** **Výsledkem je protrombotický stav.**
+🔑 **A tohle je celá otázka: estrogen chrání cévy a kost, ale zahušťuje krev.** **Všechny nežádoucí účinky i kontraindikace jsou jen důsledkem té druhé části.**
+**Nežádoucí účinky:** ⚠️ **tromboembolické příhody na prvním místě**, dále edémy, hyperpigmentace (chloasma), migrény. ⚠️ **A zajímavý dvojznačný efekt na nádory: roste riziko karcinomu prsu, ale KLESÁ riziko karcinomu ovarií.** *(Vysvětlení: potlačená ovulace znamená méně opakovaného hojení povrchu vaječníku, tedy méně příležitostí k mutaci. — [obecné znalosti])*
+**Kontraindikace — všechny jsou logickým důsledkem:** **estrogen-dependentní nádory** (živil bys je) · **poškozená játra** (nemá kdo hormon odbourat) · **tromboembolie v anamnéze nebo trombogenní mutace, typicky LEIDENSKÁ MUTACE faktoru V** *(vrozený stav, kdy je faktor V odolný vůči vlastní brzdě — proteinu C, viz Specka I, otázka 77)* · ⚠️ **a silné kuřačky.**
+⚠️ **Kouření plus antikoncepce je samostatná kontraindikace, a proto: kouření poškozuje endotel a samo o sobě zvyšuje srážlivost. Estrogen srážlivost zvyšuje taky. Rizika se nesčítají — NÁSOBÍ SE.** **U ženy nad 35 let, která kouří, je proto kombinovaná antikoncepce zakázaná.**
+**Gestageny:** **progesteron vzniká ve žlutém tělísku v druhé polovině cyklu, v těhotenství v placentě.** **Jeho úkolem je „připravit a udržet" — připraví endometrium na uhnízdění, rozvine sekreční žlázy v prsu, tlumí ovulaci a zahustí hlen v děložním hrdle.**
+⚠️ **Zajímavost, kterou stojí za to říct: progesteron SNIŽUJE počet estrogenových receptorů** — je tedy přirozeným protihráčem estrogenu. **A proto se využívá i v prevenci hormonálně dependentních nádorů endometria.**
+⚠️ **A jeden důležitý rozdíl proti estrogenu: gestageny HDL naopak SNIŽUJÍ.** **Nejběžnějším syntetickým gestagenem v antikoncepci je levonorgestrel.**
+
 🔑 **Estrogeny chrání cévy a kost, ale sráží krev.** Celá otázka je v téhle jedné větě.
 ⚠️ **Kouření plus antikoncepce = násobení trombotického rizika**, proto je to samostatná kontraindikace.
 
@@ -50,6 +69,23 @@ Otázka ale není jen o rizicích — je potřeba zmínit i **pozitivní účink
 
 **Gestagenní, tedy jednosložková antikoncepce** spočívá v kontinuálním podávání progestinu. Je **vhodná pro kuřačky nad pětatřicet let a pro kojící ženy**, ale je **absolutně kontraindikovaná u žen s karcinomem prsu**. Jejím hlavním mechanismem je **zvýšení vazkosti cervikálního hlenu, který se stane neprůchodným pro spermie** — a proto je nutné upozornit na interakci: **acetylcystein a jiná mukolytika vazkost hlenu snižují, tedy ruší přesně ten mechanismus, na kterém tahle antikoncepce stojí.**“
 
+💬 **Ať to dává smysl**
+⚠️ **Nejdřív si připomeň normální cyklus, jinak mechanismus nedává smysl: FSH nechá dozrát folikul, prudký výstřel LH spustí OVULACI.** **A obojí je řízeno zpětnou vazbou — když hormonů z vaječníku koluje dost, hypofýza je přestane vydávat.**
+⚠️ **A přesně na tom antikoncepce stojí: dodáš hormony zvenku, tělo si myslí, že už ovuloval, a přestane vydávat povel k ovulaci.** **Není to blokáda — je to podvod na zpětné vazbě.**
+🔑 **Dvě složky, dvě různé práce:**
+- **Estrogen → negativní zpětná vazba → sníží FSH → folikul nedozraje.**
+- **Gestagen → sníží LH → nedojde k ovulaci · ZAHUSTÍ CERVIKÁLNÍ HLEN → spermie neprojdou · a sníží pohyblivost vejcovodů.**
+**Výsledek: nedojde k ovulaci ANI k transportu spermií — jsou to dvě nezávislé pojistky.**
+**Pearlův index** = **kolik žen ze sta otěhotní za rok užívání.** ⚠️ **Čím menší číslo, tím spolehlivější metoda.** **U kombinované antikoncepce je 0,1–0,4** — tedy méně než jedna žena z dvou set. *(Pro srovnání: bez antikoncepce je index kolem 85. — [obecné znalosti])*
+**Vyšetření před nasazením nejsou formalita — každé má důvod:** **cytologie** (vyloučit nález na čípku) · **tlak** (estrogen ho zvyšuje) · **jaterní testy** (játra hormon odbourávají) · **anamnéza rizik** (trombóza v rodině, kouření).
+⚠️ **A tři věci, o kterých se pacientka MUSÍ poučit, protože se na to ptají: nevhodnost kouření · co dělat při vynechané tabletě · a hlavně že antikoncepce NECHRÁNÍ před pohlavně přenosnými chorobami.**
+**Formy kombinované antikoncepce se liší jen tím, jak věrně napodobují přirozený cyklus:** **jednofázová = stejná dávka celý cyklus · dvoufázová = víc gestagenu ve druhé fázi · třífázová = nejmodernější a tělu nejpřirozenější.** **Náplasti** — ⚠️ **méně účinné u žen nad 90 kg**, protože se dávka rozředí ve větším objemu. **Vaginální kroužky.**
+**Nežádoucí účinky jsou přesně ty, které plynou z estrogenu (viz otázka 120): tromboembolie, ICHS a infarkt, poškození jater, žlučové kameny a vyšší riziko karcinomu prsu.**
+⚠️ **Ale otázka není jen o rizicích — a je dobré to říct, protože to ukazuje vyváženost.** **Pozitivní účinky: úprava cyklu · méně silné krvácení (tedy méně anemie) · zmírnění premenstruačního syndromu · méně funkčních ovariálních cyst · nižší riziko mimoděložního těhotenství · a zlepšení akné** *(estrogen tlumí androgeny)*.
+**Gestagenní („minipilulka")** = jen progestin, kontinuálně. ⚠️ **A protože chybí estrogen, chybí i jeho trombotické riziko — proto je vhodná pro kuřačky nad 35 let a pro kojící ženy.** ⚠️ **Absolutně kontraindikovaná je ale u karcinomu prsu.**
+⚠️ **A tady je nejzajímavější interakce z celé otázky, kterou nikdo nečeká — a stojí za to ji říct, protože ukazuje, že rozumíš mechanismu:** **hlavním mechanismem gestagenní antikoncepce je ZAHUŠTĚNÍ cervikálního hlenu, který se stane pro spermie neprůchodným.**
+**A co dělá acetylcystein a jiná mukolytika? ŘEDÍ HLEN** (viz otázka 95). ⚠️ **Zruší tedy přesně ten mechanismus, na kterém tahle antikoncepce stojí.** **Pacientka bere lék na kašel a přijde o ochranu.**
+
 🔑 **Estrogen vypne FSH, gestagen vypne LH a zahustí hlen.** Dvě složky, dvě různé práce.
 ⚠️ **Mukolytikum může narušit účinnost gestagenní antikoncepce** — to je interakce, kterou nikdo nečeká.
 
@@ -70,6 +106,24 @@ Léčba má **čtyři hlavní skupiny**.
 **Inhibitory 5-alfa-reduktázy, tedy finasterid a dutasterid, selektivně a kompetitivně inhibují přeměnu testosteronu na dihydrotestosteron** a přidávají se k alfa-blokátorům; využívají se i k **léčbě androgenní alopecie**. Zajímavé je, že **svaly si vystačí s testosteronem a dihydrotestosteron nepotřebují — proto tato léčiva nesnižují svalovou hmotu**. Nežádoucími účinky jsou **poruchy libida a erekce a snížení objemu ejakulátu**.
 
 Dále se používají **inhibitory fosfodiesterázy 5, tedy tadalafil**, **anticholinergika jako solifenacin u hyperaktivního močového měchýře** a **fytoterapeutika** z palmy trpasličí a kopřivy.“
+
+💬 **Ať to dává smysl**
+**Prostata obklopuje močovou trubici hned pod měchýřem.** ⚠️ **Když se zvětší, sevře trubici jako prsten — a proto jsou všechny příznaky o močení.** **„Benigní" znamená, že to není rakovina; jde o zmnožení normálních stromálních buněk.**
+⚠️ **Patogeneze zní překvapivě — za zvětšení prostaty u stárnoucího muže může do jisté míry ESTROGEN:** **s věkem přibývá estrogenů (testosteron se na ně aromatizuje v tukové tkáni) a estrogeny ZVYŠUJÍ POČET RECEPTORŮ pro dihydrotestosteron.** ⚠️ **Prostata je tedy citlivější na tentýž DHT, kterého nemusí být víc.** **A právě proto fungují inhibitory 5-alfa-reduktázy — sníží množství DHT, na který ty namnožené receptory čekají.**
+**Prostatismus** = souhrnný název pro potíže s močením. ⚠️ **Dělí se na dvě skupiny a rozdíl je logický: IRITAČNÍ = měchýř je podrážděný a přeplněný · OBSTRUKČNÍ = moč se špatně dostává ven.**
+- **Iritační:** **polakisurie** (časté močení malých porcí) · **imperativní mikce** (nutkání, které nejde odložit) · **nykturie** (vstávání v noci) · **urgentní inkontinence.**
+- **Obstrukční:** **retardace startu** (musí chvíli čekat, než to začne) · **močení s úsilím** (musí tlačit) · **přerušovaná mikce** · **ztenčený proud.**
+⚠️ **Čtyři skupiny léků a je dobré je představit podle toho, JAK RYCHLE zaberou:**
+- ⚠️ **Alfa-blokátory (alfuzosin, silodosin, tamsulosin) uleví HNED — během dnů.** **Neuvolní žlázu, jen povolí hladký sval prostaty a hrdla měchýře, takže moč projde snadněji.**
+ **Klíčovou vlastností je selektivita: míří na podtyp α1A a α1D, který je hlavně v prostatě, a NESAHAJÍ na α1B v cévách.** ⚠️ **Proto mají mnohem míň systémových nežádoucích účinků než starší -zosiny** (viz Specka I, otázka 45) — **ale na ortostatickou hypotenzi je stejně nutné dát pozor, selektivita není absolutní.**
+- ⚠️ **Inhibitory 5-alfa-reduktázy (finasterid, dutasterid) žlázu SKUTEČNĚ ZMENŠÍ — ale trvá to měsíce.** **Blokují přeměnu testosteronu na účinnější dihydrotestosteron** (viz otázka 119).
+ ⚠️ **Vděčný detail, který stojí za to zmínit: SVALY si vystačí se samotným testosteronem a dihydrotestosteron nepotřebují — proto tato léčiva NESNIŽUJÍ svalovou hmotu.** **Prostata a vlasový folikul ale DHT potřebují — proto se finasterid používá i u androgenní alopecie.**
+ **Nežádoucí účinky: poruchy libida a erekce a snížený objem ejakulátu.**
+🔑 **A odtud plyne, proč se ty dvě skupiny kombinují: alfa-blokátor uleví hned, inhibitor 5-alfa-reduktázy řeší příčinu dlouhodobě.** **Jeden je symptomatický, druhý kauzální.**
+- **Inhibitory fosfodiesterázy 5 (tadalafil)** — uvolní hladký sval přes cGMP (viz Specka I, otázka 71); **výhodou je, že řeší i erektilní dysfunkci, která tyhle pacienty často provází.**
+- **Anticholinergika (solifenacin)** u převažujících iritačních příznaků — **zklidní přeaktivní měchýř.** ⚠️ **Pozor ale: samotná anticholinergika u výrazné obstrukce mohou způsobit retenci moči** (viz Specka I, otázka 39).
+- **Fytoterapeutika** z palmy trpasličí a kopřivy — účinnost je diskutabilní.
+⚠️ **Finasterid je učebnicový příklad NOCEBA a je hezké to propojit s obeckou O9:** **ve studii mělo erektilní dysfunkci 44 % pacientů, kteří byli o tomto riziku poučeni, ale jen 15 % těch, kteří poučeni nebyli.** **Stejný lék, stejná dávka — rozdíl udělalo jen očekávání.**
 
 🔑 **Alfa-blokátor uvolní sval hned, finasterid zmenší žlázu za měsíce.** Proto se kombinují.
 ⚠️ **Finasterid je učebnicový příklad noceba** — informovaní pacienti hlásí erektilní dysfunkci výrazně častěji než neinformovaní.
