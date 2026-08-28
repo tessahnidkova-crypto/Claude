@@ -721,6 +721,16 @@ Na straně pacienta hraje roli **pohlaví — ženy jsou obecně citlivější a
 
 Nakonec bych zdůraznila **tři stavy, které mění celou farmakokinetiku najednou. Poruchy hemodynamiky snižují průtok místy vstřebávání, takže je vstřebávání zpomalené a nespolehlivé — proto se pro rychlou a jistou odpověď volí nitrožilní podání. Onemocnění ledvin ovlivní celé ADME a dávka se upravuje podle odhadu glomerulární filtrace. A u onemocnění jater se sníží first-pass efekt, čímž stoupne biologická dostupnost — stejná dávka pak u cirhotika vyvolá výrazně vyšší koncentraci.**“
 
+💬 **Ať to dává smysl**
+**Tahle otázka je vlastně opakovací** — nic nového se v ní neučí, jen se poskládá dohromady všechno z O10 až O20. **Nemusíš se učit seznamy nazpaměť. Stačí projít ADME a u každého písmene se zeptat: „co může tenhle krok pokazit?"** — odpovědi si domyslíš.
+**Absorpce** = co ovlivní vstřebání? **Jaká je molekula** (tučná projde, nabitá ne — O10), **v jaké je formě** (retardovaná uvolní pomalu), **kolik tam teče krve** (po běhu víc, v šoku skoro nic), **jaké je pH** a **jestli je tam jídlo**.
+**Distribuce** = co ovlivní rozvezení? **Průtok krve** (dobře prokrvený mozek dostane lék první), **vazba na albumin** (navázané neúčinkuje — O14), **tučnost** (rozhoduje, jestli se dostane do mozku) a **zánět** (zanícená tkáň má propustnější cévy, takže tam pronikne i to, co by jinak neproniklo).
+**Metabolismus** = co ovlivní odbourávání? **Geny** (jsi rychlý nebo pomalý metabolizátor — O26), **jiné léky** (inhibice a indukce — O19), **stav jater** a **věk**.
+**Exkrece** = co ovlivní vyloučení? **Především ledviny.** Když klesne filtrace, lék se hromadí.
+**Prokrvení v šoku — proč to stojí za zvláštní zmínku:** při šoku tělo **stáhne cévy v kůži, svalech a útrobách**, aby zachránilo mozek a srdce. **A tím pádem se z podkoží ani ze svalu nic nevstřebá** — píchneš injekci a nic se nestane. Proto se v šoku podává **nitrožilně**: je to jediná cesta, která na prokrvení nezávisí, protože jdeš rovnou do oběhu. *[obecné znalosti]*
+**Proč jsou ženy citlivější:** mají **jiný podíl tuku a vody** (víc tuku, míň vody), **menší tělesnou hmotnost při stejné dávce** a odlišnou aktivitu některých enzymů. Dávky léků se přitom historicky odzkoušely hlavně na mužích.
+**Biologické rytmy** = tělo v noci a ve dne pracuje jinak. Proto se **statiny berou večer** (v noci se tvoří nejvíc cholesterolu) a **kortikoidy ráno** (aby napodobily přirozený vrchol kortizolu). *[obecné znalosti]*
+
 🔑 **Projeď ADME a u každého písmene řekni tři věci** — máš okamžitě strukturu celé odpovědi.
 ⚠️ **Šok = nespolehlivé vstřebávání → jdi nitrožilně.**
 
@@ -739,6 +749,19 @@ Rozdíl se dá říct jednou větou: **kinetická interakce mění, KOLIK léči
 **Synergismus od potenciace odliším otázkou, co dělá ta druhá látka sama.** Diuretikum samo digoxinovou toxicitu nezpůsobí — vyvolá jen hypokalemii, a ta teprve toxicitu zvýší. **To je tedy potenciace, ne synergismus.**
 
 Posledním okruhem jsou **interakce s léčivými rostlinami. Grapefruit inhibuje cytochrom P450 i P-glykoprotein, a tím zvyšuje biologickou dostupnost. Třezalka je naopak indukuje, a proto snižuje plazmatické koncentrace** — klinicky nejvýznamněji u hormonální antikoncepce a warfarinu.“
+
+💬 **Ať to dává smysl**
+**Rozdíl mezi kinetickou a dynamickou interakcí si ověříš jednou otázkou: „změnila by se hladina v krvi?"**
+- **Kinetická** = **změní se KOLIK léku v těle je.** Jeden lék ovlivní vstřebání, rozvezení, odbourání nebo vyloučení toho druhého. **Odběr krve by ukázal jinou hladinu.** Řeší se úpravou dávky nebo tím, že se léky vezmou s odstupem.
+- **Dynamická** = **hladina je úplně stejná, ale výsledný účinek jiný**, protože oba léky sahají na tentýž orgán nebo systém. **Odběr by neukázal nic.** Odstup ani úprava dávky nepomůžou — jediné řešení je jeden z těch léků nedávat.
+**Chelát** je pojem z chemie: **lék a kov se spojí do velké klepetovité molekuly, která se nedokáže vstřebat** (*chelé* = klepeto). Proto **tetracyklin nesmíš zapít mlékem** — vápník ho na sebe naváže a antibiotikum projde střevem bez užitku. Totéž platí pro železo a antacida.
+**P-glykoprotein** je „vyhazovač" ve střevní stěně — **pumpa, která už vstřebané léčivo aktivně vyhazuje zpátky do střeva.** Když ho něco zablokuje (grapefruit), do těla se dostane víc.
+**Čtyři typy dynamických interakcí jako čtyři rovnice — a hlavně jak je od sebe poznat:**
+- **Sumace 1 + 1 = 2** — obě látky umí totéž a účinky se prostě sečtou (dvě analgetika).
+- **Synergismus 1 + 1 = 3** — **výsledek je větší než součet.** Klasika: **benzodiazepin + alkohol**. Každý sám v běžné dávce dech neutlumí, dohromady zabíjejí.
+- **Potenciace 1 + 0 = 3** — **druhá látka SAMA takový účinek vůbec nemá, jen ten první zesílí.**
+- **Antagonismus 1 − 1 = 0** — ruší se. Buď **chemicky** (protamin sulfát na sebe naváže heparin přímo v krvi), nebo **receptorově** (naloxon vytlačí opioid z receptoru).
+**Synergismus od potenciace odlišíš jedinou otázkou: „umí to ta druhá látka sama?"** Diuretikum samo o sobě digoxinovou toxicitu **nezpůsobí** — udělá jen hypokalemii, a **teprve nízký draslík zvýší citlivost srdce na digoxin.** Druhá látka tedy přispěla nulou vlastního účinku → **je to potenciace, ne synergismus.** Tohle je typická doplňující otázka.
 
 🔑 **Kinetické = kolik ho tam je. Dynamické = co to tam dělá.**
 ⚠️ **Salicyláty vytěsní warfarin: vazba klesne z 99 na 95 procent a účinek stoupne čtyřnásobně.**
@@ -765,6 +788,19 @@ Nejlepším příkladem je **kodein, protože na něm jde ukázat obojí najedno
 
 Z dalších příkladů: **u warfarinu vedou alely CYP2C9 u pomalého metabolizátora ke krvácivým komplikacím; u izoniazidu je pomalým metabolizátorem asi šedesát procent kavkazské populace, což vede k hepatotoxicitě; a u azathioprinu je enzymem thiopurin-S-methyltransferáza, tedy TPMT.**“
 
+💬 **Ať to dává smysl**
+**Farmakogenetika odpovídá na otázku, kterou zná každý z praxe: proč dva lidé po stejné tabletě dopadnou úplně jinak?** Odpověď: **protože enzym, který ten lék odbourává, není u všech lidí stejný.** Gen pro něj má v populaci víc variant a některé varianty dělají enzym pomalý nebo nefunkční.
+**Zárodečná vs. somatická mutace — rozdíl je v tom, KDY mutace vznikla:**
+- **Zárodečná (germinální)** — byla už ve vajíčku nebo spermii, takže je **v každé buňce těla** a **dědí se.** Proto stačí odebrat **krev** — je tam stejná jako všude jinde.
+- **Somatická** — vznikla **až během života v jedné konkrétní buňce**, ze které vyrostl nádor. **V ostatních buňkách není a nedědí se.** Proto se musí testovat **přímo z nádorové tkáně** — v krvi bys ji nenašla.
+**Polymorfismus** znamená doslova „mnohotvárnost". Definice s tím jedním procentem říká jen tolik, že **to nesmí být vzácná porucha** — musí to být běžná varianta, kterou má aspoň každý stý člověk. **Jinak by to nebyl polymorfismus, ale nemoc.**
+**Čtyři fenotypy metabolizátorů, lidsky:** *pomalý* (enzym skoro nefunguje) · *intermediární* (funguje napůl) · *rychlý / extenzivní* (**tohle je normál, většina lidí**) · *ultrarychlý* (enzymu má člověk násobně víc, často proto, že má gen zdvojený).
+**A teď to hlavní pravidlo, které z toho dělá logiku místo memorování — zeptej se: „co ten enzym s lékem dělá?"**
+- **U běžného léku enzym účinek UKONČUJE** (rozkládá aktivní látku). **Pomalý metabolizátor → lék se nerozkládá → hromadí se → OTRAVA. Ultrarychlý → zmizí dřív, než zabere → NEÚČINNOST.**
+- **U proléčiva enzym účinek TEPRVE VYTVÁŘÍ** (aktivuje neúčinnou látku). **Takže všechno obráceně: pomalý → aktivní látka nevznikne → lék nezabere. Ultrarychlý → vyrobí jí moc → OTRAVA.**
+**Kodein je nejlepší příklad, protože na něm jsou vidět oba konce najednou.** Kodein sám o sobě bolest netlumí — účinný je až morfin, na který ho **CYP2D6** přemění. **Pomalému metabolizátorovi tedy kodein nezabere vůbec** (a lékař si myslí, že simuluje). **Ultrarychlému vznikne morfinu tolik, že mu utlumí dech** — a popsalo se to i u **kojenců**, kterým se morfin dostal mateřským mlékem. Proto **kodein dnes nesmějí kojící matky ani děti do 12 let.**
+**Co znamenají ta procenta u CYP2D6:** je ho v játrech jen **asi 2 % ze všech cytochromů, ale odbourává 20–30 % běžných léků** — je to tedy malý enzym s obrovským záběrem, a proto se na jeho variantách tolik záleží. **Až 7 % bělochů jsou pomalí metabolizátoři**, což je zhruba každý čtrnáctý pacient v čekárně.
+
 🔑 **Zárodečné z krve, somatické z nádoru. U proléčiva je všechno naopak.**
 ⚠️ **Kodein je proléčivo** — pomalý metabolizátor nemá analgezii, ultrarychlý se předávkuje.
 
@@ -785,6 +821,16 @@ Z dalších příkladů: **u warfarinu vedou alely CYP2C9 u pomalého metaboliz�
 Nakonec dvojice **senzitizace a desenzitizace. Senzitizace vzniká při blokádě receptorů a projeví se jejich up-regulací; desenzitizace vzniká při přítomnosti agonisty a projeví se down-regulací.**
 
 Klinickým důsledkem senzitizace je **rebound fenomén u betablokátorů**. Dlouhodobá blokáda vede k namnožení receptorů, a když se lék náhle vysadí, **dopadne normální hladina noradrenalinu na výrazně větší počet receptorů** — a pacient dostane tachykardii, hypertenzi nebo ischemii. **Rebound tedy nezpůsobuje nadbytek mediátoru, ale nadbytek receptorů.** Proto se betablokátory vysazují postupně.“
+
+💬 **Ať to dává smysl**
+**Všechny tři pojmy znamenají „lék přestal fungovat" — liší se ale RYCHLOSTÍ a hlavně DŮVODEM.** To je celá otázka.
+**Tachyfylaxe** (*tachys* = rychlý, *fylaxis* = ochrana) = **účinek zmizí během minut až hodin**, protože **došla zásoba, ne proto, že by se něco pokazilo na receptoru.** Efedrin nedodává noradrenalin — **jen vyplavuje ten, co je uskladněný ve váčcích.** Když jsou váčky prázdné, efedrin funguje pořád stejně dobře, **jen není co vyplavit.** Naběračka, ne kohoutek. **A proto se účinek rychle obnoví** — stačí, aby si nerv zásoby doplnil.
+**Tolerance** = **postupné slábnutí účinku v řádu dnů až týdnů, protože se přizpůsobil PACIENT** — buď mu ubylo receptorů (down-regulace, viz O22), nebo si zvýšil aktivitu enzymů, které lék odbourávají. **Obnovuje se stejně pomalu.**
+**A tady je věta, kterou zkoušející rádi slyší: tolerance nemusí postihnout všechny účinky léku stejně.** U beta-2 agonistů u astmatu je to dokonce **výhoda** — **vymizí třes, ale rozšíření průdušek zůstane**. U opioidů je to naopak zrádné: **tolerance se vyvine na analgezii i euforii, ale NE na zácpu a NE na miózu** (viz otázka 60 ve specce).
+**Rezistence je úplně jiná kategorie a je důležité to říct nahlas: u tolerance se mění pacient, u rezistence se mění CÍL** — bakterie nebo nádorová buňka.
+**A ještě jedna věc, na které se dá získat bod: antibiotikum mutaci NEZPŮSOBÍ.** Odolné bakterie v populaci **náhodně existují už předtím**. Antibiotikum jen **vyhubí ty citlivé a uvolní odolným místo**, takže se namnoží. **Je to darwinovský výběr, ne adaptace.** Proto se říká, že antibiotika rezistenci „selektují", ne „vytvářejí".
+**Senzitizace a desenzitizace jsou jen jiná jména pro up- a down-regulaci z O22:** *desenzitizace* = pořád tam někdo tluče na dveře (agonista) → **buňka dveře ubere**. *Senzitizace* = dveře jsou dlouho zabouchané (blokáda) → **buňka jich nadělá víc**.
+**A odtud rebound fenomén u betablokátorů, což je nejcennější klinický důsledek celé otázky:** za měsíce blokády si srdce nadělá **výrazně víc receptorů**. Když lék náhle vysadíš, **noradrenalinu je pořád normální množství — ale dopadne na dvojnásobek zámků.** Výsledkem je tachykardie, hypertenzní krize nebo i infarkt. **Nezpůsobí to nadbytek mediátoru, ale nadbytek receptorů** — proto se betablokátor vysazuje postupně během týdnů.
 
 🔑 **Tachy = rychle. Tolerance = pacient, rezistence = cíl.**
 ⚠️ **Efedrin: došel noradrenalin, ne receptor.**
@@ -811,6 +857,14 @@ Druhou částí otázky je **polypragmazie, tedy užívání více léků souča
 
 Za zmínku stojí i **preskripční kaskáda — nežádoucí účinek jednoho léku se mylně vyhodnotí jako nová nemoc a nasadí se na něj další lék.** Klasicky: blokátor vápníku způsobí otoky kotníků, ty se vyhodnotí jako srdeční selhání a nasadí se diuretikum. Z jednoho léku jsou čtyři a pacient přitom srdeční selhání nikdy neměl.“
 
+💬 **Ať to dává smysl**
+**Játra dělají pro léky dvě různé práce — a při cirhóze selžou obě najednou:** **odbourávají** (méně enzymů → lék se hromadí) a **vyrábějí albumin** (méně albuminu → víc volné, tedy účinné frakce — viz O14). **Stejná dávka proto u cirhotika udělá výrazně větší účinek ze dvou nezávislých důvodů.** A u warfarinu je to trojnásobný problém, protože **játra vyrábějí právě ty srážecí faktory, které warfarin blokuje** — brzdíš systém, který už sám o sobě nefunguje.
+**Aminoglykosidy (gentamicin, amikacin) a jejich bludný kruh** stojí za to umět vyprávět, protože je to hezká ukázka: **jsou nefrotoxické a zároveň se vylučují ledvinami.** Poškodí ledvinu → ledvina hůř vylučuje → hladina stoupne → poškodí ledvinu ještě víc. **Kruh, který se sám roztáčí** — proto se jejich hladiny v krvi měří.
+**Betablokátor u diabetika — proč je to nebezpečné, a je to nejvděčnější část otázky:** když klesne cukr, tělo spustí poplach přes **sympatikus** — pacient se **potí, třese, buší mu srdce**. **A přesně tyhle příznaky mu betablokátor umlčí**, protože jsou adrenergní. **Pacient tedy hypoglykemii nepozná a rovnou zkolabuje.** *(Pocení zůstává, protože jde přes cholinergní vlákna — to je hezký detail, když si na něj vzpomeneš.)* *[obecné znalosti]*
+**Štítná žláza řídí rychlost metabolismu celého těla** — proto **hypotyreóza všechno zpomalí (i odbourávání léků, takže se hromadí)** a **hypertyreóza všechno zrychlí (léky mizí rychleji)**. Nemusíš si to pamatovat, stačí si vzpomenout, co štítná žláza dělá.
+**Polypragmazie** (*pragma* = věc, čin) = **braní mnoha léků najednou**, typicky pět a víc. Problém není jen v počtu — **počet možných interakcí roste rychleji než počet léků.** Při dvou lécích je jedna dvojice, při pěti už deset, při deseti pětačtyřicet. *[obecné znalosti]*
+**Preskripční kaskáda je nejcennější pojem celé otázky** a stojí za to ho říct s příkladem, protože ukazuje klinické myšlení. **Nežádoucí účinek léku se omylem vyhodnotí jako nová nemoc — a nasadí se na něj další lék.** Blokátor kalciových kanálů (amlodipin) běžně dělá **otoky kotníků**. Ty se zamění za srdeční selhání → nasadí se **diuretikum** → to způsobí **dnu** → nasadí se **alopurinol** → a z jedné tablety jsou čtyři, přičemž **pacient srdeční selhání nikdy neměl.** **Řešení je vždycky stejné: u nového příznaku se první ptej, jestli ho nedělá lék, který pacient už bere.**
+
 🔑 **Játra = kumulace plus míň albuminu. Ledviny = kumulace. Hypotyreóza brzdí, hypertyreóza zrychluje.**
 ⚠️ **Betablokátor u diabetika maskuje hypoglykemii.**
 
@@ -835,6 +889,23 @@ Jádrem otázky je **dělení na šest typů, které se označují písmeny podl
 **Typ E jsou účinky po ukončení léčby — rebound fenomén a abstinenční syndrom.**
 
 A **typ F je selhání terapie**, nejčastěji způsobené **indukcí enzymů**. Je to jediný typ, kde **nežádoucím účinkem je nepřítomnost účinku žádoucího** — například selhání antikoncepce po rifampicinu.“
+
+💬 **Ať to dává smysl**
+**Tři pojmy, které se pletou, a rozdíl je jen v tom, jak jistá je souvislost s lékem:**
+- **Nežádoucí příhoda** = **stalo se to během léčby, ale nevíme, jestli kvůli ní.** Pacient si při studii zlomil nohu — zapíše se, ale s lékem to nemusí mít nic společného. **Je to jen časová souvislost.**
+- **Nežádoucí účinek** = **víme, že to lék způsobil**, a přišlo to po **normální dávce** (ne po předávkování). Je to příčinná souvislost.
+- **Neočekávaný** = **není o tom zmínka v SPC**, tedy nikdo to zatím nepopsal.
+- **Závažný** = splňuje jednu z pěti položek výčtu: **úmrtí, ohrožení života, hospitalizace, trvalé poškození, vrozená vada.**
+⚠️ **„Neočekávaný" a „závažný" nejsou totéž a je to oblíbená chytačka.** Neočekávaná může být neškodná vyrážka; závažná může být reakce, která je v SPC popsaná od začátku.
+**Šest typů, lidsky — a hlavně jak je od sebe poznáš:**
+- **A — Augmented, „zesílený".** **Je to prostě moc toho, co lék dělá.** Warfarin ředí krev → moc ho → krvácení. Inzulin snižuje cukr → moc ho → hypoglykemie. **Proto je předvídatelný (dá se odvodit z mechanismu), závisí na dávce, je nejčastější (95 %) a řeší se snížením dávky, ne vysazením.**
+- **B — Bizarre, „bizarní".** **Nedá se odvodit z mechanismu vůbec** — nemá to s tím, co lék dělá, nic společného. Alergie na penicilin nesouvisí s tím, že penicilin zabíjí bakterie. **Nezávisí na dávce** (stačí stopa), **je vzácný, ale zabíjí** — a **jediné řešení je lék vysadit**, snižovat dávku nemá smysl.
+- **C — Continuous, „chronický".** Přijde **až po dlouhém braní** — kortikoidy postupně utlumí nadledviny, protože tělo přestane vyrábět vlastní kortizol, když ho dostává zvenku.
+- **D — Delayed, „opožděný".** Přijde **po letech, někdy až u dalšího pokolení** — teratogenita, karcinogenita.
+- **E — End of treatment, „po skončení".** Objeví se **až když lék vysadíš** — rebound, abstinenční příznaky.
+- **F — Failure, „selhání".** **Nežádoucím účinkem je, že lék nezabral** — typicky proto, že jiný lék indukoval enzymy a rozložil ho (rifampicin + antikoncepce → nechtěné těhotenství).
+**Mnemotechnika, která to udrží pohromadě: A je moc účinku, B je divný účinek, C je dlouhý, D je pozdní, E je po konci, F je žádný.**
+**Farmakovigilance** = *vigilantia* je bdělost. **Systém, který sbírá hlášení o nežádoucích účincích z praxe** — přesně proto, že klinické studie vzácné účinky nezachytí (viz O4). **Pacient hlásit smí, zdravotník hlásit musí.**
 
 🔑 **A jako Augmented, B jako Bizarre, C jako Continuous, D jako Delay, E jako Ending, F jako Failure.**
 ⚠️ **Neočekávaný ≠ závažný.** Neočekávaný není v SPC, závažný splňuje ten výčet.
@@ -863,6 +934,18 @@ Alergické reakce se dělí na **čtyři typy a nejlépe se odliší časem**.
 
 Na závěr je potřeba odlišit dvě reakce, které vypadají jako alergie, **ale senzitizaci nevyžadují. Pseudoalergická reakce není imunitní — jde o přímé vytěsnění histaminu z mastocytů, takže může nastat už při první dávce a závisí na rychlosti podání**; typicky red man syndrom po rychlém podání vankomycinu, kde stačí infuzi zpomalit. **A idiosynkratická reakce je geneticky podmíněná odchylka metabolismu** — například atypická pseudocholinesteráza, kvůli které se suxamethonium odbourává tak pomalu, že je nutné pacienta ventilovat až dvanáct hodin.“
 
+💬 **Ať to dává smysl**
+**Nejdůležitější věta na začátek: alergie nikdy nevznikne při první dávce.** Imunitní systém musí látku **nejdřív potkat, poznat a vyrobit si na ni protilátky** — tomu se říká **senzitizace** a sama o sobě se nijak neprojeví. **Reakce přijde až při dalším setkání**, kdy je munice připravená. Proto pacient, který penicilin bral už desetkrát bez potíží, může dostat anafylaxi napojedenácté — **není to nelogické, je to přesně naopak: bez těch deseti předchozích dávek by se to stát nemohlo.**
+**Hapten** — a proč se to vůbec řeší: **imunitní systém si všímá jen velkých věcí**, typicky bílkovin. **Molekula penicilinu je pro něj titěrná — sama by ho nikdy nezajímala.** Jenže **se chemicky přilepí na albumin** a tím se stane součástí velké molekuly, která už „vidět" je. **Hapten = malá látka, která se stane alergenem teprve po navázání na velký nosič.**
+**Čtyři typy reakcí a jak si je udržet: rozdíl je hlavně v ČASE, a ten čas plyne z toho, co všechno se musí stihnout.**
+- **Typ I (minuty)** — **protilátky IgE už sedí na mastocytech a histamin je předem naskladněný v granulích.** Nemusí se nic vyrábět, jen se vysype. **Proto je to nejrychlejší a nejnebezpečnější** — otok, dušnost, anafylaxe.
+- **Typ II** — protilátky IgG a IgM **označkují buňku k likvidaci**. Klasicky se ničí krvinky nebo destičky (heparinem indukovaná trombocytopenie).
+- **Typ III (1–3 týdny)** — vzniknou **komplexy protilátky s lékem**, které se usazují ve stěnách cév a ledvin a tam zapálí zánět (vaskulitida, glomerulonefritida).
+- **Typ IV (2–8 dní)** — **žádné protilátky, pracují T-lymfocyty.** A ty se musí nejdřív **namnožit, což trvá dny** — proto je nejpomalejší. Klasika je **kontaktní dermatitida**: náušnice tě rozdráždí až za dva dny, ne hned.
+**Proč je adrenalin u anafylaxe lék první volby a antihistaminikum ne:** anafylaxe má **tři smrtící složky najednou — padá tlak, zavírají se průdušky a selhává srdce.** **Adrenalin řeší všechny tři** (α1 stáhne cévy → tlak nahoru, β2 otevře průdušky, β1 nakopne srdce). **Antihistaminikum blokuje jediný mediátor — a ten je navíc už dávno vyplavený a účinkuje.** Zavřít stodolu, když už kůň utekl.
+**Pseudoalergie** = „falešná alergie". **Vypadá jako typ I, ale imunitní systém v tom vůbec není.** Látka **vykopne histamin z mastocytů přímo, chemicky** — proto **může přijít hned při první dávce** a proto **záleží na tom, jak rychle se podá**. Odtud **red man syndrom** po vankomycinu: pacient zčervená a otéká, ale **stačí infuzi zpomalit a je to v pořádku** — u pravé alergie by to nepomohlo vůbec.
+**Idiosynkrazie** (*idios* = vlastní, zvláštní) = **geneticky daná odchylka v metabolismu, ne imunitní reakce.** Pacient prostě má jinou variantu enzymu. **Atypická pseudocholinesteráza** je učebnicový příklad: **neodbourá suxamethonium**, takže pacient, který měl být ochrnutý pět minut, nedýchá dvanáct hodin a musí být ventilovaný. **Není to alergie a nedá se to léčit adrenalinem — dá se to jen přečkat.**
+
 🔑 **Alergie potřebuje druhou expozici. Pseudoalergie a idiosynkrazie ne.**
 ⚠️ **Pseudoalergie závisí na rychlosti podání** — proto se u red man syndromu jen zpomalí infuze.
 
@@ -881,6 +964,15 @@ Z toho okamžitě plyne, které tkáně jsou nejzranitelnější: **kostní dře
 **Mezinárodní agentura pro výzkum rakoviny, IARC, dělí karcinogeny do skupin. Ve skupině jedna jsou prokázané humánní karcinogeny — azbest, benzen, ethanol a cyklosporin.** Za zmínku stojí právě **ethanol, u kterého si to lidé neuvědomují, a cyklosporin, kde jde o cenu za imunosupresi**.
 
 A důležitá poznámka na závěr: **skupiny IARC neříkají, jak moc je látka nebezpečná, ale jak jistě víme, že karcinogenní je.** Proto je ve skupině jedna azbest i alkohol, přestože rizika jsou nesrovnatelná.“
+
+💬 **Ať to dává smysl**
+**Mutagenní ≠ karcinogenní, i když spolu souvisí.** *Mutagenní* = **poškodí DNA**. *Karcinogenní* = **způsobí nádor**. Ne každá mutace vede k nádoru — **většina poškozených buněk se buď opraví, nebo se sama zabije (apoptóza).** Nádor vznikne, až když mutace zasáhne zrovna gen řídící dělení a buňka to přežije.
+**Nejdůležitější myšlenka otázky: mutace se „zafixuje" až při kopírování DNA.** Dokud se buňka nedělí, **má opravný systém čas poškození spravit.** Jakmile se ale začne kopírovat, **chyba se opíše do obou kopií a je nevratná.** **Proto platí: čím rychleji se tkáň dělí, tím zranitelnější je.**
+**A z toho okamžitě plyne seznam nejohroženějších tkání — a zároveň seznam nežádoucích účinků cytostatik**, což je hezké propojení, které stojí za to říct: **kostní dřeň** (→ útlum krvetvorby), **sliznice trávicího traktu** (→ mukozitida, průjmy, afty v ústech — **zubařsky relevantní**), **vlasové folikuly** (→ vypadávání vlasů), **pohlavní buňky** a **plod**. **Nemusíš si ten seznam pamatovat — odvodíš ho z jediného pravidla „co se rychle dělí".**
+**Amesův test — jeho princip je opravdu elegantní a dá se vyprávět jako příběh:** vezme se **salmonela, která má rozbitý gen a neumí si vyrobit histidin** (aminokyselinu, kterou potřebuje k životu). Posadí se na misku, **kde histidin není** — takže tam **normálně nevyroste ani jedna kolonie**, prostě umře hlady. **Pak se přidá testovaná látka. Když ta látka způsobí mutaci, která ten rozbitý gen náhodou opraví, bakterie si histidin zase umí vyrobit — a začne růst.** **Každá kolonie na misce je tedy jedna prokázaná mutace.** Stačí je spočítat.
+**Proč se přidává jaterní frakce:** protože **spousta látek sama o sobě mutagenní není a stane se jí až po zpracování v játrech** (viz fáze I v O17 — právě tam vznikají reaktivní metabolity). **A bakterie žádná játra nemá.** Proto se do misky přilije rozdrcený jaterní extrakt, aby test zachytil i tyhle látky. Bez toho by test řadu karcinogenů přehlédl.
+**Genotoxické vs. epigenetické karcinogeny — nejlepší je přirovnání se zapálením domu:** **genotoxický (iniciátor) škrtne sirkou** — DNA je poškozená a **to už se nevrátí, je to ireverzibilní**. **Epigenetický (promotor) DNA nepoškodí, jen přilévá benzín** — zvýší pravděpodobnost, že se poškození projeví, například tím, že žene buňky k rychlejšímu dělení. **A protože nic nerozbil, je jeho účinek vratný — když benzín přestaneš lít, riziko klesá.** (Typicky hormony.)
+**A nejcennější věta na závěr, kterou se dá zabodovat: skupiny IARC neříkají, JAK MOC je látka nebezpečná, ale JAK JISTĚ víme, že karcinogenní je.** Proto je ve skupině 1 vedle azbestu i **alkohol** *(a mimo skripta například i zpracované maso — [obecné znalosti])* — **jistota průkazu je srovnatelná, ale míra rizika nesrovnatelná.** A **skupina 3 neznamená „bezpečné", ale „nemáme dost dat"**.
 
 🔑 **Amesův test: bakterie, která neumí histidin — když ho po expozici umí, látka je mutagenní.**
 ⚠️ **Skupina 3 IARC neznamená „bezpečné", ale „nemáme dost dat".**
@@ -909,6 +1001,19 @@ Léčiva se dělí do **pěti stupňů A až X**, kde **A znamená prokázanou b
 
 U **kojení** platí, že přestup je opět pasivní difuzí a **mateřské mléko je kyselejší než plazma, takže se v něm slabé báze rovněž zachytávají**. Prakticky se doporučuje **užívat lék hned po kojení, ideálně před nejdelším spánkem dítěte** — vrchol hladiny tak proběhne v pauze.“
 
+💬 **Ať to dává smysl**
+**Proč se v těhotenství mění kinetika:** přibude až **7 litrů tělesné vody** (plod, plodová voda, větší objem krve). **Víc vody = větší distribuční objem pro vodné léky = nižší koncentrace ze stejné dávky.** Zároveň se ten albumin, co v těle je, **naředí** (proto *diluční* hypoalbuminemie, *dilutio* = zředění) → **víc volné frakce**. A **ledviny filtrují o polovinu rychleji**, takže se řada léků rychleji ztrácí. **Souhrnně: v těhotenství často klesá hladina léku, takže se dávka spíš zvyšuje než snižuje** — u epileptiček je to zásadní.
+**Placenta není bariéra, je to jen tenká stěna.** **Prakticky všechno projde prostou difuzí** — a platí stejné pravidlo jako všude jinde (O10): **projde tučné, malé a nenabité.**
+**Iontová past u plodu — tady se ti zase spojí O10 s klinikou:** **krev plodu je kyselejší než krev matky.** Slabá zásada je v matčině krvi nenabitá → **projde placentou** → v kyselém prostředí plodu se **ionizuje** → **nabitá už zpátky nemůže** → **hromadí se u dítěte.** Přesně proto je **heparin bezpečný a warfarin ne**: heparin je obrovská nabitá molekula, která placentou vůbec neprojde, kdežto warfarin je malý a tučný.
+**Tři období — a je to jednoduché, protože každé má jinou logiku:**
+- **Blastogeneze (do 14. dne) — „vše nebo nic".** Buňky jsou ještě **totipotentní**, tedy každá umí nahradit kteroukoli jinou. **Když jich pár zemře, ostatní je zastoupí a nezůstane žádná stopa.** Když zemře moc, embryo se prostě neuchytí a žena o tom často ani neví. **Malformace vzniknout nemůže — ještě totiž není co deformovat**, orgány se nezaložily.
+- **Organogeneze (15.–90. den) — nejrizičtější období.** **Zakládají se orgány a každý má své úzké časové okno.** Když se do něj trefí škodlivina, **ten orgán se nevytvoří správně a už se to nedá dohnat** — příležitost se nevrací. Odtud anatomické vady.
+- **Fetální období (90.–280. den).** Orgány už jsou, jen dorůstají — **malformace tedy nevzniknou, ale mohou vzniknout funkční poruchy** (poškození ledvin, sluchu, mozku).
+**Kategorie A až X** jsou americké značení bezpečnosti: **A = ověřeně bezpečné, X = zakázané, riziko jednoznačně převažuje** (warfarin, statiny, retinoidy).
+**Proč zrovna ty konkrétní léky ve 2. a 3. trimestru:** **ACE inhibitory** poškodí ledviny plodu → plod nemočí → **ubude plodové vody (oligohydramnion)**, což pak brání vývoji plic. **NSA** zablokují prostaglandiny — a **prostaglandiny drží otevřenou Botallovu dučej**, spojku mezi plicnicí a aortou, kterou plod potřebuje, dokud nedýchá (viz otázka 62 ve specce). **Tetracykliny se vážou na vápník**, a proto se ukládají do vznikající kosti a zubu → **trvale zbarvená sklovina. To je zubařsky nejdůležitější položka celé otázky.**
+**A nejcennější věta, kterou otázku uzavřeš, protože ukazuje klinické myšlení: v těhotenství se nerozhoduje mezi lékem a ničím, ale mezi rizikem léku a rizikem neléčené nemoci.** **Neléčená epilepsie nebo neléčený diabetes ohrožují plod prokazatelně víc než dobře zvolený lék.** Vysadit léčbu „pro jistotu" je tedy taky rozhodnutí — a často to horší.
+**Kojení:** stejná logika jako u placenty. **Mléko je kyselejší než plazma → slabé zásady se v něm zachycují.** Praktická rada: **vzít lék hned po kojení, ideálně před nejdelším spánkem dítěte** — než přijde další kojení, vrchol hladiny už opadne.
+
 🔑 **Vše nebo nic → malformace → funkční změny.**
 ⚠️ **Heparin je v těhotenství bezpečný, protože je to velká nabitá molekula a placentou neprojde.** Warfarin je malý a lipofilní — projde.
 
@@ -931,6 +1036,19 @@ U **kojení** platí, že přestup je opět pasivní difuzí a **mateřské mlé
 Dávka se počítá podle **povrchu těla, ne hmotnosti** — vzorcem **dávka pro dospělého krát povrch těla dítěte dělený hodnotou jedna celá sedmdesát tři**, což je průměrný povrch těla dospělého. Důvod je ten, že **metabolická aktivita sleduje spíš povrch než hmotnost**.
 
 Nejvděčnější částí otázky jsou **tři specifické nežádoucí účinky**. **Reyův syndrom vzniká po kyselině acetylsalicylové u dítěte s virózou — je to jaterní encefalopatie, která může vést ke smrti.** **Gray baby syndrom vzniká po chloramfenikolu u novorozenců právě proto, že nemají dozrálou glukuronidaci** — projeví se šedou barvou kůže, hypotenzí a kolapsem. A **tetracykliny se ukládají do kostí a poškozují zubní sklovinu**, proto jsou u dětí kontraindikované.“
+
+💬 **Ať to dává smysl**
+**„Dítě není malý dospělý" není fráze — je to celá odpověď v jedné větě.** Kdyby to byl jen menší dospělý, stačilo by dělit dávku hmotností. **Jenže dítě má jinak nastavené všechny čtyři kroky ADME**, a hlavně **jiné enzymy** — takže se u něj lék chová kvalitativně jinak, ne jen slaběji.
+**Absorpce:** novorozenec má **vyšší pH žaludku** (skoro neutrální, kyselina se rozjede až po pár týdnech) → **kyselá léčiva se hůř vstřebávají, zásaditá líp**. Pomalejší vyprazdňování žaludku a peristaltika → **nástup je opožděný a nepředvídatelný**.
+**Distribuce:** **novorozenec je ze 75 % voda** (dospělý asi z 60 %). **Víc vody = větší distribuční objem pro vodné léky = ze stejné dávky na kilogram nižší koncentrace** — proto se některá antibiotika dávkují relativně vyšší dávkou než u dospělého. Zároveň **má málo albuminu a ten navíc slabší vazebnou schopnost** → **vyšší volná, tedy účinná frakce.**
+**Metabolismus je nejdůležitější část a stojí na jednom rozdílu: fáze I už funguje, fáze II ještě ne.** Donošený novorozenec má **50–70 % kapacity dospělého pro fázi I**, ale **konjugace (fáze II), hlavně glukuronidace, dozrává až kolem druhého roku.**
+**A tady je to zákeřné a stojí za to říct to nahlas: nejde jen o zpomalení.** Když hlavní cesta nefunguje, **metabolismus se přelije do náhradních cest a vzniknou úplně jiné metabolity, které můžou mít jinou aktivitu i toxicitu.** Není to tedy „totéž, jen pomaleji" — je to **jiná chemie**.
+**Proč se dávka počítá na povrch těla, ne na kilogramy:** protože **metabolická aktivita a průtok krve orgány sledují spíš povrch než hmotnost.** Malé dítě má na svou hmotnost **relativně obrovský povrch**, a tomu odpovídá i jeho vysoký metabolický obrat. Kdybys dělila jen hmotností, poddávkovala bys ho. Číslo **1,73 m²** ve vzorci je **průměrný povrch těla dospělého** — vzorec tedy jen říká „kolikátý díl dospělého to dítě je".
+**Tři specifické nežádoucí účinky — a všechny tři mají tentýž základ, nezralé enzymy:**
+- **Reyův syndrom** = **aspirin + dítě + probíhající viróza** (chřipka, plané neštovice). Vzniká **jaterní encefalopatie**: zvracení, zmatenost, kóma, může skončit smrtí. **Proto se dětem do 12 let nedává aspirin, ale paracetamol nebo ibuprofen.**
+- **Gray baby syndrom** = **chloramfenikol u novorozence.** Příčina je přímo ta nezralá **glukuronidace** — antibiotikum se nemá jak zkonjugovat, hromadí se a způsobí **šedavé zbarvení kůže, hypotenzi a oběhový kolaps.** Je to učebnicová ukázka, proč nezralost fáze II vadí.
+- **Tetracykliny** se váží na vápník → **ukládají se do rostoucí kosti a do zubu** → **trvale zbarvená a nekvalitní sklovina.** **Zubařsky nejdůležitější položka — kontraindikované do 8 let a v těhotenství.**
+**A ⚠️ níž je nejlepší část otázky, protože ukazuje, že se nezralosti SČÍTAJÍ:** novorozenec má **málo albuminu** (sulfonamid vytěsní bilirubin z vazby) **+ nezralou glukuronidaci** (bilirubin se nemá jak zpracovat) **+ nevyzrálou hematoencefalickou bariéru** (volný bilirubin projde do mozku). **Každá z těch tří věcí sama by se dala přežít. Dohromady způsobí jádrový ikterus a trvalé poškození mozku.**
 
 🔑 **První fáze funguje, druhá ne.** Proto glukuronidace selhává až do dvou let.
 ⚠️ **Nezralosti se sčítají:** málo albuminu plus nezralá glukuronidace plus nevyvinutá hematoencefalická bariéra — proto sulfonamid u novorozence vytěsní bilirubin a způsobí jádrový ikterus.
@@ -956,6 +1074,16 @@ Vysvětlení je jednoduché: **kreatinin vzniká rozpadem svalové hmoty. Senior
 Ve **farmakodynamice** dochází ke snížení receptorové senzitivity, ale zároveň je u seniorů **zvýšená vnímavost k benzodiazepinům, morfinu, warfarinu a ACE inhibitorům** — protože jim chybí adaptační rezerva, kterou by následek vyvážili.
 
 Na závěr je dobré zmínit, že jde o **systematizovaný problém, na který existují nástroje — Beersova kritéria a systémy START a STOPP**, které určují, která léčiva u seniorů vysadit a která naopak chybí a měla by se nasadit.“
+
+💬 **Ať to dává smysl**
+**Involuce** znamená „zmenšení, úbytek" — orgány s věkem ubývají na hmotě i výkonu. **Úbytek adaptačních rezerv** znamená, že **senior nemá čím vyrovnat výkyv**: mladý člověk po první tabletě na tlak zrychlí tep a udrží se, senior spadne.
+**Distribuce u seniora je nejzajímavější, protože se mění DVĚMA PROTICHŮDNÝMI SMĚRY najednou** — a právě to zkoušející rádi slyší:
+- **Ubývá vody** → **vodné (hydrofilní) léky se mají kam méně rozředit → jejich koncentrace v krvi je vyšší.** Odtud digoxin a aspirin. **Problém přijde hned po první dávce**, protože je to okamžitý koncentrační efekt.
+- **Přibývá tuku** → **tučné (lipofilní) léky mají kam se schovat → distribuční objem stoupne → poločas se prodlouží.** Odtud benzodiazepiny. **Problém nepřijde hned, ale za týden až deset dní**, protože se lék postupně hromadí, než se ustálí (viz kumulace v O16).
+**Shrnutí jednou větou, kterou stojí za to říct doslova: hydrofilní léčiva se u seniora KONCENTRUJÍ, lipofilní se HROMADÍ. Obojí končí předávkováním, ale každé jinou cestou a v jiném čase.**
+**A nejcennější věta celé otázky — proč normální kreatinin neznamená normální ledviny:** **kreatinin vzniká rozpadem svalů.** Senior má **svalů výrazně méně**, takže ho **vyrábí míň**. Zároveň ho ledviny **hůř vylučují**. **Ty dvě změny se navzájem vyruší — a v laboratorním nálezu vyjde krásné číslo, i když je funkce ledvin na polovině.** Je to falešné uklidnění. Proto se **nesmí koukat na kreatinin samotný, ale počítá se eGFR** ze vzorce, který zohlední **věk, pohlaví a hmotnost** — tedy přesně to, co ten sval nahrazuje.
+**Farmakodynamika u seniora:** receptorů sice ubývá, **ale senior je paradoxně na některé léky citlivější** — na benzodiazepiny, morfin, warfarin a ACE inhibitory. **Není to rozpor: chybí mu rezerva, kterou by následek vyrovnal.** Mladý mozek si s trochou benzodiazepinu poradí, starý ne — a výsledkem je zmatenost a pád.
+**Beersova kritéria, START a STOPP** jsou hotové seznamy, které z toho dělají praktický nástroj. **Beers** = seznam léků, které jsou u seniorů **potenciálně nevhodné**. **STOPP** = co **vysadit** (*stop*), **START** = co naopak **chybí a mělo by se nasadit** — protože podléčení je u seniorů stejně častý problém jako předávkování. *[obecné znalosti]*
 
 🔑 **Míň vody = vyšší koncentrace vodných léků. Víc tuku = delší poločas tučných léků.**
 ⚠️ **Normální kreatinin neznamená normální ledviny.**
@@ -985,6 +1113,18 @@ Biologika se dělí podle koncovek: **-mab jsou monoklonální protilátky, -cep
 **Proto se před zahájením biologické léčby vždy provádí screening latentní tuberkulózy, hepatitidy B a C a HIV, a doplní se očkování — protože živé vakcíny jsou během léčby kontraindikované.**
 
 Mechanismus reaktivace tuberkulózy stojí za vysvětlení: **TNF alfa udržuje granulom pohromadě. Latentní tuberkulóza jsou živé mykobakterie uvězněné uvnitř granulomu — a když TNF zablokujete, granulom se rozpadne a mykobakterie se uvolní.**“
+
+💬 **Ať to dává smysl**
+**Celá otázka se dá odvodit z jediné věty: biologikum je velká bílkovina, kterou vyrobila živá buňka.** Všechno ostatní jsou důsledky.
+- **Bílkovina se v žaludku stráví jako každá jiná** (rozloží se na aminokyseliny) → **proto se biologikum nedá spolknout a podává se vždycky injekčně.**
+- **Bílkovina je velká a cizí, takže ji imunitní systém vidí** → **proto má imunogenitu**, tedy tělo si proti léku může udělat protilátky.
+- **Bílkovinu tak složitou nejde vyrobit chemicky** — musí ji nasyntetizovat **živá buňka** (bakterie, kvasinka nebo savčí buňka, do které se vloží lidský gen). **Tomu se říká rekombinantní DNA technologie.**
+**A odtud plyne, proč neexistuje „generikum" biologika:** **živá buňka nikdy nevyrobí dvě naprosto identické molekuly** — liší se hlavně **glykosylací**, tedy cukernými řetízky navěšenými na povrch bílkoviny. **Dokonce i dvě šarže téhož originálu se od sebe trochu liší.** Kopie tedy nemůže být identická, jen **vysoce podobná — proto biosimilar.**
+**A z toho zase plyne, jak se biosimilar schvaluje: nemusí být totožný s originálem, musí se vejít do pásma, ve kterém kolísá originál sám.** Proto je při registraci **nejcitlivější částí analytické srovnání v laboratoři**, ne velká klinická studie. *(U klasického generika stačí ukázat bioekvivalenci — stejná hladina v krvi. U biologika to nestačí, protože stejná hladina ještě neznamená stejnou molekulu.)*
+**Monoklonální protilátka** — *monoklonální* znamená, že **všechny molekuly pocházejí z jednoho jediného klonu buňky, takže jsou identické a míří na jediné místo.** Odtud ta obrovská cílenost. **Hybridomová technologie** = spojí se buňka produkující protilátku s nádorovou buňkou, takže vznikne linka, která **umí vyrábět protilátku a přitom se dělí donekonečna.**
+**Názvosloví protilátek není nahodilé — kopíruje historii oboru, a proto se dá odvodit:** první protilátky se vyráběly **v myších (-o-)**, jenže **lidský imunitní systém myší bílkovinu poznal jako cizí, vytvořil proti ní protilátky a lék přestal fungovat.** Proto se postupně vyměňovaly myší části za lidské: **chimérická (-xi-)** je zhruba ze tří čtvrtin lidská, **humanizovaná (-zu-)** už skoro celá, a **plně humánní (-u-)** je lidská úplně. **Čím lidštější, tím méně imunogenní.**
+**Rizika, a proč jsou jiná než u běžných léků:** hlavní není toxicita, ale **imunosuprese**. Biologika totiž záměrně vypínají část imunity — **a s ní i obranu proti infekcím.** Proto se před léčbou **povinně screeninguje latentní tuberkulóza, hepatitida B a C a HIV** a doplní se očkování, protože **živé vakcíny se během léčby nesmějí podat** (oslabený virus by u imunosuprimovaného pacienta mohl vyvolat nemoc).
+**Mechanismus reaktivace tuberkulózy je nejhezčí část otázky a stojí za to ho umět:** **latentní TBC neznamená, že bakterie zemřely — znamená, že jsou živé, ale zazděné uvnitř granulomu.** A **tu zeď drží pohromadě právě TNF-α.** Když ho biologikem zablokuješ, **granulom se rozpadne a mykobakterie se uvolní do těla.** Proto TBC screening před léčbou není formalita.
 
 🔑 **o → xi → zu → u = myš → chiméra → humanizovaná → humánní.**
 ⚠️ **-tinib NENÍ biologikum** — imatinib a erlotinib jsou malé molekuly. Cílená a biologická léčba nejsou totéž.
