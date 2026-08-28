@@ -184,6 +184,22 @@ Z **antiherpetik** je základem **aciklovir**. Tady je učebnicový příklad pr
 
 Nakonec **ribavirin, syntetický guanosinový analog**, který brání syntéze virové RNA. Používá se v kombinaci s interferony u hepatitidy C a u RSV. Je ale **teratogenní a mutagenní** a způsobuje **hemolytickou anemii, pankreatitidu a deprese**.“
 
+💬 **Ať to dává smysl**
+⚠️ **Proč je antivirová léčba tak obtížná — tohle stojí za to říct na začátku:** **virus nemá vlastní metabolismus.** Nemá stěnu, nemá ribozomy, nemá enzymy na výrobu energie. ⚠️ **Množí se tak, že si půjčí NAŠI buňku a její aparát.**
+**A z toho plyne problém: skoro není co zaútočit, aniž bys zasáhla vlastní buňku.** Proto se antivirotika omezují na těch pár enzymů, které si **virus přináší vlastní** — reverzní transkriptázu, proteázu, neuraminidázu, virovou polymerázu.
+⚠️ **Druhá věta, kterou stojí za to říct: řada virových infekcí je u zdravého člověka SAMOÚZDRAVNÁ** — chřipka, plané neštovice, opary. **Imunita si s nimi poradí sama, takže se neléčí každý.** Léčí se **vždycky HIV, hepatitida B a C**, a **podle stavu imunity** cytomegalovirus, herpes, pásový opar, chřipka, RSV a covid. ⚠️ **U imunosuprimovaného pacienta se léčí to, co by zdravý přechodil** — protože on to nepřechodí.
+⚠️ **Hepatitida C vs. B — nejdůležitější rozlišení otázky, a je krásně logické:**
+- **Hepatitida C je RNA virus, který zůstane v cytoplazmě.** **Nikde se neschová — a když ho zlikviduješ, je pryč nadobro.** ⚠️ **Proto je VYLÉČITELNÁ: kombinace sofosbuviru a velpatasviru vyléčí přes 97 % pacientů.** **Je to jeden z největších úspěchů moderní farmakoterapie** — za dvacet let se z nevyléčitelné nemoci stalo něco, co se zvládne tabletami za tři měsíce.
+- **Hepatitida B se přepíše do DNA a ta se VLEPÍ do chromozomu hostitelské buňky.** ⚠️ **A odtud ji nikdy nedostaneš — museli bychom zabít vlastní buňky.** **Proto je NEVYLÉČITELNÁ a cílem je jen dlouhodobě potlačit její množení**, typicky **tenofovirem**.
+**„Přímý antivirový účinek" (DAA)** znamená, že lék **míří přímo na jeden konkrétní virový enzym**, ne na imunitní systém — dřívější léčba interferonem totiž jen podporovala imunitu a měla hrozné nežádoucí účinky.
+⚠️ **Aciklovir je učebnicový příklad hned dvou věcí najednou — řekni obě:**
+1. **Je to PROLÉČIVO, které aktivuje sám virus.** Aciklovir se stane účinným až po fosforylaci **virovou thymidinkinázou** — a tu má **jen infikovaná buňka.** ⚠️ **Ve zdravé buňce zůstane aciklovir neaktivní. To je dokonalá selektivita a proto je tak netoxický.** *[obecné znalosti]*
+2. ⚠️ **Valaciklovir je ukázka, jak se řeší špatná dostupnost:** aciklovir se z tablety vstřebá jen z **10–30 %.** **Valaciklovir je aciklovir s navěšenou aminokyselinou, která zlepší vstřebání — a v těle se odštěpí. Dostupnost stoupne na 70 %.** *(Vzpomeň si na obecku O13 — tohle je přímé řešení nízké biologické dostupnosti.)*
+⚠️ **Na cytomegalovirus aciklovir NEFUNGUJE**, protože CMV nemá tu thymidinkinázu, která by ho aktivovala. **Na CMV je ganciklovir a foskarnet.**
+**Neuraminidáza u chřipky** — stojí za to vysvětlit, proč je to dobrý cíl: **je to enzym, kterým se hotové virové částice odstřihnou od povrchu buňky, aby mohly odejít infikovat další.** ⚠️ **Zablokuješ ho → nové viriony zůstanou přilepené na buňce a infekce se nešíří.** **Proto ale musí být lék podán do 48 hodin od začátku příznaků** — později už je viru vyrobeno příliš. *[obecné znalosti]*
+**Oseltamivir je proléčivo v tabletě, zanamivir se inhaluje** — ⚠️ **a právě proto je kontraindikován u astmatu a CHOPN: prášek dráždí dýchací cesty a může vyvolat bronchospasmus.**
+**Ribavirin** je **analog guanosinu** — virus ho omylem zabuduje do své RNA místo správné báze a **výsledná RNA je vadná.** ⚠️ **Je teratogenní a mutagenní, způsobuje hemolytickou anemii, pankreatitidu a deprese** — proto se s příchodem DAA u hepatitidy C prakticky opustil.
+
 🔑 **Valaciklovir je aciklovir s lepší dostupností** — z 10–30 % na 70 %. Učebnicové proléčivo.
 ⚠️ **Hepatitida C se dá vyléčit, hepatitida B ne** — protože se integruje do DNA hostitele.
 
@@ -201,7 +217,19 @@ Dvě věty, které musí zaznít: **cílem antiretrovirotik je potlačit mechani
 
 Podává se **vždy v kombinaci několika preparátů z různých skupin** — ze stejného důvodu jako u tuberkulózy: aby se předešlo vzniku rezistence. Pravděpodobnost, že jeden virus získá současně mutace proti třem různým mechanismům, je řádově menší než u monoterapie.“
 
-🔑 **Antiretrovirotika virus nevyhubí — jen ho udrží pod kontrolou.**
+💬 **Ať to dává smysl**
+**Retrovirus** je virus, který má svou informaci v **RNA**, ale **umí ji přepsat zpátky do DNA** — tedy **obráceně, než jak to normálně v buňce chodí** (*retro* = zpět). Dělá to enzymem **reverzní transkriptáza**, který si přináší s sebou. ⚠️ **A tuhle DNA pak vlepí do našeho chromozomu — proto se ho nikdy nezbavíme, úplně stejně jako u hepatitidy B** (viz otázka 93).
+⚠️ **Patogeneze v jedné větě: HIV napadá CD4 T-lymfocyty — tedy právě ty buňky, které mají imunitní odpověď ŘÍDIT.** **Nezničí tedy jednu složku obrany, ale jejího velitele** — a proto se rozpadne celá imunita.
+**A odtud plyne, na co pacient s AIDS umírá: ne na virus samotný, ale na OPORTUNNÍ INFEKCE a NÁDORY.** *Oportunní* = „využívající příležitosti" — **jsou to mikroby, které zdravému člověku vůbec nic neudělají**, ale u pacienta bez imunity ho zabijí (pneumocystová pneumonie, toxoplazmóza, kandidóza, tuberkulóza).
+⚠️ **Zubařsky: orální kandidóza a leukoplakie patří k prvním viditelným projevům** — zubař bývá jedním z prvních, kdo si nemoci může všimnout. *[obecné znalosti]*
+**Proč se hlídají zrovna CD4 lymfocyty:** **jejich počet je přímé měřítko toho, kolik imunity ještě zbývá.** ⚠️ **Léčba se podle zdroje zahajuje při poklesu pod 350 buněk na mm³** — tedy dřív, než se objeví infekce. *(Dnešní mezinárodní praxe je léčit všechny hned po diagnóze bez ohledu na CD4, ale u zkoušky jeď podle skript. — [obecné znalosti])*
+⚠️ **Dvě věty, které musí zaznít, protože se na ně ptají:**
+1. **Cílem antiretrovirotik je POTLAČIT replikaci, ne virus vyhubit — eradikace není možná.** Léčba je doživotní a při vysazení se virus vrátí.
+2. **Mechanismem je inhibice reverzní transkriptázy a proteázy** — tedy dvou enzymů, které si virus **přináší vlastní**, takže se dají zasáhnout bez poškození naší buňky.
+⚠️ **Proč se vždycky kombinuje několik léků — a je to úplně stejná logika jako u tuberkulózy** (viz otázka 91): **HIV se množí extrémně rychle a dělá při tom hodně chyb, takže mutace vznikají neustále.** **Pravděpodobnost, že jeden virus získá naráz mutace proti třem různým mechanismům, je řádově menší než u monoterapie.** **Kombinace tedy nezvyšuje účinek — hlavně zabraňuje rezistenci.**
+**Praktický důsledek moderní léčby, který stojí za zmínku: HIV je dnes CHRONICKÉ onemocnění**, ne rozsudek smrti. **Pacient s dobře potlačenou virovou náloží má prakticky normální délku života a virus nepřenáší.** *[obecné znalosti]*
+
+🔑 **Antiretrovirotika virus nevyhubí — jen ho udrží pod kontrolou.** Kombinace slouží hlavně proti rezistenci.
 ⚠️ **Léčba se zahajuje pod 350 CD4 buněk na mm³.**
 
 ---
@@ -223,6 +251,24 @@ Podává se **vždy v kombinaci několika preparátů z různých skupin** — z
 Za zmínku stojí, že **N-acetylcystein je zároveň prekurzorem glutathionu, antioxidantem a antidotem při otravě paracetamolem.**
 
 A nakonec praktická věta: **kodein se nesmí podávat současně s mukolytiky a expektorancii** — potlačil bys vykašlávání hlenu, který zároveň uvolňuješ.“
+
+💬 **Ať to dává smysl**
+⚠️ **Nejdůležitější myšlenka na začátek: kašel není nemoc, je to OBRANNÝ REFLEX.** Jeho úkolem je **dostat z dýchacích cest ven hlen a cizí tělesa.** **Potlačit ho je tedy někdy správné a jindy nebezpečné.**
+**Tusigenní zóny** = **místa, jejichž podrážděním kašel vzniká.** ⚠️ **A tady je překvapivá věc, kterou stojí za to zmínit: nejsou jen v průduškách.** Jsou i **na pleuře, bránici, perikardu, v jícnu a dokonce ve zevním zvukovodu.** **Proto může kašlat i člověk, který nemá vůbec nic v plicích** — kašel z refluxu, z ušního mazu, ze srdečního selhání nebo z ACE inhibitoru (viz Specka I, otázka 68).
+⚠️ **A z toho plyne klinické pravidlo: u chronického kašle se nemá tlumit reflex, ale hledat příčina.**
+**Tři fáze kašle vysvětlují, proč je tak účinný:** **hluboký nádech** naplní plíce · **kompresivní fáze** — pacient prudce vydechuje **proti zavřeným hlasivkám**, takže v hrudníku vystoupá obrovský tlak · **explozivní fáze** — hlasivky se otevřou a **vzduch vyletí rychlostí až stovek km/h a strhne s sebou hlen.** ⚠️ **Bez té kompresivní fáze by kašel nefungoval — proto pacient s ochrnutými hlasivkami nebo s tracheostomií nedokáže efektivně vykašlat.** *[obecné znalosti]*
+⚠️ **Dělení podle povahy je celá léčba v jednom řádku:**
+- **Suchý (neproduktivní) kašel nic nevykašlává — jen dráždí a vyčerpává. Ten se TLUMÍ (antitusika).**
+- **Vlhký (produktivní) kašel má hlen, který je potřeba dostat ven. Ten se PODPORUJE (mukolytika, expektorancia).**
+⚠️ **A odtud nejdůležitější praktická věta celé otázky: kodein se NESMÍ podávat současně s mukolytiky a expektorancii.** Jedním lékem hlen zředíš a rozpustíš, druhým **vypneš mechanismus, kterým by ho pacient vykašlal.** **Hlen se pak hromadí v průduškách a hrozí zahlenění a zápal plic.** Je to učebnicová chyba a zkoušející se na ni ptají.
+**Antitusika — kodein a jeho příbuzní:** ⚠️ **kodein tlumí přímo reflexní oblouk kašle v prodloužené míše, přes opioidní mí receptory.** *(Vzpomeň si na Specku I, otázku 60: antitusický účinek je jedním z opioidních účinků.)* **Zajímavé je, že přestože je to opioid, vydává se na běžný recept** — v protikašlových dávkách je riziko závislosti malé.
+⚠️ **Ale platí u něj všechno, co u opioidů: kodein je proléčivo aktivované CYP2D6 na morfin** (obecka O26) → **u ultrarychlého metabolizátora může utlumit dech.** **Proto se nesmí podávat dětem do 12 let a kojícím matkám.**
+**Dextrometorfan** je opiátu příbuzný, ale **nemá analgetický účinek**. ⚠️ **Ve vysokých dávkách působí halucinogenně, a proto bývá zneužíván** — což je důvod, proč se hlídá jeho výdej.
+**Nekodeinová antitusika (butamirát)** jsou slabší, ⚠️ **ale netlumí dechové centrum a nevzniká na ně návyk** — proto jsou volně prodejná a **vhodná i pro kojence.** **Periferní antitusika (dropropizin, levodropropizin)** nepůsobí v mozku vůbec — **jen sníží dráždivost sliznice**, takže se používají i před bronchoskopií.
+**Mukolytikum vs. expektorans — rozdíl, který se plete:**
+- ⚠️ **Mukolytikum ZŘEDÍ hlen, který už tam je** — **N-acetylcystein rozštípne disulfidické můstky mezi vlákny hlenu**, čímž se hlen stane tekutějším a snadněji se vykašle.
+- ⚠️ **Expektorans (guaifenesin) naopak PŘIDÁ tekutinu** — zvýší sekreci žláz, takže vznikne nový, řídký hlen.
+**Hezká souvislost, kterou stojí za to říct: N-acetylcystein má tři úplně různé role najednou** — **mukolytikum · antioxidant · a antidotum při otravě paracetamolem** (viz obecka O17), protože **je prekurzorem glutathionu.** **Jedna látka, tři indikace, a všechny plynou z jeho SH skupiny.**
 
 🔑 **Suchý kašel tlum, vlhký kašel rozpusť.** Nikdy obojí najednou.
 ⚠️ **Kodein se metabolizuje na morfin přes CYP2D6** — proto se nepodává dětem do 12 let.
@@ -248,6 +294,25 @@ A **xantiny, tedy teofylin a aminofylin**, které působí **nespecifickou inhib
 **Kontrolující léčbu představují především kortikosteroidy — jsou indikovány u všech pacientů s perzistujícím astmatem** a inhalační forma je **lékem první volby**. Zde je potřeba znát past: **kortikosteroidy jsou život zachraňující při status asthmaticus, ale samotnému záchvatu nezabrání**, protože jejich nástup trvá hodiny.
 
 Doplňkově se používají **antileukotrieny, v České republice montelukast**, dále **anti-IgE protilátka omalizumab u IgE mediovaného astmatu** a **inhibitor fosfodiesterázy 4 roflumilast u těžké CHOPN**.“
+
+💬 **Ať to dává smysl**
+⚠️ **Celou otázku pověs na jednu myšlenku: astma je ZÁNĚT, na jehož podkladě se průdušky stahují. Jsou to tedy DVA problémy — a proto dvě role léků.**
+- ⚠️ **Úlevová (záchranná) léčba otevře stažený bronchus. Zabere za minuty, ale se zánětem neudělá nic.**
+- ⚠️ **Kontrolující (preventivní) léčba tlumí zánět. Zabere za hodiny až dny, ale záchvat, který právě probíhá, nezastaví.**
+**Pacient tedy potřebuje obojí a nesmí je zaměnit** — a **záchrannou medikaci musí mít vždy u sebe.**
+⚠️ **A odtud plyne past, na kterou se ptají: kortikoidy jsou u status asthmaticus život zachraňující, ale samotnému záchvatu NEZABRÁNÍ**, protože jdou přes **jaderný receptor a musí nejdřív přepsat geny** (viz obecka O22) — nástup trvá hodiny. **Proto se v záchvatu podá salbutamol HNED a kortikoid se přidá na to, co přijde za dvě hodiny.**
+**Astma vs. CHOPN — rozdíl je v jednom slově, REVERZIBILITA:**
+- **Astma: obstrukce je REVERZIBILNÍ** — po bronchodilatanciu se plíce vrátí k normálu. **Často alergická, začíná v dětství.**
+- ⚠️ **CHOPN: obstrukce NENÍ plně reverzibilní a progreduje.** **Sklípky se přestavují a septa mezi nimi praskají — vzniká emfyzém**, a to už se nevrátí. **Nejčastější příčinou je kouření.** **Hrozí bronchogenní karcinom a pravostranné srdeční selhání** *(protože zničené plicní cévy kladou odpor a pravá komora se vyčerpá — tzv. cor pulmonale)*.
+⚠️ **Zásadní věta o astmatu, kterou stojí za to říct: zánět v dýchacích cestách je přítomný I MEZI ZÁCHVATY, když pacient nic necítí.** **A právě proto se astma léčí trvale, ne jen když je zle.** Pacient, který bere jen záchrannou medikaci, si plíce dlouhodobě ničí.
+**Klasifikace je jen o dvou věcech: jak často má příznaky a co ukáže spirometrie.** *Intermitentní* = maximálně 1× týdně a mezi záchvaty normální plicní funkce · *perzistující lehké* nad 80 % · *středně těžké* 60–80 % · *těžké* pod 60 % s trvalou obstrukcí.
+**Bronchodilatancia — tři skupiny, tři různé cesty k témuž:**
+- **Beta-2 agonisté** (viz Specka I, otázka 43) — **SABA salbutamol na záchvat · LABA formoterol a salmeterol udržovací · ultra-LABA na 24 hodin.** **NÚ: třes, tachykardie, hypokalemie.**
+- **Anticholinergika** (viz Specka I, otázka 39) — **SAMA ipratropium, LAMA tiotropium.** Blokují muskarinové receptory, tedy tu druhou, parasympatickou cestu ke stažení bronchu. ⚠️ **NÚ jsou přesně anticholinergní: sucho v ústech, poruchy chuti, zhoršení glaukomu.**
+- **Xantiny (teofylin, aminofylin)** — **inhibují fosfodiesterázy, čímž zvýší cAMP** *(tedy stejný konečný efekt jako beta-2 agonisté, jen jinou cestou — viz Specka I, otázka 71)* a **blokují adenosinové receptory.** ⚠️ **Mají úzké terapeutické okno a hodně interakcí, proto jsou jen doplňkové.**
+**Kontrolující léčba:** ⚠️ **inhalační kortikosteroidy jsou lékem první volby u všech pacientů s perzistujícím astmatem.** **Inhalační forma proto, že působí přímo v průduškách a jen malá část se vstřebá** — tím se vyhneš systémovým nežádoucím účinkům kortikoidů.
+**Doplňková léčba, každá pro jiný typ pacienta:** **montelukast** blokuje leukotrieny (viz Specka I, otázka 62) — hodí se u alergického a dětského astmatu · **omalizumab** je monoklonální protilátka proti IgE, tedy **biologická léčba pro těžké alergické astma** · **roflumilast** u těžké CHOPN.
+⚠️ **Zubařsky dvě věci a obě stojí za to říct:** **inhalační anticholinergika způsobují sucho v ústech a poruchy chuti** → riziko kazu. **A inhalační kortikoidy vedou k orofaryngeální kandidóze**, protože část dávky zůstane v ústech a potlačí místní imunitu → ⚠️ **proto se po každé inhalaci vyplachují ústa.** *(Souvisí s obeckou O8.)*
 
 🔑 **Úlevová léčba otevírá bronchus, kontrolující tlumí zánět.** Astmatik potřebuje obojí a nesmí je zaměnit.
 ⚠️ **Zubařsky:** inhalační anticholinergika dělají **suchost v ústech**, inhalační kortikoidy **orofaryngeální kandidózu** — proto se **po inhalaci vyplachují ústa**.
