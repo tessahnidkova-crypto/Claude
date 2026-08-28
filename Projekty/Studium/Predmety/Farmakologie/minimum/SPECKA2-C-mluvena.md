@@ -456,6 +456,23 @@ Klinicky nejdůležitější jsou ale **lékové interakce fytofarmak**, protož
 
 Na závěr je dobré říct větu, která shrnuje celý přístup: **rostlinný přípravek není bezpečnější proto, že je přírodní — je jen hůř kontrolovaný a pacientem nepřiznaný.**“
 
+💬 **Ať to dává smysl**
+**„Droga" tady neznamená návykovou látku — ve farmakognozii je to odborný termín: SUŠENÁ ROSTLINNÁ SUROVINA používaná k léčbě nebo k výrobě léčiv.** *(Z německého *droog* = suchý.)* ⚠️ **Stojí za to to hned na začátku vysvětlit, jinak to zní matoucí.**
+⚠️ **Je poctivé začít tím, PROČ od fytoterapie moderní medicína ustoupila — jsou tři důvody a všechny jsou praktické, ne ideologické:**
+1. ⚠️ **Obsah účinné látky v rostlině KOLÍSÁ** — podle půdy, počasí, doby sběru i části rostliny. **Dvě balení téhož čaje můžou obsahovat několikanásobně jiné množství.**
+2. **A proto se účinek špatně STANDARDIZUJE a DÁVKUJE.** *(Vzpomeň si na obecku O23: bez známé dávky nemáš terapeutické okno ani index — nevíš, kde je hranice.)*
+3. **A chybí důkazy z kontrolovaných klinických studií** (viz obecka O4).
+⚠️ **Zajímavý paradox, který stojí za zmínku: řada našich nejúčinnějších léků z rostlin pochází** — **digoxin z náprstníku, morfin z máku, atropin z rulíku, aspirin z vrby, artemisinin z pelyňku, taxany z tisu.** **Rozdíl není v původu látky, ale v tom, že se z rostliny IZOLOVALA, přesně změřila a odzkoušela.** *[obecné znalosti]*
+**Registrace je proto dvojí a je dobré ten rozdíl znát:** **menšina přípravků je registrována jako běžné léčivé přípravky, tedy s klinickými zkouškami** · ⚠️ **většina je registrována ZJEDNODUŠENÝM postupem jako „tradiční rostlinné léčivé přípravky" — a u těch se dokládá jen DLOUHODOBÉ TRADIČNÍ UŽÍVÁNÍ, nikoli účinnost.** **„Registrovaný" tedy u nich neznamená „prokazatelně účinný".**
+⚠️ **A teď klinicky nejdůležitější část, protože se týká reálného rizika: LÉKOVÉ INTERAKCE fytofarmak.**
+**A důvod, proč jsou tak zrádné, je jednoduchý: PACIENTI JE NEUVÁDĚJÍ V ANAMNÉZE.** **Nepovažují je za léky — na otázku „berete něco?" odpoví „ne, jen bylinky".**
+🔑 **Tři interakce, které musíš znát (a všechny se propojují s obeckou O19 a O25):**
+- ⚠️ **GRAPEFRUIT INHIBUJE cytochrom P450 a P-glykoprotein → ZVYŠUJE hladiny současně užívaných léčiv** → riziko toxicity (statiny, blokátory vápníku, cyklosporin).
+- ⚠️ **TŘEZALKA je naopak INDUKUJE → SNIŽUJE hladiny** → **selhání hormonální antikoncepce, warfarinu i cyklosporinu.**
+- ⚠️ **ČESNEK a GINKGO v kombinaci s antikoagulancii zvyšují riziko KRVÁCENÍ.** *(Zubařsky relevantní — pacient před extrakcí o nich sám neřekne.)*
+⚠️ **A příklad, který ukazuje, jak vážné to může být: byla popsána ODHOJENÍ TRANSPLANTOVANÝCH ORGÁNŮ u pacientů, kteří si k cyklosporinu přidali třezalku „na náladu".** **Indukce enzymů srazila hladinu imunosupresiva pod účinnou úroveň a tělo štěp odmítlo** (viz otázka 114).
+🔑 **A větu, kterou otázku zakonči, protože shrnuje celý postoj: rostlinný přípravek není bezpečnější proto, že je přírodní — je jen hůř kontrolovaný a pacientem nepřiznaný.**
+
 🔑 **Grapefruit inhibuje, třezalka indukuje.**
 ⚠️ **Popsána byla i odhojení transplantátů** u pacientů, kteří si k cyklosporinu přidali třezalku „na náladu".
 
@@ -476,6 +493,22 @@ Z veličin je potřeba znát tři. **NOAEL je nejvyšší dávka, při které NE
 Pro označování chemikálií existuje **globálně harmonizovaný systém**; **řadu látek ale nelze snadno klasifikovat, a proto se často řadí podle toxicity, tedy podle LD50.**
 
 Součástí oboru je i **řízení rizika — tedy stanovení limitů expozice, ochranná opatření a monitorování**.“
+
+💬 **Ať to dává smysl**
+**Xenobiotikum** = *xenos* cizí, *bios* život → **látka tělu cizí, kterou si samo nevyrábí.** **Patří sem léky, jedy, průmyslové chemikálie i látky z potravy.**
+⚠️ **Paracelsův citát otázku otevře nejlíp, protože je to celá toxikologie v jedné větě: „Všechny látky jsou jedy a závisí jen na dávce, kdy látka přestává být jedem."**
+**Prakticky to znamená, že neexistuje „jedovatá" a „nejedovatá" látka — existuje jen dávka.** ⚠️ **I voda zabíjí, když jí vypiješ dost (hyponatremie), a botulotoxin léčí, když ho podáš v nanogramech.** **Spektrum toxických dávek je obrovské — od nanogramů po desítky gramů na kilogram.**
+⚠️ **Rovnice, kterou je potřeba umět a která zní banálně, ale mění celý pohled: NEBEZPEČNOST + EXPOZICE = RIZIKO.**
+**Vysvětlení, proč je to důležité: samotná nebezpečnost riziko NEDĚLÁ.** **Kyanid uzamčený v trezoru je vysoce nebezpečný, ale riziko je nulové, protože chybí expozice.** **A naopak mírně dráždivá látka, které jsi vystavená osm hodin denně, představuje reálné riziko.** ⚠️ **Proto se v praxi neřídí zákazem látek, ale ŘÍZENÍM EXPOZICE** — limity, ochranné pomůcky, monitorování.
+**Vztah dávky a účinku je přímo úměrný, ⚠️ ale NENÍ LINEÁRNÍ** — dvojnásobná dávka neznamená dvojnásobný účinek. **Křivka bývá esovitá** (viz obecka O23).
+⚠️ **HORMEZE je nejzajímavější pojem otázky: jev, kdy má látka v NÍZKÝCH dávkách OPAČNÝ, tedy příznivý účinek než ve vysokých.** **Malá zátěž organismus stimuluje k obraně, velká ho poškodí.** *(Klasické příklady jsou fyzická zátěž, malé dávky záření nebo alkoholu — ale je to jev sporný a neplatí univerzálně. — [obecné znalosti])*
+🔑 **Tři veličiny, které musíš umět rozlišit — a klíč je v tom, jestli se účinek už objevil, nebo ještě ne:**
+- ⚠️ **NOAEL** = *No Observed Adverse Effect Level* = **nejvyšší dávka, při které ještě NENÍ pozorován žádný nepříznivý účinek.** **Je to POSLEDNÍ BEZPEČNÁ.**
+- ⚠️ **LOAEL** = *Lowest Observed Adverse Effect Level* = **nejnižší dávka, při které už účinek JE.** **Je to PRVNÍ ŠKODLIVÁ** — odpovídá prahové dávce.
+- **LD50** = **dávka, po které do 24 hodin uhyne polovina testovaných zvířat.** *(Tu už znáš z obecky O4.)*
+**Mezi NOAEL a LOAEL tedy leží práh — a limity pro člověka se stanovují hluboko pod NOAEL, s bezpečnostním koeficientem.** *[obecné znalosti]*
+**GHS (globálně harmonizovaný systém)** je jednotné mezinárodní značení chemikálií — ty piktogramy s červeným rámečkem na obalech. ⚠️ **Zdroj ale upozorňuje, že řadu látek nelze snadno zařadit, a proto se často řadí prostě podle toxicity, tedy podle LD50.**
+**Řízení rizika** = poslední část oboru: **stanovení limitů expozice, ochranná opatření a monitorování.** ⚠️ **Toxikologie tedy neřeší jen „co je jed", ale hlavně „jak zařídit, aby se k člověku nedostal".**
 
 🔑 **Paracelsus: rozdíl mezi lékem a jedem je dávka.**
 ⚠️ **NOAEL je poslední bezpečná, LOAEL první škodlivá.** Mezi nimi leží prahová hodnota.
@@ -502,6 +535,40 @@ Z tabulky antidot je potřeba znát: **kyanidy — hydroxykobalamin; methanol a 
 
 Za zmínku stojí, že **nejjedovatějšími látkami vůbec jsou botulotoxin, tetrodotoxin a nikotin**.“
 
+💬 **Ať to dává smysl**
+⚠️ **Pět přístupů odříkej v tomhle pořadí, protože to není náhodný seznam — je to CHRONOLOGIE toho, co se s jedem dá dělat, jak postupuje tělem:**
+**1. SNÍŽIT ABSORPCI — dokud je jed ještě ve střevě.**
+**Výplach žaludku, vyvolání zvracení, AKTIVNÍ UHLÍ** (obrovský povrch, na který se jed naváže) **a laxativa** (urychlí průchod).
+⚠️ **A dvě varování, která musí zaznít:**
+- **Pozor na ASPIRACI** — pacient v bezvědomí nebo se zhoršenými reflexy si zvratky vdechne do plic.
+- ⚠️ **NIKDY nevyvolávat zvracení po KYSELINÁCH A LOUZÍCH.** **Vysvětlení: leptavá látka už jícnem jednou prošla a poleptala ho. Při zvracení by prošla PODRUHÉ — a hrozí perforace.** **Tohle je nejcennější věta otázky.** *(Ze stejného důvodu se u nich nedělá výplach žaludku sondou. — [obecné znalosti])*
+**2. ZRYCHLIT ELIMINACI — když už je jed v krvi.**
+**Forsírovaná diuréza** (hodně tekutin, aby se vyplavil) **a hlavně OVLIVNĚNÍ IONIZACE.**
+⚠️ **A tohle je přímé využití IONTOVÉ PASTI z obecky O10 a O20 — vysvětli to, ať je vidět, že rozumíš principu:** **v ledvinném kanálku se zpětně vstřebá jen NENABITÁ forma. Když jed v moči udržíš IONIZOVANÝ, nemůže se vstřebat zpátky a musí odejít.**
+**Prakticky: kyselou moč navodíš CHLORIDEM AMONNÝM, zásaditou LAKTÁTEM nebo CITRÁTEM SODNÝM.** ⚠️ **Slabou KYSELINU (aspirin) vyženeš ALKALIZACÍ, slabou ZÁSADU okyselením.**
+**3. HEMOELIMINAČNÍ METODY — hemodialýza, hemoperfuze.**
+⚠️ **Mají ale smysl JEN tehdy, není-li jed vázaný ve tkáních — tedy jen u látek s MALÝM distribučním objemem** (viz obecka O14). **Dialýza čistí krev; když je jed schovaný ve svalech nebo v tuku, nemá odkud ho brát a ze tkání se okamžitě doplní.**
+**4. SYMPTOMATICKÁ PODPŮRNÁ LÉČBA — kontrola dýchání, oběhu a vědomí.**
+⚠️ **A tohle je v praxi NEJDŮLEŽITĚJŠÍ krok, i když zní nejméně efektně: specifická antidota existují jen pro MALÝ POČET látek.** **U naprosté většiny otrav se nedělá nic jiného, než že se pacient udrží naživu, dokud si s jedem neporadí sám.** **Řekni to — je to realistické a zkoušející to ocení.**
+**5. ANTIDOTA — jed vyvážou, antagonizují jeho vazbu na receptor, nebo ho z vazebného místa vytěsňují.**
+🔑 **Tabulku antidot se nauč po dvojicích — a všimni si, že většinu už znáš z jiných otázek, takže to není nové učivo:**
+| Jed | Antidotum | Odkud to znáš |
+|---|---|---|
+| **Opioidy** | **naloxon** | Specka I, 61 |
+| **Benzodiazepiny** | **flumazenil** | Specka I, 52 |
+| **Paracetamol** | **N-acetylcystein** | obecka O17 |
+| **Methanol, glykoly** | **ethanol** nebo fomepizol | otázka 106 |
+| **Organofosfáty** | **atropin** (+ pralidoxim) | Specka I, 38 |
+| **Anticholinergika** | **fyzostigmin** | Specka I, 38 |
+| **Warfarin** | **vitamin K** (+ koncentrát) | otázka 128 |
+| **Heparin** | **protamin sulfát** | Specka I, 76 |
+| **Kyanidy** | **hydroxykobalamin** | — |
+| **Digoxin** | **digitalis antidotum** | Specka I, 66 |
+| **Olovo** | **EDTA** | otázka 136 |
+| **Arsen, rtuť** | **dimerkaprol, DMSA** | otázka 136 |
+| **Měď** | **penicilamin** | otázka 136 |
+⚠️ **A zajímavost na závěr: nejjedovatějšími látkami vůbec jsou BOTULOTOXIN, TETRODOTOXIN a NIKOTIN.** **Botulotoxin je nejsilnější známý jed vůbec — a přesto se v mikrodávkách používá kosmeticky i léčebně** (což je dokonalá ilustrace Paracelsa z otázky 132).
+
 🔑 **Pět kroků: nevstřebat → vyloučit → odfiltrovat → podpořit → antidotum.** V tomhle pořadí.
 ⚠️ **Nikdy nevyvolávat zvracení po kyselinách a louzích** — leptavá látka by prošla jícnem podruhé.
 
@@ -522,6 +589,27 @@ Charakteristický je **odstup příznaků** — potíže začínají až s něko
 **Léčba** zahrnuje **N-acetylcystein jako obranu proti oxidačním radikálům, penicilin, který působí kompeticí, cimetidin, který inhibuje jaterní cytochromy a prokazatelně snižuje nekrózu jater, a silymarin, tedy extrakt z ostropestřce.**
 
 Z dalších hub jsou to houby vyvolávající **gastrointestinální potíže** a **námel, tedy paličkovice nachová**, jejíž alkaloidy vyvolávají **ergotismus s vazokonstrikcí až gangrénami**.“
+
+💬 **Ať to dává smysl**
+⚠️ **Definice je užitečná tím, co zdůrazňuje: jedovatá je rostlina, u níž stačí MALÉ MNOŽSTVÍ.** **Ne každá rostlina, po které je člověku špatně, je jedovatá — rozhoduje dávka** (viz Paracelsus, otázka 132).
+🔑 **Naše jedovaté rostliny se nejlíp třídí podle SKUPINY ALKALOIDŮ — pak nemusíš znát rostlinu po rostlině, stačí skupina.**
+⚠️ **TROPANOVÉ ALKALOIDY jsou nejdůležitější a nejhezčí, protože tři rostliny obsahují prakticky TUTÉŽ trojici látek:**
+**RULÍK ZLOMOCNÝ, DURMAN OBECNÝ a BLÍN ČERNÝ** → všechny obsahují **HYOSCYAMIN, ATROPIN a SKOPOLAMIN.**
+⚠️ **A z toho plyne, že otrava vypadá u všech tří stejně — je to ANTICHOLINERGNÍ SYNDROM, který už znáš ze Specky I, otázky 39:**
+**mydriáza · suchá, červená a horká kůže · hypertermie · tachykardie · zmatenost a halucinace.** 🔑 **Tedy „suchý jako troud, slepý jako netopýr, červený jako řepa, horký jako pec, šílený jako kloboučník".**
+⚠️ **A antidotem je FYZOSTIGMIN — právě proto, že jako jediný inhibitor cholinesterázy PROCHÁZÍ do mozku** (viz Specka I, otázka 38), **takže zvládne i ty centrální příznaky.** **Neostigmin by na delirium nezabral.**
+*(Latinský název rulíku, Atropa belladonna, prozradí obojí najednou: Atropos byla sudička, která přestřihávala nit života, a „belladonna" znamená krásná paní — italské šlechtičny si šťávou rozšiřovaly zornice, protože se to považovalo za svůdné. — [obecné znalosti])*
+⚠️ **MUCHOMŮRKA ZELENÁ je nejdůležitější otravou celé otázky, protože je to u nás nejčastější smrtelná otrava houbami.**
+**Toxiny jsou AMANITIN a FALOIDIN a ⚠️ stačí JEDNA AŽ TŘI PLODNICE.**
+**Mechanismus: interferují s PROTEOSYNTÉZOU** *(amanitin blokuje RNA-polymerázu II, takže se nedá přepisovat DNA)*. ⚠️ **A protože nejvíc bílkovin vyrábějí játra, poškodí se právě ona — vzniknou CENTRILOBULÁRNÍ NEKRÓZY.**
+⚠️ **A teď to nejzrádnější, co u zkoušky musí zaznít: ODSTUP PŘÍZNAKŮ.**
+**Po požití je pacientovi několik hodin úplně dobře** — obvykle 6 až 12 hodin. **Když se pak dostaví zvracení a průjem, je toxin už dávno vstřebaný a výplach žaludku nemá smysl.** ⚠️ **A pak přijde druhá past: po prvních potížích nastane ZDÁNLIVÉ ZLEPŠENÍ, pacient se cítí lépe — a teprve potom se rozvine jaterní selhání.** **Právě to zdánlivé zlepšení vede k předčasnému propuštění.** *(Naopak u nejedlých hub, které dělají jen střevní potíže, přijdou příznaky RYCHLE — do dvou hodin. Krátká latence je tedy dobrá zpráva, dlouhá špatná. — [obecné znalosti])*
+**Léčba je kombinovaná a každá složka má svůj důvod:**
+- **N-acetylcystein** — obrana proti oxidačním radikálům (a doplnění glutathionu, viz obecka O17).
+- **Penicilin** — působí **kompeticí**, brání vychytávání amanitinu do jaterní buňky.
+- ⚠️ **Cimetidin** — **inhibuje jaterní cytochromy a prokazatelně snižuje nekrózu jater.**
+- **Silymarin** z ostropestřce — ⚠️ **a tohle je zajímavé propojení s otázkou 103: je to jediná situace, kde má silymarin skutečně doložený přínos.**
+**Z dalších hub:** **houby vyvolávající jen střevní potíže** a ⚠️ **NÁMEL (paličkovice nachová)**, plíseň na žitě. **Její alkaloidy vyvolávají ERGOTISMUS — silnou vazokonstrikci až GANGRÉNY končetin, plus halucinace.** *(Historicky „oheň svatého Antonína" po chlebu z napadeného žita. A jsou to tytéž námelové alkaloidy, které se v kontrolované dávce používají u migrény — viz Specka I, otázka 65.)*
 
 🔑 **Rulík, durman, blín = atropin a spol. = anticholinergní syndrom = fyzostigmin.**
 ⚠️ **U muchomůrky zelené je zrádné zpoždění příznaků** — když se objeví, toxin je už dávno vstřebaný.
@@ -544,6 +632,27 @@ Z **členovců** jsou u nás nejvýznamnější **včely, vosy a sršni** — je
 
 **Jediným naším jedovatým hadem je zmije obecná.** Její jed má **hemotoxické a cytotoxické účinky** — způsobuje **lokální otok, bolest a nekrózu**, systémově **poruchy koagulace a hypotenzi**. **Léčba spočívá v imobilizaci končetiny, podpůrné terapii a v závažných případech v podání antiséra.**“
 
+💬 **Ať to dává smysl**
+⚠️ **Dvě kritéria dělení jsou NEZÁVISLÁ — a to je celý trik otázky. Neptáš se jednou, ale dvakrát:**
+**1. MÁ TEN ŽIVOČICH ORGÁN NA VÝROBU JEDU?**
+- ⚠️ **FANEROTOXICKÝ má jedovou žlázu** *(faneros = zjevný, viditelný)*.
+- ⚠️ **KRYPTOTOXICKÝ ji nemá** *(kryptos = skrytý)* — **jed má rozptýlený v tkáních, často ho ani sám nevyrábí, ale získává z potravy nebo od bakterií.**
+**2. UMÍ TEN JED AKTIVNĚ VPRAVIT DO NĚKOHO JINÉHO?**
+- ⚠️ **AKTIVNÍ TOXICITA = má SDĚLNÝ APARÁT** — zub, žihadlo, osten. **Had, včela, ryba s jedovými ostny.** **Jed ti vpraví sám.**
+- ⚠️ **PASIVNÍ TOXICITA = sdělný aparát CHYBÍ.** **Žáby, mloci, čolci.** **K otravě dojde jen tehdy, když se toho DOTKNEŠ nebo to SNÍŠ.**
+🔑 **Zjednodušeně: aktivní = umí to píchnout, pasivní = musíš to sníst nebo osahat.**
+**Mořské toxiny** — ⚠️ **nejvýznamnější skupina blokuje SODÍKOVÉ KANÁLY.** **A to už znáš: zablokovaný sodíkový kanál znamená, že nevznikne akční potenciál** (viz Specka I, otázka 48 — lokální anestetika). ⚠️ **Jen tady to nezpůsobí místní znecitlivění, ale OCHRNUTÍ včetně dýchacích svalů.**
+**TETRODOTOXIN z ryb čeledi čtverzubcovitých (fugu)** je ⚠️ **jeden z nejjedovatějších přírodních toxinů vůbec** (viz i otázka 133). **Nemá antidotum — léčba je jen podpora dýchání, dokud toxin neodezní.** *(Zajímavost: samotná ryba ho nevyrábí, získává ho od bakterií v potravě — je tedy kryptotoxická. — [obecné znalosti])*
+**Žahavci (medúzy)** — jed způsobuje **lokální bolestivou reakci až systémové projevy.** **Měkkýši — jedovatí plži.**
+⚠️ **Členovci jsou u nás prakticky nejdůležitější — VČELY, VOSY, SRŠNI — a je klíčové říct proč:**
+**Samotný jed jednoho bodnutí zdravého člověka NEOHROZÍ** *(k toxické dávce by bylo potřeba několik set bodnutí)*. ⚠️ **Hlavním rizikem je ANAFYLAKTICKÁ REAKCE u senzibilizovaného člověka.**
+**A to je zásadní rozlišení: nezabíjí toxicita, zabíjí ALERGIE** — tedy imunitní reakce typu I (viz obecka O30). ⚠️ **A proto je lékem volby ADRENALIN, ne nějaké antidotum.** **Antihistaminikum a kortikoid se jen přidávají.**
+**A z definice alergie plyne i to, že první bodnutí je obvykle neškodné a nebezpečné je až další** — musí proběhnout senzibilizace.
+⚠️ **Zmije obecná je náš JEDINÝ jedovatý had.** **Její jed má HEMOTOXICKÉ a CYTOTOXICKÉ účinky** — *hemotoxický* = poškozuje krev a srážení, *cytotoxický* = ničí buňky v místě.
+- **Lokálně: otok, silná bolest, nekróza tkáně.**
+- **Systémově: poruchy koagulace a hypotenze.**
+⚠️ **Léčba: IMOBILIZACE končetiny** *(pohyb urychluje šíření jedu lymfou)*, **podpůrná terapie a v závažných případech ANTISÉRUM.** **Neřeže se, nevysává se ani se nepřikládá škrtidlo — to jsou dnes už opuštěné postupy, které škodí víc než pomáhají.** *[obecné znalosti]*
+
 🔑 **Aktivní = umí to píchnout. Pasivní = musíš to sníst nebo se toho dotknout.**
 ⚠️ **U bodnutí hmyzem nezabíjí jed, ale anafylaxe** — proto je lékem volby adrenalin.
 
@@ -562,6 +671,30 @@ Z **chelátorů** je potřeba znát: **dimerkaprol, používaný u arzenu, olova
 **Arzen je nejtoxičtější kov**; nejznámějším jedem je **oxid arsenitý, tedy arsenik**. **Podezření na akutní otravu vzniká při kombinaci náhlé gastroenteritidy, hypotenze a metabolické acidózy.** Diagnostika se opírá o **stanovení arzenu a jeho metabolitů v moči**, protože v krvi není spolehlivé. **Terapií je dekontaminace střeva a dimerkaprol.**
 
 **Olovo** působí především **neurotoxicky** — únava, anorexie, poruchy spánku, tremor a **periferní neuropatie s obrazem takzvané malířské ruky**, tedy neschopnosti extendovat zápěstí. Akutně může vzniknout **nitrolební hypertenze**. **Terapií je EDTA.**“
+
+💬 **Ať to dává smysl**
+⚠️ **Nejdřív PODSTATA TOXICITY, protože z ní plyne i celá léčba — a je to u všech těžkých kovů stejné:**
+**Spousta našich enzymů má ve svém aktivním místě SULFHYDRYLOVOU (–SH) skupinu.** ⚠️ **A těžké kovy se na ni pevně navážou — tím enzym zablokují a vyřadí z funkce.** **Kov tedy nezpůsobí jeden konkrétní účinek jako lék; VYPNE naráz celé skupiny enzymů, a proto jsou příznaky tak rozmanité a postihují víc orgánů najednou.**
+🔑 **A odtud plyne léčba: CHELATAČNÍ TERAPIE.**
+**Chelátor** *(z řeckého chélé = klepeto)* **je pružná molekula, která má DVĚ NEBO VÍC elektronegativních skupin — hydroxylovou, sulfhydrylovou nebo aminovou.** ⚠️ **Těmi kov obejme jako klepety, vytvoří s ním pevnou vazbu a odvede ho z těla ven.**
+⚠️ **A dělá tím dvě věci najednou, což stojí za to říct: jednak kov vyloučí, jednak mu ZABRÁNÍ, aby se vázal na sulfhydrylové skupiny enzymů.** **Chelátor je tedy vlastně atraktivnější „návnada" než vlastní enzym.**
+**Chelátory — každý s tím, čím se liší:**
+- ⚠️ **DIMERKAPROL** — na **arsen, olovo a rtuť**. **Podává se v olejovém roztoku nitrosvalově a je VELMI BOLESTIVÝ.** ⚠️ **A má zásadní omezení: u CHRONICKÝCH otrav je nevhodný, protože může arsen a rtuť REDISTRIBUOVAT DO MOZKU** — vytáhne je z tkání, ale cestou ven je zavleče tam, kde napáchají největší škodu. *(Je to redistribuce ve smyslu obecky O14.)*
+- **DMSA** — **ve vodě rozpustný analog dimerkaprolu**, ⚠️ **lze ho podat PERORÁLNĚ a je dobře snášen.** Je to modernější náhrada.
+- **EDTA** — na **olovo**. ⚠️ **Ale není selektivní — vychytá i ZINEK, takže způsobuje jeho depleci.**
+- **PENICILAMIN** — na **měď a u Wilsonovy choroby** *(vrozená porucha, kdy se měď hromadí v játrech a mozku)*. *(Je to tentýž penicilamin, který se používá jako DMARD — viz otázka 112.)*
+- **DEFEROXAMIN** — ⚠️ **chelátor volby pro otravu ŽELEZEM, a barví moč do červena.** *(Praktický detail: pacienta je nutné upozornit, aby to nepovažoval za krvácení — stejně jako u černé stolice po železe, viz otázka 124.)*
+**RTUŤ** — ⚠️ **jediný kov, který je za běžných podmínek TEKUTÝ.** **Otrava se projeví trojicí:**
+- **TREMOR** (třes),
+- ⚠️ **ERETHISMUS** — neuropsychické poruchy: **podrážděnost, plachost, úzkost, poruchy paměti** *(odtud „šílený kloboučník" — kloboučníci pracovali se rtutí při zpracování plsti. — [obecné znalosti])*,
+- ⚠️ **GINGIVOSTOMATITIDA — zánět dásní a sliznice dutiny ústní.** **To je pro tebe zubařsky klíčové: rtuť se vylučuje slinami, a proto se projeví právě v ústech** — kovová chuť, slinění, zánětlivé a bolestivé dásně, uvolňování zubů.
+**Terapie: DMSA, penicilamin nebo DMPS.**
+**ARSEN** — ⚠️ **zdroj ho označuje za NEJTOXIČTĚJŠÍ kov.** **Nejznámějším jedem je oxid arsenitý, tedy ARSENIK** — klasický vražedný jed, protože je bez chuti a zápachu.
+⚠️ **Podezření na akutní otravu vzniká při KOMBINACI TŘÍ VĚCÍ: náhlé gastroenteritidy, hypotenze a metabolické acidózy.** **Vypadá to jako těžká střevní infekce, ale s oběhovým selháním.**
+⚠️ **Diagnostika se dělá z MOČI, ne z krve** — v krvi arsen dlouho nevydrží, protože se rychle přesune do tkání. **Terapie: dekontaminace střeva a dimerkaprol.**
+**OLOVO** — ⚠️ **působí především NEUROTOXICKY.** **Únava, nechutenství, poruchy spánku, tremor a periferní neuropatie.**
+⚠️ **Klasickým obrazem je „MALÍŘSKÁ RUKA" — neschopnost natáhnout (extendovat) zápěstí, protože olovo poškodí motorický nerv pro natahovače.** *(Název pochází od malířů, kteří pracovali s olovnatou bělobou.)* **Akutně může vzniknout nitrolební hypertenze. Terapií je EDTA.**
+⚠️ **A pro tebe zubařsky: u chronické otravy olovem se popisuje „OLOVĚNÝ LEM" — tmavomodrý až šedý proužek na dásni při krčcích zubů.** **Vzniká tak, že se olovo v ústech spojí se sirovodíkem od bakterií a vysráží se jako sulfid olovnatý.** **Je to jeden z klasických klinických znaků medicíny.** *[obecné znalosti]*
 
 🔑 **Těžké kovy se vážou na sulfhydrylové skupiny enzymů. Chelátor je od nich odtáhne.**
 ⚠️ **Zubařsky:** rtuť se klasicky projeví **gingivostomatitidou** a u chronické otravy olovem se popisuje **olověný lem na dásních**. `[obecné znalosti]`
