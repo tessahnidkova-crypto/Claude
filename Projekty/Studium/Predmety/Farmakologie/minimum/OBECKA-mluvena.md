@@ -1,6 +1,7 @@
 # MINIMUM MLUVENÉ — Obecná farmakologie (O1–O35)
 
 > **Text v uvozovkách je souvislá odpověď, kterou u zkoušky řekneš nahlas.** Je to jen jádro — dost na to, abys otázku odpověděla a působila, že jí rozumíš.
+> **💬 = ať to dává smysl.** Tady je lidsky vysvětlené všechno, co je v mluveném textu odborně — **nemusíš si k tomu nic dohledávat.** Přečti si nejdřív 💬, pak se vrať k uvozovkám a ony budou dávat smysl samy.
 > 🔑 = na čem to udržíš v hlavě · ⚠️ = past, na kterou se chytá
 
 ---
@@ -20,6 +21,12 @@ Podle původu dělíme léčiva na **přírodní** — rostlinná, živočišná
 Poslední částí je **lékopis. Je to základní farmaceutické dílo normativní povahy s celostátní závazností** — tedy závazný předpis, ne doporučení. Vydává ho **ministerstvo zdravotnictví** a přebírá se z Evropského lékopisu. Podle něj dělíme látky na **oficinální**, které v lékopisu jsou, **neoficinální**, které v něm nejsou, ale používat se smějí, a **obsoletní**, tedy zastaralé a vyřazené.
 
 Lékopis obsahuje také tabulky. **Tabulka I jsou omamné a psychotropní látky, které se skladují uzamčené a předepisují na recept s modrým pruhem. Tabulka II jsou venena, tedy látky vysoce toxické, skladované v uzamčené skříni. Tabulka III jsou separanda, silně účinné látky skladované odděleně a označené červeným písmem na bílém podkladu. A tabulky IV a V uvádějí doporučené dávky pro dospělé a pro děti do patnácti let.“
+
+💬 **Ať to dává smysl**
+**Proč má jedno léčivo pět názvů?** Protože každý slouží někomu jinému. *Chemický* je vzorec rozepsaný slovy — přesný, ale nikdo ho nevysloví. *Generický* je krátký oficiální název látky (*ibuprofen*). *INN* je ten samý název domluvený mezinárodně, aby lékař v Německu i v Brazílii věděl, o čem je řeč. *Lékopisný* je jeho latinská podoba do receptu (*Ibuprofenum*). A *firemní* je značka konkrétní firmy (*Brufen*) — **proto se píše s velkým písmenem, je to vlastní jméno, jako Škoda nebo Nike.**
+**Lékopis** si představ jako **technickou normu pro léky** — kniha, ve které stojí, jak která látka musí vypadat, jak čistá musí být a jak se testuje. „Normativní povahy s celostátní závazností" znamená jen tolik, že **to není doporučení, ale předpis, který se musí dodržet.**
+**Oficinální / obsoletní** — *officina* je latinsky lékárna, takže **oficinální = je v lékopisu, lékárna to zná a smí to připravit**. *Obsoletní* je od slova zastaralý — látka, která se už nepoužívá.
+**Venena a separanda** jsou jen latinské názvy pro dvě přihrádky podle nebezpečnosti: **venena = jedy** (nejnebezpečnější, do zamčené skříně), **separanda = silně účinné** (od slova *separare*, oddělit — musí být uložené zvlášť, aby se s ničím nespletly).
 
 🔑 **Dynamika = co lék dělá TĚLU. Kinetika = co TĚLO dělá s lékem.** Šipka ukazuje opačně.
 ⚠️ **Oficinální = v lékopisu JE** (*officina* = lékárna). Ve studentských materiálech bývá chybně „oficiální".
@@ -44,6 +51,15 @@ Rozdíl mezi originálem a generikem: **generikum má stejnou léčivou látku v
 
 Regulačními orgány jsou **Státní ústav pro kontrolu léčiv v České republice, Evropská léková agentura EMA pro Evropskou unii a americká FDA**.“
 
+💬 **Ať to dává smysl**
+**Celá otázka stojí na jedné myšlence: o tom, co je lék, nerozhoduje složení, ale MECHANISMUS.** Ta samá látka může být lék i doplněk stravy — záleží na tom, v jaké dávce a s jakým tvrzením se prodává. Vitamin D v kapkách z lékárny na křivici je lék; ten samý vitamin D v tabletce z drogerie „pro podporu imunity" je doplněk stravy.
+**Co znamenají ty tři mechanismy:** *farmakologicky* = váže se na receptor nebo enzym a mění funkci · *imunologicky* = působí přes imunitní systém (očkovací látky) · *metabolicky* = zasahuje do látkové přeměny. **Zdravotnický prostředek nedělá ani jedno — působí fyzikálně**, tedy tvarem, tlakem, savostí: obvaz nasákne krev, stent roztlačí cévu, kondom je bariéra. Žádná chemie s receptorem.
+**HVLP a IPLP** — *hromadně vyráběný léčivý přípravek* je běžná krabička z továrny; *individuálně připravovaný* je to, co ti lékárník namíchá na míru podle receptu (mast, roztok).
+**SPC vs. příbalový leták** jsou dva popisy téhož léku pro dvě různá publika: **SPC je odborná verze pro lékaře** (plná dat), **leták je verze pro pacienta**.
+**Proč je pseudoefedrin „s omezením"?** Protože se z něj dá vyrobit pervitin — proto ho lékárník vydá jen na občanku a eviduje množství. *[obecné znalosti]*
+**Off-label** znamená doslova „mimo štítek" — lék se použije jinak, než má napsáno v SPC (jiná diagnóza, jiný věk). **Není to nezákonné**, protože pro děti se studie často vůbec nedělaly — kdyby to bylo zakázané, pediatr by neměl čím léčit.
+**Generikum** je kopie originálu po vypršení patentu. Má **stejnou účinnou látku i stejné množství**, liší se jen výplní a barvivem tablety — proto se u něj nemusí opakovat celý výzkum, stačí ukázat **bioekvivalenci**, tedy že v krvi vytvoří stejnou hladinu jako originál.
+
 🔑 **Lék léčí a smí to říct. Doplněk doplňuje a říct to nesmí. Prostředek působí fyzikálně.**
 ⚠️ **Off-label NENÍ nezákonné.** Na tohle se doptávají.
 
@@ -62,6 +78,14 @@ Existují **tři druhy předpisu: recept na léčivé přípravky, žádanka pro
 Zvláštní pravidla platí pro **individuálně připravované přípravky, tedy magistraliter recepturu**. Píše se **druhým pádem jednotného čísla**, každá látka na samostatný řádek s velkým počátečním písmenem a **dávka se uvádí v gramech bez jednotky, minimálně s jedním desetinným místem** — tedy deset celých nula. Pokud lékař úmyslně překročí lékopisnou dávku, **musí to označit vykřičníkem a slovem PŘEKROČENÍ** — jinak lékárník přípravek nevydá.
 
 A poslední věcí je **generická substituce: lékárník smí vydat jiný přípravek se stejnou léčivou látkou, pokud to lékař na receptu výslovně nezakáže.**“
+
+💬 **Ať to dává smysl**
+**Recept, žádanka, poukaz — rozdíl je v tom, KOMU se vydává.** *Recept* je pro konkrétního pacienta. *Žádanka* je objednávka léků pro celé oddělení nebo ordinaci (není na ní pacient, je na ní zdravotnické zařízení). *Poukaz* je na zdravotnický prostředek — berle, obvazy, glukometr.
+**Magistraliter** znamená doslova „mistrovsky", tedy **lékárníkem připravené na míru** — dnes hlavně masti a roztoky v dermatologii a stomatologii.
+**Proč druhý pád?** Protože recept začíná slovem **Rp.**, což je zkratka latinského *Recipe* — „vezmi". A vezmi **čeho**? Vezmi *acidi borici*. Celý recept je vlastně jedna věta: „Vezmi tolik a tolik gramů tohohle a tamtoho." Proto všechno stojí ve druhém pádě.
+**Proč gramy bez jednotky a s desetinným místem?** Aby se nedalo splést pořadí nul a jednotky. **10,0 je jednoznačně deset gramů** — kdyby někdo napsal jen „10", mohlo by to být deset miligramů i deset gramů, což je tisícinásobný rozdíl a mrtvý pacient.
+**Vykřičník a slovo PŘEKROČENÍ** je pojistka pro lékárníka: říká „ano, vím, že je to nad lékopisnou dávku, a chci to tak" — bez toho totiž lékárník musí předpokládat, že se lékař uklepl, a **nesmí přípravek vydat**.
+**Generická substituce** = lékárník ti místo předepsané značky smí dát levnější kopii se stejnou látkou — pokud to lékař na receptu výslovně nezakáže.
 
 🔑 **Magistraliter: 2. pád, každá látka na svůj řádek, gramy s desetinným místem.**
 ⚠️ **Maximální dávku lékárník nesmí překročit** — ani pro jednotlivou dávku, ani za 24 hodin — dokud ji lékař neoznačí.
@@ -88,6 +112,14 @@ A tady je důležité vysvětlit, **proč čtvrtá fáze vůbec existuje**. Do r
 
 U **generik se celý cyklus neopakuje** — stačí prokázat **bioekvivalenci** s originálem.“
 
+💬 **Ať to dává smysl**
+**Co znamenají ty zkratky s padesátkou:** to „50" vždycky znamená **u poloviny testovaných**. **ED50** = dávka, při které se dostaví žádaný účinek u poloviny (*E* jako efektivní). **TD50** = dávka, při které se objeví otrava u poloviny (*T* jako toxická). **LD50** = dávka, po které polovina zemře (*L* jako letální, smrtelná). Čím dál od sebe tyhle tři dávky jsou, tím je léčivo bezpečnější — a přesně to vyjadřuje **terapeutický index**.
+**Amesův test** je laboratorní test **mutagenity** — tedy jestli látka poškozuje DNA. Dělá se na bakteriích: když látka způsobí mutaci, bakterie získá schopnost růst na půdě, na které by normálně nerostla, a to se dá spočítat. *[obecné znalosti]*
+**Teratogenita** = poškozuje plod, **karcinogenita** = způsobuje rakovinu.
+**Randomizovaná a dvojitě zaslepená studie** — dvě pojistky proti sebeklamu. *Randomizace* znamená, že o tom, kdo dostane lék a kdo placebo, **rozhodne los**, ne lékař (jinak by podvědomě dával lék těm zdravějším). *Dvojitě zaslepená* znamená, že to **neví ani pacient, ani lékař** — jinak by lékař u „svých" pacientů viděl zlepšení i tam, kde není.
+**Proč fáze IV vůbec je** — tohle je pointa celé otázky a stojí za to ji říct nahlas. Do registrační studie se vejde pár tisíc lidí. **Nežádoucí účinek s výskytem 1 : 10 000 se v takovém souboru prostě nemá jak objevit** — statisticky tam nikdo takový není. Objeví se až když lék bere půl milionu lidí. A studie se navíc dělají na „čistých" pacientech: bez těhotných, bez dětí, bez seniorů s pěti dalšími nemocemi — **a přesně ti pak lék v praxi dostanou.**
+**Farmakovigilance** = *vigilance* je bdělost. Systém hlášení nežádoucích účinků z praxe. Hlásit smí i pacient.
+
 🔑 **Fáze I = je to bezpečné? II = kolik? III = funguje to? IV = co jsme přehlédli?**
 ⚠️ **Zdraví dobrovolníci jsou jen ve fázi I.**
 
@@ -111,6 +143,13 @@ Když to seřadím **podle rychlosti nástupu, jde to takto: nitrožilně, inhal
 
 **Místní podání** se volí tam, kde chceme účinek jen v jednom místě a chceme se vyhnout systémovým nežádoucím účinkům.“
 
+💬 **Ať to dává smysl**
+**Biologická dostupnost** je jednoduše **kolik procent spolknuté tablety se doopravdy dostane do krve v účinné podobě**. Když spolkneš 100 mg a do krve se dostane 30 mg, dostupnost je 30 %. **Nitrožilně je vždycky 100 %** — píchneš to rovnou do krve, není co ztratit. To je referenční bod, se kterým se všechno ostatní porovnává.
+**First-pass efekt („efekt prvního průchodu")** je jádro celé otázky a vrací se ještě u O13, O18 a lékových forem, tak si ho zapamatuj jednou pořádně. **Krev ze střeva neteče rovnou do těla — teče nejdřív portální žílou do jater.** Játra jsou celnice: než zásilku pustí dál, část jí zabaví a rozloží. **Proto tableta nikdy nedodá do těla tolik, kolik obsahuje.**
+**A z toho plyne, kdo játra obchází a proč:** *pod jazyk* — sliznice pod jazykem má vlastní žilní odtok, který jde do horní duté žíly, tedy rovnou k srdci, ne do jater. *Konečník* — dolní dvě třetiny odtékají mimo portální řečiště, horní třetina bohužel do něj (proto je čípek nepředvídatelný). *Kůže* — vstřebá se do podkožních cév, ty jdou rovnou do oběhu. *Injekce* — střevo i játra úplně přeskočíš.
+**„Nejfyziologičtější" u perorálního podání** znamená jen „nejpřirozenější" — tělo je stavěné na to, přijímat věci ústy. Nevýhoda je, že **je to zároveň nejméně předvídatelné**: záleží, jestli jsi jedla, jaké máš pH v žaludku, jak rychle se ti vyprazdňuje žaludek a jestli sis tabletu vůbec vzala.
+**Proč jsou plíce hned po žíle nejrychlejší?** Protože plicní sklípky mají plochu jako tenisový kurt a stěna mezi vzduchem a krví je tenká asi jako mýdlová bublina. **Velká plocha + tenká bariéra = bleskové vstřebání.** Ze stejného důvodu se kouří drogy — je to nejrychlejší cesta do mozku po injekci.
+
 🔑 **Kdo obchází játra: pod jazyk, do konečníku, přes kůži, injekčně.**
 ⚠️ **Rektální podání obchází játra jen z dolních dvou třetin** — horní třetina odtéká do portální žíly. Proto je jeho dostupnost nepředvídatelná.
 
@@ -128,6 +167,14 @@ Když to seřadím **podle rychlosti nástupu, jde to takto: nitrožilně, inhal
 
 **Orální formy** — pastilky, bukální a sublingvální tablety — mají jeden hlavní farmakokinetický smysl: **vstřebávají se přímo sliznicí dutiny ústní do žilního odtoku, který obchází játra, a tím se vyhnou first-pass efektu**. Proto se takto podává nitroglycerin.“
 
+💬 **Ať to dává smysl**
+**Perorální vs. orální — proč se to plete a jak si to udržet:** *per os* je latinsky **skrz ústa** (ústa jsou jen průchod, cíl je střevo). *Oralis* je **ústní** (cíl jsou ústa sama). Takže **pastilka na bolest v krku je orální, tableta ibuprofenu je perorální**, i když obě dáš do pusy.
+**Proč tableta není jen slisovaný prášek:** samotná účinná látka by se rozpustila hned v žaludku. Tablety se proto **obalují nebo se míchají do nosiče, který určuje, KDE a JAK RYCHLE se to rozpustí**. Tableta je vlastně malý časovač.
+**Enterosolventní** — *enteron* je střevo, *solvere* rozpustit: **rozpustná až ve střevě**. Obal je z materiálu, který odolá kyselině (žaludek má pH kolem 2), ale rozpustí se v zásaditém střevě (pH kolem 7). Dva důvody, proč se to dělá: **buď žaludek ničí lék** (třeba u omeprazolu), **nebo lék ničí žaludek** (u aspirinu).
+**Retardovaná** — od *retardare*, zdržet. Uvolňuje látku postupně několik hodin, takže stačí jedna tableta denně místo tří. Poznáš ji podle písmen v názvu: **SR, XR, ER, retard, prolong**. *[obecné znalosti]*
+**A proto se nesmí rozlámat:** rozdrcením zničíš obal nebo matrici, která uvolňování řídí — a **celá dvanáctihodinová dávka se vyplaví najednou**. U morfinu nebo u léku na tlak to může zabít.
+**Bukální a sublingvální** — *bucca* je tvář (tableta se nechá rozpustit za tváří), *sub lingua* pod jazykem. Obojí míří na tentýž trik: **vstřebat se sliznicí rovnou do krve a obejít játra.** Proto se nitroglycerin při angině dává pod jazyk — spolknutý by ho játra zlikvidovala dřív, než by zabral.
+
 🔑 **PerorálníE = polykám. Orální = zůstává v puse.** Liší se jedním písmenem a celou kinetikou.
 ⚠️ **Retardovanou ani enterosolventní tabletu nesmí pacient rozlámat ani rozkousat** — zničí se uvolňovací systém a celá dávka se vyplaví naráz.
 
@@ -144,6 +191,17 @@ Cestami podání jsou **nitrožilní, nitrosvalové, podkožní, nitrokožní a 
 Zajímavá je **řada rychlosti uvolňování z místa vpichu**, protože se řídí jednoduchým pravidlem: **čím hůř se přípravek v místě vpichu rozpouští, tím déle tam vydrží**. Nejrychlejší je **vodný roztok, pak vodná suspenze, pak olejový roztok, olejová suspenze a nejdéle působí implantát**, který se uvolňuje měsíce.
 
 **Dermatologika** se dělí podle obsahu vody a tuku na **roztoky, gely, krémy, masti a pasty**. Pro jejich volbu platí praktické pravidlo: **na mokvající lézi se dává vodný přípravek nebo obklad, na suchou a šupinatou naopak mast**.“
+
+💬 **Ať to dává smysl**
+**Parenterální** znamená doslova **„mimo střevo"** (*para* = vedle, *enteron* = střevo) — tedy jakékoli podání injekcí. A protože injekce **přeskočí všechny přirozené obranné bariéry** (kůži, žaludeční kyselinu, střevní stěnu, játra), musí být přípravek dokonale čistý. Odtud těch pět požadavků:
+- **Sterilní** = bez živých mikrobů.
+- **Apyrogenní** = nezpůsobí horečku (*pyr* = oheň). **Tohle není totéž co sterilní** — a je to oblíbená doplňující otázka. Když bakterie zabiješ, **zbydou po nich úlomky buněčné stěny, tzv. endotoxiny**. Ty se sterilizací nezničí, jsou tepelně odolné — a po vpíchnutí do žíly spustí horečku. Proto se apyrogennost testuje zvlášť.
+- **Izotonické** = má stejnou „hustotu" rozpuštěných částic jako krev. Kdyby byl roztok řidší, voda by vtekla do červených krvinek a ty by praskly; kdyby byl hustší, scvrkly by se.
+- **Izohydrie** = má stejné pH jako krev (kolem 7,4). Kyselý nebo zásaditý roztok by pálil a poškodil žílu.
+- **Bez mechanických nečistot** = žádná vlákna ani úlomky skla, které by ucpaly kapiláru.
+**Intratékální** = do mozkomíšního moku, tedy do páteřního kanálu (*théka* = pouzdro). Používá se, když se lék jinak do mozku nedostane.
+**Proč záleží na tom, v čem je látka rozpuštěná:** z místa vpichu se do krve dostane jen to, co je **rozpuštěné**. Vodný roztok je rozpuštěný celý → odteče hned. Olejová suspenze je vlastně malý depot, ze kterého se látka **musí nejdřív pomalu rozpouštět** → účinek trvá týdny. **Čím hůř rozpustné, tím déle to tam vydrží.** Na tomhle principu fungují depotní antipsychotika i hormonální implantáty.
+**Dermatologika:** *mast* je skoro čistý tuk (uzavře kůži, drží vlhkost), *krém* je směs tuku a vody, *gel* je vodný a rychle se vsákne, *pasta* je mast s práškem (kryje a vysušuje). Odtud pravidlo **„na mokré mokré, na suché mastné"** — mokvající lézi chceš vysušit, suchou promastit.
 
 🔑 **Pět požadavků: sterilní, apyrogenní, izotonické, správné pH, bez nečistot.**
 ⚠️ **Na mokré mokré, na suché mastné.**
@@ -166,6 +224,14 @@ Zajímavá je **řada rychlosti uvolňování z místa vpichu**, protože se ř�
 
 A poslední věc, kterou stojí za to zmínit: **inhalační podání není nikdy čistě lokální**. Část dávky se vstřebá systémově a část pacient spolkne — proto se **po inhalaci kortikoidu vyplachují ústa**, jinak hrozí orofaryngeální kandidóza.“
 
+💬 **Ať to dává smysl**
+**Proč má oko nejpřísnější požadavky?** Protože rohovka nemá cévy — nemá tedy ani imunitní hlídku, která by infekci zvládla. **Bakterie zavlečená do oka může za dva dny sežrat rohovku a oko oslepne.** Proto sterilita. A pH i osmolarita musí sedět, protože slza má pH kolem 7,4; kapka mimo tenhle rozsah pálí, oko slzí — **a slzy lék okamžitě vyplaví ven**, takže nefunguje.
+**Spojivkový vak** je záhyb mezi víčkem a bulbem, kam kapka „zapadne". Vejde se do něj asi 30 µl, kdežto kapka má 50 µl — **proto je zbytečné kapat dvakrát, jen to vyteče.** Mast se v tom vaku udrží déle než kapka, proto působí dýl (a proto se dává na noc, protože rozmaže vidění). *[obecné znalosti]*
+**Proč ušní kapky nemusí být sterilní?** Zevní zvukovod je jen slepá trubice zvenku, pokrytá kůží — je to prakticky povrch těla. **Ale za neporušeným bubínkem je středouší, které sterilní je.** Jakmile je bubínek protržený, kapka se dostane do středouší a najednou platí úplně jiná pravidla — proto se do děravého ucha nesmí dát cokoli (ototoxicita).
+**Čípek** — opakuje se tu první část otázky O5: **z dolních dvou třetin konečníku krev odtéká mimo játra, z horní třetiny do jater.** A protože nikdy nevíš, kam přesně čípek dojede, **je jeho dostupnost nepředvídatelná** — někdy játra obejde, někdy ne. Používá se hlavně tam, kde polykání nejde: u malých dětí a u zvracejícího pacienta.
+**Orofaryngeální kandidóza** = kvasinková infekce v ústech a hltanu, bíle povlečená sliznice. Vzniká po inhalačních kortikoidech proto, že **část dávky vždycky zůstane v ústech a tam potlačí místní imunitu** — kvasinka, která tam normálně jen nenápadně žije, dostane volné pole. **Proto se po inhalaci vyplachují ústa** — tohle je zubařsky i zkouškově vděčná otázka.
+**Proč je transdermální podání nevhodné u novorozence:** kůže je tenká a hlavně má **obrovský povrch v poměru k hmotnosti**. Ta samá náplast, která u dospělého působí místně, u novorozence dodá do těla poměrně obrovskou dávku.
+
 🔑 **Oko = nejpřísnější. Plíce = nejrychlejší. Konečník = obchází játra.**
 ⚠️ **U novorozence je transdermální podání nevhodné** — tenká kůže a velký povrch k hmotnosti znamenají významné systémové vstřebání.
 
@@ -184,6 +250,13 @@ Adherenci ovlivňuje **fyzická i duševní schopnost pacienta, jeho zdravotní 
 Poslední částí je **placebo a nocebo. Placebo je neúčinná látka upravená do stejné formy jako lék** a používá se ve třetí fázi klinických studií. **I placebo má prokazatelně pozitivní dopad na zdravotní stav** — podstatou je psychika pacienta, který se domnívá, že je léčen. **Účinek je individuální a liší se podle nemoci — funguje u bolesti a deprese, ale ne u onemocnění s malou pravděpodobností vyléčení.**
 
 **Nocebo je opak: pacient očekává, že léčba jeho stav zhorší, a ten se v důsledku toho očekávání skutečně zhorší.** Klasickým důkazem je studie s finasteridem — **skupině pacientů, které lékaři řekli o riziku erektilní dysfunkce, se tento problém objevil u čtyřiačtyřiceti procent, zatímco u neinformované skupiny jen u patnácti procent.** Stejný lék, dvojnásobně jiný výsledek jen podle toho, co jim řekli.“
+
+💬 **Ať to dává smysl**
+**Compliance a adherence** jsou dvě slova pro tutéž věc — **nakolik pacient bere léky tak, jak má.** *Compliance* je „poslušnost, vyhovění" a zní to, jako by pacient měl jen plnit rozkazy. Proto se dnes říká **adherence** („přilnutí, přidržení se plánu"), což počítá s tím, že **pacient je partner, který se na léčbě sám podílí**. Obsahově je to totéž, změnil se jen postoj. **Nedělej z toho dva různé pojmy — na tom se dá shodit.**
+**Proč je to vůbec téma:** zhruba **polovina pacientů s chronickou nemocí léky nebere tak, jak má** — a nejlepší lék, který se neužije, má nulovou účinnost. **Nejúčinnější způsob, jak adherenci zlepšit, je zjednodušit režim** — jedna tableta ráno se bere líp než tři tablety třikrát denně. *[obecné znalosti]*
+**Placebo** je latinsky „budu se líbit". Je to **tabletka bez účinné látky, ale jinak k nerozeznání od pravého léku** — stejná barva, tvar, chuť. Používá se ve studiích, aby se odlišil skutečný účinek látky od účinku toho, že se pacient cítí léčený.
+**A tady je pointa: placebo NENÍ „nic".** Očekávání samo o sobě spouští měřitelné pochody — u bolesti se prokazatelně vyplaví vlastní endorfiny. **Proto placebo zabírá u bolesti, deprese, nevolnosti nebo úzkosti** — tedy tam, kde se hodně podílí prožitek. **Nezabírá tam, kde je potřeba fyzicky něco změnit** — nádor nezmenší a zlomeninu nesrostí.
+**Nocebo** je zrcadlový obraz („uškodím"): **když pacient čeká, že mu bude hůř, opravdu mu hůř bude.** Studie s finasteridem je toho učebnicový důkaz — jedna skupina byla poučena o riziku erektilní dysfunkce (44 % ji mělo), druhá ne (15 %). **Stejný lék, stejná dávka — rozdíl udělala jediná věta lékaře.** A to je zároveň důvod, proč se o nežádoucích účincích musí mluvit citlivě: informovat ano, zastrašovat ne.
 
 🔑 **PLAcebo = PLus. NOcebo = NO.**
 ⚠️ **Compliance a adherence jsou rovnocenné pojmy**, ne dva různé.
@@ -210,6 +283,17 @@ Membrána je v podstatě tuková stěna — **proto přes ni projde jen neionizo
 
 Nakonec jsou tu **bariéry — hematoencefalická a placentární**, které průnik dále omezují.“
 
+💬 **Ať to dává smysl**
+**Tohle je nejdůležitější otázka celé obecné farmakologie**, protože se z ní odvozuje iontová past, vylučování ledvinami, průnik do mozku, hromadění v mléce i to, proč anestetikum nefunguje v zaníceném zubu. Vyplatí se rozumět jí doopravdy.
+**Buněčná membrána je tuková stěna** — dvě vrstvy tuku k sobě obrácené. A platí prosté pravidlo z kuchyně: **tuk se mísí s tukem, ne s vodou.** Proto:
+- **Lipofilní** (= „tuk milující", mastná, nenabitá molekula) **membránou projde snadno.**
+- **Hydrofilní** (= „vodu milující", nabitá molekula) **neprojde** — voda a tuk se nemísí.
+**Co znamená „ionizovaná":** molekula **získala elektrický náboj** — buď odevzdala vodíkový iont (a je záporná), nebo ho přijala (a je kladná). **Nabitá molekula se obalí vodou a tuková stěna ji odmítne.** Nenabitá projde.
+**A teď ta pointa, na které stojí půlka farmakologie:** jestli je molekula nabitá, nebo ne, **nezávisí jen na ní, ale na pH prostředí, ve kterém zrovna je.** Slabá kyselina je v kyselém prostředí nenabitá (projde), v zásaditém nabitá (neprojde). U slabé zásady je to obráceně.
+**Iontová past** je pak už jen logický důsledek: **lék projde tam, kde je nenabitý, ale v prostředí za bariérou se ionizuje — a nabitý už zpátky nemůže. Zůstane uvězněný a hromadí se.** Proto se zásaditá léčiva hromadí u plodu a v mateřském mléce (jsou kyselejší než plazma) — a proto se při otravě aspirinem, což je kyselina, **zalkalizuje moč**: aspirin se v zásadité moči ionizuje, nemůže se z ledvinného kanálku vstřebat zpět a odteče pryč.
+**Pět mechanismů, lidsky:** *pasivní difuze* = teče to samo z místa, kde je toho hodně, tam, kde je toho málo (jako pach z kuchyně do bytu) — zadarmo, ale jen po spádu. *Facilitovaná difuze* = taky po spádu, ale potřebuje to **dvířka s obsluhou** (přenašeč) — a obsluhy je omezený počet. *Aktivní transport* = **proti spádu, do kopce**, takže se za to musí platit energií (ATP). *Vezikulární transport* = buňka to **spolkne v bublině** (velké molekuly, které by se stěnou neprotáhly). *Filtrace* = protlačení dírkou, jen pro malé molekuly ve vodě.
+**Proč je jen část z nich saturovatelná:** saturace = nasycení. **Nasytit se dá jen to, čeho je omezený počet — tedy přenašeč.** Volná difuze se nasytit nedá, protože nemá kapacitu, kterou by šlo vyčerpat. Ze stejného důvodu **jen u přenašečových mechanismů dochází ke kompetici** — dvě léčiva se perou o tatáž dvířka.
+
 🔑 **Po spádu zadarmo = difuze. Proti spádu za ATP = aktivní transport. Nabité neprojde, tučné projde.**
 ⚠️ **Saturovatelné a kompetitivní jsou jen mechanismy s přenašečem** — pasivní difuze ne.
 
@@ -233,6 +317,16 @@ Nejlépe se to ukáže na poločasu. **Poločas není samostatná vlastnost lé�
 
 Sledovat stačí **plazmatickou koncentraci**, protože je v rovnováze s koncentrací v místě účinku, kterou přímo měřit nelze.“
 
+💬 **Ať to dává smysl**
+**ADME je prostě cesta léku tělem od začátku do konce:** **A**bsorpce = dostat se do krve · **D**istribuce = rozvézt se po těle · **M**etabolismus = přeměnit se na něco, co jde vyloučit · **E**xkrece = odejít z těla. Každá otázka z kinetiky je vlastně jen detail jednoho z těch čtyř kroků.
+**Interindividuální variabilita** = **rozdíly mezi lidmi**. Dva stejně velcí pacienti dostanou stejnou dávku a v krvi mají jinou hladinu — jeden má nemocná játra, druhý bere lék, který mu blokuje enzym. Klinická farmakokinetika se zabývá přesně tímhle.
+**Tři pojmy, které jsou v téhle otázce nejdůležitější, lidsky:**
+- **Clearance** = **jak rychle tělo uklízí.** Formálně je to objem plazmy, který se za minutu úplně zbaví léčiva. Nepředstavuj si množství léku, ale **objem tekutiny, který byl vyčištěn**. Je to jako výkon čističky vody: „za minutu přečistíme 100 litrů" — bez ohledu na to, jak špinavá ta voda je.
+- **Distribuční objem** = **kam všude se lék rozutekl.** Je to počítaná veličina, ne skutečný prostor v těle: vezmeš dávku a vydělíš ji koncentrací naměřenou v krvi. **Když v krvi naměříš málo, vzorec ti vyjde velké číslo — a to ti říká, že lék je někde jinde než v krvi**, typicky ve svalech nebo v tuku.
+- **Biologická dostupnost (F)** = **kolik procent dávky se doopravdy dostalo do oběhu.**
+**Proč se poločas počítá až z těch dvou a ne naopak** — tohle je ta past. **Poločas není vlastnost léku samotného, je to výsledek.** Zeptej se sama sebe: jak dlouho trvá vyčistit bazén? Záleží na dvou věcech — **jak je velký** (distribuční objem) a **jak výkonná je čistička** (clearance). Velký bazén nebo slabá čistička = dlouhý poločas. Proto vzorec: **t½ = 0,693 × Vd / Cl.**
+**Proč zrovna 0,693?** Je to přirozený logaritmus dvojky — vypadne to z matematiky exponenciálního poklesu. **Nemusíš to umět odvodit, jen vědět, že to tam patří.**
+
 🔑 **ADME = dovnitř, rozvézt, rozložit, ven.**
 ⚠️ **Poločas není primární parametr** — je to následek clearance a distribučního objemu, ne příčina.
 
@@ -254,6 +348,14 @@ Nejlépe se to vysvětlí na frontě u pokladny. **První řád je obchod, kde j
 
 A nakonec **pravidlo pěti poločasů: za pět poločasů se dosáhne ustáleného stavu při opakovaném podávání a stejně tak se za pět poločasů léčivo z těla prakticky vyloučí.**“
 
+💬 **Ať to dává smysl**
+**Odkud se ta divná jména berou:** „řád" je matematický pojem a znamená jen, **na čem rychlost eliminace závisí**. U **prvního řádu** závisí na koncentraci — čím víc léku v těle je, tím víc se ho za hodinu odstraní. U **nultého řádu** nezávisí na ničem — odstraní se pořád stejné množství, ať je v těle kolik chce. **Nemusíš umět matematiku, stačí ta fronta u pokladny z mluveného textu.**
+**Proč se většina léčiv chová podle prvního řádu:** protože **enzymů máme obrovskou rezervu**. Běžná terapeutická dávka je pro játra maličkost — kapacita není ani zdaleka vyčerpaná, takže se vždycky stihne odbourat stejné *procento*.
+**Proč je nultý řád nebezpečný:** protože **zmizí rezerva a s ní i předvídatelnost**. Dokud enzym stíhá, zvýšíš dávku o 20 % a hladina stoupne o 20 %. Jakmile je enzym nasycený, **zvýšíš dávku o 20 % a hladina vyletí třeba na trojnásobek**, protože přebytek se nemá kam podít a hromadí se. **Právě proto se fenytoin dávkuje po miligramech a měří se jeho hladina v krvi.**
+**Alkohol je nejnázornější příklad, který znáš z života:** játra odbourají zhruba **stálých 0,1–0,15 ‰ za hodinu** bez ohledu na to, kolik jsi vypila. Proto se z jednoho piva vystřízlivíš za hodinu a z osmi za osm hodin — **ne za hodinu a půl.** Kdyby platil první řád, opilost by odezněla vždy stejně rychle. *[obecné znalosti]*
+**Ustálený stav (steady state)** = **stav, kdy se do těla dostává přesně tolik, kolik se z něj vyloučí**, takže hladina už dál nestoupá a jen kolísá kolem stálé úrovně. Je to jako vana s puštěným kohoutkem a otevřeným odtokem — po chvíli se hladina ustálí.
+**Pravidlo pěti poločasů platí oběma směry** a je to jedna z nejužitečnějších vět z celé kinetiky: **za 5 poločasů se lék při pravidelném braní dostane na ustálenou hladinu — a za 5 poločasů po vysazení je z těla prakticky pryč** (zbyde asi 3 %). Proto trvá antidepresivu s dlouhým poločasem týdny, než se „usadí", a proto se po vysazení warfarinu ještě dny čeká, než se dá operovat.
+
 🔑 **První řád = PROCENTA. Nultý řád = KUSY.** Saturační trojka: alkohol, fenytoin, aspirin.
 ⚠️ **U nultého řádu nemá smysl mluvit o poločasu** — není konstantní.
 
@@ -272,6 +374,16 @@ Tady je klíčové pochopit, že **eliminace začíná okamžitě, ne až po vst
 Při perorálním podání se dávka ztrácí **postupně v pěti krocích: neúplným uvolněním z lékové formy, degradací v žaludku, neúplným vstřebáním, metabolismem ve střevní stěně a nakonec first-pass efektem v játrech.** Proto může být dostupnost jen deset nebo dvacet procent — není to jedna velká ztráta, ale pět menších za sebou.
 
 **Plocha pod křivkou, tedy AUC, se počítá lichoběžníkovou metodou.** A nejdůležitější věta zní: **AUC závisí na dávce a na clearance, ale nezávisí na rychlosti přívodu.** Když se tedy zvýší rychlost vstřebávání, **c max stoupne a t max se zkrátí, ale plocha zůstane stejná** — do těla se dostane stejné množství, jen dřív.“
+
+💬 **Ať to dává smysl**
+**Batemanova funkce je jen odborný název pro tvar té křivky**, co ti nakreslí, když někomu dáš tabletu a pak mu každou hodinu měříš hladinu v krvi: **nejdřív stoupá, dosáhne vrcholu, pak klesá.** Vypadá jako kopec. Nemusíš znát vzorec, musíš umět vysvětlit **proč má takový tvar**.
+**A ten důvod je jediný: vstřebávání a vylučování běží SOUČASNĚ, ne po sobě.** Tohle je celá pointa otázky. Není to tak, že by se lék napřed celý vstřebal a pak se začal odbourávat — **jakmile se do krve dostane první molekula, játra a ledviny už na ní pracují.**
+**Představ si vanu, do které pustíš vodu, ale zapomeneš zavřít odtok.** Zpočátku teče z kohoutku víc, než stíhá odtékat → hladina stoupá. Kohoutek postupně slábne (v žaludku ubývá léku), až se v jednu chvíli **přítok vyrovná odtoku — a to je vrchol křivky.** Pak už kohoutek nestíhá a hladina klesá.
+**Proto vrchol NENÍ okamžik, kdy je vstřebané všechno** — to je nejčastější chyba. **Je to okamžik remízy.** V tu chvíli je pořád ještě něco ve střevě a zároveň už se něco vyloučilo.
+**c max a t max** = jen značky pro souřadnice toho vrcholu: **c**oncentratio **max**ima = jak vysoko, **t**empus **max**imum = kdy.
+**AUC** je zkratka z anglického *area under the curve*, česky **plocha pod křivkou** — tedy kolik čtverečků je pod tím kopcem. **Vyjadřuje celkovou expozici, tedy kolik toho lék v těle „naprodukoval" za celou dobu.** Lichoběžníková metoda je jen způsob, jak tu plochu spočítat: nakrájí se na svislé proužky a sečtou.
+**A teď nejdůležitější věta celé otázky — proč AUC nezávisí na rychlosti vstřebávání:** protože **plocha závisí jen na tom, KOLIK se ho tam dostalo, ne JAK RYCHLE.** Když se to samé množství vstřebá rychleji, kopec bude **vyšší a užší**; když pomaleji, bude **nižší a širší** — ale **plocha zůstane stejná**. Přesně to je rozdíl mezi obyčejnou a retardovanou tabletou téhož léku: jiný tvar křivky, stejná AUC.
+**Proč je dostupnost tablety často jen 20 %:** protože se **neztratí naráz, ale v pěti krocích za sebou** — něco se neuvolní z tablety, něco rozloží žaludeční kyselina, něco se nevstřebá, něco zlikvidují enzymy ve střevní stěně a zbytek zdaní játra. Pět malých ztrát za sebou udělá dohromady obrovskou.
 
 🔑 **Vrchol = remíza mezi vstřebáváním a eliminací, ne konec vstřebávání.**
 ⚠️ **AUC nezávisí na rychlosti přívodu** — jen na dávce, dostupnosti a clearance.
@@ -296,6 +408,17 @@ Proto je **hypoalbuminemie u cirhózy, nefrotického syndromu nebo malnutrice ri
 
 Průnik dále omezují **bariéry, především hematoencefalická a placentární**.“
 
+💬 **Ať to dává smysl**
+**Distribuční objem je vymyšlené číslo, ne skutečný prostor — a právě to je na něm k pochopení.** Postup je: **vím, kolik jsem podala, změřím, kolik toho je v krvi, a vydělím.** Výsledek odpovídá na otázku: „*Kdyby se ten lék rovnoměrně rozpustil v nějakém objemu tekutiny, jak velký by ten objem musel být, aby v něm byla tahle koncentrace?*"
+**Proto může u digoxinu vyjít 500 litrů, i když má člověk 5 litrů krve.** Neznamená to, že se do těla vešlo 500 litrů — **znamená to, že v krvi ho skoro není, protože se všechen nacpal do svalů.** Číslo je jen převyprávěním téhle informace.
+**Praktický překlad:** **malý Vd → lék zůstává v krvi** (warfarin sedí navázaný na albumin v plazmě) · **velký Vd → lék je schovaný ve tkáních** (digoxin ve svalech, thiopental v tuku).
+**A proto u velkého Vd nemá dialýza smysl:** dialýza čistí **krev**. Když v krvi lék prakticky není, **nemá odkud ho brát** — vyčistíš pár litrů a ze svalů se okamžitě doplní zpátky. Tohle je oblíbená doplňující otázka u otrav.
+**Redistribuce** = *re-* znovu, *distribuce* rozvezení. **Lék se přestěhuje z jedné tkáně do druhé, aniž by z těla ubylo.** U thiopentalu: napíchne se do žíly, dobře prokrvený mozek ho nasaje první (proto pacient usne za vteřiny), ale pak se pomalu přeplavuje do tuku, kterého je hodně a je špatně prokrvený. **Mozek se vyprázdní, pacient se probudí — a v těle je pořád stejné množství.**
+**Vazba na bílkoviny — proč na tom vůbec záleží:** v krvi lék existuje ve dvou podobách. Buď **volně plave**, nebo **sedí přilepený na bílkovině**. A platí, že **účinkuje výhradně ta volná část**. Navázaná molekula je moc velká — **neprojde do tkání, neprofiltruje se v ledvině, nedostane se na receptor.** Je to skladová zásoba, ne pracovní síla.
+**Albumin vs. orosomukoid:** albumin je hlavní bílkovina plazmy a je záporně nabitý, proto na něj sedají **kyselá léčiva**. **Zásaditá** sedají na kyselý α1-glykoprotein, kterému se říká **orosomukoid**. ⚠️ *Ve starých studentských vypracovaných otázkách je uvedeno „oxomukoid" — to je překlep, správně je* **orosomukoid**.
+**Proč je vytěsnění nebezpečné:** představ si, že warfarin je z 99 % navázaný a jen **1 % volně účinkuje**. Přijde jiný lék, který ho z bílkoviny vystrnadí, a vazba klesne na 95 %. **Volná frakce se tím zvedne z 1 % na 5 % — tedy PĚTKRÁT**, i když jsi žádnou dávku nezměnila. U léku na ředění krve to znamená krvácení.
+**Hypoalbuminemie** = málo albuminu v krvi (u cirhózy, ledvinového onemocnění, podvýživy). Méně bílkoviny = **méně vazebných míst = víc volného léku ze stejné dávky.** Proto se u těchhle pacientů dávky snižují.
+
 🔑 **Kyselé na albumin, zásadité na glykoprotein. Vysoký distribuční objem = dialýza nepomůže.**
 ⚠️ **U warfarinu stačí pokles vazby z 99 na 95 procent a volného léčiva je pětkrát víc.**
 
@@ -314,6 +437,15 @@ Z toho plyne zásadní pravidlo: **poločas se počítá výhradně z fáze beta
 **Clearance je objem plazmy, který se za jednotku času zcela zbaví léčiva.** Není to množství léčiva, ale objem — proto se udává v mililitrech za minutu. Platí, že **clearance se rovná eliminační konstanta krát distribuční objem**, a celková clearance je součtem clearance jaterní, renální a ostatních.
 
 Clearance je klinicky nejdůležitější parametr, protože **podle ní se počítá udržovací dávka**.“
+
+💬 **Ať to dává smysl**
+**Eliminace se skládá ze dvou různých věcí a je dobré je nezaměňovat.** **Biotransformace (metabolismus)** = lék se **přemění** na něco jiného — pořád je v těle, jen v jiné podobě. **Exkrece** = lék **fyzicky odejde ven** močí, žlučí nebo dechem. Teprve obojí dohromady je eliminace.
+**Poločas** je jednoduše **doba, za kterou z těla zmizí polovina toho, co tam je.** Když je poločas 4 hodiny, po 4 hodinách je tam půlka, po 8 čtvrtina, po 12 osmina. **Nikdy to nedojde přesně na nulu** — proto se v praxi počítá s pěti poločasy, po kterých zbydou asi 3 %, což už je zanedbatelné.
+**Fáze α a β — proč křivka po injekci klesá dvakrát jinak:** pusť si to jako film. **Píchneš lék do žíly → v tu chvíli je celá dávka v pěti litrech krve, takže koncentrace je obrovská.** Během pár minut se ale rozteče do celého těla — a **hladina v krvi prudce spadne, aniž by se z těla cokoli vyloučilo.** Tomu strmému kusu se říká **fáze α, distribuční**. Teprve když je lék rovnoměrně rozvezený, začne se křivka svažovat mírně a **ten mírný pokles už znamená skutečné mizení z těla — fáze β, eliminační.**
+**A proto se poločas počítá jenom z fáze β.** Kdybys ho vzala ze strmého začátku, vyšel by ti třeba 10 minut místo 6 hodin — **a předávkovala bys pacienta**, protože bys mu dávala další dávku každých 10 minut. Tohle je nejcennější věta celé otázky, protože ukazuje, že rozumíš, co ta křivka znamená.
+**Clearance ještě jednou, protože se to plete:** **není to množství odstraněného léku, je to OBJEM plazmy, který se za minutu úplně vyčistil.** Proto jednotka ml/min, ne mg/min. Analogie: čistička neříká „vyčistili jsme 3 kg nečistot", ale „přečistili jsme 200 litrů".
+**Clearance = eliminační konstanta × distribuční objem** je jen matematicky přepsané „**rychlost čištění krát prostor, který se čistí**". A **celková clearance je součet** — játra si vezmou svůj díl, ledviny svůj, něco odejde plícemi. Když jeden orgán selže, celková clearance klesne a lék se hromadí.
+**Proč je clearance klinicky nejdůležitější parametr:** protože **podle ní se počítá udržovací dávka.** Musíš doplňovat přesně to, co tělo odklidí — víc = kumulace a otrava, míň = lék nezabere.
 
 🔑 **Alfa = do tkání. Beta = ven z těla. Poločas jen z bety.**
 ⚠️ **Clearance je OBJEM očištěné plazmy, ne množství odstraněného léčiva.**
@@ -336,6 +468,16 @@ Při opakovaném podávání se **ustálený stav, tedy steady state, nastolí z
 
 **Ke kumulaci léčiva dochází tehdy, když je dávkovací interval kratší než poločas eliminace** — další dávka přijde dřív, než se stihla vyloučit ta předchozí. Míru kumulace vyjadřuje **kumulační index**, který udává, kolikrát bude koncentrace v ustáleném stavu vyšší než po první dávce.“
 
+💬 **Ať to dává smysl**
+**Terapeutické okno** je pásmo koncentrací, ve kterém lék **už účinkuje, ale ještě netráví**. Pod ním je to zbytečné, nad ním nebezpečné. **Celý dávkovací režim nedělá nic jiného, než že se snaží pacienta do tohohle pásma dostat a udržet ho tam.**
+**Dvě dávky, dva různé úkoly — a proto dva různé vzorce:**
+- **Nasycovací dávka je jednorázový kýbl, kterým vanu naplníš.** Ptáš se „**jak velký ten prostor je?**" → proto **Vd × cílová koncentrace**.
+- **Udržovací dávka je kohoutek, který jen dorovnává, co uteče odtokem.** Ptáš se „**jak rychle to uteče?**" → proto **clearance × cílová koncentrace**.
+**Kdy se nasycovací dávka doopravdy dává:** u léků s **dlouhým poločasem**, kde by se na účinnou hladinu čekalo dny až týdny. Klasicky u digoxinu nebo amiodaronu. **U léku s krátkým poločasem nemá smysl** — ustálí se sám za pár hodin. *[obecné znalosti]*
+**Nejdůležitější a nejméně intuitivní věta celé otázky: rychlost dosažení ustáleného stavu závisí VÝHRADNĚ na poločasu, nikdy na dávce.** Zdvojnásobíš dávku a nedostaneš se tam dřív — **dostaneš se tam ve stejný čas, jen na dvojnásobné hladině.** Proto se u pomalu nastupujících léků nezvyšuje dávka z netrpělivosti, ale podá se nasycovací dávka.
+**Kumulace = hromadění.** Nastane vždycky, když **další dávku dáš dřív, než se stihla vyloučit ta předchozí** — tedy když je interval kratší než poločas. **Není to samo o sobě chyba** — přesně tak se dosahuje ustáleného stavu u léků, které se berou 3× denně. Problém nastane, až když se hladina vyšplhá nad terapeutické okno, typicky když pacientovi selžou ledviny a poločas se prodlouží, ale dávkování zůstane stejné.
+**Kumulační index** ti řekne, **kolikrát vyšší bude hladina v ustáleném stavu než po první tabletě.** Když je index 3, znamená to, že po prvním týdnu bude v krvi třikrát víc než po prvním dnu — a to je přesně ten důvod, proč některé léky „zaberou" až po čase.
+
 🔑 **Nasycovací dávka závisí na OBJEMU, udržovací na CLEARANCE.**
 ⚠️ **Pět poločasů platí oběma směry** — na dosažení ustáleného stavu i na vyloučení.
 
@@ -354,6 +496,17 @@ Probíhá **ve dvou fázích, které na sebe ale nemusí nutně navazovat**.
 Nejlepším příkladem je **paracetamol**. Odbourává se **třemi cestami**: většina glukuronidací a sulfatací, což jsou cesty neškodné, a **asi pět procent přes cytochrom CYP2E1, kde vzniká toxický metabolit N-acetyl-p-benzochinonimin, zkráceně NAPQI**. **Za normálních okolností ho okamžitě zneškodní glutathion.**
 
 Při předávkování se stanou dvě věci najednou: **hlavní cesty se nasytí, takže se přebytek přelije do cesty přes CYP2E1 a NAPQI vzniká mnohem víc — a současně se glutathion vyčerpá.** Od té chvíle NAPQI ničí jaterní buňky. **Antidotem je acetylcystein, což je prekurzor glutathionu** — dodá tedy játrům surovinu, aby si obranu doplnila.“
+
+💬 **Ať to dává smysl**
+**Proč tělo léky vůbec přeměňuje?** Protože **ledviny umějí vyloučit jen to, co je rozpustné ve vodě.** Léky jsou ale většinou tučné (lipofilní) — jinak by se nevstřebaly a nedostaly do buněk. **Jenže tučnou molekulu ledvina sice vyfiltruje, ale hned v kanálku se zase vstřebá zpátky** (tuk projde stěnou, viz O10) — a lék by v těle koloval donekonečna. **Biotransformace je proto celá o jediném: udělat z tučného vodnaté, aby to šlo vyplavit.**
+**Dvě fáze jsou jako připevnit kliku a pak na ni pověsit tašku:**
+- **Fáze I** = do molekuly se **udělá nebo odhalí funkční skupina** (typicky se přidá kyslík) — vznikne **úchyt**. Dělá to hlavně **cytochrom P450**, což je rodina enzymů v játrech. **Molekula je pak jen o kousek vodnatější, ale hlavně je na ní kam něco přilepit.**
+- **Fáze II (konjugace)** = na ten úchyt se **přilepí velký vodou milující zbytek** (kyselina glukuronová, síran, glutathion). **Molekula tím zbytní, zvodnatí a stane se neúčinnou** — a hlavně už se v ledvinném kanálku nemůže vstřebat zpátky, takže odteče.
+**„Nemusí na sebe navazovat"** znamená prostě, že **některé léky rovnou skočí do fáze II**, protože už úchyt mají, a některé se z fáze I vyloučí bez konjugace.
+**A tady je ta zrada, kterou zkoušející milují: fáze I může udělat látku NEBEZPEČNĚJŠÍ.** Přidáním kyslíku občas vznikne reaktivní molekula, která je toxičtější než původní lék. **Fáze II naopak skoro vždycky zneškodňuje.** Proto se říká: **fáze I je riziková, fáze II je hasič.**
+**Paracetamol je učebnicová ukázka a stojí za to ho umět odvyprávět:** normálně se **95 % zpracuje bezpečně** (glukuronidace, sulfatace) a jen **5 % projde přes CYP2E1**, kde vznikne **NAPQI** — reaktivní jed, který by ničil jaterní buňky. **Glutathion ho ale okamžitě chytí a zneškodní**, takže se nic neděje.
+**Při předávkování se pokazí obojí najednou** — a to je celá pointa: **bezpečné cesty se nasytí** (mají omezenou kapacitu), takže se **přebytek přelije do té toxické** → NAPQI vzniká mnohem víc. **A zároveň se glutathion vyčerpá**, protože ho je konečná zásoba. **Od té chvíle NAPQI nemá kdo chytat** a začne rozežírat játra. Proto je otrava paracetamolem zákeřná: **prvních 24 hodin pacientovi nic není**, jaterní selhání přijde za dva až tři dny.
+**Acetylcystein** — možná ho znáš jako lék na kašel (ACC). **Jako antidotum funguje proto, že je zdrojem cysteinu, ze kterého si játra vyrobí nový glutathion.** Nedělá nic s NAPQI přímo — **jen doplní tělu munici, aby si poradilo samo.**
 
 🔑 **Fáze I = udělej úchyt (a může to být nebezpečné). Fáze II = přilep vodu (a je klid).**
 ⚠️ **Alkohol indukuje CYP2E1 a zároveň vyčerpává glutathion** — proto může být u alkoholika hepatotoxická i běžná dávka paracetamolu.
@@ -374,6 +527,13 @@ Praktickým důsledkem je, že **perorální dávka se u těchto léčiv výrazn
 
 A nakonec elegantní důsledek, kterým se dá otázka zakončit: **u jaterní cirhózy se first-pass efekt snižuje, a tím biologická dostupnost naopak STOUPÁ.** Zároveň klesá jaterní clearance. **Stejná dávka proto u cirhotika vytvoří výrazně vyšší koncentraci než u zdravého člověka** — protože játra ji přestala zachytávat cestou do oběhu.“
 
+💬 **Ať to dává smysl**
+**Zopakování z O5, protože tady je to hlavní téma:** krev ze střeva **neteče rovnou do těla**. Sbírá se do **portální (vrátnicové) žíly** a ta ji odvede **nejdřív do jater**. Teprve odtud jde do srdce a do oběhu. **Játra tedy dostanou lék jako první — a než ho pustí dál, část ho rozloží.** To je first-pass efekt, česky efekt prvního průchodu.
+**Proč to tělo tak má:** je to obranné zařízení. Všechno, co sníš — včetně jedů v potravě — jde nejdřív na kontrolu do jater. **Léky jsou pro tělo jen další cizí látka a dopadají stejně.**
+**Jaterní extrakční poměr** říká, **jakou část zásilky celnice zabaví**. Když je poměr 0,9, játra zlikvidují 90 % a do těla se dostane desetina. Léky s vysokou extrakcí (morfin, propranolol, nitroglycerin) mají proto **v tabletě mnohem vyšší dávku než v injekci** — jinak by nezabraly.
+**Praktický důsledek, který stojí za to říct nahlas:** **10 mg morfinu do žíly není totéž co 10 mg morfinu v tabletě.** Perorální dávka musí být zhruba **trojnásobná**, protože dvě třetiny sežerou játra. **Proto se při převodu pacienta z injekce na tablety dávka přepočítává, ne opisuje** — a záměna obou směrů může být smrtelná.
+**A teď ta věta, kterou zakončíš otázku a která zní obráceně, než by člověk čekal: nemocná játra znamenají VYŠŠÍ hladinu léku, ne nižší.** Zní to nelogicky, ale dává to smysl, jakmile si uvědomíš, co játra dělají: **jsou to ty, kdo lék likviduje.** U cirhózy jsou dvě příčiny — **jednak celnice přestane fungovat, takže do oběhu projde větší část dávky** (dostupnost stoupne), **jednak klesne clearance, takže se to pomaleji odbourává**. **Obojí táhne hladinu nahoru.** Proto se u cirhotika dávky snižují, i když je „slabý a nemocný".
+
 🔑 **First-pass = celnice mezi střevem a tělem.**
 ⚠️ **Nemocná játra = vyšší dostupnost.** Zní to obráceně, ale je to tak.
 
@@ -393,6 +553,19 @@ Z toho plyne klinicky velmi důležitý důsledek: **indukce po vysazení odezn�
 
 A poslední věc: **u proléčiv platí obojí obráceně.** Inhibice enzymu tam účinek **sníží**, protože nevznikne aktivní metabolit — typicky u klopidogrelu nebo kodeinu.“
 
+💬 **Ať to dává smysl**
+**Cytochrom P450** je rodina jaterních enzymů, které rozkládají většinu léků. Představ si je jako **partu dělníků na lince**. A léky s nimi mohou udělat dvě věci: **zablokovat je (inhibice), nebo najmout další (indukce).**
+**Inhibice — někdo obsadí linku:**
+- **Rychlá** — stačí, aby se inhibitor na enzym navázal. **Nastupuje během hodin, často po první dávce.**
+- Enzym nestíhá → **lék se odbourává pomaleji → jeho hladina STOUPÁ → hrozí předávkování**, i když pacient bere pořád tu samou dávku.
+- **Grapefruit** je nejznámější příklad — obsahuje látky, které blokují CYP3A4 ve střevní stěně. **Jedna sklenice může zvýšit hladinu některých léků (statiny, blokátory kalciových kanálů) i několikanásobně.** Proto to stojí v příbalových letácích.
+**Indukce — postaví se nová továrna:**
+- **Pomalá** — tělo musí **vyrobit nové molekuly enzymu**, což znamená přepsat gen a nasyntetizovat bílkovinu. **Trvá to dny až týdny.** Jaderný receptor **PXR** je ten „vypínač", který ten gen zapne.
+- Enzymů je víc → **lék mizí rychleji → jeho hladina KLESÁ → léčba přestane fungovat.**
+- **Rifampicin, karbamazepin, fenytoin, barbituráty, třezalka a kouření.**
+**Nejcennější důsledek, který ukazuje, že tomu rozumíš: indukce po vysazení odeznívá stejně pomalu, jak nastupovala.** Enzymy, které se vyrobily, se nerozpustí přes noc — **musí se rozpadnout, což trvá týdny.** Proto interakce **rifampicinu s hormonální antikoncepcí nekončí dnem, kdy se dobere antibiotikum** — žena musí používat jiné zajištění ještě několik týdnů po léčbě. Tohle je klasická zkoušková otázka.
+**Proléčivo (prodrug)** je lék, který **sám o sobě nefunguje** — účinný se stane až poté, co ho tělo přemění. **A proto u něj platí všechno obráceně:** když enzym **zablokuješ**, aktivní látka **nevznikne** a lék **nezabere**. Typicky **klopidogrel** (ředí krev, aktivuje se přes CYP2C19) nebo **kodein** (na morfin ho přemění CYP2D6). **Zablokovat enzym u proléčiva neznamená otravu, ale selhání léčby.**
+
 🔑 **Inhibice = rychlá a nahoru. Indukce = pomalá a dolů. Grapefruit inhibuje, třezalka indukuje.**
 ⚠️ **U proléčiva je to obráceně.**
 
@@ -411,6 +584,15 @@ A poslední věc: **u proléčiv platí obojí obráceně.** Inhibice enzymu tam
 **Extrarenálně** se léčiva vylučují **žlučí**, což může vést k **enterohepatálnímu oběhu a prodloužení účinku**, dále **plícemi** u těkavých látek, a v malé míře **slinami, potem a mateřským mlékem**.
 
 Klinicky nejdůležitější je, že **při renální insuficienci se hromadí léčiva vylučovaná ledvinami v nezměněné podobě** — u nich je nutná úprava dávky podle odhadu glomerulární filtrace.“
+
+💬 **Ať to dává smysl**
+**Ledvina není jednoduchý filtr — je to filtr, za kterým je ještě přebírací pás.** Nejdřív se do moči nasype skoro všechno, pak se to užitečné vytahá zpátky a to nežádoucí se ještě přidá. Odtud ty tři děje:
+- **Glomerulární filtrace** = **hrubé síto na začátku.** Protlačí se všechno malé, co volně plave v plazmě. **Navázané na bílkovinu neprojde** — komplex lék + albumin je na dírky moc velký. **Proto se filtruje jen volná frakce** (viz O14).
+- **Tubulární sekrece** = ledvina lék **aktivně dostrká z krve do moči** pomocí přenašečů, i proti spádu. Jsou dva typy přenašečů — jeden na kyseliny, druhý na zásady. **A protože přenašečů je omezený počet, dvě léčiva se o ně můžou porvat.** Odtud **probenecid**: obsadí přenašeč pro kyseliny, penicilin se nemá jak dostat do moči a **zůstane déle v krvi**. Dřív se to dělalo schválně, protože penicilin byl vzácný a drahý.
+- **Tubulární reabsorpce** = **vzít si zpátky.** Z moči se do krve zase pasivně vstřebává to, co projde stěnou — a **projde jen nenabité, tučné.** Proto se lipofilní lék pořád vrací a bez biotransformace by z těla nikdy neodešel (viz O17).
+**Iontová past v ledvině — tady se ti to všechno spojí a je to nejhezčí otázka celé obecky:** chceš, aby lék v moči **zůstal nabitý**, protože **nabité se nemůže vstřebat zpátky a musí odtéct**. A jestli je nabitý, řídí pH moči. Takže při **otravě aspirinem** (což je **kyselina** acetylsalicylová) **moč zalkalizuješ** — v zásaditém prostředí se kyselina ionizuje, uvízne v kanálku a odejde. **U zásady bys naopak okyselovala.** Odtud pravidlo v 🔑 níž.
+**Extrarenální vylučování** = mimo ledviny. **Žlučí** — a tady pozor na **enterohepatální oběh**: játra lék vyloučí žlučí do střeva, střevní bakterie ho ale rozštípnou zpátky na původní podobu a **on se znovu vstřebá**. Lék tak koluje v kruhu a **jeho účinek se prodlužuje**. Tak funguje například hormonální antikoncepce — a proto ji antibiotika, která vybijí střevní bakterie, mohou oslabit. *[obecné znalosti]* · **Plícemi** odcházejí těkavé látky (inhalační anestetika, alkohol — proto dechová zkouška funguje). · **Mateřským mlékem** jen málo, ale klinicky to stačí, aby se lék dostal do kojence.
+**Renální insuficience** = nedostatečná funkce ledvin. **Hromadí se hlavně léky, které odcházejí močí nezměněné** — ty totiž nemají žádnou náhradní cestu. Proto se u nich dávka snižuje **podle odhadnuté glomerulární filtrace (eGFR)**, což je číslo, které dnes laboratoř dodá spolu s kreatininem.
 
 🔑 **Filtrace = hrubé síto (jen volná frakce). Sekrece = aktivní dostrkání (dá se ucpat). Reabsorpce = vzít si zpátky.**
 ⚠️ **Kyselinu vyženeš alkalizací moči, zásadu okyselením.**
@@ -435,6 +617,19 @@ Antagonismus je dvojí a rozdíl je klinicky zásadní. **Kompetitivní antagoni
 
 Nakonec je potřeba rozlišit dvě vlastnosti, které se pletou. **Afinita je schopnost se na receptor navázat, vnitřní aktivita je schopnost ten receptor aktivovat.** Vazba je tedy podmínkou účinku, ale ne jedinou — látka se může navázat a neudělat nic. **Plný agonista má vnitřní aktivitu rovnou jedné, parciální mezi nulou a jednou, antagonista nulovou.**“
 
+💬 **Ať to dává smysl**
+**Nejdůležitější věta na začátek: lék neumí nic, co tělo neumí samo.** Nevytvoří novou funkci, jen **zesílí nebo zeslabí tu, která už existuje**. Je to plyn a brzda — ale motor musí být v autě. **Proto se nedá lékem obnovit zničená tkáň**: když jsou neurony mrtvé, není co zrychlovat.
+**Čtyři pojmy pro změnu funkce — rozdíl je jen v tom, jestli zůstaneš v normálu, nebo za ním:** *stimulace* = zvýšíš funkci, **ale pořád v mezích fyziologie** · *excitace* = zvýšíš ji **nad normál** · *inhibice* = snížíš ji, ale funkce zůstane · *paralýza* = **vypneš ji úplně**. Kofein tě stimuluje, křeč je excitace; utlumení bolesti je inhibice, ochrnutí svalu po kurare je paralýza.
+**Nespecifický vs. specifický mechanismus — nejlíp se to pozná podle DÁVKY, a to je chytrá věta k použití:**
+- **Nespecifické** působí **fyzikálně-chemicky, ne vazbou na cíl.** Antacidum prostě **neutralizuje kyselinu**, manitol **na sebe váže vodu osmoticky**, aktivní uhlí **na svůj povrch nasaje jed**. K tomu je potřeba **hodně molekul — proto se dávkují v gramech.** Jedna molekula osmotický tlak nevytvoří.
+- **Specifické** se **navážou na konkrétní cílovou molekulu jako klíč do zámku.** Stačí jich málo, protože každá udělá velký efekt — **proto miligramy nebo mikrogramy.**
+**Receptor, ligand, agonista, antagonista:** **receptor** je zámek (bílkovina, která po podráždění spustí děj v buňce). **Ligand** je cokoli, co do toho zámku pasuje — vlastní mediátor i lék. **Agonista** je klíč, který **zámek otočí** (spustí odpověď). **Antagonista** je klíč, který **do zámku vleze, ale neotočí** — a hlavně tím **zámek zablokuje, aby do něj nemohl pravý klíč.** Sám nedělá nic, jeho účinek je vždycky jen „něco jiného tam nemůže".
+**Kompetitivní vs. nekompetitivní antagonismus a proč to klinicky rozhoduje:**
+- **Kompetitivní** = **sedí na tom samém místě jako agonista**, takže se o ně perou. **Kdo je v přesile, ten vyhraje** → **dá se přebít vyšší dávkou agonisty.** Proto se dá blokáda atropinem překonat, když se vyplaví hodně acetylcholinu.
+- **Nekompetitivní** = **sedí jinde** (nebo se naváže napevno) a receptor vyřadí bez ohledu na to, kolik agonisty přijde. **Přebít se nedá.** Fenoxybenzamin se váže **nevratně**, takže jeho účinek trvá i po tom, co je látka dávno vyloučená z krve — **funkce se vrátí, až buňka vyrobí nové receptory.**
+**Afinita vs. vnitřní aktivita — dvě různé schopnosti, které se pletou:** **afinita** je „**jak dobře do zámku pasuju**" (jak pevně se navážu). **Vnitřní aktivita** je „**dokážu s tím zámkem otočit?**". **Můžeš mít obrovskou afinitu a nulovou vnitřní aktivitu — a to je přesně antagonista**: přilepí se na receptor jako klíště a neudělá vůbec nic. Plný agonista má aktivitu 1, **parciální někde mezi 0 a 1** (otočí zámkem jen napůl), antagonista 0.
+**Proč se parciální agonista chová podle situace** *(a je to oblíbená doplňující otázka)*: když je systém **prázdný**, jeho poloviční účinek je lepší než nic → **působí jako agonista**. Když je systém **plný silného agonisty**, parciální ho z receptoru vytlačí a nahradí jeho plný účinek svým polovičním → **výsledkem je útlum, tedy chová se jako antagonista.**
+
 🔑 **Afinita = navázat se. Vnitřní aktivita = něco udělat.** Dvě různé schopnosti.
 ⚠️ **Parciální agonista se chová podle situace** — v prázdném systému jako agonista, v nasyceném jako antagonista.
 
@@ -458,6 +653,17 @@ A **jaderné receptory řídící genovou transkripci mají nástup v řádu hod
 
 **Druzí poslové jsou čtyři hlavní. Cyklické AMP vzniká z ATP adenylátcyklázou. IP3 vzniká štěpením fosfolipidu fosfolipázou C a otevírá vápníkový kanál v endoplazmatickém retikulu. DAG vzniká stejným štěpením a aktivuje proteinkinázu C. A oxid dusnatý vzniká NO-syntázou z argininu, aktivuje guanylátcyklázu a přes cGMP vede k vazodilataci.**“
 
+💬 **Ať to dává smysl**
+**Down-regulace a up-regulace** = buňka si **sama reguluje počet zámků podle toho, kolik klíčů chodí.** Když je mediátoru pořád moc, buňka receptory **stáhne dovnitř** (internalizace) — tomu se říká **down-regulace** a je to důvod, proč vzniká **tolerance**: stejná dávka najednou nestačí. Když je naopak receptor dlouho blokovaný, buňka jich **nadělá víc** (up-regulace) — a to je důvod **rebound fenoménu** po náhlém vysazení betablokátoru: normální hladina noradrenalinu najednou dopadne na dvojnásobek receptorů.
+**Čtyři typy receptorů — nemusíš se je učit jako seznam, stačí pochopit, že se liší DÉLKOU CESTY, kterou signál urazí. A z délky cesty plyne rychlost:**
+- **Ionotropní** = receptor **JE** ten iontový kanál. Ligand sedne, kanál se otevře, ionty tečou. **Žádný mezistupeň → zlomek milisekundy.** Sem patří nikotinový receptor, GABA-A a glutamátové.
+- **Metabotropní (spřažené s G-proteinem)** = receptor kanál nemá, **musí to vzkázat dál** přes G-protein a druhé posly. **Jeden mezistupeň navíc → sekundy.** Muskarinové a adrenergní. **Je to nejpočetnější skupina — míří na ni asi 40 % všech léků.** („Prochází sedmkrát membránou" je jen popis jejich tvaru — hadovitě protkávají stěnu buňky.)
+- **S proteinkinázovou aktivitou** = receptor po navázání **rozjede kaskádu fosforylací** uvnitř buňky, které mění chování celé buňky. **Minuty až hodiny.** Inzulin, růstové faktory.
+- **Jaderné** = ligand **projde až do jádra a zapne gen**. Pak se musí gen přepsat a vyrobit nová bílkovina. **Hodiny až dny.** Steroidy, hormony štítné žlázy, vitamin D.
+**A tady je věta, kterou stojí za to říct nahlas, protože z teorie udělá praxi: astmatikovi v záchvatu nedáš kortikoid a nečekáš, že to zabere.** Kortikoid jde přes **jaderný** receptor — musí přepsat geny, což trvá hodiny. **Proto se podá salbutamol, který jde přes metabotropní receptor a zabere v sekundách.** Kortikoid se dá taky, ale na to, co přijde za dvě hodiny.
+**Druzí poslové** jsou **poslíčci uvnitř buňky** — receptor je na povrchu, ale práce se má odvést uvnitř, a někdo tu zprávu musí donést. Čtyři hlavní: **cAMP** (vyrobí ho adenylátcykláza z ATP) · **IP₃** — otevře sklad **vápníku** v endoplazmatickém retikulu · **DAG** — nastartuje **proteinkinázu C** · **NO (oxid dusnatý)** — vzniká z argininu, projde do svalové buňky cévy a přes cGMP ji **uvolní, tedy roztáhne cévu**. Na tomhle stojí nitroglycerin i sildenafil. *[obecné znalosti]*
+**IP₃ a DAG vznikají ze stejného štěpení jedné molekuly** — fosfolipáza C rozštípne membránový fosfolipid a **z jedné poloviny je IP₃, z druhé DAG**. Proto se objevují vždycky spolu, ale každý dělá něco jiného.
+
 🔑 **Milisekundy → sekundy → minuty → hodiny.** Čím delší cesta signálu, tím pomalejší nástup.
 ⚠️ **IP₃ dělá vápník, DAG proteinkinázu C** — ze stejného štěpení dva různí poslové.
 
@@ -480,6 +686,17 @@ Je potřeba nezaměnit dva pojmy: **terapeutická šíře je rozdíl TD50 mínus
 Poslední částí je **terapeutické riziko**. Tady je potřeba přiznat, že **terapeutický index není uspokojivým měřítkem bezpečnosti** — vychází z toxicity zjištěné na zvířatech a nebere v úvahu idiosynkratické reakce. **Lepším ukazatelem je NNT, number needed to treat, tedy počet pacientů, které je třeba léčit, aby se u jednoho projevil daný efekt.**
 
 Nejlépe se to ukáže na příkladu. **Léčivo A sníží u často smrtelné nemoci úmrtnost z padesáti na pětadvacet procent — jeho NNT je čtyři. Léčivo B sníží u vzácně smrtelné nemoci úmrtnost z pěti na dva a půl procenta — jeho NNT je čtyřicet. Obě tedy snižují úmrtnost přesně na polovinu, ale léčivo A je nesrovnatelně významnější**: u B musíme vystavit riziku čtyřicet lidí, abychom zachránili jeden život, u A jen čtyři. **Z toho plyne, že relativní čísla se sama o sobě nedají srovnávat — vždy je potřeba vědět, jak časté je výchozí riziko.**“
+
+💬 **Ať to dává smysl**
+**Kvantitativní vs. kvantální — jsou to dva úplně jiné pohledy a rozdíl je v tom, CO se měří:**
+- **Kvantitativní (stupňovaná)** = **jeden člověk, měřím SÍLU účinku.** Dáš pacientovi betablokátor a sleduješ, o kolik mm Hg mu klesne tlak. Účinek má **stupně** — může být poloviční, může být trojnásobný.
+- **Kvantální (statistická)** = **skupina lidí, počítám, KOLIK z nich zareagovalo.** Dáš stovce lidí hypnotikum a spočítáš, kolik jich usnulo. Účinek je typu **všechno, nebo nic** — **nikdo neusne o 20 %.** Buď spí, nebo nespí.
+**Z toho plyne i to, co se z které křivky odečítá.** Z kvantitativní: **EC50** (koncentrace, při které je účinek poloviční — určuje ji **afinita**, tedy jak dobře se lék na receptor váže), **E max** (kam až se dá dojít — určuje ji **vnitřní aktivita**) a **sklon** (čím strmější, tím snáz se předávkuješ, protože malá změna dávky udělá velkou změnu účinku). Z kvantální: **ED50, TD50, LD50** (viz O4 — vždycky „u poloviny testovaných").
+**Terapeutický index je jen dělení a dá se převyprávět jednou větou: kolikrát větší dávku než léčebnou musíš dát, aby to začalo škodit.** TD50 ÷ ED50. **Index 10 = musela bys dát desetinásobek, to je bezpečné.** **Index 2 = stačí dvojnásobek a je zle**, takže se vývoj zastaví. **Mezi tím se lék používat smí, ale musí se měřit hladiny v krvi** (lithium, digoxin, warfarin, fenytoin).
+**Nezaměň index a šíři** — to je klasická chytačka: **index je PODÍL (dělíš), terapeutická šíře je ROZDÍL (odečítáš).**
+**Proč terapeutický index nestačí a proč se zavádí NNT:** index vychází z **pokusů na zvířatech** a **nezachytí idiosynkrazii** — tedy nepředvídatelnou reakci jednotlivce (viz O26). Hlavně ale **neříká vůbec nic o tom, jestli se lék vyplatí**.
+**NNT (number needed to treat) = kolik pacientů musíš léčit, abys u jednoho z nich něčeho dosáhla.** Spočítá se **1 ÷ absolutní snížení rizika**. **Čím menší číslo, tím lepší lék** — NNT 4 znamená, že každý čtvrtý pacient má z léčby prospěch; NNT 400 znamená, že 399 lidí bere lék úplně zbytečně (ale nežádoucí účinky mít můžou).
+**Příklad z mluveného textu je celá pointa otázky a stojí za to ho umět:** obě léčiva snižují úmrtnost **na polovinu — to zní stejně dobře.** Jenže **A snižuje z 50 % na 25 %, tedy o 25 procentních bodů → NNT = 1/0,25 = 4.** **B snižuje z 5 % na 2,5 %, tedy jen o 2,5 bodu → NNT = 1/0,025 = 40.** **Stejný relativní účinek, desetkrát jiná praktická hodnota.** Poučení: **„snižuje riziko o 50 %" je bez znalosti výchozího rizika prázdná informace** — a přesně takhle se dělá reklama na léky.
 
 🔑 **Kvantitativní = JAK MOC. Kvantální = U KOLIKA. Index dělíš, šíři odečítáš.**
 ⚠️ **NNT = jedna dělená absolutním snížením rizika.** Čím menší číslo, tím lepší lék.
