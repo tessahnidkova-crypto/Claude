@@ -1,6 +1,7 @@
 # MINIMUM MLUVENÉ — Speciální farmakologie I, část A (36–65)
 
 > **Text v uvozovkách je souvislá odpověď, kterou u zkoušky řekneš nahlas.** Je to jádro — když ho odříkáš plynule a s porozuměním, otázka je obhájená.
+> **💬 = ať to dává smysl.** Lidsky vysvětlené všechno, co je v mluveném textu odborně — **nemusíš si k tomu nic dohledávat.** Přečti nejdřív 💬, pak se vrať k uvozovkám.
 > 🔑 = na čem to udržíš v hlavě · ⚠️ = past, na kterou se chytá
 >
 > ⚠️ **Vegetativní nervstvo (36–46) je základ všeho ostatního.** Z něj se odvodí kardiologie, astma i anestezie. Nepřeskakuj to — je to jediný blok, kde se investice vrátí pětkrát.
@@ -16,6 +17,17 @@ Acetylcholin působí na **dva typy receptorů**. **Nikotinové** jsou **ionotro
 Z nich jsou klinicky nejdůležitější tři. **M1** je v centrálním nervovém systému a ve žlázách — má vliv na kognici a na sekreci slin a žaludeční šťávy. **M2 je v srdci** a jeho podráždění **snižuje frekvenci, kontraktilitu i atrioventrikulární vedení**. **M3** je na žlázách a hladkých svalech — způsobuje **miózu, bronchokonstrikci, zvýšenou sekreci žláz a zvýšenou motilitu trávicího traktu**. M4 a M5 jsou převážně v centrálním nervovém systému.
 
 Celý parasympatikus se dá shrnout jako režim **klidu a trávení** — zpomalit srdce, zúžit zornici, stáhnout průdušky, rozjet střevo a rozproudit sekreci žláz. Z toho jediného principu se pak dají odvodit účinky všech cholinomimetik i parasympatolytik."
+
+💬 **Ať to dává smysl**
+**Než začneš, ujasni si, co je vegetativní nervstvo:** je to **automatická část nervové soustavy, kterou neovládáš vůlí** — řídí srdce, cévy, průdušky, trávení, zornice a žlázy. Má dvě větve, které stojí proti sobě: **sympatikus = boj nebo útěk** (mediátorem je noradrenalin) a **parasympatikus = klid a trávení** (mediátorem je acetylcholin). **Otázky 36 až 46 jsou jen o tom, jak se každá z těch větví dá zapnout nebo vypnout lékem** — a když pochopíš tenhle jeden princip, nemusíš se učit skoro žádné seznamy.
+**Cholinergní přenos = přenos přes acetylcholin.** Sestaví se z cholinu a acetyl-CoA (dvě běžné látky z metabolismu), uvolní se do štěrbiny mezi dvěma nervy, sedne na receptor — a **hned ho rozloží acetylcholinesteráza**, aby signál nezůstal viset. **To, že má vlastní likvidační enzym, je klíč k celé otázce 38**: zablokuješ enzym → acetylcholin zůstane ležet dýl → signál se zesílí.
+**Nikotinové a muskarinové — odkud ta divná jména:** pojmenovaly se podle látek, kterými se objevily. **Nikotin z tabáku dráždí jednu skupinu, muskarin z muchomůrky červené druhou.** Nemá to nic společného s tím, kde v těle jsou — je to jen historické.
+**A teď důležitý rozdíl ve STAVBĚ, ze kterého plyne rychlost** (navazuje na obecku O22):
+- **Nikotinový je sám o sobě iontový kanál (ionotropní).** Acetylcholin sedne, dvířka se otevřou, ionty tečou. **Žádný mezikrok → reakce ve zlomku milisekundy.** Proto sedí tam, kde to musí být bleskové: **na nervosvalové ploténce (NM), tedy tam, kde nerv dává povel svalu, a v gangliích (NN)**, což jsou přepojovací uzly vegetativních nervů.
+- **Muskarinový kanál nemá — musí to vzkázat dál přes G-protein (metabotropní). Trvá to sekundy**, ale zato účinek vydrží. Proto sedí na orgánech, kde nespěchá o milisekundy: srdce, žlázy, hladké svaly.
+**Pět podtypů M se učit nemusíš, stačí tři a jedna logika: M2 = srdce, M3 = všechno ostatní na periferii, M1 = mozek a žlázy.**
+**A pak už jen jedna věta: parasympatikus je režim odpočinku.** Odtud si odvodíš úplně všechno — **zpomal srdce, zúži zornici, stáhni průdušky** (nepotřebuješ nabrat moc vzduchu, když ležíš), **rozjeď střevo a spusť sliny** (trávíš). **Nikdy se ty účinky neuč jako seznam — vždycky si představ člověka, který se po jídle natáhne na gauč.**
+**Mióza** = zúžení zornice (opak je **mydriáza**, rozšíření). **Bronchokonstrikce** = stažení průdušek, **motilita** = pohyblivost střeva.
 
 🔑 **M2 = dvě srdeční komory → M2 je SRDCE. M3 = všechno ostatní na periferii** (žlázy, hladké svaly, oko, bronchy).
 🔑 **Nikotinový = rychlý kanál (ploténka a ganglia). Muskarinový = pomalý G-protein (orgány).**
@@ -33,6 +45,19 @@ Ze zástupců je nejznámější **pilokarpin**, který se používá u glaukomu
 
 **Antidotem otravy je atropin**, protože jde o kompetitivní antagonistu na muskarinových receptorech."
 
+💬 **Ať to dává smysl**
+**„Přímá" znamená, že se ta látka naváže rovnou na receptor a předstírá acetylcholin.** Zámek nepozná rozdíl a otevře se. **Proto jsou účinky přesně ty, co dělá zapnutý parasympatikus — jen silnější a delší**, protože na rozdíl od acetylcholinu se některé z těchhle látek nedají snadno rozložit.
+**Nemusíš se učit výčet účinků. Představ si otravu muchomůrkou červenou:** člověk **slintá, potí se, slzí, zvrací, má průjem, malé zorničky, pomalé srdce a dusí se** ze stažených průdušek. **To je celý seznam** — a přesně to popisuje mnemotechnika DUMBELS.
+**Proč klesá tlak přes NO:** acetylcholin na cévním endotelu spustí tvorbu **oxidu dusnatého**, a ten je nejsilnější přirozený uvolňovač cévní svaloviny — céva se roztáhne a tlak spadne. *(Je to ten samý NO jako druhý posel z obecky O22 a ten samý mechanismus, na kterém stojí nitroglycerin.)*
+**Jednotliví zástupci — každý má svoje „proč":**
+- **Pilokarpin** u **glaukomu**: zúží zornici, tím se odtáhne duhovka z odtokového úhlu a **komorová voda může odtékat → nitrooční tlak klesne.**
+- **Karbachol** je chemicky upravený tak, že **ho acetylcholinesteráza nedokáže rozštípnout** → působí mnohem déle než acetylcholin.
+- **Betanechol** u **retence moči**: parasympatikus stahuje močový měchýř, takže ho tenhle lék „zmáčkne" a pacient se vymočí.
+- **Cevimelin** je **selektivní na M3**, tedy na receptor žláz → **cíleně zvýší sliny a slzy, aniž by tolik sahal na srdce.**
+**Proč je antidotem atropin:** atropin je **kompetitivní antagonista na muskarinových receptorech** (obecka O21) — sedne si na tentýž zámek a **vytlačí odtud cholinomimetikum.** Je to čistý souboj o vazebné místo.
+**Xerostomie** = **sucho v ústech**. Vzniká u **Sjögrenova syndromu** (autoimunitní nemoc, kde imunita ničí slinné a slzné žlázy) a **po ozáření hlavy a krku**. **Zubařsky je to zásadní**, protože sliny normálně omývají zuby, pufrují kyseliny a mají antibakteriální složky — **bez nich vzniká mnohočetný kaz a kandidóza velmi rychle.** Proto se cevimelinem a pilokarpinem sekrece žláz zvyšuje.
+**Arekolin z betelu** je opačný extrém: žvýkání betelu je v jihovýchodní Asii běžné a **barví sliny červeně a zuby černě, ničí sklovinu a je prokázaným rizikem rakoviny dutiny ústní.** *[obecné znalosti]*
+
 🔑 **DUMBELS** — **D**iarrhea, **U**rination, **M**iosis, **B**ronchospasmus, **E**mesis, **L**acrimation, **S**alivation. Všechno teče a všechno se stahuje.
 ⚠️ **Zubařsky:** **cevimelin a pilokarpin se používají u xerostomie** — u Sjögrenova syndromu a po ozařování hlavy a krku. Naopak **arekolin z betelu** ničí sklovinu a barví chrup: červené sliny, černé zuby.
 
@@ -48,6 +73,18 @@ Dělí se na reverzibilní a ireverzibilní. Z **reverzibilních** je klíčový
 
 Hlavní indikací je **myasthenia gravis** — autoimunitní porucha přenosu na nervosvalové ploténce, která se projevuje poklesem víčka, poruchou polykání a rychlou unavitelností svalů."
 
+💬 **Ať to dává smysl**
+**Rozdíl mezi přímým a nepřímým cholinomimetikem je zásadní a dá se říct jednou větou: přímé acetylcholin NAHRAZUJE, nepřímé ho jen NECHÁ ŽÍT DÉLE.**
+Představ si dřez, do kterého kape voda a zároveň je otevřený odtok. **Přímé cholinomimetikum je jako pustit kohoutek naplno.** **Nepřímé je jako zacpat odtok** — kohoutek zůstane stejný, ale voda se přestane ztrácet a hladina stoupne.
+**A z toho plyne důležité omezení, které stojí za to říct nahlas: nepřímé cholinomimetikum funguje jen tam, kde se acetylcholin ještě vyplavuje.** Když je nerv úplně zničený, není co šetřit. **Proto se používají u myasthenie, kde nerv funguje, ale receptorů ubylo — ne tam, kde nerv odumřel.**
+**Reverzibilní vs. ireverzibilní — rozdíl je, jestli se enzym pustí, nebo ne.** *Reverzibilní* se na enzym jen položí a po chvíli zase odejde. *Ireverzibilní* (organofosfáty) ho **chemicky připoutají tím, že na něj navěsí fosfát** — a enzym je nadobro vyřazený.
+**„Stárnutí komplexu" je nejdůležitější detail celé otázky.** Zpočátku by ještě šlo fosfát z enzymu odtrhnout — a přesně to dělá **pralidoxim**. Jenže během hodin proběhne **další chemická změna, po které už je vazba nerozbitná.** **Od té chvíle je enzym trvale mrtvý a pralidoxim je k ničemu** — tělo si musí vyrobit nové enzymy, což trvá týdny. **Proto se u otravy pesticidem počítá čas v minutách.**
+**HEB = hematoencefalická bariéra** — hustá výstelka mozkových kapilár, která do mozku pustí jen tučné, malé a nenabité molekuly (viz obecka O10). **A na tomhle jediném rozdílu stojí volba léku:**
+- **Neostigmin do mozku NEJDE** → působí jen na těle. **A to je při myasthenii přesně to, co chceš** — potřebuješ posílit sval, ne rozhodit mozek.
+- **Fyzostigmin do mozku JDE** → **a proto se používá právě tehdy, když jsou příznaky otravy v mozku** (zmatenost, delirium po anticholinergních látkách).
+**Myasthenia gravis** doslova „těžká svalová slabost". **Imunitní systém si vyrobí protilátky proti nikotinovým receptorům na ploténce a zničí je** — nerv sice povel pošle, ale sval ho nemá čím zachytit. Projeví se **poklesem víčka (ptóza), dvojitým viděním, potížemi s polykáním a únavou, která se zhoršuje během dne a po námaze** — protože zásoby acetylcholinu se postupně vyčerpají a málo receptorů to nedožene.
+**Proč má léčba otravy organofosfáty tři složky — a proč atropin sám nestačí:** organofosfát zvýší acetylcholin **všude, tedy na muskarinových i nikotinových receptorech.** **Atropin blokuje POUZE muskarinové** → zastaví slinění, průjem, bradykardii a zúžené zornice, **ale na svalové záškuby a ochrnutí dýchacích svalů (nikotinové) nemá vliv.** Proto se přidává **pralidoxim**, který jde po příčině a **enzym reaktivuje**, a **diazepam** proti křečím z centrálního přebuzení.
+
 🔑 **NEostigmin NEjde do mozku, FYzostigmin ano.**
 ⚠️ **Léčba otravy organofosfáty má tři složky: atropin** proti muskarinovým příznakům, **pralidoxim**, který reaktivuje enzym — ale **jen dokud nezestárne** — a **diazepam** proti křečím. Samotný atropin nestačí, protože **nikotinové příznaky neodstraní**.
 
@@ -58,6 +95,22 @@ Hlavní indikací je **myasthenia gravis** — autoimunitní porucha přenosu na
 „Parasympatolytika jsou **antagonisté muskarinových receptorů**, takže jejich účinky jsou přesným opakem cholinomimetik: **mydriáza a cykloplegie, sucho v ústech, tachykardie, bronchodilatace, snížená motilita trávicího traktu, retence moči a snížené pocení**. Jinými slovy: vypne se režim klidu a trávení a zbude boj a útěk — všechno se **vysuší, zrychlí a zastaví**.
 
 Základním zástupcem je **atropin**, který se používá u bradykardie, při otravě cholinomimetiky a v premedikaci. **Skopolamin** se podává u kinetózy. **Ipratropium a tiotropium** se aplikují inhalačně u chronické obstrukční plicní nemoci a astmatu. **Butylskopolamin** je spasmolytikum u kolikovitých bolestí, **tropikamid** se používá jako oční kapky k vyšetření očního pozadí a **biperiden** u parkinsonismu."
+
+💬 **Ať to dává smysl**
+**Tuhle otázku se neuč — odvoď si ji.** Parasympatolytikum je **přesný opak** otázek 37 a 38. **Vezmi si seznam účinků cholinomimetik a všechno otoč.** Malé zorničky → velké. Pomalé srdce → rychlé. Stažené průdušky → rozšířené. Rozjeté střevo → zastavené. Mokro všude → sucho všude.
+**Proč se to jmenuje „parasympatolytikum" a ne „antagonista":** *lytikum* znamená „rozpouštějící, rušící". **Ruší se tím parasympatikus — a co zbude, je nevyvážený sympatikus.** Proto pacient vypadá jako by byl vystrašený: rozšířené zorničky, buší mu srdce, sucho v ústech.
+**Cykloplegie** = **ochrnutí akomodace**, tedy neschopnost zaostřit na blízko. Ciliární sval, který mění tvar čočky, je řízený parasympatikem — když ho vypneš, **oko zůstane zaostřené do dálky a pacient nepřečte text.** Odtud „slepý jako netopýr".
+**Proč zrudne a je horký:** **pot se tvoří přes cholinergní vlákna** — zablokuješ je a **člověk se nemůže potit, takže se nemá jak ochladit.** Tělo se snaží zbavit tepla aspoň roztažením kožních cév → **červená kůže, horečka.** U dětí to může vést k nebezpečnému přehřátí. *[obecné znalosti]*
+**„Šílený jako kloboučník"** — atropin a skopolamin **procházejí do mozku a způsobují zmatenost, halucinace a delirium.** *(A tady se ti to spojí s otázkou 38: právě tohle se léčí fyzostigminem, protože ten na rozdíl od neostigminu do mozku projde.)*
+**Zástupci, každý s jednou větou proč:**
+- **Atropin** — z rulíku zlomocného. Zrychlí pomalé srdce, je antidotem otravy cholinomimetiky a před operací **vysuší sekrety** v dýchacích cestách.
+- **Skopolamin** u **kinetózy** (nevolnosti z jízdy) — působí v centru rovnováhy, dává se jako náplast za ucho.
+- **Ipratropium a tiotropium** se podávají **inhalačně**, aby působila jen v průduškách a **nevstřebala se do těla** — bronchodilatace bez sucha v ústech a tachykardie.
+- **Butylskopolamin** (Buscopan) — má **kvartérní dusík, tedy trvalý náboj**, proto neprojde do mozku a působí jen na hladké svaly břicha → **uvolní křeč při kolice.**
+- **Tropikamid** rozšíří zornici, aby oční lékař viděl na sítnici.
+- **Biperiden** u parkinsonismu — viz otázka 54, kde je houpačka dopamin/acetylcholin.
+**Proč je glaukom s úzkým úhlem kontraindikace:** rozšířená duhovka **se nahrne do odtokového úhlu a ucpe ho** → komorová voda nemá kudy odtékat → **nitrooční tlak prudce stoupne.** Je to opak toho, co dělá pilokarpin v otázce 37. **Hypertrofie prostaty:** zvětšená prostata už tlačí na močovou trubici, a když navíc ochrne měchýř, **pacient se nevymočí vůbec.**
+⚠️ **Zubařsky:** stejné sucho v ústech dělají **tricyklická antidepresiva a antipsychotika** — a to jsou léky, které pacient bere roky. **Dlouhodobá xerostomie = mnohočetný kaz a kandidóza.** Tohle je nejčastější zubařský přesah celé vegetativní farmakologie.
 
 🔑 **Anticholinergní syndrom v pěti přirovnáních:** suchý jako troud · slepý jako netopýr · červený jako řepa · horký jako pec · šílený jako kloboučník.
 ⚠️ **Kontraindikace: glaukom s úzkým úhlem** — mydriáza uzavře odtok komorové vody — a **hypertrofie prostaty** kvůli retenci moči.
@@ -74,6 +127,20 @@ Receptory jsou dvojího typu. **Alfa-1** je na hladké svalovině cév, působí
 **Beta-1 je v srdci** a v juxtaglomerulárním aparátu — **zvyšuje frekvenci, kontraktilitu, vedení i spotřebu kyslíku a zvyšuje uvolňování reninu**. **Beta-2** je na bronších, cévách kosterních svalů a na děloze a způsobuje **bronchodilataci, vazodilataci a relaxaci dělohy**. **Beta-3** je v tukové tkáni a v močovém měchýři — vyvolává **lipolýzu a relaxaci měchýře**.
 
 Sympatikus je režim **boje nebo útěku**: srdce zrychlí přes beta-1, průdušky se otevřou přes beta-2, krev se přesměruje z kůže a útrob, které alfa-1 stáhne, do svalů, které beta-2 rozšíří, a vyplaví se cukr."
+
+💬 **Ať to dává smysl**
+**Tahle otázka je nejdůležitější v celé specce.** Z těch pěti receptorů se odvodí antihypertenziva, léky na astma, na srdeční selhání, na šok i na prostatu. **Vyplatí se ji umět tak, abys ji uměla nakreslit z hlavy.**
+**Syntéza noradrenalinu je jednoduchý řetěz, ve kterém se pokaždé jen něco přidá: tyrosin → DOPA → dopamin → noradrenalin → adrenalin.** Tyrosin je běžná aminokyselina z jídla. **Všimni si, že dopamin je meziproduktem** — proto se s ním pracuje i v neurologii (otázka 54). **Adrenalin vzniká jen v dřeni nadledvin**, proto je to hormon, kdežto noradrenalin je mediátor v nervech.
+**Uptake 1 = zpětné vychytávání do nervu, ze kterého se mediátor uvolnil.** Je to **hlavní způsob, jak se signál ukončí — nerv si noradrenalin prostě vysaje zpátky a uloží do váčků k dalšímu použití.** Recyklace, ne likvidace. **Tohle je klíč k otázkám 44 (kokain blokuje uptake) a 56 (antidepresiva ho blokují taky).** MAO a COMT jsou pak enzymy, které přebytek rozloží nadobro.
+**Pět receptorů — a hlavně JAK SI JE ODVODIT místo memorování. Vzpomeň si, co potřebuje člověk, který utíká před medvědem:**
+- **β1 — srdce má šlapat na maximum.** Rychleji, silněji, rychlejší vedení vzruchu. *(Bonus: β1 v ledvině vyplaví renin, který zvedne tlak.)*
+- **β2 — průdušky musí být dokořán** a **krev musí do svalů**, takže se cévy ve svalech roztáhnou. *(Bonus: děloha se uvolní — na útěk se nerodí. Odtud použití β2 agonistů k zastavení předčasného porodu.)*
+- **α1 — krev se musí odklonit z místa, kde teď není potřeba**, tedy z kůže a z útrob → **cévy tam se stáhnou.** Proto α1 = vazokonstrikce a bledost. Zároveň **se rozšíří zornice** (aby bylo víc vidět) a **stáhne se svěrač měchýře** (teď není čas).
+- **β3 — potřebuješ palivo → rozloží se tuk** (lipolýza).
+- **α2 — je jiný než všechny ostatní, a proto je pastí.**
+**α2 vysvětli zvlášť, protože je to nejméně intuitivní část otázky.** Ostatní receptory sedí **na cílovém orgánu**. **α2 sedí PŘED synapsí, tedy na samotném nervu, který noradrenalin vypouští.** A funguje jako **termostat: když nerv vypustí hodně noradrenalinu, část se vrátí na jeho vlastní α2 receptor a řekne mu „dost, ubírej".** Je to zpětná brzda.
+**A proto agonista α2 tlak SNIŽUJE, i když je to „sympatomimetikum".** Nepůsobí na cévu, **působí na tu brzdu — a tím utlumí celý sympatikus.** Odtud klonidin a methyldopa jako léky na tlak. **Tohle je klasická chytačka, tak si na ni dej pozor.**
+**IP₃, DAG, cAMP** jsou druzí poslové z obecky O22 — jen si je zapamatuj jako „jakou cestou to receptor vzkáže dovnitř buňky". **α1 jde přes vápník** (proto stažení svalu), **α2 snižuje cAMP** (proto útlum), **β receptory cAMP zvyšují** (proto aktivace).
 
 🔑 **Beta-1 = jedno srdce. Beta-2 = dvě plíce.** Nejdůležitější mnemotechnika celé kardiologie i pneumologie.
 🔑 **Alfa-2 je brzda — sedí presynapticky a ubírá sympatiku.**
