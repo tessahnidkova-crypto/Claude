@@ -142,6 +142,21 @@ Za zmínku stojí **kanabinoidní hyperemetický syndrom, tedy dlouhodobé zvrac
 
 Nakonec je dobré zmínit, že **v lidském těle existuje endokanabinoidní systém, který pomáhá vyrovnávat se s fyziologickým, biologickým i psychickým stresem.** Bylo popsáno **šest endokanabinoidů** — ligandů pro kanabinoidní receptory v centrálním nervovém systému, trávicím traktu a imunitním systému — nejznámějším je **anandamid**.“
 
+💬 **Ať to dává smysl**
+**THC (tetrahydrokanabinol)** je **psychoaktivní složka konopí** — ta, po které je člověk „mimo". **CBD (kanabidiol)** je druhá hlavní složka, **která psychotropní NENÍ** — zkoumá se u epilepsie a úzkosti. **Podle obsahu THC se konopí dělí na technické (stavebnictví, textil) a léčebné.**
+**Hašiš vs. marihuana: hašiš je PRYSKYŘICE ze žlázek na listech, tedy koncentrát — má proto vyšší obsah THC. Marihuana je jen usušená rostlina.**
+⚠️ **Farmakokineticky je nejdůležitější jediná vlastnost: THC je extrémně LIPOFILNÍ, takže se hromadí v tukové tkáni** (viz obecka O14 — velký distribuční objem). **A z tuku se pak uvolňuje velmi pomalu.**
+**A odtud plyne to, co se u zkoušky ptá: THC je prokazatelné běžnými testy i po malé dávce a s velkým časovým odstupem — u pravidelných uživatelů i týdny.** ⚠️ *Zároveň to znamená, že pozitivní test neříká nic o tom, jestli je člověk pod vlivem teď.*
+**Souvislost, kterou stojí za to zmínit: lipofilita je zároveň důvod, proč jsou návykové látky obecně psychotropní** — **do mozku projde jen to, co je tučné a nenabité** (viz obecka O10). **Hydrofilní látka by se do mozku nedostala a nemohla by být návyková.**
+⚠️ **Rizika, každé s vysvětlením, proč to tak je:**
+- **Dopravní nehody** — zpomalené reakce a zhoršená koordinace a odhad vzdálenosti.
+- ⚠️ **Spasmus koronárních tepen** — tedy stažení věnčitých tepen, riziko anginy až infarktu. **Přitom na průdušky působí naopak dilatačně** — to je zdánlivý rozpor, který stojí za zmínku.
+- **Zhoršení paměti a psychomotorického tempa** — endokanabinoidní systém se podílí na ukládání paměti.
+- ⚠️ **A nejzávažnější: zhoršuje průběh KAŽDÉHO psychiatrického onemocnění a zvyšuje riziko i urychluje rozvoj PSYCHÓZY** — zvlášť u geneticky predisponovaných a u mladých, jejichž mozek ještě dozrává. **Tuhle větu řekni, protože je to hlavní zdravotní argument.**
+**V těhotenství: THC prochází placentou** (je malé a lipofilní, viz obecka O32) **a působí na CNS plodu; vede k nízké porodní hmotnosti.**
+**Kanabinoidní hyperemetický syndrom** = ⚠️ **paradoxní stav u dlouhodobých uživatelů: opakované záchvaty úporného zvracení a nevolnosti** — přestože se kanabinoidy jinak používají PROTI zvracení. Typicky se pacientům uleví horkou sprchou. *[obecné znalosti]*
+⚠️ **Endokanabinoidní systém je hezká pointa na závěr: ty receptory v mozku, střevě a imunitním systému tam nejsou kvůli konopí.** **Tělo má vlastní kanabinoidy — bylo jich popsáno šest, nejznámější je ANANDAMID** *(od sanskrtského ánanda = blaženost)*. ⚠️ **Slouží k vyrovnávání se se stresem — fyziologickým, biologickým i psychickým.** **Konopí tedy nedělá nic nového — jen přebuzuje systém, který v těle už je.** *(Je to úplně stejná logika jako u opioidů a endorfinů, viz Specka I, otázka 60.)*
+
 🔑 **THC se ukládá do tuku** — proto se dá prokázat týdny po užití.
 ⚠️ **Kanabinoidy zhoršují průběh každé psychiatrické nemoci** a urychlují rozvoj psychózy.
 
@@ -160,6 +175,22 @@ Zajímavé je, že **LSD se nedá předávkovat — nemá stanovenou letální d
 **MDMA, tedy extáze, je halucinogen i stimulant zároveň a je poměrně toxická.** Mechanismem je **inhibice zpětného vychytávání v podstatě všech neurotransmiterů**. Je to taneční droga zvyšující výdrž a euforii. Nežádoucími účinky jsou **arytmie, dehydratace, hypertermie, rhabdomyolýza a poškození jater**; navíc je **neurotoxická, zvyšuje propustnost hematoencefalické bariéry a poškozuje mozek**. **Léčbou akutní intoxikace je klidné prostředí a malá dávka benzodiazepinů.**
 
 Z ostatních je to **psilocybin, alkaloid lysohlávek, u kterého hrozí záměna s jinými houbami**; **atropin a skopolamin, alkaloidy lilkovitých rostlin**; **vysoké dávky THC**; a **fencyklidin, syntetický halucinogen a antagonista NMDA receptorů, po kterém vzniká pocit nadlidské síly a nesmrtelnosti a člověk necítí bolest** — proto je nebezpečný.“
+
+💬 **Ať to dává smysl**
+⚠️ **Rozlišovací znak, kterým otázku otevřeš: halucinogeny NEVYVOLÁVAJÍ kvalitativní poruchu vědomí a NEJSOU spojeny s amnézií.** **Člověk je při vědomí, ví, kde je, a všechno si bude pamatovat** — jen vnímá zkresleně. **Tím se liší od intoxikace alkoholem nebo od deliria, kde se vědomí kalí a paměť vypadává.**
+**Halucinace vs. iluze:** *halucinace* = **vnímám něco, co tam vůbec není**. *Iluze* = **něco tam je, ale vidím to zkresleně.** *[obecné znalosti]*
+**Zajímavost, kterou stojí za to zmínit, protože je aktuální: dnes se zkoumají MIKRODÁVKY psychedelik v léčbě deprese, úzkosti, OCD a závislosti na alkoholu a tabáku** — po desetiletích, kdy byla tahle skupina úplně mimo výzkum.
+**LSD** je **agonista serotoninových receptorů** (hlavně 5-HT2A), ale **přesný mechanismus není znám.** **Podává se na savém papíře, protože účinná dávka je v mikrogramech** — jsou to tak malá množství, že jinak by se s nimi nedalo manipulovat.
+⚠️ **Účinky mají dvě roviny a je dobré je rozdělit:**
+- **Fyzicky = SYMPATOMIMETICKÁ aktivace:** **rozšířené zornice, vyšší tlak, tachykardie, třes.** *(Vzpomeň si na Specku I, otázku 40 — je to obraz zapnutého sympatiku.)*
+- **Psychicky:** blaženost a pocit spirituálního osvícení, **ale i „bad trip" s paranoiou a úzkostí.** ⚠️ **Po zhruba třech hodinách přijdou zrakové halucinace, změněné vnímání času a SYNESTEZIE — smíšení smyslů, kdy jsou zvuky vnímány barevně.**
+⚠️ **Zvláštnost, na kterou se ptají: LSD se nedá předávkovat — nemá stanovenou letální dávku.** **To ale neznamená, že je bezpečné** — nebezpečné je chování pod jeho vlivem a psychické následky.
+**Flashback** = **návrat prožitku i po dlouhé době bez užití látky.** **Halucinogenní perzistentní porucha percepce (HPPD)** je jeho trvalá podoba — **zkreslené vnímání přetrvávající měsíce až roky.**
+⚠️ **MDMA (extáze) je zvláštní tím, že je halucinogen A stimulant zároveň** — proto se řadí i do otázky 109. **Mechanismem je inhibice zpětného vychytávání prakticky VŠECH monoaminů**, tedy serotoninu, dopaminu i noradrenalinu najednou.
+⚠️ **A tady je nejdůležitější klinická věc celé otázky: na extázi se neumírá tolik na samotnou toxicitu, ale na HYPERTERMII.** **Vysvětlení: člověk tančí hodiny bez přestávky v horkém prostředí, MDMA mu zároveň naruší termoregulaci a on nepociťuje únavu ani žízeň.** **Výsledkem je přehřátí + dehydratace → rozpad svalů (rhabdomyolýza) → selhání ledvin → smrt.** ⚠️ *A paradoxně zabíjí i opačná chyba — kdo se snaží dehydrataci předejít a vypije obrovské množství čisté vody, může dostat smrtelnou hyponatremii. — [obecné znalosti]*
+⚠️ **Proto je léčbou akutní intoxikace KLIDNÉ, chladné prostředí a malá dávka benzodiazepinu** — ne nějaké antidotum. **Cílem je zklidnit a zchladit.**
+**MDMA je navíc NEUROTOXICKÁ** — poškozuje serotoninergní neurony a **zvyšuje propustnost hematoencefalické bariéry.**
+**Ostatní halucinogeny:** **psilocybin z lysohlávek** — ⚠️ **hlavním rizikem je záměna s jedovatou houbou.** · **Atropin a skopolamin** z lilkovitých rostlin (rulík, durman) — ⚠️ **to je ten anticholinergní delirantní stav ze Specky I, otázky 39: „šílený jako kloboučník".** · ⚠️ **Fencyklidin je nejnebezpečnější — je to antagonista NMDA receptorů (příbuzný ketaminu, viz Specka I, otázka 50) a vyvolá pocit nadlidské síly a nesmrtelnosti při současné analgezii.** **Člověk necítí bolest, takže si dokáže způsobit vážná zranění, aniž by to zaznamenal.**
 
 🔑 **Halucinogeny nezpůsobují bezvědomí ani amnézii** — člověk si to pamatuje.
 ⚠️ **Hypertermie u MDMA při tanci** — kombinace dehydratace a hyperaktivity zabíjí častěji než samotná droga.
@@ -183,6 +214,27 @@ Typ závislosti je potřeba formulovat přesně: **u amfetaminů vzniká mírná
 A poslední část, na kterou se často zapomíná: **amfetaminy mají i terapeutické využití. Metylfenidát se používá k léčbě ADHD a modafinil k léčbě narkolepsie.**
 
 **MDMA** je strukturně podobná halucinogenům i amfetaminu a označuje se jako **entaktogen**; **stimuluje vyplavení serotoninu, noradrenalinu a dopaminu**, navozuje **euforii, pocit sounáležitosti a vyšší empatii**, ale **při velkých dávkách způsobuje ireverzibilní poškození mozku**.“
+
+💬 **Ať to dává smysl**
+⚠️ **Otázku otevři společným jmenovatelem, protože pak nemusíš u žádného léku nic memorovat: VŠECHNA stimulancia zvyšují monoaminy (dopamin, noradrenalin, serotonin) v synaptické štěrbině.** **Liší se jen tím, JAK to udělají:**
+- **Amfetaminy a MDMA je VYTLOUKAJÍ ze zásobních váčků** (je to nepřímé sympatomimetikum, viz Specka I, otázka 44).
+- **Kokain jim UCPE ODTOK** — blokuje zpětné vychytávání.
+⚠️ **A z toho se odvodí všechno ostatní:** **dopamin → euforie a systém odměny · noradrenalin → tachykardie, hypertenze, bdělost · serotonin → nálada a empatie.**
+⚠️ **Kokain má TŘI mechanismy najednou a stojí za to je vyjmenovat, protože z nich plynou tři různé účinky:**
+1. **Blokuje zpětné vychytávání dopaminu a noradrenalinu** → **euforie a sympatická aktivace.**
+2. **Blokuje sodíkové kanály** → ⚠️ **je to zároveň LOKÁLNÍ ANESTETIKUM** — historicky vůbec první, které se používalo v očním lékařství (viz Specka I, otázka 48).
+3. **Agonismus na sigma receptorech.**
+**A protože noradrenalin stahuje cévy přes α1, je kokain zároveň silný VAZOKONSTRIKTOR.**
+⚠️ **A odtud plyne celý obraz předávkování — vysvětli to jako řetěz, ne jako seznam: stažené věnčité tepny (SPASMUS) + zrychlené srdce, které potřebuje víc kyslíku = angina pectoris a INFARKT, a to i u velmi mladého člověka se zdravými tepnami.** **Dále hypertenze, arytmie, hyperpyrexie a hemoragické mozkové příhody** (prasklá céva při vystřelujícím tlaku).
+**Formikace** = *formica* = mravenec → ⚠️ **pocit mravenců lezoucích pod kůží.** Pacient se škrábe do krve. **Je to typický znak stimulancií.**
+⚠️ **Chronický následek šňupání: atrofie nosní sliznice se ztrátou čichu až PERFORACÍ nosní přepážky** — a mechanismus je logický: **trvale stažené cévy = sliznice nedostane krev = odumře.**
+**Hydrochlorid vs. crack:** **hydrochlorid je sůl, rozpustná ve vodě, šňupe se nebo píchá. Crack je volná báze, která se dá kouřit.** ⚠️ **A protože se kouřením vstřebá během vteřin — plícemi rovnou do mozku (viz obecka O5) — nastupuje účinek extrémně rychle. A čím rychlejší nástup, tím silnější odměna a tím rychleji vzniká závislost.** **Tohle je obecné pravidlo návykových látek a stojí za to ho říct.**
+**Amfetaminy** — euforie, **pocit zvýšené fyzické síly a mentální kapacity, snížená potřeba spánku a jídla.** ⚠️ **Ve vyšších dávkách vzniká PSYCHÓZA s halucinacemi a paranoiou, která je klinicky k nerozeznání od paranoidní schizofrenie** — což dává smysl, protože **schizofrenie je spojena s nadbytkem dopaminu** (viz Specka I, otázka 55).
+⚠️ **Typ závislosti formuluj přesně, ptají se na to: u amfetaminů vzniká MÍRNÁ FYZICKÁ, ale SILNÁ PSYCHICKÁ závislost.**
+⚠️ **A abstinenční příznaky jsou zrcadlovým obrazem účinku — to je pravidlo, které platí u drog obecně:** účinek byl euforie, energie, nespavost, nechutenství → **abstinence je dysforie, únava, spánek, zvýšená chuť k jídlu a deprese.**
+**A poslední část, na kterou se zapomíná: amfetaminy mají i legitimní terapeutické využití.** ⚠️ **Metylfenidát u ADHD** *(zdánlivě paradoxně: stimulans u hyperaktivního dítěte — funguje proto, že posílí prefrontální kůru, tedy oblast sebekontroly)* **a modafinil u narkolepsie.**
+**MDMA se označuje jako ENTAKTOGEN** — *„vytvářející dotek uvnitř"* — protože **navozuje pocit sounáležitosti a zvýšené empatie**, což je jiný efekt než čistá stimulace.
+⚠️ **Zubařsky:** **MDMA typicky vyvolá bruxismus (skřípání zubů) a trismus (křeč žvýkacích svalů)** — proto uživatelé žvýkají a mají opotřebené zuby. **A sucho v ústech u všech stimulancií výrazně zvyšuje kazivost** — „meth mouth" je popsaný obraz rozpadlého chrupu u uživatelů pervitinu. *[obecné znalosti]*
 
 🔑 **Amfetamin monoaminy vytlouká, kokain jim ucpe odtok.** Stejný výsledek, jiná cesta.
 ⚠️ **Zubařsky:** MDMA typicky vyvolá **bruxismus a trismus** a **sucho v ústech u všech stimulancií zvyšuje kazivost**.
@@ -208,6 +260,24 @@ Z čísel stojí za zapamatování, že **z jedné cigarety se absorbuje asi jed
 **Odvykání** stojí na **psychoterapii a nikotinové substituční léčbě** — žvýkačky, náplasti, pastilky. Z anticravingové léčby je to **vareniklin, parciální agonista nikotinových receptorů, u kterého je ale nutné znát nežádoucí účinky — sebevražedné myšlenky, změny nálad a deprese**; dále **bupropion** a **cytisin**.
 
 Následky kouření jsou zásadní: **v tabákovém kouři bylo odhaleno přes šedesát látek s karcinogenními účinky a život kuřáka je v průměru asi o deset let kratší.** Kouření se podílí na **zhoubných nádorech plic, dutiny ústní, slinivky a střev**, na **rozvoji aterosklerózy s mozkovými příhodami a infarkty**, na **vředové chorobě**, na **šedém zákalu** a je **jedinou příčinou CHOPN**.“
+
+💬 **Ať to dává smysl**
+⚠️ **Otevři to spojením se Speckou I, otázkou 36 — nikotinový receptor se jmenuje po nikotinu, ne naopak.** **Byl objeven právě tím, že na něj nikotin působí.** **Nikotin je tedy CHOLINOMIMETIKUM — agonista nikotinových receptorů** v mozku, v gangliích a na nervosvalové ploténce.
+⚠️ **A tady je klíč k tomu, proč jsou jeho účinky tak podivně smíšené: nikotinové receptory sedí v gangliích OBOU větví vegetativního systému — sympatiku i parasympatiku.** **Nikotin tedy zapne obě najednou** — a výsledek je mix, který by se jinak zdál nelogický: **tachykardie a vyšší tlak (sympatikus) VEDLE zvýšené motility střeva a slinění (parasympatikus).**
+**K tomu se přidá, že nikotin vyplaví adrenalin z dřeně nadledvin** (což je vlastně obří sympatické ganglion) **a antidiuretický hormon z neurohypofýzy.**
+⚠️ **Dávková závislost je hezký příklad toho, že u téže látky rozhoduje množství:** **v nízkých dávkách euforie, vzrušení, relaxace, lepší pozornost a usnadněné učení — ve vysokých křeče, zvracení a ZÁSTAVA DECHU** (protože při nadměrné stimulaci se receptor na nervosvalové ploténce zablokuje, podobně jako u depolarizujícího myorelaxancia, viz Specka I, otázka 47).
+⚠️ **„Nikotin může receptory stimulovat i DESENZIBILIZOVAT"** — tedy nejen zapnout, ale při trvalém působení je otupit. **Právě proto jsou jeho účinky smíšené a nepředvídatelné, a proto kuřák cigaretu jednou vnímá jako povzbuzení a podruhé jako uklidnění.**
+⚠️ **Vděčný detail, na který se ptají — proč se musí šlukovat: kouř je KYSELEJŠÍ než nikotin.** **A slabá zásada se v kyselém prostředí IONIZUJE** (viz obecka O10) — **nabitá molekula se přes sliznici úst nevstřebá.** **Proto nestačí držet kouř v ústech; musí se vdechnout do plic, kde je obrovská plocha a kde se vstřebá i to malé množství neionizované formy.** *(U doutníků a dýmky je kouř zásaditější, proto se šlukovat nemusí. — [obecné znalosti])*
+**Kotinin** je hlavní metabolit nikotinu s dlouhým poločasem — ⚠️ **proto je to spolehlivý marker kouření**, na rozdíl od nikotinu samotného, který zmizí rychle.
+**Čísla, která stojí za zapamatování: z jedné cigarety se vstřebá asi 1,5 mg nikotinu, smrtelná dávka je 40 mg.** ⚠️ **Tedy zhruba 25 cigaret najednou — a proto je nebezpečné, když se náplasti nebo žvýkaček zmocní dítě.**
+**Odvykání stojí na dvou pilířích — psychoterapii a substituci.** ⚠️ **Nikotinová substituce (žvýkačky, náplasti, pastilky) funguje proto, že dodá nikotin bez rychlého nárazu a bez karcinogenů z kouře — utlumí abstinenční příznaky, ale nedá odměnu.**
+**Vareniklin** je **parciální agonista** (viz obecka O21) — ⚠️ **a je to elegantní dvojí účinek: dá jen částečný efekt, takže zmírní abstinenci, a zároveň obsadí receptor, takže když si člověk zapálí, cigareta mu už nic nedá.** ⚠️ **Musí se ale znát jeho nežádoucí účinky: sebevražedné myšlenky, změny nálad a deprese.**
+⚠️ **Následky kouření — a tady si dej záležet, protože je to zubařsky i obecně nejcennější část:** **v kouři je přes 60 prokázaných karcinogenů a život kuřáka je v průměru o 10 let kratší.**
+- **Nádory: plíce, DUTINA ÚSTNÍ, slinivka, střeva.** ⚠️ **Karcinom dutiny ústní je pro tebe zásadní — zubař ho může zachytit jako první, ještě než pacient cokoli cítí.**
+- **Ateroskleróza** → infarkty a mozkové příhody.
+- **Vředová choroba** a **šedý zákal.**
+- ⚠️ **A CHOPN, u které je kouření prakticky JEDINOU příčinou.**
+⚠️ **Zubařsky navíc: kouření je hlavní rizikový faktor parodontitidy a zhoršuje hojení po extrakcích i osseointegraci implantátů** — vazokonstrikce omezí prokrvení dásně. *[obecné znalosti]*
 
 🔑 **Nikotin je agonista nikotinových receptorů** — název není náhoda, receptor se jmenuje po něm.
 ⚠️ **Zubařsky:** nádory dutiny ústní jsou přímý následek kouření — a to je otázka, kterou dostaneš i mimo farmakologii.
