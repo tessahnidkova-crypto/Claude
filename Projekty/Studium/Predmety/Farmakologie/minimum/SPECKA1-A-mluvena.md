@@ -446,6 +446,18 @@ Historicky se používaly tři generace. **Barbituráty jako první generace se 
 
 **Léky volby jsou dnes Z-látky, tedy třetí generace — zolpidem, zopiklon a zaleplon.** Vážou se selektivně na určitou podjednotku GABA receptoru, takže mají **jen hypnotický účinek bez anxiolytického a myorelaxačního**, **nepotlačují REM spánek** a mají nižší riziko rebound fenoménu. Jsou to v podstatě ořezané benzodiazepiny, ze kterých zůstala jen uspávací složka."
 
+💬 **Ať to dává smysl**
+**Otázku otevři tím, čím ji chtějí slyšet otevřenou: hypnotikum se nepředepisuje jako první krok.** Nespavost je **příznak, ne diagnóza** — může za ní být deprese, bolest, štítná žláza, spánková apnoe nebo prostě jiný lék. **Nejdřív se hledá příčina, pak se zkusí hygiena spánku a fytoterapie, a teprve pak tableta.** Tahle věta ti získá bod, protože ukazuje klinické uvažování.
+**Hygiena spánku** = režimová opatření — stálá doba usínání, žádné obrazovky a kofein večer, chladná tmavá ložnice, postel jen na spaní. *[obecné znalosti]*
+**Tři generace jsou vlastně příběh o tom, jak se hypnotika postupně zbavovala nežádoucích účinků:**
+1. **Barbituráty** — uspí spolehlivě, **ale mají tak úzké terapeutické okno** (viz obecka O23), **že rozdíl mezi dávkou na spaní a dávkou smrtelnou je malý.** Navíc silně **indukují enzymy** (obecka O19) a jsou vysoce návykové. **Proto se jako hypnotika opustily.**
+2. **Benzodiazepiny** — mnohem bezpečnější (viz otázka 52), **ale rozhodí architekturu spánku.**
+3. **Z-látky** — dnešní volba.
+**Co znamená „rozhodí architekturu spánku" a proč je to problém:** spánek není jeden stav — **střídají se v něm fáze, a REM fáze (fáze snů) je ta, ve které se ukládá paměť a zpracovávají emoce.** **Benzodiazepin REM potlačí**, takže pacient sice **prospí osm hodin, ale nevyspí se** — chybí mu ta část, která má regenerační funkci. **Proto se říká: benzodiazepin je lék na USNUTÍ, ne na PROSPÁNÍ.**
+**Z-látky jsou „ořezaný benzodiazepin" — a tohle přirovnání je celá pointa otázky.** GABA-A receptor má víc podjednotek a **každá zprostředkuje něco jiného** — jedna spánek, jiná uvolnění úzkosti, jiná uvolnění svalů. **Benzodiazepin sedne na všechny, Z-látka jen na tu spánkovou.** Výsledek: **uspí, ale nedělá anxiolýzu ani myorelaxaci, a hlavně NEPOTLAČÍ REM.** *(Z toho plyne i praktická věc: Z-látka není lék na úzkost — na tu nezabere.)*
+**Rebound insomnie** = **po vysazení hypnotika je nespavost dočasně horší než před léčbou.** U Z-látek je slabší než u benzodiazepinů, ale existuje.
+⚠️ **Nejcennější klinická věta: než přidáš hypnotikum, projdi, co pacient bere.** Nespavost je běžný **nežádoucí účinek psychostimulancií, antidepresiv (hlavně SSRI), diuretik (nutí močit v noci) a betablokátorů (živé sny — viz otázka 46).** **Jinak vzniká preskripční kaskáda** z obecky O28: na nežádoucí účinek jednoho léku se nasadí další lék.
+
 🔑 **Z-látky: Z jako Zolpidem, Zopiklon, Zaleplon — a Z jako Zdravý spánek**, protože nechají REM na pokoji.
 ⚠️ **Nespavost bývá nežádoucím účinkem jiných léků** — psychostimulancií, antidepresiv, diuretik a betablokátorů. Než se přidá hypnotikum, je nutné zkontrolovat medikaci.
 
@@ -460,6 +472,17 @@ Mají **pět účinků: anxiolytický, hypnoticko-sedativní, myorelaxační, an
 Dělí se podle poločasu: **krátký poločas znamená hypnotikum**, tedy lék na usnutí, **dlouhý poločas anxiolytikum**, tedy lék na úzkost.
 
 Nevýhodami jsou **závislost, tolerance, rebound fenomén a útlum dechu v kombinaci s alkoholem a opioidy**. **Antidotem je flumazenil.**"
+
+💬 **Ať to dává smysl**
+**GABA je hlavní tlumivý mediátor mozku** — je to brzda celé nervové soustavy. Když se naváže na **GABA-A receptor**, otevře se chloridový kanál, do neuronu vteče záporný chlor a **neuron se hůř vybudí.** **Utlumit mozek tedy znamená posílit GABA** — a přesně na tom stojí benzodiazepiny, barbituráty, Z-látky i alkohol.
+**Alosterická modulace — co to znamená lidsky:** benzodiazepin **se neváže tam, kam se váže GABA.** Má **vlastní místo jinde na tom samém receptoru**. A **sám o sobě kanál neotevře** — jen **změní tvar receptoru tak, že GABA na něm funguje lépe.**
+**Přirovnání, které to celé vysvětlí: benzodiazepin je zesilovač hlasitosti, ne zdroj zvuku.** Když do rádia nic nehraje, zesilovač nezesílí nic. **Když GABA přijde, benzodiazepin její signál zesílí.**
+⚠️ **A odtud plyne to nejdůležitější — proč se z benzodiazepinu samotného těžko umírá.** Benzodiazepin **je závislý na tom, že tělo vlastní GABA vyplavuje** — nemůže tedy útlum hnát donekonečna, protože **narazí na strop daný množstvím vlastní GABA. Barbiturát naproti tomu dokáže kanál otevřít i bez GABA** — nemá žádný strop, a proto zabíjí. **Tohle je nejcennější věta celé otázky.**
+**„Benzo = často, Barbi = dlouho"** — technický rozdíl: benzodiazepin zvyšuje **jak často se kanál otvírá**, barbiturát **jak dlouho zůstane otevřený**. Barbiturát tedy drží dveře otevřené, což je mnohem hrubší zásah.
+**Pět účinků a jak se z nich stane pět indikací:** *anxiolytický* (úzkost) · *hypnoticko-sedativní* (spánek) · *myorelaxační* (svalová křeč, ztuhlá záda) · *antikonvulzivní* (**epileptický záchvat — diazepam je lék volby ve status epilepticus, viz otázka 53**) · *amnestický* (pacient si nebude pamatovat výkon — proto se používá u nepříjemných vyšetření).
+**Proč poločas rozhoduje o použití:** **na usnutí chceš, aby lék ráno vyprchal** → krátký poločas. **Na úzkost chceš rovnoměrný účinek celý den** → dlouhý poločas. Kdybys dala dlouhý benzodiazepin na spaní, **pacient by byl celý další den utlumený** — a u seniora, kde se poločas ještě prodlouží (obecka O34), by z toho byl pád a zlomený krček.
+**Flumazenil** je **kompetitivní antagonista** na tom samém alosterickém místě — **vytlačí benzodiazepin a pacient se během minuty probere.** *(Pozor: u pacienta závislého na benzodiazepinech může vyvolat křeče.)* *[obecné znalosti]*
+⚠️ **Nejnebezpečnější kombinace: benzodiazepin + opioid nebo alkohol.** Každý z nich tlumí dechové centrum jinou cestou. **Každý sám v běžné dávce je bezpečný, ale dohromady se účinky nesečtou — znásobí (synergismus, viz obecka O25) — a pacient přestane dýchat.** Je to nejčastější příčina smrtelných předávkování vůbec.
 
 🔑 **Benzodiazepin zvyšuje frekvenci otevření kanálu, barbiturát dobu otevření.** Benzo = často, Barbi = dlouho.
 🔑 **Pět účinků: úzkost, spánek, sval, křeč, paměť.**
@@ -479,6 +502,24 @@ Z **novějších** je **lamotrigin** lékem první volby a je **vhodný v těhot
 
 Typickým nežádoucím účinkem typu C je **poškození neurální trubice, tedy spina bifida**."
 
+💬 **Ať to dává smysl**
+**Co je epileptický záchvat:** **elektrická bouře** — příliš mnoho neuronů se vybudí najednou a synchronně. **Neuron se vybudí tak, že do sebe pustí sodík a vápník; utlumí ho GABA.** Odtud tři a jen tři možné mechanismy léčby:
+1. **Zavřít sodíkový kanál** — neuron nemůže vystřelit.
+2. **Zavřít vápníkový kanál** — totéž jinou cestou (uplatňuje se hlavně u absencí).
+3. **Posílit brzdu (GABA) nebo utlumit plyn (glutamát).**
+**Nemusíš si u každého léku pamatovat mechanismus — stačí vědět, že jiný než tyhle tři neexistuje.**
+**Status epilepticus** = **záchvat, který sám neustane** (trvá nad 5 minut) nebo se záchvaty řetězí bez návratu vědomí. **Je to život ohrožující stav** — mozek se přehřívá a odumírá. **Lékem volby je diazepam**, protože posílí GABA okamžitě; podává se **rektálně** (u dítěte doma, kde není žíla) nebo **nitrožilně**.
+**Klasická antiepileptika — každé s jednou věcí, kterou si musíš zapamatovat:**
+- ⚠️ **Fenytoin — kinetika nultého řádu** (viz obecka O12). To znamená, že **po překročení určité dávky hladina nevystoupá úměrně, ale vystřelí strmě nahoru**, protože enzym je nasycený. **Proto se dávkuje po miligramech a měří se hladina v krvi.** Navíc je **silný induktor enzymů** (obecka O19) → sráží hladiny jiných léků.
+- **Karbamazepin** — fokální (ložiskové) záchvaty a **neuropatická bolest**, zejména **neuralgie trigeminu — což je pro tebe zubařsky zajímavé**, protože pacient s ní často přijde nejdřív k zubaři s tím, že ho „bolí zub".
+- **Valproát** — **širokospektrý, zabírá skoro na všechno**, ⚠️ **ale je silně teratogenní.**
+**Nová antiepileptika:**
+- **Lamotrigin** — lék první volby a **jediný, který je relativně bezpečný v těhotenství.** ⚠️ Riziko **Stevensova-Johnsonova syndromu** = těžká, život ohrožující kožní reakce s odlučováním kůže a sliznic (**včetně sliznice dutiny ústní**). Proto se dávka **velmi pomalu titruje nahoru.**
+- **Levetiracetam** — dnes nejpoužívanější, **minimum lékových interakcí** (což je u antiepileptik vzácnost), váže se na **synaptický vezikulární protein** — jiný mechanismus než všechny ostatní.
+- **Gabapentin a pregabalin** — hlavně na **neuropatickou bolest**, ne tolik na epilepsii.
+**„NÚ typu C"** odkazuje na dělení z obecky O29 — **chronický nežádoucí účinek z dlouhodobého podávání. Spina bifida** = rozštěp neurální trubice, kdy se páteřní kanál plodu neuzavře. **Proto se ženám plánujícím těhotenství podává kyselina listová a mění se antiepileptikum na lamotrigin.**
+⚠️ **Hyperplazie dásní po fenytoinu je pro tebe nejdůležitější položka celé otázky.** Dásně **bujně narostou a překryjí zuby** — pacient si je nedokáže vyčistit, vzniká zánět a bujení se ještě zhorší. **Je to bludný kruh, který se přeruší jedině dokonalou ústní hygienou (a někdy chirurgickým ošetřením).** **Uvidíš to v ordinaci a téměř jistě se tě na to zeptají.** *(Stejný účinek mají i cyklosporin a blokátory kalciových kanálů. — [obecné znalosti])*
+
 🔑 ⚠️ **Zubařsky nejdůležitější: fenytoin → hyperplazie dásní.** Uvidíš to v ordinaci a zeptají se na to u zkoušky.
 🔑 **Valproát je širokospektrý, ale nesmí do těhotenství. Lamotrigin do těhotenství smí.**
 ⚠️ **Fenytoin má kinetiku nultého řádu** — po překročení individuální dávky koncentrace vystřelí strmě nahoru, proto se dávkuje po miligramech a monitoruje.
@@ -497,6 +538,22 @@ Základem je **L-DOPA v kombinaci s karbidopou**. Dopamin sám podat nelze, prot
 Dále se používají **inhibitory COMT, tedy entakapon**, jako doplněk k L-DOPA, a **inhibitory MAO-B, selegilin a rasagilin**.
 
 **Agonisté dopaminových D2 receptorů — pramipexol, ropinirol, rotigotin a apomorfin — se preferují u mladších pacientů** a řeší **on-off fenomén**. **Amantadin** uvolňuje dopamin a je zároveň antagonistou NMDA receptorů. **Anticholinergikum biperiden** mírní extrapyramidové příznaky."
+
+💬 **Ať to dává smysl**
+**Co se v mozku děje:** ve **striatu** (část bazálních ganglií, která řídí plynulost pohybu) se drží v rovnováze **dopamin a acetylcholin — jsou na houpačce.** Dopamin do striata přivádějí neurony ze **substantia nigra** (černé substance).
+**U Parkinsonovy nemoci tyhle neurony postupně odumírají** → **dopaminu ubývá** → **acetylcholin převáží** → vzniká **klidový třes, ztuhlost (rigidita) a zpomalení pohybů (bradykineze).**
+⚠️ **Příznaky se objeví až při ztrátě asi 80 % dopaminu** — a to je věta, kterou stojí za to říct nahlas, protože z ní plynou dvě věci: **nemoc probíhá roky skrytě, než se projeví**, a **v okamžiku diagnózy už je ztraceno naprosto zásadní množství neuronů.**
+**A z té houpačky plyne celá léčba: dá se zasáhnout z obou stran — DODAT DOPAMIN, nebo UBRAT ACETYLCHOLIN.** Když si tohle uvědomíš, nemusíš se učit seznam léků — odvodíš si, co která skupina dělá.
+**Proč se nedá podat dopamin:** **neprojde hematoencefalickou bariérou** (je moc polární, viz obecka O10). **L-DOPA je jeho předchůdce a bariérou projde**, protože má vlastní přenašeč pro aminokyseliny. **V mozku se pak na dopamin přemění.** Je to tedy **proléčivo** (viz obecka O26).
+**Proč se přidává karbidopa — nejlepší část otázky:** L-DOPA by se **z velké části přeměnila na dopamin už v krvi a ve střevě, tedy DŘÍV, než dojde k mozku.** Ten periferní dopamin **do mozku nedostaneš** (bariéra) a navíc dělá **nevolnost, zvracení a pokles tlaku.**
+**Karbidopa je bodyguard, který sám do mozku nejde.** Zablokuje ten přeměňovací enzym **jen na periferii** — takže **L-DOPA dojede k bariéře celá a přemění se až v mozku, kde je potřeba.** Výsledek: **menší dávka, větší účinek a méně nevolnosti.**
+**Zbytek léčby je jen dalších pár způsobů, jak dopaminu prodloužit život nebo ho nahradit:**
+- **Entakapon (inhibitor COMT)** a **selegilin, rasagilin (inhibitory MAO-B)** — **blokují enzymy, které dopamin rozkládají**, takže vydrží déle. Jsou to stejné enzymy jako v otázce 40.
+- **Agonisté D2 (pramipexol, ropinirol, rotigotin, apomorfin)** — **nepotřebují přeměnu, sednou si na dopaminový receptor rovnou.** ⚠️ **Preferují se u mladších pacientů**, protože oddálí nasazení L-DOPA a s ní i **on-off fenomén** = po letech braní L-DOPA se účinek stane nevyzpytatelným, **pacient střídavě přechází mezi stavem, kdy se hýbe normálně („on"), a náhlým ztuhnutím („off")** — někdy během minut.
+- **Amantadin** — uvolňuje dopamin a zároveň je antagonistou NMDA.
+- **Biperiden (anticholinergikum)** — **ubírá acetylcholin z druhé strany houpačky** (viz otázka 39).
+⚠️ **Léčba je symptomatická — odumírání neuronů nezastaví.** Ale začít má včas, protože kvalita života je tím větší, čím dřív se hybnost upraví.
+⚠️ **Léky vyvolaný parkinsonský syndrom** vypadá úplně stejně, ale **příčinou je blokáda dopaminových receptorů antipsychotiky** v nigrostriatální dráze (viz otázka 55). **A proto je u něj L-DOPA neúčinná — dopaminu je dost, jenže receptory jsou obsazené blokátorem.** Řešením je změnit antipsychotikum, ne přidat L-DOPA. **Tohle je vděčná doplňující otázka.**
 
 🔑 **Dopamin sám nedáš — neprojde do mozku. L-DOPA ano. Karbidopa je bodyguard.**
 ⚠️ **Parkinsonský syndrom vyvolaný léky** vypadá stejně, ale příčinou je **blokáda dopaminových receptorů antipsychotiky** v nigrostriatální dráze. Proto je u něj **L-DOPA neúčinná** — receptor je obsazený.
