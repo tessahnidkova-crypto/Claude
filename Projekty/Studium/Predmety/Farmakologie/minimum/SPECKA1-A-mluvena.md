@@ -321,6 +321,20 @@ Zásadní je, že se **nikdy nesmějí vysadit náhle** — hrozí rebound fenom
 
 Zvláštní komplikací je **maligní hypertermie** — mutace **ryanodinového receptoru** vede k nekontrolovanému výlevu vápníku ze sarkoplazmatického retikula. **Bez léčby je mortalita přes šedesát procent, léčbou je dantrolen podaný nitrožilně.**"
 
+💬 **Ať to dává smysl**
+**Myorelaxans = lék, který uvolní sval** (*myo* = sval, *relaxare* = uvolnit). Dvě úplně různé skupiny s různým účelem: **centrální** uvolní ztuhlé svaly u bolestí zad, **periferní** ochromí sval úplně, aby se dalo operovat.
+**Centrální** působí v mozku a míše, většinou **posílením GABA**, což je hlavní tlumivý mediátor (viz otázka 52). **Proto po nich pacient bývá ospalý** — nejde vypnout jen svaly a nechat hlavu bdělou.
+**Periferní působí přímo na nervosvalové ploténce, tedy na nikotinovém receptoru** (viz otázka 36). A tady je celý rozdíl mezi dvěma skupinami:
+- **Nedepolarizující (pachykurarová)** — **sednou na receptor a nic neudělají.** Klasický **kompetitivní antagonista** (obecka O21). Nerv pošle acetylcholin, ale ten nemá kam sednout — **sval povel nedostane a povolí.** Historicky pocházejí z **kurare**, jedu na jihoamerické šípy.
+- **Depolarizující (leptokurarová)** — **naopak receptor TRVALE aktivují.** Sval se nejdřív krátce **zaškube (fascikulace)**, protože dostal povel, ale pak **zůstane ochrnutý**, protože se nemůže **repolarizovat**, tedy vrátit se do klidového stavu a být připraven na další povel. **Je to jako zaseknutý zvonek — pořád zvoní, takže už nezazvoní.**
+**A z toho plyne to nejdůležitější: proč u jednoho neostigmin pomůže a u druhého uškodí.** Neostigmin **zvýší množství acetylcholinu** (viz 38).
+- **U nedepolarizujícího** je to souboj o receptor — **víc acetylcholinu tu kompetici vyhraje a blokádu přebije.** ✅
+- **U depolarizujícího je receptor už tak trvale zapnutý** — **přidat víc acetylcholinu znamená zapnout ho ještě víc.** ❌ **Blok by se prohloubil.**
+**Proč suxamethonium působí jen pár minut:** protože **ho krev rozloží pseudocholinesterázou** ještě než ho stihne být moc. Proto je ideální na krátký úkon — **zavedení dýchací trubice.** A **proto nemá antidotum: nepotřebuje ho, prostě se počká.**
+**Atypická pseudocholinesteráza** je pak přesně ten případ, kdy to nevyjde: pacient má **geneticky jinou variantu enzymu, která suxamethonium neumí rozložit.** Místo pěti minut je ochrnutý **až dvanáct hodin** a **musí se uměle ventilovat.** Je to učebnicová **idiosynkrazie** z obecky O30 — není to alergie, není to předávkování, **je to prostě jiný enzym.**
+**Maligní hypertermie** = **život ohrožující vzestup teploty a ztuhlost svalů** po suxamethoniu nebo po některých inhalačních anestetikách. Příčinou je **mutace ryanodinového receptoru**, což je kanál, kterým se ze zásobárny ve svalu uvolňuje **vápník**. Mutovaný kanál **se otevře a už se nezavře** → **vápník se valí ven, sval se nekontrolovaně stahuje, spotřebovává obrovské množství energie a vyrábí teplo.** Teplota stoupá o stupeň za pár minut. **Bez léčby zemře přes 60 % pacientů. Dantrolen ten vápníkový kanál zavře** — je to jediné, co funguje, a na každém sále musí být.
+⚠️ **Nejdůležitější praktická věta: myorelaxans nesmí dostat nikdo, koho nemáš čím ventilovat.** Pacient je **při plném vědomí, všechno slyší a cítí — jen nemůže dýchat ani dát najevo, že je vzhůru.**
+
 🔑 **Nedepolarizující = blokáda → neostigmin ji přebije. Depolarizující = trvalé zapnutí → neostigmin by to zhoršil.**
 ⚠️ **Atypická pseudocholinesteráza** je genetický polymorfismus, při kterém se suxamethonium neodbourá — vzniká **apnoe až dvanáct hodin a je nutná umělá plicní ventilace**. Učebnicový příklad **idiosynkrazie**.
 ⚠️ **Myorelaxans se nikdy nesmí podat bez možnosti ventilovat** — pacient je při vědomí a nemůže dýchat.
@@ -339,6 +353,23 @@ Podle způsobu podání rozlišujeme anestezii **povrchovou, infiltrační, svod
 
 **Systémová toxicita se projeví nejprve na centrálním nervovém systému** — parestezie kolem úst, kovová chuť, zmatenost a křeče — a **teprve potom na srdci**."
 
+💬 **Ať to dává smysl**
+⚠️ **Tohle je pro tebe nejdůležitější otázka celé farmakologie** — budeš ji používat každý den v ordinaci. Vyplatí se ji umět víc než jen na zkoušku.
+**Jak nerv vůbec vede bolest:** signál se šíří tak, že se v membráně otevřou **sodíkové kanály**, dovnitř vtrhne sodík a vznikne **akční potenciál**, který běží po vlákně dál. **Lokální anestetikum ten kanál zacpe zevnitř** → **sodík nemůže dovnitř → akční potenciál nevznikne → do mozku se žádná zpráva o bolesti nedostane.** Bolest tedy nezmizí — **nikdy se o ní nedozvíš.**
+**Estery vs. amidy — rozdíl je v jediné chemické vazbě, ale důsledky jsou tři:**
+| | **Estery** (prokain, tetrakain, benzokain) | **Amidy** (lidokain, artikain, mepivakain, bupivakain, prilokain) |
+|---|---|---|
+| Kdo je rozloží | **esterázy přímo v plazmě** — rychle | **játra** — pomaleji |
+| Alergie | ⚠️ **vyšší riziko** | vzácná |
+| Proč | rozpadem vzniká **PABA (kyselina paraaminobenzoová)**, což je známý alergen | žádný takový metabolit nevzniká |
+**Dnes se v zubní praxi používají prakticky jen amidy** — hlavně **artikain**, protože dobře proniká kostí. *[obecné znalosti]*
+**Proč se přidává adrenalin (nebo felypresin):** stáhne cévy v místě vpichu. **Tři výhody najednou: (1) anestetikum se nesmyje krví, takže vydrží déle · (2) míň se krvácí, takže je lépe vidět · (3) do celého těla se ho dostane míň, takže je nižší riziko systémové otravy.** Odtud i praktický důsledek — **anestetikum bez vazokonstrikce působí kratší dobu a víc krvácí.**
+**Druhy anestezie, lidsky:** *povrchová* = gel na sliznici · *infiltrační* = vpich přímo do místa, kde se řeže · **svodná** = vpich k **nervu**, který danou oblast zásobuje, takže se znecitliví celá jeho oblast — **sem patří všechny zubní svodné blokády, například mandibulární** · *spinální a epidurální* = k míše.
+**Systémová toxicita — proč nejdřív hlava a až pak srdce:** anestetikum blokuje sodíkové kanály **všude, kde jsou** — a v mozku i v srdci jsou taky. **Mozek je citlivější, proto se ozve první:** brnění kolem úst a na jazyku, **kovová chuť v ústech**, zvonění v uších, zmatenost, pak křeče. **Teprve při vyšších hladinách se přidá srdce** — arytmie až zástava.
+⚠️ **A tohle je vlastně dobrá zpráva a stojí za to ji říct: mozkové příznaky jsou VAROVÁNÍ.** Když pacient po vpichu řekne, že má divnou chuť v ústech nebo že mu brní jazyk, **je to signál zastavit, ne pokračovat.**
+⚠️ **Nejdůležitější zubařská věc v celé specce — proč anestezie nezabírá v zaníceném zubu:** anestetikum je **slabá zásada.** Aby proniklo do nervu, musí být **nenabité** (viz obecka O10). **Zánět ale prostředí okyselí — a v kyselém prostředí se slabá zásada ionizuje, tedy nabije.** **Nabitá molekula membránou neprojde a k sodíkovému kanálu se nedostane.** Je to přesně ta **iontová past** z obecky. **Proto se u akutního abscesu často píchá dál od zánětu (svodná anestezie místo infiltrační).**
+**Prilokain → methemoglobinemie:** jeho metabolit **změní železo v hemoglobinu tak, že přestane přenášet kyslík.** Pacient je **šedomodrý, přestože má normální saturaci na oxymetru.** **Bupivakain je nejkardiotoxičtější** — proto se u něj hlídá maximální dávka nejpřísněji.
+
 🔑 **Amid má v názvu dvě „i"** (l**i**dokaí**n**, prilokain, artikain, mepivakain, bupivakain), **ester jen jedno** (prokain, tetrakain). **Nejdřív hučí v hlavě, teprve pak zlobí srdce.**
 ⚠️ **Zubařsky nejdůležitější: v zaníceném prostředí anestetikum hůř účinkuje.** Zánět je kyselý, anestetikum se ionizuje a **ionizovaná forma neprojde membránou** — je to iontová past z obecné farmakologie.
 ⚠️ **Prilokain → methemoglobinemie. Bupivakain je nejkardiotoxičtější.**
@@ -354,6 +385,24 @@ Sílu anestetika vyjadřuje **minimální alveolární koncentrace, MAC**. Rychl
 Ze zástupců je nejužívanější **izofluran**, u kterého hrozí **steal syndrom**. **Desfluran** je rychlý, ale **dráždí dýchací cesty**. **Sevofluran** je dobře snášen. **Halotan** se dnes nepoužívá kvůli riziku **maligní hypertermie a hepatitidy**.
 
 Z plynů se používá **oxid dusný** k analgezii a jako nosný plyn — při expozici **nad šest hodin tlumí kostní dřeň** — a **xenon**, který je inertní a nejrychlejší, ale velmi drahý."
+
+💬 **Ať to dává smysl**
+**Inhalační anestetikum se vdechne, projde plícemi do krve a z krve do mozku.** Čím rychleji tuhle cestu urazí, tím rychleji pacient usne — a tím rychleji se po vypnutí přívodu probudí, protože stejnou cestou jde i zpátky.
+**Čtyři stadia popsal Guedel ještě v době, kdy se používal éter a nebyly monitory** — dnes se přes ně proletí za pár vteřin, ale **stále se u zkoušky ptají, protože ukazují, co se v mozku postupně vypíná.**
+1. **Analgezie** — pacient je **při vědomí**, jen otupělý.
+2. **Excitace („vagové")** — ⚠️ **nebezpečné stadium.** Vypnou se tlumivé okruhy dřív než ty budivé, takže pacient může být **neklidný, zvracet, může mu zaskočit obsah žaludku, může dostat bronchospasmus i zástavu srdce.** **Proto se přes něj chce projet co nejrychleji — a proto se dnes úvod dělá NITROŽILNĚ** (viz otázka 50), kde to trvá vteřiny.
+3. **Chirurgická tolerance** — **tady se operuje.** Poznáš to podle toho, že **zmizí korneální reflex** (nemrkne, když se dotkneš rohovky) a **oči přestanou těkat.**
+4. **Míšní paralýza** — vypne se **dechové a oběhové centrum**. To už je stadium umírání.
+**MAC (minimální alveolární koncentrace)** = **kolik plynu ve vdechované směsi je potřeba, aby polovina pacientů nereagovala na řez.** Je to tedy **měřítko SÍLY: nízké MAC = silné anestetikum** (stačí ho málo).
+**Dělicí koeficient krev/plyn** = **měřítko RYCHLOSTI.** A tady je to kontraintuitivní, takže si to rozeber pomalu:
+**Čím HŮŘ se anestetikum rozpouští v krvi, tím RYCHLEJI účinkuje.** Zní to obráceně, ale představ si to jako houbu: **krev je houba mezi plícemi a mozkem.** Anestetikum, které se v krvi dobře rozpouští, **houba nasákne a drží** — do mozku se dostane až tehdy, když je houba plná, což trvá dlouho. **Anestetikum, které se v krvi rozpouští špatně, houbou skoro neprojde a rovnou „přeteče" do mozku.** **Do mozku totiž nejde množství, ale tlak — a ten stoupne rychleji tehdy, když krev látku nepohlcuje.**
+**Zástupci, každý s jednou zapamatovatelnou vlastností:**
+- **Izofluran** — nejužívanější. **Steal syndrom** (*steal* = krádež) = roztáhne zdravé věnčité tepny, takže **krev odteče z nemocné oblasti do zdravé** — nemocné místo tedy dostane ještě míň. „Okrade" ischemickou tkáň.
+- **Desfluran** — rychlý, ale **dráždí dýchací cesty** (kašel, laryngospasmus), proto se s ním nedělá úvod.
+- **Sevofluran** — dobře snášený, používá se i u dětí k úvodu maskou.
+- **Halotan** — **dnes opuštěný**: způsoboval **maligní hypertermii** (viz 47) a **halotanovou hepatitidu**.
+- **Oxid dusný (N₂O, „rajský plyn")** — sám na anestezii nestačí, slouží k **analgezii a jako nosný plyn**. ⚠️ **Nad 6 hodin tlumí kostní dřeň**, protože **inaktivuje vitamin B12 a tím blokuje syntézu methioninu.** A druhé riziko se netýká pacienta, ale **personálu — vyšší výskyt potratů a malformací u lidí, kteří v tom pracují.** *(Obojí je oblíbená doplňující otázka.)*
+- **Xenon** — vzácný plyn, **nejrychlejší a nejšetrnější**, ale **extrémně drahý.**
 
 🔑 **Nízká rozpustnost v krvi = rychlý nástup i rychlé probuzení.** Proto je nejrychlejší xenon.
 ⚠️ **Oxid dusný má dvě rizika, na která se ptají:** **útlum kostní dřeně** při expozici nad šest hodin, protože inhibuje syntézu methioninu, a **vyšší výskyt potratů a malformací u personálu operačních sálů**.
@@ -371,6 +420,18 @@ Z plynů se používá **oxid dusný** k analgezii a jako nosný plyn — při e
 **Etomidát** je oběhově nejstabilnější, ale **tlumí tvorbu kortikosteroidů**.
 
 **Ketamin** navozuje **disociovanou anestezii** — pacient je při vědomí, ale necítí bolest a má amnézii. Nežádoucí jsou **dysforie a halucinace**, proto se kombinuje s benzodiazepinem. Používá se **u dětí a v medicíně katastrof**, protože ho lze podat i nitrosvalově."
+
+💬 **Ať to dává smysl**
+**Proč se anestezie zahajuje nitrožilně a udržuje se jinak:** protože **nitrožilní lék uspí za jedno kolo krevního oběhu, tedy asi za minutu** — a tím se **přeskočí nebezpečné druhé stadium** z otázky 49. Pacient je vteřinu vzhůru a další už spí.
+**Thiopental a redistribuce — tohle je nejcennější část otázky, protože se to plete s eliminací** (viz obecka O14):
+Píchneš ho do žíly. **Nejdřív se dostane tam, kde teče nejvíc krve — do mozku.** Proto usne za pár vteřin. Jenže mozek je malý a **thiopental je hodně tučný**, takže se **postupně přeplaví do tukové tkáně**, které je hodně a je špatně prokrvená. **Mozek se vyprázdní a pacient se probudí — ale v těle je thiopentalu pořád úplně stejné množství.**
+⚠️ **Účinek tedy neskončil eliminací, ale REDISTRIBUCÍ — přestěhováním.** A odtud plyne i „pobarbiturátová kocovina": **pacient sice mluví a otevírá oči, ale lék je pořád v něm** a hodiny se z tuku pomalu uvolňuje zpátky. Proto po ní nesmí řídit.
+**Propofol** — bílá emulze („mléko amnézie"). **Rychle nastupuje, rychle odeznívá a málo způsobuje nevolnost**, proto se hodí ke **kontinuální infuzi během celé operace.** ⚠️ **Propofol infusion syndrome** vzniká **při dlouhém podávání velkých dávek** (na jednotkách intenzivní péče): metabolická **acidóza, vysoký draslík, rozpad svalů (rhabdomyolýza) a oběhový kolaps.** Vzácné, ale často smrtelné.
+**Etomidát** — jeho výhodou je, že **skoro nesahá na oběh**, takže je **volbou u pacienta s nemocným nebo slabým srdcem.** ⚠️ Cenou za to je, že **blokuje enzym tvorby kortikosteroidů v nadledvinách** — proto se nepodává opakovaně ani v infuzi.
+**Ketamin a „disociovaná anestezie" — vysvětli, co to znamená, protože samotný název nic neřekne:** *disociace* = rozpojení. **Pacient vypadá, že je vzhůru — má otevřené oči a může se hýbat — ale je odpojený od vnějšího světa: necítí bolest a nic si nebude pamatovat.** Mozek je „rozpojený", ne vypnutý.
+**Proč se to hodí u dětí a v terénu:** funguje **i nitrosvalově** (nemusíš hledat žílu u vyděšeného dítěte nebo u zavaleného člověka), **nesnižuje tlak** a **netlumí dýchání.** Proto je to lék pro medicínu katastrof.
+⚠️ Nevýhodou jsou **dysforie a děsivé halucinace při probouzení** — proto se přidává benzodiazepin.
+**Neuroleptanalgezie** = kombinace neuroleptika a analgetika, která navodí **sedaci, analgezii a amnézii, ALE NE bezvědomí.** **Pacient je schopen odpovídat a spolupracovat** — což je u některých neurochirurgických výkonů nutné, aby se ověřilo, že se neporušila důležitá funkce mozku.
 
 🔑 **Thiopental = úvod. Propofol = udržování. Ketamin = děti a katastrofy. Etomidát = nemocné srdce.**
 ⚠️ **Neuroleptanalgezie** je **sedace, analgezie a amnézie, ale bez bezvědomí** — pacient je schopen spolupracovat, čehož se využívá u neurochirurgických výkonů.
