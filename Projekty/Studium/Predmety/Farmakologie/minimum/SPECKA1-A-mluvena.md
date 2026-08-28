@@ -807,6 +807,37 @@ Je to jako rozvětvená řeka. **Kortikoidy blokují fosfolipázu A2 prostředni
 
 **Leukotrieny** vyvolávají bronchokonstrikci, otok a hypersekreci hlenu; jejich antagonisty jsou **montelukast a zafirlukast**."
 
+💬 **Ať to dává smysl**
+⚠️ **Tahle otázka je klíč k otázkám 63, 64 i k tomu, proč fungují kortikoidy.** Když ji pochopíš, tři další otázky se ti odvodí samy. **Vyplatí se nakreslit si to jako schéma.**
+**Eikosanoidy** = skupina látek vznikajících z **kyseliny arachidonové** (název podle řeckého *eikosi* = dvacet, protože mají 20 uhlíků). **Nejsou to hormony — tvoří se v místě potřeby a hned tam působí.**
+**Představ si to jako rozvětvenou řeku:**
+```
+membránový fosfolipid
+        ↓  fosfolipáza A2      ← ⚠️ TADY blokují KORTIKOIDY (přes lipokortin)
+kyselina arachidonová
+     ↙            ↘
+CYKLOOXYGENÁZA   LIPOXYGENÁZA   ← ⚠️ TADY blokují NSA (jen levé rameno)
+     ↓                ↓
+prostaglandiny    LEUKOTRIENY
+prostacyklin      (bronchokonstrikce,
+tromboxany         otok, hlen)
+```
+⚠️ **A z toho schématu plynou dvě nejcennější věty celé otázky:**
+**1. Proč jsou kortikoidy nejsilnější protizánětlivé léky:** **staví hráz NAHOŘE, ještě před rozvětvením** — takže **vysuší obě ramena najednou.** Žádné prostaglandiny **a** žádné leukotrieny. NSA staví hráz jen na jednom rameni.
+**2. Proč nesteroidní antiflogistika mohou zhoršit astma:** zahradíš **jen cyklooxygenázové rameno** — a **kyselina arachidonová se nemá kam podít, tak se přelije do druhého ramene.** **Vznikne VÍC leukotrienů → silnější bronchokonstrikce.** To je **aspirinem indukované astma** — a je to hezká ukázka toho, že když zavřeš jednu cestu, provoz se přesměruje, ne zastaví.
+**Prostacyklin vs. tromboxan — dokonalé protiklady, a proto se dobře pamatují:**
+| | **Prostacyklin (PGI₂)** | **Tromboxan (TXA₂)** |
+|---|---|---|
+| Odkud | **z ENDOTELU** (výstelka cévy) | **z DESTIČEK** |
+| Céva | **rozšiř** | **stáhni** |
+| Srážení | **nesrážej** (antiagregace) | **sraž** (proagregace) |
+**Dává to biologický smysl:** **zdravá céva nechce, aby se v ní srážela krev** → její výstelka vyrábí prostacyklin. **Destička naopak existuje proto, aby zacpala díru** → vyrábí tromboxan. **Rovnováha mezi nimi rozhoduje o tom, jestli se krev sráží, nebo ne** — a přesně na tomhle stojí past u koxibů v otázce 64.
+**Aspirin blokuje cyklooxygenázu IREVERZIBILNĚ** — a proto stačí malá dávka jednou denně: **destička nemá jádro, takže si nový enzym nevyrobí.** Je vyřazená na celý svůj život (7–10 dní). *[obecné znalosti]*
+**Prostaglandiny E a F — stačí si zapamatovat po jedné klinicky užitečné věci:**
+- **PGE tlumí sekreci HCl v žaludku** ⚠️ **a odtud plyne, proč NSA dělají vředy** (viz otázka 64). **Alprostadil** udržuje otevřenou **tepennou dučej** u novorozenců s vrozenou srdeční vadou, dokud se neoperují.
+- **PGF** stahuje cévy a dělohu; **latanoprost** v kapkách **zlepší odtok komorové vody → snižuje nitrooční tlak u glaukomu.**
+**Leukotrieny** jsou hlavní hráči **alergie a astmatu** — stahují průdušky, dělají otok a hlen. **Montelukast** blokuje jejich receptor a používá se u astmatu, hlavně u dětí a u alergického astmatu.
+
 🔑 **Prostacyklin z endotelu: rozšiř a nesrážej. Tromboxan z destičky: stáhni a sraž.** Dokonalé protiklady.
 🔑 **PGE tlumí kyselinu** — proto nesteroidní antiflogistika dělají vředy.
 ⚠️ **Proč NSA zhoršují astma:** zahradí se cyklooxygenázové rameno, kyselina arachidonová **se přelije do lipoxygenázového** a vznikne **více leukotrienů** → bronchokonstrikce.
@@ -823,6 +854,23 @@ Je to jako rozvětvená řeka. **Kortikoidy blokují fosfolipázu A2 prostředni
 
 Z **pyrazolových derivátů** se používá **metamizol**, který má navíc spasmolytický účinek, takže se hodí u kolik. **Nepodává se u astmatiků** kvůli riziku anafylaktoidní reakce."
 
+💬 **Ať to dává smysl**
+⚠️ **Celá otázka stojí na jedné definici, a proto ji řekni hned na začátku: analgetika-antipyretika umí POUZE tlumit bolest a snižovat horečku. NEMAJÍ protizánětlivý ani antiagregační účinek.** Tím se liší od NSA z otázky 64, která umí všechny čtyři věci.
+**Přeložme si ta slova: *analgetikum* = proti bolesti (*algos* = bolest) · *antipyretikum* = proti horečce (*pyr* = oheň) · *antiflogistikum* = proti zánětu (*flogosis* = zánět).**
+**Proč paracetamol umí jen dvě věci ze čtyř — a je to hezky logické: působí JEN CENTRÁLNĚ, tedy v mozku.**
+- **Horečku umí**, protože **termoregulační centrum je v hypotalamu**, tedy v mozku — tam dosáhne.
+- **Bolest umí**, protože i její vnímání se odehrává centrálně.
+- ⚠️ **Ale na zánět v kloubu, ve dásni nebo v ráně NEDOSÁHNE**, protože ten je **na periferii.**
+- **A destičky taky ne** — ty jsou v krvi.
+**Tohle je zároveň jeho největší přednost i jeho největší limit.** Přednost proto, že **nesahá na COX-1 na periferii → nedělá vředy, nedráždí žaludek, neovlivňuje ledviny a nezvyšuje krvácivost.** Proto je **lékem první volby u seniorů, těhotných a kojenců.** Limit proto, že u zánětlivé bolesti prostě nestačí.
+⚠️ **Otrava paracetamolem je zásadní téma a měla bys ji umět vyprávět** (podrobně je v obecce O17): normálně se **95 % zpracuje bezpečně** (glukuronidace, sulfatace) a **5 % projde přes CYP2E1**, kde vznikne **NAPQI** — reaktivní jed. **Glutathion ho okamžitě zneškodní.**
+**Při předávkování se pokazí obojí najednou: bezpečné cesty se nasytí (přebytek se přelije do té toxické) A ZÁROVEŇ se glutathion vyčerpá.** Od té chvíle **NAPQI nemá kdo chytat a rozežírá jaterní buňky.**
+⚠️ **Nejzákeřnější na tom je časový průběh: prvních 24 hodin pacientovi prakticky nic není** — proto se otrava často podcení. **Jaterní selhání přijde za 2–3 dny, a to už bývá pozdě.**
+**Antidotem je acetylcystein** — ten samý ACC, co znáš na kašel. **Funguje proto, že je zdrojem cysteinu, ze kterého si játra vyrobí nový glutathion.** Nedělá nic s NAPQI přímo — **jen tělu doplní munici.**
+⚠️ **Alkohol a paracetamol je dvojitá rána a je to častá zkoušková otázka:** alkohol **indukuje CYP2E1** → vznikne **víc** NAPQI, **a zároveň vyčerpává glutathion** → je **méně** obrany. **Proto může být u alkoholika hepatotoxická i běžná terapeutická dávka.**
+**Metamizol** (Novalgin) — pyrazolový derivát, **má navíc spasmolytický účinek**, tedy uvolní křeč hladkého svalu → **proto je lékem volby u kolikovité bolesti** (ledvinová, žlučníková kolika). ⚠️ **Nepodává se astmatikům** kvůli riziku anafylaktoidní (pseudoalergické) reakce — viz obecka O30. *(Vzácně může způsobit agranulocytózu — [obecné znalosti].)*
+⚠️ **Zubařsky nejužitečnější věta z celé otázky:** bolest po extrakci nebo po ošetření je **zánětlivá**, a **na zánětlivou bolest je ibuprofen účinnější než paracetamol** — právě proto, že paracetamol na zánět nedosáhne. **Kombinace obou je ale nejúčinnější, protože každý působí jinde** (paracetamol centrálně, ibuprofen v ráně). *[obecné znalosti]*
+
 🔑 **Paracetamol umí dvě věci ze čtyř: bolest a horečku. Zánět a destičky ne. Čtyři gramy je hranice, nad ní játra.**
 ⚠️ **Alkohol a paracetamol je dvojitá rána:** alkohol **indukuje CYP2E1**, takže vznikne víc NAPQI, **a zároveň vyčerpává glutathion**, takže je méně obrany. Proto může být u alkoholika hepatotoxická i běžná dávka.
 ⚠️ **Zubařsky:** u zánětlivé bolesti po výkonu je **ibuprofen účinnější než paracetamol**; kombinace obou je nejlepší, protože každý působí jinde.
@@ -838,6 +886,23 @@ Z toho plyne, že **blokáda COX-1 způsobí vředy, renální selhání a krvá
 **Kyselina acetylsalicylová** blokuje cyklooxygenázu **nevratně**; její intoxikace se projeví **hyperpnoí**. **Ibuprofen je nejšetrnější k trávicímu traktu**, **naproxen** má delší poločas, u **nimesulidu** hrozí **hepatotoxicita** a **koxiby** mají nízké riziko gastrointestinálních komplikací.
 
 **Renální nežádoucí účinky po vysazení vymizí, ale při dlouhodobém užívání vzniká analgetická nefropatie.**"
+
+💬 **Ať to dává smysl**
+**Nesteroidní antiflogistika** = protizánětlivé léky, které **nejsou steroidy** (na rozdíl od kortikoidů). Umí **všechny čtyři věci: tlumí bolest, snižují horečku, tlumí zánět a ovlivňují destičky** — tím se liší od paracetamolu.
+**Všechno stojí na dvou izoformách cyklooxygenázy — a nejlepší je vzít si to jako dvě různé profese:**
+- ⚠️ **COX-1 je STÁLÝ ÚDRŽBÁŘ.** Je v těle **pořád a skoro všude**, i když je člověk úplně zdravý. Stará se o **ochranu žaludeční sliznice** (přes PGE, viz otázka 62), o **průtok krve ledvinou** a o **funkci destiček**.
+- ⚠️ **COX-2 je POŽÁRNÍK — objeví se, až když hoří.** Za normálních okolností tam skoro není, **indukuje se až při zánětu** a vyrábí mediátory bolesti a otoku.
+**A z toho plyne celá otázka jednou větou: chceš vypnout požárníka, ale klasické NSA vypne i údržbáře.**
+⚠️ **Proto vředy a poškození ledvin nejsou „toxicita" — jsou to jednoduše důsledky vypnutí normální funkce.** Nic se neotrávilo, jen přestala fungovat ochrana. **Tuhle větu chtějí slyšet, protože ukazuje, že tomu rozumíš.** Konkrétně: **PGE normálně tlumí sekreci kyseliny a udržuje hlenovou vrstvu** → vypneš je a žaludek si začne trávit sám. **V ledvině prostaglandiny udržují průtok krve** → vypneš je a při dehydrataci nebo šoku ledvina zkolabuje.
+**Kyselina acetylsalicylová (aspirin)** — jediná blokuje **NEVRATNĚ**. Proto stačí malá dávka jednou denně na ředění krve: **destička nemá jádro a nový enzym si nevyrobí, takže je vyřazená natrvalo.** ⚠️ **Intoxikace se pozná podle hyperpnoe** (zrychlené hluboké dýchání) — salicylát totiž **přímo dráždí dechové centrum.** *(Vzpomeň si i na obecku O12: aspirin ve vyšších dávkách přechází na kinetiku nultého řádu, což intoxikaci zhoršuje, a na O20: při otravě se moč alkalizuje.)*
+**Ostatní zástupci — každý s jednou vlastností:** **ibuprofen je nejšetrnější k žaludku** *(a proto je nejvhodnější u zubní bolesti)* · **naproxen má delší poločas**, takže se bere méněkrát denně · ⚠️ **nimesulid je hepatotoxický**, proto se smí jen krátkodobě · **koxiby** šetří žaludek.
+⚠️ **Renální nežádoucí účinky po vysazení vymizí** — ledvina se vrátí do normálu, jakmile se prostaglandiny obnoví. **Ale při dlouhodobém užívání vzniká analgetická nefropatie, a ta už je nevratná.**
+🔑 **Dvě syndromová jména, která se pletou, tak si je odděl:**
+- **Reyeův syndrom = DÍTĚ + ASPIRIN + VIRÓZA** → **akutní jaterní encefalopatie**, mortalita až 40 %. **Proto se dětem nedává aspirin.**
+- **Salicylismus = DOSPĚLÝ + MOC ASPIRINU** → **zvonění v uších (tinnitus)**, závratě, nevolnost, hyperpnoe.
+⚠️ **A nakonec nejcennější myšlenka otázky — proč jsou koxiby bezpečnější pro žaludek, ale rizikovější pro srdce.** Vrať se k otázce 62: **prostacyklin (z endotelu) BRÁNÍ srážení a vzniká přes COX-2. Tromboxan (z destiček) srážení PODPORUJE a vzniká přes COX-1.**
+**Klasické NSA vypne obojí, takže rovnováha zůstane zhruba zachovaná. Koxib ale vypne jen COX-2 — tedy jen tu brzdu srážení — a tromboxan nechá pracovat naplno.** Výsledek: **rovnováha se překlopí ke srážení → vyšší riziko infarktu a mozkové mrtvice.**
+**Shrnutí, které si zapamatuj: u NSA neexistuje volba bez ztráty. Buď riskuješ žaludek, nebo srdce.**
 
 🔑 **COX-1 chrání, COX-2 zapaluje.**
 🔑 **Reyeův syndrom = dítě + aspirin + viróza** (mortalita až čtyřicet procent). **Salicylismus = dospělý + moc aspirinu + zvonění v uších.**
@@ -856,6 +921,23 @@ Záchvat probíhá ve **třech stadiích v tomto pořadí: nejprve vazokonstrikc
 Dále se používají **námelové alkaloidy — ergotamin a dihydroergotamin —, které se kvůli špatné biologické dostupnosti podávají ve formě čípků nebo nosního spreje**.
 
 K **profylaxi** slouží **metoprolol, verapamil a valproát** společně s úpravou životního stylu."
+
+💬 **Ať to dává smysl**
+**Migréna není „silná bolest hlavy" — je to záchvatovité onemocnění s vlastním průběhem.** A **celá léčba se odvíjí od toho, že ten průběh má tři fáze, které jdou po sobě.**
+**Tři složky patogeneze, lidsky:**
+1. **Vazomotorická komponenta** = **mění se šířka cév v mozkových obalech** — nejdřív se stáhnou, pak roztáhnou.
+2. **Spouštěcí zóna v serotoninergním systému středního mozku** = **kde záchvat začíná.** Proto se do toho dá zasáhnout léky, které působí na serotoninové receptory.
+3. **Trigeminovaskulární systém** = **nemyelinizovaná nervová vlákna trigeminu, která obalují cévy v pia mater a dura mater.** ⚠️ **Tohle je pro tebe zajímavé, protože je to tentýž nerv, se kterým pracuješ v zubní ordinaci.** **Mozek sám bolet nemůže — nemá receptory bolesti. Bolí právě tahle vlákna na cévách v obalech.**
+⚠️ **Tři stadia záchvatu vysvětlují dvě věci najednou a stojí za to je odvyprávět:**
+1. **VAZOKONSTRIKCE — cévy se stáhnou.** ⚠️ **A to je AURA:** zúžené cévy → méně krve v kůře → **blikající světla, výpadky zorného pole, brnění.** **Proto aura předchází bolesti, ne naopak.**
+2. **VAZODILATACE — cévy se prudce roztáhnou a začnou tepat.** ⚠️ **A protože jsou obalené vlákny trigeminu, ta se drážděním rozbolí — odtud PULZUJÍCÍ charakter bolesti.**
+3. **EDÉM — kolem cév vznikne otok.** ⚠️ **A tady je nejcennější klinický důsledek: problém už není v šířce cévy, ale v otoku — takže triptan, který cévu stahuje, na to nemá mechanismus. Prostě už není co stáhnout.**
+⚠️ **A proto se triptan musí vzít HNED při prvních příznacích bolesti, ne až když se to nedá vydržet.** **Není to o odolnosti ani o šetření tabletami** — po několika hodinách je nemoc v jiném stadiu a lék na něj nezabírá. **Tuhle větu řekni, protože propojuje mechanismus s praxí.**
+**Triptany** jsou **agonisté serotoninových 5-HT1 receptorů → stáhnou roztažené cévy** a zároveň utlumí uvolňování zánětlivých peptidů z trigeminových vláken. **Jsou lékem první volby na akutní záchvat.**
+⚠️ **Nehodí se pro profylaxi** — jednak by je pacient bral pořád, jednak by vzniklo **bolení hlavy z nadužívání léků**. *[obecné znalosti]*
+⚠️ **Kontraindikace u ICHS a po infarktu — a mechanismus je logický: 5-HT1 receptory nejsou jen v mozkových cévách, jsou i v koronárních tepnách.** Triptan je tedy **stáhne taky** — u zdravého srdce to nevadí, ale u zúžené věnčité tepny to může vyvolat infarkt.
+**Námelové alkaloidy (ergotamin, dihydroergotamin)** pocházejí z **námelu**, houby parazitující na žitě. Působí podobně (vazokonstrikce), ale **jsou méně selektivní** a mají víc nežádoucích účinků. ⚠️ **Kvůli špatné biologické dostupnosti v tabletě se podávají jako čípky nebo nosní sprej** (viz obecka O5 a O18 — obojí obchází first-pass efekt).
+**Profylaxe = prevence záchvatů, bere se každý den, i když pacient bolest nemá.** **Metoprolol** (betablokátor, viz otázka 46), **verapamil** (blokátor kalciových kanálů) a **valproát** (antiepileptikum, viz otázka 53). ⚠️ **Všimni si, že žádný z nich není analgetikum** — cíl profylaxe není tlumit bolest, ale **snížit dráždivost mozku, aby záchvat vůbec nevznikl.**
 
 🔑 **Stáhnout → rozšířit a bolet → otéct. Triptan na záchvat, betablokátor na prevenci.** Nikdy naopak.
 ⚠️ **Triptan se musí vzít hned při prvních příznacích bolesti.** Není to o odolnosti — po pár hodinách je nemoc už v edémovém stadiu a triptan na to nemá mechanismus.
