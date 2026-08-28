@@ -298,6 +298,25 @@ Mají **dva mechanismy účinku, které se doplňují: blokují fosfodiesterázu
 
 Ze zástupců je to **kofein z kávovníku a čajovníku**; **teofylin a aminofylin, které se používají jako bronchodilatancia u astmatu, typicky v retardovaných lékových formách**; **theobromin z kakaa**; **etofylin, který vazodilatací zlepšuje prokrvení mozku**; a **pentoxifylin, používaný u poruch krevního zásobení aterosklerotické, diabetické a zánětlivé etiologie**.“
 
+💬 **Ať to dává smysl**
+**Metylxantiny** jsou **purinové sloučeniny** — chemicky příbuzné bázím DNA. ⚠️ **Zdroj je řadí mezi DIURETIKA**, což je zpočátku překvapivé, ale dává to smysl: **káva opravdu nutí močit.**
+⚠️ **Mají dva mechanismy a oba směřují ke stejnému cíli — zvýšit cAMP a zvýšit dráždivost:**
+1. **Inhibice fosfodiesterázy** → **cAMP se přestane odbourávat a jeho hladina stoupne.** *(Je to úplně stejný princip jako u sildenafilu — viz Specka I, otázka 71 — a jako u drotaverinu, viz otázka 102. Jedna molekula, tři úplně různé indikace podle orgánu.)*
+2. **Blokáda adenosinových receptorů.**
+⚠️ **A tady je nejlepší vysvětlení v celé otázce, protože se týká něčeho, co znáš z každého rána: PROČ TĚ KÁVA PROBUDÍ.**
+**Adenosin je látka, která se v mozku během dne HROMADÍ jako vedlejší produkt spotřeby energie.** **Čím déle jsi vzhůru, tím víc ho je — a on se váže na své receptory a říká „jsi unavená, jdi spát".** ⚠️ **Kofein je adenosinu strukturně podobný, takže si sedne na jeho receptor a obsadí ho — ale nic neudělá.** **Je to klasický kompetitivní antagonista** (viz obecka O21).
+⚠️ **Klíčová pointa: kofein ti energii NEDODÁ. Jen zablokuje zprávu o tom, že jsi unavená.** **Adenosin se mezitím dál hromadí — a když kofein vyprchá, dopadne na tebe všechen najednou.** **Odtud ta propadlá únava po odeznění kávy.** *[obecné znalosti]*
+**Renální účinek** je zajímavý a stojí za vysvětlení: ⚠️ **metylxantiny ROZŠÍŘÍ vas afferens (přívodnou tepénku glomerulu) a STÁHNOU vas efferens (odvodnou)** — tedy **víc přiteče a hůř odtéká, takže tlak uvnitř glomerulu stoupne a filtruje se víc primární moči.** *(Je to přesný opak toho, co dělá ACE inhibitor — viz Specka I, otázka 68.)* **A navíc blokádou adenosinových receptorů v proximálním tubulu sníží zpětné vstřebávání sodíku — a s ním odejde i voda.**
+⚠️ **Ale diuretický účinek je jen zpočátku výrazný — pak na něj vzniká TOLERANCE** (viz obecka O27). **Proto pravidelný kafař po kávě už tolik nemočí.**
+**Bronchodilatační účinek** — **zvýšené cAMP uvolní hladkou svalovinu průdušek**, což je stejný konečný efekt jako u β2 agonistů (viz Specka I, otázka 43), jen jinou cestou. **Proto se teofylin používá u perzistujícího astmatu.**
+**Zástupci — každý s jiným místem, kde se nejvíc uplatní:**
+- **Kofein** — z kávovníku a čajovníku, hlavně CNS.
+- ⚠️ **Teofylin a aminofylin** — bronchodilatancia u astmatu, **typicky v retardovaných formách** (viz obecka O6), aby hladina nekolísala.
+- **Theobromin** — z kakaa. *(Je to zároveň důvod, proč je čokoláda toxická pro psy — neumějí ho odbourat. — [obecné znalosti])*
+- **Etofylin** — vazodilatací zlepšuje prokrvení mozku.
+- **Pentoxifylin** — u poruch prokrvení aterosklerotické, diabetické a zánětlivé etiologie.
+⚠️ **Teofylin má ÚZKÉ TERAPEUTICKÉ OKNO** (viz obecka O23) — **rozdíl mezi účinnou a toxickou hladinou je malý, projeví se nevolností, arytmiemi a křečemi.** ⚠️ **A hladinu mu zvyšuje všechno, co inhibuje cytochrom — typicky MAKROLIDY** (viz Specka I, otázka 88) **a fluorochinolony.** **Právě proto se dnes používá spíš doplňkově.**
+
 🔑 **Kofein blokuje adenosin** — a adenosin je látka, která tě uspává. Proto tě káva probudí.
 ⚠️ **Teofylin má úzké terapeutické okno** a jeho hladinu zvyšují inhibitory cytochromu, například makrolidy.
 
@@ -316,6 +335,26 @@ Druhou částí jsou **monoklonální protilátky, které cílí na určitý pro
 **Nejrozšířenější jsou inhibitory TNF-alfa — infliximab, adalimumab, etanercept a golimumab** — používané u revmatoidní a psoriatické artritidy, Crohnovy nemoci a psoriázy. Dále **inhibitory interleukinu 1, tedy anakinra a kanakinumab, který se používá u atak dnavé artritidy**; **inhibitor interleukinu 6, tocilizumab**; a **antagonisté interleukinu 2, basiliximab a daklizumab, používané k prevenci akutní rejekce transplantátu**.
 
 Nakonec **derivancia — látky k místnímu užití, které zvyšují prokrvení, a tím urychlují průběh zánětu a jeho hojení nebo zrychlují vstřebání otoku**; patří sem kafr a mentol a jsou **jen doplňkem základní kauzální léčby**.“
+
+💬 **Ať to dává smysl**
+**Revmatoidní artritida** je **autoimunitní zánět kloubů** — imunita napadne vlastní kloubní výstelku, ta bují a **postupně rozežere chrupavku a kost.** ⚠️ **A jakmile je kloub zničený, nevrátí se.** **Právě proto je tak zásadní rozdíl mezi tím, co tlumí bolest, a tím, co nemoc zpomalí.**
+⚠️ **A to je celá pointa otázky, kterou stojí za to říct hned na začátku:**
+- **NSA tlumí bolest a zánět. Pacientovi se uleví — ale kloub se ničí dál stejnou rychlostí.**
+- ⚠️ **DMARD (disease modifying antirheumatic drugs, „léky modifikující průběh nemoci") ZPOMALÍ SAMOTNOU DESTRUKCI.** **Pacientovi se hned neuleví, ale za rok bude mít funkční kloub.**
+**Proto se dnes DMARD nasazují co nejdřív po diagnóze** — ztracený čas se nedožene. *[obecné znalosti]*
+⚠️ **DMARD definují tři věty a stojí za to je říct doslova:** **mechanismus účinku není znám · účinek nastupuje pomalu, ale dlouhodobě přetrvává · zasahují do imunopatologického děje, potlačují zánětlivou aktivitu a zpomalují progresi.**
+**Zástupci — každý s jednou věcí, kterou si zapamatuješ:**
+- **Sulfasalazin** — ⚠️ **je to ten samý lék jako u střevních zánětů** (viz otázka 101): **sulfonamid spojený se salicylátem, který se uvolní až působením bakterií v tlustém střevě.** **Jedna molekula, dvě různé indikace.**
+- ⚠️ **Metotrexát je dnes základ léčby revmatoidní artritidy.** **Je to antagonista kyseliny listové a zároveň cytostatikum** — v protinádorových dávkách zabíjí dělící se buňky, **v malých týdenních dávkách jen utlumí imunitu.** ⚠️ **A protože blokuje kyselinu listovou, doplňuje se k němu FOLÁT** — tím se zmírní nežádoucí účinky (postižení sliznic, útlum dřeně), aniž by se ztratil léčebný efekt. ⚠️ **Zubařsky: metotrexát způsobuje afty a ulcerace v ústech (mukozitidu) — je to typický projev.**
+- **Sloučeniny zlata** — ⚠️ **účinek nastupuje až po čtyřech měsících a mají závažnou toxicitu včetně útlumu kostní dřeně.** Dnes historie.
+- ⚠️ **Chlorochin a hydroxychlorochin jsou původně ANTIMALARIKA** (viz otázka 90) — **objevilo se náhodou, že tlumí i autoimunitní zánět.** **Používají se i u systémového lupus erythematodes.**
+- **Penicilamin** — chelatační látka, používá se i u Wilsonovy choroby (viz otázka o těžkých kovech).
+**Monoklonální protilátky = biologická léčba** (viz obecka O35). ⚠️ **Míří přímo na jeden konkrétní prozánětlivý CYTOKIN — tedy signální molekulu, kterou si imunitní buňky předávají povely.** **Nasazují se až tehdy, když klasické DMARD nestačí**, protože jsou drahé a nesou riziko infekcí.
+- ⚠️ **Inhibitory TNF-alfa (infliximab, adalimumab, etanercept, golimumab) jsou nejrozšířenější** — u revmatoidní i psoriatické artritidy, Crohnovy nemoci a psoriázy. ⚠️ **A vzpomeň si na obecku O35: TNF-alfa drží pohromadě granulom, takže před jejich nasazením se musí vyloučit latentní tuberkulóza.**
+- **Inhibitory IL-1: anakinra, a kanakinumab — ten se používá u atak dnavé artritidy.**
+- **Inhibitor IL-6: tocilizumab.**
+- **Antagonisté IL-2: basiliximab a daklizumab — u prevence akutní rejekce transplantátu.**
+**Derivancia** (*derivare* = odvádět) = **kafr a mentol v mastech, které místně zvýší prokrvení.** ⚠️ **Zdroj je hodnotí střízlivě — jsou to jen doplňky základní léčby**, ne terapie.
 
 🔑 **NSA tlumí příznaky, DMARD zpomalují nemoc.** To je celý rozdíl.
 ⚠️ **Metotrexát je antagonista kyseliny listové** — proto se k němu doplňuje folát.
@@ -339,6 +378,26 @@ A tady je klasická chytačka, kterou je dobré říct sama: **alopurinol je lé
 **Urikosurika napomáhají vylučování.** Je dobré vysvětlit proč jsou potřeba: **kyselina močová je v ledvinách z velké části reabsorbována — jen asi deset procent filtrovaného množství se dostane do moči.** Zástupcem je **probenecid, inhibitor tubulární reabsorpce blokádou transportérů pro kyselinu močovou** — je to tentýž probenecid, který blokádou tubulární sekrece prodlužuje hladiny penicilinu.
 
 Nakonec je důležitá **životospráva — omezení jídel bohatých na puriny, omezení alkoholu a redukce nadváhy**.“
+
+💬 **Ať to dává smysl**
+**Dna** je onemocnění z **hyperurikemie, tedy vysoké hladiny kyseliny močové v krvi.** ⚠️ **Kyselina močová je konečný produkt rozkladu PURINŮ** — bází z DNA a RNA. **Když je jí v krvi příliš, vysráží se v podobě ostrých krystalků do kloubu** (typicky palce u nohy) → **imunitní buňky na ně zaútočí → vznikne prudký, extrémně bolestivý zánět.**
+⚠️ **Tři možné příčiny hyperurikemie — a je hezké, že pokrývají všechny logické možnosti: buď se jí VYRÁBÍ moc, nebo se jí MÁLO ODSTRAŇUJE:**
+1. **Genetická porucha metabolismu purinů** (uráty se ukládají do chrupavek a kloubů).
+2. **Nadměrný rozpad nukleotidů** — typicky **při rozpadu velkého množství buněk**, tedy u nádorových onemocnění a při chemoterapii.
+3. **Snížené vylučování** ledvinami — nejčastější příčina.
+⚠️ **Celou léčbu si rozděl podle jediné otázky: hasím požár, nebo mu předcházím? Tohle je nejdůležitější rozlišení v otázce.**
+**AKUTNÍ ZÁCHVAT = potlač zánět a bolest:**
+- **NSA jsou lékem první volby.**
+- ⚠️ **Kolchicin je MITOTICKÝ JED — brání tvorbě mikrotubulů.** **A mikrotubuly potřebuje leukocyt k tomu, aby se dokázal pohybovat.** ⚠️ **Kolchicin tedy nezasahuje do kyseliny močové vůbec — jen zabrání bílým krvinkám, aby se do kloubu dostaly, a tím uhasí zánět.** **Typickým nežádoucím účinkem jsou náhlé profuzní průjmy** — a je to logické: **mitotický jed zasáhne i rychle se dělící buňky střevní sliznice.** *(Vzpomeň si na obecku O31 — rychle se dělící tkáně jsou vždycky nejzranitelnější.)*
+- **Při neúspěchu glukokortikoidy nitrosvalově nebo přímo do kloubu.**
+**DLOUHODOBÁ LÉČBA = sniž hladinu kyseliny močové:**
+- ⚠️ **Inhibitory xantinoxidázy — ALOPURINOL a novější febuxostat.** **Xantinoxidáza je enzym, který na konci rozkladu purinů vyrábí kyselinu močovou. Zablokuješ ho → kyseliny močové se tvoří méně.**
+- **Urikosurika (probenecid) — vyženou ji močí.** ⚠️ **A tady stojí za to vysvětlit, proč jsou potřeba: kyselina močová se v ledvinách z velké části VSTŘEBÁVÁ ZPĚT — do moči se dostane jen asi 10 % z toho, co se profiltruje.** **Probenecid blokuje ty transportéry, takže se kyselina močová nemůže vrátit a odejde.**
+- 🔑 **Zajímavá souvislost: je to TENTÝŽ probenecid, který blokádou tubulární sekrece prodlužuje hladiny penicilinu** (viz obecka O20). **Jednou blokuje cestu ven pro penicilin, podruhé cestu zpět pro kyselinu močovou.**
+⚠️ **A teď klasická chytačka, kterou stojí za to říct SAMA od sebe: ALOPURINOL SE NEPODÁVÁ PŘI AKUTNÍM ZÁCHVATU — je to lék pro období mezi záchvaty.**
+**Vysvětlení, proč by dokonce uškodil: náhlá změna koncentrace kyseliny močové rozkolísá rovnováhu mezi krystaly v kloubu a roztokem — krystaly se začnou rozpouštět a uvolňovat, což zánět ještě rozdmýchá.** ⚠️ **Proto se alopurinol nasazuje až po odeznění ataky — a naopak, pokud ho pacient už bere, při záchvatu se nevysazuje.** *[obecné znalosti]*
+**Cílová hodnota je pod 360 µmol/l** — pod ní se krystaly přestávají tvořit a ty stávající se pomalu rozpouštějí.
+**Životospráva má reálný podíl: omezit potraviny bohaté na puriny** (vnitřnosti, maso, mořské plody), ⚠️ **omezit alkohol — hlavně pivo, protože obsahuje puriny A zároveň zhoršuje vylučování kyseliny močové** — **a zredukovat nadváhu.**
 
 🔑 **Alopurinol je prevence, ne hasicí přístroj.** Na záchvat NSA nebo kolchicin.
 ⚠️ **Kolchicin zastaví migraci leukocytů, protože jim rozbije mikrotubuly** — proto působí i jako mitotický jed a dělá průjmy.
@@ -366,6 +425,27 @@ Za zmínku stojí propojení: **cyklosporin je zároveň zařazen ve skupině je
 Z vitaminů stojí za zmínku **vitamin D — jeho receptor se nachází přímo v buňkách imunitního systému** a pacienti se závažným průběhem infekcí horních cest dýchacích mají téměř neměřitelné hladiny.
 
 Z léčiv na recept je to **imiquimod, chemoterapeutikum k lokální aplikaci ve formě krému, které protinádorově působí především indukcí interferonu alfa** a používá se u **malých povrchových bazocelulárních karcinomů a condylomat**; dále **isoprinosin, syntetický purinový derivát s imunomodulačním a antivirovým účinkem, který zvyšuje počet NK buněk** a používá se u recidivujícího herpesu; **bakteriální lyzáty, které zvyšují hladiny T-lymfocytů a IgA** a slouží k profylaxi recidivujících respiračních infekcí; a **vakcíny**.“
+
+💬 **Ať to dává smysl**
+⚠️ **Otázku otevři tou větou o tenké hranici, protože je to skutečně tak: imunitní systém není jeden vypínač.** **Potlačíš-li jednu jeho složku, jiná se může naopak rozjet** — proto se mluví o **imunomodulaci**, ne o prostém zapnutí a vypnutí.
+⚠️ **A druhá věta, kterou stojí za to říct nahlas: imunosuprese je vždycky OBCHOD.** **Nemůžeš vypnout jen tu část imunity, která odmítá transplantát nebo napadá vlastní tkáň.** **Vypneš i obranu proti infekcím a proti nádorům.** **Proto pacienti po transplantaci umírají na infekce a mají výrazně vyšší výskyt nádorů.**
+🔑 **A přímý důkaz té ceny je v obecce O31: CYKLOSPORIN je zařazen ve skupině 1 karcinogenů podle IARC** — tedy **prokázaný humánní karcinogen, vedle azbestu a benzenu.** **Řekni to — je to konkrétní a ukazuje, že rozumíš tomu, co imunosuprese stojí.**
+**Čtyři skupiny imunosupresiv:**
+- **Glukokortikoidy** — široké protizánětlivé spektrum, **působí především na BUNĚČNOU imunitu, méně na humorální (protilátkovou)**, a **brání tvorbě prozánětlivých interleukinů 1, 6 a tvorbě IL-2.**
+- **Cytotoxická léčiva** — ⚠️ **oba zástupci jsou PROLÉČIVA:** **azathioprin se mění na merkaptopurin a inhibuje syntézu purinů de novo** (viz otázka 101), **mykofenolát-mofetil tlumí proliferaci lymfocytů, tvorbu protilátek i buněčnou migraci.** ⚠️ **Principem je zasáhnout buňky, které se rychle dělí — a lymfocyt při imunitní reakci se dělí velmi rychle.**
+- ⚠️ **„Antibiotika s imunosupresivním účinkem" — cyklosporin, takrolimus, sirolimus, everolimus.** *(Název je historický: původně to byly látky produkované plísněmi a bakteriemi.)* **U nich musíš znát tři věci a všechny spolu souvisejí:**
+ 1. ⚠️ **Vyžadují terapeutické monitorování hladin** — mají **úzké terapeutické okno** (viz obecka O23): **málo = rejekce transplantátu, moc = toxicita.** **Obojí je katastrofa.**
+ 2. ⚠️ **Metabolizuje je CYP3A4** → **obrovské množství interakcí.** **Makrolid, azolové antimykotikum nebo grapefruit jim hladinu vystřelí nahoru; rifampicin nebo třezalka ji srazí dolů a pacient přijde o štěp.** *(Viz obecka O19.)*
+ 3. **Rizika: nefrotoxicita, neurotoxicita a arteriální hypertenze.**
+ ⚠️ **Zubařsky navíc: cyklosporin je jednou z hlavních příčin HYPERPLAZIE DÁSNÍ** — spolu s fenytoinem a blokátory kalciových kanálů (viz Specka I, otázka 53). *[obecné znalosti]*
+**Rejekce** = **odmítnutí transplantátu imunitním systémem příjemce**, který cizí tkáň rozpozná a napadne. **Hlavní indikací imunosupresiv je právě její prevence a léčba**, dále autoimunitní onemocnění.
+**Imunostimulancia** jsou druhá strana mince a zdroj je dělí prakticky — **volně prodejná (přírodní látky a vitaminy) a vázaná na recept.**
+⚠️ **Vitamin D stojí za zmínku, protože je to hezký důkaz, že to není jen „vitamin na kosti": jeho RECEPTOR je přímo v buňkách imunitního systému.** **A pacienti se závažným průběhem respiračních infekcí mívají téměř neměřitelné hladiny.**
+**Z receptových:**
+- **Imiquimod** — krém, který ⚠️ **protinádorově působí hlavně tím, že v místě INDUKUJE INTERFERON ALFA** — tedy nezabíjí buňky přímo, **ale přivolá na ně imunitu.** Používá se u **malých povrchových bazocelulárních karcinomů a u kondylomat.**
+- **Isoprinosin** — purinový derivát s imunomodulačním a antivirovým účinkem, **zvyšuje počet NK buněk**; u recidivujícího herpesu.
+- ⚠️ **Bakteriální lyzáty** — **rozdrcené kousky bakterií, které se podají ústy, aby imunitu „natrénovaly"**; zvyšují T-lymfocyty a IgA a slouží k **profylaxi recidivujících respiračních infekcí.**
+- **Vakcíny** — nejúčinnější a nejcílenější imunostimulace vůbec.
 
 🔑 **Cyklosporin a takrolimus: CYP3A4 + úzké okno = povinné měření hladin.**
 ⚠️ **Imunosuprese je vždycky obchod** — potlačíš rejekci a zaplatíš infekcemi a nádory.
