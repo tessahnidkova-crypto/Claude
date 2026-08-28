@@ -702,6 +702,22 @@ Z anxiolytik se od **benzodiazepinů** ustupuje kvůli riziku závislosti. **Lé
 
 Je třeba zdůraznit, že **přínos tokoferolu a Ginkgo biloba se v kontrolovaných studiích neprokázal**, a stejně tak **u nootropik, jako je piracetam nebo vinpocetin, nebyl účinek prokázán randomizovanou studií**."
 
+💬 **Ať to dává smysl**
+**Alzheimerova choroba** = nejčastější příčina demence. **V mozku se dějí dvě věci: hromadí se plaky beta-amyloidu MEZI buňkami a neurony postupně odumírají** — a nejvíc jich ubývá právě mezi těmi, které vyrábějí **acetylcholin**.
+⚠️ **Amyloid je EXTRAcelulární, tedy vně buněk** — plete se to s **tau-proteinem, který se hromadí uvnitř neuronů**. *[obecné znalosti]*
+**A z toho druhého nálezu, tedy z chybějícího acetylcholinu, vychází celá léčba. Zamysli se, co se s tím dá dělat:**
+- **Vyrobit nové neurony?** Nejde.
+- **Dodat acetylcholin zvenku?** Nejde — neprojde do mozku a rozložil by se dřív.
+- **Zbývá jediné: zpomalit jeho odbourávání**, aby to málo, co ještě vzniká, **vydrželo v synapsi déle.**
+**Proto jsou kognitiva inhibitory acetylcholinesterázy** — je to úplně stejný mechanismus jako u nepřímých cholinomimetik z otázky 38. **Jen se tady používá v mozku místo na svalu**, takže musí projít hematoencefalickou bariérou.
+**Kognitiva** = léky zlepšující **kognitivní funkce** (paměť, pozornost, orientace).
+**Rozdíl mezi zástupci je v tom, kolik enzymů blokují:**
+- **Rivastigmin** blokuje **oba** — acetylcholinesterázu i **butyrylcholinesterázu**, druhý enzym, který acetylcholin taky odbourává a jehož podíl s postupem nemoci roste.
+- **Donepezil a galantamin** blokují **jen acetylcholinesterázu** a jsou vhodnější v **počátečním stadiu**.
+**Memantin má úplně jiný mechanismus a je dobré to zdůraznit:** je to **nekompetitivní antagonista NMDA receptorů**, tedy receptorů pro **glutamát** — hlavní budivý mediátor. **U Alzheimera je glutamátu nadbytek a ten neurony postupně „upovídá k smrti" (excitotoxicita).** Memantin tenhle šum utlumí. **Protože působí jinou cestou než kognitiva, dají se kombinovat a účinky se sčítají (aditivní účinek).**
+⚠️ **Léčba je čistě symptomatická — odumírání neuronů nezastaví.** A z toho plyne nepříjemný, ale logický důsledek, který stojí za to říct: **s postupem nemoci účinnost klesá, protože když už neurony nejsou, není co inhibovat.** Nemáš co šetřit, když se acetylcholin nemá kde tvořit.
+⚠️ **Větu o tokoferolu (vitaminu E) a Ginkgo biloba řekni sama od sebe** — je to typická doplňující otázka a je to hezký příklad **evidence-based přístupu**: obojí se roky prodávalo na paměť, **ale v kontrolovaných studiích se přínos NEPROKÁZAL.** Totéž platí pro **nootropika (piracetam, vinpocetin)** — **jejich účinnost nebyla prokázána randomizovanou studií.** *(Je to zároveň hezká vazba na obecku O4: bez randomizace a zaslepení nevíš nic.)*
+
 🔑 **Amyloid je EXTRAcelulární** — to se plete.
 🔑 **Rivastigmin = oba enzymy. Donepezil a galantamin = jen AChE. Memantin = úplně jiný mechanismus, NMDA.**
 ⚠️ **Léčba je čistě symptomatická a nezastaví umírání neuronů** — proto účinnost s progresí klesá: když neurony nejsou, není co inhibovat.
@@ -723,6 +739,22 @@ U morfinu je důležité, že jeho metabolity **morfin-3-glukuronid a morfin-6-g
 
 Podstatné je, že **analgezie, útlum dechu, euforie i závislost sedí na tomtéž mí receptoru** — proto nelze vyrobit opioid, který silně tlumí bolest a přitom netlumí dech a nevyvolává závislost."
 
+💬 **Ať to dává smysl**
+**Opium** = zaschlá šťáva z nezralých makovic máku setého. **Opiát** = látka přímo z opia (morfin, kodein). **Opioid** = širší pojem, jakákoli látka působící na opioidní receptory, včetně syntetických. **Endorfiny** jsou naše vlastní opioidy — **ty receptory tam nejsou kvůli makovicím, tělo má vlastní systém tlumení bolesti a morfin ho jen zneužívá.** *[obecné znalosti]*
+**Tři receptory — a stačí umět, co dělá každý:**
+- ⚠️ **μ (mí)** — **nejdůležitější: analgezie, útlum dechu, euforie a ZÁVISLOST.**
+- **δ (delta)** — analgezie hlavně na periferii.
+- **κ (kappa)** — spinální analgezie, ale **dysforie** (nepříjemný, úzkostný stav — tedy opak euforie).
+⚠️ **A tady je nejcennější myšlenka celé otázky, kterou stojí za to říct nahlas.** Podívej se, co všechno sedí na tom **jednom** receptoru μ: **analgezie, útlum dechu, euforie i závislost.** **Nejsou to čtyři různé mechanismy — je to jeden a tentýž.** A proto **nikdy nepůjde vyrobit opioid, který silně tlumí bolest, ale netlumí dech a nevyvolává závislost.** Nemůžeš si vybrat jen ty hezké účinky — **jsou to dvě strany téže mince.** Tohle vysvětluje celou opioidní krizi jednou větou.
+**Proč tlumí dech — mechanismus stojí za to znát přesně:** dýchání řídí dechové centrum podle **hladiny CO₂ v krvi** — když CO₂ stoupne, centrum nařídí dýchat víc. **Opioid sníží citlivost centra na CO₂**, takže centrum přestane reagovat. **Pacient nedýchá ne proto, že by nemohl, ale proto, že mu mozek nedal povel.** Proto se dá útlum probrat oslovením — a proto usínající pacient přestane dýchat úplně.
+⚠️ **Tolerance se vyvine na všechno KROMĚ ZÁCPY A MIÓZY** — a obojí má praktický dopad:
+- **Zácpa neustoupí nikdy** → **proto se laxativum nasazuje HNED spolu s opioidem, ne až když zácpa přijde.** Je to jediný nežádoucí účinek, na který si tělo nezvykne.
+- **Mióza taky nikdy** → **a proto je zúžená zornice spolehlivý diagnostický znak i u dlouhodobého uživatele.**
+⚠️ **Mióza při intoxikaci, mydriáza při abstinenci** — přesně obráceně. **Zapamatuj si to takhle: intoxikovaný je „malý a schoulený", abstinující je „vytřeštěný".** Je to nejcennější klinický znak v celé otázce.
+**Morfin a jeho metabolity — kde je zrada:** morfin se v játrech konjuguje na **morfin-3-glukuronid a morfin-6-glukuronid**. ⚠️ **A na rozdíl od většiny konjugátů, které jsou neúčinné (viz obecka O17), tyhle jsou AKTIVNÍ a mají DELŠÍ poločas než sám morfin.**
+⚠️ **Klinický důsledek je smrtelný a stojí za to ho říct: metabolity se vylučují LEDVINAMI.** U pacienta se selhávajícími ledvinami se **morfin-6-glukuronid hromadí** — pacient dostane běžnou, „bezpečnou" dávku a **přestane dýchat za několik hodin.** *(Proto se u renální insuficience preferuje oxykodon — viz otázka 61.)*
+**Modrý pruh** = zvláštní recept s modrým pruhem pro omamné a psychotropní látky z tabulky I lékopisu (viz obecka O1 a O3), s přísnou evidencí.
+
 🔑 **INTOXIKACE = MIÓZA. ABSTINENCE = MYDRIÁZA.** Nejcennější diagnostický znak.
 ⚠️ **Laxativum se nasazuje hned spolu s opioidem**, ne až když zácpa přijde — na zácpu se tolerance nevyvine nikdy.
 ⚠️ **Morfin-6-glukuronid se hromadí při selhání ledvin** → pacient přestane dýchat hodiny po „bezpečné" dávce.
@@ -738,6 +770,24 @@ Podstatné je, že **analgezie, útlum dechu, euforie i závislost sedí na tomt
 Z **antagonistů** se **naloxon podává pouze nitrožilně** a je lékem první volby při útlumu dechu. **Naltrexon se podává pouze perorálně** a používá se u závislostí. **Metylnaltrexon do mozku neproniká**, takže zruší zácpu a analgezii ponechá.
 
 **Parciální agonisté — buprenorfin, nalbufin a pentazocin — mají nižší návykovost, ale rovněž stropový efekt.**"
+
+💬 **Ať to dává smysl**
+**Stropový efekt („ceiling effect") — nejdůležitější pojem otázky:** u **silných** opioidů platí, že **čím víc dáš, tím větší je účinek** (a tím větší riziko). U **slabých** opioidů a u **parciálních agonistů** ale existuje **strop: po dosažení určité dávky už další zvyšování účinek nezvýší** — jen přibudou nežádoucí účinky.
+**Proč to tak je: parciální agonista neumí receptor otočit naplno** (vnitřní aktivita mezi 0 a 1, viz obecka O21). **I kdybys obsadila všechny receptory, dostaneš jen ten poloviční účinek.** ⚠️ **Je to zároveň bezpečnostní pojistka (těžko se předávkuješ) i omezení (na silnou bolest to prostě nestačí).**
+**Silné opioidy, každý s důvodem, proč existuje:**
+- **Fentanyl** — mnohonásobně silnější než morfin, **rychlý nástup** → náplasti na chronickou bolest a **rozpustné pastilky na průlomovou bolest** (= náhlá bolest, která se objeví i při dobře nastavené léčbě).
+- **Sufentanil** — ještě silnější, používá se v anesteziologii.
+- ⚠️ **Oxykodon — vhodný i při renální insuficienci**, protože **nemá aktivní metabolity, které by se hromadily** (na rozdíl od morfinu, viz otázka 60). **Tohle je přesně ta věc, kterou zkoušející rádi slyší, protože propojuje dvě otázky.**
+- **Pethidin** — má **toxický metabolit norpethidin**, který se hromadí a **může vyvolat křeče** → **nehodí se k dlouhodobému podávání.**
+- **Metadon** — **substituční léčba závislosti.**
+⚠️ **Proč se závislost na opioidu léčí jiným opioidem — je to nejlepší část otázky, protože to zní absurdně, dokud to nevysvětlíš:** závislost živí **rychlý nástup** (ten „rush", nárazová odměna) a **abstinenční příznaky**, které nutí brát dál. **Metadon má obojí naopak: nastupuje pomalu — takže NEDÁ ODMĚNU — a má dlouhý poločas, takže NEVZNIKNOU ABSTINENČNÍ PŘÍZNAKY.** Tělo je uspokojené, ale hlava nedostane nic, co by chtěla opakovat. **Přeruší se tím kruh, ne závislost sama.**
+**Slabé opioidy:**
+- ⚠️ **Kodein je PROLÉČIVO** (viz obecka O26) — **sám bolest netlumí. Asi 10 % se v játrech přemění enzymem CYP2D6 na morfin — a teprve ten účinkuje.** A z toho plyne obojí naráz: **pomalému metabolizátorovi kodein nezabere vůbec** (nevznikne morfin) a **ultrarychlému může způsobit útlum dechu** (vznikne ho příliš). **Proto je dnes zakázaný u kojících matek a u dětí do 12 let** — popsala se úmrtí kojenců, kterým se morfin dostal do mléka.
+- ⚠️ **Tramadol je atypický a ta odlišnost je celá pointa:** kromě slabého opioidního účinku **blokuje zpětné vychytávání noradrenalinu a serotoninu** — tedy funguje **jako antidepresivum**, protože i tímhle mechanismem se bolest tlumí (sestupné dráhy v míše, viz otázka 57). **A protože jen menší část jeho účinku je opioidní, NEDĚLÁ zácpu a netlumí dech tak jako ostatní.** ⚠️ *Cena za to je riziko **serotoninového syndromu** při kombinaci s SSRI.*
+**Antagonisté — a rozdíl mezi nimi je čistě farmakokinetický:**
+- **Naloxon jen NITROŽILNĚ.** Perorálně by ho **játra při prvním průchodu zlikvidovala** (first-pass efekt, obecka O18). Je to **lék první volby při útlumu dechu** — účinek do minuty. ⚠️ *Má ale krátký poločas, takže se pacient může po odeznění znovu utlumit — proto se musí sledovat.*
+- **Naltrexon jen PERORÁLNĚ** — má dobrou dostupnost v tabletě a **dlouhý účinek**, proto se hodí k dlouhodobému udržení abstinence.
+- ⚠️ **Metylnaltrexon je nejelegantnější lék v celé otázce:** je to naltrexon, kterému **přidali trvalý elektrický náboj (kvartérní dusík).** **Nabitá molekula neprojde hematoencefalickou bariérou** (viz obecka O10). **Takže zablokuje opioidní receptory ve STŘEVĚ — a tím zruší zácpu — ale do mozku se nedostane, takže analgezii nechá netknutou.** Jedna změna v molekule a máš přesně to, co chceš.
 
 🔑 **Naloxon jen i.v., naltrexon jen p.o.** Přesně opačně.
 🔑 **Metylnaltrexonu přidali náboj, aby nešel do mozku.**
