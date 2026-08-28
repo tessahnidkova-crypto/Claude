@@ -570,6 +570,28 @@ Jádrem otázky jsou **čtyři dopaminergní dráhy**. Blokáda **mezolimbické*
 
 **Atypická antipsychotika druhé generace** mají **méně extrapyramidových účinků a působí i na negativní příznaky**. Patří sem SDA jako **risperidon**, skupina **MARTA — klozapin a olanzapin**, u nichž je typická **sedace a nárůst hmotnosti**, a **aripiprazol**, který je parciálním agonistou, takže se označuje jako stabilizátor dopaminu."
 
+💬 **Ať to dává smysl**
+**Nejdřív rozliš dvě skupiny příznaků schizofrenie, protože bez toho zbytek nedává smysl:**
+- **Pozitivní = co má pacient NAVÍC**, co zdravý nemá — **halucinace, bludy, dezorganizované myšlení.**
+- **Negativní = co pacientovi CHYBÍ** — **vůle, emoce, zájem, řeč, schopnost se radovat.**
+*Pozitivní neznamená „dobré" a negativní „špatné" — je to jen ve smyslu plus a minus.* **Negativní příznaky bývají pro život horší**, protože z pacienta udělají někoho, kdo nevstane z postele — a **typická antipsychotika je neřeší vůbec.**
+**Celá otázka stojí na čtyřech dopaminových drahách — a je to nejelegantnější kus specky, protože vysvětluje nežádoucí účinky bez jediného memorování.**
+**Myšlenka je tahle: lék je chemikálie rozpuštěná v krvi. Nemá jak poznat, do které dráhy patří.** Doputuje do všech čtyř a **ve všech udělá totéž — zablokuje dopamin.** Rozdíl je jen v tom, **co která dráha řídí:**
+| Dráha | Co normálně dělá | Co udělá blokáda |
+|---|---|---|
+| **Mezolimbická** | podílí se na vzniku psychotických příznaků | ✅ **to je léčba** |
+| **Nigrostriatální** | plynulost pohybu (viz otázka 54) | **parkinsonismus, extrapyramidové příznaky** |
+| **Area postrema** | spouští zvracení | **potlačí zvracení** *(vlastně užitečné)* |
+| **Tuberoinfundibulární** | **brzdí prolaktin** | **prolaktin se uvolní → hyperprolaktinemie** |
+**Jedna blokáda je tedy léčba a tři jsou vedlejší účinky — z toho samého mechanismu.** Přesně tuhle větu chtějí slyšet.
+**Extrapyramidové příznaky** = poruchy hybnosti z bazálních ganglií: **ztuhlost, třes, neklid nohou (akatizie), křeče svalů (dystonie)** a po letech **tardivní dyskineze** — mimovolné pohyby úst a jazyka, které už bývají trvalé. ⚠️ **Zubařsky to znamená pacienta, který nedokáže udržet ústa v klidu.**
+**Hyperprolaktinemie** — vysvětli mechanismus, protože je hezký: **prolaktin je jediný hormon hypofýzy, který se neřídí uvolňováním, ale BRZDĚNÍM — a tou brzdou je právě dopamin.** Když dopamin zablokuješ, **brzda povolí a prolaktin vyletí.** Odtud **galaktorea (tvorba mléka), vynechání menstruace a sexuální dysfunkce — a to i u mužů, kteří dostanou gynekomastii.**
+⚠️ **Antipsychotický účinek nastupuje až za týdny**, přestože receptory jsou obsazené během hodin. **Musí totiž dojít k přestavbě receptorů a signálních drah** — je to stejný jev jako u antidepresiv (viz otázka 56).
+**Typická vs. atypická:**
+- **Typická (1. generace)** — blokují hlavně D2. **Zaberou na pozitivní příznaky, na negativní ne, a mají hodně extrapyramidových účinků.** Dělí se na **sedativní** (chlorpromazin — zajímavost k zapamatování: **bylo to vůbec první antipsychotikum a původně se vyvíjelo jako ANTIHISTAMINIKUM**, psychiatrický účinek se objevil náhodou) a **incizivní** (*incisivní* = pronikavý, ostrý — **haloperidol**, silný na psychózu, málo tlumivý).
+- **Atypická (2. generace)** — sahají i na **serotoninové** receptory, díky čemuž **mají méně extrapyramidových účinků a zabírají i na negativní příznaky.** **SDA** = serotonin-dopamin antagonista (risperidon). **MARTA** = multi-acting receptor targeted antipsychotics, tedy „působí na spoustu receptorů najednou" (**klozapin, olanzapin**) — ⚠️ **za cenu sedace a velkého nárůstu hmotnosti.** **Aripiprazol** je **parciální agonista** (viz obecka O21): **tam, kde je dopaminu moc, ho tlumí, a kde je ho málo, ho doplní** — proto se mu říká **stabilizátor dopaminu**.
+⚠️ **Zubařsky:** antipsychotika mají silný **anticholinergní účinek → xerostomie → mnohočetný kaz.** Psychiatričtí pacienti mají prokazatelně horší chrup a je to z velké části způsobené léčbou.
+
 🔑 **Pozitivní příznaky = co má pacient navíc** (halucinace, bludy). **Negativní = co mu chybí** (vůle, emoce). Typická umí jen pozitivní, atypická obojí.
 ⚠️ **Dopamin brzdí prolaktin** — proto blokáda dopaminu prolaktin uvolní; odtud galaktorea a gynekomastie i u mužů.
 ⚠️ **Zubařsky:** anticholinergní **xerostomie** vede k mnohočetnému kazu u psychiatrických pacientů.
@@ -585,6 +607,21 @@ Jádrem otázky jsou **čtyři dopaminergní dráhy**. Blokáda **mezolimbické*
 Jejich nežádoucí účinky se dají odvodit ze tří receptorů, které blokují navíc. **Muskarinové** — sucho v ústech, zácpa, retence moči, poruchy akomodace, u seniorů delirium. **Adrenergní** — ortostatická hypotenze a reflexní tachykardie. **Histaminové** — sedace a přírůstek hmotnosti. Navíc jsou **kardiotoxické a mají vysokou letalitu při předávkování**.
 
 **Inhibitory monoaminooxidázy** se dělí podle izoformy: **MAO-A** je v neuronech a ve střevě a odbourává všechny monoaminy, **MAO-B** je v mozku a odbourává dopamin. Dnes se používá prakticky jen **moklobemid, který je reverzibilní**."
+
+💬 **Ať to dává smysl**
+**Monoaminy** = **serotonin, noradrenalin a dopamin** — mediátory, jejichž nedostatek se dává do souvislosti s depresí. **Antidepresiva se snaží zvýšit jejich množství v synapsi, a existují na to jen tři způsoby:** *(1)* **zabránit tomu, aby se vysály zpátky do nervu** (blokáda zpětného vychytávání — viz uptake 1 v otázce 40), *(2)* **zablokovat enzym, který je rozkládá** (inhibitory MAO), nebo *(3)* **sáhnout přímo na receptor.**
+**TCA = tricyklická antidepresiva** — název je jen podle chemické struktury (tři kruhy). **Blokují zpětné vychytávání noradrenalinu a serotoninu.**
+⚠️ **Proč účinek trvá 2–4 týdny — a proč je to důkaz, že deprese není „nedostatek serotoninu":** hladina serotoninu v synapsi stoupne **během hodin po první tabletě.** Kdyby stačilo to, **pacient by se cítil líp první den. Trvá to týdny, protože se musí PŘESTAVĚT receptory a změnit genová exprese** — mozek se musí adaptovat, ne jen zaplavit. **Tuhle větu chtějí slyšet, protože ukazuje, že tomu rozumíš, a ne že to jen odříkáváš.**
+**Nežádoucí účinky TCA se neučí — odvodí se ze tří receptorů, na které TCA sahají navíc, kromě těch, na které mají:**
+- **Muskarinové (anticholinergní)** → **sucho v ústech, zácpa, retence moči, rozmazané vidění, u seniora delirium.** Je to přesně anticholinergní syndrom z otázky 39.
+- **α1 adrenergní** → **ortostatická hypotenze** (při postavení klesne tlak, protože se cévy nestáhnou) **a reflexní tachykardie.**
+- **Histaminové (H1)** → **sedace a přírůstek hmotnosti.**
+**🔑 Tuhle trojici „sucho, závrať, spánek" se nauč jednou pořádně** — vrací se u sedativních antipsychotik, u antihistaminik první generace i u mirtazapinu. **Ušetří ti to učení u tří dalších otázek.**
+⚠️ **TCA jsou kardiotoxická a mají vysokou letalitu při předávkování** — blokují sodíkové kanály v srdci (stejně jako lokální anestetika, viz otázka 48) a způsobí smrtelné arytmie. **A protože je berou lidé se sebevražednými myšlenkami, je to velký problém** — proto je dnes vytlačily SSRI (otázka 57).
+**MAO = monoaminooxidáza**, enzym, který monoaminy rozkládá. **Dvě izoformy: MAO-A** je v neuronech a **ve střevní stěně** a rozkládá **všechny monoaminy**; **MAO-B** je hlavně v mozku a rozkládá **dopamin** *(a proto se její inhibitory používají u Parkinsona, viz otázka 54)*.
+⚠️ **Sýrový efekt je nejcennější část otázky, protože je to celý příběh:** ve **zrajících sýrech, uzeninách, červeném víně a kysaném zelí** je **tyramin** — látka, která **vytěsňuje noradrenalin ze zásob** (je to tedy nepřímé sympatomimetikum, viz otázka 44). **Normálně ho ale MAO-A ve střevní stěně rozloží dřív, než se vstřebá — nikdy se do krve nedostane.**
+**Když MAO zablokuješ, tahle obranná zeď padne. Tyramin projde do krve, vytěsní obrovské množství noradrenalinu naráz — a pacient dostane hypertenzní krizi**, která může skončit mozkovým krvácením. **Proto museli pacienti na starých IMAO držet přísnou dietu — a proto se dnes používá už jen moklobemid, který je reverzibilní**: tyramin ho z enzymu vytlačí a MAO se stihne uvolnit.
+⚠️ **Zvýšené riziko sebevraždy v prvních týdnech** — vysvětlení je nepříjemně logické: **antidepresivum vrátí ENERGII dřív, než zvedne NÁLADU.** Těžce depresivní pacient nemá sílu ani vstát, natož něco udělat. Když sílu dostane zpátky a nálada je pořád na dně, **je poprvé schopen ten čin provést.** Proto se v prvních týdnech pacient sleduje nejpřísněji.
 
 🔑 **Tři receptory TCA: sucho, závrať, spánek.** Tatáž trojice se vrací u sedativních antipsychotik i antihistaminik první generace.
 ⚠️ **Sýrový efekt:** **tyramin** ze zrajících sýrů normálně rozloží **MAO-A ve střevě**. Při blokádě MAO tyramin projde, vytěsní obrovské množství noradrenalinu a vznikne **hypertenzní krize**.
@@ -604,6 +641,22 @@ Důležité je, že **nejsou účinnější než tricyklická antidepresiva — 
 
 Z **atypických** se používá **bupropion** u závislosti na nikotinu, **atomoxetin** u ADHD a **mirtazapin**, který má **rychlejší odpověď**, ale způsobuje sedaci a přírůstek hmotnosti."
 
+💬 **Ať to dává smysl**
+**SSRI = Selective Serotonin Reuptake Inhibitor** = **selektivní inhibitor zpětného vychytávání serotoninu.** Dělá tedy **jen jednu jedinou věc** — zablokuje vysavač, kterým se serotonin vrací do nervu, takže zůstane v synapsi déle.
+⚠️ **Nejdůležitější věta otázky, protože je kontraintuitivní: SSRI NEJSOU účinnější než tricyklická antidepresiva.** Deprese se jimi neléčí lépe. **Pokrok nebyl v tom, co UMÍ, ale v tom, co UŽ NEDĚLAJÍ.**
+Vzpomeň si na otázku 56: **TCA sahají navíc na muskarinové, α1 a histaminové receptory — a odtud mají sucho v ústech, závratě, sedaci, přibývání na váze a kardiotoxicitu. SSRI na žádný z těch tří receptorů nesahají.** Proto **nezvyšují hmotnost, netlumí, nedělají sucho a hlavně nejsou kardiotoxická — takže se jimi pacient nezabije.** **A právě to je důvod, proč jsou dnes lékem první volby.**
+**Účinek nastupuje až za 3 týdny** — ze stejného důvodu jako u TCA (přestavba receptorů, ne hladina).
+**Inhibitory CYP450** — SSRI **brzdí jaterní enzymy** (viz obecka O19), takže **zvyšují hladiny jiných léků**, které pacient bere. **Odtud jejich mnoho interakcí** — a je to jejich hlavní nevýhoda.
+**Nežádoucí účinky jsou převážně „serotoninové", tedy z toho, že serotonin není jen v mozku:**
+- **Nauzea a průjem** — většina serotoninu v těle je ve **střevě**, ne v mozku.
+- **Sexuální dysfunkce** — nejčastější důvod, proč pacienti léčbu sami ukončí.
+- ⚠️ **Zvýšená krvácivost** — a tohle je pro tebe zubařsky důležité: **destičky nemají žádný vlastní serotonin, musí si ho nasát z krve právě tím transportérem, který SSRI blokuje.** Bez serotoninu se destičky **hůř shlukují** → **pacient na SSRI krvácí po extrakci déle.** **Není to kontraindikace výkonu, ale je to důvod počítat s delší hemostázou.** *[obecné znalosti]*
+**SNRI** = **Serotonin a Noradrenalin** — blokují oba vysavače. **Noradrenalin se podílí i na tlumení bolesti sestupnými dráhami v míše, a proto mají SNRI navíc analgetický účinek** — venlafaxin a hlavně **duloxetin se používají u chronické a neuropatické bolesti.**
+**Atypická antidepresiva** — každé má vlastní niku: **bupropion** působí na dopamin a noradrenalin a **používá se k odvykání kouření** · **atomoxetin** u **ADHD** · **mirtazapin** má **rychlejší nástup**, ale **silně sedativní a zvyšuje chuť k jídlu** — což z něj dělá ideální lék pro **hubeného, nespavého depresivního pacienta**, kde je vedlejší účinek vlastně výhodou.
+⚠️ **Dvě věci, které se pletou, a rozdíl je přesně opačný:**
+- **Syndrom z vysazení = MÁLO serotoninu.** Vzniká **po náhlém vysazení**, projeví se chřipkovými příznaky, nespavostí, nevolností, závratěmi a divnými „šoky" v hlavě. **Je nepříjemný, ale neohrožuje život.** Řeší se pomalým vysazováním.
+- **Serotoninový syndrom = MOC serotoninu.** Vzniká **při kombinaci** dvou serotonergních léků (SSRI + IMAO, SSRI + tramadol, SSRI + triptan). ⚠️ **Trojice, podle které se pozná: horečka, svalová rigidita a klonus** (rytmické záškuby). **Je to život ohrožující stav.**
+
 🔑 **FINISH = syndrom z vysazení SSRI:** **F**lu-like, **I**nsomnia, **N**ausea, **I**mbalance, **S**ensory, **H**yperarousal.
 🔑 **Bupropion = cigarety · atomoxetin = ADHD · duloxetin = bolest · mirtazapin = hubený nespavý pacient.**
 ⚠️ **Nezaměň: syndrom z vysazení = málo serotoninu** po náhlém vysazení. **Serotoninový syndrom = moc serotoninu** při kombinaci — má **horečku, rigiditu a klonus** a ohrožuje život.
@@ -620,6 +673,18 @@ Základním stabilizátorem nálady je **lithium**. Jeho **mechanismus účinku 
 **Úzkostné poruchy jsou nejčastější duševní poruchy** a je typické, že **pacient přichází se somatickými potížemi**, ne s tím, že má úzkost.
 
 Z anxiolytik se od **benzodiazepinů** ustupuje kvůli riziku závislosti. **Lékem volby jsou SSRI**, které mají lepší poměr přínosu a rizika a jsou účinné u všech úzkostných poruch **kromě specifických fobií**. Benzodiazepin zabere za dvacet minut, SSRI za tři týdny — a přesto je volbou SSRI. Právě proto, že benzodiazepin funguje hned: **okamžitá úleva je sama o sobě odměnou, a to je definice návykové látky.**"
+
+💬 **Ať to dává smysl**
+**Bipolární porucha** = **střídání depresivních a manických fází.** **Mánie** = nadnesená nálada, překotné myšlení, minimum spánku, riskantní chování, velikášství — **je tak silná, že narušuje fungování a často vede k hospitalizaci.** **Hypománie** je totéž, ale mírnější — člověk působí jen jako mimořádně energický, výkonný a upovídaný.
+⚠️ **A právě proto je typ II pětkrát častější, i když zní jako „ta lehčí verze": hypománie se nepozná.** Nikdo nepřijde k lékaři s tím, že se cítí skvěle a stíhá všechno. **Pacient přijde až v depresi — a dostane antidepresivum, které mu ale může hypománii rozjet.** Odtud plyne praktická věc, kterou stojí za to říct: **u depresivního pacienta se musí vždycky ptát, jestli někdy neměl období nadměrné energie.**
+**Thymostabilizér („stabilizátor nálady")** = *thymos* = nálada. **Lék, který sráží obě krajnosti a drží náladu ve středu** — nezvedá jen náladu jako antidepresivum.
+**Lithium** je zvláštní hned dvakrát: **je to obyčejný kov, ne organická molekula**, a ⚠️ **jeho mechanismus účinku dodnes nikdo přesně nezná.** Přesto **je jako jediné prokazatelně snižuje riziko sebevraždy** — a to je jeho hlavní hodnota.
+**Nežádoucí účinky vysvětlují, proč je nepříjemné ho brát:** **třes rukou, polyurie a polydipsie** (lithium poškozuje schopnost ledviny koncentrovat moč, takže pacient hodně močí a hodně pije) a **hypotyreóza** (blokuje uvolňování hormonů štítné žlázy).
+⚠️ **Lithium má extrémně úzké terapeutické okno** (viz obecka O23) — **léčebná a toxická hladina jsou skoro vedle sebe**, proto se **hladina v krvi pravidelně měří.**
+⚠️ **A odtud ta smrtelná interakce s thiazidy, kterou stojí za to umět vysvětlit, ne jen odříkat:** lithium je chemicky **velmi podobné sodíku** a ledvina ho vstřebává tímtéž mechanismem. **Thiazidové diuretikum vyplaví sodík** → tělu sodík chybí → **ledvina začne sodík horlivě šetřit a vstřebávat zpátky** → **a protože lithium od sodíku nerozezná, vstřebá zpátky i lithium.** Hladina vyletí do toxického pásma. **Pacient nezměnil ani jednu tabletu lithia — a přesto se otrávil.**
+**Úzkostné poruchy jsou nejčastější duševní poruchy vůbec** a ⚠️ **pacient s nimi typicky přichází se SOMATICKÝMI potížemi**, ne se slovy „mám úzkost". Přijde s bušením srdce, tlakem na hrudi, závratěmi, dušností nebo bolestí břicha — **a proto se často několikrát vyšetřuje na interně, než se na příčinu přijde.**
+**Fobie** = **strach, o kterém člověk sám ví, že je nepřiměřený — a přesto ho nedokáže ovládnout.** Právě ten náhled je to, co ji odlišuje od bludu, a **je to rozdíl, který chtějí slyšet.**
+⚠️ **Proč je lékem volby SSRI, když zabere až za tři týdny, kdežto benzodiazepin za dvacet minut — a je to nejlepší myšlenka celé otázky:** **právě proto, že benzodiazepin funguje okamžitě.** Úzkost je nepříjemná, tableta ji do dvaceti minut vypne — **a mozek si spojí „vezmu si to, uleví se mi". To je definice odměny, a odměna je motor závislosti.** SSRI takovou okamžitou úlevu nedá, a proto na něm nikdo nezávisí. **Benzodiazepin je tedy krátkodobá berlička na akutní krizi, ne léčba.**
 
 🔑 **Typ I má mánii, typ II jen hypománii** — a paradoxně je typ II pětkrát častější.
 🔑 **Fobie = vím, že je to nesmyslné, a stejně se bojím.** Tenhle rozdíl chtějí slyšet.
