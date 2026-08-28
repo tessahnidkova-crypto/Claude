@@ -154,6 +154,25 @@ Druhou polovinou odpovědi je **orgánová toxicita: myelotoxicita s neutropeni�
 
 Za zmínku stojí, že **cisplatina je zároveň nejsilnějším emetogenem** — uvolňuje serotonin ze sliznice tenkého střeva, a proto se u ní podávají **setrony**.“
 
+💬 **Ať to dává smysl**
+⚠️ **Nejdůležitější věta celé otázky a stojí za to ji říct hned: cytostatikum si NEUMÍ vybrat nádorovou buňku. Umí si vybrat jen buňku, která se RYCHLE DĚLÍ.**
+**Nádor se dělí rychle, takže je zasažen nejvíc — ale zasáhne se i všechno ostatní, co se dělí rychle.** ⚠️ **A z toho se dá odvodit VŠECHNA toxicita, aniž bys ji memorovala** (je to přesně ten seznam z obecky O31):
+- **Kostní dřeň** → **myelotoxicita: neutropenie (infekce), anemie, trombocytopenie (krvácení).**
+- **Sliznice trávicího traktu** → ⚠️ **MUKOZITIDA — afty a bolestivé defekty v ústech.** **Zubařsky zásadní: pacient na chemoterapii má rozbolavělá ústa a zároveň nemá bílé krvinky, takže mu hrozí těžké infekce z ložisek v chrupu. Proto se sanace chrupu dělá PŘED zahájením chemoterapie.** *[obecné znalosti]*
+- **Vlasové folikuly** → **alopecie.**
+- **Pohlavní buňky** → **infertilita.**
+- **Plod** → **teratogenita.**
+**Kdy se chemoterapie podává — čtyři situace a každá má jiný cíl:** ⚠️ **předoperační (neoadjuvantní)** zmenší nádor, aby šel operovat · **pooperační (adjuvantní)** zlikviduje mikrometastázy, které nejsou vidět · ⚠️ **PALIATIVNÍ oddálí progresi, ale NENÍ kurativní** — nevyléčí, jen prodlouží a zlepší život · **podpůrná.** **U solidních nádorů je přitom stále v centru pozornosti CHIRURGIE.**
+**Dvojí cíl léčby, který zdroj uvádí: maximální účinek za přijatelné toxicity A prevence sekundární rezistence.** ⚠️ **A odtud plyne, proč se cytostatika KOMBINUJÍ — stejná logika jako u tuberkulózy a HIV: nádorová buňka by musela zmutovat proti několika mechanismům najednou.**
+⚠️ **Šest skupin podle mechanismu — a všechny útočí na DNA nebo na dělení, jen z různých stran:**
+- **Alkylující látky (platina, nitrosomočoviny)** — **navěsí na DNA reaktivní alkylovou skupinu a udělají KOVALENTNÍ vazbu, tedy nerozbitnou.** **DNA se pak nemůže rozplést a okopírovat.**
+- **Antimetabolity** — ⚠️ **napodobují stavební kameny nukleových kyselin nebo blokují enzymy, které je vyrábějí.** **Antagonisté kyseliny listové (metotrexát) · antagonisté purinů (6-merkaptopurin, azathioprin) · antagonisté pyrimidinů (5-fluorouracil).** *(Všimni si, že ty samé látky se v malých dávkách používají jako imunosupresiva — viz otázky 101, 112, 114.)*
+- **Rostlinné alkaloidy — dvě podskupiny s opačným trikem na tutéž věc, MITOTICKÉ VŘETÉNKO:** ⚠️ **vinkristin a vinblastin (z barvínku) tubulin rozpustí — vřeténko nevznikne. Taxany (z tisu) tubulin naopak ZAFIXUJÍ — vřeténko vznikne, ale nedokáže se rozpojit.** **Obojí zastaví dělení uprostřed.** **Etoposid** tvoří ireverzibilní komplex s topoizomerázou II.
+- ⚠️ **Cytostatická antibiotika (antracykliny) se VMEZEŘUJÍ mezi páry bází DNA** (interkalace) **a blokují topoizomerázu II.** ⚠️ **Jsou KARDIOTOXICKÉ — a to kumulativně, takže existuje celoživotní maximální dávka.**
+- **Hormony a antihormony** a **ostatní** (inhibitory topoizomerázy I, asparagináza).
+⚠️ **Dvě nejtypičtější toxicity, které si zapamatuj jako dvojice: ANTRACYKLINY = SRDCE. CISPLATINA = LEDVINY a ZVRACENÍ.**
+🔑 **A hezké propojení s otázkou 100: cisplatina je nejsilnějším známým EMETOGENEM — poškodí sliznici tenkého střeva, ta vyplaví obrovské množství SEROTONINU a ten přes 5-HT3 receptory spustí zvracení.** ⚠️ **Proto se u ní podávají SETRONY (ondansetron), tedy blokátory 5-HT3 — je to přesně cílená protiléčba, ne obecné antiemetikum.**
+
 🔑 **Cytostatikum si nevybírá nádorové buňky — vybírá si RYCHLE SE DĚLÍCÍ buňky.** Odtud dřeň, sliznice, vlasy a plod.
 ⚠️ **Antracykliny = srdce. Cisplatina = ledviny a zvracení.** Dvě nejtypičtější toxicity.
 
@@ -179,6 +198,22 @@ Krajní možností je **transfuze**, jejímiž riziky jsou **posttransfuzní rea
 
 Zdroj výslovně uvádí, že **přírodní prostředky jako železité víno, játra, červená řepa nebo špenát mají nízkou účinnost**.“
 
+💬 **Ať to dává smysl**
+⚠️ **Celá otázka má jediné pravidlo: anemie není diagnóza, je to PŘÍZNAK. Nikdy se neléčí „anemie" — léčí se to, co chybí.** **Podat železo pacientovi, kterému chybí B12, je zbytečné a naopak.**
+**Erytrocyt potřebuje ke vzniku tři věci: STAVEBNÍ MATERIÁL (železo pro hem), NÁVOD K DĚLENÍ (kyselina listová a B12 pro syntézu DNA) a POVEL (erytropoetin z ledviny).** ⚠️ **Vypadne-li kterýkoli z těch tří článků, vznikne anemie — a léčba je vždycky doplnit právě ten chybějící.**
+**Sideropenická (z nedostatku železa)** — nejčastější. ⚠️ **Podává se DVOJMOCNÉ železo (Fe²⁺), protože trojmocné se vstřebává mnohem hůř.**
+**A z toho, že se železo vstřebává v kyselém prostředí, plyne rovnou celý seznam interakcí, aniž bys je musela memorovat:**
+- ⚠️ **ZLEPŠUJE vstřebání: kyselé prostředí a VITAMIN C** (udrží železo ve dvojmocné formě).
+- ⚠️ **ZHORŠUJE: mléko (vápník), čaj (taniny), antacida a inhibitory protonové pumpy** — všechno, co sníží kyselost nebo železo naváže.
+**Nežádoucí účinky: potíže v trávicím traktu a ČERNÁ STOLICE** — ⚠️ **na tu se pacient MUSÍ upozornit, jinak ji bude považovat za krvácení do trávicího traktu.**
+**Megaloblastová anemie** — *megaloblast* = **abnormálně velký nezralý předchůdce červené krvinky.** ⚠️ **Vzniká proto, že při nedostatku kyseliny listové nebo B12 se buňka nemůže DĚLIT (chybí materiál na DNA), ale ROSTE dál** — nabobtná a nedozraje.
+⚠️ **A tady je nejdůležitější rozlišení otázky: PERNICIÓZNÍ anemie není nedostatek B12 v potravě — je to nedostatek VNITŘNÍHO FAKTORU.**
+**Vnitřní faktor je bílkovina ze žaludeční sliznice, bez které se B12 ve střevě nemá jak vstřebat — je to jeho „vstupenka".** ⚠️ **A proto je perorální podání B12 u perniciózní anemie zbytečné: vitaminu je dost, jen nemá jak projít. MUSÍ se podat INJEKČNĚ, aby se střevo obešlo.**
+🔑 **Ze stejného důvodu inhibitory protonové pumpy snižují vstřebávání B12** (viz otázka 99) — **k jeho uvolnění z potravy je potřeba kyselé prostředí žaludku.**
+**Renální anemie** — ⚠️ **ledvina je orgán, který vyrábí ERYTROPOETIN, tedy povel k tvorbě červených krvinek.** **Při jejím selhání povel prostě nepřijde a dřeň nemá důvod pracovat, i když má všechen materiál.** **Proto se podávají erytropoetiny.**
+**Transfuze je krajní řešení a její rizika stojí za vyjmenování:** **posttransfuzní reakce z protilátek · přetížení oběhu objemem · tvorba protilátek (které komplikují další transfuze) · a přetížení organismu železem** *(protože z rozpadlých krvinek se železo nemá jak vyloučit)*.
+⚠️ **A poctivá věta na závěr, kterou zdroj výslovně uvádí: přírodní prostředky jako železité víno, játra, červená řepa nebo špenát mají NÍZKOU ÚČINNOST.** **Řekni to — je to konkrétní a je to příklad kritického postoje k lidovým doporučením.** *(Mýtus o špenátu vznikl z chyby v desetinné čárce v tabulce z 19. století. — [obecné znalosti])*
+
 🔑 **Zjisti, který článek chybí, a ten doplň.** Železo, folát, B12 nebo erytropoetin.
 ⚠️ **U perniciózní anemie musí být B12 injekčně** — chybí vnitřní faktor, tabletu by nevstřebala.
 
@@ -197,6 +232,24 @@ Základní dělení je na **pozitivní a negativní kontrast**.
 Ten poslední bod se dá hezky propojit s otázkou o štítné žláze: **nadbytek jódu vyvolá hypotyreózu u pacientů s dostatkem jódu a naopak hypertyreózu u pacientů s jeho deficitem.**
 
 **Negativní kontrastní látky naopak záření pohlcují méně než okolí** — jsou to **plyny, tedy vzduch a oxid uhličitý, voda a roztoky cukerných alkoholů, tedy manitol a sorbitol**. V rentgenu se využívají vzácně, častěji v počítačové tomografii.“
+
+💬 **Ať to dává smysl**
+⚠️ **Nejdřív k tomu, proč kontrastní látky vůbec potřebujeme: rentgen zobrazuje ROZDÍLY v tom, jak tkáň pohltí záření.** **Kost pohltí hodně (je bílá), vzduch skoro nic (je černý)** — **ale měkké tkáně, cévy a střevo pohlcují skoro stejně, takže jsou na snímku nerozlišitelnou šedou hmotou.** ⚠️ **Kontrastní látka ten rozdíl uměle vytvoří.**
+**A z toho plyne dělení, které se nemusí učit — jen si ho odvodíš:**
+- **POZITIVNÍ kontrast pohltí VÍC než okolí → na snímku je SVĚTLÝ.**
+- **NEGATIVNÍ kontrast pohltí MÉNĚ než okolí → na snímku je TMAVÝ.**
+⚠️ **Proč pohlcují víc: obsahují prvky s vysokým atomovým číslem — BARIUM a JÓD.** **Čím těžší atom, tím víc záření zachytí.** *[obecné znalosti]*
+**Důležitá farmakokinetická vlastnost: kontrastní látky v těle nezůstávají — setrvají jen po dobu vyšetření a rychle se vyloučí, hlavně ledvinami.** ⚠️ **A přesně proto je ledvina jejich nejzranitelnějším orgánem.**
+**Síran barnatý** — ⚠️ **je NEROZPUSTNÝ, a proto netoxický: projde střevem a odejde, aniž by se cokoli vstřebalo.** **Používá se k vyšetření trávicí trubice.**
+⚠️ **A odtud jeho jediná zásadní kontraindikace — PODEZŘENÍ NA PERFORACI.** **Kdyby stěna byla proděravělá, barium by uniklo do dutiny břišní, kde ho tělo nedokáže odstranit → vyvolá těžkou zánětlivou reakci a srůsty.** **V takovém případě se používá vodou rozpustná jódová látka.** *[obecné znalosti]*
+**Jódované látky se podávají do žíly a jsou klinicky mnohem významnější. Jejich nežádoucí účinky jsou čtyři a každý má jiný mechanismus:**
+- ⚠️ **Alergická až anafylaktická reakce** — riziko je vyšší u astmatiků a alergiků.
+- **Edémy.**
+- **Chemotoxická reakce** — poškození přímo chemickou povahou látky, nezávislé na imunitě. ⚠️ **Sem patří i nefrotoxicita — kontrastem indukovaná nefropatie.** **Proto se před vyšetřením kontroluje funkce ledvin, pacient se hydratuje a u diabetiků se dočasně vysazuje metformin** (riziko laktátové acidózy při zhoršené funkci ledvin — viz Specka I, otázka 81). *[obecné znalosti]*
+- ⚠️ **Ovlivnění štítné žlázy.**
+🔑 **A ten poslední bod se dá hezky propojit s otázkou 116 — a stojí za to to udělat, protože to působí, že látku vidíš v souvislostech:**
+**Jódová kontrastní látka dodá naráz obrovské množství jódu.** ⚠️ **A účinek závisí na tom, v jakém stavu žláza je: u pacienta s DOSTATKEM jódu vyvolá nadbytek paradoxně HYPOTYREÓZU** (Wolff-Chaikoffův efekt — žláza se před zaplavením brání útlumem), ⚠️ **kdežto u pacienta s DEFICITEM jódu vyvolá HYPERTYREÓZU**, protože žláza konečně dostane surovinu a začne vyrábět bez brzdy.
+**Negativní kontrast** — **plyny (vzduch, CO₂), voda a roztoky cukerných alkoholů (manitol, sorbitol).** **V klasickém rentgenu se používají vzácně, častěji v CT** — typicky se voda vypije k odlišení střevních kliček.
 
 🔑 **Pozitivní kontrast pohltí víc, negativní míň.**
 ⚠️ **Jódová kontrastní látka rozhodí štítnou žlázu** a je **nefrotoxická** — proto se před ní kontrolují ledviny.
@@ -218,6 +271,20 @@ Zásadním rozdílem, na kterém otázka stojí, je rozlišení **dezinficienci�
 **Nejčastěji používanými antiseptiky jsou ethanol v koncentraci šedesát až sedmdesát procent, jodofory a chlorhexidin.**
 
 U řady lokálních přípravků platí varování, které se často podceňuje: **snadno se resorbují, a proto při rozsáhlé aplikaci hrozí systémová toxicita**; některé navíc **zvyšují průnik současně aplikovaných látek**.“
+
+💬 **Ať to dává smysl**
+**Externum** = **lék k zevnímu použití.** **Zevní (lokální) léčba působí na místě, celková (systémová) přes krev, fyzikální je chirurgie, fototerapie nebo kryoterapie (vymrazování).**
+⚠️ **Věta, kterou zdroj zdůrazňuje a která se v dermatologii pořád opakuje: úspěch zevní léčby závisí na správné diagnóze, na FÁZI choroby a na KONCENTRACI.** **Tatáž látka může v jedné fázi pomoct a v jiné uškodit** — proto se na mokvající lézi dává něco jiného než na suchou (viz obecka O7: „na mokré mokré, na suché mastné").
+**Průnik kůží** má dvě cesty: ⚠️ **transepidermálně — přes rohovou vrstvu (buď skrz buňky, nebo mezi nimi) — nebo transadnexálně, tedy „zkratkou" vývody potních a mazových žláz a vlasových folikulů.** *Adnexa = přídatné struktury kůže.*
+**Skupiny extern** — názvy si přelož a je to jasné: **antimikrobiální** (proti mikrobům) · **antiseptika** · **antiseboroika** (proti nadměrné tvorbě mazu) · **antihidrotika** (proti pocení, *hidros* = pot) · **antipruriginóza** (proti svědění, *pruritus* = svědění) · **cytostatika** · **fotoprotektiva** (opalovací) · **keratolytika a keratoplastika** · **adstringencia** (stahující, vysušující).
+⚠️ **Keratolytikum vs. keratoplastikum je jádro té dermatologické části a stojí za to to vysvětlit:** *keratos* = rohovina.
+- **Keratolytikum rohovou vrstvu ROZPOUŠTÍ a odstraňuje** — používá se tam, kde je rohoviny moc (bradavice, lupénka, mozoly).
+- **Keratoplastikum naopak podporuje její NORMÁLNÍ TVORBU.**
+⚠️ **A nejlepší je, že u KYSELINY SALICYLOVÉ rozhoduje jen KONCENTRACE: v nízké působí keratoplasticky, ve vysoké keratolyticky.** **Proto je u těchhle látek koncentrační řada tak zásadní — táž látka, opačný účinek.** *(Je to hezká ukázka Paracelsova pravidla z otázky 132.)*
+🔑 **Zásadní rozlišení, na kterém otázka stojí, a je jednoduché: DEZINFICIENCIUM na NEŽIVÉ předměty a povrchy · ANTISEPTIKUM na ŽIVOU tkáň** — kůži, sliznice, rány. ⚠️ **Dezinficiencium může být mnohem agresivnější, protože nemusí šetřit buňky.**
+**Nejčastější antiseptika:** **ethanol v koncentraci 60–70 %** ⚠️ *(a je zajímavé, že vyšší koncentrace funguje HŮŘ — čistý líh bílkovinu na povrchu bakterie okamžitě sráží a vytvoří tím obal, který brání průniku dovnitř; potřebuje se trochu vody. — [obecné znalosti])* · **jodofory** (jód navázaný na nosič, ze kterého se pomalu uvolňuje) · **chlorhexidin.**
+⚠️ **A varování, které se podceňuje: lokální přípravky se snadno resorbují.** **Při aplikaci na velkou plochu — hlavně na porušenou kůži nebo u dítěte, které má velký povrch k hmotnosti (viz obecka O33) — hrozí SYSTÉMOVÁ TOXICITA.** **A některé nosiče navíc zvyšují průnik dalších současně aplikovaných látek.**
+⚠️ **Zubařsky je z celé otázky nejdůležitější CHLORHEXIDIN — základní ústní antiseptikum.** **Váže se na sliznici a na zub a uvolňuje se hodiny, proto působí dlouho (má substantivitu).** ⚠️ **Ale při dlouhodobém užívání má tři typické nežádoucí účinky: HNĚDÉ ZABARVENÍ zubů a jazyka, PORUCHU CHUTI a tvorbu zubního kamene.** **Proto se předepisuje na omezenou dobu, obvykle na dva týdny.** *[obecné znalosti]*
 
 🔑 **Dezinficiencium na věci, antiseptikum na člověka.**
 ⚠️ **Zubařsky:** **chlorhexidin** je základní ústní antiseptikum — a jeho typickým nežádoucím účinkem při dlouhodobém užívání je **hnědé zabarvení zubů a jazyka a porucha chuti**. `[obecné znalosti]`
