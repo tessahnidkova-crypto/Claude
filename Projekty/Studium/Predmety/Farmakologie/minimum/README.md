@@ -1,6 +1,6 @@
 # MINIMUM — co musíš umět, abys prošla
 
-**Pátá vrstva. Pro posledních dní před zkouškou 1. 9. 2026.**
+**Materiál na posledních pár dní před zkouškou 1. 9. 2026.**
 
 ---
 
@@ -8,57 +8,81 @@
 
 Zkouška = **test (50 otázek, potřeba 35 = 70 %) + ústní (1 obecná + 2 speciální)**.
 
-**Test je branka.** Když neprojde test, ústní nebude. A test o 50 otázkách ze 136 témat odměňuje **široký mělký záběr**, ne hloubku v pár tématech. Proto tahle vrstva pokrývá **všech 136 otázek** místo 30 otázek dokonale.
+**Test je branka.** Když neprojde test, ústní nebude. A test o 50 otázkách ze 136 témat odměňuje **široký mělký záběr**, ne hloubku v pár tématech. Proto tahle vrstva pokrývá **všech 136 otázek**.
 
 ---
 
-## Jak je to postavené *(verze 2, po zpětné vazbě 2026-08-28)*
+## ⚠️ MÁŠ DVĚ VERZE — a každá je na něco jiného
 
-⚠️ **První verze byla v odrážkách a byla příliš stručná** — Tessa si musela dohledávat, co pojmy znamenají. **Přepsáno na mluvenou formu s vysvětlením.**
+| | **ZKRÁCENÁ** (`*-zkracene`) | **MLUVENÁ** (`*-mluvena`) |
+|---|---|---|
+| **K čemu** | ⚠️ **NA UČENÍ A ČTENÍ** | ⚠️ **NA ODŘÍKÁNÍ U ZKOUŠKY** |
+| Jak je psaná | souvislé výpisky + **kreslená schémata a tabulky** | **první osoba, plynulá řeč** — přesně to, co řekneš nahlas |
+| Rozsah | **144 stran** | **197 stran** |
+| Kdy po ní sáhnout | **teď, na projetí celé látky** | **den před zkouškou a u otázky, kterou si vytáhneš** |
 
-Každá otázka má **tři části**:
-
-| Část | Co v ní je |
-|---|---|
-| **„Text v uvozovkách"** | **Souvislá odpověď, kterou u zkoušky řekneš NAHLAS.** První osoba, plynulá řeč. Když ji odříkáš s porozuměním, otázka je obhájená. |
-| 💬 **Ať to dává smysl** | **Lidsky vysvětlené všechno, co je v mluveném textu odborně.** Odkud se ten pojem bere, proč to tak je, na co si to napojit. **Nemusíš si k tomu nic dohledávat.** |
-| 🔑 / ⚠️ | Háček, na kterém se to udrží pod tlakem · past, na kterou se zkoušející chytají |
-
-**Jak číst:** nejdřív 💬, pak se vrať k uvozovkám — a ony budou dávat smysl samy.
+**Obě mají stejný obsah a stejné pravidlo: každý odborný pojem je vysvětlený tam, kde se objeví — nemusíš si k tomu nic dohledávat.**
 
 ---
 
 ## Soubory
 
+### Zkrácené výpisky (na učení)
+
+| Soubor | Otázky | Stran |
+|---|---|---|
+| `OBECKA-zkracene` | O1–O35 | 32 |
+| `SPECKA1-A-zkracene` | 36–65 — vegetativum, CNS, analgetika | 27 |
+| `SPECKA1-B-zkracene` | 66–88 — kardiologie, hemostáza, antibiotika | 25 |
+| `SPECKA2-A-zkracene` | 89–110 — chemoterapeutika, dýchací cesty, GIT, závislosti | 28 |
+| `SPECKA2-B-zkracene` | 111–136 — hormony, vitaminy, toxikologie | 32 |
+| **`ZKRACENE-VSE-V-JEDNOM.pdf`** | **všech 136** | **144** + 141 záložek |
+
+### Mluvená verze (na zkoušku)
+
 | Soubor | Otázky | Stran |
 |---|---|---|
 | `OBECKA-mluvena` | O1–O35 | 45 |
-| `SPECKA1-A-mluvena` | 36–65 (vegetativum, CNS, analgetika) | 40 |
-| `SPECKA1-B-mluvena` | 66–88 (kardiologie, antibiotika) | 29 |
-| `SPECKA2-A-mluvena` | 89–103 (chemoterapeutika, dýchací, GIT) | 26 |
-| `SPECKA2-B-mluvena` | 104–119 (závislosti, hormony, imunita) | 29 |
-| `SPECKA2-C-mluvena` | 120–136 (pohlavní, vitaminy, toxikologie) | 28 |
-| **`MINIMUM-VSE-V-JEDNOM.pdf`** | **všech 136** | **197** + záložky |
+| `SPECKA1-A-mluvena` · `SPECKA1-B-mluvena` | 36–88 | 40 + 29 |
+| `SPECKA2-A/B/C-mluvena` | 89–136 | 26 + 29 + 28 |
+| **`MINIMUM-VSE-V-JEDNOM.pdf`** | **všech 136** | **197** + 142 záložek |
 
-⚠️ **Starší verze v odrážkách** (`OBECKA.md`, `SPECKA1-A.md`, `SPECKA1-B.md`) **zůstávají v repu jako archiv** — ale uč se z mluvených.
+⚠️ **Archiv:** `OBECKA.md`, `SPECKA1-A.md`, `SPECKA1-B.md` jsou **stará heslovitá verze** — nahradily je zkrácené. Neuč se z nich.
 
 ---
 
-## Kterou vrstvu kdy
+## Značky v textu
 
-| Vrstva | Rozsah | Kdy |
+| Značka | Co znamená |
+|---|---|
+| **„text v uvozovkách"** | *(jen v mluvené verzi)* souvislá odpověď, kterou řekneš nahlas |
+| 💬 **Ať to dává smysl** | *(jen v mluvené verzi)* lidské vysvětlení všeho odborného |
+| 🔑 | mnemotechnika — na čem to udržíš v hlavě pod tlakem |
+| ⚠️ | past, na kterou se zkoušející chytají, nebo chyba ve tvých zdrojích |
+| **`schéma v rámečku`** | kreslený diagram — mechanismus, na který se dá pověsit celá otázka |
+
+---
+
+## Schémata, která ušetří nejvíc učení
+
+| Schéma | Kde | Co z něj plyne |
 |---|---|---|
-| **`minimum/*-mluvena`** ← jsi tady | ~1,4 str. | **Teď.** Tohle je hlavní materiál. |
-| `tahak/` | ~0,3 str. | Ráno v den zkoušky, poslední průlet |
-| `mluvene/` | ~1,2 str. | Alternativní mluvená verze bez bloků 💬 |
-| `mluvene-podrobne/` | ~2,2 str. | Co ti nesedí a potřebuješ jít do hloubky |
-| `ustni/` | ~1,5 str. | Referenční, když si potřebuješ něco dohledat |
+| **Sympatikus vs. parasympatikus** | Specka I, před 36 | odvodíš z něj **devět otázek** (36–46) bez memorování seznamů |
+| **Iontová past** | obecka O10 | vrací se **pětkrát**: anestezie v zaníceném zubu · alkalizace moči u otravy aspirinem · léčiva u plodu a v mléce · laktulóza u encefalopatie · nikotin v kouři |
+| **Nefron s diuretiky** | Specka I, 69 | proč je furosemid nejsilnější a proč všechna ztrácejí draslík |
+| **Řeka eikosanoidů** | Specka I, 62 | proč kortikoidy fungují líp než NSA a proč NSA zhoršují astma |
+| **Čtyři dopaminové dráhy** | Specka I, 55 | jedna blokáda je léčba, tři jsou nežádoucí účinky |
+| **Hemostáza + cíle léků** | Specka I, před 76 | kde zasahuje antiagregans, antikoagulans, trombolytikum |
+| **Bakteriální buňka + cíle antibiotik** | Specka I, před 82 | celý blok 82–88 v jednom obrázku |
+| **Paracetamol a NAPQI** | obecka O17 | celá otrava i antidotum v jednom diagramu |
+| **Batemanova křivka** | obecka O13 | proč vrchol není konec vstřebávání, ale remíza |
+| **Vana s kýblem a kohoutkem** | obecka O16 | nasycovací vs. udržovací dávka |
 
 ---
 
 ## Zubařské přesahy — kde jsou
 
-Katedra zkouší zubaře; tyhle položky se v materiálu opakovaně objevují a vyplatí se je umět:
+Katedra zkouší zubaře; tyhle položky se opakovaně objevují:
 
 | Téma | Kde |
 |---|---|
@@ -79,13 +103,29 @@ Katedra zkouší zubaře; tyhle položky se v materiálu opakovaně objevují a 
 | **Rtuť → gingivostomatitida · olovo → olověný lem** | Specka II 136 |
 | **Mukozitida po cytostatikách — sanace PŘED chemoterapií** | Specka II 123 |
 | **Kouření → karcinom dutiny ústní, parodontitida, horší hojení** | Specka II 110 |
+| **Reflux → eroze skloviny** · **akromegalie → progenie** | Specka II 100, 115 |
+| **Desmopressin před extrakcí u hemofilie A** | Specka II 115 |
+
+---
+
+## Chyby ve zdrojích, které jsou opravené
+
+| Chyba ve zdroji | Správně | Kde |
+|---|---|---|
+| „oficiální", „obsolentní" | **oficinální**, **obsoletní** | obecka O1 |
+| „oxomukoid" | **orosomukoid** | obecka O14 |
+| tetracykliny inhibují buněčnou stěnu | **inhibují RIBOZOM (30S)** | Specka I 87 |
+| diltiazem = benzodiazepin | **benzothiazepin** | Specka I 70 |
+| verapamil při KI β-agonistů | **β-antagonistů (betablokátorů)** | Specka I 70 |
+| chinolony blokují DNA-polymerázu | **topoizomerázu (gyrázu)** | Specka I 85 |
+| hemofilie = „získaná geneticky" | **vrozený** defekt | Specka I 78 |
 
 ---
 
 ## Jak se to učit
 
-**Nesnaž se to umět napoprvé.** Projeď to rychle celé, pak podruhé. **Dvakrát mělce je lepší než jednou hluboko** — u testu ze 136 témat rozhoduje, jestli téma poznáš, ne jestli o něm umíš mluvit deset minut.
+**Nesnaž se to umět napoprvé.** Projeď zkrácenou verzi rychle celou, pak podruhé. **Dvakrát mělce je lepší než jednou hluboko** — u testu ze 136 témat rozhoduje, jestli téma poznáš, ne jestli o něm umíš mluvit deset minut.
 
-**Až projedeš blok, řekni si o `/zkousej-me`.** Aktivní vybavení je v posledních dnech nejcennější — přečtení materiálu vytváří pocit znalosti, ale ne znalost.
+**Až projedeš blok, řekni si o `/zkousej-me`.** Aktivní vybavení je v posledních dnech nejcennější — **přečtení materiálu vytváří pocit znalosti, ale ne znalost.**
 
-⚠️ **Nechoď do `mluvene-podrobne/`, dokud neprojedeš celé minimum.** Je to lepší materiál, ale na 136 otázek nemáš čas.
+**Den před zkouškou** přejdi na mluvenou verzi u otázek, které ti sedí nejmíň — ta je psaná tak, jak to máš říct nahlas.
