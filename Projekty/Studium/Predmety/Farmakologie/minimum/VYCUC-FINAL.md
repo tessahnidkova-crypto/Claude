@@ -1495,3 +1495,646 @@
 - *Profylaktikum u pacienta s migrénou a hypertenzí?* → **betablokátor nebo kandesartan** — jeden lék řeší obojí; ⚠️ u pacienta s nadváhou spíš topiramát (snižuje hmotnost), u depresivního amitriptylin
 
 ---
+## 66 · Léčiva s pozitivně inotropním účinkem, digoxin
+
+▶ **ZAČNI:** „Pozitivně inotropní znamená **zesílit stah srdce.** Jsou čtyři cesty, jak to udělat, a **všechny končí u jedné věci — u většího množství vápníku v buňce.** Nejvíc se ptáte na digoxin, tak u něj zůstanu."
+
+```
+  DIGOXIN blokuje Na⁺/K⁺-ATPázu
+        ↓
+  sodíku uvnitř buňky PŘIBUDE
+        ↓
+  výměník Na⁺/Ca²⁺ nemá kam sodík vyhodit → přestane vyvážet VÁPNÍK
+        ↓
+  ⚠️ VÁPNÍKU UVNITŘ PŘIBUDE → SILNĚJŠÍ STAH
+  + navíc vagotonický účinek → ZPOMALÍ VEDENÍ V AV UZLU
+```
+
+**KOSTRA:** čtyři skupiny (**glykosidy · dobutamin · inhibitory PDE3 · levosimendan**) → mechanismus digoxinu → **dva účinky: inotropní a vagotonický** → indikace → ⚠️ **toxicita a hypokalemie** → antidotum
+
+**Indikace digoxinu:** **fibrilace síní s rychlou komorovou odpovědí** a srdeční selhání se systolickou dysfunkcí. ⚠️ **Zlepšuje příznaky, ale neprodlužuje život.**
+
+⚠️ **Digoxin má velmi úzké terapeutické okno a hypokalemie jeho toxicitu zvyšuje** — draslík a digoxin **soutěží o stejné vazebné místo na pumpě**, takže při nízkém draslíku se digoxinu naváže víc. **A hypokalemii dělají kličková a thiazidová diuretika, která má srdeční pacient skoro vždycky.** Tahle kombinace je klasická zkoušková otázka.
+
+**Obraz otravy:** nevolnost a zvracení, **porucha barevného vidění — všechno do žluta (xantopsie)**, zmatenost, a hlavně **arytmie** (bigeminie, AV blokády). **Antidotum: protilátky proti digoxinu (Fab fragmenty)** + úprava kalia.
+
+❓ **DOPTAJÍ SE:**
+- *Proč se digoxin musí dávkovat opatrně u seniora?* → **vylučuje se ledvinami a jejich funkce s věkem klesá**; ⚠️ digitoxin se naopak metabolizuje v játrech
+- *Jak vypadají další inotropika?* → **dobutamin** (β1, jen i.v. akutně) · **milrinon** (inhibitor fosfodiesterázy 3 — ⚠️ zvýší cAMP, „inodilatátor") · **levosimendan** (⚠️ senzitizér — zvýší citlivost myofilament k vápníku, aniž by ho přidal)
+- *Proč se inotropika nedávají chronicky?* → ⚠️ **zvyšují úmrtnost** — poháněné srdce se rychleji vyčerpá; proto jsou to léky akutních stavů
+
+---
+
+## 67 · Antiarytmika
+
+▶ **ZAČNI:** „Antiarytmika se dělí podle **Vaughanovy–Williamsovy klasifikace do čtyř tříd podle toho, který iontový kanál blokují.** Řeknu tu klasifikaci a pak zástupce — a **hned na začátku dodám nejdůležitější větu celé otázky: každé antiarytmikum může arytmii také vyvolat.**"
+
+```
+  I.   blokátory Na⁺ kanálů
+       IA  chinidin, prokainamid, ajmalin   — prodlužují akční potenciál
+       IB  LIDOKAIN, mexiletin              — zkracují; ⚠️ komorové arytmie
+       IC  PROPAFENON, flekainid            — ⚠️ KI u strukturálního postižení srdce
+  II.  BETABLOKÁTORY  ⚠️ jediná třída, která prokazatelně snižuje úmrtnost
+  III. blokátory K⁺ kanálů  AMIODARON, sotalol, dronedaron
+       ⚠️ prodlužují QT → riziko torsades de pointes
+  IV.  blokátory Ca²⁺ kanálů  VERAPAMIL, diltiazem
+
+  MIMO KLASIFIKACI: ADENOSIN · digoxin · magnezium · atropin · ivabradin
+```
+
+**KOSTRA:** klasifikace → zástupci a použití → **amiodaron podrobně** → adenosin → ⚠️ **proarytmogenní účinek**
+
+⚠️ **AMIODARON — nejúčinnější, ale nejtoxičtější.** Poločas se počítá na **týdny až měsíce**, protože se ukládá v tucích. **Obsahuje jód** → ⚠️ **tyreopatie (hypo- i hyper-)**, dále **plicní fibróza**, **usazeniny v rohovce**, **fotosenzitivita a modrošedé zbarvení kůže**, hepatotoxicita. Pacient patří na pravidelné kontroly štítné žlázy a plic.
+
+**Adenosin** — ⚠️ **poločas několik sekund**; podává se rychlým bolusem a **na pár vteřin zastaví srdce** → ukončí paroxysmální supraventrikulární tachykardii. Pacienta je nutné předem varovat.
+
+❓ **DOPTAJÍ SE:**
+- *Co ukázala studie CAST?* → ⚠️ **antiarytmika třídy IC po infarktu potlačila extrasystoly, ale ZVÝŠILA úmrtnost** — proto se u strukturálního postižení srdce nepodávají
+- *Co je torsades de pointes a jak se léčí?* → **polymorfní komorová tachykardie na podkladě dlouhého QT** → ⚠️ **magnezium i.v.**, úprava kalia, vysazení vyvolávajícího léku
+- *Které arytmii se říká „lék volby lidokain"?* → **komorové arytmie u akutního infarktu**; ⚠️ na síňové arytmie lidokain nepůsobí
+
+---
+
+## 68 · ACE inhibitory a antagonisté angiotensinu
+
+▶ **ZAČNI:** „Obě skupiny zasahují do **systému renin–angiotensin–aldosteron**, jen v jiném místě. **Rozdíl mezi nimi vysvětlí i jejich nejtypičtější nežádoucí účinek — suchý kašel.**"
+
+```
+  angiotensinogen ──renin──> ANGIOTENSIN I
+                                   │  ACE   ⚠️ ACE je zároveň KININÁZA II
+                                   ↓        (rozkládá BRADYKININ)
+                            ANGIOTENSIN II ──> receptor AT1
+                                                  ↓
+                       stah cév · ALDOSTERON · remodelace · žízeň · ADH
+
+  ACE INHIBITOR ⚠️ zastaví i rozklad bradykininu → bradykinin se hromadí
+                   → SUCHÝ DRÁŽDIVÝ KAŠEL a vzácně ANGIOEDÉM
+  SARTAN        blokuje až receptor AT1 → ⚠️ bradykinin neovlivní → BEZ KAŠLE
+```
+
+**KOSTRA:** systém RAAS → mechanismus obou skupin → **bradykinin jako vysvětlení kašle** → zástupci → indikace → ⚠️ **renoprotekce** → NÚ a kontraindikace
+
+**Zástupci:** ACEI **ramipril, perindopril, enalapril, kaptopril** (⚠️ koncovka **-pril**) · sartany **losartan, valsartan, telmisartan, kandesartan** (⚠️ koncovka **-sartan**).
+
+**Indikace:** hypertenze, **srdeční selhání**, stav po infarktu, ⚠️ **diabetická a proteinurická nefropatie.**
+⚠️ **Renoprotekce vysvětlená:** angiotensin II stahuje hlavně **odvodnou tepénku** glomerulu a drží v něm vysoký tlak. Blokáda ji uvolní → **klesne tlak uvnitř glomerulu → přestane se ničit.** Proto se **na začátku smí kreatinin mírně zvednout — to není selhání, to je žádaný efekt.**
+
+⚠️ **Kontraindikace:** **gravidita (absolutně — poškození ledvin plodu)**, **oboustranná stenóza renálních tepen**, hyperkalemie, angioedém v anamnéze. ⚠️ **ACEI a sartan se nekombinují.**
+**ARNI (sakubitril/valsartan)** — dnešní standard u srdečního selhání místo samotného ACEI.
+
+❓ **DOPTAJÍ SE:**
+- *Proč u stenózy renálních tepen selžou ledviny?* → **ledvina si v té situaci drží filtraci právě stahem odvodné tepénky; když ho zrušíš, filtrace se zhroutí**
+- *Nejnebezpečnější NÚ?* → **angioedém — otok jazyka a hrtanu**, může přijít i po letech léčby; ⚠️ v zubní ordinaci je to diferenciální diagnóza otoku obličeje
+- *Jaká je nejrizikovější kombinace?* → ⚠️ **ACEI + spironolakton + NSA** → hyperkalemie a akutní selhání ledvin
+
+---
+
+## 69 · Diuretika
+
+▶ **ZAČNI:** „Diuretika roztřídím **podle místa v nefronu, kde působí** — protože z toho místa plyne úplně všechno: jak jsou silná, jaké dělají minerálové poruchy i kdy přestanou fungovat."
+
+```
+  ┌── PROXIMÁLNÍ TUBULUS ── acetazolamid (karboanhydráza) ⚠️ acidóza, glaukom
+  │                          mannitol (osmotické) ⚠️ mozkový edém
+  │
+  ├── VZESTUPNÉ RAMÉNKO HENLEOVY KLIČKY ── ⚠️ FUROSEMID (kotransportér NKCC2)
+  │       ⚠️ NEJSILNĚJŠÍ · funguje i při selhání ledvin · ⚠️ OTOTOXICITA
+  │       ⚠️ ZTRÁCÍ VÁPNÍK
+  │
+  ├── DISTÁLNÍ TUBULUS ── THIAZIDY (hydrochlorothiazid, indapamid, chlortalidon)
+  │       ⚠️ nefungují při těžkém selhání ledvin · ⚠️ ŠETŘÍ VÁPNÍK
+  │
+  └── SBĚRACÍ KANÁLEK ── ⚠️ KALIUM ŠETŘÍCÍ
+          spironolakton, eplerenon (blokáda receptoru pro aldosteron)
+          amilorid, triamteren (blokáda sodíkového kanálu)
+```
+
+**KOSTRA:** místa v nefronu → skupiny a zástupci → indikace → **minerálové poruchy** → ⚠️ **spironolakton zvlášť**
+
+🔑 **Furosemid vápník VYPLAVÍ, thiazid ho ZADRŽÍ.** Proto se thiazid hodí u pacienta s kalciovými kameny a furosemid při hyperkalcemii.
+
+⚠️ **Všechna kromě kalium šetřících ztrácejí draslík** — dostávají se tak do konfliktu s digoxinem (viz otázka 66).
+⚠️ **Metabolické NÚ thiazidů:** hyperurikemie (⚠️ **dna**), hyperglykemie, hyperlipidemie, **hyponatremie** (nejčastější u seniorek).
+⚠️ **Spironolakton** je nejen diuretikum, ale **lék zlepšující přežití u srdečního selhání**; NÚ **gynekomastie a poruchy cyklu** (blokuje i receptory pro pohlavní hormony) — **eplerenon je v tomhle čistší.**
+
+❓ **DOPTAJÍ SE:**
+- *Proč je furosemid nejsilnější?* → **Henleova klička vstřebává největší podíl sodíku; vypnutím kotransportéru se ztratí nejvíc**
+- *Kdy naopak dáš thiazid a ne furosemid?* → **nekomplikovaná hypertenze** — furosemid má krátký a prudký účinek, thiazid mírný a dlouhý
+- *Proč acetazolamid na výškovou nemoc?* → ⚠️ **vyvolá mírnou metabolickou acidózu, která zrychlí dýchání** a urychlí aklimatizaci
+
+---
+
+## 70 · Blokátory kalciových kanálů
+
+▶ **ZAČNI:** „Blokátory vápníkových kanálů typu L působí na dvou tkáních — **na hladké svalovině cév a na srdci.** Celá otázka stojí na tom, **která skupina táhne kterým směrem**, protože z toho plynou indikace i to, co se nesmí kombinovat."
+
+```
+  DIHYDROPYRIDINY  amlodipin, nifedipin, nitrendipin, lerkanidipin (⚠️ -dipin)
+     ⚠️ hlavně CÉVY → vazodilatace → ↓ tlak
+     NÚ: reflexní tachykardie, OTOKY KOTNÍKŮ, návaly, bolest hlavy
+     ⚠️ + HYPERPLAZIE GINGIVY
+
+  NEDIHYDROPYRIDINY
+     VERAPAMIL (fenylalkylamin)  ⚠️ hlavně SRDCE → bradykardie, ↓ stah, zácpa
+     DILTIAZEM (⚠️ BENZOTHIAZEPIN)  — někde mezi
+     ⚠️ NESMÍ SE KOMBINOVAT S BETABLOKÁTOREM → AV blok
+     ⚠️ KI u srdečního selhání
+```
+
+⚠️ **Ve vašem zdroji jsou u téhle otázky dvě chyby:** diltiazem je uvedený jako **„benzodiazepin" — správně je BENZOTHIAZEPIN**; a u verapamilu je psáno, že se použije při kontraindikaci **„β-agonistů" — správně β-ANTAGONISTŮ, tedy betablokátorů.** Obojí u zkoušky vyzní jako neznalost.
+
+**KOSTRA:** mechanismus (blokáda L kanálů) → **dvě skupiny a jejich cíl** → indikace → NÚ → ⚠️ kontraindikace a interakce
+
+⚠️ **ZUBAŘSKÝ PŘESAH:** dihydropyridiny (hlavně **nifedipin**) způsobují **hyperplazii dásní** — stejně jako **fenytoin** a **cyklosporin.** Rozsah závisí na ústní hygieně; při dokonalé hygieně se zmenší.
+
+❓ **DOPTAJÍ SE:**
+- *Proč otoky kotníků?* → ⚠️ **nejsou z retence tekutin — je to nerovnováha: rozšíří se přívodné tepénky, ale odvodné žilky ne** → tlak v kapiláře stoupne. **Diuretikum na ně proto nepomůže**, pomůže přidání ACE inhibitoru
+- *Co s grapefruitem?* → ⚠️ **blokuje CYP3A4 ve střevě → hladina léku stoupne** → hypotenze; týká se hlavně **felodipinu a verapamilu**
+- *Kdy je verapamil vhodný?* → **fibrilace síní nebo angina pectoris u pacienta, který nesmí betablokátor** (např. astmatik) — ⚠️ ale ne u srdečního selhání
+
+---
+
+## 71 · Nitrity a nitráty
+
+▶ **ZAČNI:** „Nitráty jsou **donory oxidu dusnatého.** A jejich hlavní účinek je jinde, než by člověk čekal — **nerozšiřují hlavně věnčité tepny, ale ŽÍLY.**"
+
+```
+  NITRÁT → uvolní NO → guanylátcykláza → ↑ cGMP → uvolnění hladké svaloviny
+     ⚠️ hlavně ŽILNÍ řečiště
+        → krev se „zaparkuje" v žilách → MÉNĚ krve se vrátí do srdce
+        → ↓ PŘEDTÍŽENÍ (preload) → srdce se míň plní → ⚠️ POTŘEBUJE MÍŇ KYSLÍKU
+     Až sekundárně: rozšíření věnčitých tepen a spazmolýza
+```
+
+**KOSTRA:** mechanismus přes NO → **žilní dilatace a snížení preloadu** → zástupci a lékové formy → ⚠️ **tolerance a nitrátový interval** → NÚ → ⚠️ absolutní kontraindikace
+
+**Zástupci:** **nitroglycerin** (sublingválně nebo ve spreji — ⚠️ **polykat se nesmí, zničil by ho first-pass efekt**), **isosorbid dinitrát a mononitrát** (⚠️ mononitrát first-pass nemá), **molsidomin**, i.v. nitroglycerin u akutních stavů.
+
+⚠️ **TOLERANCE — nejdůležitější praktická věc:** při nepřetržité expozici účinek během dnů vymizí. **Proto se musí denně dodržet nitrátový interval 8–12 hodin bez léku** (typicky přes noc). U pacienta s nočními záchvaty se interval posune na den.
+
+⚠️ **ABSOLUTNÍ KONTRAINDIKACE: inhibitory fosfodiesterázy 5 (sildenafil, tadalafil).** Oba léky zvyšují cGMP jinou cestou → **sečtou se a způsobí nezvratný pokles tlaku.** Je nutné se na to aktivně ptát.
+
+❓ **DOPTAJÍ SE:**
+- *Co pacient udělá při záchvatu angíny?* → **sedne si (⚠️ ne stoupne — hrozí kolaps), vezme jednu dávku pod jazyk, po 5 minutách může opakovat**; ⚠️ nezabere-li do 15 minut a tří dávek, je to podezření na infarkt
+- *Proč bolest hlavy?* → **rozšíří i mozkové cévy**; ustupuje po několika dnech léčby
+- *Zlepšují nitráty prognózu?* → ⚠️ **ne — jsou čistě symptomatické.** Prognózu zlepšují betablokátory, statiny, antiagregancia a ACEI
+
+---
+
+## 72 · Farmakoterapie srdečního selhání
+
+▶ **ZAČNI:** „Nejdůležitější věta téhle otázky je: **rozlišuji léky, které pacientovi uleví, od léků, které mu prodlouží život.** Nejsou to tytéž léky. Diuretika a digoxin uleví, ale prognózu nemění."
+
+```
+   ⭐ ČTYŘI PILÍŘE, které prodlužují život u selhání se sníženou ejekční frakcí:
+   1) ACE inhibitor / sartan  →  dnes nejlépe ARNI (sakubitril + valsartan)
+   2) BETABLOKÁTOR  ⚠️ jen bisoprolol, metoprolol ZOK, karvedilol, nebivolol
+   3) ANTAGONISTA ALDOSTERONU  spironolakton / eplerenon
+   4) GLIFLOZIN  dapagliflozin / empagliflozin  (⚠️ i u nediabetika!)
+
+   ── jen ÚLEVA, prognózu NEMĚNÍ ──
+   diuretika (furosemid) · digoxin · ivabradin (⚠️ snižuje hospitalizace)
+```
+
+**KOSTRA:** patofyziologie (⚠️ **neurohumorální aktivace srdce ničí**) → **čtyři pilíře** → symptomatická léčba → ⚠️ **co nasazovat pomalu** → ⚠️ **co je zakázané**
+
+⚠️ **Proč vlastně tlumíme srdce, které nestačí?** Protože **chronická aktivace sympatiku a systému RAAS je zpočátku záchrana, ale dlouhodobě myokard přestavuje a ničí.** Léčba je tedy o **odstranění té nadměrné podpory**, ne o pobízení srdce.
+⚠️ **Betablokátor se nasazuje jen u stabilizovaného pacienta, v nízké dávce a titruje se týdny** — na začátku se stav může přechodně zhoršit.
+
+⚠️ **Co u srdečního selhání NEDÁVAT:** **nesteroidní antirevmatika** (retence sodíku, zhoršení funkce ledvin), **verapamil a diltiazem** (negativně inotropní), **glitazony** (retence tekutin).
+
+❓ **DOPTAJÍ SE:**
+- *Proč gliflozin, když pacient není diabetik?* → **jeho přínos u srdečního selhání nesouvisí s glykemií** — jde o hemodynamický a metabolický efekt; **[⚠️ ověřit, jak podrobně to chtějí vaše skripta]**
+- *Diuretikum u akutního plicního edému?* → **furosemid i.v.**; ⚠️ působí i **žilní vazodilatací dřív, než se dostaví diuréza**
+- *Kdy digoxin i dnes?* → **fibrilace síní s rychlou odpovědí u pacienta se selháním** — ⚠️ zlepší příznaky, ne prognózu
+
+---
+
+## 73 · Farmakoterapie ischemické choroby srdeční
+
+▶ **ZAČNI:** „Ischemická choroba znamená **nepoměr mezi nabídkou a spotřebou kyslíku v myokardu.** Léčbu rozdělím na **chronickou stabilní formu a akutní koronární syndrom** — u chronické je klíčové odlišit léky prognostické od úlevových."
+
+**KOSTRA:** patofyziologie → ⚠️ **prognostická × symptomatická léčba** → akutní koronární syndrom → **duální antiagregace** → sekundární prevence
+
+| | **Zlepšují prognózu** | **Jen ulevují od potíží** |
+|---|---|---|
+| chronická ICHS | **antiagregancia · statin · ACE inhibitor · betablokátor** | **nitráty · ivabradin · trimetazidin · ranolazin · blokátory Ca** |
+
+**Akutní koronární syndrom:** ⚠️ **rozhodující je čas a otevření tepny (perkutánní koronární intervence).** Farmakoterapie ji doprovází: **kyselina acetylsalicylová + inhibitor P2Y12 (tikagrelor, prasugrel) + antikoagulancium + morfin + kyslík při desaturaci + nitrát + betablokátor + statin ve vysoké dávce.**
+⚠️ **Duální antiagregace po zavedení stentu obvykle 12 měsíců** — předčasné vysazení znamená trombózu stentu. **Tohle je i zubařsky zásadní: plánovanou extrakci v téhle době je lépe odložit a rozhodně ji neřešit vysazením léků bez domluvy s kardiologem.**
+
+❓ **DOPTAJÍ SE:**
+- *Jak betablokátor uleví od angíny?* → **sníží tepovou frekvenci → prodlouží diastolu → ⚠️ věnčité tepny se plní právě v diastole** → víc krve tam, kde chybí
+- *Jak působí ivabradin?* → **blokuje kanál If v sinusovém uzlu → zpomalí tep, ale neovlivní stažlivost ani tlak** → vhodný, když betablokátor nejde použít
+- *Proč statin i při normálním cholesterolu?* → **stabilizuje aterosklerotický plát a tlumí zánět** v jeho stěně — nejde jen o číslo v odběru
+
+---
+
+## 74 · Antihypertenziva
+
+▶ **ZAČNI:** „Léčba hypertenze dnes stojí na **pěti hlavních třídách** a na jednom principu: **raději kombinovat nízké dávky několika léků než vyhnat jeden do maxima** — účinek se sečte a nežádoucí účinky ne."
+
+```
+  ZÁKLADNÍ PĚTICE:
+   1) ACE inhibitory / sartany          4) BETABLOKÁTORY
+   2) BLOKÁTORY Ca (dihydropyridiny)       (⚠️ dnes hlavně při další indikaci)
+   3) THIAZIDOVÁ diuretika              5) (u rezistentní) SPIRONOLAKTON
+
+  DALŠÍ: centrální α2 (methyldopa, klonidin) · α-blokátory ·
+         přímé vazodilatátory (hydralazin, minoxidil) · urapidil
+```
+
+**KOSTRA:** cíl léčby → **režimová opatření** → pět tříd → **jak vybírat podle pacienta** → ⚠️ gravidita → hypertenzní krize
+
+⚠️ **Volba podle přidruženého onemocnění — přesně tohle chtějí u zkoušky slyšet:** diabetik nebo pacient s proteinurií → **ACEI/sartan** · po infarktu → **betablokátor + ACEI** · srdeční selhání → **čtyři pilíře** · starší pacient s izolovanou systolickou hypertenzí → **blokátor Ca nebo thiazid** · pacient s dnou → ⚠️ **ne thiazid** · astmatik → ⚠️ **ne betablokátor.**
+
+⚠️ **GRAVIDITA:** povolené jsou **methyldopa, labetalol, nifedipin** (a v akutním stavu urapidil). ⚠️ **ACE inhibitory a sartany jsou absolutně kontraindikované** — poškozují ledviny plodu.
+
+⚠️ **Hypertenzní krize se nesmí srážet příliš rychle** — hrozí ischemie mozku a ledvin; podávají se i.v. léky s řiditelným účinkem (urapidil, nitroglycerin, labetalol).
+
+❓ **DOPTAJÍ SE:**
+- *Proč fixní kombinace v jedné tabletě?* → **lepší spolupráce pacienta** — hypertenze nebolí a čím víc tablet, tím víc vynechaných dávek
+- *Co je rezistentní hypertenze?* → **nedaří se ji zvládnout trojkombinací včetně diuretika**; ⚠️ nejdřív vyloučit **nespolupráci pacienta a sekundární příčinu**, pak přidat spironolakton
+- *Nejčastější sekundární příčina?* → ⚠️ **primární hyperaldosteronismus**; dále onemocnění ledvin, stenóza renální tepny, feochromocytom, spánková apnoe, ⚠️ **a léky — NSA, kortikoidy, antikoncepce**
+
+---
+
+## 75 · Farmakoterapie aterosklerózy, hyperlipidemie
+
+▶ **ZAČNI:** „Základem jsou **statiny** a jejich role není jen v tom, že snižují cholesterol — **stabilizují aterosklerotický plát**, což je vlastně důležitější, protože infarkt způsobí prasklý plát, ne číslo v laboratoři."
+
+**KOSTRA:** cíl (LDL) → **statiny** → **ezetimib** → **inhibitory PCSK9** → fibráty → pryskyřice, niacin, omega-3 → ⚠️ NÚ a interakce
+
+**Statiny** (atorvastatin, rosuvastatin, simvastatin): **blokují HMG-CoA reduktázu**, klíčový enzym tvorby cholesterolu v játrech → **játra si nahustí LDL receptory a vytáhnou cholesterol z krve.**
+⚠️ **NÚ: svalové potíže — od bolestí po vzácnou rabdomyolýzu** (⚠️ příznak: bolest svalů + tmavá moč + vysoká kreatinkináza), zvýšení jaterních testů, mírné zvýšení rizika diabetu.
+⚠️ **Riziko myopatie roste v kombinaci s fibrátem (hlavně gemfibrozilem), s makrolidy, azolovými antimykotiky, verapamilem a grapefruitem** — všechno inhibitory CYP3A4.
+
+**Ezetimib** — blokuje vstřebávání cholesterolu ve střevě (přenašeč NPC1L1); přidává se ke statinu.
+**Inhibitory PCSK9 (evolokumab, alirokumab)** — ⚠️ **monoklonální protilátky, injekčně**, velmi silný efekt, pro rodinnou hypercholesterolemii a pacienty netolerující statin.
+**Fibráty** (fenofibrát) — přes PPAR-α, ⚠️ **hlavně na triacylglyceroly.**
+
+❓ **DOPTAJÍ SE:**
+- *Proč se statiny braly večer?* → **tvorba cholesterolu má vrchol v noci**; ⚠️ u statinů s dlouhým poločasem (atorvastatin, rosuvastatin) na době nezáleží
+- *Kdy fibrát a ne statin?* → **výrazně zvýšené triacylglyceroly** (riziko akutní pankreatitidy nad 10 mmol/l)
+- *Co znamená „čím níž, tím líp"?* → **u pacienta po infarktu se cílové LDL posouvá velmi nízko** a nasazuje se vysoká dávka statinu bez ohledu na výchozí hodnotu
+
+---
+
+## 76 · Parenterální antikoagulancia
+
+▶ **ZAČNI:** „Parenterální antikoagulancia se používají tam, kde **potřebuju účinek okamžitě.** Prototypem je **heparin, který sám o sobě nedělá nic — funguje jen díky tomu, že tisíckrát zesílí přirozený antitrombin III.**"
+
+```
+  ANTITROMBIN III  = přirozená brzda srážení, ale pomalá
+        + HEPARIN → ⚠️ zrychlí ji asi 1000×
+
+  NEFRAKCIONOVANÝ HEPARIN  dlouhý řetězec → obalí trombin i faktor Xa
+       ⚠️ inhibuje IIa I Xa · monitorace aPTT · antidotum PROTAMIN SULFÁT
+  NÍZKOMOLEKULÁRNÍ (enoxaparin, nadroparin)  krátký řetězec
+       ⚠️ hlavně Xa · s.c. 1–2× denně · bez rutinní monitorace (jen anti-Xa)
+  FONDAPARINUX  syntetický pentasacharid → ⚠️ výhradně Xa · ⚠️ NEDĚLÁ HIT
+```
+
+**KOSTRA:** mechanismus přes antitrombin → **nefrakcionovaný × nízkomolekulární** → fondaparinux → přímé inhibitory trombinu → indikace → ⚠️ **HIT** → antidotum
+
+⚠️ **HIT — heparinem indukovaná trombocytopenie:** paradoxní stav, kdy **protilátky proti komplexu heparinu s destičkovým faktorem 4 destičky nejen ubírají, ale zároveň AKTIVUJÍ** → **pacient má málo destiček a přitom trombózy.** Léčba: **okamžitě vysadit heparin** a nasadit **jiné antikoagulans (argatroban, bivalirudin, fondaparinux)** — ⚠️ **nikdy nepodávat destičky.**
+
+⚠️ **Heparin i nízkomolekulární hepariny NEPROCHÁZEJÍ PLACENTOU** → jsou antikoagulanciem volby **v graviditě** (na rozdíl od warfarinu, který je teratogenní).
+
+❓ **DOPTAJÍ SE:**
+- *Proč se protaminem nedá úplně zrušit nízkomolekulární heparin?* → **protamin naváže dlouhé řetězce; krátké, které blokují jen Xa, uchopí jen částečně**
+- *Proč heparin nefunguje u vrozeného deficitu antitrombinu?* → **nemá co zesílit** — potřebuje substrát
+- *Kdy raději nefrakcionovaný?* → **těžké selhání ledvin a situace, kdy potřebuju rychle vypnout účinek** (krátký poločas, existuje antidotum) — např. před operací
+
+---
+
+## 77 · Perorální antikoagulancia
+
+▶ **ZAČNI:** „Perorální antikoagulancia se dnes dělí na **warfarin a takzvaná přímá antikoagulancia.** Warfarin je starší, levný a nepohodlný; **přímá jsou pohodlná, ale nejde je použít všude.**"
+
+```
+  WARFARIN = antagonista vitaminu K
+      blokuje γ-karboxylaci faktorů  II · VII · IX · X   (🔑 „1972")
+      ⚠️ ALE I přirozených brzd PROTEINU C a S
+
+  ⚠️ PROTO: prvních pár dní může být pacient PROTROMBOGENNÍ
+     (protein C má nejkratší poločas a zmizí první)
+     → vždy se PŘEKRÝVÁ HEPARINEM, dokud INR nedosáhne cíle
+  ⚠️ Nástup 3–5 dní · monitorace INR (obvykle 2–3)
+     ANTIDOTUM: vitamin K · plazma · koncentrát protrombinového komplexu
+```
+
+**KOSTRA:** warfarin (mechanismus, ⚠️ **latence a překrytí**, INR, interakce, antidotum) → **DOAC** → srovnání → ⚠️ **kdy DOAC nesmí** → zubařský postup
+
+**DOAC:** **dabigatran** — přímý inhibitor trombinu, ⚠️ antidotum **idarucizumab**; **rivaroxaban, apixaban, edoxaban** — inhibitory faktoru Xa (🔑 **-xaban blokuje Xa**), antidotum **andexanet alfa.**
+⚠️ **DOAC se NESMÍ u mechanické chlopně a u těžké renální insuficience** — tam zůstává warfarin.
+
+⚠️ **Warfarin má obrovské množství interakcí** — vitamin K v listové zelenině, antibiotika (⚠️ zlikvidují střevní bakterie, které vitamin K vyrábějí), amiodaron, azolová antimykotika, NSA. **Zásada není „nejíst zeleninu", ale jíst jí pořád stejně.**
+
+⚠️ **ZUBAŘSKÝ PŘESAH — jedna z nejčastějších praktických otázek:** **před běžnou extrakcí se warfarin nevysazuje**, pokud je **INR v terapeutickém rozmezí (zhruba do 3–3,5)**; riziko trombózy z vysazení je větší než riziko krvácení. **Řeší se místními prostředky** — šití, oxidovaná celulóza, kolagenová houbička, výplach kyselinou tranexamovou. **[⚠️ ověřit přesnou hranici INR podle vašich skript.]**
+
+❓ **DOPTAJÍ SE:**
+- *Co je kumarinová nekróza kůže?* → ⚠️ **vzácná komplikace prvních dní léčby** právě z předčasného poklesu proteinu C
+- *Proč warfarin nesmí těhotná?* → **prochází placentou a je teratogenní** (warfarinová embryopatie) → nahrazuje se nízkomolekulárním heparinem
+- *Výhody DOAC?* → **fixní dávka, bez pravidelných odběrů, méně interakcí, méně krvácení do mozku**; ⚠️ nevýhoda je cena a nutnost brát pravidelně (krátký poločas — vynechaná dávka znamená rychlou ztrátu ochrany)
+
+---
+
+## 78 · Fibrinolytika, trombolytika, hemostatika
+
+▶ **ZAČNI:** „Tahle otázka má dvě protilehlé poloviny: **trombolytika sraženinu rozpouštějí, hemostatika krvácení zastavují.** Řeknu obě a u obou hlavně to, kdy se používají."
+
+```
+  TROMBOLÝZA:  plazminogen ──(alteplasa, tenektaplasa, streptokináza)──> PLAZMIN
+                                                                            ↓
+                                                                  rozpouští FIBRIN
+  ⚠️ Indikace: STEMI (kde není dostupná katetrizace) · masivní plicní embolie ·
+     ischemická cévní mozková příhoda ⚠️ do 4,5 hodiny
+  ⚠️ KI: aktivní krvácení · nedávná operace nebo úraz · krvácení do mozku
+         v anamnéze · nekontrolovaná hypertenze
+```
+
+**KOSTRA:** trombolytika (mechanismus, indikace, ⚠️ kontraindikace) → **antifibrinolytika** → hemostatika systémová a **místní** → ⚠️ hemofilie
+
+**Hemostatika:** **vitamin K** (u warfarinu) · **kyselina tranexamová** (⚠️ **antifibrinolytikum — blokuje vazbu plazminogenu na fibrin**) · etamsylát · **desmopresin** (⚠️ **vyplaví z endotelu von Willebrandův faktor a faktor VIII** → mírná hemofilie A a von Willebrandova choroba) · koncentráty faktorů.
+**Místní hemostatika — přímo zubařský arzenál:** **oxidovaná celulóza, kolagenová houbička, fibrinové lepidlo, výplach nebo obklad kyselinou tranexamovou, šití, skus na tampon.**
+
+⚠️ **Ve vašem zdroji je u hemofilie chyba:** je popsaná jako „získaná geneticky". **Hemofilie A je VROZENÝ, dědičný defekt faktoru VIII, vázaný na chromozom X.** Získaná hemofilie existuje, ale je to jiná, vzácná autoimunitní jednotka.
+
+❓ **DOPTAJÍ SE:**
+- *Proč se streptokináza nesmí podat podruhé?* → **je to bakteriální bílkovina — tělo si vytvoří protilátky** → alergie a ztráta účinku; alteplasa je rekombinantní lidský enzym a tenhle problém nemá
+- *Jak zajistíš extrakci u hemofilika?* → ⚠️ **předem s hematologem: substituce faktoru nebo desmopresin + kyselina tranexamová + pečlivá lokální hemostáza.** ⚠️ **Nikdy NSA na bolest**
+- *Kdy tranexamová kyselina i jinde?* → **silné menstruační krvácení, úrazy, operace** — ⚠️ KI u aktivní trombózy
+
+---
+
+## 79 · Antiagregancia
+
+▶ **ZAČNI:** „Antiagregancia působí na **destičky, tedy v tepenném řečišti** — na rozdíl od antikoagulancií, která zasahují plazmatické faktory a používají se hlavně u žilních trombóz a fibrilace síní. Tenhle rozdíl chci říct hned na začátku."
+
+```
+  ⚠️ TEPNA = rychlý proud, sraženina hlavně z DESTIČEK  → ANTIAGREGANCIA
+  ⚠️ ŽÍLA  = pomalý proud, sraženina hlavně z FIBRINU   → ANTIKOAGULANCIA
+```
+
+**KOSTRA:** rozdíl proti antikoagulanciím → **kyselina acetylsalicylová** → **inhibitory P2Y12** → inhibitory GPIIb/IIIa → **duální antiagregace** → zubařský přesah
+
+**Kyselina acetylsalicylová 75–100 mg:** ⚠️ **ireverzibilně acetyluje COX-1 v destičce → ta nemá jádro, enzym si nevyrobí → účinek trvá celý život destičky, 7–10 dní.**
+**Inhibitory P2Y12** (blokáda receptoru pro ADP): **klopidogrel** — ⚠️ **proléčivo aktivované přes CYP2C19**, pomalí metabolizátoři z něj nemají užitek (a omeprazol jeho účinek snižuje); **prasugrel a tikagrelor** — silnější, ⚠️ **tikagrelor je reverzibilní a není proléčivo.**
+**Inhibitory GPIIb/IIIa** (abciximab, eptifibatid) — ⚠️ **nejsilnější, jen nitrožilně v katetrizační laboratoři**; blokují úplně poslední společný krok agregace.
+
+⚠️ **ZUBAŘSKÝ PŘESAH:** **kyselina acetylsalicylová se před extrakcí nevysazuje.** Krvácení je mírné a zvládne ho místní ošetření; vysazení naopak znamená riziko infarktu. **U duální antiagregace po stentu se výkon domlouvá s kardiologem, ale ani tam se léky svévolně nevysazují.**
+
+❓ **DOPTAJÍ SE:**
+- *Proč zrovna nízká dávka aspirinu?* → **v nízké dávce zasáhne hlavně destičkovou COX-1, a to už při prvním průchodu játry; vyšší dávka by potlačila i ochranný prostacyklin v endotelu** a efekt by se zhoršil
+- *Proč nemá smysl podávat destičky pacientovi na aspirinu, který krvácí?* → mají smysl, ale ⚠️ **jen ty podané po odeznění léku v krvi**; jinak je aspirin acetyluje také
+- *Kdy dipyridamol nebo cilostazol?* → **dipyridamol s aspirinem po cévní mozkové příhodě, cilostazol u ischemické choroby dolních končetin**
+
+---
+
+## 80 · Inzulin, jeho analoga a glukagon
+
+▶ **ZAČNI:** „Inzuliny se dnes rozlišují **podle rychlosti nástupu a délky působení**, protože cílem je napodobit fyziologii — **stálou bazální hladinu a vzestup k jídlu.** Tomu se říká režim bazál-bolus."
+
+```
+  ⏱ RYCHLÁ ANALOGA  lispro, aspart, glulisin   nástup ~15 min → K JÍDLU
+  ⏱ KRÁTKÝ HUMÁNNÍ  regular                    nástup ~30 min (⚠️ píchat dřív)
+  ⏱ STŘEDNÍ         NPH
+  ⏱ DLOUHÁ ANALOGA  glargin, detemir, degludek  ⚠️ bez vrcholu → BAZÁL
+  + premixované směsi
+
+  ⚠️ HLAVNÍ NEBEZPEČÍ VŠECH = HYPOGLYKEMIE
+     pocení · třes · bušení srdce · hlad · zmatenost → bezvědomí, křeče
+```
+
+**KOSTRA:** typy inzulinů → **režim bazál-bolus** → indikace → ⚠️ **hypoglykemie** → místa vpichu a **lipodystrofie** → **glukagon**
+
+⚠️ **Betablokátor u diabetika maskuje varovné příznaky hypoglykemie** — třes a bušení srdce jde přes sympatikus. ⚠️ **Pocení zůstane** (cholinergní inervace) a bývá jediným varováním.
+
+**Glukagon:** i.m. nebo nosním sprejem **při hypoglykemii u pacienta v bezvědomí, kterému nelze nic dát ústy.** ⚠️ **Zajímavost, na kterou se ptají: glukagon je také antidotum při předávkování betablokátory** — zvedne v srdci cAMP jinou cestou, mimo beta-receptor.
+
+❓ **DOPTAJÍ SE:**
+- *Co je Somogyiho fenomén a dawn fenomén?* → **ranní hyperglykemie po noční hypoglykemii (protiregulace)** × **ranní hyperglykemie z fyziologického vzestupu hormonů k ránu**; ⚠️ řeší se opačně, proto se rozlišují
+- *Proč se mění místa vpichu?* → ⚠️ **lipodystrofie — na zajetém místě se vstřebávání stane nepředvídatelným**
+- *Zubařsky?* → ⚠️ **ošetření plánovat dopoledne, po jídle a po obvyklé dávce; nenechat pacienta hladovět.** Mít po ruce cukr. Diabetik se hůř hojí a má vyšší riziko parodontitidy
+
+---
+
+## 81 · Perorální antidiabetika
+
+▶ **ZAČNI:** „U diabetu 2. typu jsou dva problémy — **inzulinová rezistence a postupné selhávání beta-buněk.** Léky rozdělím podle toho, na co z toho míří, a **hned řeknu, že se dnes nevybírají jen podle glykemie, ale podle toho, jestli chrání srdce a ledviny.**"
+
+| Skupina | Zástupci | ⚠️ Klíč |
+|---|---|---|
+| **biguanidy** | **metformin** | ⚠️ **lék první volby**, ⚠️ **nedělá hypoglykemii**, ⚠️ laktátová acidóza, deficit B12 |
+| sulfonylurea | glimepirid, gliklazid | ⚠️ **dělá hypoglykemii a přibývání na váze** |
+| glitazony | pioglitazon | ⚠️ retence tekutin, srdeční selhání, zlomeniny |
+| gliptiny | sitagliptin | neutrální, bez hypoglykemie |
+| **GLP-1 agonisté** | **liraglutid, semaglutid** | ⚠️ **hubnutí + ochrana srdce**, injekčně |
+| **glifloziny (SGLT2)** | **dapagliflozin, empagliflozin** | ⚠️ **ochrana srdce a ledvin**, ⚠️ genitální mykózy |
+| akarbóza | | zpomalí štěpení cukrů ve střevě, nadýmání |
+
+**KOSTRA:** patofyziologie → **metformin jako základ** → jednotlivé skupiny → ⚠️ **moderní volba podle orgánové ochrany** → NÚ
+
+⚠️ **Metformin — na co se ptají:** snižuje **tvorbu glukózy v játrech** a zvyšuje citlivost k inzulinu; **sám hypoglykemii nezpůsobuje**, protože nenutí slinivku vylučovat inzulin. **Vysadit se musí před podáním jodové kontrastní látky a při akutním stavu (dehydratace, sepse, selhání ledvin)** — hrozí **laktátová acidóza.**
+⚠️ **Sulfonylurea uzavírá draslíkový kanál v beta-buňce → vyplaví inzulin bez ohledu na glykemii** → proto jako jediná z tabletek **může způsobit těžkou a dlouhou hypoglykemii**, zvlášť u seniora.
+⚠️ **Glifloziny mohou vyvolat euglykemickou ketoacidózu** — ketoacidózu při skoro normální glykemii, kterou lze snadno přehlédnout.
+
+❓ **DOPTAJÍ SE:**
+- *Které tabletky nedělají hypoglykemii?* → **metformin, gliptiny, glifloziny, akarbóza, pioglitazon**; ⚠️ hypoglykemii dělá **sulfonylurea a glinidy** (a samozřejmě inzulin)
+- *Proč se semaglutid dostal do léčby obezity?* → **zpomaluje vyprazdňování žaludku a působí na centrum sytosti**
+- *Zubařsky?* → **glifloziny → glykosurie → vyšší riziko mykotických infekcí**, včetně ústní kandidózy u pacienta s protézou
+
+---
+
+## 82 · Principy antibiotické terapie
+
+▶ **ZAČNI:** „Celá antibiotická léčba stojí na jednom pojmu — **selektivní toxicita: zasáhnout strukturu, kterou má bakterie a člověk ne.** Odtud plynou i všechna cílová místa: **stěna, ribozom, nukleová kyselina, metabolismus kyseliny listové.**"
+
+```
+   BAKTERIÁLNÍ BUŇKA A CÍLE ANTIBIOTIK — jeden obrázek na otázky 82–88
+
+   ┌── BUNĚČNÁ STĚNA (peptidoglykan) ⚠️ člověk ji NEMÁ
+   │      betalaktamy: PENICILINY · CEFALOSPORINY · KARBAPENEMY · monobaktamy
+   │      GLYKOPEPTIDY (vankomycin) — jiné místo téže stavby
+   │
+   ├── CYTOPLAZMATICKÁ MEMBRÁNA
+   │      polymyxiny (kolistin), daptomycin
+   │
+   ├── RIBOZOM ⚠️ bakteriální je 70S (30S + 50S), lidský 80S
+   │      30S: AMINOGLYKOSIDY (baktericidní!) · TETRACYKLINY
+   │      50S: MAKROLIDY · LINKOSAMIDY (klindamycin) · amfenikoly · oxazolidinony
+   │
+   ├── NUKLEOVÉ KYSELINY
+   │      CHINOLONY → ⚠️ TOPOIZOMERÁZA II (DNA-gyráza) a IV
+   │      rifampicin → RNA-polymeráza · metronidazol → poškodí DNA anaerobů
+   │
+   └── KYSELINA LISTOVÁ  sulfonamidy + trimethoprim (⚠️ dva kroky za sebou)
+```
+
+**KOSTRA:** selektivní toxicita → **baktericidní × bakteriostatické** → spektrum → **empirická × cílená léčba** → **dávkování dle typu zabíjení** → kombinace → profylaxe → ⚠️ **rezistence**
+
+⚠️ **Koncentračně závislé** (aminoglykosidy, chinolony) → **velká dávka jednou denně.** **Časově závislé** (betalaktamy) → **rozdělit do více dávek, případně prodloužená infuze** — rozhoduje, jak dlouho je hladina nad MIC.
+⚠️ **Mechanismy rezistence:** **betalaktamázy** · **změna cílové struktury** (MRSA má pozměněný PBP2a) · **efluxní pumpy** · **snížená propustnost.**
+
+⚠️ **ZUBAŘSKY — profylaxe infekční endokarditidy:** jen u **rizikových pacientů** (umělá chlopeň, prodělaná endokarditida, některé vrozené vady) a u **výkonů s poraněním dásně nebo sliznice**. **Amoxicilin 2 g jednorázově zhruba hodinu před výkonem, při alergii klindamycin.** ⚠️ **[⚠️ ověřit dávky a aktuální indikace podle vašich skript a platných doporučení — v tomhle se doporučení opakovaně měnila.]**
+
+❓ **DOPTAJÍ SE:**
+- *Proč se nekombinuje baktericidní s bakteriostatickým?* → **klasické pravidlo: betalaktam potřebuje dělící se bakterii; bakteriostatikum dělení zastaví a účinek zeslabí.** ⚠️ V praxi to není absolutní — jsou i výhodné kombinace
+- *Kdy antibiotikum nasadit u zubního abscesu?* → ⚠️ **antibiotikum nenahradí drenáž a ošetření zdroje** — samo o sobě problém nevyřeší
+- *Proč nedávat antibiotikum na virózu?* → **nemá cíl, na který by působilo**; přinese jen nežádoucí účinky, poškození mikrobiomu a rezistenci
+
+---
+
+## 83 · Peniciliny, inhibitory betalaktamáz
+
+▶ **ZAČNI:** „Peniciliny jsou **betalaktamová antibiotika, která blokují stavbu buněčné stěny** — konkrétně transpeptidázu, tedy protein vázající penicilin. Jsou **baktericidní, ale ⚠️ jen na bakterie, které se právě dělí**, protože jinde se stěna nestaví."
+
+```
+  PŘIROZENÉ    penicilin G (i.v., i.m.) · ⚠️ PENICILIN V (p.o.) · depotní benzathin
+  PROTISTAFYLO oxacilin, methicilin  (⚠️ odolné vůči stafylokokové betalaktamáze)
+  AMINOPENIC.  ampicilin · AMOXICILIN   ⚠️ širší spektrum, i některé G−
+  UREIDOPENIC. piperacilin  ⚠️ + Pseudomonas
+
+  ⚠️ INHIBITORY BETALAKTAMÁZ — samy skoro neúčinné, „obětují se" enzymu:
+     kyselina klavulanová · sulbaktam · tazobaktam
+     amoxicilin + klavulanát · piperacilin + tazobaktam
+```
+
+**KOSTRA:** mechanismus → skupiny → **inhibitory betalaktamáz** → indikace → ⚠️ **alergie** → další NÚ
+
+⚠️ **ZUBAŘSKÝ PŘESAH — PENICILIN V je lékem volby u odontogenních infekcí**, protože ústní flóra na něj zůstala citlivá. **Amoxicilin s klavulanátem se používá tam, kde je podezření na producenty betalaktamáz nebo u komplikovaných infekcí.**
+
+⚠️ **Alergie na penicilin:** skutečná IgE zprostředkovaná alergie je vzácnější, než kolik lidí ji uvádí. **Zkřížená reaktivita s cefalosporiny je nižší, než se dřív myslelo, ale u anafylaxe v anamnéze se betalaktamům vyhýbáme úplně** → náhrada **klindamycinem nebo makrolidem.**
+⚠️ **Ampicilinový exantém u infekční mononukleózy** — ⚠️ **není to alergie**, je to typická reakce; pacient penicilin dostat v budoucnu může.
+
+❓ **DOPTAJÍ SE:**
+- *Proč se penicilin V dává nalačno?* → **jídlo zhoršuje jeho vstřebání**; amoxicilin je v tomhle tolerantnější
+- *Co je Jarischova–Herxheimerova reakce?* → **horečka a zhoršení stavu po první dávce u syfilis** — z rozpadu velkého množství bakterií naráz, ⚠️ není to alergie
+- *Proč jsou peniciliny tak bezpečné?* → **člověk nemá buněčnou stěnu — cíl v lidském těle neexistuje**; hlavním rizikem je proto alergie, ne toxicita
+
+---
+
+## 84 · Cefalosporiny, karbapenemy, monobaktamy
+
+▶ **ZAČNI:** „Všechny tři skupiny jsou **betalaktamy se stejným mechanismem jako peniciliny** — liší se spektrem a odolností vůči betalaktamázám. U cefalosporinů se dá celé spektrum shrnout jedním pravidlem."
+
+🔑 **Jak jdou generace cefalosporinů nahoru, ubývá grampozitivních a přibývá gramnegativních.**
+
+```
+  I.   cefazolin, cefalexin      G+ ⚠️ chirurgická profylaxe
+  II.  cefuroxim                 + Haemophilus, respirační infekce
+  III. ceftriaxon, cefotaxim     G− ⚠️ PROSTUP DO CNS → meningitidy
+       ceftazidim                + Pseudomonas
+  IV.  cefepim                   široké, nemocniční
+  V.   ceftarolin                ⚠️ jako jediné i na MRSA
+
+  ⚠️ ŽÁDNÝ cefalosporin nepůsobí na ENTEROKOKY ani na ATYPICKÉ patogeny
+```
+
+**KOSTRA:** cefalosporiny po generacích → ⚠️ mezery ve spektru → **karbapenemy jako rezerva** → **monobaktamy** → NÚ
+
+**Karbapenemy — meropenem, imipenem/cilastatin, ertapenem:** ⚠️ **nejširší spektrum ze všech antibiotik, proto se drží v rezervě** pro těžké a multirezistentní infekce. ⚠️ **Imipenem se musí kombinovat s cilastatinem, aby ho ledvinný enzym nerozložil**, a ⚠️ **snižuje práh pro křeče.** ⚠️ **Ertapenem nepůsobí na Pseudomonas.**
+**Monobaktam — aztreonam:** ⚠️ **jen gramnegativní**, ale ⚠️ **strukturálně natolik odlišný, že ho lze podat i pacientovi s alergií na penicilin.**
+
+❓ **DOPTAJÍ SE:**
+- *Proč se ceftriaxon hodí na meningitidu?* → **prochází přes zanícené mozkové pleny a pokrývá pneumokoka i meningokoka**
+- *Nejčastější NÚ cefalosporinů?* → **alergie a průjem**, včetně ⚠️ **infekce Clostridioides difficile**
+- *Proč se antibiotikum rezervuje?* → **čím častěji se používá, tím rychleji vzniká rezistence** — a u karbapenemů už není další patro, kam ustoupit
+
+---
+
+## 85 · Aminoglykosidy, chinolony
+
+▶ **ZAČNI:** „Obě skupiny jsou **baktericidní a koncentračně závislé** — což znamená, že se dávkují ve velkých dávkách jednou denně. A obě mají **typickou orgánovou toxicitu, kterou se u zkoušky vždycky ptají.**"
+
+**AMINOGLYKOSIDY — gentamicin, amikacin, tobramycin, streptomycin:**
+⚠️ **Blokují 30S podjednotku ribozomu, ale jsou BAKTERICIDNÍ** — což je výjimka, protože ostatní inhibitory bílkovinné syntézy jsou bakteriostatické.
+⚠️ **Nevstřebávají se ze střeva → jen parenterálně.** Nepůsobí na anaeroby (potřebují kyslíkem poháněný přenos dovnitř).
+⚠️ **NEFROTOXICITA** (obvykle vratná) a ⚠️ **OTOTOXICITA — poškození sluchu a rovnováhy, které bývá TRVALÉ.** Proto se hlídají hladiny.
+**Synergie s betalaktamy** — ten poruší stěnu a aminoglykosid se snáz dostane dovnitř.
+
+**CHINOLONY — ciprofloxacin, ofloxacin, levofloxacin, moxifloxacin:**
+⚠️ **Blokují TOPOIZOMERÁZU II, tedy DNA-GYRÁZU, a topoizomerázu IV.** ⚠️ **Ve vašem zdroji je uvedena „DNA-polymeráza" — to je chyba a u zkoušky by vyzněla špatně.**
+**NÚ, na které se ptají:** ⚠️ **zánět a ruptura šlach (typicky Achillovy), zvlášť u seniorů a při současných kortikoidech** · ⚠️ **kontraindikace u dětí a v graviditě (poškození chrupavek)** · prodloužení QT · fotosenzitivita · průjem po *C. difficile* · neuropsychické projevy.
+⚠️ **Chelatace: vápník, hořčík a železo je ve střevě naváží a znemožní vstřebání** — nesmí se zapíjet mlékem ani brát s antacidy.
+
+❓ **DOPTAJÍ SE:**
+- *Proč se aminoglykosidy dávkují jednou denně?* → **zabíjejí koncentračně a mají dlouhý postantibiotický efekt** — vysoký vrchol je účinnější, a dlouhá pauza navíc chrání ledvinu, do které se jinak kumulují
+- *Kdy chinolon v ústní oblasti?* → ⚠️ **spíš výjimečně** — ústní flóra na ně není optimálně citlivá a jsou to léky s významnými riziky
+- *Proč je streptomycin dnes hlavně u tuberkulózy?* → **historicky první účinné antituberkulotikum**; jinak ho nahradily bezpečnější léky
+
+---
+
+## 86 · Linkosamidy, glykopeptidy, polymyxiny
+
+▶ **ZAČNI:** „Tyhle tři skupiny mají společné to, že jsou **rezervní nebo úzce zaměřené.** Pro zubní lékařství je z nich nejdůležitější **klindamycin** — a tomu proto věnuji nejvíc."
+
+**KLINDAMYCIN (linkosamid):**
+⚠️ **Blokuje 50S ribozom**, bakteriostatický. Působí na **grampozitivní koky a hlavně na ANAEROBY.**
+⚠️ **ZUBAŘSKY klíčové dvě věci: vynikající průnik do KOSTI a účinek na anaeroby.** Proto je lékem volby u **odontogenních abscesů, osteomyelitidy čelisti** a **alternativou u alergie na penicilin** (včetně profylaxe endokarditidy).
+⚠️ **Hlavní riziko: pseudomembranózní kolitida vyvolaná *Clostridioides difficile*** — klindamycin je s ní historicky nejvíc spojován. Projeví se **vodnatými průjmy během léčby i po ní**; léčí se **vankomycinem perorálně nebo fidaxomicinem.**
+
+**GLYKOPEPTIDY — vankomycin, teikoplanin:**
+⚠️ **Blokují stavbu buněčné stěny, ale na jiném místě než betalaktamy** → fungují i tam, kde jsou betalaktamázy. ⚠️ **Jen na grampozitivní — lék volby u MRSA.**
+⚠️ **Perorálně se nevstřebávají — a právě proto se perorální vankomycin používá na kolitidu vyvolanou *C. difficile***: zůstane ve střevě, kde je potřeba.
+⚠️ **„Red man syndrome"** — zarudnutí a svědění při rychlé infuzi; ⚠️ **není to alergie, je to histaminová reakce**, řeší se zpomalením infuze. Dále nefro- a ototoxicita.
+
+**POLYMYXINY — kolistin:** ⚠️ **narušují cytoplazmatickou membránu jako detergent**; rezerva na **multirezistentní gramnegativní** bakterie; ⚠️ **výrazně nefrotoxické a neurotoxické.**
+
+❓ **DOPTAJÍ SE:**
+- *Proč klindamycin do kosti?* → **výborně proniká do kostní tkáně a hromadí se i v abscesech** — u čelistní infekce je to rozhodující vlastnost
+- *Jak poznáš klostridiovou kolitidu?* → **vodnatý průjem, křeče, horečka, leukocytóza během nebo po antibiotické léčbě**; ⚠️ **nepodávat léky tlumící střevní pohyb**
+- *Proč vankomycin nefunguje na gramnegativní bakterie?* → **je to velká molekula a přes zevní membránu gramnegativní bakterie se nedostane**
+
+---
+
+## 87 · Tetracykliny, amfenikoly
+
+▶ **ZAČNI:** „Tetracykliny jsou **širokospektrá bakteriostatická antibiotika, která blokují 30S podjednotku ribozomu.** Hned to zdůrazním, protože **ve vašich vypracovaných otázkách je u nich uvedená inhibice buněčné stěny — a to je chyba.**"
+
+⚠️ **OPRAVA ZDROJE: tetracykliny NEPŮSOBÍ na buněčnou stěnu. Blokují RIBOZOM, podjednotku 30S.** Buněčnou stěnu blokují betalaktamy a glykopeptidy. U zkoušky by tahle záměna vyzněla jako neznalost základu.
+
+**Zástupci:** **doxycyklin** (dnes hlavní), minocyklin, tetracyklin.
+**Spektrum:** široké, ⚠️ **včetně atypických původců — chlamydie, mykoplazmata, borrelie, rickettsie** (proto doxycyklin u lymeské boreliózy).
+
+```
+  ⚠️ ZUBAŘSKY NEJDŮLEŽITĚJŠÍ NEŽÁDOUCÍ ÚČINEK:
+     tetracyklin se váže na VÁPNÍK → ukládá se do rostoucí kosti a ZUBU
+     → ⚠️ NEVRATNÉ ŠEDOHNĚDÉ ZBARVENÍ, které je UVNITŘ skloviny a dentinu
+       → ⚠️ NEDÁ SE VYBĚLIT (barvivo není na povrchu) + hypoplazie skloviny
+     ⚠️ KONTRAINDIKACE do 8 let věku a v GRAVIDITĚ a při kojení
+```
+
+**Další NÚ:** ⚠️ **chelatace s vápníkem, hořčíkem a železem** → nesmí se zapíjet mlékem ani brát s antacidy; **fotosenzitivita**; **ezofagitida** (⚠️ zapít velkým množstvím vody a nelehat si).
+⚠️ **Zajímavost k parodontologii: doxycyklin v nízké, subantimikrobiální dávce se používá jako inhibitor kolagenáz** — ne jako antibiotikum, ale jako lék tlumící rozpad závěsného aparátu zubu. **[⚠️ ověřit, zda to vaše skripta uvádějí.]**
+
+**AMFENIKOLY — chloramfenikol:** ⚠️ **50S ribozom.** Dnes systémově prakticky opuštěný kvůli dvěma věcem: ⚠️ **APLASTICKÁ ANEMIE — idiosynkratická, nezávislá na dávce a smrtelná** — a ⚠️ **GRAY BABY SYNDROM u novorozence** (nezralá glukuronidace → kumulace → šedavé zbarvení, kolaps). Zůstal hlavně v očních kapkách a mastech.
+
+❓ **DOPTAJÍ SE:**
+- *Kdy se zbarvení zubů vytvoří?* → **jen v době vývoje zubu** — proto věková hranice; u dospělého už tohle riziko není
+- *Proč doxycyklin a ne tetracyklin?* → **lepší vstřebávání, delší poločas, méně ovlivněné jídlem, lze i při renální insuficienci**
+- *Proč jsou dnes tetracykliny méně účinné, než bývaly?* → **široké používání, včetně veterinárního, vedlo k rozsáhlé rezistenci**
+
+---
+
+## 88 · Makrolidy
+
+▶ **ZAČNI:** „Makrolidy **blokují 50S podjednotku ribozomu**, jsou bakteriostatické a jejich hlavní klinická role je dvojí: **pokrývají atypické původce a jsou náhradou při alergii na penicilin.** Jejich největší úskalí nejsou nežádoucí účinky, ale **lékové interakce.**"
+
+**Zástupci:** **erythromycin** (nejstarší, špatně snášený), **klarithromycin**, **azithromycin** (⚠️ **velmi dlouhý tkáňový poločas → třídenní kúra působí ještě řadu dní**), spiramycin.
+
+**KOSTRA:** mechanismus → zástupci → spektrum (⚠️ **atypické: mykoplazma, chlamydie, legionella, pertusse**) → indikace → ⚠️ **interakce přes CYP3A4** → ⚠️ QT → GIT nesnášenlivost
+
+⚠️ **NEJDŮLEŽITĚJŠÍ INTERAKCE:** **erythromycin a klarithromycin jsou silné inhibitory CYP3A4** → **zvyšují hladiny statinů (riziko rabdomyolýzy), warfarinu (krvácení), některých blokátorů kalciových kanálů, cyklosporinu, karbamazepinu.**
+🔑 **Azithromycin je v tomhle bezpečný** — CYP3A4 prakticky neinhibuje. Proto se u polymorbidního pacienta volí právě on.
+
+⚠️ **Prodloužení QT** — zvlášť v kombinaci s dalšími léky, které dělají totéž (antipsychotika, chinolony, ondansetron).
+⚠️ **Erythromycin dráždí žaludek, protože působí na motilinový receptor** — a téhle „nežádoucí" vlastnosti se využívá: **podává se jako prokinetikum u gastroparézy.**
+
+❓ **DOPTAJÍ SE:**
+- *Kdy makrolid v zubním lékařství?* → ⚠️ **jako alternativa při alergii na penicilin** (vedle klindamycinu); u odontogenní infekce ale nebývá první volbou kvůli rezistenci
+- *Proč azithromycin stačí 3 dny?* → **koncentruje se ve tkáních a v buňkách a uvolňuje se z nich pomalu** — hladina v místě infekce vydrží dlouho po poslední tabletě
+- *Proč se makrolid nedá u pacienta na statinu jen tak přidat?* → **zvýší hladinu statinu několikanásobně** → riziko myopatie až rabdomyolýzy; buď se zvolí azithromycin, nebo se statin na dobu léčby přeruší
+
+---
