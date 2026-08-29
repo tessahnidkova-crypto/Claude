@@ -2138,3 +2138,582 @@
 - *Proč se makrolid nedá u pacienta na statinu jen tak přidat?* → **zvýší hladinu statinu několikanásobně** → riziko myopatie až rabdomyolýzy; buď se zvolí azithromycin, nebo se statin na dobu léčby přeruší
 
 ---
+# SPECKA II · otázky 89–136
+
+## 89 · Chemoterapeutika močových a střevních infekcí
+
+▶ **ZAČNI:** „U močových infekcí je klíčová myšlenka jednoduchá: **stačí, když se lék dostane do moči v dostatečné koncentraci** — nemusí být nutně dobrý v krvi. Proto se tu používají látky, které se jinde neuplatní."
+
+```
+  SULFONAMID + TRIMETHOPRIM = ⚠️ SEKVENČNÍ BLOKÁDA (kotrimoxazol)
+       PABA ──dihydropteroátsyntáza──> dihydrofolát ──reduktáza──> tetrahydrofolát
+              ⚠️ blokuje SULFONAMID            ⚠️ blokuje TRIMETHOPRIM
+       → dva zámky za sebou na jedné dráze → účinek se násobí
+       ⚠️ selektivita: člověk kyselinu listovou nevyrábí, přijímá ji stravou
+```
+
+**KOSTRA:** kotrimoxazol → **nitrofurantoin** → **fosfomycin** → chinolony → střevní (**rifaximin, nifuroxazid**) → ⚠️ *C. difficile*
+
+**Nitrofurantoin** — ⚠️ **koncentruje se v moči, ale v krvi a tkáních má nízkou hladinu → hodí se jen na dolní močové cesty, ne na pyelonefritidu.** Při dlouhodobém podávání ⚠️ **plicní fibróza a neuropatie.**
+**Fosfomycin** — ⚠️ **jednorázová dávka u nekomplikované cystitidy.**
+**Rifaximin** — ⚠️ **nevstřebává se ze střeva** → cestovatelské průjmy, jaterní encefalopatie.
+
+⚠️ **NÚ sulfonamidů, na které se ptají:** alergie a ⚠️ **Stevensův–Johnsonův syndrom**, krystalurie, hyperkalemie, útlum krvetvorby, a ⚠️ **jádrový ikterus u novorozence** — sulfonamid vytěsní bilirubin z vazby na albumin.
+
+⚠️ ***Clostridioides difficile*:** léčí se **vankomycinem perorálně** (nevstřebá se, zůstane ve střevě) nebo **fidaxomicinem**, případně metronidazolem u lehkých forem.
+
+❓ **DOPTAJÍ SE:**
+- *Proč sulfonamidy neškodí lidským buňkám?* → ⚠️ **člověk kyselinu listovou nesyntetizuje, přijímá ji hotovou** — bakterie ji vyrobit musí. Učebnicový příklad selektivní toxicity
+- *Kdy kotrimoxazol dnes?* → **močové infekce, ⚠️ pneumocystová pneumonie (i profylakticky u imunosuprimovaných)**, nokardióza
+- *Proč nedávat nitrofurantoin seniorce s pyelonefritidou?* → **v ledvinné tkáni ani v krvi nedosáhne účinné hladiny** — a při snížené funkci ledvin se ani do moči nedostane
+
+---
+
+## 90 · Antiparazitika
+
+▶ **ZAČNI:** „Rozdělím to na tři skupiny podle parazita — **antimalarika, antihelmintika a antiprotozoika.** Pro zubní lékařství je z toho nejdůležitější **metronidazol**, tak u něj skončím."
+
+**KOSTRA:** **antimalarika** → **antihelmintika** → **antiprotozoika** → ⚠️ **metronidazol podrobně**
+
+**Antimalarika:** chlorochin (⚠️ rozsáhlá rezistence), meflochin (⚠️ neuropsychické NÚ), atovakvon/proguanil, ⚠️ **artemisininové kombinace — dnešní lék volby u *P. falciparum*** · ⚠️ **primachin** likviduje **spící formy (hypnozoity) v játrech** u *P. vivax* a *ovale* — ⚠️ **při deficitu glukózo-6-fosfátdehydrogenázy způsobí hemolýzu**, proto se enzym předem testuje.
+**Antihelmintika:** **albendazol, mebendazol** (⚠️ blokují tvorbu mikrotubulů — roupi, škrkavky), **pyrantel**, **praziquantel** (tasemnice, motolice), **ivermektin.**
+
+⚠️ **METRONIDAZOL — nejvíc zubařsky užitečné antiparazitikum:**
+```
+  ⚠️ účinný jen tam, kde NENÍ kyslík — v anaerobním prostředí se aktivuje
+     → amébóza · giardióza · trichomoniáza · A NAVÍC ANAEROBNÍ BAKTERIE
+  ⚠️ DISULFIRAMOVÁ REAKCE S ALKOHOLEM (nevolnost, zvracení, návaly)
+  ⚠️ kovová chuť v ústech · tmavá moč · při dlouhém podávání neuropatie
+```
+⚠️ **Zubařsky: metronidazol u nekrotizující ulcerózní gingivitidy a v kombinaci s amoxicilinem u agresivní parodontitidy** — pokrývá anaeroby, které amoxicilin nezvládne.
+
+❓ **DOPTAJÍ SE:**
+- *Proč se u roupů léčí celá rodina a dávka se opakuje?* → **vajíčka přežívají v prostředí a snadno se přenášejí** — opakuje se za 2 týdny, aby se zasáhla nová generace
+- *Co je disulfiramová reakce?* → **lék blokuje aldehyddehydrogenázu → hromadí se acetaldehyd** → pacient se po alkoholu cítí velmi zle; musí být poučen
+- *Proč metronidazol neúčinkuje na aerobní bakterie?* → **potřebuje být uvnitř bakterie redukován, a to se v přítomnosti kyslíku nestane**
+
+---
+
+## 91 · Antituberkulotika a antileprotika
+
+▶ **ZAČNI:** „U tuberkulózy platí dvě neměnná pravidla, kterými začnu: **nikdy monoterapie a nikdy krátce.** Mykobakterie se pomalu dělí, jsou uvnitř makrofágů a rychle si vytvoří rezistenci."
+
+```
+  ⚠️ REŽIM: 2 měsíce H R Z E   →   4 měsíce H R      (celkem 6 měsíců)
+
+  H  IZONIAZID    ⚠️ hepatotoxicita · ⚠️ PERIFERNÍ NEUROPATIE
+                     → PREVENCE PYRIDOXINEM (vitamin B6)
+  R  RIFAMPICIN   ⚠️ SILNÝ INDUKTOR CYP → ⚠️ selže antikoncepce, warfarin
+                     ⚠️ ORANŽOVÁ moč, slzy, pot (barví kontaktní čočky)
+  Z  PYRAZINAMID  ⚠️ hyperurikemie (dna), hepatotoxicita
+  E  ETHAMBUTOL   ⚠️ RETROBULBÁRNÍ NEURITIDA → porucha barvocitu a ostrosti
+```
+
+**KOSTRA:** zásady léčby → **čtyři léky první linie a jejich typická toxicita** → délka → ⚠️ **adherence a DOT** → rezistentní formy → antileprotika
+
+⚠️ **Léčba trvá měsíce a pacient se cítí dobře už po pár týdnech — proto se používá kontrolované podávání (DOT).** Nedodržení = multirezistentní tuberkulóza.
+**Antileprotika:** **dapson, klofazimin, rifampicin** — také vždy v kombinaci a velmi dlouho.
+
+❓ **DOPTAJÍ SE:**
+- *Proč se k izoniazidu přidává vitamin B6?* → **izoniazid vyčerpává pyridoxin** a jeho nedostatek se projeví periferní neuropatií
+- *Která interakce je klinicky nejzávažnější?* → ⚠️ **rifampicin jako induktor** — sníží hladinu antikoncepce, warfarinu, antiretrovirotik, kortikoidů; pacientka musí být poučena o náhradní antikoncepci
+- *Proč se izoniazid u někoho hromadí?* → ⚠️ **acetylace je geneticky rozdělená na pomalé a rychlé metabolizátory** — pomalí mají vyšší riziko neuropatie a hepatotoxicity
+
+---
+
+## 92 · Antimykotika
+
+▶ **ZAČNI:** „Houba je **eukaryotická buňka jako naše** — proto je selektivní toxicita mnohem těžší než u bakterií. **Zachraňuje nás jeden rozdíl: houba má v membráně ERGOSTEROL, člověk cholesterol.** Na tom stojí většina antimykotik."
+
+```
+  ┌── MEMBRÁNA (ergosterol)
+  │     POLYENY  amfotericin B, NYSTATIN — vážou se na ergosterol → díra
+  │     AZOLY    flukonazol, itrakonazol, mikonazol, klotrimazol
+  │              ⚠️ blokují 14-α-demetylázu → ergosterol se nevyrobí
+  │              ⚠️ SILNÉ INHIBITORY CYP → interakce (warfarin, statiny)
+  │     TERBINAFIN — skvalenepoxidáza (⚠️ onychomykóza)
+  │
+  └── BUNĚČNÁ STĚNA (β-glukan) ⚠️ člověk ji nemá vůbec
+        ECHINOKANDINY  kaspofungin, anidulafungin → ⚠️ nejlépe snášené
+```
+
+**KOSTRA:** problém selektivity → **cíle: membrána × stěna** → skupiny → ⚠️ interakce azolů → **orální kandidóza**
+
+⚠️ **Amfotericin B — „amphoterrible":** velmi účinný, ale **nefrotoxický**, s horečkou a třesavkou při infuzi; lipidové formy jsou snesitelnější.
+
+⚠️ **ZUBAŘSKÝ PŘESAH — ORÁLNÍ KANDIDÓZA:** **nystatinová suspenze nebo mikonazolový gel lokálně, flukonazol systémově u rozsáhlých a recidivujících forem.**
+⚠️ **Nutné je hledat příčinu:** **inhalační kortikoidy bez výplachu úst, protéza (⚠️ musí se dezinfikovat, jinak se pacient znovu nakazí), xerostomie, diabetes, imunosuprese, antibiotika.**
+⚠️ **Past, na kterou se ptají: i lokální mikonazolový gel v ústech se vstřebá natolik, že zvýší účinek warfarinu** — u antikoagulovaného pacienta je to reálné riziko krvácení.
+
+❓ **DOPTAJÍ SE:**
+- *Proč jsou echinokandiny bezpečné?* → **cílí na buněčnou stěnu z β-glukanu, kterou lidská buňka nemá vůbec** — obdoba penicilinu u bakterií
+- *Proč terbinafin u nehtů?* → **hromadí se v keratinu a zůstává tam týdny po skončení léčby**
+- *Kdy pomyslet na kandidózu u zdánlivě zdravého člověka?* → ⚠️ **opakovaná bez zjevné příčiny je varovný příznak — nepoznaný diabetes nebo imunodeficit**
+
+---
+
+## 93 · Antivirotika
+
+▶ **ZAČNI:** „Virus se množí uvnitř naší buňky a používá její aparát — **proto je tady selektivní toxicita nejtěžší ze všech.** Nejelegantnějším řešením je **aciklovir**, na kterém to celé vysvětlím."
+
+```
+  ⚠️ ACIKLOVIR = proléčivo, které aktivuje sám virus
+     aciklovir ──VIROVÁ THYMIDINKINÁZA──> monofosfát ──buněčné kinázy──> trifosfát
+                  ⚠️ TENHLE ENZYM MÁ JEN INFIKOVANÁ BUŇKA
+     → v neinfikované buňce zůstane lék neaktivní a neškodný
+     → trifosfát pak blokuje virovou DNA-polymerázu a ukončí řetězec
+```
+
+**KOSTRA:** obtížnost selektivity → **herpetická virostatika** → **chřipka** → **hepatitidy** → COVID → ⚠️ zubařský přesah
+
+**Herpetické viry:** aciklovir, **valaciklovir** (⚠️ lépe se vstřebává), famciklovir; **ganciklovir a valganciklovir** u cytomegaloviru (⚠️ **útlum kostní dřeně**), foskarnet a cidofovir jako rezerva (⚠️ nefrotoxické).
+**Chřipka:** **oseltamivir, zanamivir** — ⚠️ **inhibitory neuraminidázy, účinné jen při podání do 48 hodin od začátku příznaků.**
+**Hepatitida B:** tenofovir, entekavir (dlouhodobě potlačují, nevyléčí).
+**Hepatitida C:** ⚠️ **přímo působící antivirotika (sofosbuvir a kombinace) — vyléčí přes 95 % pacientů**, což je jeden z největších obratů v moderní farmakoterapii.
+
+⚠️ **ZUBAŘSKY:** **primární herpetická gingivostomatitida** u dětí a **herpes labialis** — **aciklovir má smysl jen když se začne velmi brzy, ideálně v prodromu.** ⚠️ **U herpetické léze v ústech se NEDÁVAJÍ kortikoidy.**
+
+❓ **DOPTAJÍ SE:**
+- *Proč se aciklovir nemůže dávat na plané neštovice pozdě?* → **působí jen na množící se virus** — když už jsou puchýře plně vyvinuté, replikace končí
+- *Proč antivirotika obvykle nevyléčí, ale jen potlačí?* → ⚠️ **virus přetrvává v latentní formě (herpes v gangliích, HIV v rezervoárech)**, kde není žádná replikace, kterou by šlo zasáhnout
+- *Jak se chránit u pacienta s herpetickou lézí?* → **odložit neakutní ošetření**, jinak ⚠️ přísná bariérová ochrana — ⚠️ **hrozí herpetická panaricium (whitlow) na prstu**
+
+---
+
+## 94 · Antiretrovirotika
+
+▶ **ZAČNI:** „HIV se léčí **vždy kombinací, nikdy jedním lékem** — obvykle třemi látkami ze dvou různých tříd. Důvod je jediný: **virus mutuje tak rychle, že proti jednomu léku vytvoří rezistenci během týdnů.**"
+
+```
+  ⚠️ VSTUP DO BUŇKY ── inhibitory vstupu: maravirok, enfuvirtid
+  ⚠️ PŘEPIS RNA → DNA
+        NRTI  tenofovir, emtricitabin, abakavir, lamivudin
+              ⚠️ ABAKAVIR: HLA-B*5701 → před nasazením se TESTUJE
+        NNRTI efavirenz, doravirin, rilpivirin
+  ⚠️ VLOŽENÍ DO NAŠÍ DNA
+        INHIBITORY INTEGRÁZY  dolutegravir, bictegravir  ⚠️ dnešní základ
+  ⚠️ DOZRÁVÁNÍ ČÁSTICE
+        INHIBITORY PROTEÁZY  darunavir, atazanavir (+ ritonavir jako „booster")
+              ⚠️ lipodystrofie, dyslipidemie, hodně interakcí
+```
+
+**KOSTRA:** proč kombinace → **fáze životního cyklu a kde se do nich zasahuje** → NÚ → ⚠️ **PrEP a PEP** → ⚠️ **U = U**
+
+⚠️ **Ritonavir se dnes nepoužívá jako lék, ale jako „booster"** — je to silný inhibitor CYP3A4, takže **schválně zpomalí odbourávání hlavního léku.** Nežádoucí vlastnost využitá záměrně.
+⚠️ **U = U (undetectable = untransmittable):** pacient s dlouhodobě nedetekovatelnou virovou náloží **virus nepřenáší.** To je pro praxi zásadní a mění to i postoj k pacientovi v ordinaci.
+⚠️ **PrEP** = preventivní užívání před expozicí u rizikových osob; **PEP** = ⚠️ **postexpoziční profylaxe — musí začít do 72 hodin, ideálně do několika hodin.**
+
+❓ **DOPTAJÍ SE:**
+- *Co dělat po poranění kontaminovanou jehlou?* → **nechat ránu krvácet, opláchnout, dezinfikovat, nahlásit, odběry**, ⚠️ **zvážit postexpoziční profylaxi co nejdřív**
+- *Jak se chová zubař k HIV pozitivnímu pacientovi?* → ⚠️ **standardně** — bariérová opatření platí u všech pacientů stejně, protože o většině infekcí se neví
+- *Proč se HIV nedá vyléčit?* → ⚠️ **virová DNA je vložená do genomu klidových buněk (latentní rezervoár)**, kde ji žádný z léků nezasáhne
+
+---
+
+## 95 · Antitusika, mukolytika, expektorancia
+
+▶ **ZAČNI:** „Nejdůležitější věta téhle otázky je praktická: **antitusikum a mukolytikum se navzájem vylučují.** Když rozředím hlen a zároveň potlačím kašel, pacient ho nemá jak vykašlat a hlen zůstane v průduškách."
+
+**KOSTRA:** ⚠️ **kašel produktivní × suchý** → antitusika centrální a periferní → **mukolytika** → expektorancia → ⚠️ pravidlo o kombinaci
+
+**Antitusika — jen na suchý dráždivý kašel:** opioidní **kodein a dihydrokodein** (⚠️ návykové, tlumí dech, zácpa) · **butamirát** (⚠️ nenávykový, dnes běžnější) · **dextrometorfan** (⚠️ ve vyšších dávkách zneužívaný jako disociativní droga).
+**Mukolytika — na produktivní kašel s hustým hlenem:** ⚠️ **N-acetylcystein** (**štěpí disulfidové můstky v hlenu** — ⚠️ **tentýž lék je antidotem otravy paracetamolem**), **ambroxol, bromhexin, erdostein**, ⚠️ **dornáza alfa** u cystické fibrózy (štěpí DNA z rozpadlých leukocytů, která hlen zahušťuje).
+**Expektorancia** (guaifenesin, saponiny) — zvyšují objem a řídkost sekretu; ⚠️ **evidence je slabá, základem je dostatek tekutin.**
+
+❓ **DOPTAJÍ SE:**
+- *Kdy je kašel užitečný?* → **je to obranný reflex, který čistí dýchací cesty** — potlačovat ho má smysl jen když je vysilující a neproduktivní
+- *Proč se N-acetylcystein podává i u otravy paracetamolem?* → **dodá cystein pro tvorbu glutathionu**, který zneškodní NAPQI
+- *Na co pomyslet u dlouhotrvajícího suchého kašle?* → ⚠️ **ACE inhibitor** (nejčastější léková příčina), dále astma, reflux, ⚠️ a u kuřáka vždy vyloučit nádor
+
+---
+
+## 96 · Antiastmatika
+
+▶ **ZAČNI:** „Astma je **chronický zánět** dýchacích cest s bronchiální hyperreaktivitou. Z toho plyne celé rozdělení léčby na **úlevovou a preventivní — a to, že základem NENÍ bronchodilatátor, ale INHALAČNÍ KORTIKOID.**"
+
+```
+  ⚠️ ÚLEVOVÁ (podle potřeby)      ⚠️ KONTROLUJÍCÍ (denně, i když je dobře)
+     SABA  salbutamol, fenoterol     ⭐ INHALAČNÍ KORTIKOIDY = ZÁKLAD
+     SAMA  ipratropium                  budesonid, flutikason, beklometason
+     systémový kortikoid u záchvatu  LABA formoterol, salmeterol
+                                        ⚠️ NIKDY SAMOSTATNĚ — zvyšuje úmrtnost
+                                     LAMA tiotropium
+                                     antileukotrieny  montelukast
+                                     teofylin (⚠️ úzké okno)
+                                     BIOLOGIKA  omalizumab (anti-IgE),
+                                        mepolizumab, dupilumab
+```
+
+**KOSTRA:** zánětlivá podstata → **úlevová × kontrolující** → stupňovitá léčba → ⚠️ **inhalační technika** → NÚ → ⚠️ zubařský přesah
+
+⚠️ **ZUBAŘSKÝ PŘESAH — velmi vděčná otázka:**
+- **Inhalační kortikoid způsobuje ORÁLNÍ KANDIDÓZU a chrapot** → ⚠️ **po každé inhalaci vypláchnout ústa a používat nástavec (spacer).**
+- **Astmatik má u ošetření mít svůj inhalátor po ruce** a ošetření má být bez zbytečného stresu.
+- ⚠️ **NSA jsou u astmatika s intolerancí aspirinu kontraindikovaná** (Samterova trias) → volit **paracetamol.**
+- ⚠️ **Pozor na sirupy a časté sladké nápoje**, kterými si pacienti splachují sucho v ústech.
+
+❓ **DOPTAJÍ SE:**
+- *Proč není salbutamol základem léčby?* → **řeší příznak, ne zánět;** ⚠️ **rostoucí spotřeba úlevového inhalátoru je varovný signál špatně kontrolovaného astmatu**
+- *Proč se u astmatu nedá betablokátor?* → **blokáda β2 vyvolá bronchospazmus**; ⚠️ platí i pro oční kapky s timololem
+- *Jak se liší léčba CHOPN?* → ⚠️ **tam jsou základem bronchodilatátory (LAMA, LABA) a kortikoid se přidává jen u části pacientů** — zánět je jiného typu
+
+---
+
+## 97 · Antihistaminika
+
+▶ **ZAČNI:** „Antihistaminika, o kterých se mluví u alergie, jsou **blokátory receptoru H1.** Celá otázka se dá postavit na jedné jediné vlastnosti: **jestli lék projde do mozku, nebo ne.**"
+
+| | **I. generace** | **II. generace** |
+|---|---|---|
+| Zástupci | bisulepin, prometazin, difenhydramin, **hydroxyzin** | **cetirizin, loratadin, desloratadin, bilastin, fexofenadin** |
+| Průnik do CNS | ⚠️ **ano** | ⚠️ **ne** |
+| Sedace | ⚠️ výrazná | minimální |
+| Anticholinergní účinky | ⚠️ **ano — xerostomie, zácpa, retence** | ne |
+| Kdy se hodí | kinetóza, nevolnost, svědění, **navození spánku, premedikace** | ⚠️ **běžná léčba alergie** |
+
+**KOSTRA:** histamin a jeho receptory → **dvě generace** → indikace → ⚠️ **co antihistaminikum NEUMÍ** → H2 blokátory pro srovnání
+
+⚠️ **Nejdůležitější varování celé otázky: ANTIHISTAMINIKUM NESTAČÍ NA ANAFYLAXI.** Tam je lékem první volby **adrenalin i.m.**; antihistaminikum a kortikoid jsou až doplněk a působí pozdě. **Tohle je otázka, kterou zkoušející rádi kladou jako past.**
+⚠️ **Blokátory H2 (famotidin) nepatří k alergii, ale k vředové chorobě** — na jiném receptoru a v jiném orgánu.
+
+❓ **DOPTAJÍ SE:**
+- *Proč se hydroxyzin používá v premedikaci?* → **je zároveň anxiolytikum, antiemetikum a antihistaminikum** — u úzkostného pacienta před výkonem se to hodí
+- *Zubařský dopad dlouhodobého užívání?* → **antihistaminikum I. generace suší ústa** → u alergika, který ho bere měsíce, roste riziko kazu
+- *Proč nedávat I. generaci řidiči?* → **sedace a zpomalení reakcí**, i když ji pacient subjektivně nevnímá
+
+---
+
+## 98 · Laxativa, antidiaroika
+
+▶ **ZAČNI:** „Rozdělím to na dvě protilehlé skupiny. **U laxativ je klíčové rozdělení podle mechanismu**, u antidiaroik je nejdůležitější věta ta, že **základem léčby průjmu je rehydratace, ne lék na zastavení.**"
+
+```
+  LAXATIVA
+   OBJEMOVÁ    psyllium, otruby   ⚠️ nutný dostatek tekutin, jinak škodí
+   OSMOTICKÁ   laktulóza · makrogol · síran hořečnatý
+   STIMULAČNÍ  bisakodyl, senna  ⚠️ ne dlouhodobě (ztráta kalia, návyk)
+   ZMĚKČUJÍCÍ  parafinový olej, dokusát
+   CÍLENÁ      ⚠️ methylnaltrexon u opioidové zácpy · prukaloprid
+```
+
+⚠️ **LAKTULÓZA — proč funguje i u jaterní encefalopatie (klasická otázka):**
+```
+  laktulóza se ve střevě rozloží na kyseliny → OKYSELÍ obsah střeva
+     NH₃ (projde stěnou) + H⁺ → ⚠️ NH₄⁺ (nabitý → NEPROJDE)
+  → amoniak zůstane uvězněný ve střevě a odejde stolicí = IONTOVÁ PAST
+```
+
+**Antidiaroika:** ⚠️ **rehydratační roztok je základ** · **loperamid** (⚠️ **opioid, který nepřechází do mozku**; ⚠️ **KONTRAINDIKOVANÝ u horečnaté a krvavé dysenterie a u infekce *C. difficile*** — zadržel by toxiny) · **diosmektit, aktivní uhlí, probiotika, racekadotril.**
+
+❓ **DOPTAJÍ SE:**
+- *Proč se u infekčního průjmu nemá průjem hned zastavit?* → **je to obranný mechanismus, kterým se tělo zbavuje patogenu a toxinů**; zastavením hrozí toxické megakolon
+- *Jak se řeší zácpa u pacienta na opioidech?* → ⚠️ **laxativum se nasazuje SOUČASNĚ s opioidem, ne až vznikne problém** — zácpa se nikdy nevytoleruje
+- *Zubařsky?* → **antacida a laxativa s hořčíkem a hliníkem ⚠️ chelatují antibiotika**; a chronické průjmy znamenají malnutrici a horší hojení
+
+---
+
+## 99 · Farmakoterapie vředové choroby a GERD
+
+▶ **ZAČNI:** „Vředová choroba má dnes **dvě hlavní příčiny — *Helicobacter pylori* a nesteroidní antirevmatika.** Z toho plyne, že samotné tlumení kyseliny je jen půlka práce; **druhá je odstranit příčinu.**"
+
+```
+  PPI (omeprazol, pantoprazol, esomeprazol)
+     ⚠️ PROLÉČIVO, které se aktivuje až v KYSELÉM prostředí u pumpy
+     ⚠️ IREVERZIBILNĚ blokuje H⁺/K⁺-ATPázu → účinek přetrvává, i když lék zmizí
+     ⚠️ UŽÍVAT 30 MINUT PŘED JÍDLEM (pumpa musí být aktivní)
+```
+
+**KOSTRA:** příčiny → **PPI** → H2 blokátory → antacida → sukralfát a bismut → ⚠️ **eradikace *H. pylori*** → ⚠️ NÚ dlouhodobé léčby → zubařský přesah
+
+⚠️ **Eradikace *H. pylori*:** **PPI + dvě antibiotika (typicky amoxicilin + klarithromycin) po 10–14 dní**, případně kvadruterapie s bismutem tam, kde je rezistence na klarithromycin. **[⚠️ ověřit aktuální schéma podle vašich skript.]**
+
+⚠️ **NÚ dlouhodobého podávání PPI, na které se ptají:** **hypomagnezemie**, **deficit vitaminu B12 a železa**, **osteoporóza a zlomeniny**, **vyšší riziko střevních infekcí včetně *C. difficile***, a ⚠️ **omeprazol snižuje účinnost klopidogrelu** (blokuje CYP2C19, který ho aktivuje) — proto se u kardiaka volí **pantoprazol.**
+
+⚠️ **ZUBAŘSKÝ PŘESAH — REFLUX A EROZE SKLOVINY:** kyselina se dostává do úst a rozpouští sklovinu ⚠️ **typicky na patrových plochách horních zubů.** Pacient bývá bez pálení žáhy (němý reflux). ⚠️ **Po epizodě refluxu se nemá hned čistit zuby** — změklá sklovina by se odírala; nejprve vypláchnout.
+
+❓ **DOPTAJÍ SE:**
+- *Proč PPI nefungují hned první den naplno?* → **zablokují jen pumpy, které jsou právě aktivní; plný efekt se rozvíjí za několik dní**
+- *Jak chránit žaludek pacientovi, který musí brát NSA?* → **přidat PPI** (nebo misoprostol), zvolit nejnižší dávku a nejkratší dobu; ⚠️ ideálně zvážit paracetamol
+- *Kdy je alarmující příznak?* → **hubnutí, potíže s polykáním, zvracení krve, anémie** → ⚠️ endoskopie, ne prosté nasazení PPI
+
+---
+
+## 100 · Prokinetika, antiemetika, emetika
+
+▶ **ZAČNI:** „Antiemetika si nejlíp uspořádám **podle receptoru, který blokují** — protože podle vyvolávající příčiny se vybírá právě podle toho, který receptor je v té situaci hlavní."
+
+| Situace | Lék | Receptor |
+|---|---|---|
+| **chemoterapie** | **ondansetron** (+ dexamethason, aprepitant) | **5-HT3**, NK1 |
+| **kinetóza** | **skopolamin, prometazin** | **M, H1** |
+| **gastrostáza, migréna** | **metoklopramid, itoprid** | **D2** + prokinetikum |
+| parkinsonik | ⚠️ **domperidon** | D2, ⚠️ **neprochází do mozku** |
+| úzkost, anticipační zvracení | benzodiazepin | — |
+
+**KOSTRA:** mechanismus zvracení (⚠️ **area postrema — chemorecepční spouštěcí zóna mimo hematoencefalickou bariéru**) → prokinetika → antiemetika podle receptorů → emetika
+
+⚠️ **METOKLOPRAMID — dvě pasti:** je to **blokátor D2**, takže ⚠️ **může vyvolat extrapyramidové příznaky, zejména akutní dystonii u mladých lidí** (křeč krku a očí — dramaticky vypadá, řeší se biperidenem). Proto ⚠️ **maximálně 5 dní.** A ⚠️ **u parkinsonika je kontraindikovaný** — místo něj **domperidon.**
+⚠️ **Domperidon prodlužuje QT** a nemá se kombinovat s dalšími takovými léky.
+⚠️ **Emetika (ipekakuanha) se dnes NEPOUŽÍVAJÍ** — riziko aspirace a zpoždění účinné léčby je větší než přínos.
+
+❓ **DOPTAJÍ SE:**
+- *Proč zvracíme po chemoterapii?* → **cytostatikum poškodí buňky střevní sliznice, ty vyplaví serotonin, který přes 5-HT3 receptory spustí zvracení** — proto zabírá právě ondansetron
+- *Proč se dá metoklopramid u migrény?* → **rozhýbe zastavený žaludek, takže se analgetikum vůbec vstřebá**
+- *Nejčastější NÚ ondansetronu?* → **bolest hlavy a zácpa**; ⚠️ a prodloužení QT
+
+---
+
+## 101 · Farmakoterapie nespecifických střevních zánětů
+
+▶ **ZAČNI:** „Crohnova choroba a ulcerózní kolitida se léčí **ve dvou fázích, které je nutné rozlišovat: navození remise a její udržení.** A hlavní věta je, že **kortikoidy patří jen do první fáze — na udržení se nikdy nepoužívají.**"
+
+**KOSTRA:** dvě jednotky → ⚠️ **navození × udržení remise** → aminosalicyláty → kortikoidy → imunosupresiva → **biologika** → ⚠️ screening před biologickou léčbou
+
+**Aminosalicyláty** — **mesalazin, sulfasalazin**: ⚠️ **hlavně u ulcerózní kolitidy**, působí místně na sliznici.
+**Kortikoidy** — ⚠️ **jen na navození remise**; **budesonid** má ⚠️ **vysoký first-pass efekt, takže působí ve střevě a systémově z něj zůstane málo** → méně nežádoucích účinků.
+**Imunosupresiva** — **azathioprin** (⚠️ **před nasazením se testuje enzym TPMT**, jinak hrozí těžký útlum dřeně), methotrexát.
+**Biologika** — **infliximab, adalimumab (anti-TNF)**, vedolizumab, ustekinumab.
+
+⚠️ **Před nasazením anti-TNF je povinný screening tuberkulózy** — **TNF-α udržuje pohromadě granulom; když ho zablokuješ, granulom se rozpadne a latentní tuberkulóza propukne.**
+
+❓ **DOPTAJÍ SE:**
+- *Proč se kortikoidy nesmí použít dlouhodobě?* → **osteoporóza, diabetes, katarakta, infekce, útlum osy — a přitom remisi neudrží**; udržovací role patří imunosupresivům a biologikům
+- *Zubařsky?* → ⚠️ **aftózní léze v ústech mohou být projevem Crohnovy choroby**; imunosuprimovaný pacient má vyšší riziko infekcí a horší hojení
+- *Kouření a IBD?* → ⚠️ **paradox: kouření zhoršuje Crohnovu chorobu, ale u ulcerózní kolitidy má zdánlivě ochranný vliv** — přesto se kouření nikdy nedoporučuje
+
+---
+
+## 102 · Spasmolytika
+
+▶ **ZAČNI:** „Spazmolytika uvolňují křeč hladké svaloviny a dělí se na dvě skupiny podle toho, **kudy se k tomu svalu dostanou: neurotropní přeruší nervový signál, myotropní působí přímo na sval.**"
+
+```
+  NEUROTROPNÍ (anticholinergní)   BUTYLSKOPOLAMIN, atropin
+      ⚠️ butylskopolamin je KVARTÉRNÍ → nejde do mozku, málo systémových NÚ
+      ⚠️ ale platí anticholinergní kontraindikace: glaukom, retence, ileus
+
+  MYOTROPNÍ (přímo na sval)       papaverin · DROTAVERIN · mebeverin
+      ⚠️ bez anticholinergních nežádoucích účinků
+
+  KOMBINOVANÉ / analgetická složka   METAMIZOL (analgeticko-spazmolytické)
+```
+
+**KOSTRA:** dvě skupiny → zástupci → indikace (**žlučová a ledvinná kolika, dráždivý tračník, dysmenorea**) → NÚ a kontraindikace
+
+⚠️ **U kolik se spazmolytikum kombinuje s analgetikem** — metamizol nebo NSA. **Morfin sám by mohl spazmus zhoršit** (stahuje Oddiho svěrač), proto se nepodává bez spazmolytika.
+
+❓ **DOPTAJÍ SE:**
+- *Proč drotaverin a ne butylskopolamin u glaukomu?* → **drotaverin je myotropní a nemá anticholinergní účinky**, takže nezvýší nitrooční tlak
+- *Jak působí myotropní spazmolytika?* → **inhibicí fosfodiesterázy → zvýšení cAMP v buňce hladkého svalu → uvolnění** (papaverin je vlastně první inhibitor fosfodiesterázy)
+- *Zubařsky?* → ⚠️ **spazmolytika nemají u zubní bolesti místo** — ta není z hladké svaloviny; patří sem analgetika a ošetření příčiny
+
+---
+
+## 103 · Hepatoprotektiva, cholagoga
+
+▶ **ZAČNI:** „Chci u téhle otázky říct něco nepohodlného hned na začátku: **u většiny takzvaných hepatoprotektiv je důkaz účinnosti slabý.** Skutečně doložené jsou jen některé — a ty jmenuji přesně."
+
+**KOSTRA:** ⚠️ **co je doložené a co ne** → **kyselina ursodeoxycholová** → silymarin a fosfolipidy → **léčba jaterní encefalopatie** → **N-acetylcystein** → cholagoga
+
+⚠️ **Doložený účinek:**
+- **Kyselina ursodeoxycholová (UDCA)** — ⚠️ **primární biliární cholangitida**, rozpouštění cholesterolových kamenů, cholestáza v graviditě. **Nahrazuje toxické žlučové kyseliny méně toxickou.**
+- **N-acetylcystein** — otrava paracetamolem.
+- **Laktulóza + rifaximin** — jaterní encefalopatie (⚠️ dvě cesty: laktulóza uvězní amoniak, rifaximin sníží počet bakterií, které ho vyrábějí).
+- **Ornithin-aspartát** — podpora přeměny amoniaku na močovinu.
+
+⚠️ **Slabá evidence: silymarin (ostropestřec mariánský), esenciální fosfolipidy, ademetionin.** Nejsou škodlivé, ale **nenahradí odstranění příčiny** — abstinenci, vysazení hepatotoxického léku, léčbu hepatitidy.
+
+**Cholagoga:** **choleretika** zvyšují tvorbu žluči, **cholekinetika** vyprazdňují žlučník. ⚠️ **Kontraindikované u obstrukce žlučových cest.**
+
+❓ **DOPTAJÍ SE:**
+- *Co je nejúčinnější „hepatoprotektivum" u alkoholika?* → ⚠️ **abstinence**; žádný lék ji nenahradí
+- *Na co si dát pozor u pacienta s jaterní cirhózou?* → **snížená metabolická kapacita a nízký albumin** → ⚠️ vyšší volná frakce léků; **paracetamol v redukované dávce, ⚠️ NSA raději vůbec** (krvácení, ledviny)
+- *Proč se u encefalopatie omezují bílkoviny?* → ⚠️ **dnes se paušálně neomezují** — podvýživa je horší; řeší se laktulózou a rifaximinem
+
+---
+
+## 104 · Farmaka v očním lékařství
+
+▶ **ZAČNI:** „Nejvíc se tu ptáte na **glaukom**, tak s ním začnu. Princip je jednoduchý: **buď zmenším tvorbu nitrooční tekutiny, nebo zlepším její odtok.** Do těch dvou kategorií se dají zařadit všechny léky."
+
+```
+  ⬇ MÉNĚ TVORBY                       ⬆ LEPŠÍ ODTOK
+    betablokátory  TIMOLOL              analoga prostaglandinů  LATANOPROST
+    inhibitory karboanhydrázy             ⚠️ nejúčinnější, 1× denně
+      dorzolamid, acetazolamid            ⚠️ ztmavnutí duhovky, delší řasy
+    α2 agonisté  brimonidin             PILOKARPIN (mióza otevře úhel)
+```
+
+**KOSTRA:** glaukom → **mydriatika a cykloplegika** → lokální anestetika → antibiotika a kortikoidy → ⚠️ **anti-VEGF** → umělé slzy
+
+⚠️ **Nejdůležitější upozornění celé otázky: OČNÍ KAPKY SE VSTŘEBÁVAJÍ.** ⚠️ **Timolol z kapek může u astmatika vyvolat bronchospazmus a u kardiaka bradykardii.** Pacient přitom kapky často ani neuvádí mezi léky — ⚠️ **na anamnézu se musí ptát cíleně.** Vstřebání sníží stisknutí slzného kanálku po nakapání.
+⚠️ **Kortikoidy do oka: kontraindikované u herpetické keratitidy** (virus se rozšíří) a při dlouhodobém podávání způsobují ⚠️ **kataraktu a sekundární glaukom.**
+⚠️ **Anti-VEGF (ranibizumab, aflibercept)** injekčně do oka u **vlhké formy věkem podmíněné makulární degenerace** a diabetického makulárního edému.
+
+❓ **DOPTAJÍ SE:**
+- *Proč se u glaukomu s úzkým úhlem nesmí anticholinergikum?* → **mydriáza zablokuje odtokový úhel → akutní záchvat glaukomu**; ⚠️ týká se atropinu, ale i antihistaminik I. generace a tricyklických antidepresiv
+- *Rozdíl mydriatika a cykloplegika?* → **mydriatikum rozšíří zornici (fenylefrin), cykloplegikum navíc ochrne akomodaci (tropikamid, atropin)**
+- *Proč se lokální anestetikum do oka nesmí předepsat pacientovi domů?* → ⚠️ **potlačí ochranný reflex a zpomalí hojení rohovky** — hrozí vřed
+
+---
+
+## 105 · Drogová (léková) závislost
+
+▶ **ZAČNI:** „Závislost není slabost vůle — je to **onemocnění systému odměny.** Všechny návykové látky, jakkoli se liší, končí ve stejném místě: **vyplavením dopaminu v nucleus accumbens.** Na tom postavím celou odpověď."
+
+```
+   droga → ⚠️ VÝDEJ DOPAMINU v nucleus accumbens (mezolimbická dráha)
+         → mozek si to označí jako „tohle je důležité, opakuj to"
+         → při opakování se receptory ADAPTUJÍ (down-regulace)
+         → ⚠️ TOLERANCE: k témuž účinku je potřeba víc
+         → ⚠️ bez látky je systém pod normálem = ABSTINENČNÍ SYNDROM + CRAVING
+```
+
+**KOSTRA:** pojmy (**psychická × fyzická závislost, tolerance, abstinenční syndrom, craving**) → **systém odměny** → rozdělení látek → léčba → ⚠️ zubařský přesah
+
+🔑 **Abstinenční syndrom je vždycky opakem účinku látky:** tlumivá látka → **odvykací stav je budivý** (třes, neklid, křeče); stimulans → **odvykací stav je útlumový** (spavost, deprese, vlčí hlad).
+⚠️ **Nejnebezpečnější odvykací stavy jsou u ALKOHOLU a BENZODIAZEPINŮ** — mohou skončit křečemi a smrtí. **Odvykací stav od opioidů je subjektivně strašný, ale sám o sobě neohrožuje život.**
+
+**Léčba:** detoxifikace → **substituce (metadon, buprenorfin, nikotinová náhrada)** → **prevence relapsu (naltrexon, akamprosat, disulfiram, vareniklin)** → psychoterapie a doléčování.
+
+⚠️ **ZUBAŘSKÝ PŘESAH — „meth mouth":** u uživatelů pervitinu **rychlá devastace chrupu.** Nejde o přímé leptání zubů drogou, ale o **souběh: xerostomie + bruxismus + sladké nápoje + roky zanedbané hygieny + nechuť k jídlu.**
+
+❓ **DOPTAJÍ SE:**
+- *Jaký je rozdíl mezi tolerancí a závislostí?* → **tolerance je klesající odpověď na stejnou dávku a může být i u nenávykových léků; závislost je nutkavé užívání navzdory škodám**
+- *Proč substituce metadonem?* → **dlouhý poločas → stabilní hladina bez střídání euforie a odvykání**, pacient se může vrátit k běžnému životu
+- *Jak tlumit bolest u pacienta na substituci?* → ⚠️ **jeho substituční dávka analgezii nezajišťuje** — potřebuje běžnou (často i vyšší) analgezii navíc, ne odepření léčby
+
+---
+
+## 106 · Ethylalkohol, methylalkohol
+
+▶ **ZAČNI:** „Postavím ty dvě látky vedle sebe, protože **jejich vztah je klíčem k léčbě: metanol sám je málo toxický a jedovaté jsou až jeho metabolity — a etanol se používá jako antidotum.**"
+
+```
+  ETANOL ──alkoholdehydrogenáza──> ACETALDEHYD ──aldehyddehydrogenáza──> acetát
+     ⚠️ kinetika NULTÉHO ŘÁDU: odbourá se stále stejné množství za hodinu
+        (~0,1–0,15 ‰/h) — enzym je nasycený, ⚠️ nezáleží, kolik vypiješ
+     ⚠️ DISULFIRAM blokuje aldehyddehydrogenázu → acetaldehyd se hromadí
+
+  METANOL ──ALKOHOLDEHYDROGENÁZA──> FORMALDEHYD ──> ⚠️ KYSELINA MRAVENČÍ
+     ⚠️ těžká metabolická acidóza + ⚠️ POŠKOZENÍ ZRAKOVÉHO NERVU → SLEPOTA
+     ⚠️ ANTIDOTUM: ETANOL nebo FOMEPIZOL — obsadí týž enzym
+        + hemodialýza + bikarbonát + kyselina listová
+```
+
+**KOSTRA:** metabolismus etanolu → **nultý řád** → akutní a chronické účinky → **odvykací stav** → disulfiram → **metanol a antidotum**
+
+**Akutní účinky etanolu:** ⚠️ **je to TLUMIVÁ látka — počáteční „rozjaření" je odbrždění, ne stimulace.** Dále vazodilatace a ⚠️ **hypotermie** (opilý člověk venku v zimě umrzne), diuréza (útlum ADH), **hypoglykemie** (⚠️ zvlášť u dětí a podvyživených).
+**Chronicky:** steatóza → cirhóza, pankreatitida, kardiomyopatie, polyneuropatie, ⚠️ **Wernickeova encefalopatie z deficitu thiaminu**, ⚠️ **fetální alkoholový syndrom**, nádory (⚠️ včetně dutiny ústní a jícnu).
+⚠️ **Delirium tremens** — život ohrožující; léčí se **benzodiazepiny** a ⚠️ **thiamin se podává PŘED glukózou** (glukóza jinak spotřebuje zbytek thiaminu a spustí Wernickeovu encefalopatii).
+
+❓ **DOPTAJÍ SE:**
+- *Proč se etanol chová jinak než většina léků?* → **kinetika nultého řádu** — enzym je nasycený už při nízkých hladinách, takže se odbourává konstantní množství za čas, ne konstantní podíl
+- *Proč etanol jako antidotum metanolu?* → **má k alkoholdehydrogenáze mnohem vyšší afinitu** → obsadí ji a metanol se vyloučí nezměněný, než se stihne přeměnit
+- *Zubařsky?* → **alkoholik: karcinom dutiny ústní (⚠️ synergie s kouřením), horší hojení, krvácivost při jaterním postižení, zanedbaná hygiena, ⚠️ opatrnost s paracetamolem**
+
+---
+
+## 107 · Konopí, kanabinoidy
+
+▶ **ZAČNI:** „U konopí je důležité oddělit **dvě různé látky, které se často pletou dohromady: THC je psychoaktivní, CBD není.** A vysvětlím, že tělo má vlastní endokanabinoidní systém, na který obojí působí."
+
+**KOSTRA:** rostlina a účinné látky → **CB1 a CB2 receptory** → akutní účinky → ⚠️ rizika → **léčebné využití** → zubařský přesah
+
+**Receptory:** **CB1 v centrálním nervovém systému** (odtud psychické účinky) · **CB2 v imunitních buňkách.** ⚠️ **THC je parciální agonista CB1**, **CBD působí jinak a psychoaktivní není.**
+
+**Akutní účinky:** euforie a uvolnění, změněné vnímání času, ⚠️ **zhoršení krátkodobé paměti, pozornosti a reakcí**, ⚠️ **zarudnutí spojivek**, tachykardie, ⚠️ **vlčí hlad**, ⚠️ **sucho v ústech.**
+⚠️ **Rizika:** **vyvolání psychózy u disponovaných jedinců** (⚠️ nejvýznamnější doložené riziko), amotivační syndrom, ⚠️ **vliv na vyvíjející se mozek dospívajících**, kanabinoidní hyperemetický syndrom, závislost (spíš psychická).
+
+**Léčebné využití — kde má doklady:** ⚠️ **nauzea a zvracení po chemoterapii** (nabilon, dronabinol) · **spasticita u roztroušené sklerózy** (nabiximols) · ⚠️ **kanabidiol u vzácných dětských epilepsií (Dravetové a Lennoxův–Gastautův syndrom)** · chronická bolest a nechutenství — ⚠️ **[⚠️ ověřit rozsah, který uznávají vaše skripta].**
+
+❓ **DOPTAJÍ SE:**
+- *Zubařský dopad?* → ⚠️ **xerostomie → kaz · gingivitida a parodontitida · kouřením leukoplakie a riziko nádoru · a u intoxikovaného pacienta se nemá provádět plánovaný výkon** (tachykardie, úzkost, špatná spolupráce)
+- *Proč THC působí tak dlouho?* → **je vysoce lipofilní, ukládá se do tuku a uvolňuje se pomalu** → v moči prokazatelné dny až týdny
+- *Adrenalin v anestetiku u intoxikovaného?* → ⚠️ **opatrně — THC už samo dělá tachykardii**; plánovaný výkon raději odložit
+
+---
+
+## 108 · Halucinogeny (psychomimetika)
+
+▶ **ZAČNI:** „Halucinogeny rozdělím podle mechanismu do tří skupin, protože **to je zároveň klíč k rozpoznání intoxikace a k její léčbě** — a hlavně proto, že jedna z nich vypadá úplně jinak než ostatní."
+
+```
+  1) SEROTONINERGNÍ  ⚠️ agonisté 5-HT2A
+        LSD · psilocybin (houby) · meskalin (peyotl)
+        → halucinace při ⚠️ ZACHOVANÉ ORIENTACI, mydriáza, tachykardie
+
+  2) ⚠️ ANTICHOLINERGNÍ  durman, rulík — ⚠️ POZOR, VYPADAJÍ JINAK
+        → DELIRIUM se zmateností a ⚠️ SUCHOU, HORKOU, ČERVENOU KŮŽÍ
+        → antidotum FYZOSTIGMIN
+
+  3) DISOCIATIVNÍ  ⚠️ antagonisté NMDA
+        fencyklidin · ketamin → odpojení od vlastního těla, analgezie
+```
+
+**KOSTRA:** tři skupiny → **LSD podrobně** → ⚠️ odlišení anticholinergní intoxikace → MDMA → léčba intoxikace
+
+**LSD:** ⚠️ **účinný v mikrogramech**; ⚠️ **tolerance vzniká během několika dní a je velmi rychlá**, fyzická závislost prakticky nevzniká. Rizika: ⚠️ **„bad trip"** (panika, úzkost, nebezpečné jednání) a ⚠️ **HPPD — přetrvávající poruchy vnímání, „flashbacky".**
+**MDMA (extáze):** ⚠️ masivní výdej serotoninu → ⚠️ **hypertermie, hyponatremie z nadměrného pití vody, serotoninový syndrom** a ⚠️ **výrazný bruxismus a trismus — pacienti si drtí zuby a mají fasety otěru; to je pro zubaře typický nález.**
+
+⚠️ **Léčba intoxikace:** **klidné, tiché prostředí a slovní vedení („talking down") + benzodiazepin.** ⚠️ **U anticholinergního deliria je specifické antidotum fyzostigmin.** ⚠️ **Antipsychotika nejsou první volba** — mohou stav zhoršit.
+
+❓ **DOPTAJÍ SE:**
+- *Jak odlišíte serotoninergní a anticholinergní intoxikaci?* → ⚠️ **podle kůže a orientace: anticholinergní má SUCHOU horkou červenou kůži a pacient je dezorientovaný; po LSD se pacient potí a ví, kde je**
+- *Vzniká po LSD závislost?* → **psychická může, fyzická prakticky ne**; ⚠️ hlavním rizikem je úraz při intoxikaci a spuštění psychózy
+- *Proč se halucinogeny znovu zkoumají?* → ⚠️ **psilocybin a ketamin v léčbě rezistentní deprese** — esketamin je již registrovaný. **[⚠️ ověřit, co k tomu mají vaše skripta.]**
+
+---
+
+## 109 · Stimulancia
+
+▶ **ZAČNI:** „Stimulancia mají společný mechanismus: **zvyšují množství dopaminu a noradrenalinu ve štěrbině** — buď je vyplaví, nebo zablokují jejich vychytávání. Od toho se odvíjí všechno — účinek, komplikace i to, proč vzniká tak silná závislost."
+
+**KOSTRA:** mechanismus → zástupci → účinky → ⚠️ **komplikace** → **léčebné použití** → zubařský přesah
+
+**Zástupci:** **amfetamin, metamfetamin (pervitin)** — ⚠️ vyplavují · **kokain** — ⚠️ blokuje reuptake, navíc silné lokální anestetikum · **MDMA** · **kathinony** · **kofein** (přes adenosinové receptory) · **modafinil.**
+
+**Účinky:** euforie, sebedůvěra, bdělost, ⚠️ **ztráta chuti k jídlu a potřeby spánku**, **mydriáza**, tachykardie, hypertenze, ⚠️ **hypertermie.**
+⚠️ **Komplikace:** ⚠️ **infarkt myokardu a cévní mozková příhoda u mladých lidí** (zvlášť kokain — vazospazmus), ⚠️ **toxická psychóza s paranoiou a halucinacemi, klinicky nerozeznatelná od schizofrenie**, křeče, rabdomyolýza, ⚠️ **hypertermie jako příčina smrti.**
+**Léčebné použití:** **methylfenidát a lisdexamfetamin u ADHD** (⚠️ paradoxně zklidňují — posílí kontrolní funkce čelního laloku), **modafinil u narkolepsie.**
+
+⚠️ **ZUBAŘSKY:** ⚠️ **„meth mouth"** (viz otázka 105), ⚠️ **bruxismus s otěrem a frakturami**, ⚠️ **kokain aplikovaný do nosu působí vazokonstrikci → nekróza nosní přepážky a tvrdého patra až perforace.**
+⚠️ **Zásadní praktické pravidlo: pacientovi pod vlivem kokainu nebo pervitinu se NEPODÁVÁ lokální anestetikum s adrenalinem** — účinky se sečtou a hrozí hypertenzní krize a arytmie. **Plánovaný výkon se odkládá.**
+
+❓ **DOPTAJÍ SE:**
+- *Proč se u ADHD dávají stimulancia?* → **posilují dopaminergní a noradrenergní přenos v prefrontální kůře, tedy právě v oblasti kontroly pozornosti a impulzů**
+- *Jak se léčí intoxikace?* → **benzodiazepiny, chlazení, hydratace, kontrola tlaku** — ⚠️ **u kokainu se historicky nedoporučoval samotný betablokátor** (obava z převahy α-stimulace); **[⚠️ ověřit, jak to uvádějí vaše skripta]**
+- *Jak působí kofein?* → **blokuje adenosinové receptory** — adenosin je „únava"; kofein ji jen zamaskuje, nedodá energii
+
+---
+
+## 110 · Nikotin
+
+▶ **ZAČNI:** „Nikotin je **agonista nikotinových receptorů**, který v systému odměny vyplaví dopamin. Ale to podstatné, čím začnu, je **jeho kinetika: do mozku se dostane za sedm vteřin a rychle mizí** — a právě to z něj dělá jednu z nejnávykovějších látek vůbec."
+
+```
+  ⚠️ IONTOVÁ PAST V PRAXI:
+     CIGARETOVÝ kouř je KYSELÝ → nikotin je nabitý → ústy se nevstřebá
+        → ⚠️ musí se inhalovat do plic → mozek za 7–10 s → silný návyk
+     DÝMKOVÝ a DOUTNÍKOVÝ kouř je ZÁSADITÝ → nikotin nenabitý
+        → ⚠️ vstřebá se rovnou v ÚSTECH → nemusí se inhalovat
+```
+
+**KOSTRA:** mechanismus → **kinetika a návykovost** → účinky → ⚠️ **indukce CYP1A2** → škody → ⚠️ **zubařský přesah** → odvykání
+
+⚠️ **Nikotin indukuje CYP1A2.** ⚠️ **Kuřák proto potřebuje vyšší dávky theofylinu, olanzapinu a klozapinu — a když přestane kouřit, hladina těchto léků stoupne a může se předávkovat.** ⚠️ Není to nikotinem samotným, ale **dehtem ze spalování** — ⚠️ **nikotinová náplast tenhle efekt nemá.**
+
+⚠️ **ZUBAŘSKY — jedna z nejvděčnějších otázek pro zubaře:**
+- ⚠️ **Karcinom dutiny ústní** a leukoplakie (⚠️ synergie s alkoholem).
+- ⚠️ **Parodontitida — a navíc MASKOVANÁ:** nikotin stahuje cévy, takže **dáseň kuřáka méně krvácí a onemocnění vypadá mírněji, než ve skutečnosti je.**
+- ⚠️ **Zhoršené hojení, vyšší riziko suché alveolitidy po extrakci a selhání implantátů.**
+- Kuřácké pigmentace, halitóza, zhoršené vnímání chuti.
+
+**Odvykání:** **nikotinová substituce** (⚠️ **náplast na základní hladinu + žvýkačka nebo sprej na akutní chuť**), ⚠️ **vareniklin — parciální agonista, nejúčinnější**, bupropion, cytisin. ⚠️ **Nejúčinnější je kombinace léku a podpory, ne lék samotný.**
+
+❓ **DOPTAJÍ SE:**
+- *Proč vareniklin funguje tak dobře?* → **jako parciální agonista zároveň zmírní odvykací příznaky a znemožní, aby cigareta přinesla plný požitek** — bere obě motivace najednou
+- *Proč není nikotinová substituce jen „výměna jedné závislosti za druhou"?* → **škodí hlavně produkty spalování, ne nikotin sám**; navíc náplast dodává nikotin pomalu a bez návykového vrcholu
+- *Kdy máte pacientovi zmínit kouření?* → ⚠️ **před každou extrakcí, implantací a při každém nálezu na parodontu** — je to lékařská intervence s doloženým efektem, a ⚠️ **zubař bývá jediný lékař, kterého jinak zdravý mladý člověk pravidelně vidí**
+
+---
