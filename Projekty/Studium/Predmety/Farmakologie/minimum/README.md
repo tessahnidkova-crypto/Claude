@@ -12,7 +12,25 @@ Zkouška = **test (50 otázek, potřeba 35 = 70 %) + ústní (1 obecná + 2 spec
 
 ---
 
-## ⚠️ MÁŠ DVĚ VERZE — a každá je na něco jiného
+## ⭐ ZAČNI TÍMHLE — `VYCUC-FINAL.pdf`
+
+**Na poslední dva dny je hlavní soubor `VYCUC-FINAL.pdf` — 89 stran, všech 136 otázek, 136 záložek.**
+
+U **každé** otázky jsou čtyři věci, a nic navíc:
+
+| Značka | Co to je |
+|---|---|
+| ▶ **ZAČNI** | **dvě až tři věty, kterými otázku otevřeš** — doslova to, co řekneš, když si sedneš |
+| **KOSTRA** | kostra odpovědi jako řada bodů — v jakém pořadí mluvit |
+| **`schéma`** | kreslený obrázek tam, kde ušetří odstavec textu |
+| 🔑 ⚠️ | mnemotechnika · past, na kterou se chytají |
+| ❓ **DOPTAJÍ SE** | **otázky, které přijdou po tvé odpovědi — i s tím, co na ně říct** |
+
+⚠️ **Nečti to dvakrát. Přečti jednou a pak to zkoušej říkat nahlas** — u ústní zkoušky rozhoduje vybavení, ne to, že ti text připadal povědomý. Zkrácené a mluvené verze níž zůstávají jako záloha na otázky, které ti nesednou.
+
+---
+
+## ⚠️ MÁŠ DVĚ DALŠÍ VERZE — a každá je na něco jiného
 
 | | **ZKRÁCENÁ** (`*-zkracene`) | **MLUVENÁ** (`*-mluvena`) |
 |---|---|---|
@@ -26,6 +44,12 @@ Zkouška = **test (50 otázek, potřeba 35 = 70 %) + ústní (1 obecná + 2 spec
 ---
 
 ## Soubory
+
+### ⭐ Finální výcuc (na poslední dva dny)
+
+| Soubor | Otázky | Stran |
+|---|---|---|
+| **`VYCUC-FINAL.pdf`** | **všech 136** | **89** + 136 záložek |
 
 ### Zkrácené výpisky (na učení)
 
@@ -123,6 +147,8 @@ Katedra zkouší zubaře; tyhle položky se opakovaně objevují:
 ---
 
 ## Jak se to učit
+
+**Plán na zbývající dny:** ⓵ **projeď `VYCUC-FINAL` celý** — u každé otázky přečti jen ▶ ZAČNI a KOSTRU, schémata si prohlédni · ⓶ **projeď ho podruhé a u každé otázky se pokus říct začátek nahlas ZPAMĚTI, než se podíváš** · ⓷ **u otázek, kde to nešlo, otevři zkrácenou verzi** · ⓸ **den před zkouškou jen ❓ DOPTAJÍ SE — to je to, co tě u zkoušky nejspíš potopí, ne hlavní odpověď.**
 
 **Nesnaž se to umět napoprvé.** Projeď zkrácenou verzi rychle celou, pak podruhé. **Dvakrát mělce je lepší než jednou hluboko** — u testu ze 136 témat rozhoduje, jestli téma poznáš, ne jestli o něm umíš mluvit deset minut.
 
