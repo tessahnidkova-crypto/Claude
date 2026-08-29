@@ -2717,3 +2717,811 @@
 - *Kdy máte pacientovi zmínit kouření?* → ⚠️ **před každou extrakcí, implantací a při každém nálezu na parodontu** — je to lékařská intervence s doloženým efektem, a ⚠️ **zubař bývá jediný lékař, kterého jinak zdravý mladý člověk pravidelně vidí**
 
 ---
+## 111 · Metylxantiny a jejich deriváty
+
+▶ **ZAČNI:** „Metylxantiny — **theofylin, kofein a theobromin** — mají dva mechanismy: **blokádu adenosinových receptorů a ve vyšších koncentracích inhibici fosfodiesterázy.** Z toho plyne, proč povzbuzují i proč rozšiřují průdušky."
+
+```
+  1) ⚠️ BLOKÁDA ADENOSINOVÝCH RECEPTORŮ — adenosin je „signál únavy"
+        → zablokuješ ho → bdělost (⚠️ energii to nedodá, jen zamaskuje únavu)
+  2) ⚠️ INHIBICE FOSFODIESTERÁZY → ↑ cAMP → bronchodilatace, ↑ síla srdce
+        (⚠️ až ve vyšších, terapeutickému okraji blízkých koncentracích)
+```
+
+**KOSTRA:** zástupci → dva mechanismy → účinky → ⚠️ **theofylin a jeho úzké okno** → interakce → kofein
+
+**Účinky:** bronchodilatace, stimulace CNS a dechového centra, mírně pozitivně inotropní a chronotropní, diuréza, ⚠️ **zvýšení sekrece žaludeční kyseliny.**
+
+⚠️ **THEOFYLIN má velmi úzké terapeutické okno (řádově 10–20 mg/l)** → nutná monitorace hladin. **Příznaky předávkování jdou vzestupně: nauzea → neklid a nespavost → tachyarytmie → křeče.**
+⚠️ **Interakce, které hladinu zvednou: makrolidy, chinolony, ⚠️ a naopak KOUŘENÍ hladinu SNÍŽÍ** (indukce CYP1A2). ⚠️ **Když kuřák přestane kouřit, hladina theofylinu stoupne** a může se předávkovat — klasická zkoušková otázka propojující dvě témata.
+
+**Kofein:** u ⚠️ **apnoických pauz nedonošených novorozenců** a jako přídavek v analgetických kombinacích (zvyšuje účinnost analgetika).
+
+❓ **DOPTAJÍ SE:**
+- *Proč theofylin dnes není lékem první volby u astmatu?* → **úzké terapeutické okno, hodně interakcí a slabší účinek než inhalační léčba**
+- *Proč se kofein přidává do analgetik?* → **zvyšuje jejich účinnost a zrychluje vstřebávání**; ⚠️ ale při nadužívání přispívá k bolesti hlavy z odnětí
+- *Zubařsky?* → **kofeinové a energetické nápoje: kyselost → eroze skloviny, cukr → kaz, a ⚠️ u úzkostného pacienta zesílí bušení srdce po anestetiku s adrenalinem**
+
+---
+
+## 112 · Antirevmatika
+
+▶ **ZAČNI:** „Nejdůležitější rozlišení u revmatoidní artritidy je: **léky, které tlumí příznaky, a léky, které mění průběh nemoci.** NSA a kortikoidy uleví, ale kloub se ničí dál. **Průběh mění jen DMARDs — a nasazují se co nejdřív.**"
+
+```
+  ⚠️ SYMPTOMATICKÁ         ⚠️ CHOROBU MODIFIKUJÍCÍ (DMARDs) — nasadit ČASNĚ
+   NSA                       konvenční: ⭐ METHOTREXÁT (lék volby),
+   kortikoidy (krátkodobě)             leflunomid, sulfasalazin,
+                                       hydroxychlorochin (⚠️ retinopatie)
+                             biologické: anti-TNF (infliximab, adalimumab,
+                                       etanercept) · rituximab · tocilizumab
+                             cílené syntetické: ⚠️ inhibitory JAK
+                                       (tofacitinib, baricitinib)
+```
+
+**KOSTRA:** rozlišení symptomatické × modifikující → **methotrexát podrobně** → další konvenční → biologika → ⚠️ **screening před biologiky**
+
+⚠️ **METHOTREXÁT — nejčastěji zkoušené detaily:**
+- ⚠️ **Podává se JEDNOU TÝDNĚ.** Denní podání je klasická smrtelná chyba.
+- ⚠️ **Přidává se kyselina listová** (jiný den) → sníží toxicitu.
+- **NÚ:** hepatotoxicita, útlum dřeně, ⚠️ **ulcerace v ústech a stomatitida**, plicní postižení, ⚠️ **teratogenita** (⚠️ nutná antikoncepce u obou pohlaví).
+- ⚠️ **Nekombinovat s kotrimoxazolem** (obojí zasahuje kyselinu listovou) a opatrně s NSA.
+
+⚠️ **Před nasazením biologik: screening tuberkulózy a hepatitid, ⚠️ žádné živé vakcíny.**
+
+❓ **DOPTAJÍ SE:**
+- *Proč se DMARD nasazuje hned?* → ⚠️ **kloubní destrukce vzniká v prvních měsících a je nevratná** — „okno příležitosti"
+- *Zubařsky?* → ⚠️ **methotrexátová stomatitida a afty**, imunosuprese → **vyšší riziko infekce a horší hojení**; ⚠️ u revmatika často **Sjögrenův syndrom → xerostomie a mnohočetný kaz**; a ⚠️ **postižení čelistního kloubu a omezené otevírání úst**
+- *Jak funguje inhibitor JAK?* → **blokuje nitrobuněčný přenos signálu od receptorů pro cytokiny** — tabletka s účinkem blízkým biologikům; ⚠️ riziko herpes zoster a trombóz
+
+---
+
+## 113 · Antiuratika
+
+▶ **ZAČNI:** „U dny je zásadní jedna věc, se kterou začnu, protože se na ni ptají skoro vždycky: **léčba akutního záchvatu a dlouhodobé snižování kyseliny močové jsou dvě různé věci a nesmí se zaměnit.**"
+
+```
+  ⚠️ AKUTNÍ ZÁCHVAT          ⚠️ DLOUHODOBĚ (mezi záchvaty)
+   NSA (⚠️ NE aspirin!)        ⭐ ALOPURINOL (inhibitor xanthinoxidázy)
+   KOLCHICIN                     febuxostat
+   kortikoidy                    urikosurika: probenecid, benzbromaron
+                                 rasburikáza (nádorový rozpadový syndrom)
+
+  ⚠️ ALOPURINOL SE NIKDY NEZAČÍNÁ BĚHEM ZÁCHVATU — prudká změna hladiny
+     kyseliny močové záchvat zhorší nebo vyvolá.
+     ⚠️ Při zahajování se profylakticky kryje kolchicinem.
+```
+
+**KOSTRA:** patofyziologie → **akutní léčba** → **dlouhodobá léčba** → ⚠️ nebezpečné interakce → režim
+
+⚠️ **Kolchicin** blokuje tvorbu mikrotubulů → **neutrofil se nedostane do kloubu.** ⚠️ **Dávku limituje průjem** — objeví se dřív než ostatní toxicita a je to signál přestat.
+⚠️ **Aspirin v nízké dávce zvyšuje hladinu kyseliny močové** — u dny se jako analgetikum nehodí.
+⚠️ **Alopurinol + azathioprin je nebezpečná kombinace:** alopurinol zablokuje xanthinoxidázu, která azathioprin odbourává → ⚠️ **těžký útlum kostní dřeně.** Dávku azathioprinu je nutné výrazně snížit.
+⚠️ **Hypersenzitivní syndrom po alopurinolu** — vzácný, ale závažný; souvisí s **HLA-B*5801.**
+
+❓ **DOPTAJÍ SE:**
+- *Které léky zvyšují kyselinu močovou?* → ⚠️ **thiazidová a kličková diuretika, nízké dávky aspirinu, pyrazinamid, cyklosporin**
+- *Režimová opatření?* → **omezit alkohol (⚠️ hlavně pivo), vnitřnosti, mořské plody a slazené nápoje s fruktózou; dostatek tekutin, redukce hmotnosti**
+- *Zubařsky?* → ⚠️ **dnavé postižení čelistního kloubu je vzácné**; podstatnější je, že **pacient s dnou často nesmí NSA kvůli ledvinám** → volit paracetamol
+
+---
+
+## 114 · Imunosupresiva, imunostimulancia
+
+▶ **ZAČNI:** „Imunosupresiva rozdělím **podle místa, kde do imunitní odpovědi zasáhnou** — a hned řeknu to, co je pro zubaře nejdůležitější: **cyklosporin je jeden ze tří léků, které dělají hyperplazii dásní.**"
+
+```
+  KORTIKOIDY                 široký útlum přepisu prozánětlivých genů
+  KALCINEURINOVÉ INHIBITORY  ⚠️ CYKLOSPORIN · takrolimus
+       blokují aktivaci T-lymfocytů
+       ⚠️ cyklosporin: nefrotoxicita, hypertenze, hypertrichóza,
+          ⚠️ HYPERPLAZIE GINGIVY
+       ⚠️ takrolimus: hyperplazii dásní NEDĚLÁ, ale je diabetogenní
+  INHIBITORY mTOR            sirolimus, everolimus
+  ANTIPROLIFERATIVNÍ         azathioprin (⚠️ TPMT) · mykofenolát · cyklofosfamid
+                             (⚠️ hemoragická cystitida → antidotum MESNA)
+  BIOLOGIKA                  basiliximab, antithymocytární globulin
+```
+
+**KOSTRA:** skupiny a jejich cíl → indikace (**transplantace, autoimunity**) → ⚠️ **společná rizika** → imunostimulancia → ⚠️ zubařský přesah
+
+⚠️ **Společná rizika všech imunosupresiv: infekce (i oportunní) a ⚠️ NÁDORY** — zejména kožní a lymfomy. **U transplantovaných pacientů je zvýšené i riziko nádorů rtu a dutiny ústní**, což z pravidelné prohlídky dělá skutečný screening.
+
+**Imunostimulancia:** interferony, ⚠️ **filgrastim (G-CSF) k obnově neutrofilů po chemoterapii**, imunoglobuliny, bakteriální lyzáty (⚠️ slabá evidence), a ⚠️ **vakcíny jako nejúspěšnější imunostimulace vůbec.**
+
+❓ **DOPTAJÍ SE:**
+- *Co udělat u pacienta před transplantací?* → ⚠️ **kompletní sanace chrupu PŘED zahájením imunosuprese** — poté se každý zánětlivý fokus stává nebezpečným
+- *Jak se řeší hyperplazie gingivy?* → ⚠️ **dokonalá ústní hygiena rozsah výrazně zmenší**; jinak chirurgické odstranění a **domluva s lékařem o záměně cyklosporinu za takrolimus**
+- *Proč se před azathioprinem testuje TPMT?* → **při nízké aktivitě enzymu se lék nemá jak odbourat → těžká myelosuprese**
+
+---
+
+## 115 · Hormony hypothalamu, hypofýzy, jejich analoga
+
+▶ **ZAČNI:** „Projdu osu shora dolů — **hypothalamus, adenohypofýza, neurohypofýza** — a u každého patra řeknu, které analogy se používají léčebně. **A hned upozorním na jeden paradox, na který se rádi ptají: agonista GnRH při trvalém podávání osu netlumí, ale VYPNE.**"
+
+```
+  HYPOTHALAMUS
+     GnRH ⚠️ PARADOX: pulzní podávání osu BUDÍ,
+                       ⚠️ KONTINUÁLNÍ ji VYPNE (receptory se desenzibilizují)
+          → goserelin, leuprorelin u karcinomu prostaty a endometriózy
+     SOMATOSTATIN → oktreotid, lanreotid (akromegalie, neuroendokrinní nádory)
+     ⚠️ DOPAMIN = prolaktin inhibiční faktor
+          → agonisté BROMOKRIPTIN, KABERGOLIN u hyperprolaktinemie
+
+  ADENOHYPOFÝZA  GH (somatropin; ⚠️ antagonista pegvisomant) · prolaktin ·
+                 ACTH · TSH · FSH a LH (reprodukční medicína)
+
+  NEUROHYPOFÝZA  ⚠️ ADH → DESMOPRESIN · terlipresin
+                 OXYTOCIN → indukce porodu, atonie dělohy
+```
+
+**KOSTRA:** osa → analoga po patrech → ⚠️ **GnRH paradox** → **desmopresin** → zubařský přesah
+
+⚠️ **DESMOPRESIN — pro zubaře nejdůležitější lék celé otázky:**
+```
+  centrální diabetes insipidus · noční pomočování
+  ⚠️ A NAVÍC: vyplaví z endotelu VON WILLEBRANDŮV FAKTOR a FAKTOR VIII
+     → ⚠️ používá se před extrakcí u MÍRNÉ HEMOFILIE A
+        a u von Willebrandovy choroby   ⚠️ NÚ: hyponatremie
+```
+
+⚠️ **ZUBAŘSKÝ PŘESAH — AKROMEGALIE:** nadbytek růstového hormonu u dospělého → ⚠️ **zvětšení dolní čelisti = PROGENIE, rozestupy mezi zuby (diastemata), zvětšený jazyk (makroglosie), změna skusu.** ⚠️ **Zubař bývá první, kdo si toho všimne**, protože pacientovi „přestala sedět protéza".
+
+❓ **DOPTAJÍ SE:**
+- *Proč agonista GnRH u karcinomu prostaty?* → **kontinuálním podáváním se receptory desenzibilizují a osa se vypne → chemická kastrace**; ⚠️ na začátku je krátký vzestup testosteronu („flare"), který se kryje antiandrogenem
+- *Proč se u prolaktinomu dává agonista dopaminu?* → **dopamin je fyziologická brzda prolaktinu** — kabergolin nádor nejen utlumí, ale i zmenší
+- *Kdy oktreotid?* → **akromegalie, neuroendokrinní nádory, ⚠️ krvácení z jícnových varixů**
+
+---
+
+## 116 · Farmakoterapie onemocnění štítné žlázy
+
+▶ **ZAČNI:** „Rozdělím to na dvě protilehlé situace. **U hypotyreózy jde o náhradu chybějícího hormonu, u hypertyreózy o blokádu jeho tvorby** — a u obou je několik praktických detailů, které se ptají skoro vždycky."
+
+**HYPOTYREÓZA — levothyroxin (T4):**
+⚠️ **Užívá se nalačno ráno, nejméně 30 minut před jídlem, a s odstupem od vápníku, železa, inhibitorů protonové pumpy a sójových výrobků** — ty vstřebání výrazně sníží.
+⚠️ **U seniora a kardiaka se začíná nízkou dávkou a stoupá pomalu** — prudké nastartování metabolismu může vyvolat anginu pectoris nebo arytmii.
+⚠️ **Účinek se hodnotí podle TSH, a to nejdřív za 6–8 týdnů** (hormon má dlouhý poločas).
+
+**HYPERTYREÓZA — tyreostatika:**
+⚠️ **Thiamazol (methimazol)** je základ, ⚠️ **propylthiouracil se používá hlavně v prvním trimestru gravidity.** Blokují **tyreoidální peroxidázu.**
+⚠️ **NEJDŮLEŽITĚJŠÍ VAROVÁNÍ: AGRANULOCYTÓZA.** ⚠️ **Pacient musí být poučen — při horečce a bolesti v krku okamžitě vyšetřit krevní obraz a lék vysadit.** ⚠️ **A tohle je zubařsky velmi relevantní: „angína" u pacienta na tyreostatiku není banalita.**
+Dále: **betablokátory** (propranolol) symptomaticky, **radiojód**, chirurgie; ⚠️ **jodid ve vysoké dávce u tyreotoxické krize (Wolffův–Chaikoffův efekt).**
+
+❓ **DOPTAJÍ SE:**
+- *Zubařsky u nekontrolované hypertyreózy?* → ⚠️ **odložit plánované ošetření**; ⚠️ **opatrně s adrenalinem v anestetiku** — hrozí arytmie až tyreotoxická krize (⚠️ u dobře kompenzovaného pacienta je běžné množství bezpečné)
+- *Projevy hypotyreózy v ústech?* → **makroglosie, zpomalené hojení, opožděná erupce zubů u dětí**
+- *Proč se levothyroxin nedá dávkovat „podle pocitu"?* → **rozhoduje laboratorní TSH**; předávkování znamená osteoporózu a fibrilaci síní
+
+---
+
+## 117 · Glukokortikoidy, mineralokortikoidy
+
+▶ **ZAČNI:** „Glukokortikoidy jsou **nejsilnější protizánětlivé léky, které máme** — a důvod je v tom, kde zasahují: **blokádou fosfolipázy A₂ vypnou obě větve eikosanoidů najednou.** Zároveň mají nejširší spektrum nežádoucích účinků, takže celá otázka je o rovnováze mezi tím."
+
+```
+  kortikoid → nitrobuněčný receptor → jádro → ⚠️ tvorba LIPOKORTINU
+        → ⚠️ blokáda FOSFOLIPÁZY A₂
+        → nevznikne kyselina arachidonová → ⚠️ ANI prostaglandiny ANI leukotrieny
+  ⚠️ Proto působí déle a šířeji než NSA — a proto účinek nastupuje s odstupem
+     (musí se přepsat geny), zatímco NSA blokuje enzym okamžitě.
+```
+
+**KOSTRA:** mechanismus → účinky → zástupci dle síly a délky → indikace → ⚠️ **nežádoucí účinky** → ⚠️ **útlum osy a vysazování** → ⚠️ **stresová dávka**
+
+**Zástupci:** **hydrokortison** (fyziologický, krátký) · **prednison/prednisolon** (standard) · **methylprednisolon** · ⚠️ **dexamethason a betamethason** (nejsilnější, nejdelší, ⚠️ **bez mineralokortikoidního účinku**) · lokálně budesonid, flutikason, klobetasol · ⚠️ **fludrokortison** jako mineralokortikoid u Addisonovy nemoci.
+
+⚠️ **Nežádoucí účinky:** cushingoidní vzhled, ⚠️ **osteoporóza**, hyperglykemie až diabetes, hypertenze a otoky, vřed (⚠️ zvlášť s NSA), katarakta a glaukom, ⚠️ **infekce a jejich zastřený obraz**, ⚠️ **poruchy hojení ran**, svalová slabost, psychické změny, u dětí zpomalení růstu.
+⚠️ **Útlum osy hypothalamus–hypofýza–nadledviny:** při léčbě delší než zhruba 2–3 týdny **se nesmí lék vysadit náhle** — nadledviny neumějí okamžitě začít vyrábět kortizol a hrozí **adrenální krize.** Vysazuje se postupně.
+
+⚠️ **ZUBAŘSKY NEJDŮLEŽITĚJŠÍ VĚTA CELÉ OTÁZKY:** **pacient na dlouhodobé kortikoterapii potřebuje před stresovým zákrokem dávku ZVÝŠIT, ne vynechat** (tzv. **stresová dávka**). Jeho nadledviny nedokážou na stres odpovědět vlastním kortizolem. ⚠️ **[⚠️ ověřit u vašich skript, u kterých výkonů a od jaké dávky se to vyžaduje — doporučení se liší.]**
+
+❓ **DOPTAJÍ SE:**
+- *Proč dexamethason u otoku po chirurgickém výkonu?* → **silný protizánětlivý účinek bez zadržování sodíku**; v jednorázové nebo krátké dávce nehrozí útlum osy
+- *Jak se pozná adrenální krize?* → **hypotenze, slabost, zvracení, hypoglykemie, hyponatremie** → ⚠️ okamžitě hydrokortison i.v. a objem
+- *Proč orální kandidóza u inhalačních kortikoidů?* → **místní imunosuprese na sliznici** → ⚠️ prevence: nástavec a výplach úst po každé inhalaci
+
+---
+
+## 118 · Farmakoterapie obezity
+
+▶ **ZAČNI:** „Nejdřív řeknu to podstatné: **farmakoterapie obezity je doplněk režimových opatření, ne jejich náhrada.** Nasazuje se při BMI nad 30, nebo nad 27, když už jsou přidružené nemoci."
+
+**KOSTRA:** indikace → dnešní léky → ⚠️ **historie stažených přípravků** → bariatrická chirurgie
+
+| Lék | Mechanismus | ⚠️ |
+|---|---|---|
+| **orlistat** | blokuje střevní lipázu | ⚠️ **steatorea, únik stolice**; ⚠️ snižuje vstřebávání vitaminů A, D, E, K |
+| ⚠️ **liraglutid, semaglutid** | agonisté GLP-1 — sytost, zpomalení žaludku | ⚠️ **dnes nejúčinnější**, injekčně; nauzea |
+| tirzepatid | duální GIP/GLP-1 | ještě účinnější **[⚠️ ověřit dle skript]** |
+| naltrexon/bupropion | centrální, systém odměny | ⚠️ snižuje práh křečí |
+| fentermin | sympatomimetikum | ⚠️ krátkodobě, KV rizika |
+
+⚠️ **Historie, na kterou se ptají — léky stažené z trhu:** **sibutramin** (kardiovaskulární příhody), **rimonabant** (deprese a sebevražednost), **fenfluramin/dexfenfluramin** (⚠️ **chlopenní vady a plicní hypertenze**). **Je to ukázka toho, proč se u léků na obezitu vyžaduje dlouhodobá bezpečnost — berou je jinak zdraví lidé, dlouho.**
+
+⚠️ **Bariatrická chirurgie** je u těžké obezity nejúčinnější; ⚠️ **po ní vznikají poruchy vstřebávání (železo, B12, vápník, vitamin D)** a je nutná doživotní suplementace.
+
+❓ **DOPTAJÍ SE:**
+- *Proč obezita není „jen otázka vůle"?* → **je to chronické onemocnění s hormonální regulací hmotnosti; po zhubnutí se tělo aktivně brání a metabolismus se zpomalí** — proto se váha vrací
+- *Zubařsky?* → ⚠️ **po bariatrické operaci časté zvracení a reflux → EROZE SKLOVINY**; nutriční deficity → **glositida a horší hojení**; obezita je rizikový faktor **parodontitidy** (společný zánětlivý podklad)
+- *NÚ agonistů GLP-1 v ordinaci?* → **zpomalené vyprazdňování žaludku** — ⚠️ důležité před výkonem v sedaci či celkové anestezii (riziko aspirace)
+
+---
+
+## 119 · Androgeny, anabolické steroidy
+
+▶ **ZAČNI:** „Testosteron má **androgenní a anabolickou složku, které se nedají zcela oddělit** — a právě snaha oddělit je vedla ke vzniku anabolických steroidů. Léčebné využití je úzké, **zneužívání je široké a to je jádro téhle otázky.**"
+
+**KOSTRA:** testosteron a jeho formy → indikace → **anabolika** → ⚠️ **následky zneužívání** → **antiandrogeny**
+
+⚠️ **Testosteron se nedá podávat ústy** — má obrovský first-pass efekt; podává se **injekčně, transdermálně gelem nebo náplastí.**
+**Indikace:** hypogonadismus, opožděná puberta, kachexie. ⚠️ **Nic z toho není „posílení výkonu u zdravého člověka".**
+
+⚠️ **Následky zneužívání — často zkoušené:**
+```
+   ⚠️ ÚTLUM VLASTNÍ OSY → atrofie varlat, zástava spermiogeneze, NEPLODNOST
+   ⚠️ GYNEKOMASTIE — nadbytek se aromatizuje na ESTROGENY
+   ⚠️ 17-alkylované (perorální) → JATERNÍ POŠKOZENÍ, cholestáza, nádory
+   ⚠️ dyslipidemie (↓HDL), hypertenze, kardiomyopatie, trombózy
+   akné, agresivita a výkyvy nálad, u dospívajících ⚠️ předčasný uzávěr růstových plotének
+   ⚠️ U ŽEN VIRILIZACE — hirsutismus, ⚠️ NEVRATNÉ PROHLOUBENÍ HLASU
+```
+
+**Antiandrogeny:** **cyproteron** (i gestagenní), **flutamid, bikalutamid**, ⚠️ **finasterid a dutasterid** (inhibitory 5-α-reduktázy — androgenní alopecie, benigní hyperplazie prostaty), **spironolakton** (u hirsutismu), **abirateron a enzalutamid** u karcinomu prostaty.
+
+❓ **DOPTAJÍ SE:**
+- *Proč gynekomastie u muže, který bere testosteron?* → **část se aromatázou přemění na estradiol** — proto si uživatelé přidávají inhibitory aromatázy, což osu rozvrací dál
+- *Proč atrofie varlat?* → **zpětná vazba: tělo vidí dost androgenů zvenčí a přestane vyrábět LH a FSH** → varle nemá signál pracovat
+- *Zubařsky?* → **anabolika: zvětšení čelisti u dlouhodobého zneužívání je popisováno spíš u růstového hormonu**; ⚠️ praktičtější je **bruxismus, hypertenze a horší hojení**
+
+---
+
+## 120 · Estrogeny, gestageny
+
+▶ **ZAČNI:** „Projdu obě skupiny a u estrogenů se zastavím u **selektivních modulátorů receptoru — SERM** — protože ty ukazují, že tentýž lék může být v jedné tkáni antagonista a v jiné agonista. To je pojem, který zkoušející rádi ověřují."
+
+```
+  ⚠️ TAMOXIFEN (SERM)
+      v PRSU     → ANTAGONISTA  ⭐ léčba karcinomu prsu
+      v ENDOMETRIU → ⚠️ AGONISTA → ⚠️ RIZIKO KARCINOMU ENDOMETRIA
+      v KOSTI    → agonista (chrání) · ⚠️ + riziko trombózy
+  ⚠️ RALOXIFEN — v prsu antagonista, ⚠️ v endometriu NE → osteoporóza
+  INHIBITORY AROMATÁZY  anastrozol, letrozol
+      ⚠️ jen u postmenopauzálních žen · ⚠️ urychlují osteoporózu
+```
+
+**KOSTRA:** estrogeny a jejich formy → **SERM** → inhibitory aromatázy → gestageny → **hormonální substituce (HRT)** → ⚠️ zubařský přesah
+
+**Gestageny:** progesteron, dydrogesteron, levonorgestrel, drospirenon; ⚠️ **antagonista mifepriston.**
+⚠️ **HRT v menopauze:** podává se **na obtěžující potíže, v nejnižší účinné dávce a co nejkratší dobu.** ⚠️ **U ženy s dělohou se musí přidat gestagen** — samotný estrogen by nechráněné endometrium hyperplazoval. Rizika: **žilní trombóza, karcinom prsu při delším podávání.**
+
+⚠️ **ZUBAŘSKÝ PŘESAH:** ⚠️ **hormonální gingivitida** — v pubertě, v graviditě a při užívání hormonů dáseň na stejné množství plaku reaguje mnohem silněji; ⚠️ **„těhotenský epulis"** je nezhoubný útvar, který po porodu obvykle ustoupí. ⚠️ **Estrogeny zvyšují riziko suché alveolitidy po extrakci** — u žen na kombinované antikoncepci se doporučuje plánovat extrakci mimo dny s nejvyšší hladinou. **[⚠️ ověřit podle skript.]**
+
+❓ **DOPTAJÍ SE:**
+- *Co znamená „selektivní modulátor"?* → **výsledný účinek závisí na tom, jaké koaktivátory a korepresory jsou v dané tkáni** — proto tentýž lék v jedné tkáni budí a v druhé tlumí
+- *Proč se u tamoxifenu sleduje endometrium?* → ⚠️ **v děloze působí jako agonista** → krvácení je varovný příznak, který se musí vyšetřit
+- *Proč inhibitor aromatázy nefunguje u premenopauzální ženy?* → **hlavním zdrojem estrogenů je u ní vaječník, ne periferní aromatizace**
+
+---
+
+## 121 · Kontraceptiva
+
+▶ **ZAČNI:** „Základem kombinované hormonální antikoncepce je **potlačení ovulace útlumem LH a FSH** — a k tomu se přidávají další dva mechanismy. **Zajímavější než mechanismus jsou ale kontraindikace a interakce**, tak jim dám hlavní prostor."
+
+**KOSTRA:** mechanismus (⚠️ **tři úrovně**) → kombinovaná × gestagenní → ⚠️ **kontraindikace** → rizika a přínosy → ⚠️ **interakce** → postkoitální
+
+🔑 **Tři mechanismy: 1) potlačení ovulace · 2) zahuštění cervikálního hlenu · 3) změna endometria.**
+
+⚠️ **KONTRAINDIKACE kombinované antikoncepce — vděčná otázka:**
+```
+   ⚠️ trombóza nebo trombofilie v anamnéze
+   ⚠️ MIGRÉNA S AUROU  (riziko ischemické mozkové příhody se sčítá)
+   ⚠️ KOUŘENÍ U ŽENY NAD 35 LET
+   karcinom prsu · těžké jaterní onemocnění · nekontrolovaná hypertenze
+   gravidita
+```
+⚠️ **Hlavní riziko: žilní tromboembolismus, nejvyšší v prvním roce užívání.**
+**Přínosy nad rámec antikoncepce:** ⚠️ **snížení rizika karcinomu vaječníku a endometria**, úprava cyklu, léčba akné a dysmenorey.
+
+**Čistě gestagenní:** minipilulky, depotní injekce (⚠️ **snižuje kostní denzitu**), podkožní implantát, ⚠️ **nitroděložní systém s levonorgestrelem** (nejúčinnější a nejdéle působící).
+**Postkoitální:** **levonorgestrel do 72 hodin**, ⚠️ **ulipristal do 120 hodin**, ⚠️ **nitroděložní tělísko je nejúčinnější.**
+
+⚠️ **INTERAKCE, které mohou vést k selhání:** ⚠️ **rifampicin** (nejsilnější induktor), ⚠️ **karbamazepin, fenytoin, fenobarbital**, ⚠️ **třezalka tečkovaná.** ⚠️ **Běžná antibiotika jako amoxicilin se dnes za významnou interakci nepovažují** — ⚠️ **[⚠️ ověřit, jak to uvádějí vaše skripta; starší materiály tvrdí opak, a u zkoušky je bezpečnější odpovědět podle nich a rozdíl zmínit].**
+
+❓ **DOPTAJÍ SE:**
+- *Proč u migrény s aurou?* → **aura je projev přechodné mozkové ischemie; estrogen zvyšuje srážlivost** — obě rizika se násobí
+- *Zubařsky?* → ⚠️ **hormonální gingivitida** a ⚠️ **vyšší riziko suché alveolitidy po extrakci**; ⚠️ **při léčbě rifampicinem musí být pacientka poučena o náhradní antikoncepci**
+- *Proč je nitroděložní systém účinnější než tabletky?* → ⚠️ **nezáleží na tom, jestli si pacientka vzpomene** — u tabletek je hlavní příčinou selhání vynechaná dávka
+
+---
+
+## 122 · Farmakoterapie benigní hyperplazie prostaty
+
+▶ **ZAČNI:** „U zvětšené prostaty jsou dvě složky obtíží: **dynamická, tedy stažená hladká svalovina, a statická, tedy objem žlázy.** Podle toho jsou dvě skupiny léků — a **liší se hlavně tím, jak rychle zaberou.**"
+
+```
+  ⚠️ DYNAMICKÁ složka          ⚠️ STATICKÁ složka
+   α1-BLOKÁTORY                 INHIBITORY 5-α-REDUKTÁZY
+   tamsulosin, silodosin,       finasterid, dutasterid
+   alfuzosin, doxazosin         ⚠️ zmenší žlázu — ale AŽ ZA 3–6 MĚSÍCŮ
+   ⚠️ úleva ZA DNY              ⚠️ SNÍŽÍ PSA ZHRUBA NA POLOVINU
+   ⚠️ floppy iris syndrome,        → pozor při screeningu karcinomu prostaty
+      ortostáza,                ⚠️ sexuální dysfunkce, gynekomastie
+      retrográdní ejakulace
+```
+
+**KOSTRA:** dvě složky obtíží → dvě skupiny léků → kombinace → tadalafil → fytoterapie → ⚠️ co u pacienta hlídat
+
+⚠️ **U pacienta s velkou prostatou se kombinují obě skupiny** — α1-blokátor přinese rychlou úlevu a inhibitor 5-α-reduktázy dlouhodobě zmenší žlázu a sníží riziko akutní retence a operace.
+**Tadalafil** v nízké denní dávce zlepšuje jak potíže s močením, tak erektilní funkci.
+⚠️ **Fytoterapie (Serenoa repens, kopřiva) — evidence je slabá.**
+
+❓ **DOPTAJÍ SE:**
+- *Proč se před operací katarakty ptají na tamsulosin?* → ⚠️ **floppy iris syndrome** — duhovka je ochablá a operace je technicky náročnější; oftalmolog to musí vědět předem, i když pacient lék už nebere
+- *Zubařsky?* → ⚠️ **anticholinergika (i antihistaminika I. generace a tricyklika) mohou u muže s hyperplazií prostaty vyvolat akutní retenci moči** — je to reálná kontraindikace, na kterou se v anamnéze zapomíná
+- *Proč finasterid i na plešatost?* → **blokuje přeměnu testosteronu na dihydrotestosteron**, který je zodpovědný za androgenní alopecii i za růst prostaty
+
+---
+
+## 123 · Cytostatika
+
+▶ **ZAČNI:** „Klasická cytostatika **zasahují rychle se dělící buňky** — a v tom je zároveň jejich účinek i jejich toxicita. **Rychle se totiž dělí i kostní dřeň, sliznice, vlasové folikuly a zárodečné buňky.** Z jedné věty tak vyplyne celý profil nežádoucích účinků."
+
+```
+  ALKYLAČNÍ        cyklofosfamid (⚠️ hemoragická cystitida → antidotum MESNA),
+                   ifosfamid, busulfan, ⚠️ CISPLATINA
+                   (⚠️ nefrotoxická, OTOTOXICKÁ, silně vyvolává zvracení)
+  ANTIMETABOLITY   ⚠️ methotrexát (⚠️ „záchrana" LEUKOVORINEM),
+                   5-fluorouracil, kapecitabin, cytarabin, gemcitabin
+  ROSTLINNÉ        ⚠️ vinkristin/vinblastin — BRÁNÍ stavbě mikrotubulů (⚠️ neuropatie)
+                   taxany (paklitaxel) — ⚠️ naopak je STABILIZUJÍ
+  TOPOIZOMERÁZY    etoposid, irinotekan
+  ANTIBIOTIKA      ⚠️ DOXORUBICIN (⚠️ KUMULATIVNÍ KARDIOTOXICITA → dexrazoxan)
+                   bleomycin (⚠️ PLICNÍ FIBRÓZA)
+  CÍLENÁ LÉČBA     ⚠️ -tinib = malé molekuly (imatinib) · -mab = protilátky
+                   (trastuzumab ⚠️ kardiotoxicita, bevacizumab ⚠️ hojení ran)
+                   checkpoint inhibitory (pembrolizumab, nivolumab)
+                   ⚠️ imunitně podmíněné NÚ — „zánět čehokoli"
+```
+
+**KOSTRA:** princip a z něj plynoucí toxicita → skupiny → **orgánově specifické toxicity** → cílená a imunoterapie → ⚠️ **zubařský přesah**
+
+⚠️ **ZUBAŘSKY — jedna z nejdůležitějších otázek celého předmětu:**
+- ⚠️ **MUKOZITIDA:** bolestivý rozpad ústní sliznice, ⚠️ **vstupní brána pro sepsi u pacienta s neutropenií.**
+- ⚠️ **SANACE CHRUPU MUSÍ PROBĚHNOUT PŘED zahájením chemoterapie nebo ozařování, ne během.** Během léčby je pacient neutropenický a trombocytopenický.
+- ⚠️ Po ozáření hlavy a krku: **trvalá xerostomie → prudký kaz** a ⚠️ **osteoradionekróza** (extrakce v ozářené oblasti je rizikový výkon).
+- ⚠️ **Krvácivost a infekce** podle aktuálního krevního obrazu; před výkonem se odběr vyžaduje.
+
+❓ **DOPTAJÍ SE:**
+- *Proč se cytostatika podávají v cyklech?* → **zdravé tkáně se v pauze zregenerují rychleji než nádor** — na tom stojí celá logika dávkování
+- *Co je nádorový rozpadový syndrom?* → **masivní rozpad buněk → hyperkalemie, hyperfosfatemie, hyperurikemie → selhání ledvin**; ⚠️ prevence hydratací a **rasburikázou nebo alopurinolem**
+- *Čím jsou zvláštní checkpoint inhibitory?* → **nezabíjejí nádor, ale sundají brzdu z imunitního systému** → ⚠️ nežádoucí účinky vypadají jako autoimunitní onemocnění (kolitida, tyreoiditida, hepatitida) a léčí se kortikoidy
+
+---
+
+## 124 · Farmakoterapie anemií
+
+▶ **ZAČNI:** „Nejdůležitější věta zní: **anemie není diagnóza, ale příznak.** Než se začne léčit, musí se vědět, o jaký typ jde — a hlavně proč vznikl. **Slepé podávání železa je chyba.**"
+
+```
+  SIDEROPENICKÁ  ⚠️ ŽELEZO
+     p.o. nalačno, ⚠️ s vitaminem C (zlepší vstřebání)
+     ⚠️ snižují vstřebání: antacida, PPI, tetracykliny, chinolony, čaj, mléko
+     ⚠️ NÚ: zácpa nebo průjem, ⚠️ ČERNÁ STOLICE (⚠️ nezaměnit s melénou)
+     ⚠️ léčit do doplnění ZÁSOB (ferritin), ne jen do normálního hemoglobinu
+     ⚠️ VŽDY HLEDAT ZDROJ KRVÁCENÍ — u muže a u ženy po menopauze i nádor
+
+  MEGALOBLASTICKÁ  ⚠️ vitamin B12 · kyselina listová
+     ⚠️ u perniciózní anemie B12 PARENTERÁLNĚ (chybí vnitřní faktor)
+     ⚠️ SMRTELNÁ PAST: SAMOTNÝ FOLÁT u deficitu B12 upraví krevní obraz,
+        ⚠️ ALE NEUROLOGICKÉ POŠKOZENÍ POSTUPUJE DÁL a stane se nevratným
+
+  RENÁLNÍ   ⚠️ ERYTROPOETIN (+ vždy zajistit dostatek železa)
+  APLASTICKÁ  imunosuprese, transplantace
+```
+
+**KOSTRA:** ⚠️ **nejdřív typ a příčina** → sideropenická → megaloblastická → renální → ⚠️ **ústní projevy**
+
+⚠️ **ZUBAŘSKÝ PŘESAH — a je opravdu praktický:** ⚠️ **atrofická glositida (hladký, červený, pálící jazyk), angulární cheilitida (koutky), recidivující afty a pálení úst** jsou časté první projevy **nedostatku železa, vitaminu B12 nebo folátu.** ⚠️ **Zubař tyto stavy vidí dřív než praktický lékař** a měl by na ně odbérem reagovat, ne je léčit jen lokálně.
+
+❓ **DOPTAJÍ SE:**
+- *Proč se železo špatně snáší a co s tím?* → **dráždí sliznici**; ⚠️ podávání **obden** je podle novějších dat účinnější i snesitelnější (hepcidin) — **[⚠️ ověřit, zda to vaše skripta uvádějí]**
+- *Kdo je ohrožen deficitem B12?* → ⚠️ **vegani, senioři, po resekci žaludku nebo ilea, pacienti na metforminu a dlouhodobých PPI**
+- *Proč erytropoetin u renální anemie?* → **ledvina ho vyrábí, a když selhává, chybí signál pro krvetvorbu**; ⚠️ cílem není normální hemoglobin, ale bezpečné pásmo — přestřelení zvyšuje riziko trombóz
+
+---
+
+## 125 · Rtg kontrastní látky
+
+▶ **ZAČNI:** „Kontrastní látky nejsou léčiva v pravém slova smyslu — **nemají žádný zamýšlený farmakologický účinek**, mají jen zviditelnit strukturu. Přesto mají tři typické komplikace, a právě ty jsou obsahem otázky."
+
+**KOSTRA:** typy (**jodové, baryové, gadoliniové, ultrazvukové**) → ⚠️ **tři hlavní rizika jodových** → ⚠️ metformin → baryum a jeho kontraindikace → gadolinium
+
+**Jodové látky** — dělí se na **ionické a neionické**; ⚠️ **klíčovou veličinou je OSMOLALITA — čím nižší, tím lépe se snášejí.** Dnes se používají neionické nízko- až izoosmolární.
+⚠️ **Tři rizika, na která se ptají:**
+1. ⚠️ **Kontrastem indukovaná nefropatie** — prevence **dostatečnou hydratací** a ⚠️ **vysazením metforminu** (hrozí laktátová acidóza při zhoršení funkce ledvin).
+2. ⚠️ **Anafylaktoidní reakce** — ⚠️ **nezprostředkovaná IgE**, takže může přijít i při prvním podání; u rizikových pacientů **premedikace kortikoidem a antihistaminikem.**
+3. ⚠️ **Tyreotoxikóza** u pacienta s latentní hypertyreózou (jodová nálož).
+
+**Baryová suspenze** — ⚠️ **jen do trávicího traktu a ⚠️ NIKDY při podezření na perforaci** (baryum v dutině břišní způsobí těžkou peritonitidu) — tam se použije **vodná jodová látka.**
+**Gadolinium (MR)** — ⚠️ **nefrogenní systémová fibróza u těžké renální insuficience.**
+
+❓ **DOPTAJÍ SE:**
+- *Znamená alergie na jod v potravě alergii na kontrastní látku?* → ⚠️ **ne — je to rozšířený mýtus**; reakce nesouvisí s jodem jako prvkem
+- *Zubařsky?* → **v běžné zubní rentgenologii se kontrastní látky nepoužívají**; ⚠️ **jodová látka se uplatní u sialografie** slinných žláz
+- *Co udělat před podáním kontrastu?* → **zjistit funkci ledvin, anamnézu reakcí, léky (⚠️ metformin) a onemocnění štítné žlázy**
+
+---
+
+## 126 · Léčiva pro místní účinek na kůži a sliznicích, dezinficiencia
+
+▶ **ZAČNI:** „Tahle otázka je pro zubní lékařství jedna z nejvlastnějších, tak ji postavím kolem **chlorhexidinu** — a nejdřív vyjasním tři pojmy, které se pletou: **dezinfekce, antisepse a sterilizace.**"
+
+🔑 **Sterilizace ničí vše včetně spor · dezinfekce se používá na předměty a povrchy · antiseptikum se aplikuje na živou tkáň.**
+
+```
+  ⭐ CHLORHEXIDIN — zlatý standard v dutině ústní
+     ⚠️ SUBSTANTIVITA: naváže se na sliznici a zuby a uvolňuje se hodiny
+        → proto funguje mnohem déle než jiná ústní voda
+     ⚠️ NEŽÁDOUCÍ ÚČINKY: HNĚDÉ ZBARVENÍ zubů a jazyka ·
+        ⚠️ PORUCHA VNÍMÁNÍ CHUTI · pálení · zvýšená tvorba zubního kamene
+     ⚠️ NENÍ NA DLOUHODOBÉ UŽÍVÁNÍ — krátkodobě, cíleně
+     ⚠️ INAKTIVUJE HO laurylsulfát ze zubní pasty → odstup ~30 minut
+```
+
+**KOSTRA:** pojmy → **chlorhexidin** → další ústní antiseptika → ⚠️ **fluoridy** → lokální kortikoidy a antimykotika → ⚠️ zásady
+
+**Další v ústech:** **povidon-jod**, **peroxid vodíku**, ⚠️ **chlornan sodný (endodontické proplachy)**, **éterické oleje**, hexetidin, delmopinol.
+⚠️ **FLUORIDY** — nejúčinnější prevence kazu: ⚠️ **fluorid nahradí hydroxylovou skupinu v hydroxyapatitu a vznikne FLUOROAPATIT, který je odolnější vůči kyselinám**; navíc podporuje remineralizaci a tlumí bakteriální metabolismus. ⚠️ **Nadbytek v době vývoje zubu → dentální fluoróza (bílé skvrny).**
+
+**Na kůži:** lokální kortikoidy (⚠️ **dle potence; dlouhodobě atrofie kůže, strie, teleangiektázie; ⚠️ na obličej jen slabé a krátce**), lokální antimykotika, keratolytika (kyselina salicylová), antiseptika (povidon-jod, oktenidin).
+⚠️ **Zásada: antibiotika, která se používají celkově, se nemají aplikovat lokálně** — vede to k rezistenci a k senzibilizaci.
+
+❓ **DOPTAJÍ SE:**
+- *Kdy chlorhexidin skutečně indikovat?* → **po chirurgickém výkonu, u pacienta, který dočasně nemůže čistit zuby, u akutní gingivitidy** — ⚠️ **nikdy jako trvalá náhrada mechanické hygieny**
+- *Proč nedávat peroxid vodíku dlouhodobě?* → **dráždí sliznici a při dlouhodobém užívání může způsobit hypertrofii papil jazyka**
+- *Proč je chlornan sodný v endodoncii tak zásadní?* → **rozpouští organický zbytek a hubí bakterie v kanálku**; ⚠️ **při přetlačení za apex způsobí těžkou chemickou nekrózu — „chlornanová příhoda"**
+
+---
+
+## 127 · Infuzní terapie
+
+▶ **ZAČNI:** „U infuzní terapie jde o jedinou otázku: **kam se podaný roztok v těle rozejde.** Podle toho se dělí na **krystaloidy a koloidy** — a od toho se odvíjí i to, k čemu se který hodí."
+
+```
+  ⚠️ KDE ROZTOK SKONČÍ:
+    5% GLUKÓZA → cukr se spotřebuje, zbyde ⚠️ ČISTÁ VODA
+                 → rozejde se do VŠECH prostorů  ⚠️ NENÍ na náhradu objemu
+    KRYSTALOIDY (fyziologický roztok, ⚠️ balancované: Ringer, Plasmalyte)
+                 → zůstanou v mimobuněčném prostoru; v cévě jen asi čtvrtina
+    KOLOIDY (albumin, želatina) → velké molekuly ⚠️ drží vodu v cévě
+```
+
+**KOSTRA:** rozdělení → ⚠️ **fyziologický roztok versus balancované roztoky** → koloidy → parenterální výživa → ⚠️ zásady
+
+⚠️ **„Fyziologický" roztok 0,9 % NaCl fyziologický není** — obsahuje mnohem víc chloridů než plazma. ⚠️ **Při podání velkých objemů způsobí hyperchloremickou metabolickou acidózu** a zhoršení průtoku ledvinou. ⚠️ **Proto se dnes upřednostňují balancované roztoky.**
+⚠️ **Hydroxyethylškroby byly výrazně omezeny** — zhoršovaly funkci ledvin a zvyšovaly úmrtnost u kriticky nemocných.
+⚠️ **Parenterální výživa:** riziko ⚠️ **refeeding syndromu** — při rychlém krmení podvyživeného pacienta prudce klesne fosfát, draslík a hořčík, což může být smrtelné.
+
+❓ **DOPTAJÍ SE:**
+- *Proč se nedává glukóza při edému mozku?* → **je to fakticky volná voda, která přejde i do buněk a otok zhorší**; ⚠️ používá se hypertonický roztok nebo mannitol
+- *Jak se pozná, že pacient reaguje na objem?* → **podle vzestupu tlaku, diurézy, laktátu a kapilárního návratu** — ⚠️ infuze se nepodává „podle rozpisu", ale podle odpovědi
+- *Zubařsky?* → ⚠️ **v ambulantní praxi je nejčastější indikací kolapsový stav a dehydratace**; ⚠️ nemocný, který několik dní pro bolest nejedl a nepil, může být výrazně dehydratovaný
+
+---
+
+## 128 · Vitaminy rozpustné v tucích
+
+▶ **ZAČNI:** „**A, D, E, K.** Jejich společná vlastnost, ze které plyne všechno ostatní: **ukládají se v těle, takže na rozdíl od vodorozpustných u nich hrozí i předávkování.** Projdu je po jednom."
+
+| Vitamin | Funkce | ⚠️ Nedostatek | ⚠️ Nadbytek |
+|---|---|---|---|
+| **A** (retinol) | zrak (rodopsin), epitely, imunita | **šeroslepost, xeroftalmie**, suché sliznice | ⚠️ **hepatotoxicita, TERATOGENITA** |
+| **D** | vstřebávání vápníku, mineralizace kosti | **rachitis** u dětí, **osteomalacie** u dospělých | **hyperkalcemie**, kalcifikace |
+| **E** (tokoferol) | antioxidant membrán | vzácný — neuropatie, hemolýza | ⚠️ **zvýšená krvácivost** |
+| **K** | ⚠️ γ-karboxylace faktorů **II, VII, IX, X** | **krvácivost**; ⚠️ **hemoragická nemoc novorozence** | prakticky nehrozí |
+
+```
+  ⚠️ AKTIVACE VITAMINU D — dvě hydroxylace, dva orgány:
+     cholekalciferol ──JÁTRA──> 25-OH-D ──LEDVINY──> ⚠️ 1,25-(OH)₂-D = KALCITRIOL
+     → proto má pacient s renálním selháním nedostatek AKTIVNÍ formy
+       a musí dostat rovnou kalcitriol (nebo alfakalcidol)
+```
+
+⚠️ **ISOTRETINOIN (derivát vitaminu A na těžké akné) je silný teratogen** — ⚠️ **vyžaduje spolehlivou antikoncepci před léčbou, během ní i po ní**; NÚ zahrnují ⚠️ **výraznou suchost rtů a sliznic**, což zubař vidí.
+⚠️ **Vitamin K se novorozenci podává profylakticky** — střevo ještě nemá bakterie, které ho vyrábějí.
+
+❓ **DOPTAJÍ SE:**
+- *Kdo je ohrožen deficitem vitaminů rozpustných v tucích?* → ⚠️ **poruchy vstřebávání tuků: celiakie, cystická fibróza, cholestáza, po bariatrické operaci, ⚠️ při užívání orlistatu**
+- *Zubařsky?* → **vitamin D a vápník pro mineralizaci; deficit D u dětí → hypoplazie skloviny a opožděná erupce**; ⚠️ nadbytek fluoridu (jiná látka, ale stejný princip) → fluoróza
+- *Proč nemá smysl dávat kalcidiol pacientovi s dialýzou?* → **ledvina neprovede poslední hydroxylaci** → musí dostat aktivní formu
+
+---
+
+## 129 · Vitaminy rozpustné ve vodě
+
+▶ **ZAČNI:** „Skupina B a vitamin C. **Nekumulují se — s jedinou důležitou výjimkou, kterou je B12 uložený v játrech.** Pro zubní lékařství je tahle otázka mimořádně vděčná, protože **většina těch deficitů se projeví v ústech.**"
+
+```
+  ⚠️ CO SE PROJEVÍ V DUTINĚ ÚSTNÍ:
+     B2 riboflavin  → ⚠️ ANGULÁRNÍ CHEILITIDA (koutky), glositida
+     B3 niacin      → ⚠️ pelagra: 3× D — dermatitida, diarea, demence
+                       + stomatitida a jasně červený jazyk
+     B12 / folát    → ⚠️ atrofická glositida, afty, pálení jazyka
+     ⚠️ VITAMIN C   → ⚠️ SKORBUT (viz níže)
+```
+
+**KOSTRA:** skupina B po jednotlivých vitaminech → **vitamin C** → ⚠️ ústní projevy → interakce s léky
+
+**B1 thiamin** — ⚠️ **deficit u alkoholiků → Wernickeova encefalopatie** (podává se **před glukózou**); beri-beri.
+**B6 pyridoxin** — ⚠️ **deficit při léčbě izoniazidem → periferní neuropatie**; ⚠️ **nadbytek dělá neuropatii také.**
+**B9 folát** — ⚠️ **prevence rozštěpů neurální trubice; užívá se JIŽ PŘED otěhotněním.**
+**B12 kobalamin** — ⚠️ vyžaduje **vnitřní faktor**; deficit u ⚠️ **veganů, po resekci žaludku či ilea, při dlouhodobém metforminu a PPI.**
+
+⚠️ **VITAMIN C — pro zubaře nejdůležitější vitamin vůbec:**
+```
+  je kofaktorem HYDROXYLACE PROLINU A LYSINU → bez něj se nedá udělat
+  plnohodnotný ⚠️ KOLAGEN → vazivo v celém těle je vadné
+     ⚠️ SKORBUT: KRVÁCENÍ Z DÁSNÍ, oteklá rozbředlá dáseň,
+        ⚠️ VIKLAJÍCÍ SE AŽ VYPADÁVAJÍCÍ ZUBY, petechie, špatné hojení ran,
+        únava, bolesti kloubů
+```
+
+❓ **DOPTAJÍ SE:**
+- *Proč zrovna dásně a zuby u skorbutu?* → **závěsný aparát zubu je vazivo z kolagenu s rychlým obratem** — poškodí se dřív než jiné tkáně; historicky to byl první příznak u námořníků
+- *Proč nekumulují?* → **jsou rozpustné ve vodě a přebytek se vyloučí močí** — proto se musí přijímat pravidelně a předávkování je vzácné
+- *Kdy pomyslet na deficit v ordinaci?* → ⚠️ **opakované afty, pálení jazyka, hladký červený jazyk, koutky** — u pacienta bez zjevné příčiny stojí za odběr, ne za lokální mast
+
+---
+
+## 130 · Farmakoterapie osteoporózy
+
+▶ **ZAČNI:** „Osteoporóza znamená, že **odbourávání kosti převažuje nad tvorbou.** Léky se proto dělí na dvě protilehlé skupiny — **antiresorpční, které brzdí odbourávání, a osteoanabolické, které kost budují.** A pro zubní lékařství je to jedna z nejdůležitějších otázek celého předmětu."
+
+```
+  ZÁKLAD VŽDY: ⚠️ VÁPNÍK + VITAMIN D + pohyb + prevence pádů
+
+  ANTIRESORPČNÍ (brzdí osteoklasty)
+     ⚠️ BISFOSFONÁTY  alendronát, risedronát, kyselina zoledronová
+          ⚠️ vážou se na hydroxyapatit → v kosti zůstávají LÉTA
+     ⚠️ DENOSUMAB  protilátka proti RANKL
+          ⚠️ po vysazení RYCHLÁ ztráta kosti a zlomeniny obratlů → nevysazovat
+     raloxifen · kalcitonin
+
+  OSTEOANABOLICKÉ (budují kost)
+     ⚠️ TERIPARATID  — ⚠️ PARADOX: parathormon podávaný INTERMITENTNĚ kost
+        BUDUJE, kdyby se podával kontinuálně, odbourával by ji
+     romosozumab
+```
+
+**KOSTRA:** patofyziologie → **základ (vápník, D)** → antiresorpční → osteoanabolické → ⚠️ **způsob užívání bisfosfonátů** → ⚠️ **MRONJ**
+
+⚠️ **Jak se bisfosfonát užívá — praktický detail, na který se ptají:** **nalačno, zapít plnou sklenicí čisté vody, a ⚠️ zůstat 30 minut ve vzpřímené poloze a nejíst** — jinak hrozí **ezofagitida až vřed jícnu.**
+⚠️ **Další NÚ: atypické zlomeniny femuru** a ⚠️ **osteonekróza čelisti.**
+
+⚠️ **ZUBAŘSKY ZÁSADNÍ — MRONJ (osteonekróza čelisti způsobená léky):**
+```
+  ⚠️ Riziko je NÍZKÉ u perorální osteoporotické léčby
+     a VÝRAZNĚ VYŠŠÍ u nitrožilních onkologických dávek a u denosumabu.
+  ⚠️ SANACE CHRUPU PATŘÍ PŘED zahájení léčby, ne po něm.
+  ⚠️ Extrakci raději nahradit konzervativním řešením (endodoncie, ponechání kořene).
+  ⚠️ Lék NEVYSAZOVAT svévolně — případný „drug holiday" jen po domluvě
+     s ošetřujícím lékařem; bisfosfonát v kosti stejně zůstává roky.
+  [⚠️ ověřit přesná doporučení podle vašich skript.]
+```
+
+❓ **DOPTAJÍ SE:**
+- *Proč vzniká osteonekróza právě v čelisti?* → **čelist má vysoký kostní obrat, je tenkou sliznicí oddělená od bakteriálně bohatého prostředí a je vystavená extrakcím** — jinde v těle taková kombinace není
+- *Proč teriparatid nelze podávat dlouho?* → ⚠️ **je omezen na dva roky léčby**; po ukončení je nutné navázat antiresorpčním lékem, jinak se získaná kost ztratí
+- *Jak souvisí fluorid s kostí a zubem?* → **v zubu vzniká fluoroapatit odolnější vůči kyselinám**; ⚠️ fluorid jako lék na osteoporózu se ale neosvědčil — kost byla hustší, ale křehčí
+
+---
+
+## 131 · Fytoterapie
+
+▶ **ZAČNI:** „Chci u téhle otázky říct hlavní myšlenku hned: **„přírodní" neznamená „bezpečné".** Rostlinné přípravky mají skutečné farmakologické účinky, a proto i skutečné interakce — jenže pacient je za léky nepovažuje a v anamnéze je neuvede."
+
+**KOSTRA:** postavení fytoterapie → ⚠️ **třezalka jako hlavní příklad** → ⚠️ **rostliny zvyšující krvácivost** → další zástupci → ⚠️ zubařský přesah
+
+⚠️ **TŘEZALKA TEČKOVANÁ (*Hypericum perforatum*) — nejdůležitější interakce celé otázky:**
+```
+  ⚠️ INDUKUJE CYP3A4 A P-GLYKOPROTEIN → hladiny jiných léků KLESNOU
+     ⚠️ selhání hormonální antikoncepce
+     ⚠️ pokles účinku warfarinu, cyklosporinu (⚠️ rejekce štěpu!), antiretrovirotik
+  ⚠️ + SEROTONINOVÝ SYNDROM v kombinaci s SSRI
+```
+
+⚠️ **Rostliny zvyšující krvácivost — přímo zubařský problém:** ⚠️ **ginkgo biloba, česnek, zázvor, ženšen** (🔑 anglicky „the four G's"). ⚠️ **Ptát se na ně před chirurgickým výkonem stejně jako na léky.**
+
+**Další používané:** heřmánek a šalvěj (⚠️ **ústní výplachy — mírný protizánětlivý účinek**), měsíček, kozlík (nespavost), ostropestřec, senna (⚠️ stimulační laxativum), máta, echinacea (⚠️ evidence sporná), ⚠️ **hřebíčkový olej (eugenol)** — ⚠️ **v zubním lékařství tradiční antiseptikum a analgetikum**, součást dočasných výplní a obturačních past.
+
+❓ **DOPTAJÍ SE:**
+- *Proč jsou rostlinné přípravky problematické?* → ⚠️ **kolísavý obsah účinných látek, chybějící standardizace, časté nedeklarované příměsi a to, že pacient je neuvede jako lék**
+- *Zubařsky?* → ⚠️ **doplnit anamnézu o doplňky stravy a bylinky před extrakcí**; ⚠️ **eugenol dráždí sliznici a u alergických jedinců vyvolá kontaktní reakci**; ⚠️ **eugenolová dočasná výplň narušuje vazbu kompozita**
+- *Znamená to, že fytoterapie nemá místo?* → **ne** — některé látky mají doložený mírný účinek (šalvěj, heřmánek lokálně, ⚠️ senna jako laxativum); jde o to, brát je jako léky se vším, co k tomu patří
+
+---
+
+## 132 · Obecná toxikologie
+
+▶ **ZAČNI:** „Základní myšlenku vyslovil už Paracelsus: **„Všechno je jed, záleží jen na dávce."** Toxikologie zkoumá právě ten vztah dávky a účinku — a od něj se odvíjejí všechny její pojmy."
+
+**KOSTRA:** ⚠️ **Paracelsovo pravidlo** → základní pojmy → ⚠️ **veličiny (LD50, NOAEL, ADI)** → typy toxicity → ⚠️ **karcinogeny, mutageny, teratogeny** → interakce → limity
+
+```
+  ⚠️ VELIČINY
+     LD₅₀   dávka, která usmrtí polovinu pokusných zvířat (⚠️ míra akutní toxicity)
+     NOAEL  nejvyšší dávka BEZ pozorovaného nežádoucího účinku
+     ADI    přijatelný denní příjem pro člověka (⚠️ z NOAEL s bezpečnostním faktorem)
+
+  ⚠️ INTERAKCE — pojmy, které se rády ptají
+     ADITIVNÍ    1 + 1 = 2
+     SYNERGIE    1 + 1 = 5   (účinek větší než součet)
+     POTENCIACE  0 + 1 = 5   (⚠️ látka sama netoxická zesílí toxicitu druhé)
+     ANTAGONISMUS  účinek se ruší — základ všech antidot
+```
+
+**Pojmy:** **xenobiotikum** (látka tělu cizí) · **akutní × chronická toxicita** · ⚠️ **bioakumulace** (látka se hromadí v organismu) a ⚠️ **biomagnifikace** (koncentrace roste po potravním řetězci — proto je nejvíc methylrtuti ve velkých dravých rybách).
+⚠️ **Karcinogeny, mutageny a teratogeny** — ⚠️ **testování Amesovým testem** (mutagenita na bakteriích), klasifikace **IARC.**
+⚠️ **U karcinogenů se předpokládá, že bezpečná dávka neexistuje** — na rozdíl od většiny ostatních toxických účinků, kde je práh.
+
+❓ **DOPTAJÍ SE:**
+- *Proč je LD50 nedostatečná míra?* → **říká jen o akutní smrtelnosti, ne o chronické toxicitě, karcinogenitě ani teratogenitě** — látka s vysokou LD50 může být dlouhodobě velmi nebezpečná
+- *Uveď příklad potenciace* → ⚠️ **etanol sám játra o moc nepoškodí a paracetamol v běžné dávce také ne, ale společně ano** (indukce CYP2E1 a vyčerpaný glutathion)
+- *Zubařsky?* → ⚠️ **profesionální expozice: rtuť z amalgámu, oxid dusný, dezinfekční prostředky, akryláty** — proto odsávání, ventilace a osobní ochranné pomůcky
+
+---
+
+## 133 · Terapie otrav a předávkování
+
+▶ **ZAČNI:** „U otravy je nejdůležitější **pořadí kroků** — a začnu právě jím, protože nejčastější chyba je, že se člověk žene po antidotu, zatímco pacient nedýchá."
+
+```
+  ⚠️ POŘADÍ — a nikdy jinak:
+   1) ⭐ ZAJIŠTĚNÍ VITÁLNÍCH FUNKCÍ (dýchání, oběh, vědomí) — VŽDY PRVNÍ
+   2) zamezení dalšímu vstřebávání (dekontaminace)
+   3) urychlení eliminace
+   4) ⚠️ ANTIDOTUM — existuje jen u malé části otrav
+   5) podpůrná a symptomatická léčba
+```
+
+**Dekontaminace:** ⚠️ **AKTIVNÍ UHLÍ** je hlavní nástroj (ideálně **do 1 hodiny**). ⚠️ **NEVÁŽE: alkoholy, kovy, železo, lithium, kyseliny a louhy.**
+⚠️ **Vyvolávání zvracení se NEPOUŽÍVÁ** — zvlášť ne u ⚠️ **louhů a kyselin (poleptání podruhé) a u uhlovodíků (aspirace).** Výplach žaludku jen výjimečně a časně.
+**Urychlení eliminace:** ⚠️ **alkalizace moči** u aspirinu a barbiturátů (iontová past) · **hemodialýza** u ⚠️ **metanolu, ethylenglykolu, lithia, salicylátů.**
+
+⚠️ **ANTIDOTA — tabulka, kterou je nejlepší umět nazpaměť:**
+
+| Jed | Antidotum |
+|---|---|
+| opioidy | **naloxon** |
+| benzodiazepiny | **flumazenil** (⚠️ opatrně — křeče) |
+| **paracetamol** | **N-acetylcystein** |
+| organofosfáty | **atropin + pralidoxim** |
+| anticholinergika | **fyzostigmin** |
+| warfarin | **vitamin K, protrombinový komplex** |
+| heparin | **protamin sulfát** |
+| digoxin | **protilátky (Fab)** |
+| **metanol, ethylenglykol** | **etanol nebo fomepizol** |
+| kyanidy | **hydroxokobalamin** |
+| oxid uhelnatý | **kyslík, hyperbarická komora** |
+| železo | **deferoxamin** |
+| těžké kovy | **chelátory: dimerkaprol (BAL), DMPS, EDTA, sukcimer, penicilamin** |
+| betablokátory | **glukagon** |
+| ⚠️ **lokální anestetika** | ⚠️ **lipidová emulze** |
+| blokátory kalcia | **kalcium, inzulin s glukózou** |
+
+❓ **DOPTAJÍ SE:**
+- *Proč se u otravy louhem nesmí vyvolat zvracení ani podat neutralizace?* → **žíravina by prošla jícnem podruhé; neutralizace navíc uvolní teplo a poškození zhorší** → jen výplach vodou a rychlý transport
+- *Jak funguje alkalizace moči?* → **kyselý lék se v zásaditém prostředí ionizuje a nemůže se vstřebat zpět z tubulu** → iontová past, stejný princip jako u anestezie v zaníceném zubu
+- *Zubařsky?* → ⚠️ **předávkování lokálním anestetikem — hlavní je zajistit dýchání, podat benzodiazepin na křeče a ⚠️ lipidovou emulzi**; a ⚠️ **fluoridová otrava u dětí → mléko nebo kalcium**
+
+---
+
+## 134 · Toxikologie rostlin a hub
+
+▶ **ZAČNI:** „U hub existuje jedno pravidlo, které rozhoduje o prognóze a kterým začnu: **čím delší je doba mezi jídlem a prvními příznaky, tím nebezpečnější otrava to obvykle je.**"
+
+```
+  ⚠️ LATENCE < 6 h  → obvykle lehčí otravy (dráždivé, muskarinové, halucinogenní)
+  ⚠️ LATENCE > 6 h  → ⚠️ MUCHOMŮRKA ZELENÁ — smrtelné nebezpečí
+```
+
+⚠️ **MUCHOMŮRKA ZELENÁ (*Amanita phalloides*) — nejdůležitější otrava houbami:**
+```
+  ⚠️ AMANITINY blokují RNA-POLYMERÁZU II → buňka nemůže přepisovat geny
+  ⚠️ ZRÁDNÝ PRŮBĚH VE TŘECH FÁZÍCH:
+     6–24 h  prudké zvracení a průjem
+     → ⚠️ ZDÁNLIVÉ ZLEPŠENÍ (pacient je propuštěn — klasická chyba)
+     → ⚠️ 3.–5. den JATERNÍ SELHÁNÍ
+  léčba: silibinin, penicilin G, N-acetylcystein, ⚠️ transplantace jater
+  ⚠️ Vaření, sušení ani mražení toxin nezničí.
+```
+
+**Další houby:** **muchomůrka červená** — ⚠️ **kyselina ibotenová a muscimol** (⚠️ **muskarin v ní na rozdíl od jména není hlavní toxin**), delirium a spavost · **vláknice a strmělky** — ⚠️ **muskarin → SLUDGE → antidotum ATROPIN** · **hnojník inkoustový** — ⚠️ **koprin → disulfiramová reakce s alkoholem** · lysohlávky (psilocybin).
+
+**Jedovaté rostliny:** ⚠️ **rulík, durman, blín** (atropin a skopolamin → ⚠️ **anticholinergní syndrom, antidotum fyzostigmin**) · **náprstník** (⚠️ **digitalisové glykosidy → arytmie, žluté vidění**) · **oleandr, konvalinka** (též glykosidy) · ⚠️ **tis** (taxiny, ⚠️ **bez antidota**) · **bolehlav** (koniin) · ⚠️ **oměj (akonit)** — nejjedovatější rostlina naší přírody · **ricin** (⚠️ blokuje ribozom) · **bolševník** (⚠️ fototoxická dermatitida).
+
+❓ **DOPTAJÍ SE:**
+- *Proč je „zdánlivé zlepšení" u muchomůrky nebezpečné?* → **v té chvíli už jaterní buňky umírají, jen se to ještě neprojevilo laboratorně** — pacient musí zůstat sledovaný
+- *Co dělat, když si nejste jistí druhem houby?* → ⚠️ **uschovat zbytky pokrmu a zvratky k identifikaci** a kontaktovat toxikologické informační středisko
+- *Zubařsky?* → ⚠️ **rostlinné otravy s anticholinergním obrazem poznáte i podle výrazně suchých úst**; a ⚠️ **dráždivé rostlinné šťávy mohou způsobit poleptání ústní sliznice u dětí**
+
+---
+
+## 135 · Toxikologie živočišných jedů
+
+▶ **ZAČNI:** „U nás jsou prakticky jen dvě relevantní expozice — **zmije obecná a bodnutí blanokřídlým hmyzem** — a je důležité říct, že **u hmyzu není hlavním nebezpečím toxicita, ale alergie.**"
+
+```
+  ⚠️ BLANOKŘÍDLÍ (včela, vosa, sršeň)
+     ⚠️ jed sám je nebezpečný jen při mnohonásobném bodnutí
+     ⚠️ SKUTEČNÉ RIZIKO = ANAFYLAXE → ⭐ ADRENALIN i.m., ne antihistaminikum
+     ⚠️ ZUBAŘSKY ZÁSADNÍ: bodnutí do ÚST NEBO HRDLA → otok → ⚠️ OBSTRUKCE
+        DÝCHACÍCH CEST i u nealergického člověka → led, chlazení, urgentní pomoc
+```
+
+⚠️ **ZMIJE OBECNÁ — jediný jedovatý had naší přírody:**
+- Jed je **hemotoxický a cytotoxický** → **prudká bolest, rychle rostoucí otok, modřiny, nekróza, porucha srážlivosti**, případně hypotenze.
+- ⚠️ **Co se NEDĚLÁ: neřezat, nevysávat, nepřikládat škrtidlo, nedávat alkohol, nechladit ledem přímo.**
+- ⚠️ **Co se dělá: uklidnit, znehybnit končetinu v úrovni srdce, sundat prsteny a hodinky, rychlý transport**; antisérum jen u těžkých průběhů v nemocnici.
+
+**Exotické:** hadi (⚠️ **kobry — neurotoxické, obrna dýchání** × **zmije — hemotoxické**), škorpioni, medúzy, ⚠️ **modrokroužkovaná chobotnice a ryba fugu — TETRODOTOXIN, blokátor sodíkových kanálů** (⚠️ farmakologicky zajímavý: dělá přesně to co lokální anestetikum, jen systémově a nezvratně), jedovaté žáby.
+
+❓ **DOPTAJÍ SE:**
+- *Proč je adrenalin u anafylaxe nenahraditelný?* → **jako jediný zabírá na všechny složky najednou a rychle** (viz otázka 41); ⚠️ antihistaminikum a kortikoid působí pozdě
+- *Proč se u uštknutí nemá škrtidlo?* → **zadrží jed v tkáni, kde působí nekrózu, a po uvolnění ho vyplaví najednou** — celkově uškodí víc, než pomůže
+- *Co má být v ordinaci pro případ anafylaxe?* → ⚠️ **adrenalin (autoinjektor nebo ampule), kyslík, antihistaminikum, kortikoid, infuzní roztok** — a hlavně nacvičený postup
+
+---
+
+## 136 · Intoxikace sloučeninami rtuti, arzenu a olova
+
+▶ **ZAČNI:** „Všechny tři kovy mají **stejný základní mechanismus: vážou se na sulfhydrylové skupiny bílkovin a tím vyřadí enzymy.** Proto se také všechny léčí stejným principem — **chelátory, které kov navážou a odvedou.** A u všech tří je nápadný nález v dutině ústní."
+
+```
+  ⚠️ SPOLEČNÝ MECHANISMUS: vazba na ─SH skupiny → blokáda enzymů
+  ⚠️ SPOLEČNÝ PRINCIP LÉČBY: CHELÁTORY (dimerkaprol/BAL, DMPS, sukcimer,
+     EDTA, penicilamin)
+```
+
+⚠️ **RTUŤ**
+- **Elementární (páry)** — vstřebává se **plícemi**; ⚠️ **z amalgámové výplně se uvolňuje jen minimálně a zdravotní riziko pro pacienta není prokázané; omezování amalgámu je vedeno hlavně ekologicky** (Minamatská úmluva). ⚠️ **[⚠️ ověřit formulaci podle vašich skript.]**
+- **Anorganické soli** — ⚠️ **nefrotoxické.**
+- **Organická (methylrtuť)** — ⚠️ **v rybách, biomagnifikace, neurotoxická, prochází placentou** (⚠️ **Minamata**).
+- ⚠️ **Chronická otrava — zubařsky nápadná: GINGIVOSTOMATITIDA, kovová chuť, slinění, uvolňování zubů**, dále **třes a erethismus** („šílený kloboučník" — kloboučníci používali rtuť na plsť).
+- ⚠️ **Antidota: DMPS, sukcimer; ⚠️ u methylrtuti se dimerkaprol nedoporučuje** (může přesunout rtuť do mozku).
+
+⚠️ **ARZEN**
+- **Akutně:** zvracení, ⚠️ **prudký vodnatý „rýžovitý" průjem**, ⚠️ **česnekový zápach dechu**, šok.
+- **Chronicky:** ⚠️ **hyperkeratózy a pigmentace kůže, Meesovy příčné bílé linie na nehtech**, polyneuropatie, ⚠️ **karcinogen** (kůže, plíce, močový měchýř). ⚠️ **Historicky „jed dědiců"** — bez chuti a zápachu.
+- ⚠️ **Antidota: dimerkaprol (BAL), DMPS, sukcimer.**
+
+⚠️ **OLOVO**
+- ⚠️ **Blokuje syntézu hemu** (δ-aminolevulát dehydratáza a ferrochelatáza) → ⚠️ **anemie s bazofilním tečkováním erytrocytů.**
+- Dále: ⚠️ **břišní kolika**, ⚠️ **obrna extenzorů ruky („padající ruka")**, encefalopatie — ⚠️ **u dětí i při nízkých hladinách trvalé poškození vývoje a IQ.**
+- ⚠️ **ZUBAŘSKY: OLOVĚNÝ LEM na okraji dásně (Burtonova linie)** — modrošedý proužek ze sulfidu olovnatého.
+- ⚠️ **Antidota: EDTA (kalciová sůl), sukcimer, penicilamin, dimerkaprol.**
+
+❓ **DOPTAJÍ SE:**
+- *Proč se u olova podává právě kalciová sůl EDTA, ne sodná?* → ⚠️ **sodná sůl by navázala vápník z krve a způsobila smrtelnou hypokalcemii** — kalciová vymění vápník za olovo
+- *Který z těch tří kovů poznáte v ústech nejspolehlivěji?* → **olovo podle Burtonovy linie a rtuť podle gingivostomatitidy a slinění** — ⚠️ obojí je klasický učebnicový nález, který se u zkoušky ptá právě zubařů
+- *Odkud dnes hrozí expozice?* → **rtuť z ryb, arzen z podzemní vody a některých pesticidů, olovo ze staré barvy, pájek, střeliva a starých vodovodních potrubí**
+
+---
+
+# ⭐ POSLEDNÍ STRÁNKA — co si přečíst v autě před zkouškou
+
+**Devět vět, které se dají použít skoro na cokoli:**
+
+1. **„Zásada nebo kyselina? Jaké je tam pH?"** — iontová past vysvětlí anestezii v zaníceném zubu, alkalizaci moči, laktulózu, nikotin v kouři i léky v mateřském mléce.
+2. **„Kde se to odbourává a kde vylučuje?"** — z toho plyne dávkování u seniora, u jater a u ledvin.
+3. **„Indukce nebo inhibice?"** — induktor (rifampicin, karbamazepin, fenytoin, třezalka, kouření) hladiny **sníží**, inhibitor (makrolidy, azoly, grapefruit, ritonavir) je **zvýší**.
+4. **„Který receptor a co dělá?"** — β1 srdce, β2 plíce, α1 cévy, M3 žlázy a hladký sval, D2 čtyři dráhy.
+5. **„Rychle se dělící tkáně"** — dřeň, sliznice, vlasy, gonády. Odtud toxicita cytostatik i mukozitida.
+6. **„Selektivní toxicita"** — co má bakterie nebo houba a člověk ne. Stěna, 70S ribozom, ergosterol, kyselina listová.
+7. **„Úzké terapeutické okno"** — digoxin, lithium, warfarin, theofylin, fenytoin, aminoglykosidy, cytostatika. **Tady se měří hladiny.**
+8. **„Co to udělá v ústech?"** — xerostomie, hyperplazie dásní, krvácivost, kandidóza, zbarvení zubů, osteonekróza. **Zkouší tě katedra, která ví, že budeš zubařka.**
+9. **„Nevím."** — když si nejsi jistá, řekni to a nabídni, co víš jistě. Vymyšlená odpověď je horší než přiznaná mezera.
+
+---
