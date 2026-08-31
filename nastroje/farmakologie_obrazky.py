@@ -701,3 +701,262 @@ N("65", "Farmakoterapie migrény", srovnani(
     pozn="⚠️ Analgetika víc než 10–15 dní v měsíci → bolest hlavy Z NADUŽÍVÁNÍ LÉKŮ. "
          "Řešením je vysazení, ne přidání. ⚠️ Migréna s aurou = KI kombinované antikoncepce.",
     b_kind="zvyrazni"))
+
+N("66", "Léčiva s pozitivně inotropním účinkem, digoxin", retez(
+    [("DIGOXIN zablokuje Na⁺/K⁺-ATPázu", "zvyrazni"),
+     ("sodíku uvnitř PŘIBUDE", "normal"),
+     ("výměník Na⁺/Ca²⁺ přestane vyvážet vápník", "normal"),
+     ("⚠️ VÍC VÁPNÍKU → SILNĚJŠÍ STAH", "zvyrazni")],
+    titulek="Proč blokáda sodíkové pumpy posílí stah srdce",
+    pozn="⚠️ HYPOKALEMIE ZVYŠUJE TOXICITU — draslík a digoxin soutěží o stejné místo na "
+         "pumpě. A hypokalemii dělají diuretika, která má srdeční pacient skoro vždy. "
+         "Otrava: nauzea · ⚠️ ŽLUTÉ VIDĚNÍ · arytmie. Antidotum: protilátky (Fab)."))
+
+N("67", "Antiarytmika", stupnice(
+    [("I. — blokátory Na⁺ kanálů", "IA chinidin · IB LIDOKAIN (komorové) · ⚠️ IC propafenon", "normal"),
+     ("II. — BETABLOKÁTORY", "⚠️ jediná třída, která prokazatelně snižuje úmrtnost", "zvyrazni"),
+     ("III. — blokátory K⁺ kanálů", "AMIODARON, sotalol · ⚠️ prodlužují QT → torsades", "pozor"),
+     ("IV. — blokátory Ca²⁺ kanálů", "verapamil, diltiazem", "normal"),
+     ("MIMO KLASIFIKACI", "⚠️ ADENOSIN (poločas vteřiny) · digoxin · magnezium · ivabradin", "normal")],
+    titulek="Vaughanova–Williamsova klasifikace podle blokovaného kanálu",
+    sipka_popis="I. až IV. třída",
+    pozn="⚠️ KAŽDÉ ANTIARYTMIKUM MŮŽE ARYTMII TAKÉ VYVOLAT (studie CAST: třída IC po "
+         "infarktu zvýšila úmrtnost). ⚠️ Amiodaron obsahuje jód → tyreopatie, plicní "
+         "fibróza, usazeniny v rohovce, poločas v týdnech."))
+
+N("68", "ACE inhibitory a antagonisté angiotensinu", vetev(
+    "ACE = enzym se dvěma úkoly",
+    [("tvoří ANGIOTENSIN II", "stah cév, aldosteron, remodelace → ⚠️ tohle chceme zastavit", "normal"),
+     ("⚠️ rozkládá BRADYKININ", "ACE inhibitor to zastaví taky → ⚠️ SUCHÝ KAŠEL, ANGIOEDÉM", "pozor"),
+     ("SARTAN blokuje až receptor AT1", "⚠️ bradykinin neovlivní → BEZ KAŠLE", "zvyrazni")],
+    titulek="Proč po ACE inhibitoru kašel je a po sartanu ne",
+    pozn="⚠️ Renoprotekce: uvolní se ODVODNÁ tepénka → klesne tlak v glomerulu → přestane "
+         "se ničit. Mírný vzestup kreatininu na začátku je proto žádaný, ne selhání. "
+         "⚠️ KI: gravidita, oboustranná stenóza renálních tepen, hyperkalemie."))
+
+N("69", "Diuretika", stupnice(
+    [("PROXIMÁLNÍ TUBULUS", "acetazolamid (⚠️ acidóza, glaukom) · mannitol (mozkový edém)", "tichy"),
+     ("HENLEOVA KLIČKA — vzestupné raménko", "⚠️ FUROSEMID — NEJSILNĚJŠÍ, ⚠️ ZTRÁCÍ VÁPNÍK, ototoxicita", "zvyrazni"),
+     ("DISTÁLNÍ TUBULUS", "THIAZIDY — ⚠️ ŠETŘÍ VÁPNÍK, ⚠️ hyperurikemie a hyperglykemie", "normal"),
+     ("SBĚRACÍ KANÁLEK", "⚠️ KALIUM ŠETŘÍCÍ: spironolakton, eplerenon, amilorid", "normal")],
+    titulek="Nefron shora dolů — místo účinku určuje sílu i minerálovou poruchu",
+    sipka_popis="průtok nefronem",
+    pozn="🔑 Furosemid vápník VYPLAVÍ, thiazid ho ZADRŽÍ. ⚠️ Všechna kromě posledního patra "
+         "ztrácejí draslík — odtud konflikt s digoxinem."))
+
+N("70", "Blokátory kalciových kanálů", srovnani(
+    "DIHYDROPYRIDINY (-dipin)",
+    ["Amlodipin, nifedipin, lerkanidipin", "⚠️ Míří hlavně na CÉVY → snižují tlak",
+     "NÚ: otoky kotníků, návaly, reflexní tep", "⚠️ HYPERPLAZIE GINGIVY"],
+    "VERAPAMIL a DILTIAZEM",
+    ["⚠️ Míří hlavně na SRDCE", "Bradykardie, slabší stah, zácpa",
+     "⚠️ NEKOMBINOVAT s betablokátorem → AV blok", "⚠️ KI u srdečního selhání"],
+    titulek="Dvě skupiny, dva různé cíle — a z toho plyne, co se nesmí kombinovat",
+    pozn="⚠️ VE ZDROJI JSOU DVĚ CHYBY: diltiazem je BENZOTHIAZEPIN (ne benzodiazepin) "
+         "a verapamil se použije při kontraindikaci β-ANTAGONISTŮ (ne β-agonistů). "
+         "⚠️ Otoky kotníků nejsou z retence — diuretikum na ně nepomůže.", a_kind="normal"))
+
+N("71", "Nitrity a nitráty", retez(
+    [("NITRÁT uvolní NO", "zvyrazni"), ("↑ cGMP → uvolnění hladkého svalu", "normal"),
+     ("⚠️ hlavně ŽILY — krev se „zaparkuje\"", "zvyrazni"),
+     ("↓ předtížení → srdce potřebuje MÍŇ KYSLÍKU", "normal")],
+    titulek="Nerozšiřují hlavně věnčité tepny — rozšiřují ŽÍLY",
+    pozn="⚠️ TOLERANCE: nutný denní nitrátový interval 8–12 hodin. ⚠️ ABSOLUTNÍ KI: "
+         "sildenafil a spol. — obojí zvyšuje cGMP, sečte se to a tlak spadne nezvratně. "
+         "Nitroglycerin se ⚠️ nepolyká (first-pass), dává se pod jazyk vsedě."))
+
+N("72", "Farmakoterapie srdečního selhání", srovnani(
+    "⭐ PRODLUŽUJÍ ŽIVOT — čtyři pilíře",
+    ["ACE inhibitor / sartan → nejlépe ARNI", "BETABLOKÁTOR (jen 4 z nich, pomalu titrovat)",
+     "Antagonista aldosteronu (spironolakton)", "GLIFLOZIN — ⚠️ i u nediabetika"],
+    "JEN ULEVÍ — prognózu nemění",
+    ["Diuretika (furosemid)", "Digoxin", "Ivabradin (snižuje hospitalizace)",
+     "⚠️ NEDÁVAT: NSA, verapamil, glitazony"],
+    titulek="Nejdůležitější rozlišení celé kardiologie",
+    pozn="⚠️ Proč tlumíme srdce, které nestačí? Protože chronická aktivace sympatiku a RAAS "
+         "myokard přestavuje a ničí. Proto se betablokátor nasazuje pomalu a stav se "
+         "může na začátku přechodně zhoršit.", b_kind="normal"))
+
+N("73", "Farmakoterapie ischemické choroby srdeční", srovnani(
+    "⭐ ZLEPŠUJÍ PROGNÓZU",
+    ["Antiagregancia", "Statin", "ACE inhibitor", "Betablokátor"],
+    "JEN ULEVÍ OD ANGÍNY",
+    ["Nitráty", "Ivabradin", "Trimetazidin, ranolazin", "Blokátory kalciových kanálů"],
+    titulek="U chronické ICHS rozlišuj prognostickou a úlevovou léčbu",
+    pozn="⚠️ Betablokátor uleví tím, že zpomalí tep → prodlouží diastolu → věnčité tepny se "
+         "plní právě v diastole. ⚠️ Duální antiagregace po stentu obvykle 12 měsíců — "
+         "plánovanou extrakci v té době raději odložit, léky nevysazovat.", b_kind="normal"))
+
+N("74", "Antihypertenziva", cil(
+    "JAKÝ LÉK PODLE PACIENTA?",
+    [("diabetik / proteinurie → ACE inhibitor, sartan", "zvyrazni"),
+     ("po infarktu → betablokátor + ACE inhibitor", "zvyrazni"),
+     ("senior, izolovaná systolická → blokátor Ca, thiazid", "normal"),
+     ("⚠️ dna → NE thiazid", "pozor"),
+     ("⚠️ astma → NE betablokátor", "pozor"),
+     ("⚠️ GRAVIDITA → methyldopa, labetalol, nifedipin — NE ACEI a sartany", "pozor")],
+    titulek="Hypertenze se neléčí podle čísla, ale podle toho, kdo ji má",
+    pozn="⚠️ Raději kombinovat nízké dávky několika léků v jedné tabletě než jeden vyhnat "
+         "do maxima — účinek se sečte a nežádoucí účinky ne."))
+
+N("75", "Farmakoterapie aterosklerózy, hyperlipidemie", retez(
+    [("STATIN blokuje HMG-CoA reduktázu", "zvyrazni"),
+     ("játra vyrobí míň cholesterolu", "normal"),
+     ("nahustí si LDL RECEPTORY", "normal"),
+     ("vytáhnou LDL z krve + ⚠️ STABILIZUJE PLÁT", "zvyrazni")],
+    titulek="Statin nesnižuje jen číslo — stabilizuje plát, který by praskl",
+    pozn="⚠️ Myopatie až rabdomyolýza: bolest svalů + tmavá moč + vysoká kreatinkináza. "
+         "⚠️ Riziko roste s makrolidy, azoly, verapamilem, fibráty a grapefruitem "
+         "(inhibitory CYP3A4). Ezetimib blokuje vstřebávání, inhibitory PCSK9 jsou "
+         "injekční protilátky, fibráty míří na triacylglyceroly."))
+
+N("76", "Parenterální antikoagulancia", vetev(
+    "HEPARIN sám neúčinkuje — ⚠️ 1000× zesílí ANTITROMBIN III",
+    [("NEFRAKCIONOVANÝ dlouhý řetězec", "⚠️ IIa i Xa · aPTT · ⚠️ antidotum PROTAMIN", "normal"),
+     ("NÍZKOMOLEKULÁRNÍ enoxaparin", "⚠️ hlavně Xa · s.c. · bez rutinní monitorace", "zvyrazni"),
+     ("FONDAPARINUX pentasacharid", "⚠️ výhradně Xa · ⚠️ NEDĚLÁ HIT", "normal")],
+    titulek="Čím kratší řetězec, tím výhradněji míří na faktor Xa",
+    pozn="⚠️ HIT: protilátky proti komplexu heparinu a PF4 destičky ubírají A ZÁROVEŇ "
+         "AKTIVUJÍ → málo destiček a přitom TROMBÓZY. ⚠️ Nikdy nepodávat destičky — "
+         "vysadit heparin a nasadit jiné antikoagulans. ⚠️ Hepariny NEPROCHÁZEJÍ "
+         "PLACENTOU → volba v graviditě."))
+
+N("77", "Perorální antikoagulancia", retez(
+    [("WARFARIN nasazen", "zvyrazni"),
+     ("⚠️ nejdřív klesne PROTEIN C — má nejkratší poločas", "pozor"),
+     ("⚠️ pacient je přechodně PROTROMBOGENNÍ", "pozor"),
+     ("⚠️ proto se PŘEKRÝVÁ HEPARINEM, dokud INR nedosáhne cíle", "zvyrazni")],
+    titulek="Proč warfarin první dny paradoxně zvyšuje srážlivost",
+    pozn="Blokuje γ-karboxylaci faktorů 🔑 II, VII, IX, X („1972\") — ale i proteinů C a S. "
+         "⚠️ Zubařsky: PŘED BĚŽNOU EXTRAKCÍ SE NEVYSAZUJE, pokud je INR v rozmezí — "
+         "řeší se místní hemostázou. DOAC: -xaban blokuje Xa, dabigatran trombin; "
+         "⚠️ nesmí u mechanické chlopně."))
+
+N("78", "Fibrinolytika, trombolytika, hemostatika", srovnani(
+    "TROMBOLÝZA — rozpustit sraženinu",
+    ["Alteplasa, tenektaplasa, streptokináza", "Aktivují plazminogen → plazmin → fibrin",
+     "STEMI bez katetrizace, plicní embolie", "⚠️ CMP jen do 4,5 hodiny"],
+    "HEMOSTÁZA — zastavit krvácení",
+    ["Vitamin K · ⚠️ kyselina TRANEXAMOVÁ", "⚠️ DESMOPRESIN (vyplaví vWF a f. VIII)",
+     "⚠️ Místně: oxidovaná celulóza,", "kolagenová houbička, fibrinové lepidlo, šití"],
+    titulek="Dvě protilehlé poloviny jedné otázky",
+    pozn="⚠️ Ve zdroji je chyba: hemofilie A je VROZENÝ dědičný defekt faktoru VIII vázaný "
+         "na X, ne „získaná geneticky\". Extrakce u hemofilika se domlouvá předem "
+         "s hematologem a ⚠️ nikdy NSA na bolest.", b_kind="zvyrazni"))
+
+N("79", "Antiagregancia", srovnani(
+    "TEPNA — rychlý proud",
+    ["Sraženina hlavně z DESTIČEK", "→ ⚠️ ANTIAGREGANCIA",
+     "Aspirin · klopidogrel, tikagrelor", "Inhibitory GPIIb/IIIa v katetrizaci"],
+    "ŽÍLA — pomalý proud",
+    ["Sraženina hlavně z FIBRINU", "→ ⚠️ ANTIKOAGULANCIA",
+     "Warfarin, DOAC, hepariny", "Jiná indikace, jiné léky"],
+    titulek="Proč se na tepnu a na žílu dávají úplně jiné léky",
+    pozn="⚠️ Aspirin acetyluje COX-1 IREVERZIBILNĚ; destička nemá jádro → účinek trvá "
+         "7–10 dní. ⚠️ Klopidogrel je proléčivo (CYP2C19 — omeprazol ho oslabí). "
+         "⚠️ Zubařsky: aspirin se před extrakcí NEVYSAZUJE.", a_kind="zvyrazni", b_kind="normal"))
+
+N("80", "Inzulin, jeho analoga a glukagon", stupnice(
+    [("RYCHLÁ ANALOGA lispro, aspart", "nástup ~15 min → k jídlu (bolus)", "zvyrazni"),
+     ("KRÁTKÝ HUMÁNNÍ regular", "⚠️ nástup ~30 min → píchat s předstihem", "normal"),
+     ("STŘEDNÍ NPH", "překlenovací", "normal"),
+     ("DLOUHÁ ANALOGA glargin, degludek", "⚠️ bez vrcholu → bazál", "zvyrazni")],
+    titulek="Režim bazál-bolus napodobuje fyziologii",
+    sipka_popis="delší účinek",
+    pozn="⚠️ Hlavní nebezpečí = HYPOGLYKEMIE. ⚠️ Betablokátor maskuje třes a bušení srdce, "
+         "POCENÍ ZŮSTANE (cholinergní) a bývá jediným varováním. Glukagon i.m. u bezvědomí "
+         "— ⚠️ a zároveň antidotum předávkování betablokátory."))
+
+N("81", "Perorální antidiabetika", srovnani(
+    "⚠️ DĚLAJÍ HYPOGLYKEMII",
+    ["Sulfonylurea (glimepirid, gliklazid)", "— uzavře KATP kanál a vyplaví inzulin",
+     "bez ohledu na glykemii", "Glinidy · (a samozřejmě inzulin)"],
+    "NEDĚLAJÍ HYPOGLYKEMII",
+    ["⭐ METFORMIN — lék první volby", "Gliptiny · GLP-1 agonisté (hubnutí)",
+     "⚠️ GLIFLOZINY — ochrana srdce a ledvin", "Akarbóza, pioglitazon"],
+    titulek="Nejpraktičtější rozdělení antidiabetik",
+    pozn="⚠️ Metformin: vysadit před jodovou kontrastní látkou a při akutním stavu — "
+         "laktátová acidóza. ⚠️ Glifloziny: glykosurie → mykotické infekce a euglykemická "
+         "ketoacidóza.", a_kind="pozor", b_kind="zvyrazni"))
+
+N("82", "Principy antibiotické terapie", cil(
+    "BAKTERIÁLNÍ BUŇKA jeden obrázek na otázky 82–88",
+    [("BUNĚČNÁ STĚNA ⚠️ člověk ji NEMÁ betalaktamy, glykopeptidy", "zvyrazni"),
+     ("MEMBRÁNA polymyxiny, daptomycin", "normal"),
+     ("RIBOZOM 30S aminoglykosidy, TETRACYKLINY", "zvyrazni"),
+     ("RIBOZOM 50S makrolidy, KLINDAMYCIN, amfenikoly", "zvyrazni"),
+     ("DNA chinolony → ⚠️ TOPOIZOMERÁZA · rifampicin · metronidazol", "normal"),
+     ("KYSELINA LISTOVÁ sulfonamid + trimethoprim", "normal")],
+    titulek="Selektivní toxicita: zasáhnout to, co bakterie má a člověk ne",
+    pozn="⚠️ Koncentračně závislé (aminoglykosidy, chinolony) → velká dávka 1× denně. "
+         "Časově závislé (betalaktamy) → rozdělit do více dávek. Rezistence: betalaktamázy, "
+         "změna cíle, efluxní pumpy, nižší propustnost."))
+
+N("83", "Peniciliny, inhibitory betalaktamáz", vetev(
+    "PENICILINY blokáda stavby buněčné stěny ⚠️ jen na DĚLÍCÍ SE bakterie",
+    [("PŘIROZENÉ", "⚠️ PENICILIN V — lék volby u odontogenních infekcí", "zvyrazni"),
+     ("PROTISTAFYLOKOKOVÉ", "oxacilin — odolný vůči stafylokokové betalaktamáze", "normal"),
+     ("AMINOPENICILINY", "amoxicilin ⚠️ + kyselina klavulanová", "normal"),
+     ("UREIDOPENICILINY", "piperacilin + tazobaktam → Pseudomonas", "normal")],
+    titulek="Řada od nejužšího po nejširší spektrum",
+    pozn="⚠️ Inhibitor betalaktamázy sám skoro neúčinkuje — obětuje se enzymu. "
+         "⚠️ Ampicilinový exantém u infekční mononukleózy NENÍ alergie. "
+         "⚠️ Člověk buněčnou stěnu nemá → hlavním rizikem je alergie, ne toxicita."))
+
+N("84", "Cefalosporiny, karbapenemy, monobaktamy", stupnice(
+    [("I. generace — cefazolin, cefalexin", "grampozitivní · chirurgická profylaxe", "normal"),
+     ("II. — cefuroxim", "+ Haemophilus, respirační infekce", "normal"),
+     ("III. — ceftriaxon, ceftazidim", "⚠️ gramnegativní · PROSTUP DO CNS → meningitidy", "zvyrazni"),
+     ("IV.–V. — cefepim, ceftarolin", "⚠️ ceftarolin jako jediný i na MRSA", "normal"),
+     ("KARBAPENEMY — meropenem", "⚠️ nejširší spektrum → REZERVA, dál už není kam ustoupit", "pozor")],
+    titulek="Čím vyšší generace, tím míň G+ a víc G−",
+    sipka_popis="generace",
+    pozn="⚠️ ŽÁDNÝ cefalosporin nepůsobí na ENTEROKOKY ani na ATYPICKÉ patogeny. "
+         "⚠️ Aztreonam (monobaktam) je natolik odlišný, že ho lze podat i při alergii "
+         "na penicilin."))
+
+N("85", "Aminoglykosidy, chinolony", srovnani(
+    "AMINOGLYKOSIDY",
+    ["⚠️ 30S ribozom, ale BAKTERICIDNÍ (výjimka)", "⚠️ Nevstřebají se ústy → jen injekčně",
+     "⚠️ NEFROTOXICITA (vratná)", "⚠️ OTOTOXICITA — často TRVALÁ"],
+    "CHINOLONY",
+    ["⚠️ TOPOIZOMERÁZA II (gyráza) a IV", "⚠️ Ruptura Achillovy šlachy",
+     "⚠️ KI u dětí a v graviditě (chrupavky)", "⚠️ Chelatace s Ca, Mg, Fe → ne s mlékem"],
+    titulek="Dvě baktericidní, koncentračně závislé skupiny — každá s vlastní toxicitou",
+    pozn="⚠️ VE ZDROJI JE CHYBA: chinolony neblokují DNA-polymerázu, ale TOPOIZOMERÁZU "
+         "(DNA-gyrázu). ⚠️ Aminoglykosidy se dávkují 1× denně — vysoký vrchol zabíjí líp "
+         "a dlouhá pauza chrání ledvinu.", a_kind="pozor"))
+
+N("86", "Linkosamidy, glykopeptidy, polymyxiny", cil(
+    "KLINDAMYCIN zubařsky nejdůležitější z téhle trojice",
+    [("⚠️ Výborný průnik do KOSTI", "zvyrazni"),
+     ("⚠️ Účinný na ANAEROBY", "zvyrazni"),
+     ("→ odontogenní absces, osteomyelitida čelisti", "zvyrazni"),
+     ("→ ⚠️ alternativa při alergii na penicilin", "zvyrazni"),
+     ("⚠️ RIZIKO: pseudomembranózní kolitida (C. difficile)", "pozor"),
+     ("léčí se ⚠️ vankomycinem PERORÁLNĚ nebo fidaxomicinem", "normal")],
+    titulek="Proč právě klindamycin u infekcí čelisti",
+    pozn="Vankomycin: ⚠️ jen G+, lék volby u MRSA; ⚠️ perorálně se nevstřebá — proto se tak "
+         "podává právě na klostridiovou kolitidu. ⚠️ „Red man syndrome\" při rychlé infuzi "
+         "není alergie. Kolistin = rezerva na multirezistentní G−, nefrotoxický."))
+
+N("87", "Tetracykliny, amfenikoly", retez(
+    [("TETRACYKLIN se váže na VÁPNÍK", "zvyrazni"),
+     ("ukládá se do rostoucí kosti a ZUBU", "normal"),
+     ("⚠️ ŠEDOHNĚDÉ ZBARVENÍ UVNITŘ skloviny a dentinu", "pozor"),
+     ("⚠️ NEDÁ SE VYBĚLIT — barvivo není na povrchu", "pozor")],
+    titulek="Nejznámější zubařský nežádoucí účinek v celé farmakologii",
+    pozn="⚠️ VE ZDROJI JE CHYBA: tetracykliny NEBLOKUJÍ buněčnou stěnu, ale RIBOZOM (30S). "
+         "⚠️ KI do 8 let a v graviditě. ⚠️ Nezapíjet mlékem (chelatace). Amfenikoly: "
+         "⚠️ aplastická anemie nezávislá na dávce a gray baby syndrom."))
+
+N("88", "Makrolidy", srovnani(
+    "ERYTHROMYCIN a KLARITHROMYCIN",
+    ["⚠️ SILNÉ INHIBITORY CYP3A4", "→ ⚠️ statin (rabdomyolýza), warfarin,",
+     "cyklosporin, karbamazepin", "⚠️ Erythromycin dráždí žaludek (motilin)"],
+    "AZITHROMYCIN",
+    ["🔑 CYP3A4 prakticky neinhibuje", "→ volba u polymorbidního pacienta",
+     "⚠️ Velmi dlouhý tkáňový poločas", "→ třídenní kúra působí ještě dny"],
+    titulek="Největší úskalí makrolidů nejsou nežádoucí účinky, ale interakce",
+    pozn="⚠️ 50S ribozom, bakteriostatické, pokrývají atypické patogeny a jsou alternativou "
+         "při alergii na penicilin. ⚠️ Prodlužují QT.", a_kind="pozor", b_kind="zvyrazni"))
