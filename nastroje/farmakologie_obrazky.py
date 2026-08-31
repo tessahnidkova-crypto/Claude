@@ -380,3 +380,324 @@ N("O35", "Biologická léčba: rozdělení, názvosloví, biosimilars", stupnice
     pozn="⚠️ Biosimilar není generikum — živá buňka nikdy nevyrobí dvě identické molekuly, "
          "liší se i dvě šarže originálu. ⚠️ Koncovka -tinib (imatinib) NENÍ biologikum, "
          "je to malá molekula."))
+
+
+# ═══════════════════════════════════════════ SPECKA I  36–88
+
+N("36", "Cholinergní přenos vzruchu", retez(
+    [("cholin + acetyl-CoA", "normal"), ("ACETYLCHOLIN ve vezikule", "zvyrazni"),
+     ("EXOCYTÓZA do štěrbiny", "normal"),
+     ("⚠️ ROZŠTĚPÍ HO ENZYM acetylcholinesteráza", "pozor")],
+    ["cholinacetyl- transferáza", "⚠️ botulotoxin blokuje", "receptory M1–M5, Nm, Nn"],
+    titulek="Acetylcholin se ve štěrbině ROZŠTĚPÍ — noradrenalin se vychytá zpět",
+    pozn="Proto na acetylcholin fungují inhibitory esterázy a na noradrenalin blokátory "
+         "reuptake. ⚠️ M2 = srdce (jediný tlumivý) · M3 = žlázy a hladký sval · Nm = ploténka."))
+
+N("37", "Přímá cholinomimetika", cil(
+    "PŘÍMÉ CHOLINOMIMETIKUM sedne na receptor místo acetylcholinu",
+    [("SLINY a SLZY ⚠️ pilokarpin na xerostomii", "zvyrazni"),
+     ("MIÓZA — léčba glaukomu", "zvyrazni"),
+     ("BRADYKARDIE", "normal"),
+     ("⚠️ BRONCHOSPAZMUS — KI u astmatu", "pozor"),
+     ("⚠️ SEKRECE KYSELINY — KI u vředu", "pozor"),
+     ("PERISTALTIKA a měchýř — betanechol", "normal")],
+    titulek="Zapneš celý parasympatikus najednou — žádané i nežádoucí",
+    pozn="🔑 SLUDGE: Salivace, Lakrimace, Urinace, Defekace, GIT křeče, Emeze."))
+
+N("38", "Nepřímá cholinomimetika", srovnani(
+    "NEOSTIGMIN — KVARTÉRNÍ",
+    ["Nabitý → ⚠️ NEPROJDE do mozku", "Myasthenia gravis, dekurarizace",
+     "⚠️ Podává se s ATROPINEM", "aby nezpůsobil bradykardii"],
+    "FYZOSTIGMIN — TERCIÁRNÍ",
+    ["⚠️ PROJDE do mozku", "→ antidotum centrálního",
+     "anticholinergního syndromu", "(durman, atropin, TCA)"],
+    titulek="Jedno písmeno rozhoduje, jestli lék projde do mozku",
+    pozn="⚠️ Otrava organofosfáty: atropin (na M receptory) + PRALIDOXIM (reaktivátor enzymu) "
+         "— ten musí přijít dřív, než enzym „zestárne\".", b_kind="zvyrazni"))
+
+N("39", "Parasympatolytika", cil(
+    "ATROPIN blokáda M receptorů = obrácený parasympatikus",
+    [("„slepý jako netopýr\" mydriáza, cykloplegie", "normal"),
+     ("⚠️ „suchý jako kost\" XEROSTOMIE → KAZ", "pozor"),
+     ("„červený jako řepa\"", "normal"),
+     ("„horký jako pec\" nepotí se, nemá jak chladit", "pozor"),
+     ("„šílený jako kloboučník\" delirium", "pozor"),
+     ("tachykardie, zácpa, retence moči", "normal")],
+    titulek="Pět přirovnání, ze kterých poznáš otravu atropinem",
+    pozn="⚠️ Zubařsky: xerostomii nedělá jen atropin — stejně suší tricyklická antidepresiva, "
+         "antipsychotika, antihistaminika a léky na hyperaktivní měchýř. A ty pacient bere roky."))
+
+N("40", "Adrenergní přenos vzruchu", retez(
+    [("TYROSIN", "normal"), ("DOPA ⚠️ krok určující rychlost", "pozor"),
+     ("DOPAMIN", "normal"), ("NORADRENALIN ⚠️ v nadledvině → ADRENALIN", "zvyrazni")],
+    ["tyrosin- hydroxyláza", "dekarboxyláza", "dopamin-β- hydroxyláza"],
+    titulek="Syntéza katecholaminů a kde vzniká adrenalin",
+    pozn="⚠️ Zánik NENÍ enzymem ve štěrbině, ale REUPTAKE zpět do neuronu (kokain a "
+         "tricyklika ho blokují); teprve pak MAO uvnitř a COMT vně. Adrenalin vzniká jen "
+         "v dřeni nadledvin — jen tam je enzym PNMT."))
+
+N("41", "Neselektivní sympatomimetika", cil(
+    "ADRENALIN u ANAFYLAXE ⚠️ i.m. do stehna",
+    [("α1 — stáhne cévy → zvedne TLAK", "zvyrazni"),
+     ("β1 — podpoří SRDCE", "zvyrazni"),
+     ("β2 — rozšíří PRŮDUŠKY", "zvyrazni"),
+     ("β2 — zastaví výdej mediátorů ze žírných buněk", "zvyrazni"),
+     ("⚠️ antihistaminikum tohle NEUMÍ", "pozor"),
+     ("⚠️ kortikoid působí až za hodiny", "pozor")],
+    titulek="Proč je adrenalin u anafylaxe nenahraditelný",
+    pozn="DOPAMIN má tři chování podle dávky: nízká → D1 ledviny · střední → β1 srdce · "
+         "vysoká → α1 stah cév."))
+
+N("42", "Sympatomimetika alfa", srovnani(
+    "α1 — na periferii",
+    ["Fenylefrin, midodrin, xylometazolin", "Stah cév → ⚠️ ZVYŠUJE TLAK",
+     "Dekongesce nosu, mydriáza bez cykloplegie", "⚠️ Nosní kapky max 7 dní"],
+    "α2 — CENTRÁLNĚ, PŘED synapsí",
+    ["Klonidin, methyldopa, brimonidin", "Sedne si na BRZDU výdeje sympatiku",
+     "→ ⚠️ SNIŽUJE TLAK", "⚠️ Methyldopa = volba v graviditě"],
+    titulek="Paradox: obě jsou „alfa\", ale s tlakem dělají opak",
+    pozn="⚠️ Rhinitis medicamentosa: po odeznění kapek sliznice oteče ještě víc, pacient "
+         "kápne znovu a je v kruhu.", b_kind="zvyrazni"))
+
+N("43", "Sympatomimetika beta", srovnani(
+    "CO CHCEME — β2 v průduškách",
+    ["SABA salbutamol, fenoterol — úlevově", "LABA formoterol, salmeterol",
+     "⚠️ LABA NIKDY samotná bez kortikoidu", "Tokolytika: hexoprenalin"],
+    "CO PŘIJDE S TÍM — β2 jinde",
+    ["⚠️ TREMOR (β2 na kosterním svalu)", "⚠️ TACHYKARDIE (přelití na β1)",
+     "⚠️ HYPOKALEMIE (β2 žene K⁺ do buňky)", "→ využito u akutní hyperkalemie"],
+    titulek="Tři nežádoucí účinky β2-mimetik plynou z jediného receptoru",
+    a_kind="zvyrazni"))
+
+N("44", "Nepřímá sympatomimetika", retez(
+    [("efedrin, amfetamin, ⚠️ TYRAMIN", "normal"),
+     ("vytlačí NORADRENALIN z vezikul", "zvyrazni"),
+     ("silná sympatická odpověď", "normal"),
+     ("⚠️ vezikuly jsou prázdné → TACHYFYLAXE", "pozor")],
+    titulek="Potřebují mít z čeho brát — proto jim rychle dojde dech",
+    pozn="⚠️ Sýrový efekt: tyramin z uzrálých sýrů normálně zničí střevní MAO. U pacienta "
+         "na neselektivním inhibitoru MAO projde, vytlačí noradrenalin → HYPERTENZNÍ KRIZE. "
+         "Kokain naopak blokuje reuptake."))
+
+N("45", "Sympatolytika alfa", retez(
+    [("FEOCHROMOCYTOM", "normal"), ("⚠️ NEJDŘÍV α-BLOKÁDA fentolamin, fenoxybenzamin", "zvyrazni"),
+     ("teprve POTOM betablokátor", "zvyrazni"), ("bezpečná operace", "normal")],
+    titulek="Pořadí, které se ptají skoro vždycky",
+    pozn="⚠️ Obráceně: zablokuješ β2 vazodilataci, zůstane čistý α1 stah → hypertenzní krize. "
+         "⚠️ Tamsulosin je selektivní na α1A v prostatě → nesnižuje tlak, ale způsobuje "
+         "„floppy iris\" při operaci šedého zákalu."))
+
+N("46", "Sympatolytika beta (betablokátory)", srovnani(
+    "β1 — SRDCE = žádaný účinek",
+    ["Nižší tep a slabší stah", "Méně reninu → nižší tlak",
+     "ICHS, hypertenze, arytmie", "⚠️ Srdeční selhání — jen 4 z nich, pomalu titrovat"],
+    "β2 — PLÍCE a jinde = nežádoucí",
+    ["⚠️ BRONCHOSPAZMUS — KI u astmatu", "⚠️ Maskuje hypoglykemii (pocení zůstane)",
+     "Studené končetiny, únava", "⚠️ Nikdy nevysazovat náhle — rebound"],
+    titulek="Selektivita je celý rozdíl mezi účinkem a nežádoucím účinkem",
+    pozn="Neselektivní: propranolol, sotalol, ⚠️ timolol (i v očních kapkách!). "
+         "β1-selektivní: metoprolol, bisoprolol, atenolol. S vazodilatací: karvedilol, nebivolol."))
+
+N("47", "Myorelaxancia", srovnani(
+    "SUKCINYLCHOLIN — depolarizující",
+    ["Nejdřív fascikulace, pak ochabnutí", "⚠️ NEMÁ ANTIDOTUM",
+     "⚠️ Hyperkalemie, maligní hypertermie", "⚠️ Atypická pseudocholinesteráza → apnoe"],
+    "ROKURONIUM ap. — nedepolarizující",
+    ["Kompetitivní blokáda ploténky", "⚠️ Antidotum NEOSTIGMIN + atropin",
+     "⚠️ U rokuronia SUGAMMADEX (obalí ho)", "Atrakurium: ⚠️ Hofmannova eliminace"],
+    titulek="Proč u jednoho antidotum je a u druhého ne",
+    pozn="⚠️ U depolarizujícího bloku není problém nedostatek acetylcholinu, ale jeho "
+         "nadbytek — neostigmin by blok prohloubil. Dantrolen působí přímo na sval "
+         "(sarkoplazmatické retikulum) — maligní hypertermie.", b_kind="zvyrazni"))
+
+N("48", "Lokální anestetika", retez(
+    [("ANESTETIKUM = slabá zásada nenabité", "zvyrazni"), ("projde membránou", "normal"),
+     ("uvnitř se nabije", "normal"), ("zavře Na⁺ kanál ZEVNITŘ", "zvyrazni")],
+    titulek="Musí projít dovnitř, aby zavřelo kanál zevnitř",
+    pozn="⚠️ ZÁNĚT = kyselé pH → skoro všechno je nabité UŽ VENKU → dovnitř se nedostane → "
+         "V ZANÍCENÉM ZUBU ANESTEZIE NEZABERE. Estery (prokain) → alergie na PABA. "
+         "Amidy (lidokain, ⚠️ ARTIKAIN) → játra. ⚠️ Bupivakain je kardiotoxický, "
+         "prilokain dělá methemoglobinemii. Antidotum toxicity: LIPIDOVÁ EMULZE."))
+
+N("49", "Celková anestetika — inhalační", srovnani(
+    "MAC = jak je SILNÉ",
+    ["Minimální alveolární koncentrace", "⚠️ NÍZKÁ MAC = SILNÉ anestetikum",
+     "⚠️ Oxid dusný má MAC > 100 %", "→ sám nikdy neuspí"],
+    "ROZPUSTNOST V KRVI = jak RYCHLE",
+    ["Koeficient krev/plyn", "⚠️ NÍZKÁ rozpustnost = RYCHLÝ nástup",
+     "co se nerozpustí v krvi, nasytí mozek", "Desfluran nejrychlejší, sevofluran standard"],
+    titulek="Dvě veličiny, které spolu vůbec nesouvisí",
+    pozn="⚠️ Oxid dusný: výborná analgezie → sedace u dětí a úzkostných pacientů v zubní "
+         "ordinaci; rizika difuzní hypoxie a inaktivace vitaminu B12. "
+         "⚠️ Maligní hypertermie po halogenovaných → dantrolen.", b_kind="zvyrazni"))
+
+N("50", "Celková anestetika — intravenózní", cil(
+    "ČÍM UVEDU PACIENTA DO ANESTEZIE?",
+    [("PROPOFOL rychlý, antiemetický ⚠️ sráží tlak, bez analgezie", "normal"),
+     ("THIOPENTAL ⚠️ krátkost je REDISTRIBUCÍ, ne metabolismem → kumuluje", "pozor"),
+     ("KETAMIN ⚠️ jako jediný ZVYŠUJE tlak a nechá dýchat → šok, terén", "zvyrazni"),
+     ("ETOMIDÁT kardiálně nejstabilnější ⚠️ tlumí kůru nadledvin", "normal"),
+     ("MIDAZOLAM anxiolýza + amnézie", "normal"),
+     ("⚠️ Všechna kromě ketaminu jdou přes GABA-A; ketamin blokuje NMDA", "pozor")],
+    titulek="Každé má jednu přednost a jednu nevýhodu — podle toho se vybírá pacient"))
+
+N("51", "Hypnotika", srovnani(
+    "BENZODIAZEPIN",
+    ["Zvyšuje FREKVENCI otevírání kanálu", "⚠️ Bez vlastní GABA neudělá NIC",
+     "→ ⚠️ MÁ STROP účinku", "Samo o sobě jen výjimečně zabije"],
+    "BARBITURÁT",
+    ["Prodlužuje DOBU otevření", "⚠️ Ve vyšší dávce otevře kanál I BEZ GABA",
+     "→ ⚠️ NEMÁ STROP, nemá antidotum", "Proto se přestal používat na spaní"],
+    titulek="Proč barbiturát zabíjí a benzodiazepin (skoro) ne",
+    pozn="Z-hypnotika (zolpidem) míří na podjednotku α1 → uspí bez myorelaxace; "
+         "⚠️ parasomnie — noční jedení a chození s amnézií.", a_kind="zvyrazni"))
+
+N("52", "Benzodiazepiny", cil(
+    "BENZODIAZEPIN pozitivní modulátor GABA-A",
+    [("ANXIOLÝZA", "zvyrazni"), ("SEDACE a HYPNÓZA", "zvyrazni"),
+     ("ANTIKONVULZE — status epilepticus", "zvyrazni"),
+     ("MYORELAXACE", "zvyrazni"),
+     ("⚠️ ANTEROGRÁDNÍ AMNÉZIE (proto midazolam před výkonem)", "normal"),
+     ("⚠️ Tolerance, závislost, rebound", "pozor")],
+    titulek="Pět účinků najednou — a nedají se od sebe oddělit",
+    pozn="⚠️ LOT — lorazepam, oxazepam, temazepam — se jen konjugují (bez fáze I) → bezpečné "
+         "u jater a u seniorů. Antidotum FLUMAZENIL, ⚠️ opatrně: u závislého vyvolá křeče."))
+
+N("53", "Antiepileptika", vetev(
+    "JAK ZTIŠIT NADMĚRNÝ VÝBOJ NEURONŮ",
+    [("zavřít Na⁺ kanály", "fenytoin · karbamazepin · lamotrigin · valproát", "normal"),
+     ("zavřít T-Ca²⁺ kanály", "⚠️ ETHOSUXIMID — jen absence", "normal"),
+     ("zesílit GABA", "benzodiazepiny · barbituráty · vigabatrin", "normal"),
+     ("tlumit glutamát / SV2A", "topiramát · perampanel · levetiracetam", "normal")],
+    titulek="Čtyři mechanismy — z nich si zástupce odvodíš",
+    pozn="⚠️ FENYTOIN: HYPERPLAZIE GINGIVY (stejně jako cyklosporin a nifedipin) + nelineární "
+         "kinetika. ⚠️ VALPROÁT je nejsilnější teratogen. ⚠️ KARBAMAZEPIN: autoindukce, "
+         "hyponatremie, HLA-B*1502 → Stevensův–Johnsonův syndrom."))
+
+N("54", "Antiparkinsonika", retez(
+    [("LEVODOPA polknutá", "zvyrazni"),
+     ("⚠️ na PERIFERII se hned mění na dopamin → nauzea, hypotenze", "pozor"),
+     ("+ KARBIDOPA / BENSERAZID ⚠️ ty do mozku NEPROJDOU", "zvyrazni"),
+     ("do mozku dorazí víc levodopy → dopamin TAM, kde chybí", "normal")],
+    titulek="Proč se levodopa nikdy nedává samotná",
+    pozn="⚠️ Dopamin sám hematoencefalickou bariéru neprojde, levodopa ano. "
+         "⚠️ Parkinsonikovi se NESMÍ dát metoklopramid ani klasické antipsychotikum — "
+         "blokují D2; bezpečný je domperidon."))
+
+N("55", "Neuroleptika (antipsychotika)", vetev(
+    "BLOKÁDA RECEPTORŮ D2 lék neumí rozlišit dráhy",
+    [("MEZOLIMBICKÁ", "⭐ ÚČINEK — halucinace a bludy ustoupí", "zvyrazni"),
+     ("MEZOKORTIKÁLNÍ", "⚠️ ZHORŠÍ negativní příznaky a kognici", "pozor"),
+     ("NIGROSTRIATÁLNÍ", "⚠️ EXTRAPYRAMIDOVÉ nežádoucí účinky", "pozor"),
+     ("TUBEROINFUNDIBULÁRNÍ", "⚠️ HYPERPROLAKTINEMIE — dopamin je brzda prolaktinu", "pozor")],
+    titulek="Jedna blokáda je léčba, tři jsou nežádoucí účinky",
+    pozn="🔑 V pořadí, jak přicházejí: hodiny → dystonie · dny → akatizie · týdny → "
+         "parkinsonismus · ⚠️ měsíce až roky → TARDIVNÍ DYSKINEZE (často nevratná, "
+         "v orofaciální oblasti). ⚠️ Klozapin = nejúčinnější u rezistence, ale agranulocytóza."))
+
+N("56", "Antidepresiva — tricyklická, inhibitory MAO", cil(
+    "TRICYKLICKÉ ANTIDEPRESIVUM „špinavý\" lék",
+    [("blok reuptake NA a 5-HT ⭐ tohle je žádaný účinek", "zvyrazni"),
+     ("⚠️ blok M → XEROSTOMIE → KAZ, zácpa, retence", "pozor"),
+     ("⚠️ blok H1 → sedace, přírůstek hmotnosti", "pozor"),
+     ("⚠️ blok α1 → ortostáza, pády", "pozor"),
+     ("⚠️ blok Na⁺ v srdci → ARYTMIE = příčina smrti", "pozor"),
+     ("⚠️ zásoba na 14 dní může být smrtelná dávka", "pozor")],
+    titulek="Jeden žádaný účinek a čtyři nežádoucí ze čtyř dalších receptorů",
+    pozn="⚠️ IMAO: sýrová reakce s tyraminem; s SSRI serotoninový syndrom. "
+         "Rozlišení: serotoninový má HYPERreflexii a myoklonus, neuroleptický RIGIDITU."))
+
+N("57", "Antidepresiva — SSRI, SNRI, atypická", retez(
+    [("nasazení SSRI", "zvyrazni"), ("1.–2. týden: ⚠️ vrátí se ENERGIE", "pozor"),
+     ("2.–4. týden: zlepší se NÁLADA", "normal"), ("plný účinek", "zvyrazni")],
+    titulek="Past latence — hybnost se upraví dřív než nálada",
+    pozn="⚠️ Proto na začátku léčby STOUPÁ riziko sebevraždy: pacient už má sílu jednat, "
+         "ale ještě má depresivní myšlenky. ⚠️ Zubařsky: SSRI vyprázdní serotonin "
+         "z trombocytů → DELŠÍ KRVÁCENÍ PO EXTRAKCI, zvlášť s NSA."))
+
+N("58", "Anxiolytika, stabilizátory nálady", cil(
+    "LITHIUM ⚠️ terapeutické rozmezí 0,6–1,2 mmol/l",
+    [("⚠️ Vylučuje se VÝHRADNĚ LEDVINAMI", "pozor"),
+     ("⚠️ NSA zvednou hladinu", "pozor"),
+     ("⚠️ ACE inhibitory a sartany zvednou hladinu", "pozor"),
+     ("⚠️ Thiazidy a dehydratace zvednou hladinu", "pozor"),
+     ("NÚ: třes, polyurie, hypotyreóza", "normal"),
+     ("⚠️ Teratogen — Ebsteinova anomálie", "pozor")],
+    titulek="Nejužší terapeutické okno v psychiatrii",
+    pozn="Při nedostatku sodíku si ledvina lithium plete se sodíkem a šetří ho. "
+         "Anxiolytika: BZD jen krátkodobě, dlouhodobě SSRI; buspiron nenávykový, ale pomalý."))
+
+N("59", "Farmakoterapie Alzheimerovy choroby, nootropika", srovnani(
+    "INHIBITORY AChE",
+    ["Donepezil, rivastigmin, galantamin", "Lehké až středně těžké stadium",
+     "⚠️ NÚ = SLUDGE nasvětlejší formě:", "hypersalivace, průjem, bradykardie"],
+    "⚠️ CO NEDÁVAT",
+    ["⚠️ Anticholinergika (oxybutynin!)", "— ruší si tím vlastní léčbu",
+     "⚠️ Benzodiazepiny a klasická antipsychotika", "zhorší kognici a zvyšují úmrtnost"],
+    titulek="Léčba je přesný opak anticholinergik — a proto se nesmí kombinovat",
+    pozn="Memantin (NMDA) u těžších stadií. ⚠️ Nic z toho nemoc nezastaví. "
+         "Nootropika (piracetam, ginkgo) mají slabou až žádnou evidenci.", a_kind="zvyrazni"))
+
+N("60", "Opium a jeho alkaloidy", srovnani(
+    "CO SE TOLERUJE",
+    ["Analgezie", "Euforie", "⚠️ Útlum dechu", "Nauzea"],
+    "⚠️ CO SE NETOLERUJE NIKDY",
+    ["⚠️ MIÓZA — proto je diagnostická", "⚠️ ZÁCPA — proto se laxativum",
+     "nasazuje SOUČASNĚ s opioidem", "a nikdy až potom"],
+    titulek="Co při dlouhodobém podávání povolí a co ne",
+    pozn="⚠️ Příčina smrti = útlum dechového centra (klesne citlivost k CO₂). Antidotum "
+         "NALOXON má ⚠️ kratší poločas než morfin → musí se opakovat. Papaverin a noskapin "
+         "(isochinolinové) analgezii ani závislost nedělají.", a_kind="normal"))
+
+N("61", "Deriváty a náhražky morfinu", stupnice(
+    [("SILNÉ — plní agonisté μ", "fentanyl (100× morfin), sufentanil, oxykodon, metadon", "zvyrazni"),
+     ("PARCIÁLNÍ — buprenorfin", "⚠️ má strop dechového útlumu, ale naloxon ho těžko vytlačí", "normal"),
+     ("SLABÉ — kodein, tramadol", "⚠️ tramadol: + reuptake 5-HT/NA → serotoninový sy, křeče", "normal"),
+     ("ANTAGONISTÉ", "naloxon i.v. · naltrexon p.o. · ⚠️ methylnaltrexon jen na zácpu", "pozor")],
+    titulek="Řazení podle síly a podle chování na receptoru",
+    sipka_popis="klesající síla",
+    pozn="⚠️ Petidin → metabolit norpetidin dráždí CNS (křeče), smrtelná interakce s IMAO. "
+         "⚠️ Metadon prodlužuje QT. ⚠️ Fentanyl i.v. rychle → rigidita hrudní stěny."))
+
+N("62", "Eikosanoidy", vetev(
+    "KYSELINA ARACHIDONOVÁ ⚠️ o patro výš ji blokují KORTIKOIDY (fosfolipáza A₂)",
+    [("COX — ⚠️ tady blokují NSA", "prostaglandiny · prostacyklin · tromboxan", "normal"),
+     ("LOX — ⚠️ NSA sem NESAHAJÍ", "LEUKOTRIENY — stah průdušek, hlen", "pozor")],
+    titulek="Dvě větve — a proč kortikoid funguje šířeji než NSA",
+    pozn="⚠️ Zavřeš COX → kyselina se PŘELIJE do větve leukotrienů → ASPIRINEM INDUKOVANÉ "
+         "ASTMA (Samterova trias: astma + nosní polypy + intolerance aspirinu). "
+         "COX-1 = žaludeční hlen, tromboxan, ledviny. COX-2 = zánět."))
+
+N("63", "Analgetika-antipyretika", retez(
+    [("PARACETAMOL", "zvyrazni"), ("90 % konjugace → neškodné", "normal"),
+     ("10 % CYP2E1 → ⚠️ NAPQI", "pozor"),
+     ("GLUTATHION ⚠️ dokud vydrží", "zvyrazni")],
+    titulek="Celá otrava paracetamolem v jednom řádku",
+    pozn="⚠️ Alkoholik má obojí proti sobě: indukovaný CYP2E1 (víc NAPQI) A vyčerpaný "
+         "glutathion. ⚠️ Příznaky přijdou až za 1–3 dny — rozhoduje HLADINA V ČASE, ne stav "
+         "pacienta. Antidotum N-ACETYLCYSTEIN. ⚠️ Po extrakci je ibuprofen účinnější než "
+         "paracetamol; nejlepší je jejich kombinace."))
+
+N("64", "Nesteroidní antiflogistika", cil(
+    "BLOKÁDA COX-1 tam, kde ji tělo POTŘEBUJE",
+    [("ŽALUDEK — ⚠️ vřed a krvácení (prevence PPI)", "pozor"),
+     ("LEDVINA — ⚠️ zruší vazodilataci přívodné tepénky", "pozor"),
+     ("DESTIČKY — ⚠️ méně tromboxanu → krvácivost", "pozor"),
+     ("⚠️ Aspirin acetyluje IREVERZIBILNĚ → účinek 7–10 dní", "zvyrazni"),
+     ("⚠️ Reyeův syndrom u dětí s virózou", "pozor"),
+     ("⚠️ Koxiby šetří žaludek, ale zvyšují KV riziko", "pozor")],
+    titulek="Skoro všechny nežádoucí účinky plynou z blokády COX-1",
+    pozn="⚠️ „Triple whammy\": NSA + ACE inhibitor + diuretikum = akutní selhání ledvin. "
+         "⚠️ Ibuprofen ruší antiagregační účinek aspirinu — obsadí COX-1 dřív."))
+
+N("65", "Farmakoterapie migrény", srovnani(
+    "AKUTNĚ — hned na začátku záchvatu",
+    ["NSA nebo paracetamol", "⚠️ + METOKLOPRAMID — nejen proti nevolnosti,",
+     "ale aby se analgetikum vůbec vstřebalo", "TRIPTANY (5-HT1B/1D) ⚠️ KI u ICHS"],
+    "PROFYLAXE — při 4+ záchvatech měsíčně",
+    ["Betablokátory, topiramát, amitriptylin", "Kandesartan, flunarizin, valproát",
+     "⚠️ Protilátky proti CGRP", "⚠️ Hodnotí se až po 2–3 měsících"],
+    titulek="Dvě zcela oddělené léčby, které se nesmí zaměnit",
+    pozn="⚠️ Analgetika víc než 10–15 dní v měsíci → bolest hlavy Z NADUŽÍVÁNÍ LÉKŮ. "
+         "Řešením je vysazení, ne přidání. ⚠️ Migréna s aurou = KI kombinované antikoncepce.",
+    b_kind="zvyrazni"))
