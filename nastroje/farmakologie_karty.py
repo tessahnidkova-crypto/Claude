@@ -51,6 +51,11 @@ proto se na doplňky ptáme cíleně — mají reálné interakce.
 posuzuje se shoda a riziková třída.
 **Výdej:** vázaný na předpis, s omezením (odbornost), volně prodejný (OTC);
 omamné a psychotropní látky na **recept s modrým pruhem**.
+**Regulační orgány: SÚKL** registruje léčiva, stanovuje ceny a úhrady, dozoruje
+lékárny, povoluje klinická hodnocení a vede farmakovigilanci; **EMA** vede
+centralizovanou registraci pro celou EU; **Ministerstvo zdravotnictví** vydává
+vyhlášky a **SZPI** dozoruje doplňky stravy. Klinické hodnocení musí navíc
+schválit **etická komise**.
 """)
 
 K("O3", "Předepisování léčivých přípravků", """
@@ -67,8 +72,12 @@ vystavení.
 **Modrý pruh** je vyhrazen omamným a psychotropním látkám a má přísnější
 evidenci.
 **Magistraliter** předpis má stavbu Rp. — složení — M.f. (misce fiat) — D.S.
-Před předepsáním patří anamnéza: alergie, gravidita, funkce jater a ledvin,
-ostatní léky.
+Před předepsáním patří anamnéza: alergie, gravidita a kojení, funkce jater a
+ledvin a všechny ostatní užívané léky včetně volně prodejných.
+**Generická substituce** — lékárník smí vydat jiný přípravek se stejnou účinnou
+látkou, silou a lékovou formou, pokud to lékař nezakázal a pacient souhlasí.
+**Nejčastější chyby:** chybějící síla nebo dávkování, záměna podobně znějících
+názvů a předepsání léku, který interaguje se stávající medikací.
 """)
 
 K("O4", "Preklinické a klinické hodnocení léčiv", """
@@ -84,7 +93,12 @@ trh — sledování v běžné populaci.
 kontrolní skupina, předem daný cíl, informovaný souhlas a souhlas etické komise.
 **Proč se vzácné nežádoucí účinky objeví až ve fázi IV:** účinek, který postihne
 jednoho z deseti tisíc, nemá ve studii o tisících pacientů šanci vyjít najevo.
-Generikum účinnost neprokazuje znovu — dokládá **bioekvivalenci**.
+Generikum účinnost neprokazuje znovu — dokládá **bioekvivalenci**, tedy shodný
+průběh hladin s originálem.
+**Preklinika sama nestačí:** zvíře nemá stejný metabolismus ani stejné receptory,
+proto se řada účinků a nežádoucích reakcí objeví teprve u člověka. Proto se
+fáze I zahajuje **mikrodávkami s pomalou eskalací** a proto je celý vývoj tak
+dlouhý — od objevu k registraci zpravidla **10–15 let**.
 """)
 
 K("O5", "Způsoby aplikace léčiv, výhody a nevýhody", """
@@ -102,6 +116,11 @@ sterilitu a personál.
 účinek dny).
 **Pozor:** „místní" podání neznamená „bez celkového účinku" — oční, nosní i
 inhalační formy se vstřebávají.
+**Biologická dostupnost (F)** je podíl dávky, který se dostane do systémového
+oběhu nezměněný: i.v. má z definice **F = 100 %**, u ostatních cest je nižší.
+Perorální dostupnost snižuje **neúplné vstřebání a first-pass metabolismus**
+ve střevní stěně a v játrech — proto se stejná látka podává perorálně
+v mnohonásobně vyšší dávce než nitrožilně.
 """)
 
 K("O6", "Lékové formy — perorální a orální", """
@@ -117,8 +136,12 @@ nebo se látka zničí.
 bukálně** se látka vstřebá rovnou do krve a **obejde first-pass efekt** —
 nitroglycerin, buprenorfin.
 **Pomocné látky** (plniva, pojiva, kluzné látky, rozvolňovadla, barviva,
-sladidla) nejsou neutrální: laktóza vadí při intoleranci, **cukr v sirupech** je
-při dlouhodobé léčbě rizikem pro chrup.
+sladidla) nejsou neutrální: laktóza vadí při intoleranci, barviva mohou vyvolat
+alergii a **cukr v sirupech** je při dlouhodobé léčbě rizikový.
+**Rozpad a rozpuštění** předchází vstřebání — tvrdá tableta se nejprve
+rozpadne na granulát a ten se rozpustí; teprve rozpuštěná látka se vstřebává,
+proto je u málo rozpustných léčiv rychlost rozpouštění krokem určujícím
+rychlost účinku. **Šumivé a orodispergovatelné tablety** ho urychlují.
 """)
 
 K("O7", "Lékové formy — parenterální a dermatologika", """
@@ -137,6 +160,10 @@ a **nevratnost podání**.
 (voda i tuk), gel (vodný, chladí), pasta, zásyp, roztok, náplast. Průnik zvyšuje
 okluze. **Lokální kortikoidy** dlouhodobě způsobí atrofii kůže a strie, na
 obličej patří jen slabé a krátce.
+**Volba základu se řídí stavem kůže:** na mokvající zánět vodné a chladivé
+formy, na suchou a zrohovatělou kůži masti. **Transdermální náplast** obchází
+játra a udrží stálou hladinu po dny (fentanyl, nikotin, estrogeny) — po
+sejmutí účinek doznívá z kožního depa.
 """)
 
 K("O8", "Lékové formy — oční, ušní, nosní, rektalia, vaginalia, inhalanda", """
@@ -152,8 +179,11 @@ k celkovému účinku.
 **Inhalanda:** aerosolový dávkovač, práškový inhalátor, nebulizace. Rozhoduje
 **technika inhalace**; nástavec zlepší depozici a sníží nežádoucí účinky
 (inhalační kortikoid jinak vyvolá orální kandidózu a chrapot).
-**Rektalia** obcházejí játra jen z dolní části konečníku; hodí se u zvracení a
-u dětí. **Vaginalia** slouží hlavně k místní léčbě.
+**Rektalia** (čípky, rektální roztoky) obcházejí játra jen z dolní části
+konečníku, takže first-pass efekt obcházejí neúplně a vstřebávání je kolísavé;
+hodí se u zvracení, u dětí a v bezvědomí — například diazepam u křečí.
+**Vaginalia** (globule, krémy, kroužky) slouží hlavně k místní léčbě
+(antimykotika, estrogeny), ale i odsud se látka částečně vstřebává.
 """)
 
 K("O9", "Komunikace, adherence, compliance, placebo a nocebo", """
@@ -2537,4 +2567,256 @@ základ péče u atopické dermatitidy.
 neurotoxický** — nesmí k oku ani do ucha při perforaci. **Alkoholy (70 %)**
 působí rychle, na spory ne, a nepatří na otevřenou ránu. **Peroxid vodíku**
 je slabý a poškozuje granulační tkáň; dobře snášený je **oktenidin**.
+""")
+
+K("127", "Infuzní terapie", """
+**Infuzní terapie** doplňuje objem, vodu, elektrolyty a energii nitrožilně,
+když perorální příjem nestačí nebo není možný. Volba roztoku vychází z toho,
+**který prostor je třeba doplnit** — nitrocévní, extracelulární, nebo celkovou
+tělesnou vodu.
+**Krystaloidy** obsahují vodu a elektrolyty a volně procházejí kapilární
+stěnou. **Izotonické — fyziologický roztok (0,9% NaCl)** a **balancované
+roztoky (Ringerův, Hartmannův, Plasmalyte)** doplňují extracelulární prostor
+a jsou léčbou volby u **hypovolemie a dehydratace**. Fyziologický roztok má
+nefyziologicky vysoký obsah chloridů — ve velkých objemech působí
+**hyperchloremickou metabolickou acidózu**, proto se dnes upřednostňují
+balancované roztoky. **Glukóza 5 %** je izotonická jen v lahvi; po
+metabolizaci cukru zůstane volná voda, která se rozdělí do celkové tělesné
+vody — **k doplnění objemu se tedy nehodí**, slouží jako zdroj vody a energie.
+**Hypertonické roztoky** (NaCl 3 %, manitol) táhnou vodu z buněk — užívají se
+u **nitrolební hypertenze** a těžké hyponatremie. ⚠️ **Hyponatremie se
+koriguje pomalu** — rychlá úprava hrozí **osmotickou demyelinizací**.
+**Koloidy** (albumin, želatina, hydroxyethylškrob) obsahují velké molekuly,
+zůstávají v cévním řečišti déle. **Hydroxyethylškrob se dnes nepoužívá** pro
+poškození ledvin a zvýšenou mortalitu u kritických nemocných.
+**Parenterální výživa** dodává glukózu, aminokyseliny, tuky, elektrolyty,
+stopové prvky a vitaminy; podává se centrálním žilním katétrem, hrozí
+**refeeding syndrom** a infekce katétru.
+""")
+
+K("128", "Vitaminy rozpustné v tucích", """
+**Vitaminy A, D, E a K** se vstřebávají spolu s tuky za přítomnosti žluči,
+**ukládají se v játrech a tukové tkáni** — z toho plyne dvojí důsledek:
+při **poruše trávení tuků** (cholestáza, pankreatická insuficience, celiakie,
+orlistat, parafinový olej) vzniká jejich nedostatek, a naopak se na rozdíl od
+vitaminů rozpustných ve vodě **mohou hromadit a předávkovat**.
+**Vitamin A (retinol)** je nezbytný pro zrak (rodopsin), diferenciaci epitelu
+a imunitu. Nedostatek působí **šeroslepost, xeroftalmii a keratomalacii**;
+nadbytek bolest hlavy, nitrolební hypertenzi, hepatotoxicitu a **je silně
+teratogenní** — proto jsou retinoidy (isotretinoin) **kontraindikované
+v graviditě** a vyžadují spolehlivou kontracepci.
+**Vitamin D** se aktivuje **hydroxylací v játrech (25-OH) a v ledvinách
+(1,25-OH, kalcitriol)**; zvyšuje vstřebávání **vápníku a fosfátů** ve střevě.
+Nedostatek působí **křivici u dětí a osteomalacii u dospělých**, nadbytek
+**hyperkalcemii** s nefrokalcinózou a zvracením.
+**Vitamin E (tokoferol)** je hlavní lipofilní **antioxidant** chránící
+membrány; deficit vede k hemolýze a neuropatii, vysoké dávky zvyšují riziko
+krvácení.
+**Vitamin K** je kofaktorem **γ-karboxylace koagulačních faktorů
+II, VII, IX a X** a proteinů C a S — proto je **antidotem warfarinu** a podává
+se **novorozencům** v prevenci krvácivé nemoci. Nedostatek se projeví
+krvácivostí a prodlouženým INR.
+""")
+
+K("129", "Vitaminy rozpustné ve vodě", """
+**Vitaminy skupiny B a vitamin C** se v těle **prakticky neukládají** (výjimkou
+je B12 se zásobou na roky v játrech), přebytek se vylučuje močí — proto se
+snadno vyčerpají při nedostatečném příjmu, ale **předávkování je vzácné**.
+Většina slouží jako **koenzymy** v metabolismu.
+**B1 (thiamin)** je koenzym dekarboxyláz. Deficit — typicky u **alkoholismu**
+a malnutrice — působí **beri-beri** a **Wernickeovu encefalopatii**
+(zmatenost, ataxie, oftalmoplegie) až Korsakovův syndrom; proto se
+**thiamin podává vždy před glukózou**, jinak se stav zhorší.
+**B2 (riboflavin)** — cheilitida, angulární stomatitida, glositida.
+**B3 (niacin)** — deficit působí **pelagru** (dermatitida, průjem, demence);
+ve vysokých dávkách snižuje lipidy a vyvolává **flush**.
+**B6 (pyridoxin)** je koenzym transamináz; deficit vzniká při léčbě
+**izoniazidem** a projeví se **periferní neuropatií** a křečemi — proto se
+izoniazid podává s pyridoxinem. Vysoké dávky samy neuropatii způsobují.
+**B9 (kyselina listová)** a **B12 (kobalamin)** jsou nutné pro syntézu DNA;
+deficit působí **megaloblastovou anemii**. B12 navíc chrání myelin — jeho
+deficit vede k **funikulární myelóze**. ⚠️ Folát smí být podán až po vyloučení
+deficitu B12. Folát se podává **preventivně v graviditě** proti rozštěpům
+neurální trubice.
+**C (kyselina askorbová)** je nutná pro **hydroxylaci kolagenu**; deficit
+působí **skorbut** — krvácení dásní, viklavost zubů, špatné hojení a
+petechie — a zlepšuje vstřebávání železa.
+""")
+
+K("130", "Farmakoterapie osteoporózy", """
+**Osteoporóza** je systémové onemocnění s úbytkem kostní hmoty a poruchou
+mikroarchitektury, jehož jediným klinickým projevem je **zlomenina** — proto
+je cílem léčby snížit riziko zlomenin, nikoli jen zvýšit denzitu.
+Základem je vždy **dostatečný příjem vápníku a vitaminu D**, pohyb a prevence
+pádů; bez nich ostatní léky nefungují.
+**Antiresorpční léčiva tlumí osteoklasty.**
+**Bisfosfonáty** (alendronát, risedronát, kyselina zoledronová) se vážou na
+hydroxyapatit a vyvolávají apoptózu osteoklastů; jsou **lékem první volby**.
+⚠️ Perorální bisfosfonát se musí užít **nalačno, zapít velkou sklenicí čisté
+vody a půl hodiny nelehat** — jinak hrozí **erozivní ezofagitida**. Vzácným,
+ale závažným nežádoucím účinkem je **osteonekróza čelisti** (riziko stoupá
+u nitrožilního podání, po extrakci zubu a u nádorových indikací) a
+atypické zlomeniny femuru. Kontraindikací je těžká renální insuficience
+a hypokalcemie, kterou je nutné napravit před zahájením.
+**Denosumab** je monoklonální protilátka proti **RANKL**, která brání zrání
+osteoklastů; podává se podkožně jednou za půl roku a je vhodný i při renální
+insuficienci. ⚠️ **Po vysazení dochází k rychlé ztrátě kosti** a riziku
+mnohočetných obratlových zlomenin — nesmí se přerušit bez navazující léčby.
+**Raloxifen (SERM)** chrání kost a snižuje riziko karcinomu prsu, ale zvyšuje
+riziko trombózy.
+**Osteoanabolika: teriparatid** (analog parathormonu — **v pulzním podání
+kost tvoří**, na rozdíl od trvale zvýšeného PTH, který ji odbourává) a
+**romosozumab** (anti-sklerostin).
+""")
+
+K("131", "Fytoterapie", """
+**Fytoterapie** je léčba rostlinnými drogami a jejich přípravky. Podstatné je,
+že **rostlinný původ neznamená neškodnost** — droga obsahuje směs látek
+v proměnlivé koncentraci, může být toxická a **vstupuje do lékových interakcí**.
+Účinnost je u většiny přípravků doložena slabě.
+**Formy:** droga (usušená část rostliny), **nálev (infusum)**, **odvar
+(decoctum)**, **tinktura** (lihový výtažek), silice a standardizovaný extrakt.
+**Standardizace na obsah účinné látky** je klíčová — bez ní se dávka mezi
+šaržemi liší.
+**Zástupci podle účinku:** **třezalka tečkovaná** (mírná deprese) —
+⚠️ **silný induktor CYP3A4 a P-glykoproteinu**, snižuje účinnost
+**hormonální kontracepce, warfarinu, cyklosporinu, antiretrovirotik a
+digoxinu** a s antidepresivy hrozí **serotoninový syndrom**; **kozlík
+lékařský** a **meduňka** (nespavost, úzkost); **ginkgo biloba** a **česnek**
+(zvyšují riziko krvácení s antikoagulancii); **echinacea** (imunomodulace);
+**ostropestřec mariánský — silymarin** (játra); **heřmánek a šalvěj**
+(protizánětlivě, kloktadla); **máta a fenykl** (spasmolyticky, nadýmání);
+**senna a řešetlák** (stimulační projímadla); **brusinka** (prevence
+močových infekcí); **serenoa** (hyperplazie prostaty).
+⚠️ **Grapefruitová šťáva** není fytoterapeutikum, ale **silný inhibitor
+CYP3A4** — zvyšuje hladiny statinů, blokátorů kalciových kanálů a
+imunosupresiv. Řada rostlin je v graviditě kontraindikována.
+""")
+
+K("132", "Obecná toxikologie", """
+**Toxikologie** zkoumá škodlivé účinky látek na organismus. Klíčová je
+**Paracelsova zásada — „dávka dělá jed"**: každá látka je při dostatečné dávce
+toxická a rozdíl mezi lékem a jedem je kvantitativní, nikoli kvalitativní.
+**Základní pojmy:** **toxicita** je vlastnost látky, **expozice** kontakt
+s ní, **riziko** pravděpodobnost poškození za dané expozice.
+**LD50** je dávka usmrcující polovinu pokusných zvířat — čím nižší, tím
+toxičtější látka. **Terapeutický index (TI = TD50/ED50)** vyjadřuje bezpečnost
+léčiva: čím vyšší, tím větší je odstup mezi účinnou a toxickou dávkou; léky
+s **úzkým terapeutickým indexem** (digoxin, warfarin, theofylin, lithium,
+aminoglykosidy) vyžadují monitorování hladin.
+**Otravy se dělí** na **akutní** (jednorázová vysoká dávka) a **chronické**
+(dlouhodobá nízká expozice s kumulací — olovo, rtuť); podle úmyslu na
+náhodné, sebevražedné, profesní a zneužití.
+**Toxikokinetika** popisuje osud jedu: vstřebání (perorálně, inhalačně,
+kůží), distribuci, **biotransformaci** — která může látku **detoxikovat, ale
+i aktivovat** (**letální syntéza**: methanol na kyselinu mravenčí,
+paracetamol na NAPQI) — a vylučování.
+**Toxicita může být místní nebo systémová, vratná či nevratná**; zvláštními
+formami jsou **kancerogenita, mutagenita a teratogenita**.
+**Antidotum** působí buď specificky (protilátky, chelatační činidla,
+kompetice o enzym či receptor), nebo nespecificky.
+""")
+
+K("133", "Terapie otrav a předávkování", """
+Léčba otravy má **pevné pořadí priorit**: nejprve **zajištění vitálních funkcí**
+(dýchací cesty, dýchání, oběh — ABC), teprve pak snaha o odstranění jedu.
+**Podpůrná léčba zachrání víc životů než antidotum**, protože specifické
+antidotum existuje jen pro menšinu jedů.
+**Dekontaminace:** svlečení a omytí kůže, výplach očí; **aktivní uhlí**
+(1 g/kg) je hlavní metodou při požití — váže většinu látek, **ale neváže
+alkoholy, kovy, železo, lithium, kyseliny a louhy**. Je účinné především
+**do 1 hodiny** od požití. ⚠️ **Vyvolávání zvracení se dnes nedoporučuje**
+(riziko aspirace) a **výplach žaludku** se provádí zcela výjimečně.
+Při požití **žíravin se nesmí vyvolat zvracení ani neutralizovat** — hrozí
+druhé poleptání a perforace.
+**Urychlení eliminace:** **alkalizace moči** bikarbonátem u otravy
+salicyláty a barbituráty, **hemodialýza** u methanolu, ethylenglykolu, lithia,
+salicylátů a metforminu, **opakované podání aktivního uhlí**.
+**Specifická antidota:** **naloxon** u opioidů · **flumazenil** u
+benzodiazepinů (opatrně — hrozí křeče) · **N-acetylcystein** u paracetamolu ·
+**atropin a pralidoxim** u organofosfátů · **fomepizol nebo ethanol** u
+methanolu a ethylenglykolu · **vitamin K a koncentrát protrombinového
+komplexu** u warfarinu · **protamin** u heparinu · **kyslík (hyperbarický)**
+u oxidu uhelnatého · **hydroxokobalamin** u kyanidů · **deferoxamin** u železa
+· **protilátky (Fab)** u digoxinu · **glukagon** u β-blokátorů ·
+**kalcium a inzulin** u blokátorů kalciových kanálů · **chelátory (BAL,
+EDTA, DMPS, penicilamin)** u těžkých kovů.
+Vždy je namístě kontaktovat **Toxikologické informační středisko**.
+""")
+
+K("134", "Toxikologie rostlin a hub", """
+Otravy rostlinami a houbami mají společný rys: **latence mezi požitím a
+příznaky rozhoduje o prognóze** — u hub platí, že čím delší interval, tím
+nebezpečnější druh.
+**Houby s krátkou latencí (do 4 hodin)** působí zpravidla jen
+gastrointestinální obtíže. Patří sem **muchomůrka červená a tygrovaná**
+(kyselina ibotenová a muscimol — opilost, delirium, halucinace) a houby
+s **muskarinem** (strmělky, vláknice) vyvolávající **muskarinový syndrom**:
+slinění, slzení, pocení, mióza, průjem, bradykardie — antidotem je **atropin**.
+Zvláštní je **hnojník inkoustový (coprin)**, který působí **disulfiramovou
+reakci po alkoholu**.
+⚠️ **Houby s dlouhou latencí (6–24 hodin) jsou smrtelně nebezpečné.**
+**Muchomůrka zelená (*Amanita phalloides*)** obsahuje **amanitiny**, které
+blokují **RNA-polymerázu II**; po asymptomatickém intervalu následuje prudká
+gastroenteritida, zdánlivé zlepšení a poté **selhání jater**. Léčba je
+podpůrná, **silibinin a penicilin G**, případně **transplantace jater**.
+**Pavučinec plyšový (orellanin)** poškozuje ledviny s latencí i několika dnů.
+**Rostliny:** **náprstník** (digitalisové glykosidy — arytmie, antidotem
+protilátky) · **rulík zlomocný, durman, blín** (atropin a skopolamin —
+**anticholinergní delirium**, mydriáza, suchá horká kůže; antidotem
+**fysostigmin**) · **oleandr** (kardiotoxický) · **tis červený** (taxiny —
+arytmie, bez antidota) · **bolehlav** (koniin — obrna dýchacích svalů) ·
+**konvalinka**, **ricinovník (ricin)** a **bolševník** (fototoxická
+dermatitida).
+""")
+
+K("135", "Toxikologie živočišných jedů", """
+Živočišné jedy se do těla dostávají **aktivně (uštknutí, bodnutí)** nebo
+pasivně požitím. Nejčastější bezprostřední hrozbou v našich podmínkách není
+samotný jed, ale **anafylaktická reakce** — jejím lékem první volby je
+**adrenalin intramuskulárně**, doplňkově antihistaminika a kortikosteroidy.
+**Hadi:** jediným jedovatým hadem v ČR je **zmije obecná**. Její jed je
+převážně **hemotoxický a cytotoxický** — působí bolestivý otok, hematom,
+poruchu srážlivosti, hypotenzi a zvracení; úmrtí je vzácné. **První pomoc:**
+znehybnit končetinu, klid, transport; ⚠️ **nikdy nevysávat ránu, neřezat,
+nepřikládat škrtidlo ani led**. Léčba je podpůrná, u těžkých případů
+**antisérum**. Exotičtí hadi: kobry a mamby působí **neurotoxicky** (obrna
+dýchacích svalů), zmijovité hemotoxicky.
+**Blanokřídlí (včela, vosa, sršeň):** lokální bolest a otok; nebezpečná jsou
+**bodnutí v dutině ústní a hltanu** (edém dýchacích cest) a **alergická
+reakce** — alergik má u sebe **adrenalinové pero**. Včelí žihadlo se
+vytahuje, ne mačká.
+**Pavouci a štíři:** v Evropě vzácně **černá vdova (latrotoxin** — masivní
+výlev acetylcholinu, svalové křeče a bolest břicha).
+**Klíště** přenáší **boreliózu a klíšťovou encefalitidu** — samo jedovaté není.
+**Mořští živočichové:** medúzy (nematocysty), **rejnok a ropušnice**
+(termolabilní jed — ponoření do horké vody), otrava **tetrodotoxinem** (fugu)
+blokuje sodíkové kanály a vede k obrně dýchání.
+""")
+
+K("136", "Intoxikace sloučeninami rtuti, arzenu a olova", """
+Těžké kovy se vážou na **sulfhydrylové (–SH) skupiny bílkovin**, čímž
+inaktivují enzymy; v těle se **kumulují**, takže převažují **chronické otravy**
+z profesní nebo environmentální expozice. Léčbou je přerušení expozice a
+**chelatační činidla**, která kov navážou a vyloučí močí.
+**Olovo** postihuje především **krvetvorbu, nervový systém a ledviny**.
+Blokuje enzymy syntézy hemu (**δ-aminolevulinátdehydratáza a ferrochelatáza**),
+odtud **mikrocytární anemie s bazofilním tečkováním erytrocytů**. Dále působí
+**bolesti břicha (olověná kolika)**, obstipaci, **periferní neuropatii
+s přepadávající rukou**, u dětí **encefalopatii a trvalé snížení intelektu**.
+Typickým nálezem je **olověný lem na dásních** a ukládání v kostech.
+Chelátory: **EDTA (edetan vápenato-sodný), sukcimer (DMSA)**, dimerkaprol.
+**Rtuť** je nejtoxičtější v **organické formě (methylrtuť)**, která prochází
+hematoencefalickou i placentární bariérou a hromadí se v potravním řetězci
+ryb — odtud **Minamata**: poruchy zraku, sluchu, ataxie a poškození plodu.
+**Elementární rtuť** je nebezpečná **inhalací par** (pneumonitida, třes,
+**erethismus** — dráždivost a psychické změny, gingivitida a slinění),
+zatímco požitá se téměř nevstřebá. Anorganické soli působí korozivně a
+**poškozují ledviny** (tubulární nekróza). Chelátory: **DMPS, sukcimer,
+penicilamin**.
+**Arzen** blokuje **pyruvátdehydrogenázu**. Akutně působí prudkou
+gastroenteritidu (rýžovité stolice), hypotenzi a arytmie; chronicky
+**hyperkeratózu dlaní, hyperpigmentaci, Meesovy proužky na nehtech**,
+polyneuropatii a **karcinom kůže, plic a močového měchýře**. V dechu bývá
+česneková pachuť. Chelátory: **dimerkaprol (BAL), DMPS, sukcimer**.
 """)

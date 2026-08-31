@@ -82,17 +82,22 @@ Zdroj je `nastroje/farmakologie_sketch.py`; přegeneruje se příkazem
 |---|---|---|
 | **`TAHACKY.pdf`** | **všech 136** (1 otázka = 1 kartička) | **12** listů A4, 12 karet na list |
 
-Karta má zhruba **66 × 71 mm** — velikost hrací karty, vejde se do kapsy. Struktura:
+Karta má zhruba **66 × 71 mm** — velikost hrací karty, vejde se do kapsy.
 
-| Část karty | Co obsahuje |
-|---|---|
-| **ZAČÁTEK** *(zelený rámeček)* | **dvě věty, kterými se otázka otevře** — přebírá se z `VYCUC-FINAL` |
-| **KOSTRA** *(šipkový řetěz)* | osnova odpovědi: v jakém pořadí mluvit |
-| **ZÁKLAD** *(odrážky)* | fakta: mechanismus, dělení se zástupci, indikace, nežádoucí účinky, kontraindikace, interakce |
+**Kartička na otázku odpovídá.** Je to **souvislý text**, ne slepenec útržků:
+co to je → jak to funguje → dělení se zástupci → k čemu se to podává →
+nežádoucí účinky, kontraindikace a interakce. Otevírají ji **dvě věty, kterými
+se dá otázka u zkoušky začít**; tučně jsou skupiny léčiv a fakta, která musí
+zaznít. Cílem je, aby se karta dala **přečíst a člověk to věděl** — ne aby
+sloužila jen jako připomínka něčeho, co se učil jinde.
 
-Karta se plní **až do kraje** — kolik faktů se vejde, tolik jich tam je.
-⚠️ **Text se nikdy neutíná uprostřed myšlenky:** položka, která by po zkrácení
-nedávala smysl, se vynechá a nastoupí další.
+⚠️ **Text je psaný ručně**, otázku po otázce, v `nastroje/farmakologie_karty.py`.
+Není odvozený ze sketchnot ani z `VYCUC-FINAL` — **opravy je proto nutné dělat
+v obou souborech**, jinak se rozejdou.
+
+**Sazba:** delší odpověď dostane menší stupeň písma (6,15 → 5,35 pt), aby karta
+zůstala plná a přitom se nic neuřízlo. Generátor hlásí varování, když je text
+delší než 1750 znaků (nevešel by se) nebo kratší než 950 (zbytečné bílé místo).
 
 ⚠️ **Odborný registr:** kartičky vědomě **neobsahují zubní přesah, mnemotechniku ani
 komentář k učení** a nemají zvýrazňovací piktogramy. Nežádoucí účinky se slizničním
@@ -102,8 +107,7 @@ po tetracyklinech) zůstávají — jsou to standardní farmakologická fakta, n
 ⚠️ **Tisk:** jednostranně, **měřítko 100 %** (ne „přizpůsobit stránce" — jinak se
 posunou střihové linky). Rozstříhat po čárkovaných linkách.
 
-Obsah se **automaticky zhušťuje** ze sketchnot, takže oprava ve `farmakologie_sketch.py`
-se promítne i sem. Přegeneruje se příkazem `python3 nastroje/gen_tahaky.py`.
+Přegeneruje se příkazem `python3 nastroje/gen_tahaky.py`.
 
 ### 🖼 OBRAZKY-VSE — rychlý přelet
 

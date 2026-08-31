@@ -26,7 +26,7 @@ CHROMIUM = ["/opt/pw-browsers/chromium", "/usr/bin/chromium", "/usr/bin/chromium
 
 SLOUPCU, RADU = 3, 4
 NA_STRANU = SLOUPCU * RADU
-LIMIT_ZNAKU = 1400         # kolik textu se na kartu vejde; přes to se hlásí varování
+LIMIT_ZNAKU = 1750         # nad tímhle se text nevejde ani v nejmenším stupni písma
 
 
 def sazba(text: str) -> str:
@@ -38,11 +38,22 @@ def sazba(text: str) -> str:
     return t
 
 
+def stupen(delka: int) -> str:
+    """Delší odpověď = menší písmo, aby karta zůstala plná, ale nic se neuřízlo."""
+    if delka <= 1150:
+        return "o1"
+    if delka <= 1350:
+        return "o2"
+    if delka <= 1550:
+        return "o3"
+    return "o4"
+
+
 def karta(cislo: str, nadpis: str, text: str) -> str:
     return (f'<div class="k"><div class="h">'
             f'<span class="n">{html.escape(cislo)}</span>'
             f'<span class="t">{html.escape(nadpis)}</span></div>'
-            f'<div class="o">{sazba(text)}</div></div>')
+            f'<div class="o {stupen(len(text))}">{sazba(text)}</div></div>')
 
 
 STYL = """
@@ -60,9 +71,12 @@ body { margin: 0; font-family: Calibri, Carlito, Arial, sans-serif;
      padding-bottom: 0.7mm; margin-bottom: 1mm; }
 .n { font-size: 9.4pt; font-weight: 700; color: #1B6B5F; }
 .t { font-size: 7.2pt; font-weight: 700; line-height: 1.1; }
-.o { font-size: 6.15pt; line-height: 1.31; text-align: justify;
-     hyphens: auto; -webkit-hyphens: auto; }
+.o { text-align: justify; hyphens: auto; -webkit-hyphens: auto; }
 .o b { font-weight: 700; }
+.o1 { font-size: 6.15pt; line-height: 1.31; }
+.o2 { font-size: 5.9pt;  line-height: 1.26; }
+.o3 { font-size: 5.6pt;  line-height: 1.21; }
+.o4 { font-size: 5.35pt; line-height: 1.17; }
 """
 
 
