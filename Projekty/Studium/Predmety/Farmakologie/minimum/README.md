@@ -101,9 +101,12 @@ projetí celé látky za hodinu; na učení použij sketchnoty výš.
 | Soubor | Otázky | Stran |
 |---|---|---|
 | `OBECKA-mluvena` | O1–O35 | 45 |
-| `SPECKA1-A-mluvena` · `SPECKA1-B-mluvena` | 36–88 | 40 + 29 |
-| `SPECKA2-A/B/C-mluvena` | 89–136 | 26 + 29 + 28 |
+| **`SPECKA1-mluvena.pdf`** | **36–88** — vegetativum, CNS, analgetika, kardio, ATB | **69** + 53 záložek |
+| **`SPECKA2-mluvena.pdf`** | **89–136** — chemoterapeutika, GIT, hormony, toxikologie | **83** + 48 záložek |
 | **`MINIMUM-VSE-V-JEDNOM.pdf`** | **všech 136** | **197** + 142 záložek |
+
+⚠️ Dílčí soubory `SPECKA1-A/B-mluvena` a `SPECKA2-A/B/C-mluvena` zůstávají v repu, ale
+učit se dá ze sloučených — mají stejný obsah a průběžné záložky.
 
 ⚠️ **Archiv:** `OBECKA.md`, `SPECKA1-A.md`, `SPECKA1-B.md` jsou **stará heslovitá verze** — nahradily je zkrácené. Neuč se z nich.
 
