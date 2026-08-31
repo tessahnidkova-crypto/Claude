@@ -2741,3 +2741,363 @@ S("81", "Perorální antidiabetika",
         "má zpomalené vyprazdňování žaludku — důležité před sedací.",
   past="Metformin se nevysazuje „preventivně\" u každého výkonu — jen před podáním "
        "kontrastní látky a při akutním stavu.")
+
+S("82", "Principy antibiotické terapie",
+  jadro="Celá antibiotická léčba stojí na selektivní toxicitě: zasáhnout strukturu, "
+        "kterou má bakterie a člověk ne.",
+  karty=[
+      ("CÍLE V BAKTERIÁLNÍ BUŇCE", [
+          "⚠️ BUNĚČNÁ STĚNA (peptidoglykan) — člověk ji nemá:",
+          "betalaktamy, glykopeptidy",
+          "MEMBRÁNA — polymyxiny, daptomycin",
+          "⚠️ RIBOZOM 70S (30S + 50S) — lidský je 80S:",
+          "30S aminoglykosidy, tetracykliny · 50S makrolidy, klindamycin, amfenikoly",
+          "NUKLEOVÉ KYSELINY — chinolony (⚠️ topoizomeráza), rifampicin, metronidazol",
+          "KYSELINA LISTOVÁ — sulfonamidy + trimethoprim"], "zelena"),
+      ("ZÁKLADNÍ POJMY", [
+          "Baktericidní × bakteriostatické",
+          "Úzké × široké spektrum · empirická × cílená léčba",
+          "MIC — minimální inhibiční koncentrace",
+          "⚠️ Koncentračně závislé (aminoglykosidy, chinolony) → velká dávka 1× denně",
+          "⚠️ Časově závislé (betalaktamy) → častěji, rozhoduje čas nad MIC",
+          "Postantibiotický efekt"], "modra"),
+      ("⚠️ REZISTENCE", [
+          "⚠️ Betalaktamázy (i širokospektré ESBL, karbapenemázy)",
+          "⚠️ Změna cílové struktury — MRSA má pozměněný PBP2a",
+          "⚠️ Efluxní pumpy · snížená propustnost stěny",
+          "Roste s používáním → ⚠️ antibiotická stewardship",
+          "⚠️ Antibiotikum na virózu nemá cíl — přinese jen NÚ a rezistenci"], "cervena"),
+      ("⚠️ PROFYLAXE INFEKČNÍ ENDOKARDITIDY", [
+          "Jen u rizikových pacientů: umělá chlopeň, prodělaná endokarditida,",
+          "některé vrozené vady",
+          "Jen u výkonů s poraněním dásně nebo sliznice",
+          "⚠️ AMOXICILIN 2 g jednorázově zhruba hodinu před výkonem",
+          "⚠️ Při alergii KLINDAMYCIN",
+          "⚠️ [⚠️ ověřit dávky a indikace podle vašich skript — měnily se]"], "cervena"),
+  ],
+  mnemo="Stěna · ribozom 70S · DNA · kyselina listová. Čtyři místa, kde se člověk liší.",
+  zubar="⚠️ U odontogenního abscesu antibiotikum NENAHRADÍ drenáž a ošetření zdroje. "
+        "Samo o sobě problém nevyřeší. ⚠️ Profylaxe endokarditidy se dnes dává mnohem "
+        "úžeji než dřív.",
+  past="Klasické pravidlo „nekombinovat baktericidní s bakteriostatickým\" má "
+       "výjimky — v praxi existují i výhodné kombinace.")
+
+S("83", "Peniciliny, inhibitory betalaktamáz",
+  jadro="Blokují stavbu buněčné stěny — a proto působí jen na bakterie, které se "
+        "právě dělí. Člověk stěnu nemá, takže hlavním rizikem je alergie, ne toxicita.",
+  karty=[
+      ("SKUPINY", [
+          "Přirozené: penicilin G (i.v., i.m.), ⚠️ PENICILIN V (p.o.), depotní benzathin",
+          "Protistafylokokové: oxacilin — odolné vůči stafylokokové betalaktamáze",
+          "Aminopeniciliny: ampicilin, ⚠️ AMOXICILIN (širší spektrum, i některé G−)",
+          "Ureidopeniciliny: piperacilin — ⚠️ + Pseudomonas"], "zelena"),
+      ("INHIBITORY BETALAKTAMÁZ", [
+          "Kyselina klavulanová, sulbaktam, tazobaktam",
+          "⚠️ Samy skoro neúčinkují — „obětují se\" enzymu",
+          "Amoxicilin + klavulanát; piperacilin + tazobaktam",
+          "⚠️ Rozšíří spektrum na producenty betalaktamáz"], "modra"),
+      ("⚠️ ALERGIE", [
+          "Skutečná IgE zprostředkovaná alergie je vzácnější, než ji pacienti uvádějí",
+          "⚠️ Zkřížená reaktivita s cefalosporiny je nižší, než se dřív myslelo,",
+          "⚠️ ale u anafylaxe v anamnéze se betalaktamům vyhýbáme úplně",
+          "→ náhrada: klindamycin nebo makrolid",
+          "⚠️ AMPICILINOVÝ EXANTÉM u infekční mononukleózy NENÍ alergie"], "cervena"),
+      ("DALŠÍ NÚ A POZNÁMKY", [
+          "Průjem, ⚠️ infekce Clostridioides difficile",
+          "⚠️ Jarischova–Herxheimerova reakce u syfilis (rozpad bakterií, ne alergie)",
+          "Ve vysokých dávkách neurotoxicita a křeče",
+          "⚠️ Penicilin V se podává nalačno (jídlo zhoršuje vstřebání)"], "bila"),
+  ],
+  mnemo="Bakterie se musí dělit, aby ji penicilin zabil. Klidná bakterie stěnu nestaví.",
+  zubar="⚠️ PENICILIN V je lék volby u odontogenních infekcí — ústní flóra na něj "
+        "zůstala citlivá. ⚠️ Amoxicilin s klavulanátem u komplikovaných infekcí "
+        "a při podezření na producenty betalaktamáz.",
+  past="Většina „alergií na penicilin\" v anamnéze není alergie — ale u anafylaxe "
+       "se riskovat nesmí a volí se klindamycin.")
+
+S("84", "Cefalosporiny, karbapenemy, monobaktamy",
+  jadro="U cefalosporinů platí jedno pravidlo: čím vyšší generace, tím míň "
+        "grampozitivních a víc gramnegativních.",
+  tok=[("I. cefazolin G+", "bila"), ("II. cefuroxim", "bila"),
+       ("III. ceftriaxon G− + CNS", "zelena"), ("IV.–V. cefepim, ceftarolin", "modra")],
+  karty=[
+      ("GENERACE CEFALOSPORINŮ", [
+          "I. cefazolin, cefalexin — ⚠️ chirurgická profylaxe",
+          "II. cefuroxim — + Haemophilus, respirační infekce",
+          "III. ceftriaxon, cefotaxim — ⚠️ prostup do CNS → meningitidy;",
+          "ceftazidim — + Pseudomonas",
+          "IV. cefepim — široké, nemocniční · V. ceftarolin — ⚠️ jako jediné i na MRSA"], "zelena"),
+      ("⚠️ MEZERY VE SPEKTRU", [
+          "⚠️ ŽÁDNÝ cefalosporin nepůsobí na ENTEROKOKY",
+          "⚠️ ANI na ATYPICKÉ patogeny (mykoplazma, chlamydie, legionella)",
+          "→ u atypické pneumonie je nutný makrolid nebo doxycyklin",
+          "Na anaeroby působí jen omezeně"], "cervena"),
+      ("KARBAPENEMY", [
+          "Meropenem, imipenem/cilastatin, ertapenem",
+          "⚠️ Nejširší spektrum ze všech antibiotik → ⚠️ REZERVA",
+          "⚠️ Imipenem musí být s cilastatinem (jinak ho rozloží ledvinný enzym)",
+          "⚠️ Imipenem snižuje práh pro křeče · ⚠️ ertapenem nepůsobí na Pseudomonas",
+          "⚠️ Dál už není kam ustoupit — proto se šetří"], "cervena"),
+      ("MONOBAKTAMY a NÚ", [
+          "Aztreonam — ⚠️ jen gramnegativní",
+          "⚠️ Strukturálně tak odlišný, že ho lze podat i při alergii na penicilin",
+          "NÚ betalaktamů obecně: alergie, průjem, ⚠️ C. difficile",
+          "Vzácně: neutropenie, zvýšení jaterních testů"], "bila"),
+  ],
+  mnemo="Nahoru generacemi = od G+ ke G−. Enterokoky a atypické nikdy.",
+  zubar="⚠️ Cefalosporiny se u odontogenních infekcí běžně nevolí — penicilin V, "
+        "amoxicilin (± klavulanát) a klindamycin pokrývají ústní flóru lépe.",
+  past="Karbapenem není „lepší antibiotikum\" pro každý případ — je to poslední "
+       "rezerva a jeho nadužívání vytváří rezistenci, na kterou už nemáme odpověď.")
+
+S("85", "Aminoglykosidy, chinolony",
+  jadro="Obě skupiny jsou baktericidní a koncentračně závislé — a obě mají typickou "
+        "orgánovou toxicitu, na kterou se ptají.",
+  karty=[
+      ("AMINOGLYKOSIDY", [
+          "Gentamicin, amikacin, tobramycin, streptomycin",
+          "⚠️ Blokují 30S ribozom, ale jsou BAKTERICIDNÍ — výjimka mezi inhibitory",
+          "bílkovinné syntézy",
+          "⚠️ Nevstřebávají se ze střeva → jen parenterálně",
+          "⚠️ Nepůsobí na anaeroby (potřebují kyslíkem poháněný vstup do buňky)",
+          "Synergie s betalaktamy — ty poruší stěnu a usnadní vstup"], "zelena"),
+      ("⚠️ TOXICITA AMINOGLYKOSIDŮ", [
+          "⚠️ NEFROTOXICITA — obvykle vratná",
+          "⚠️ OTOTOXICITA — poškození sluchu a rovnováhy, často TRVALÉ",
+          "→ proto se hlídají hladiny",
+          "⚠️ Dávkování 1× denně: vysoký vrchol zabíjí líp a dlouhá pauza chrání ledvinu",
+          "Neuromuskulární blokáda (opatrně s myorelaxancii)"], "cervena"),
+      ("CHINOLONY", [
+          "Ciprofloxacin, ofloxacin, levofloxacin, moxifloxacin",
+          "⚠️ Blokují TOPOIZOMERÁZU II (DNA-GYRÁZU) a topoizomerázu IV",
+          "⚠️ VE ZDROJI JE CHYBA: uvedena „DNA-polymeráza\" — to je špatně",
+          "Široké spektrum, dobrá tkáňová penetrace, dobrá dostupnost p.o."], "cervena"),
+      ("⚠️ NÚ CHINOLONŮ", [
+          "⚠️ Zánět a RUPTURA ŠLACH (typicky Achillovy), zvl. u seniorů a s kortikoidy",
+          "⚠️ KI u dětí a v graviditě — poškození chrupavek",
+          "⚠️ Prodloužení QT, fotosenzitivita, neuropsychické projevy",
+          "⚠️ CHELATACE s Ca, Mg, Fe → nezapíjet mlékem, nebrat s antacidy",
+          "⚠️ Průjem po C. difficile"], "cervena"),
+  ],
+  mnemo="Aminoglykosid: ucho a ledvina. Chinolon: šlacha a chrupavka.",
+  zubar="⚠️ Chinolony se v ústní oblasti volí spíš výjimečně — ústní flóra na ně "
+        "není optimálně citlivá a rizika jsou významná.",
+  past="Aminoglykosidy jsou baktericidní, i když blokují ribozom — to je výjimka "
+       "z pravidla, že inhibitory proteosyntézy jsou bakteriostatické.")
+
+S("86", "Linkosamidy, glykopeptidy, polymyxiny",
+  jadro="Tři rezervní nebo úzce zaměřené skupiny. Pro zubní lékařství je z nich "
+        "nejdůležitější klindamycin.",
+  karty=[
+      ("⭐ KLINDAMYCIN", [
+          "⚠️ Blokuje 50S ribozom, bakteriostatický",
+          "Grampozitivní koky a ⚠️ hlavně ANAEROBY",
+          "⚠️ VÝBORNÝ PRŮNIK DO KOSTI",
+          "→ ⚠️ odontogenní absces, osteomyelitida čelisti",
+          "→ ⚠️ alternativa při alergii na penicilin (i profylaxe endokarditidy)"], "zelena"),
+      ("⚠️ RIZIKO KLINDAMYCINU", [
+          "⚠️ PSEUDOMEMBRANÓZNÍ KOLITIDA (Clostridioides difficile)",
+          "→ historicky je s ní nejvíc spojován",
+          "Obraz: vodnaté průjmy během léčby i po ní, křeče, horečka, leukocytóza",
+          "⚠️ Léčba: vankomycin PERORÁLNĚ nebo fidaxomicin",
+          "⚠️ Nepodávat léky tlumící střevní pohyb (loperamid)"], "cervena"),
+      ("GLYKOPEPTIDY", [
+          "Vankomycin, teikoplanin",
+          "⚠️ Blokují stavbu stěny na JINÉM místě než betalaktamy → fungují i u betalaktamáz",
+          "⚠️ Jen grampozitivní — ⚠️ lék volby u MRSA",
+          "⚠️ Perorálně se nevstřebají → proto p.o. právě na klostridiovou kolitidu",
+          "⚠️ „Red man syndrome\" při rychlé infuzi — histaminová reakce, NENÍ to alergie",
+          "Nefro- a ototoxicita"], "modra"),
+      ("POLYMYXINY", [
+          "Kolistin, polymyxin B",
+          "⚠️ Narušují cytoplazmatickou membránu jako detergent",
+          "⚠️ Rezerva na multirezistentní gramnegativní bakterie",
+          "⚠️ Výrazně nefrotoxické a neurotoxické"], "bila"),
+  ],
+  mnemo="Klindamycin do kosti a na anaeroby. A pozor na klostridium.",
+  zubar="⚠️ Klindamycin je v zubním lékařství klíčové antibiotikum: absces v obličeji, "
+        "osteomyelitida čelisti a náhrada při alergii na penicilin. ⚠️ Pacienta pouč, "
+        "že při vodnatých průjmech má lék vysadit a ozvat se.",
+  past="Vankomycin nepůsobí na gramnegativní bakterie — je to velká molekula a přes "
+       "jejich zevní membránu se nedostane.")
+
+S("87", "Tetracykliny, amfenikoly",
+  jadro="Tetracykliny se vážou na vápník a ukládají se do rostoucí kosti a zubu — "
+        "odtud nejznámější zubařský nežádoucí účinek celé farmakologie.",
+  tok=[("TETRACYKLIN se váže na VÁPNÍK", "zelena"), ("ukládá se do zubu a kosti", "bila"),
+       ("⚠️ ŠEDOHNĚDÉ ZBARVENÍ UVNITŘ", "cervena"), ("⚠️ NEDÁ SE VYBĚLIT", "cervena")],
+  karty=[
+      ("MECHANISMUS A SPEKTRUM", [
+          "⚠️ Blokují 30S podjednotku RIBOZOMU, bakteriostatické",
+          "⚠️ VE ZDROJI JE CHYBA: uvedena inhibice buněčné stěny — to je špatně",
+          "(stěnu blokují betalaktamy a glykopeptidy)",
+          "Široké spektrum, ⚠️ včetně atypických: chlamydie, mykoplazmata,",
+          "borrelie (lymeská borelióza), rickettsie"], "cervena"),
+      ("ZÁSTUPCI", [
+          "⚠️ DOXYCYKLIN — dnes hlavní: lepší vstřebávání, delší poločas,",
+          "méně ovlivněný jídlem, lze i při renální insuficienci",
+          "Minocyklin, tetracyklin",
+          "Tigecyklin (glycylcyklin) — rezervní, širokospektrý"], "zelena"),
+      ("⚠️ NEŽÁDOUCÍ ÚČINKY", [
+          "⚠️ Zbarvení zubů a hypoplazie skloviny — jen v době VÝVOJE zubu",
+          "⚠️ KI do 8 let věku, v graviditě a při kojení",
+          "⚠️ CHELATACE s Ca, Mg, Fe → nezapíjet mlékem, nebrat s antacidy",
+          "⚠️ Fotosenzitivita · ezofagitida (zapít velkým množstvím vody, nelehat si)",
+          "Rezistence je dnes rozsáhlá (i z veterinárního používání)"], "cervena"),
+      ("AMFENIKOLY a PARODONTOLOGIE", [
+          "Chloramfenikol — ⚠️ blokuje 50S ribozom",
+          "⚠️ APLASTICKÁ ANEMIE — idiosynkratická, NEZÁVISLÁ NA DÁVCE, smrtelná",
+          "⚠️ GRAY BABY SYNDROM u novorozence (nezralá glukuronidace)",
+          "→ dnes systémově opuštěný, zůstal v očních kapkách a mastech",
+          "⚠️ Nízkodávkovaný doxycyklin jako inhibitor kolagenáz v parodontologii",
+          "[⚠️ ověřit, zda to vaše skripta uvádějí]"], "modra"),
+  ],
+  mnemo="Váže vápník → jde do zubu → barví zevnitř → vybělit nejde.",
+  zubar="⚠️ Zbarvení je uvnitř skloviny a dentinu, ne na povrchu — proto ho nelze "
+        "odstranit bělením ani leštěním. Řeší se jen protetickým krytím. "
+        "⚠️ Dětem do 8 let se tetracykliny nedávají nikdy.",
+  past="Aplastická anemie po chloramfenikolu je typ B — nezávisí na dávce a nedá se "
+       "předvídat. Proto se lék systémově prakticky nepoužívá.")
+
+S("88", "Makrolidy",
+  jadro="Největší úskalí makrolidů nejsou nežádoucí účinky, ale lékové interakce — "
+        "a azithromycin je v tom výjimka.",
+  karty=[
+      ("MECHANISMUS A SPEKTRUM", [
+          "⚠️ Blokují 50S podjednotku ribozomu, bakteriostatické",
+          "⚠️ Pokrývají ATYPICKÉ patogeny: mykoplazma, chlamydie, legionella, pertusse",
+          "⚠️ Alternativa při alergii na penicilin",
+          "Zástupci: erythromycin, klarithromycin, azithromycin, spiramycin"], "zelena"),
+      ("⚠️ INTERAKCE — nejdůležitější část otázky", [
+          "⚠️ ERYTHROMYCIN a KLARITHROMYCIN jsou SILNÉ INHIBITORY CYP3A4",
+          "→ ⚠️ zvýší hladinu statinů (rabdomyolýza), warfarinu (krvácení),",
+          "cyklosporinu, karbamazepinu, některých blokátorů Ca",
+          "🔑 ⚠️ AZITHROMYCIN CYP3A4 prakticky NEINHIBUJE",
+          "→ volba u polymorbidního pacienta"], "cervena"),
+      ("AZITHROMYCIN — zvláštnost", [
+          "⚠️ Velmi dlouhý tkáňový poločas",
+          "Koncentruje se ve tkáních a v buňkách a uvolňuje se pomalu",
+          "⚠️ Třídenní kúra působí ještě řadu dní po poslední tabletě",
+          "Lepší snášenlivost než erythromycin"], "modra"),
+      ("DALŠÍ NÚ", [
+          "⚠️ Prodloužení QT — zvlášť s dalšími takovými léky",
+          "(antipsychotika, chinolony, ondansetron, amiodaron)",
+          "GIT nesnášenlivost — ⚠️ erythromycin dráždí přes MOTILINOVÝ receptor",
+          "⚠️ A téhle vlastnosti se využívá: erythromycin jako prokinetikum u gastroparézy",
+          "Vzácně hepatotoxicita, ototoxicita při vysokých dávkách"], "bila"),
+  ],
+  mnemo="Klarithromycin brzdí CYP. Azithromycin ne. To je celý rozdíl v praxi.",
+  zubar="⚠️ Makrolid je alternativa při alergii na penicilin, ale u odontogenní infekce "
+        "nebývá první volbou kvůli rezistenci — spíš klindamycin. ⚠️ Před předpisem "
+        "klarithromycinu zkontroluj statin a warfarin.",
+  past="Nežádoucí vlastnost erythromycinu (dráždění žaludku přes motilin) se využívá "
+       "léčebně jako prokinetikum.")
+
+
+# ═════════════════════════════════════ SPECKA II
+
+S("89", "Chemoterapeutika močových a střevních infekcí",
+  jadro="U močových infekcí stačí, když se lék dostane do MOČI — nemusí být dobrý "
+        "v krvi. Proto se tu používají látky, které se jinde neuplatní.",
+  tok=[("PABA", "bila"), ("dihydrofolát ⚠️ SULFONAMID", "cervena"),
+       ("tetrahydrofolát ⚠️ TRIMETHOPRIM", "cervena"), ("DNA se nepostaví", "zelena")],
+  karty=[
+      ("KOTRIMOXAZOL — sekvenční blokáda", [
+          "Sulfonamid je analog PABA → blokuje dihydropteroátsyntázu",
+          "Trimethoprim → blokuje dihydrofolátreduktázu",
+          "⚠️ Dva zámky za sebou na jedné dráze → účinek se násobí",
+          "⚠️ Selektivita: člověk kyselinu listovou NEVYRÁBÍ, přijímá ji ze stravy",
+          "Indikace: močové infekce, ⚠️ pneumocystová pneumonie (i profylakticky)"], "zelena"),
+      ("⚠️ NÚ SULFONAMIDŮ", [
+          "⚠️ Alergie a ⚠️ STEVENSŮV–JOHNSONŮV SYNDROM",
+          "Krystalurie (dostatek tekutin), hyperkalemie, útlum krvetvorby",
+          "⚠️ JÁDROVÝ IKTERUS u novorozence — sulfonamid vytěsní bilirubin z albuminu",
+          "⚠️ Hemolýza při deficitu G6PD"], "cervena"),
+      ("DALŠÍ UROANTISEPTIKA", [
+          "⚠️ NITROFURANTOIN — koncentruje se v moči, ale ne ve tkáni",
+          "→ ⚠️ jen dolní močové cesty, ne pyelonefritida",
+          "⚠️ Dlouhodobě: plicní fibróza, neuropatie",
+          "⚠️ FOSFOMYCIN — jednorázová dávka u nekomplikované cystitidy",
+          "Chinolony (⚠️ dnes už ne první volba u nekomplikované cystitidy)"], "modra"),
+      ("STŘEVNÍ", [
+          "⚠️ RIFAXIMIN — nevstřebává se ze střeva; cestovatelské průjmy,",
+          "jaterní encefalopatie",
+          "Nifuroxazid",
+          "⚠️ Clostridioides difficile: VANKOMYCIN PERORÁLNĚ nebo fidaxomicin,",
+          "metronidazol u lehkých forem"], "bila"),
+  ],
+  mnemo="Dva zámky na jedné dráze — proto se sulfonamid a trimethoprim kombinují.",
+  zubar="⚠️ Sulfonamidy patří mezi častější příčiny lékových exantémů a Stevensova–"
+        "Johnsonova syndromu, který má výrazné slizniční projevy v dutině ústní.",
+  past="Nitrofurantoin u pyelonefritidy nefunguje — v ledvinné tkáni nedosáhne "
+       "účinné hladiny, i když je moč plná léku.")
+
+S("90", "Antiparazitika",
+  jadro="Tři skupiny podle parazita. Pro zubní lékařství je z nich nejdůležitější "
+        "metronidazol, protože pokrývá i anaerobní bakterie.",
+  karty=[
+      ("ANTIMALARIKA", [
+          "⚠️ Artemisininové kombinace (ACT) — dnešní lék volby u P. falciparum",
+          "Chlorochin (⚠️ rozsáhlá rezistence), meflochin (⚠️ neuropsychické NÚ),",
+          "atovakvon/proguanil",
+          "⚠️ PRIMACHIN — likviduje spící formy (hypnozoity) v játrech u P. vivax a ovale",
+          "⚠️ Při deficitu G6PD způsobí hemolýzu → enzym se předem testuje"], "zelena"),
+      ("ANTIHELMINTIKA", [
+          "⚠️ Albendazol, mebendazol — blokují tvorbu mikrotubulů",
+          "(roupi, škrkavky); ⚠️ u roupů léčit celou rodinu a dávku opakovat za 2 týdny",
+          "Pyrantel",
+          "Praziquantel — tasemnice, motolice",
+          "Ivermektin — strongyloidóza, svrab"], "modra"),
+      ("⭐ METRONIDAZOL", [
+          "⚠️ Aktivuje se jen v ANAEROBNÍM prostředí (proto na aeroby nepůsobí)",
+          "Amébóza, giardióza, trichomoniáza",
+          "⚠️ A NAVÍC ANAEROBNÍ BAKTERIE",
+          "⚠️ DISULFIRAMOVÁ REAKCE S ALKOHOLEM",
+          "⚠️ Kovová chuť v ústech, tmavá moč, při dlouhém podávání neuropatie"], "zelena"),
+      ("⚠️ ZUBAŘSKÉ POUŽITÍ METRONIDAZOLU", [
+          "⚠️ Nekrotizující ulcerózní gingivitida",
+          "⚠️ V kombinaci s amoxicilinem u agresivní parodontitidy",
+          "→ pokryje anaeroby, které amoxicilin nezvládne",
+          "⚠️ Pacienta poučit o zákazu alkoholu během léčby a pár dní po ní"], "cervena"),
+  ],
+  mnemo="Metronidazol funguje jen tam, kde není kyslík.",
+  zubar="⚠️ Kombinace amoxicilin + metronidazol je klasické schéma u agresivní "
+        "parodontitidy. ⚠️ Kovová chuť a suchost úst jsou časté a pacienta překvapí.",
+  past="Metronidazol s alkoholem = disulfiramová reakce (nevolnost, zvracení, návaly). "
+       "Pacienta je nutné poučit, ne to považovat za samozřejmé.")
+
+S("91", "Antituberkulotika a antileprotika",
+  jadro="U tuberkulózy platí dvě neměnná pravidla: nikdy monoterapie a nikdy krátce.",
+  tok=[("2 měsíce H R Z E", "zelena"), ("4 měsíce H R", "zelena"),
+       ("⚠️ celkem 6 měsíců", "modra")],
+  karty=[
+      ("PROČ KOMBINACE A DLOUHO", [
+          "Mykobakterie se pomalu dělí",
+          "⚠️ Sedí uvnitř makrofágů a v kaseózních ložiscích",
+          "⚠️ Rychle si vytvoří rezistenci proti jednomu léku",
+          "⚠️ Pacient se cítí dobře po pár týdnech → kontrolované podávání (DOT)",
+          "Nedodržení = multirezistentní tuberkulóza"], "zelena"),
+      ("H — IZONIAZID a R — RIFAMPICIN", [
+          "IZONIAZID: ⚠️ hepatotoxicita, ⚠️ PERIFERNÍ NEUROPATIE",
+          "→ ⚠️ prevence PYRIDOXINEM (vitamin B6)",
+          "⚠️ Acetylace: pomalí metabolizátoři mají vyšší riziko obojího",
+          "RIFAMPICIN: ⚠️ SILNÝ INDUKTOR CYP → selže antikoncepce, warfarin,",
+          "antiretrovirotika, kortikoidy",
+          "⚠️ Oranžová moč, slzy a pot — barví kontaktní čočky"], "cervena"),
+      ("Z — PYRAZINAMID a E — ETHAMBUTOL", [
+          "PYRAZINAMID: ⚠️ hyperurikemie (dna), hepatotoxicita",
+          "ETHAMBUTOL: ⚠️ RETROBULBÁRNÍ NEURITIDA",
+          "→ porucha barvocitu a zrakové ostrosti; nutné oční kontroly",
+          "Streptomycin — historicky první účinné antituberkulotikum"], "cervena"),
+      ("ANTILEPROTIKA", [
+          "Dapson, klofazimin, rifampicin",
+          "⚠️ Také vždy v kombinaci a velmi dlouho (měsíce až roky)",
+          "⚠️ Dapson: hemolýza (zvl. při deficitu G6PD), methemoglobinemie",
+          "Klofazimin: zbarvení kůže"], "modra"),
+  ],
+  mnemo="HRZE: játra, indukce, dna, oči. Každé písmeno má svoji toxicitu.",
+  zubar="⚠️ Pacientka na rifampicinu musí být poučena o náhradní antikoncepci. "
+        "⚠️ Aktivní plicní tuberkulóza je důvod odložit elektivní ošetření a zajistit "
+        "ochranu personálu.",
+  past="Rifampicin je nejsilnější induktor v běžné praxi — sníží hladinu prakticky "
+       "všeho, co pacient bere.")
