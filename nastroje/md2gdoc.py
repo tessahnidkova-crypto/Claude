@@ -62,6 +62,19 @@ def convert(md: str) -> str:
             out.append("".join(t))
             continue
 
+        # kreslené schéma jako inline SVG — musí projít BEZ escapování, jinak by se
+        # vytisklo jako zdrojový kód. Blok začíná `<svg` a končí `</svg>`.
+        if ln.strip().startswith("<svg"):
+            buf = []
+            while i < len(lines):
+                buf.append(lines[i])
+                hotovo = "</svg>" in lines[i]
+                i += 1
+                if hotovo:
+                    break
+            out.append("\n".join(buf))
+            continue
+
         # schéma v ```blocích``` — kreslené diagramy a rozhodovací stromy.
         # Bez tohohle by se vytiskly jako běžný text a ztratilo by se zarovnání.
         if ln.strip().startswith("```"):
