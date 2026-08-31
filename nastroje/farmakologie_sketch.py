@@ -3101,3 +3101,424 @@ S("91", "Antituberkulotika a antileprotika",
         "ochranu personálu.",
   past="Rifampicin je nejsilnější induktor v běžné praxi — sníží hladinu prakticky "
        "všeho, co pacient bere.")
+
+S("92", "Antimykotika",
+  jadro="Houba je eukaryotická buňka jako naše — zachraňuje nás jediný rozdíl: "
+        "v membráně má ERGOSTEROL, ne cholesterol.",
+  karty=[
+      ("MEMBRÁNA — polyeny a azoly", [
+          "POLYENY: amfotericin B, ⚠️ NYSTATIN — vážou se na ergosterol → díra v membráně",
+          "⚠️ Amfotericin B „amphoterrible\": nefrotoxicita, horečka a třesavka",
+          "při infuzi; lipidové formy jsou snesitelnější",
+          "AZOLY: flukonazol, itrakonazol, vorikonazol, ⚠️ klotrimazol, MIKONAZOL",
+          "⚠️ Blokují 14-α-demetylázu → ergosterol se nevyrobí"], "zelena"),
+      ("⚠️ INTERAKCE AZOLŮ", [
+          "⚠️ Silné INHIBITORY CYP → zvyšují hladinu warfarinu, statinů,",
+          "cyklosporinu, benzodiazepinů",
+          "⚠️ PAST: i LOKÁLNÍ MIKONAZOLOVÝ GEL v ústech se vstřebá natolik,",
+          "že zvýší účinek warfarinu → reálné riziko krvácení",
+          "⚠️ Prodloužení QT (hlavně vorikonazol)"], "cervena"),
+      ("STĚNA a další", [
+          "⚠️ ECHINOKANDINY (kaspofungin, anidulafungin) — blokují syntézu β-glukanu",
+          "⚠️ Buněčnou stěnu člověk nemá vůbec → nejlépe snášená skupina",
+          "Terbinafin — skvalenepoxidáza; ⚠️ onychomykóza (hromadí se v keratinu)",
+          "Flucytosin (s amfotericinem u kryptokokové meningitidy), griseofulvin"], "modra"),
+      ("⚠️ ORÁLNÍ KANDIDÓZA — zubařsky", [
+          "Nystatinová suspenze nebo mikonazolový gel lokálně",
+          "Flukonazol systémově u rozsáhlých a recidivujících forem",
+          "⚠️ VŽDY HLEDAT PŘÍČINU: inhalační kortikoid bez výplachu úst,",
+          "⚠️ protéza (musí se dezinfikovat, jinak reinfekce), xerostomie,",
+          "diabetes, imunosuprese, antibiotika",
+          "⚠️ Opakovaná kandidóza u zdánlivě zdravého = varovný příznak"], "cervena"),
+  ],
+  mnemo="Ergosterol místo cholesterolu. To je celá selektivita antimykotik.",
+  zubar="⚠️ Orální kandidóza je v ordinaci častá. Léčba bez odstranění příčiny "
+        "(protéza, inhalátor, suchá ústa) se vždycky vrátí. ⚠️ U antikoagulovaného "
+        "pacienta pozor i na lokální mikonazol.",
+  past="Opakovaná kandidóza bez zjevné příčiny může být první známkou nepoznaného "
+       "diabetu nebo imunodeficitu.")
+
+S("93", "Antivirotika",
+  jadro="Virus se množí uvnitř naší buňky a používá její aparát — proto je tady "
+        "selektivní toxicita nejtěžší. Aciklovir to řeší nejelegantněji.",
+  tok=[("ACIKLOVIR neaktivní proléčivo", "zelena"),
+       ("⚠️ VIROVÁ THYMIDINKINÁZA ho fosforyluje", "cervena"),
+       ("buněčné kinázy dokončí", "bila"), ("blokuje virovou DNA-polymerázu", "zelena")],
+  karty=[
+      ("HERPETICKÉ VIRY", [
+          "⚠️ Aciklovir — v neinfikované buňce zůstane neaktivní a neškodný",
+          "Valaciklovir (⚠️ lépe se vstřebává), famciklovir",
+          "⚠️ Ganciklovir a valganciklovir — cytomegalovirus; ⚠️ útlum kostní dřeně",
+          "Foskarnet, cidofovir — rezerva; ⚠️ nefrotoxické"], "zelena"),
+      ("CHŘIPKA a COVID", [
+          "⚠️ Oseltamivir, zanamivir — inhibitory neuraminidázy",
+          "⚠️ Účinné jen při podání DO 48 HODIN od začátku příznaků",
+          "Baloxavir",
+          "Remdesivir, nirmatrelvir/ritonavir (⚠️ ritonavir jako booster)"], "modra"),
+      ("HEPATITIDY", [
+          "Hepatitida B: tenofovir, entekavir — potlačují, nevyléčí",
+          "⚠️ Hepatitida C: přímo působící antivirotika (sofosbuvir a kombinace)",
+          "⚠️ Vyléčí přes 95 % pacientů — jeden z největších obratů ve farmakoterapii",
+          "Interferony — dnes okrajově"], "bila"),
+      ("⚠️ ZUBAŘSKY", [
+          "⚠️ Primární herpetická gingivostomatitida u dětí a herpes labialis",
+          "⚠️ Aciklovir má smysl jen když se začne VELMI BRZY, ideálně v prodromu",
+          "⚠️ Na herpetickou lézi v ústech NIKDY kortikoid",
+          "⚠️ Riziko pro personál: herpetické panaricium (whitlow) na prstu",
+          "→ neakutní ošetření odložit, jinak přísná bariérová ochrana"], "cervena"),
+  ],
+  mnemo="Aciklovir aktivuje sám virus. Zdravá buňka na to nemá enzym.",
+  zubar="⚠️ Herpetická gingivostomatitida u dítěte je bolestivá a vede k odmítání "
+        "jídla a pití — hlavní je hydratace a analgezie; aciklovir jen při časném začátku.",
+  past="Antivirotika obvykle nevyléčí, ale potlačí — virus přetrvává v latentní formě "
+       "(herpes v gangliích), kde není replikace, kterou by šlo zasáhnout.")
+
+S("94", "Antiretrovirotika",
+  jadro="HIV se léčí vždy kombinací tří léků ze dvou tříd — virus mutuje tak rychle, "
+        "že proti jednomu léku vytvoří rezistenci během týdnů.",
+  tok=[("VSTUP maravirok", "bila"), ("PŘEPIS RNA→DNA NRTI, NNRTI", "bila"),
+       ("VLOŽENÍ DO DNA ⚠️ inhibitory integrázy", "zelena"),
+       ("DOZRÁVÁNÍ inhibitory proteázy", "bila")],
+  karty=[
+      ("TŘÍDY LÉKŮ", [
+          "NRTI: tenofovir, emtricitabin, lamivudin, ⚠️ abakavir (HLA-B*5701 se TESTUJE),",
+          "zidovudin (⚠️ anemie)",
+          "NNRTI: efavirenz, doravirin, rilpivirin",
+          "⚠️ Inhibitory integrázy: dolutegravir, bictegravir, raltegravir — dnešní základ",
+          "Inhibitory proteázy: darunavir, atazanavir (⚠️ + ritonavir jako booster)",
+          "Inhibitory vstupu: maravirok, enfuvirtid"], "zelena"),
+      ("⚠️ RITONAVIR JAKO BOOSTER", [
+          "Dnes se nepoužívá jako lék, ale jako zesilovač",
+          "⚠️ Je silný inhibitor CYP3A4",
+          "→ schválně zpomalí odbourávání hlavního léku",
+          "⚠️ Nežádoucí vlastnost využitá záměrně",
+          "⚠️ Znamená to ale obrovské množství interakcí"], "modra"),
+      ("NEŽÁDOUCÍ ÚČINKY", [
+          "⚠️ Inhibitory proteázy: lipodystrofie, dyslipidemie, inzulinová rezistence",
+          "⚠️ Abakavir: hypersenzitivní reakce (HLA-B*5701)",
+          "Tenofovir: nefrotoxicita, úbytek kostní denzity",
+          "Efavirenz: neuropsychické projevy, živé sny",
+          "⚠️ Laktátová acidóza u starších NRTI"], "cervena"),
+      ("⚠️ PREVENCE A PRAXE", [
+          "⚠️ U = U: nedetekovatelná virová nálož = NEPŘENOSNÝ",
+          "PrEP — preventivní užívání u rizikových osob",
+          "⚠️ PEP — postexpoziční profylaxe DO 72 HODIN, ideálně dřív",
+          "⚠️ Po poranění: nechat ránu krvácet, opláchnout, dezinfikovat,",
+          "nahlásit, odběry, zvážit PEP"], "cervena"),
+  ],
+  mnemo="Tři léky ze dvou tříd. Jeden lék = rezistence za pár týdnů.",
+  zubar="⚠️ K HIV pozitivnímu pacientovi se chováme STANDARDNĚ — bariérová opatření "
+        "platí u všech stejně, protože o většině infekcí se neví. ⚠️ Postexpoziční "
+        "profylaxe po poranění kontaminovanou jehlou co nejdřív.",
+  past="HIV se nedá vyléčit, protože virová DNA je vložená do genomu klidových buněk "
+       "(latentní rezervoár), kam žádný lék nedosáhne.")
+
+S("95", "Antitusika, mukolytika, expektorancia",
+  jadro="Antitusikum a mukolytikum se navzájem vylučují — rozředíš hlen a zároveň "
+        "potlačíš kašel, kterým by se měl dostat ven.",
+  karty=[
+      ("ANTITUSIKA — jen na SUCHÝ kašel", [
+          "Centrální opioidní: kodein, dihydrokodein (⚠️ návykové, tlumí dech, zácpa)",
+          "⚠️ BUTAMIRÁT — nenávykový, dnes běžnější",
+          "Dextrometorfan — ⚠️ ve vyšších dávkách zneužívaný jako disociativní droga",
+          "Periferní: levodropropizin"], "cervena"),
+      ("MUKOLYTIKA — na PRODUKTIVNÍ kašel", [
+          "⚠️ N-ACETYLCYSTEIN — štěpí disulfidové můstky v hlenu",
+          "⚠️ Tentýž lék je antidotem otravy paracetamolem",
+          "Ambroxol, bromhexin, erdostein",
+          "⚠️ DORNÁZA ALFA u cystické fibrózy — štěpí DNA z rozpadlých leukocytů"], "zelena"),
+      ("EXPEKTORANCIA", [
+          "Guaifenesin, saponiny, jodidy",
+          "Zvyšují objem a řídkost sekretu",
+          "⚠️ Evidence je slabá — základem je dostatek tekutin a vlhký vzduch"], "bila"),
+      ("⚠️ PRAKTICKÁ PRAVIDLA", [
+          "⚠️ Nekombinovat antitusikum s mukolytikem",
+          "⚠️ Kašel je obranný reflex — potlačovat jen když je vysilující a neproduktivní",
+          "⚠️ Dlouhý suchý kašel: pomysli na ACE INHIBITOR (nejčastější léková příčina)",
+          "dále astma, reflux; ⚠️ u kuřáka vždy vyloučit nádor"], "cervena"),
+  ],
+  mnemo="Suchý kašel utlum. Produktivní rozřeď. Nikdy obojí najednou.",
+  zubar="⚠️ Sirupy proti kašli obsahují cukr — při dlouhodobém užívání u dětí to má "
+        "dopad na kazivost. Doporuč vypláchnout ústa.",
+  past="N-acetylcystein má dvě zcela různá použití: mukolytikum a antidotum "
+       "paracetamolu — mechanismus je přitom u obou jiný.")
+
+S("96", "Antiastmatika",
+  jadro="Astma je chronický ZÁNĚT. Proto základem léčby není bronchodilatátor, "
+        "ale inhalační kortikoid.",
+  karty=[
+      ("ÚLEVOVÁ LÉČBA — podle potřeby", [
+          "SABA: salbutamol, fenoterol, terbutalin",
+          "SAMA: ipratropium",
+          "Systémový kortikoid u exacerbace",
+          "⚠️ Rostoucí spotřeba úlevového inhalátoru = varovný signál",
+          "špatně kontrolovaného astmatu"], "cervena"),
+      ("⭐ KONTROLUJÍCÍ LÉČBA — denně", [
+          "⭐ INHALAČNÍ KORTIKOIDY (budesonid, flutikason, beklometason) = ZÁKLAD",
+          "⚠️ LABA (formoterol, salmeterol) — NIKDY samostatně, zvyšuje úmrtnost",
+          "→ vždy fixní kombinace s kortikoidem",
+          "LAMA (tiotropium), antileukotrieny (montelukast), teofylin",
+          "⚠️ Biologika u těžkého astmatu: omalizumab (anti-IgE), mepolizumab, dupilumab"], "zelena"),
+      ("⚠️ ZUBAŘSKÝ PŘESAH", [
+          "⚠️ Inhalační kortikoid → ORÁLNÍ KANDIDÓZA a chrapot",
+          "→ ⚠️ po každé inhalaci vypláchnout ústa, používat nástavec (spacer)",
+          "⚠️ Astmatik má mít svůj inhalátor v ordinaci u sebe",
+          "⚠️ NSA jsou u Samterovy triády kontraindikovaná → paracetamol",
+          "⚠️ Sladké nápoje, kterými si pacient splachuje sucho v ústech → kaz"], "cervena"),
+      ("SROVNÁNÍ S CHOPN", [
+          "⚠️ U CHOPN jsou základem bronchodilatátory (LAMA, LABA)",
+          "Kortikoid se přidává jen u části pacientů (eozinofilní fenotyp, exacerbace)",
+          "Zánět je jiného typu",
+          "⚠️ Betablokátory jsou u astmatu kontraindikované — i z očních kapek"], "modra"),
+  ],
+  mnemo="Zánět dole kortikoidem. Bronchodilatátor jen uleví.",
+  zubar="⚠️ Před ošetřením astmatika: ověř, kdy naposledy měl záchvat, ať má inhalátor "
+        "u sebe, minimalizuj stres. ⚠️ Po výkonu paracetamol, ne NSA, pokud není jistota, "
+        "že je snáší.",
+  past="LABA bez kortikoidu u astmatu zvyšuje úmrtnost — proto se prodává jen "
+       "ve fixních kombinacích.")
+
+S("97", "Antihistaminika",
+  jadro="Celá otázka stojí na jediné vlastnosti: jestli lék projde do mozku, nebo ne.",
+  karty=[
+      ("I. GENERACE", [
+          "Bisulepin, prometazin, difenhydramin, ⚠️ HYDROXYZIN",
+          "⚠️ Prochází do mozku → SEDACE",
+          "⚠️ Anticholinergní účinky → XEROSTOMIE, zácpa, retence moči, rozmazané vidění",
+          "Využití: kinetóza, nevolnost, svědění, navození spánku, premedikace",
+          "⚠️ Nevhodné pro řidiče; ⚠️ u seniorů zhoršují kognici"], "cervena"),
+      ("II. GENERACE", [
+          "Cetirizin, loratadin, desloratadin, bilastin, fexofenadin",
+          "⚠️ NEprochází do mozku → bez sedace a bez sucha v ústech",
+          "⭐ Běžná léčba alergické rýmy, kopřivky, atopického ekzému",
+          "⚠️ Některá starší (terfenadin) byla stažena kvůli prodloužení QT"], "zelena"),
+      ("⚠️ CO ANTIHISTAMINIKUM NEUMÍ", [
+          "⚠️ NESTAČÍ NA ANAFYLAXI",
+          "⚠️ Tam je lékem první volby ADRENALIN i.m.",
+          "Antihistaminikum a kortikoid jsou jen doplněk a působí pozdě",
+          "⚠️ Tohle je klasická zkoušková past"], "cervena"),
+      ("HISTAMIN A JEHO RECEPTORY", [
+          "H1 — alergie, svědění, bronchokonstrikce, vazodilatace",
+          "⚠️ H2 — sekrece žaludeční kyseliny (famotidin patří k vředu, ne k alergii)",
+          "H3 — CNS, presynaptická regulace · H4 — imunitní buňky",
+          "Histamin se uvolňuje ze žírných buněk a bazofilů"], "modra"),
+  ],
+  mnemo="I. generace uspí a vysuší. II. generace ne. To je celý rozdíl.",
+  zubar="⚠️ Pacient, který roky bere antihistaminikum I. generace, má chronickou "
+        "xerostomii → vyšší kazivost. ⚠️ Hydroxyzin se používá v premedikaci "
+        "u úzkostných pacientů (je zároveň anxiolytikum a antiemetikum).",
+  past="Blokátory H2 (famotidin) nejsou léky na alergii — působí na jiném receptoru "
+       "a v jiném orgánu.")
+
+S("98", "Laxativa, antidiaroika",
+  jadro="Laktulóza ukazuje iontovou past podruhé: okyselí střevo, promění amoniak "
+        "v nabitý iont a ten už neprojde zpět.",
+  tok=[("LAKTULÓZA se rozloží na kyseliny", "zelena"), ("obsah střeva se OKYSELÍ", "bila"),
+       ("NH₃ + H⁺ → ⚠️ NH₄⁺ (nabitý)", "cervena"), ("amoniak odejde stolicí", "zelena")],
+  karty=[
+      ("LAXATIVA PODLE MECHANISMU", [
+          "Objemová: psyllium, otruby — ⚠️ nutný dostatek tekutin, jinak škodí",
+          "Osmotická: laktulóza, makrogol, síran hořečnatý",
+          "⚠️ Stimulační: bisakodyl, senna — ⚠️ ne dlouhodobě (ztráta kalia, návyk)",
+          "Změkčující: parafinový olej, dokusát",
+          "Cílená: ⚠️ methylnaltrexon u opioidové zácpy, prukaloprid"], "zelena"),
+      ("ANTIDIAROIKA", [
+          "⚠️ ZÁKLAD JE REHYDRATACE (perorální rehydratační roztok)",
+          "⚠️ LOPERAMID — opioid, který nepřechází do mozku",
+          "⚠️ KONTRAINDIKOVANÝ u horečnaté a krvavé dysenterie a u C. difficile",
+          "→ zadržel by toxiny; hrozí toxické megakolon",
+          "Diosmektit, aktivní uhlí, probiotika, racekadotril"], "cervena"),
+      ("PRAKTICKÉ ZÁSADY", [
+          "⚠️ U opioidů se laxativum nasazuje SOUČASNĚ, ne až vznikne zácpa",
+          "(zácpa se nikdy nevytoleruje)",
+          "Průjem je obranný mechanismus — zastavovat jen s rozmyslem",
+          "Zácpa: nejdřív režim (vláknina, tekutiny, pohyb), pak lék",
+          "⚠️ Vyloučit organickou příčinu (nádor) u nové zácpy u staršího pacienta"], "modra"),
+      ("⚠️ ZUBAŘSKY", [
+          "⚠️ Antacida a přípravky s hořčíkem a hliníkem CHELATUJÍ antibiotika",
+          "(tetracykliny, chinolony) — odstup nejméně 2 hodiny",
+          "Chronické průjmy → malnutrice, deficity vitaminů → horší hojení",
+          "a slizniční projevy v ústech"], "bila"),
+  ],
+  mnemo="Kyselé střevo uvězní amoniak jako NH₄⁺. Iontová past podruhé.",
+  zubar="⚠️ Pacient na opioidech po výkonu musí dostat i laxativum — a musí být "
+        "poučen, že zácpa neodezní sama.",
+  past="Loperamid u klostridiové kolitidy může vyvolat toxické megakolon — "
+       "u krvavého a horečnatého průjmu se nepodává.")
+
+S("99", "Farmakoterapie vředové choroby a GERD",
+  jadro="Vřed má dnes dvě hlavní příčiny — Helicobacter pylori a NSA. Tlumení "
+        "kyseliny je jen půlka práce.",
+  tok=[("PPI je PROLÉČIVO", "zelena"), ("⚠️ aktivuje se v KYSELÉM prostředí", "cervena"),
+       ("⚠️ blokuje H⁺/K⁺-ATPázu IREVERZIBILNĚ", "zelena"),
+       ("⚠️ proto 30 min PŘED jídlem", "cervena")],
+  karty=[
+      ("INHIBITORY PROTONOVÉ PUMPY", [
+          "Omeprazol, pantoprazol, esomeprazol, lansoprazol",
+          "⚠️ Proléčivo aktivované až v kyselém prostředí u pumpy",
+          "⚠️ Ireverzibilní blokáda → účinek přetrvává, i když lék z krve zmizí",
+          "⚠️ Užívat 30 minut PŘED jídlem — pumpa musí být aktivní",
+          "⚠️ Plný efekt až za několik dní"], "zelena"),
+      ("⚠️ NÚ DLOUHODOBÉ LÉČBY PPI", [
+          "⚠️ Hypomagnezemie",
+          "⚠️ Deficit vitaminu B12 a železa",
+          "⚠️ Osteoporóza a zlomeniny",
+          "⚠️ Vyšší riziko střevních infekcí včetně C. difficile",
+          "⚠️ OMEPRAZOL snižuje účinnost KLOPIDOGRELU (blokuje CYP2C19)",
+          "→ u kardiaka volit pantoprazol"], "cervena"),
+      ("DALŠÍ LÉČBA", [
+          "H2 blokátory: famotidin (slabší, rychlejší nástup)",
+          "⚠️ Antacida — jen symptomaticky; hydroxid hlinitý = zácpa,",
+          "hořečnatý = průjem; ⚠️ chelatují jiné léky",
+          "Sukralfát, bismut — ochranný film",
+          "⚠️ Eradikace H. pylori: PPI + amoxicilin + klarithromycin 10–14 dní,",
+          "kvadruterapie s bismutem [⚠️ ověřit schéma dle skript]"], "modra"),
+      ("⚠️ ZUBAŘSKY — REFLUX A EROZE", [
+          "⚠️ Kyselina se dostává do úst a rozpouští sklovinu",
+          "⚠️ Typicky na PALATINÁLNÍCH plochách horních zubů",
+          "Pacient bývá bez pálení žáhy (němý reflux) — zubař to odhalí první",
+          "⚠️ Po epizodě refluxu se nemá hned čistit zuby (změklá sklovina)",
+          "→ nejdřív vypláchnout, čistit až za 30 minut"], "cervena"),
+  ],
+  mnemo="Proléčivo aktivované kyselinou. Proto se bere před jídlem, ne po něm.",
+  zubar="⚠️ Eroze na patrových plochách horních frontálních zubů = podezření na "
+        "reflux nebo bulimii. Je to nález, se kterým má zubař odeslat k internistovi.",
+  past="Pacienti berou PPI po jídle nebo na noc — tím se účinek výrazně sníží.")
+
+S("100", "Prokinetika, antiemetika, emetika",
+  jadro="Antiemetikum se vybírá podle toho, který receptor zvracení v dané situaci "
+        "spouští — ne podle intenzity zvracení.",
+  karty=[
+      ("PODLE PŘÍČINY A RECEPTORU", [
+          "⚠️ Chemoterapie → 5-HT3: ONDANSETRON (+ dexamethason, aprepitant)",
+          "Kinetóza → M a H1: skopolamin, prometazin",
+          "Gastrostáza a migréna → D2: metoklopramid, itoprid",
+          "⚠️ Parkinsonik → DOMPERIDON (neprochází do mozku)",
+          "Anticipační zvracení → benzodiazepin"], "zelena"),
+      ("⚠️ METOKLOPRAMID — dvě pasti", [
+          "Je to blokátor D2 → ⚠️ může vyvolat EXTRAPYRAMIDOVÉ příznaky",
+          "⚠️ Zejména AKUTNÍ DYSTONII u mladých lidí (křeč krku a očí)",
+          "→ řeší se biperidenem",
+          "⚠️ Proto maximálně 5 dní",
+          "⚠️ U parkinsonika je kontraindikovaný"], "cervena"),
+      ("MECHANISMUS ZVRACENÍ", [
+          "Centrum zvracení v prodloužené míše",
+          "⚠️ Area postrema (chemorecepční spouštěcí zóna) — leží MIMO",
+          "hematoencefalickou bariéru → „ochutnává\" krev",
+          "Vstupy: vestibulární aparát, GIT (vagus, serotonin), kůra, chemoreceptory",
+          "⚠️ Po chemoterapii se ze zraněné střevní sliznice vyplaví serotonin"], "modra"),
+      ("PROKINETIKA a EMETIKA", [
+          "Metoklopramid, itoprid, domperidon (⚠️ prodlužuje QT)",
+          "⚠️ Erythromycin jako prokinetikum (motilinový receptor)",
+          "⚠️ EMETIKA (ipekakuanha) se dnes NEPOUŽÍVAJÍ",
+          "→ riziko aspirace a zdržení účinné léčby je větší než přínos",
+          "Apomorfin — jen výjimečně"], "bila"),
+  ],
+  mnemo="Chemoterapie = serotonin. Kinetóza = histamin a acetylcholin. Žaludek = dopamin.",
+  zubar="⚠️ Pooperační nevolnost po sedaci: ondansetron. ⚠️ Metoklopramid u mladé "
+        "pacientky může vyvolat dramaticky vypadající dystonii — vědět o tom a nezaměnit "
+        "ji za alergickou reakci.",
+  past="U migrény se metoklopramid nedává jen proti nevolnosti, ale hlavně proto, "
+       "aby se analgetikum vůbec vstřebalo.")
+
+S("101", "Farmakoterapie nespecifických střevních zánětů",
+  jadro="Léčba má dvě fáze, které se nesmí zaměnit: navození remise a její udržení. "
+        "Kortikoidy patří jen do té první.",
+  karty=[
+      ("NAVOZENÍ REMISE", [
+          "Kortikoidy — ⚠️ BUDESONID má vysoký first-pass efekt",
+          "→ působí ve střevě a systémově z něj zůstane málo → méně NÚ",
+          "Aminosalicyláty: mesalazin, sulfasalazin — ⚠️ hlavně u ulcerózní kolitidy",
+          "⚠️ Kortikoid JEN sem — na udržení nikdy"], "zelena"),
+      ("UDRŽENÍ REMISE", [
+          "Imunosupresiva: ⚠️ AZATHIOPRIN (⚠️ před nasazením testovat TPMT),",
+          "methotrexát",
+          "⚠️ Biologika: infliximab, adalimumab (anti-TNF), vedolizumab, ustekinumab",
+          "Aminosalicyláty u ulcerózní kolitidy",
+          "⚠️ Kortikoid remisi neudrží a dlouhodobě způsobí osteoporózu,",
+          "diabetes, infekce a kataraktu"], "modra"),
+      ("⚠️ PŘED BIOLOGIKY", [
+          "⚠️ Povinný SCREENING TUBERKULÓZY a hepatitid",
+          "⚠️ TNF-α drží pohromadě granulom — zablokuješ ho a granulom se rozpadne",
+          "→ latentní tuberkulóza propukne",
+          "⚠️ Žádné živé vakcíny během léčby",
+          "Vyšší riziko infekcí a (méně jasně) nádorů"], "cervena"),
+      ("⚠️ ZUBAŘSKY", [
+          "⚠️ Aftózní léze v ústech mohou být projevem Crohnovy choroby",
+          "(i „dlažební\" vzhled sliznice, otok rtů)",
+          "⚠️ Imunosuprimovaný pacient: vyšší riziko infekcí, horší hojení",
+          "⚠️ Paradox: kouření zhoršuje Crohnovu chorobu, ale u ulcerózní kolitidy",
+          "má zdánlivě ochranný vliv — přesto se nikdy nedoporučuje"], "bila"),
+  ],
+  mnemo="Kortikoid remisi NAVODÍ, ale NEUDRŽÍ.",
+  zubar="⚠️ Recidivující afty a otok rtů u mladého pacienta s průjmy a hubnutím — "
+        "pomysli na Crohnovu chorobu a odešli k gastroenterologovi.",
+  past="Budesonid není „slabší kortikoid\" — je stejně silný, jen se z velké části "
+       "zlikviduje v játrech, takže se do těla dostane málo.")
+
+S("102", "Spasmolytika",
+  jadro="Dvě cesty k témuž hladkému svalu: přerušit nervový signál, nebo působit "
+        "přímo na sval. Liší se hlavně kontraindikacemi.",
+  karty=[
+      ("NEUROTROPNÍ (anticholinergní)", [
+          "⚠️ BUTYLSKOPOLAMIN, atropin",
+          "Blokují muskarinové receptory → přeruší signál ke svalu",
+          "⚠️ Butylskopolamin je kvartérní → neprojde do mozku, málo systémových NÚ",
+          "⚠️ Platí ale anticholinergní kontraindikace: glaukom s úzkým úhlem,",
+          "hyperplazie prostaty s retencí, ileus, myasthenia gravis"], "cervena"),
+      ("MYOTROPNÍ (přímo na sval)", [
+          "Papaverin, ⚠️ DROTAVERIN, mebeverin",
+          "⚠️ Inhibice fosfodiesterázy → ↑ cAMP → uvolnění hladkého svalu",
+          "(papaverin je vlastně první inhibitor fosfodiesterázy)",
+          "⚠️ Bez anticholinergních nežádoucích účinků → vhodné i u glaukomu"], "zelena"),
+      ("INDIKACE", [
+          "Žlučová a ledvinná kolika",
+          "Střevní křeče, dráždivý tračník",
+          "Dysmenorea",
+          "⚠️ U kolik se kombinují s analgetikem (metamizol, NSA)"], "modra"),
+      ("⚠️ POZNÁMKY", [
+          "⚠️ Morfin stahuje Oddiho svěrač → u biliární koliky nikdy bez spazmolytika",
+          "Nitráty působí také spazmolyticky (jícnový spazmus)",
+          "⚠️ Metamizol má analgetický i spazmolytický účinek zároveň",
+          "⚠️ Na zubní bolest spazmolytika nepatří — nejde o hladký sval"], "bila"),
+  ],
+  mnemo="Neurotropní přeruší signál. Myotropní jde rovnou na sval.",
+  zubar="⚠️ Bolest zubu je zánětlivá a nociceptivní — spazmolytikum na ni nezabere. "
+        "Patří sem analgetikum a hlavně ošetření příčiny.",
+  past="Butylskopolamin je bezpečnější než atropin jen v tom, že nejde do mozku — "
+       "periferní anticholinergní kontraindikace platí dál.")
+
+S("103", "Hepatoprotektiva, cholagoga",
+  jadro="U většiny takzvaných hepatoprotektiv je důkaz účinnosti slabý — a je fér "
+        "to říct nahlas.",
+  karty=[
+      ("⭐ CO MÁ DOLOŽENÝ ÚČINEK", [
+          "⚠️ KYSELINA URSODEOXYCHOLOVÁ (UDCA) — primární biliární cholangitida,",
+          "rozpouštění cholesterolových kamenů, cholestáza v graviditě",
+          "→ nahrazuje toxické žlučové kyseliny méně toxickou",
+          "⚠️ N-ACETYLCYSTEIN — otrava paracetamolem",
+          "⚠️ Laktulóza + rifaximin — jaterní encefalopatie",
+          "Ornithin-aspartát — podpora přeměny amoniaku na močovinu"], "zelena"),
+      ("SLABÁ EVIDENCE", [
+          "Silymarin (ostropestřec mariánský)",
+          "Esenciální fosfolipidy",
+          "Ademetionin",
+          "⚠️ Nejsou škodlivé, ale NENAHRADÍ odstranění příčiny",
+          "⚠️ Nejúčinnější „hepatoprotektivum\" u alkoholika je ABSTINENCE"], "cervena"),
+      ("CHOLAGOGA", [
+          "Choleretika — zvyšují tvorbu žluči",
+          "Cholekinetika — vyvolávají vyprázdnění žlučníku",
+          "⚠️ Kontraindikovaná u obstrukce žlučových cest",
+          "Většinou rostlinné přípravky s omezenou evidencí"], "modra"),
+      ("⚠️ PACIENT S JATERNÍM POSTIŽENÍM", [
+          "⚠️ Snížená metabolická kapacita → kumulace léků",
+          "⚠️ Nízký albumin → vyšší volná frakce",
+          "⚠️ Snížená tvorba koagulačních faktorů → KRVÁCIVOST",
+          "⚠️ Paracetamol v redukované dávce, NSA raději vůbec",
+          "⚠️ Encefalopatie: bílkoviny se dnes paušálně neomezují"], "cervena"),
+  ],
+  mnemo="UDCA a N-acetylcystein fungují. Zbytek je hlavně naděje.",
+  zubar="⚠️ Pacient s cirhózou: krvácivost (nízké faktory i destičky), horší hojení, "
+        "⚠️ opatrně s paracetamolem, ⚠️ NSA nedávat. Před extrakcí zvaž koagulační vyšetření.",
+  past="Silymarin nenahradí abstinenci ani léčbu hepatitidy — u alkoholika je "
+       "abstinence jediná intervence s prokázaným efektem.")
