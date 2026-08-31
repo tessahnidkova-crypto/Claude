@@ -24,3 +24,4 @@ Zapisuje se přes `/session-close`. Živý rozpracovaný stav sem NEPATŘÍ — 
 2026-08-31 — Farmakologie: OBRAZKY-VSE (46 str., 136 kreslenych schemat, 1 na otazku). Novy nastroj nastroje/schemata.py + gen_obrazky.py; md2gdoc umi inline SVG.
 2026-08-31 — Farmakologie: SKETCHNOTES (136 stran, 1 kreslena strana na otazku, cela otazka vcetne deleni, NU, pasti, zubarskeho presahu a mnemotechniky). Novy nastroj nastroje/sketch.py (rucne kresleny styl: jitterovane tahy, zvyraznovac) + gen_sketch.py.
 2026-08-31 — Farmakologie: mluvena verze slouceena po castech — SPECKA1-mluvena.pdf (36-88, 69 str.) a SPECKA2-mluvena.pdf (89-136, 83 str.), obe se zalozkami.
+2026-08-31 — Farmakologie: TAHACKY.pdf — kapesni karticky, 136 karet (95x68 mm), 8 na list A4, 17 listu. Obsah se automaticky zhustuje ze sketchnot (nastroje/gen_tahaky.py); S() ve farmakologie_sketch.py nove uklada i strukturovana data (DATA).

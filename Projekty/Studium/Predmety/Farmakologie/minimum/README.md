@@ -76,6 +76,22 @@ modrá = klinika · bílá = neutrální výčet.
 Zdroj je `nastroje/farmakologie_sketch.py`; přegeneruje se příkazem
 `python3 nastroje/gen_sketch.py`.
 
+### ✂️ TAHACKY — kapesní kartičky k vytištění
+
+| Soubor | Otázky | Listů |
+|---|---|---|
+| **`TAHACKY.pdf`** | **všech 136** (1 otázka = 1 kartička) | **17** listů A4, 8 karet na list |
+
+Karta má zhruba **95 × 68 mm** — vejde se do kapsy i do pouzdra. Na každé je:
+**číslo a název · jádro otázky (žlutě) · mechanismus jako šipkový řetěz (zeleně) ·
+až sedm bodů, přednostně pastí a nežádoucích účinků · 🔑 mnemotechnika · 🦷 zubařský přesah.**
+
+⚠️ **Tisk:** jednostranně, **měřítko 100 %** (ne „přizpůsobit stránce" — jinak se
+posunou střihové linky). Rozstříhat po čárkovaných linkách.
+
+Obsah se **automaticky zhušťuje** ze sketchnot, takže oprava ve `farmakologie_sketch.py`
+se promítne i sem. Přegeneruje se příkazem `python3 nastroje/gen_tahaky.py`.
+
 ### 🖼 OBRAZKY-VSE — rychlý přelet
 
 | Soubor | Otázky | Stran |

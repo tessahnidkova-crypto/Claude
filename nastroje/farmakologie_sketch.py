@@ -20,9 +20,11 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from sketch import sketchnote  # noqa: E402
 
 O = []
+DATA = []          # tytéž otázky, ale strukturovaně — z toho se dělají taháčky
 
 
 def S(cislo, nadpis, **kw):
+    DATA.append((cislo, nadpis, kw))
     O.append((cislo, nadpis, sketchnote(cislo, nadpis, **kw)))
 
 
