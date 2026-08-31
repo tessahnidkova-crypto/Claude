@@ -2248,16 +2248,13 @@ interagují s azoly, makrolidy a grapefruitem. Cyklosporin navíc působí
 hypertenzi, hirsutismus a **gingivální hyperplazii**; takrolimus je
 neurotoxický a diabetogenní.
 **Antiproliferativní: azathioprin** (před nasazením se vyšetřuje **TPMT**),
-**mykofenolát mofetil** (blokuje inosinmonofosfátdehydrogenázu, tedy syntézu
-purinů v lymfocytech; **teratogenní**) a **metotrexát**.
-**Inhibitory mTOR:** sirolimus, everolimus — nefrotoxické nejsou, ale zhoršují
-hojení a působí dyslipidemii.
-**Biologika:** anti-TNF-α, rituximab, basiliximab, antithymocytární globulin.
+**mykofenolát mofetil** (blokuje syntézu purinů v lymfocytech; **teratogenní**)
+a **metotrexát**. **Inhibitory mTOR:** sirolimus, everolimus — nefrotoxické
+nejsou, ale zhoršují hojení. **Biologika:** anti-TNF-α, rituximab, basiliximab.
 **Imunostimulancia** naopak imunitu posilují: **interferony** (α u hepatitid,
-β u roztroušené sklerózy), **filgrastim (G-CSF)**, **interleukin-2**,
-bakteriální lyzáty a **imunomodulační protinádorová léčba — inhibitory
-kontrolních bodů** (nivolumab, pembrolizumab), jejichž typickým nežádoucím
-účinkem jsou **autoimunitní reakce**.
+β u roztroušené sklerózy), **filgrastim (G-CSF)**, bakteriální lyzáty a
+**inhibitory kontrolních bodů** (nivolumab, pembrolizumab), jejichž typickým
+nežádoucím účinkem jsou **autoimunitní reakce**.
 """)
 
 K("115", "Hormony hypothalamu, hypofýzy, jejich analoga", """
@@ -2271,16 +2268,273 @@ prostaty se kryje antiandrogenem) navodí **chemickou kastraci**. Užívají se
 u **karcinomu prostaty a prsu, endometriózy, myomů a předčasné puberty**.
 **Antagonisté GnRH** (degarelix, cetrorelix) tlumí ihned, bez vzplanutí.
 Pulzní podání GnRH naopak léčí neplodnost.
-**Somatostatin a jeho analoga — oktreotid, lanreotid** tlumí sekreci
-**růstového hormonu**; užívají se u **akromegalie**, neuroendokrinních nádorů
-a krvácení z jícnových varixů. **Růstový hormon (somatropin)** se podává u
-nedostatku u dětí. **Pegvisomant** je antagonista receptoru pro GH.
+**Somatostatinová analoga — oktreotid, lanreotid** tlumí sekreci **růstového
+hormonu**; užívají se u **akromegalie**, neuroendokrinních nádorů a krvácení
+z jícnových varixů. **Somatropin** se podává při nedostatku GH u dětí.
 **Prolaktin** se tlumí **agonisty dopaminu — kabergolinem a bromokriptinem**
 (prolaktinom, potlačení laktace), protože dopamin je fyziologickým inhibitorem
 prolaktinu.
 **Neurohypofýza: oxytocin** vyvolává děložní kontrakce (indukce porodu,
-poporodní atonie) — riziko hyperstimulace a hyponatremie. **Vasopresin a
-desmopresin** působí antidiureticky (**diabetes insipidus**, noční pomočování,
-hemofilie A a von Willebrandova choroba); **terlipresin** u krvácení z varixů
-a hepatorenálního syndromu. **Antagonisté (tolvaptan)** u hyponatremie.
+poporodní atonie). **Vasopresin a desmopresin** působí antidiureticky
+(**diabetes insipidus**, noční pomočování, hemofilie A a von Willebrandova
+choroba); **terlipresin** u krvácení z varixů.
+""")
+
+K("116", "Farmakoterapie onemocnění štítné žlázy", """
+Štítná žláza tvoří **tyroxin (T4)** a **trijodtyronin (T3)**; jejich sekreci
+řídí **TSH** zpětnou vazbou, a proto je **TSH hlavním ukazatelem** úspěšnosti
+léčby.
+**Hypotyreóza — substituce levotyroxinem (L-T4)**. Podává se **jednou denně
+nalačno, 30–60 minut před snídaní**, protože potrava, **železo, vápník,
+antacida a inhibitory protonové pumpy zhoršují jeho vstřebávání**. T4 je
+proléčivo, které se v tkáních dejoduje na účinnější T3, což zajišťuje stabilní
+hladinu. U starších a u ischemické choroby srdeční se začíná **nízkou dávkou**,
+jinak hrozí vyprovokování anginy nebo arytmie. Předávkování se projeví jako
+tyreotoxikóza — tachykardie, hubnutí, osteoporóza, fibrilace síní.
+V graviditě potřeba levotyroxinu **stoupá**.
+**Hypertyreóza — tyreostatika: thiamazol (metimazol)** a **propylthiouracil**
+inhibují **tyreoidální peroxidázu**, tedy jodaci tyrosinu a tvorbu hormonů.
+Účinek nastupuje se zpožděním týdnů, protože se musí vyčerpat zásoba hormonu
+ve žláze. Nejzávažnějším nežádoucím účinkem je **agranulocytóza** — při
+horečce a angíně je nutné okamžitě vyšetřit krevní obraz; dále hepatotoxicita.
+**Propylthiouracil** navíc blokuje periferní konverzi T4 na T3 a je volbou
+v **prvním trimestru gravidity** a u tyreotoxické krize.
+**β-blokátory (propranolol)** rychle tlumí příznaky. **Radiojod (131I)** ničí
+tkáň žlázy a je kontraindikován v graviditě.
+""")
+
+K("117", "Glukokortikoidy, mineralokortikoidy", """
+**Kortikosteroidy** se vážou na nitrobuněčný receptor a mění **přepis genů** —
+odtud jejich pomalý nástup a široké působení. Rozlišují se podle převažujícího
+efektu na **glukokortikoidy** (metabolismus a zánět) a **mineralokortikoidy**
+(sodík a draslík).
+**Glukokortikoidy — hydrokortison, prednison, metylprednisolon, dexametazon**
+(vzestupně podle síly a délky účinku, sestupně podle mineralokortikoidní
+složky). Tlumí zánět a imunitu: potlačují fosfolipázu A2, tvorbu cytokinů a
+migraci leukocytů. **Indikace** jsou široké — autoimunitní a alergická
+onemocnění, astma, transplantace, substituce u Addisonovy nemoci.
+**Nežádoucí účinky odpovídají Cushingovu syndromu:** **hyperglykemie až
+steroidní diabetes**, centrální obezita, **osteoporóza** (prevence vápníkem a
+vitaminem D), svalová atrofie, ztenčení kůže a špatné hojení, žaludeční vřed
+zvláště s NSA, hypertenze, katarakta a glaukom, psychické změny, **zvýšená
+náchylnost k infekcím** a **potlačení růstu u dětí**.
+⚠️ Při podávání delším než dva týdny dojde k **útlumu osy
+hypothalamus–hypofýza–nadledviny**, proto se **nikdy nevysazují náhle**, ale
+postupně; jinak hrozí **akutní adrenální insuficience**. Ze stejného důvodu se
+při zátěži (operace, infekce) dávka **navyšuje**.
+**Mineralokortikoidy — aldosteron, léčebně fludrokortison** zvyšují zpětné
+vstřebávání sodíku a vylučování draslíku; užívají se u Addisonovy nemoci.
+Nadbytek působí **hypertenzi, hypokalemii a metabolickou alkalózu**.
+""")
+
+K("118", "Farmakoterapie obezity", """
+**Obezita** je chronické onemocnění; farmakoterapie je vždy jen **doplňkem
+změny stravy a pohybu**, nikoli náhradou. Indikuje se zpravidla při
+**BMI ≥ 30**, nebo **BMI ≥ 27** s přidruženým onemocněním (diabetes 2. typu,
+hypertenze, spánková apnoe).
+**Agonisté GLP-1 receptoru — liraglutid, semaglutid** (a duální agonista
+GIP/GLP-1 **tirzepatid**) zpomalují vyprazdňování žaludku, zvyšují pocit
+sytosti a působí centrálně na regulaci příjmu potravy; dosahují největšího
+poklesu hmotnosti a zároveň zlepšují glykemii a kardiovaskulární prognózu.
+Nežádoucí jsou **nauzea, zvracení a průjem** (proto se dávka pomalu titruje),
+**riziko pankreatitidy** a cholelitiázy; kontraindikací je **medulární
+karcinom štítné žlázy a syndrom MEN2** v anamnéze.
+**Orlistat** inhibuje **střevní a pankreatickou lipázu**, čímž brání vstřebání
+zhruba třetiny tuku z potravy. Působí jen v lumen střeva. Nežádoucí účinky
+plynou přímo z mechanismu — **steatorea, plynatost, urgence a únik stolice** —
+a zhoršuje vstřebávání **vitaminů rozpustných v tucích** (nutná substituce
+s odstupem).
+**Naltrexon/bupropion** působí centrálně na chuť k jídlu a odměnový systém.
+Dříve užívaná **centrální anorektika (sibutramin, fenfluramin)** byla stažena
+pro kardiovaskulární rizika. Trvale nejúčinnějším postupem u těžké obezity
+zůstává **bariatrická operace**.
+""")
+
+K("119", "Androgeny, anabolické steroidy", """
+**Androgeny** jsou steroidní hormony, jejichž hlavním zástupcem je
+**testosteron**; v cílové tkáni se **5-α-reduktázou** mění na účinnější
+**dihydrotestosteron (DHT)** a aromatázou na **estradiol**. Mají účinky
+**androgenní** (vývoj mužských pohlavních znaků, spermatogeneze) a
+**anabolické** (nárůst svalové hmoty, kostní denzity, erytropoézy).
+**Terapeutickou indikací je hypogonadismus** — substituce testosteronem
+v injekční či transdermální formě; **perorální 17-α-alkylované deriváty jsou
+hepatotoxické**. Dále opožděná puberta a některé formy anemie.
+**Nežádoucí účinky:** akné, **retence sodíku a vody**, polyglobulie s rizikem
+trombózy, dyslipidemie, u mužů **útlum osy hypothalamus–hypofýza–varle**
+s **atrofií varlat a neplodností**, **gynekomastie** (přeměna na estrogeny)
+a růst prostaty. **Kontraindikací je karcinom prostaty a prsu a gravidita**
+(virilizace plodu). U žen **ireverzibilní prohloubení hlasu**, hirsutismus a
+klitoromegalie; u dospívajících **předčasný uzávěr růstových štěrbin**.
+**Anabolické steroidy** (nandrolon, stanozolol, oxandrolon) mají posílenou
+anabolickou složku a jsou **zneužívány ve sportu** v mnohonásobných dávkách —
+navíc hepatotoxicita, agresivita a kardiomyopatie. Jsou na **seznamu dopingu**.
+**Antiandrogeny:** flutamid, bikalutamid, cyproteron; **finasterid a
+dutasterid** (inhibitory 5-α-reduktázy) a **spironolakton**.
+""")
+
+K("120", "Estrogeny, gestageny", """
+**Estrogeny** (estradiol, estron, estriol) a **gestageny** (progesteron) jsou
+ovariální steroidy, které se vážou na nitrobuněčné receptory a mění přepis
+genů. Estrogeny řídí vývoj ženských pohlavních znaků, proliferaci endometria,
+udržují **kostní hmotu** (tlumí osteoklasty) a příznivě ovlivňují lipidy;
+**gestageny** převádějí endometrium do sekreční fáze a udržují graviditu.
+**Indikace estrogenů:** **hormonální substituční terapie (HRT)** u obtížného
+klimakterického syndromu — návaly, urogenitální atrofie; dále hypogonadismus
+a kontracepce.
+⚠️ **U ženy s dělohou se estrogen nikdy nepodává samotný** — nebrzděná
+proliferace vede k **hyperplazii až karcinomu endometria**, proto se vždy
+kombinuje s gestagenem. Po hysterektomii lze podat estrogen samotný.
+**Rizika estrogenů:** **žilní trombembolie** (hlavní riziko), zvýšené riziko
+**karcinomu prsu** při dlouhodobé kombinované HRT, cévní mozková příhoda,
+cholelitiáza, hypertenze a napětí v prsou. **Kontraindikace:** prodělaná
+trombóza, hormonálně dependentní nádor, nejasné děložní krvácení, těžké
+jaterní onemocnění.
+**Gestageny** (medroxyprogesteron, dydrogesteron, drospirenon, levonorgestrel)
+se používají v kontracepci, v HRT jako ochrana endometria, u endometriózy
+a dysfunkčního krvácení.
+**Modulátory: tamoxifen** (SERM — antagonista v prsu, **agonista
+v endometriu**, odtud riziko karcinomu endometria), **raloxifen** u
+osteoporózy a **inhibitory aromatázy** (anastrozol) u karcinomu prsu.
+""")
+
+K("121", "Kontraceptiva", """
+**Hormonální kontracepce** brání otěhotnění třemi současnými mechanismy:
+**potlačením ovulace** (negativní zpětná vazba na FSH a LH), **zahuštěním
+cervikálního hlenu** (neprostupný pro spermie) a **změnou endometria**,
+které se stane nevhodným pro nidaci.
+**Kombinovaná hormonální kontracepce (COC)** obsahuje **estrogen**
+(ethinylestradiol) a **gestagen**. Přináší i nehormonální výhody: pravidelný
+cyklus, slabší a méně bolestivé krvácení, léčbu akné a snížené riziko
+karcinomu ovaria a endometria.
+⚠️ **Hlavním rizikem je žilní trombembolie**, dále infarkt a cévní mozková
+příhoda. **Kontraindikace:** prodělaná trombóza nebo trombofilie,
+**kouření u ženy nad 35 let**, migréna s aurou, nekontrolovaná hypertenze,
+karcinom prsu, těžké jaterní onemocnění a gravidita.
+**Interakce:** **induktory CYP450 — rifampicin, karbamazepin, fenytoin,
+třezalka tečkovaná — snižují účinnost**; totéž průjem a zvracení do několika
+hodin po tabletě.
+**Gestagenní kontracepce** (minipilulka s desogestrelem, depotní injekce,
+implantát, nitroděložní systém s levonorgestrelem) neobsahuje estrogen, a je
+proto vhodná **při kojení a při kontraindikaci estrogenů**; typicky působí
+nepravidelné špinění.
+**Nouzová kontracepce: levonorgestrel** (do 72 hodin) a **ulipristal-acetát**
+(do 120 hodin) odkládají ovulaci — **nepůsobí abortivně** a na již probíhající
+graviditu nemají vliv.
+""")
+
+K("122", "Farmakoterapie benigní hyperplazie prostaty", """
+**Benigní hyperplazie prostaty (BHP)** působí obtíže dvěma složkami:
+**statickou** (objem zvětšené žlázy) a **dynamickou** (napětí hladké svaloviny
+prostaty a hrdla močového měchýře pod vlivem **α1-receptorů**). Z toho
+vycházejí dvě hlavní skupiny léčiv.
+**α1-blokátory — tamsulosin, silodosin** (uroselektivní, α1A),
+**doxazosin, terazosin, alfuzosin** — relaxují hladký sval prostaty a hrdla,
+a tím **rychle, během dní, zmírní obtíže** s močením. Objem prostaty
+neovlivňují a průběh nemoci nezastaví. Nežádoucí je **ortostatická hypotenze
+a závrať** (první dávka na noc), **retrográdní ejakulace** u tamsulosinu a
+**peroperační syndrom plovoucí duhovky (IFIS)** — před operací katarakty je
+nutné oftalmologa upozornit.
+**Inhibitory 5-α-reduktázy — finasterid, dutasterid** blokují přeměnu
+testosteronu na **dihydrotestosteron**, čímž **prostatu skutečně zmenšují**
+a snižují riziko akutní retence moči a nutnosti operace. Účinek nastupuje
+pomalu, **za 3–6 měsíců**. Nežádoucí jsou **poruchy erekce, pokles libida,
+gynekomastie**; snižují hodnotu **PSA přibližně na polovinu**, což se musí
+zohlednit při screeningu karcinomu. Jsou **kontraindikované u žen
+v reprodukčním věku** (teratogenita).
+**Kombinace** obou skupin je účinnější u velké prostaty. Dále **tadalafil**
+a **mirabegron** či anticholinergika při dráždivých příznacích.
+""")
+
+K("123", "Cytostatika", """
+**Cytostatika** ničí rychle se dělící buňky. Z toho plyne jejich zásadní
+omezení: **nízká selektivita** — postihují i zdravé rychle proliferující tkáně,
+tedy **kostní dřeň, sliznice a vlasové folikuly**. Podávají se
+**v kombinačních režimech** s nepřekrývající se toxicitou, v **cyklech**
+s pauzou na regeneraci dřeně.
+**Alkylační látky** (cyklofosfamid, ifosfamid, cisplatina) tvoří kovalentní
+vazby s DNA. Cyklofosfamid působí **hemoragickou cystitidu** (metabolit
+akrolein — prevence **mesnou**), cisplatina je **nefrotoxická, ototoxická a
+silně emetogenní**.
+**Antimetabolity** napodobují stavební látky: **metotrexát** (inhibitor
+dihydrofolátreduktázy — záchrana **leukovorinem**), **5-fluorouracil**,
+**cytarabin**, **6-merkaptopurin**.
+**Rostlinné alkaloidy: vinkristin a vinblastin** blokují polymeraci
+mikrotubulů — vinkristin je **neurotoxický**; **taxany** (paklitaxel) naopak
+mikrotubuly stabilizují.
+**Protinádorová antibiotika: doxorubicin a daunorubicin** interkalují do DNA
+a inhibují topoizomerázu II; typická je **kumulativní kardiomyopatie**.
+**Bleomycin** působí **plicní fibrózu**. **Inhibitory topoizomerázy:**
+etoposid, irinotekan.
+**Společné nežádoucí účinky:** **myelosuprese** (febrilní neutropenie —
+G-CSF), **mukozitida a stomatitida**, nauzea a zvracení (setrony, aprepitant,
+dexametazon), alopecie, neplodnost, **syndrom nádorového rozpadu** (hydratace,
+allopurinol, rasburikáza) a sekundární malignity.
+""")
+
+K("124", "Farmakoterapie anemií", """
+**Anemie se nikdy neléčí naslepo** — nejprve je nutné určit příčinu, protože
+každý typ vyžaduje jiný lék a například podání železa u anemie z jiné příčiny
+škodí.
+**Sideropenická anemie (mikrocytární, hypochromní)** je nejčastější.
+Léčí se **perorálním železem** — síran, fumarát nebo glukonát železnatý.
+Vstřebává se **dvojmocné Fe²⁺** v duodenu, proto se podává **nalačno** a
+**vstřebávání zlepšuje kyselina askorbová**, zatímco **čaj, káva, mléko,
+antacida, inhibitory protonové pumpy a tetracykliny je zhoršují**. Nežádoucí
+jsou zácpa, nauzea a **černá stolice** (nezaměnit s melénou). Léčba pokračuje
+ještě **3 měsíce po úpravě hemoglobinu**, aby se doplnily zásoby (ferritin).
+**Parenterální železo** při intoleranci, malabsorpci nebo dialýze — hrozí
+anafylaxe. **Otrava železem u dětí** se léčí **deferoxaminem**.
+**Megaloblastová anemie (makrocytární)** vzniká z deficitu **vitaminu B12
+nebo kyseliny listové**. ⚠️ **Před podáním folátu je nutné vyloučit deficit
+B12** — folát upraví krevní obraz, ale **neurologické poškození progreduje**.
+B12 se u **perniciózní anemie** (chybí vnitřní faktor) podává **parenterálně**,
+zpravidla doživotně.
+**Renální anemie: erytropoetin (epoetin, darbepoetin)** — nutná zásoba železa,
+riziko hypertenze a trombóz. **Hemolytické anemie:** kortikosteroidy.
+**Srpkovitá anemie:** hydroxyurea.
+""")
+
+K("125", "Rtg kontrastní látky", """
+**Kontrastní látky** samy o sobě léčebný účinek nemají — mění **absorpci
+záření** ve tkáni, a tím zviditelňují struktury, které by jinak splynuly.
+Dělí se na **pozitivní** (pohlcují záření více než tkáň — jod, baryum) a
+**negativní** (plyny).
+**Jodové kontrastní látky** se používají při CT, angiografii a urografii.
+Rozlišují se **ionické (vysokoosmolární)** a **neionické (nízkoosmolární)** —
+neionické jsou dnes standardem, protože jsou podstatně lépe snášeny.
+**Rizika:** **anafylaktoidní reakce** (nevyžaduje předchozí expozici; u rizikových
+nemocných premedikace kortikosteroidy a antihistaminiky) a **kontrastem
+indukovaná nefropatie**, jejíž prevencí je **dostatečná hydratace** a vysazení
+nefrotoxických léků. ⚠️ **Metformin se před podáním jodové kontrastní látky
+vysazuje** u snížené funkce ledvin pro riziko laktátové acidózy. Jodová látka
+navíc **blokuje vychytávání radiojodu štítnou žlázou** a může vyvolat
+tyreotoxikózu — proto se před plánovanou scintigrafií nepodává.
+**Baryová kaše (síran barnatý)** se používá k zobrazení trávicí trubice.
+⚠️ **Je kontraindikovaná při podezření na perforaci** — únik do dutiny břišní
+vyvolá těžkou mediastinitidu či peritonitidu; v takové situaci se volí
+**vodná jodová látka**.
+**Gadoliniové látky** patří k magnetické rezonanci (nikoli k rentgenu) —
+rizikem je při těžké renální insuficienci **nefrogenní systémová fibróza**.
+""")
+
+K("126", "Léčiva pro místní účinek na kůži, dezinficiencia", """
+Lokální léčba kůže má dvě proměnné: **účinnou látku** a **vehikulum**, které
+rozhoduje o pronikání a snášenlivosti. Platí pravidlo **„vlhké na vlhké,
+mastné na suché"** — na mokvající zánět obklady a krémy, na suchou a
+lichenifikovanou kůži masti, které účinek zesilují okluzí.
+**Lokální kortikosteroidy** se dělí do čtyř tříd podle síly (hydrokortison až
+klobetasol) a tlumí zánět a svědění. Při dlouhém užívání působí **atrofii
+kůže, strie, teleangiektazie, periorální dermatitidu** a **kandidózu**; na
+obličej a do záhybů patří jen slabé přípravky a krátce, protože se zde
+vstřebávají nejvíc. Alternativou jsou **inhibitory kalcineurinu (takrolimus,
+pimekrolimus)**, které kůži neatrofují.
+**Další:** **keratolytika** (kyselina salicylová, močovina), **antimykotika**,
+**antibiotika** (mupirocin — omezeně kvůli rezistenci), **antivirotika**,
+**retinoidy** (tretinoin, adapalen u akné — teratogenní) a **emoliencia**,
+základ péče u atopické dermatitidy.
+**Dezinficiencia:** **povidon-jod** má široké spektrum včetně spor;
+**chlorhexidin** má dlouhý reziduální účinek, ale **je ototoxický a
+neurotoxický** — nesmí k oku ani do ucha při perforaci. **Alkoholy (70 %)**
+působí rychle, na spory ne, a nepatří na otevřenou ránu. **Peroxid vodíku**
+je slabý a poškozuje granulační tkáň; dobře snášený je **oktenidin**.
 """)
