@@ -3522,3 +3522,368 @@ S("103", "Hepatoprotektiva, cholagoga",
         "⚠️ opatrně s paracetamolem, ⚠️ NSA nedávat. Před extrakcí zvaž koagulační vyšetření.",
   past="Silymarin nenahradí abstinenci ani léčbu hepatitidy — u alkoholika je "
        "abstinence jediná intervence s prokázaným efektem.")
+
+S("104", "Farmaka v očním lékařství",
+  jadro="U glaukomu jsou jen dvě cesty: zmenšit tvorbu nitrooční tekutiny, nebo "
+        "zlepšit její odtok. A oční kapky se vstřebávají do celého těla.",
+  karty=[
+      ("⬇ MÉNĚ TVORBY", [
+          "Betablokátory — ⚠️ TIMOLOL, betaxolol",
+          "Inhibitory karboanhydrázy — dorzolamid (lokálně), acetazolamid (celkově)",
+          "α2 agonisté — brimonidin",
+          "Kombinované přípravky"], "zelena"),
+      ("⬆ LEPŠÍ ODTOK", [
+          "⭐ Analoga prostaglandinů — LATANOPROST, travoprost, bimatoprost",
+          "⚠️ Nejúčinnější, stačí 1× denně",
+          "⚠️ NÚ: ztmavnutí duhovky, prodloužení a ztmavnutí řas, hyperemie",
+          "Pilokarpin — mióza otevře komorový úhel (dnes okrajově)"], "zelena"),
+      ("⚠️ OČNÍ KAPKY SE VSTŘEBÁVAJÍ", [
+          "⚠️ TIMOLOL z kapek → bronchospazmus u astmatika, bradykardie u kardiaka",
+          "⚠️ Pacient je v anamnéze neuvede, protože je nepovažuje za lék",
+          "→ ⚠️ ptát se na ně cíleně",
+          "Vstřebání sníží stisknutí vnitřního koutku po nakapání"], "cervena"),
+      ("DALŠÍ OČNÍ LÉČIVA", [
+          "Mydriatika a cykloplegika: tropikamid, atropin (⚠️ i cykloplegie),",
+          "fenylefrin (⚠️ bez cykloplegie)",
+          "Lokální anestetika (oxybuprokain) — ⚠️ nikdy nepředepisovat domů",
+          "(potlačí ochranný reflex a zpomalí hojení → vřed rohovky)",
+          "⚠️ Kortikoidy — KI u herpetické keratitidy; dlouhodobě katarakta a glaukom",
+          "⚠️ ANTI-VEGF (ranibizumab, aflibercept) — vlhká forma makulární degenerace"], "modra"),
+  ],
+  mnemo="Tvorba dolů nebo odtok nahoru. Nic třetího u glaukomu není.",
+  zubar="⚠️ Anticholinergika (atropin v premedikaci, antihistaminika I. generace, "
+        "tricyklika) mohou u glaukomu s úzkým úhlem vyvolat akutní záchvat — "
+        "u pacienta s glaukomem se na typ ptej.",
+  past="„Pacient nebere žádné léky, jen kapky do očí\" — timolol z kapek je "
+       "plnohodnotný betablokátor se všemi kontraindikacemi.")
+
+S("105", "Drogová (léková) závislost",
+  jadro="Závislost není slabost vůle — je to onemocnění systému odměny. Všechny "
+        "návykové látky končí ve stejném místě: vyplavením dopaminu.",
+  tok=[("DROGA", "zelena"), ("⚠️ DOPAMIN v nucleus accumbens", "cervena"),
+       ("down-regulace → TOLERANCE", "cervena"), ("bez látky ⚠️ ODVYKACÍ STAV", "cervena")],
+  karty=[
+      ("POJMY", [
+          "Psychická závislost — craving, nutkavá touha",
+          "Fyzická závislost — odvykací stav při vysazení",
+          "Tolerance — k témuž účinku je potřeba víc",
+          "⚠️ Abstinenční syndrom je vždycky OPAKEM účinku látky",
+          "(tlumivá látka → budivý odvykací stav a naopak)"], "zelena"),
+      ("⚠️ NEBEZPEČNOST ODVYKACÍCH STAVŮ", [
+          "⚠️ NEJNEBEZPEČNĚJŠÍ: ALKOHOL a BENZODIAZEPINY",
+          "→ mohou skončit křečemi a smrtí (delirium tremens)",
+          "⚠️ Odvykací stav od opioidů je subjektivně strašný,",
+          "ale sám o sobě neohrožuje život",
+          "Stimulancia: útlum, spavost, deprese, vlčí hlad"], "cervena"),
+      ("LÉČBA", [
+          "Detoxifikace → substituce → prevence relapsu → psychoterapie",
+          "Opioidy: ⚠️ metadon, buprenorfin (substituce), naltrexon",
+          "Alkohol: ⚠️ disulfiram, akamprosat, naltrexon",
+          "Nikotin: náhrada, ⚠️ vareniklin, bupropion",
+          "⚠️ Substituční dávka NEZAJIŠŤUJE analgezii"], "modra"),
+      ("⚠️ ZUBAŘSKY — „METH MOUTH\"", [
+          "⚠️ U uživatelů pervitinu rychlá devastace chrupu",
+          "Není to přímé leptání drogou, ale SOUBĚH:",
+          "⚠️ xerostomie + bruxismus + sladké nápoje + zanedbaná hygiena + nechutenství",
+          "⚠️ U pacienta na substituci: po výkonu potřebuje běžnou, často vyšší",
+          "analgezii — ne odepření léčby"], "cervena"),
+  ],
+  mnemo="Všechny drogy končí u dopaminu v nucleus accumbens.",
+  zubar="⚠️ Uživatel stimulancií: NIKDY anestetikum s adrenalinem v intoxikaci. "
+        "⚠️ Pacient na substituci má vysokou toleranci — analgezii nepodceňuj, "
+        "ale ani nepředepisuj opioidy bez domluvy s jeho lékařem.",
+  past="Odvykací stav od alkoholu může zabít, od heroinu obvykle ne — přestože "
+       "vypadá dramatičtěji.")
+
+S("106", "Ethylalkohol, methylalkohol",
+  jadro="Metanol sám je málo toxický — jedovaté jsou až jeho metabolity. "
+        "A právě proto se otrava léčí alkoholem.",
+  tok=[("METANOL", "bila"), ("⚠️ ADH → FORMALDEHYD", "cervena"),
+       ("⚠️ KYSELINA MRAVENČÍ", "cervena"), ("⚠️ acidóza + SLEPOTA", "cervena")],
+  karty=[
+      ("ETANOL — kinetika", [
+          "ADH → acetaldehyd → aldehyddehydrogenáza → acetát",
+          "⚠️ KINETIKA NULTÉHO ŘÁDU — odbourá se stále stejné množství za hodinu",
+          "(řádově 0,1–0,15 ‰/h), ⚠️ nezáleží, kolik jsi vypila",
+          "⚠️ MEOS (CYP2E1) se chronicky indukuje",
+          "⚠️ DISULFIRAM blokuje aldehyddehydrogenázu → hromadí se acetaldehyd"], "zelena"),
+      ("ETANOL — účinky", [
+          "⚠️ Je to TLUMIVÁ látka — počáteční „rozjaření\" je odbrždění, ne stimulace",
+          "Vazodilatace → ⚠️ HYPOTERMIE (opilý venku v zimě umrzne)",
+          "Diuréza (útlum ADH), ⚠️ hypoglykemie (zvl. u dětí a podvyživených)",
+          "Chronicky: steatóza → cirhóza, pankreatitida, kardiomyopatie,",
+          "polyneuropatie, ⚠️ nádory (i dutiny ústní), ⚠️ fetální alkoholový syndrom"], "modra"),
+      ("⚠️ ODVYKACÍ STAV", [
+          "Třes, pocení, tachykardie, úzkost → halucinace → ⚠️ DELIRIUM TREMENS",
+          "⚠️ Léčba: BENZODIAZEPINY",
+          "⚠️ + THIAMIN, a to PŘED GLUKÓZOU",
+          "(glukóza jinak spotřebuje zbytek thiaminu a spustí Wernickeovu encefalopatii)",
+          "Doplnit magnezium a kalium"], "cervena"),
+      ("⚠️ METANOL a ETHYLENGLYKOL", [
+          "Metanol → formaldehyd → ⚠️ kyselina mravenčí → těžká metabolická acidóza",
+          "⚠️ a poškození zrakového nervu → SLEPOTA",
+          "⚠️ ANTIDOTUM: ETANOL nebo FOMEPIZOL — obsadí alkoholdehydrogenázu",
+          "(etanol k ní má mnohem vyšší afinitu)",
+          "+ hemodialýza, bikarbonát, kyselina listová",
+          "⚠️ Ethylenglykol → oxalát → poškození ledvin"], "cervena"),
+  ],
+  mnemo="Etanol vytlačí metanol z enzymu. Proto je antidotem.",
+  zubar="⚠️ Alkoholik: karcinom dutiny ústní (⚠️ synergie s kouřením), horší hojení, "
+        "krvácivost při jaterním postižení, zanedbaná hygiena, ⚠️ opatrnost s paracetamolem "
+        "(indukovaný CYP2E1 a vyčerpaný glutathion).",
+  past="Thiamin se u alkoholika podává PŘED glukózou, ne po ní — obrácené pořadí "
+       "může spustit Wernickeovu encefalopatii.")
+
+S("107", "Konopí, kanabinoidy",
+  jadro="Z jedné rostliny dvě různé látky: THC je psychoaktivní, CBD není. "
+        "Pletou se dohromady a znamenají jiné věci.",
+  karty=[
+      ("THC × CBD", [
+          "⚠️ THC — parciální agonista CB1, psychoaktivní",
+          "⚠️ CBD — NEpsychoaktivní, jiný mechanismus",
+          "Endokanabinoidní systém: CB1 v CNS, CB2 v imunitních buňkách",
+          "⚠️ THC je vysoce lipofilní → ukládá se do tuku, v moči prokazatelné dny až týdny"], "zelena"),
+      ("AKUTNÍ ÚČINKY", [
+          "Euforie, uvolnění, změněné vnímání času",
+          "⚠️ Zhoršení krátkodobé paměti, pozornosti a reakcí",
+          "⚠️ Zarudnutí spojivek, tachykardie",
+          "⚠️ „Vlčí hlad\"",
+          "⚠️ Sucho v ústech"], "modra"),
+      ("⚠️ RIZIKA", [
+          "⚠️ Vyvolání PSYCHÓZY u disponovaných jedinců — nejvýznamnější doložené riziko",
+          "Amotivační syndrom",
+          "⚠️ Vliv na vyvíjející se mozek dospívajících",
+          "Kanabinoidní hyperemetický syndrom",
+          "Závislost — spíš psychická"], "cervena"),
+      ("LÉČEBNÉ POUŽITÍ", [
+          "⚠️ Nauzea a zvracení po chemoterapii (nabilon, dronabinol)",
+          "Spasticita u roztroušené sklerózy (nabiximols)",
+          "⚠️ KANABIDIOL u vzácných dětských epilepsií",
+          "(Dravetové a Lennoxův–Gastautův syndrom)",
+          "Chronická bolest a nechutenství — ⚠️ [⚠️ ověřit rozsah dle skript]"], "bila"),
+  ],
+  mnemo="THC v hlavě, CBD ne. Kouř v ústech škodí obojí.",
+  zubar="⚠️ XEROSTOMIE → kaz · gingivitida a parodontitida · kouřením leukoplakie "
+        "a riziko nádoru. ⚠️ U intoxikovaného pacienta neprovádět plánovaný výkon "
+        "(tachykardie, úzkost, špatná spolupráce) a opatrně s adrenalinem.",
+  past="„Přírodní\" a „léčebné\" konopí nejsou totéž co bezpečné — riziko psychózy "
+       "u disponovaných je reálné a doložené.")
+
+S("108", "Halucinogeny (psychomimetika)",
+  jadro="Tři skupiny podle mechanismu — a jedna z nich vypadá úplně jinak než ostatní. "
+        "To rozhoduje o léčbě.",
+  karty=[
+      ("SEROTONINERGNÍ — agonisté 5-HT2A", [
+          "LSD, psilocybin (houby rodu Psilocybe), meskalin (peyotl)",
+          "Halucinace při ⚠️ ZACHOVANÉ orientaci; mydriáza, tachykardie, ⚠️ POCENÍ",
+          "⚠️ LSD účinkuje v mikrogramech; tolerance vzniká během několika dní",
+          "⚠️ Fyzická závislost prakticky nevzniká",
+          "⚠️ „Bad trip\" a HPPD (přetrvávající poruchy vnímání, flashbacky)"], "zelena"),
+      ("⚠️ ANTICHOLINERGNÍ — vypadají jinak", [
+          "Durman, rulík, blín (atropin, skopolamin)",
+          "⚠️ DELIRIUM se zmateností a DEZORIENTACÍ",
+          "⚠️ SUCHÁ, HORKÁ, ČERVENÁ kůže (na rozdíl od pocení u LSD)",
+          "⚠️ ANTIDOTUM: FYZOSTIGMIN"], "cervena"),
+      ("DISOCIATIVNÍ — antagonisté NMDA", [
+          "Fencyklidin, ketamin",
+          "Odpojení od vlastního těla, analgezie, nystagmus",
+          "⚠️ Ketamin dnes i léčebně (esketamin u rezistentní deprese)",
+          "[⚠️ ověřit, co k tomu mají vaše skripta]"], "modra"),
+      ("MDMA a LÉČBA INTOXIKACE", [
+          "⚠️ MDMA (extáze): masivní výdej serotoninu",
+          "⚠️ Hypertermie, hyponatremie z nadměrného pití vody, serotoninový syndrom",
+          "⚠️ Výrazný BRUXISMUS a TRISMUS — pro zubaře typický nález (fasety otěru)",
+          "⚠️ Léčba: klidné prostředí, slovní vedení, BENZODIAZEPIN",
+          "⚠️ Antipsychotika nejsou první volba — mohou stav zhoršit"], "cervena"),
+  ],
+  mnemo="LSD se potí a ví, kde je. Durman je suchý, horký a dezorientovaný.",
+  zubar="⚠️ Výrazný otěr zubů a fasety u mladého člověka mohou být důsledkem "
+        "bruxismu po MDMA. ⚠️ Anticholinergní intoxikaci poznáš i podle extrémně "
+        "suchých úst.",
+  past="Rozlišení serotoninergní a anticholinergní intoxikace je klíčové — "
+       "u anticholinergní existuje specifické antidotum (fyzostigmin).")
+
+S("109", "Stimulancia",
+  jadro="Jeden mechanismus — víc dopaminu a noradrenalinu ve štěrbině — ze kterého "
+        "plyne účinek i všechny komplikace.",
+  karty=[
+      ("ZÁSTUPCI A MECHANISMUS", [
+          "Amfetamin, ⚠️ metamfetamin (pervitin) — vyplavují",
+          "⚠️ Kokain — blokuje reuptake (+ lokálně anestetický účinek)",
+          "MDMA, kathinony (nové syntetické drogy)",
+          "Kofein — ⚠️ blokuje adenosinové receptory (jen maskuje únavu)",
+          "Modafinil, metylfenidát"], "zelena"),
+      ("ÚČINKY", [
+          "Euforie, sebedůvěra, bdělost, výřečnost",
+          "⚠️ Ztráta chuti k jídlu a potřeby spánku",
+          "⚠️ Mydriáza, tachykardie, hypertenze",
+          "⚠️ Hypertermie",
+          "Po odeznění: „dojezd\" — vyčerpání, deprese, spavost"], "modra"),
+      ("⚠️ KOMPLIKACE", [
+          "⚠️ INFARKT a CÉVNÍ MOZKOVÁ PŘÍHODA u mladých lidí (zvl. kokain — vazospazmus)",
+          "⚠️ TOXICKÁ PSYCHÓZA s paranoiou — klinicky nerozeznatelná od schizofrenie",
+          "Křeče, rabdomyolýza",
+          "⚠️ HYPERTERMIE jako příčina smrti",
+          "⚠️ Kokain do nosu → nekróza nosní přepážky a tvrdého patra až perforace"], "cervena"),
+      ("⚠️ ZUBAŘSKY A LÉČEBNÉ POUŽITÍ", [
+          "⚠️ „METH MOUTH\" — devastace chrupu, ⚠️ BRUXISMUS s otěrem a frakturami",
+          "⚠️ ZÁSADNÍ PRAVIDLO: pacientovi pod vlivem kokainu nebo pervitinu",
+          "⚠️ SE NEPODÁVÁ ANESTETIKUM S ADRENALINEM — hypertenzní krize, arytmie",
+          "→ plánovaný výkon odložit",
+          "Léčebně: metylfenidát a lisdexamfetamin u ADHD (⚠️ paradoxně zklidní —",
+          "posílí kontrolní funkce čelního laloku), modafinil u narkolepsie"], "cervena"),
+  ],
+  mnemo="Víc dopaminu a noradrenalinu. Odtud euforie i infarkt.",
+  zubar="⚠️ U pacienta s podezřením na intoxikaci stimulanciem: odlož výkon, "
+        "neaplikuj adrenalin. ⚠️ „Meth mouth\" je souběh xerostomie, bruxismu, "
+        "sladkých nápojů a zanedbané hygieny — ne přímé leptání.",
+  past="Kofein energii nedodává — jen blokuje adenosin, tedy signál únavy. "
+       "Únava zůstává, jen ji necítíš.")
+
+S("110", "Nikotin",
+  jadro="Nikotin je do mozku za sedm vteřin a rychle mizí — a právě tahle kinetika "
+        "z něj dělá jednu z nejnávykovějších látek vůbec.",
+  tok=[("CIGARETOVÝ kouř je KYSELÝ", "cervena"), ("nikotin je NABITÝ", "bila"),
+       ("⚠️ ústy se nevstřebá → musí se INHALOVAT", "cervena"),
+       ("mozek za 7 s → silný návyk", "cervena")],
+  karty=[
+      ("MECHANISMUS A KINETIKA", [
+          "Agonista nikotinových receptorů (NN v gangliích a CNS)",
+          "→ vyplavení dopaminu v nucleus accumbens",
+          "⚠️ IONTOVÁ PAST: kyselý cigaretový kouř → nabitý nikotin → nutná inhalace",
+          "⚠️ Dýmkový a doutníkový kouř je ZÁSADITÝ → nikotin se vstřebá rovnou v ÚSTECH",
+          "⚠️ Krátký poločas → nutnost častého opakování"], "zelena"),
+      ("ÚČINKY A INTERAKCE", [
+          "Stimulace i subjektivní „uklidnění\", vazokonstrikce, tachykardie",
+          "⚠️ KOUŘENÍ INDUKUJE CYP1A2 (dehet, ne nikotin sám)",
+          "→ kuřák potřebuje vyšší dávky theofylinu, olanzapinu, klozapinu",
+          "→ ⚠️ po přestání kouřit jejich hladina STOUPNE a hrozí předávkování",
+          "⚠️ Nikotinová náplast tenhle efekt nemá"], "modra"),
+      ("⚠️ ZUBAŘSKY — zásadní otázka", [
+          "⚠️ KARCINOM DUTINY ÚSTNÍ a leukoplakie (⚠️ synergie s alkoholem)",
+          "⚠️ PARODONTITIDA — a navíc MASKOVANÁ: nikotin stahuje cévy,",
+          "takže dáseň kuřáka MÉNĚ KRVÁCÍ a nález vypadá mírněji, než je",
+          "⚠️ Zhoršené hojení, suchá alveolitida po extrakci, selhání implantátů",
+          "Kuřácké pigmentace, halitóza, zhoršené vnímání chuti"], "cervena"),
+      ("ODVYKÁNÍ", [
+          "Nikotinová substituce: ⚠️ náplast (základní hladina) + žvýkačka nebo sprej",
+          "(akutní chuť)",
+          "⚠️ VARENIKLIN — parciální agonista, nejúčinnější:",
+          "zmírní odvykací příznaky A znemožní, aby cigareta přinesla plný požitek",
+          "Bupropion, cytisin",
+          "⚠️ Nejúčinnější je kombinace léku a podpory, ne lék samotný"], "bila"),
+  ],
+  mnemo="Kyselý kouř se musí šluknout. Zásaditý stačí držet v ústech.",
+  zubar="⚠️ Zubař bývá jediný lékař, kterého jinak zdravý mladý člověk pravidelně vidí — "
+        "zmínka o kouření před extrakcí, implantací a při nálezu na parodontu je "
+        "lékařská intervence s doloženým efektem.",
+  past="Nikotinová substituce není „výměna jedné závislosti za druhou\" — škodí "
+       "hlavně produkty spalování a náplast dodává nikotin pomalu, bez návykového vrcholu.")
+
+S("111", "Metylxantiny a jejich deriváty",
+  jadro="Dva mechanismy: blokáda adenosinu (bdělost) a inhibice fosfodiesterázy "
+        "(bronchodilatace) — ta druhá až ve vyšších koncentracích.",
+  karty=[
+      ("MECHANISMY", [
+          "⚠️ Blokáda adenosinových receptorů — adenosin je „signál únavy\"",
+          "→ bdělost; ⚠️ energii to nedodá, jen maskuje únavu",
+          "⚠️ Inhibice fosfodiesterázy → ↑ cAMP → bronchodilatace, silnější stah srdce",
+          "⚠️ Ale až ve vyšších koncentracích, blízko toxickému pásmu"], "zelena"),
+      ("ÚČINKY", [
+          "Bronchodilatace",
+          "Stimulace CNS a dechového centra",
+          "Mírně pozitivně inotropní a chronotropní",
+          "Diuréza",
+          "⚠️ Zvýšení sekrece žaludeční kyseliny"], "modra"),
+      ("⚠️ THEOFYLIN — úzké okno", [
+          "⚠️ Terapeutické rozmezí řádově 10–20 mg/l → nutná monitorace",
+          "⚠️ Příznaky předávkování vzestupně: nauzea → neklid a nespavost →",
+          "tachyarytmie → KŘEČE",
+          "⚠️ Hladinu zvednou: makrolidy, chinolony, ⚠️ srdeční selhání, jaterní postižení",
+          "⚠️ Hladinu sníží: KOUŘENÍ (indukce CYP1A2)",
+          "⚠️ Když kuřák přestane kouřit, hladina vyskočí"], "cervena"),
+      ("KOFEIN a praxe", [
+          "⚠️ Kofein u apnoických pauz nedonošených novorozenců",
+          "Přídavek do analgetických kombinací (zvyšuje účinnost a vstřebávání)",
+          "⚠️ Theofylin dnes není lékem první volby u astmatu",
+          "(úzké okno, hodně interakcí, slabší než inhalační léčba)",
+          "⚠️ Nadužívání kofeinu → bolest hlavy z odnětí"], "bila"),
+  ],
+  mnemo="Blokuje únavu, otevírá průdušky — a mezi účinkem a otravou je kousek.",
+  zubar="⚠️ Kofeinové a energetické nápoje: kyselost → eroze skloviny, cukr → kaz. "
+        "⚠️ U úzkostného pacienta zesílí bušení srdce po anestetiku s adrenalinem.",
+  past="Kuřák, který přestane kouřit, potřebuje snížit dávku theofylinu — jinak se "
+       "předávkuje, aniž by cokoli změnil na dávkování.")
+
+S("112", "Antirevmatika",
+  jadro="Kloubní destrukce vzniká v prvních měsících a je nevratná — proto se "
+        "chorobu modifikující léčba nasazuje co nejdřív.",
+  karty=[
+      ("SYMPTOMATICKÁ × MODIFIKUJÍCÍ", [
+          "Symptomatická: NSA a kortikoidy — ⚠️ uleví, ale kloub se ničí dál",
+          "⭐ DMARDs (chorobu modifikující) — mění průběh nemoci",
+          "⚠️ Nasadit co nejdřív („okno příležitosti\")",
+          "Kortikoid jen jako most, než DMARD zabere"], "zelena"),
+      ("⭐ METHOTREXÁT — lék volby", [
+          "⚠️ PODÁVÁ SE JEDNOU TÝDNĚ — denní podání je smrtelná chyba",
+          "⚠️ Přidává se kyselina listová (jiný den) → sníží toxicitu",
+          "⚠️ NÚ: hepatotoxicita, útlum dřeně, ⚠️ ULCERACE V ÚSTECH a stomatitida,",
+          "plicní postižení, ⚠️ TERATOGENITA (antikoncepce u obou pohlaví)",
+          "⚠️ Nekombinovat s kotrimoxazolem; opatrně s NSA"], "cervena"),
+      ("DALŠÍ DMARDs", [
+          "Leflunomid, sulfasalazin",
+          "Hydroxychlorochin — ⚠️ retinopatie, nutné oční kontroly",
+          "⚠️ Biologika: anti-TNF (infliximab, adalimumab, etanercept),",
+          "rituximab (anti-CD20), tocilizumab (anti-IL6), abatacept",
+          "⚠️ Inhibitory JAK: tofacitinib, baricitinib — tabletka s účinkem",
+          "blízkým biologikům; ⚠️ riziko herpes zoster a trombóz"], "modra"),
+      ("⚠️ PŘED BIOLOGIKY A ZUBAŘSKY", [
+          "⚠️ Screening tuberkulózy a hepatitid, ⚠️ žádné živé vakcíny",
+          "⚠️ Zubařsky: methotrexátová stomatitida a afty",
+          "⚠️ Imunosuprese → vyšší riziko infekce a horší hojení",
+          "⚠️ U revmatika často SJÖGRENŮV SYNDROM → xerostomie a mnohočetný kaz",
+          "⚠️ Postižení čelistního kloubu a omezené otevírání úst"], "cervena"),
+  ],
+  mnemo="Methotrexát JEDNOU TÝDNĚ. A vždy s kyselinou listovou.",
+  zubar="⚠️ Afty a ulcerace v ústech u pacienta na methotrexátu nejsou banalita — "
+        "mohou být známkou toxicity a patří ke kontrole krevního obrazu. "
+        "⚠️ U Sjögrenova syndromu řeš xerostomii (pilokarpin, fluoridace, umělé sliny).",
+  past="Denní podání methotrexátu místo týdenního je opakovaně popsaná smrtelná "
+       "chyba — proto se dávka píše i slovy a s uvedením dne v týdnu.")
+
+S("113", "Antiuratika",
+  jadro="Léčba akutního záchvatu a dlouhodobé snižování kyseliny močové jsou dvě "
+        "různé věci, které se nesmí zaměnit.",
+  karty=[
+      ("AKUTNÍ ZÁCHVAT DNY", [
+          "NSA (⚠️ NE aspirin — v nízké dávce zvyšuje urikemii)",
+          "⚠️ KOLCHICIN — blokuje mikrotubuly → neutrofil se nedostane do kloubu",
+          "⚠️ Dávku limituje PRŮJEM — objeví se dřív než ostatní toxicita",
+          "Kortikoidy (systémově nebo intraartikulárně)",
+          "⚠️ ALOPURINOL SE SEM NENASAZUJE"], "cervena"),
+      ("DLOUHODOBÁ LÉČBA", [
+          "⭐ ALOPURINOL — inhibitor xanthinoxidázy",
+          "⚠️ Nikdy nezačínat během záchvatu (prudká změna hladiny záchvat vyvolá)",
+          "⚠️ Při zahájení krýt kolchicinem",
+          "Febuxostat — alternativa",
+          "Urikosurika: probenecid, benzbromaron (⚠️ dostatek tekutin)",
+          "Rasburikáza — u nádorového rozpadového syndromu"], "zelena"),
+      ("⚠️ NEBEZPEČNÉ INTERAKCE", [
+          "⚠️ ALOPURINOL + AZATHIOPRIN — alopurinol zablokuje enzym,",
+          "který azathioprin odbourává → ⚠️ TĚŽKÝ ÚTLUM KOSTNÍ DŘENĚ",
+          "→ dávku azathioprinu výrazně snížit",
+          "⚠️ Hypersenzitivní syndrom po alopurinolu (HLA-B*5801)",
+          "⚠️ Léky zvyšující kyselinu močovou: thiazidy, kličková diuretika,",
+          "nízké dávky aspirinu, pyrazinamid, cyklosporin"], "cervena"),
+      ("REŽIM A PRAXE", [
+          "Omezit alkohol (⚠️ hlavně pivo), vnitřnosti, mořské plody,",
+          "slazené nápoje s fruktózou",
+          "Dostatek tekutin, redukce hmotnosti",
+          "⚠️ U pacienta s dnou často nelze NSA kvůli ledvinám → paracetamol",
+          "Cílová hladina kyseliny močové se sleduje"], "modra"),
+  ],
+  mnemo="V záchvatu kolchicin nebo NSA. Mezi záchvaty alopurinol. Nikdy naopak.",
+  zubar="⚠️ Pacient s dnou má často postižené ledviny → po výkonu volit paracetamol, "
+        "ne NSA. ⚠️ Dnavé postižení čelistního kloubu je vzácné, ale popsané.",
+  past="Nasazení alopurinolu během akutního záchvatu ho zhorší — hladina kyseliny "
+       "močové se prudce změní a krystaly se mobilizují.")
