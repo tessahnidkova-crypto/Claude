@@ -767,3 +767,479 @@ hypokalemie; **β3** — lipolýza a relaxace detruzoru.
 výdej (rezerpin, nepřímá sympatomimetika), reuptake (kokain, tricyklika, SNRI),
 odbourání (inhibitory MAO a COMT) a receptor (sympatomimetika a sympatolytika).
 """)
+
+K("41", "Neselektivní sympatomimetika", """
+**Neselektivní sympatomimetika** aktivují více typů adrenergních receptorů
+zároveň a liší se tím, který převáží.
+**Adrenalin** působí na α i β. **Noradrenalin** na α1 a β1, prakticky **bez β2**,
+proto zvyšuje tlak a vyvolává reflexní bradykardii; používá se jako vazopresor v
+šoku. **Isoprenalin** je čistý β1 a β2 agonista. **Dopamin** má **dávkově závislý
+účinek**: nízká dávka působí na D1 (dilatace ledvinných cév), střední na β1
+(inotropní podpora), vysoká na α1 (vazokonstrikce).
+**Adrenalin je lékem volby u anafylaxe**, protože jako jediný pokryje všechny
+složky reakce najednou: α1 stáhne cévy a zvedne tlak, β1 podpoří srdce, β2 rozšíří
+průdušky a zároveň zastaví vyplavování mediátorů ze žírných buněk. Podává se
+**0,5 mg i.m. do stehna** (roztok 1 : 1000). Dále se užívá při resuscitaci a jako
+**vazokonstrikční přísada k lokálním anestetikům** — prodlouží účinek a sníží
+systémovou toxicitu.
+**Nežádoucí účinky:** tachykardie, arytmie, hypertenze, tremor, úzkost.
+**Adrenalinová reverze** znamená, že po α-blokádě vyvolá adrenalin místo vzestupu
+tlaku pokles, protože zbudou jen β2 účinky.
+""")
+
+K("42", "Sympatomimetika alfa", """
+Skupina se dělí podle receptoru a působí **protichůdně**.
+**α1 agonisté** působí periferně: **fenylefrin** (dekongesce nosní sliznice,
+mydriáza bez cykloplegie, léčba hypotenze), **midodrin** u ortostatické
+hypotenze, **nafazolin, xylometazolin a oxymetazolin** jako nosní kapky. Stahují
+cévy, zvyšují tlak a vyvolávají reflexní bradykardii. **Nosní dekongescencia se
+smějí podávat nejvýše 5–7 dní**, jinak vzniká *rhinitis medicamentosa* — sliznice
+po odeznění účinku oteče ještě víc a pacient se dostane do bludného kruhu.
+**α2 agonisté** působí **centrálně a presynapticky**: sednou si na brzdu výdeje
+noradrenalinu, a proto **snižují krevní tlak**, přestože jde o „alfa" agonisty.
+Patří sem **klonidin** (nežádoucí je sucho v ústech, sedace a **rebound
+hypertenze** po náhlém vysazení), **methyldopa** jako antihypertenzivum volby v
+graviditě, **brimonidin** u glaukomu, **tizanidin** u spasticity a
+**dexmedetomidin** k sedaci.
+Rozdíl mezi periferním α1 a centrálním α2 účinkem je nejčastěji zkoušeným bodem
+celé skupiny.
+""")
+
+K("43", "Sympatomimetika beta", """
+**β2 agonisté** jsou základem úlevové léčby astmatu. **SABA** (krátkodobé):
+salbutamol, fenoterol, terbutalin — nástup do minut, podávají se podle potřeby.
+**LABA** (dlouhodobé): formoterol, salmeterol, indakaterol. **LABA se u astmatu
+nikdy nepodává samostatně** — bez inhalačního kortikoidu zvyšuje úmrtnost, proto
+existují fixní kombinace. Formoterol nastupuje rychle, a proto může sloužit i
+úlevově; salmeterol nikoli.
+**Další využití β2:** **tokolýza** (hexoprenalin oddálí předčasný porod) a
+**akutní hyperkalemie**, protože β2 stimulace přesouvá draslík do buněk.
+**β1 agonista dobutamin** je inotropikum u akutního srdečního selhání a
+kardiogenního šoku. **β3 agonista mirabegron** relaxuje detruzor u hyperaktivního
+měchýře a nemá anticholinergní nežádoucí účinky.
+**Tři typické nežádoucí účinky β2 mimetik** plynou z jediného receptoru:
+**tremor** (β2 na kosterním svalu), **tachykardie** (přelití účinku na β1) a
+**hypokalemie**. Dále neklid, bolest hlavy a při nadužívání tolerance.
+**Rostoucí spotřeba úlevového inhalátoru** je známkou nedostatečně kontrolovaného
+astmatu.
+""")
+
+K("44", "Nepřímá sympatomimetika", """
+**Nepřímá sympatomimetika** se na receptor nevážou. Buď **vytlačují noradrenalin
+z vezikul**, nebo **blokují jeho zpětné vychytávání**; výsledkem je zvýšená
+koncentrace přenašeče ve štěrbině.
+**Vyplavující:** efedrin a pseudoefedrin (smíšený mechanismus), amfetamin,
+metamfetamin a **tyramin**. Protože potřebují zásoby, vzniká při opakovaném
+podání **tachyfylaxe** — prudký pokles účinku během hodin z vyprázdněných
+vezikul. To přímá sympatomimetika nedělají.
+**Blokující reuptake:** **kokain**, tricyklická antidepresiva, modafinil. Kokain
+vyvolává vazokonstrikci s rizikem infarktu a cévní mozkové příhody i u mladých a
+při šňupání nekrózu nosní přepážky.
+**Sýrový (tyraminový) efekt:** tyramin z uzrálých sýrů, vína a uzenin ve střevě
+běžně odbourá monoaminooxidáza. U pacienta na **neselektivním inhibitoru MAO**
+projde do oběhu, vytlačí noradrenalin a vyvolá **hypertenzní krizi**. Moklobemid
+jako reverzibilní inhibitor toto riziko nemá.
+**Použití:** efedrin u hypotenze v anestezii, pseudoefedrin jako dekongescens,
+metylfenidát u ADHD, modafinil u narkolepsie.
+""")
+
+K("45", "Sympatolytika alfa", """
+**Alfa-blokátory** ruší vazokonstrikci zprostředkovanou α1 receptory.
+**Neselektivní:** **fentolamin** (reverzibilní, krátce působící) a
+**fenoxybenzamin** (ireverzibilní). Používají se k přípravě pacienta s
+**feochromocytomem** k operaci; fentolamin se aplikuje také lokálně při
+extravazaci noradrenalinu, aby nevznikla nekróza.
+**Zásadní pravidlo:** u feochromocytomu se blokuje **nejprve alfa, teprve potom
+beta**. Opačné pořadí zablokuje β2 vazodilataci, zůstane nekrytý α1 stah a vzniká
+hypertenzní krize.
+**α1-selektivní:** prazosin, doxazosin, terazosin — hypertenze, zvláště současně
+s hyperplazií prostaty. **Uroselektivní α1A** tamsulosin a silodosin míří na
+prostatu a hrdlo měchýře, a proto tlak prakticky nesnižují.
+**Nežádoucí účinky:** ortostatická hypotenze a **„first-dose efekt"** (první
+dávka může vyvolat kolaps, proto se podává malá dávka na noc vleže), reflexní
+tachykardie, retrográdní ejakulace, ucpaný nos a **floppy iris syndrom**
+komplikující operaci šedého zákalu u pacientů na tamsulosinu.
+""")
+
+K("46", "Sympatolytika beta (betablokátory)", """
+**Betablokátory** jsou kompetitivní antagonisté β receptorů. Klinicky rozhoduje
+**selektivita** — žádoucí účinky plynou z blokády β1, nežádoucí z blokády β2.
+**Dělení:** **neselektivní** — propranolol (lipofilní, proniká do CNS), sotalol
+(navíc III. třída antiarytmik), **timolol** (i v očních kapkách), karvedilol
+(navíc α1 blokáda); **β1-selektivní** — metoprolol, bisoprolol, atenolol,
+betaxolol, nebivolol (navíc uvolňuje NO); **s vnitřní aktivitou** — pindolol.
+**Mechanismus:** snížení srdečního výdeje a frekvence, snížení výdeje reninu a
+centrální útlum sympatiku.
+**Indikace:** ischemická choroba srdeční, hypertenze, tachyarytmie, **srdeční
+selhání** (jen bisoprolol, metoprolol ZOK, karvedilol a nebivolol, nasazovat
+nízko a titrovat týdny), tyreotoxikóza, esenciální tremor, profylaxe migrény,
+glaukom, portální hypertenze.
+**Nežádoucí účinky:** bronchospazmus (kontraindikace u astmatu i z očních kapek),
+bradykardie a AV blokáda, únava, studené končetiny, **maskování hypoglykemie**
+(pocení zůstane, je cholinergní).
+**Nikdy nevysazovat náhle** — receptory jsou up-regulované a hrozí rebound
+tachykardie až infarkt.
+""")
+
+K("47", "Myorelaxancia", """
+**Periferní myorelaxancia** působí na nervosvalové ploténce a používají se v
+anestezii.
+**Depolarizující — sukcinylcholin:** trvale depolarizuje ploténku, nejprve
+vyvolá fascikulace, pak ochabnutí. Má velmi rychlý nástup a krátké trvání.
+**Nemá antidotum** — neostigmin by blok prohloubil, protože problémem je nadbytek,
+nikoli nedostatek acetylcholinu. Rizika: **hyperkalemie** (u popálenin a poranění
+míchy smrtelná), **maligní hypertermie** (zvláště s halogenovanými anestetiky) a
+**atypická pseudocholinesteráza** s apnoí trvající hodiny.
+**Nedepolarizující (kompetitivní):** rokuronium, vekuronium, pankuronium,
+atrakurium a cisatrakurium. **Antidotem je neostigmin s atropinem**, u rokuronia
+**sugammadex**, který lék fyzicky obalí. **Atrakurium se rozpadá Hofmannovou
+eliminací** nezávisle na játrech a ledvinách, proto je vhodné při jejich selhání.
+**Centrální myorelaxancia** tlumí polysynaptické reflexy: **baklofen** (agonista
+GABA-B), tizanidin, tolperison a benzodiazepiny; používají se u spasticity.
+**Dantrolen** působí přímo na sval — blokuje výdej vápníku ze sarkoplazmatického
+retikula a je antidotem maligní hypertermie.
+""")
+
+K("48", "Lokální anestetika", """
+**Lokální anestetika** jsou slabé zásady, které **blokují napěťově řízené
+sodíkové kanály zevnitř buňky**, a tím zastaví vedení vzruchu. Aby se dovnitř
+dostala, musí být v **nenabité formě**.
+**Estery** (prokain, tetrakain, benzokain) štěpí plazmatická cholinesteráza;
+jejich metabolit PABA vyvolává alergie. **Amidy** (lidokain, mepivakain,
+**artikain**, bupivakain, prilokain, trimekain) se metabolizují v játrech a
+alergie jsou u nich výjimečné. Artikain nese navíc esterovou skupinu, a proto má
+krátký poločas a nízkou systémovou toxicitu.
+**V zánětu je kyselé pH**, anestetikum je proto ionizované už mimo buňku,
+neprojde membránou a účinek je slabý — řešením je svodná anestezie mimo zánět,
+nikoli zvyšování dávky.
+**Vazokonstriktor** (adrenalin) prodlouží účinek, sníží krvácení i systémovou
+toxicitu; nepodává se do akrálních částí.
+**Systémová toxicita** začíná v CNS: brnění kolem úst, kovová chuť, tinnitus,
+neklid a křeče, teprve pak nastupuje kardiovaskulární kolaps. **Bupivakain je
+nejvíce kardiotoxický**, prilokain vyvolává methemoglobinemii. **Antidotem je
+lipidová emulze** spolu se zajištěním dýchání.
+""")
+
+K("49", "Celková anestetika — inhalační", """
+Účinek inhalačních anestetik popisují **dvě nezávislé veličiny**. **MAC**
+(minimální alveolární koncentrace, při níž polovina pacientů nereaguje na kožní
+řez) vyjadřuje **sílu** — čím nižší MAC, tím silnější anestetikum.
+**Rozpustnost v krvi** (koeficient krev/plyn) určuje **rychlost** nástupu a
+probuzení — čím nižší rozpustnost, tím rychlejší nástup.
+**Halotan** je obsoletní pro hepatotoxicitu a senzibilizaci myokardu ke
+katecholaminům. **Isofluran** je levný, ale dráždivý. **Sevofluran** je dnes
+standardem — sladký a nedráždivý, vhodný k úvodu maskou u dětí. **Desfluran** je
+nejrychlejší, ale dráždí dýchací cesty.
+**Oxid dusný** má MAC nad 100 %, takže **sám nikdy neuspí**, zato má výborný
+**analgetický** účinek a používá se k sedaci a analgezii u úzkostných pacientů a
+dětí. Rizika: difuzní hypoxie při ukončení (podává se 100% kyslík), inaktivace
+vitaminu B12 a expanze uzavřených dutin.
+**Maligní hypertermie** je geneticky podmíněná porucha ryanodinového receptoru;
+spouštějí ji halogenovaná anestetika a sukcinylcholin. Projeví se rigiditou,
+prudkým vzestupem teploty, acidózou a rabdomyolýzou. Léčbou je **dantrolen**.
+""")
+
+K("50", "Celková anestetika — intravenózní", """
+Nitrožilní anestetika slouží především k **úvodu do anestezie**, protože působí
+během jednoho oběhu krve. Většina působí přes **receptor GABA-A**, výjimkou je
+ketamin.
+**Propofol** má rychlý nástup, čisté probuzení a **antiemetický** účinek, ale
+sráží tlak, nemá analgetickou složku a při dlouhé infuzi hrozí propofolový
+infuzní syndrom.
+**Thiopental** je ultrakrátce působící barbiturát; jeho krátkost je dána
+**redistribucí do tuku a svalů, nikoli metabolismem**, proto se po opakovaných
+dávkách **kumuluje** a probouzení trvá hodiny.
+**Ketamin** blokuje **NMDA** receptor. Jako jediný **zachovává dýchání a zvyšuje
+krevní tlak** a má silný analgetický účinek, proto se hodí u šokového pacienta, v
+terénu a u popálenin. Vyvolává halucinace při probouzení (podává se s
+benzodiazepinem) a hypersalivaci.
+**Etomidát** je kardiálně nejstabilnější, ale tlumí kůru nadledvin a vyvolává
+myoklonie. **Midazolam** přináší anxiolýzu a anterográdní amnézii, nastupuje
+pomaleji a jeho antidotem je flumazenil.
+K bolestivému výkonu je vždy nutné přidat **opioid**.
+""")
+
+K("51", "Hypnotika", """
+Hypnotika navozují spánek. Vývojová řada barbituráty → benzodiazepiny →
+Z-hypnotika byla hnána snahou o **širší bezpečnostní okno**.
+**Receptor GABA-A je chloridový kanál.** **Benzodiazepin** zvyšuje **frekvenci**
+jeho otevírání, ale bez vlastní GABA neudělá nic — má proto **strop účinku**.
+**Barbiturát** prodlužuje **dobu** otevření a ve vyšší dávce otevře kanál i bez
+GABA, takže **strop nemá** a může zabít.
+**Barbituráty** (fenobarbital, thiopental) mají velmi úzké terapeutické okno,
+silně indukují jaterní enzymy a **nemají antidotum**; jako hypnotika se
+nepoužívají.
+**Z-hypnotika** (zolpidem, zopiklon, zaleplon) se vážou převážně na podjednotku
+α1, takže navozují spánek téměř bez myorelaxace a antikonvulzivního účinku, mají
+krátký poločas a menší ranní útlum. Rizikem jsou **parasomnie** — noční jedení,
+chození či řízení s amnézií.
+**Další možnosti:** melatonin a jeho agonisté posouvají vnitřní hodiny,
+antihistaminika I. generace, trazodon a mirtazapin.
+**Hypnotikum se podává krátkodobě a jako doplněk** — základem je spánková hygiena
+a kognitivně-behaviorální terapie. U seniorů znamenají benzodiazepiny pády.
+""")
+
+K("52", "Benzodiazepiny", """
+**Benzodiazepiny** jsou pozitivní alosterické modulátory receptoru **GABA-A**:
+samy kanál neotevřou, jen zesílí účinek vlastní GABA, a proto mají strop.
+**Pět účinků najednou:** anxiolýza, sedace a hypnóza, **antikonvulzivní** účinek
+(lék volby u status epilepticus), centrální myorelaxace a **anterográdní
+amnézie** — proto se midazolam podává před výkony.
+**Dělení podle poločasu:** krátkodobé (midazolam, triazolam) k premedikaci;
+středně dlouhé (alprazolam, oxazepam, lorazepam) u úzkosti a paniky; dlouhodobé
+(diazepam, klonazepam) u epilepsie, spasticity a odvykacího stavu. **Lorazepam,
+oxazepam a temazepam** se pouze konjugují bez fáze I, a jsou proto bezpečné u
+jaterního postižení a u seniorů.
+**Tolerance a závislost** vznikají poměrně rychle; po vysazení hrozí rebound
+úzkost, nespavost a u dlouhodobých uživatelů i křeče, proto se vysazuje pomalu.
+**Antidotem je flumazenil**, ale u závislého pacienta nebo u smíšené otravy s
+tricyklickými antidepresivy může vyvolat křeče.
+Samotný benzodiazepin usmrtí výjimečně; **smrtelná je kombinace s alkoholem nebo
+opioidem**, které strop nemají.
+""")
+
+K("53", "Antiepileptika", """
+Epileptický záchvat je **nadměrný synchronní výboj neuronů**. Antiepileptika ho
+tlumí čtyřmi mechanismy, z nichž se dají odvodit zástupci.
+**Blokáda sodíkových kanálů:** fenytoin, karbamazepin, lamotrigin, valproát.
+**Blokáda T-kalciových kanálů: ethosuximid** — jen u absencí. **Zesílení GABA:**
+benzodiazepiny, barbituráty, vigabatrin, tiagabin. **Tlumení glutamátu:**
+topiramát, perampanel. Zvláštní postavení má **levetiracetam** (vazba na
+vezikulární protein SV2A).
+**Fenytoin** má **nelineární (saturační) kinetiku** — malé zvýšení dávky vede ke
+skoku hladiny a k nystagmu, ataxii a zmatenosti; způsobuje **hyperplazii
+gingivy**, hirsutismus a silně indukuje CYP.
+**Valproát** je nejsilnějším teratogenem mezi antiepileptiky (defekty neurální
+trubice, snížené IQ), dále hepatotoxicita, hyperamonemie, tremor a přírůstek
+hmotnosti. **Karbamazepin** má autoindukci, vyvolává hyponatremii a u nositelů
+HLA-B*1502 Stevensův–Johnsonův syndrom. **Lamotrigin** vyžaduje pomalou titraci
+kvůli riziku exantému.
+**Status epilepticus:** benzodiazepin i.v. → fenytoin nebo levetiracetam →
+celková anestezie. **Nikdy nevysazovat náhle.**
+""")
+
+K("54", "Antiparkinsonika", """
+Parkinsonova nemoc je **zánik dopaminergních neuronů nigrostriatální dráhy**.
+Dopamin sám neprojde hematoencefalickou bariérou, jeho prekurzor **levodopa**
+ano.
+**Levodopa se vždy podává s inhibitorem periferní dekarboxylázy** (karbidopa,
+benserazid), který do mozku neprochází; zabrání přeměně na periferii, sníží
+nauzeu a hypotenzi a zvýší podíl látky, který dorazí do mozku. Nemá se zapíjet
+bílkovinným jídlem, protože aminokyseliny soutěží o stejný přenašeč. Po letech
+léčby se objevují dyskineze a kolísání účinku („wearing off", fenomén
+„on–off").
+**Agonisté D2** (pramipexol, ropinirol, rotigotin) se používají zejména u
+mladších pacientů; mohou vyvolat **poruchy kontroly impulzů** — hráčství,
+nakupování, hypersexualitu. **Inhibitory MAO-B** (selegilin, rasagilin) a
+**COMT** (entakapon, tolkapon s hepatotoxicitou) prodlužují účinek levodopy.
+**Amantadin** působí přes NMDA, **anticholinergika** (biperiden) hlavně na třes,
+ale u seniorů zhoršují kognici.
+**Parkinsonikovi se nesmí podat metoklopramid ani klasické antipsychotikum**;
+bezpečnou alternativou proti nevolnosti je **domperidon**.
+""")
+
+K("55", "Neuroleptika (antipsychotika)", """
+Antipsychotika blokují **dopaminové receptory D2**. Dopamin má v mozku čtyři
+dráhy a lék je nerozliší — proto je jedna blokáda léčbou a tři nežádoucím
+účinkem.
+**Mezolimbická** dráha: blokáda tlumí halucinace a bludy (žádaný účinek).
+**Mezokortikální:** blokáda zhoršuje negativní příznaky a kognici.
+**Nigrostriatální:** blokáda vyvolá **extrapyramidové** příznaky.
+**Tuberoinfundibulární:** dopamin je brzdou prolaktinu, takže blokáda způsobí
+**hyperprolaktinemii** (galaktorea, amenorea, gynekomastie).
+**Klasická:** vysokopotentní haloperidol a flufenazin (více extrapyramidových
+účinků), nízkopotentní chlorpromazin a levomepromazin (sedace, anticholinergní
+účinky, hypotenze). **Atypická** blokují navíc 5-HT2A, a proto mají méně
+extrapyramidových účinků: risperidon (nejvíce zvyšuje prolaktin), olanzapin a
+kvetiapin (metabolický syndrom), aripiprazol (parciální agonista).
+**Extrapyramidové účinky v čase:** hodiny — akutní **dystonie** (léčí se
+biperidenem), dny — akatizie, týdny — parkinsonismus, měsíce až roky —
+**tardivní dyskineze**, často nevratná.
+**Maligní neuroleptický syndrom** (rigidita, horečka, porucha vědomí, vysoká CK)
+se léčí vysazením a dantrolenem. **Klozapin** je nejúčinnější u rezistentní
+schizofrenie, ale hrozí **agranulocytóza**.
+""")
+
+K("56", "Antidepresiva — tricyklická, inhibitory MAO", """
+Obě skupiny účinkují, ale jsou druhou volbou pro svou nebezpečnost.
+**Tricyklická antidepresiva** (amitriptylin, nortriptylin, imipramin,
+klomipramin, dosulepin) blokují zpětné vychytávání **noradrenalinu i
+serotoninu** — to je žádoucí účinek. Zároveň blokují další tři receptory, odkud
+plynou nežádoucí účinky: **muskarinové** (sucho v ústech, zácpa, retence moči,
+rozmazané vidění), **H1** (sedace, přírůstek hmotnosti) a **α1** (ortostatická
+hypotenze, pády). Blokádou sodíkových kanálů v myokardu vyvolávají při
+předávkování **arytmie**, které jsou příčinou smrti; antidotem je
+hydrogenuhličitan sodný. Mají **úzké terapeutické okno**, takže zásoba na dva
+týdny může být smrtelnou dávkou. Dnes se používají hlavně u neuropatické bolesti
+a v profylaxi migrény.
+**Inhibitory MAO:** neselektivní ireverzibilní (tranylcypromin, fenelzin)
+způsobují **tyraminovou („sýrovou") reakci** s hypertenzní krizí, a to až dva
+týdny po vysazení. **Moklobemid** je reverzibilní inhibitor MAO-A, tyramin ho z
+enzymu vytlačí, a je proto bezpečný.
+**Serotoninový syndrom** (horečka, myoklonus, hyperreflexie, průjem) hrozí při
+kombinaci s SSRI, tramadolem nebo triptany; na rozdíl od maligního
+neuroleptického syndromu má hyperreflexii, nikoli rigiditu.
+""")
+
+K("57", "Antidepresiva — SSRI, SNRI, atypická", """
+**SSRI** jsou dnes léky první volby u deprese a úzkostných poruch — ne proto, že
+by byly účinnější než tricyklika, ale proto, že jsou **bezpečné při
+předávkování** a lépe snášené. Blokují zpětné vychytávání serotoninu.
+**Zástupci:** **fluoxetin** (dlouhý poločas, silný inhibitor CYP2D6),
+**sertralin** (nejméně interakcí), **escitalopram a citalopram** (prodlužují QT),
+**paroxetin** (anticholinergní, nejobtížnější vysazování).
+**Nežádoucí účinky:** nauzea na začátku, **sexuální dysfunkce** (přetrvává),
+nespavost nebo útlum, **hyponatremie (SIADH)** u seniorů, **zvýšená krvácivost**
+z vyprázdnění serotoninu z trombocytů a **discontinuation syndrom** po náhlém
+vysazení.
+**Latence účinku je 2–4 týdny** a skrývá past: psychomotorický útlum se upraví
+dříve než nálada, takže **na začátku léčby stoupá riziko sebevraždy**. První
+epizoda se léčí nejméně 6 měsíců po odeznění příznaků.
+**SNRI:** venlafaxin (ve vyšších dávkách zvyšuje tlak), duloxetin (i u
+diabetické neuropatie).
+**Atypická podle profilu:** **mirtazapin** (sedace a chuť k jídlu — výhodné u
+nespavého a hubnoucího pacienta), **bupropion** (bez sexuálních nežádoucích
+účinků, pomáhá při odvykání kouření, snižuje práh křečí), trazodon, agomelatin,
+vortioxetin.
+""")
+
+K("58", "Anxiolytika, stabilizátory nálady", """
+**Anxiolytika:** benzodiazepiny se hodí jen krátkodobě k překlenutí prvních
+týdnů, protože vedou k toleranci a závislosti. **Dlouhodobou léčbou úzkostných
+poruch jsou SSRI a SNRI.** **Buspiron** (parciální agonista 5-HT1A) je
+nenávykový a nesedativní, ale nastupuje týdny, takže na akutní paniku nestačí.
+Dále hydroxyzin, pregabalin a betablokátory, které potlačí jen tělesné projevy
+(třes, palpitace).
+**Stabilizátory nálady:** **lithium** má nejužší terapeutické okno v psychiatrii,
+**0,6–1,2 mmol/l**, a proto se měří hladiny. Vylučuje se **výhradně ledvinami** a
+nemetabolizuje se; hladinu zvyšují **nesteroidní antirevmatika, ACE inhibitory a
+sartany, thiazidy a dehydratace**, protože ledvina si lithium při nedostatku
+sodíku plete se sodíkem a šetří ho. Nežádoucí účinky: třes, polyurie a žízeň
+(nefrogenní diabetes insipidus), **hypotyreóza**, přírůstek hmotnosti, akné;
+je **teratogenní** (Ebsteinova anomálie). Otrava se projeví zvracením, ataxií,
+zmateností a křečemi a léčí se hemodialýzou.
+Dále se používají valproát, karbamazepin, **lamotrigin** (jediný s převahou
+účinku na depresivní pól) a atypická antipsychotika. **Antidepresivum se u
+bipolární poruchy podává jen se stabilizátorem**, jinak hrozí přesmyk do mánie.
+""")
+
+K("59", "Farmakoterapie Alzheimerovy choroby, nootropika", """
+Alzheimerova nemoc je neurodegenerativní onemocnění s amyloidovými plaky a tau
+patologií; nejdříve zanikají **cholinergní neurony v nucleus basalis Meynerti**,
+odkud vychází cholinergní hypotéza. **Žádný z dostupných léků nemoc nezastaví**
+— zpomalí zhoršování a zlepší denní fungování.
+**Inhibitory acetylcholinesterázy** se používají v lehkém až středně těžkém
+stadiu: **donepezil** (1× denně), **rivastigmin** (blokuje i
+butyrylcholinesterázu, existuje jako náplast s lepší snášenlivostí) a
+**galantamin**. Jejich nežádoucí účinky odpovídají mírnému SLUDGE — nevolnost,
+průjem, hypersalivace, bradykardie, živé sny.
+**Memantin** je antagonista **NMDA** receptoru (glutamátová hypotéza) pro středně
+těžké až těžké stadium; lze jej kombinovat s inhibitorem cholinesterázy.
+**Čemu se vyhnout:** anticholinergika (například oxybutynin — ruší účinek
+inhibitoru cholinesterázy), benzodiazepiny a klasická antipsychotika, která u
+demence zvyšují úmrtnost.
+**Nová léčba:** monoklonální protilátky proti amyloidu (lekanemab, donanemab) s
+rizikem mozkových otoků a mikrokrvácení [ověřit dle skript].
+**Nootropika** (piracetam, ginkgo, vinpocetin) mají slabou až žádnou evidenci a
+u prokázané demence léčbou nejsou.
+""")
+
+K("60", "Opium a jeho alkaloidy", """
+**Opium** je zaschlá šťáva z nezralých makovic máku setého (*Papaver
+somniferum*) a obsahuje dvě chemické skupiny alkaloidů.
+**Fenanthrenové** — morfin, kodein, thebain — tlumí bolest a jsou návykové.
+**Isochinolinové** — papaverin (spazmolytikum) a noskapin (antitusikum) —
+analgetický účinek ani závislost nemají.
+**Mechanismus:** receptory **μ, κ, δ** jsou spřaženy s Gi; snižují cAMP, otevírají
+draslíkové a uzavírají vápníkové kanály, takže neuron hyperpolarizují a nevyšle
+vzruch. Působí presynapticky i postsynapticky, míšně i supraspinálně.
+**Účinky:** analgezie, euforie, sedace, antitusický účinek, **útlum dechového
+centra** (snížení citlivosti k CO₂ — příčina smrti při předávkování), **mióza**,
+**zácpa**, nauzea, uvolnění histaminu (svědění, hypotenze) a stah Oddiho svěrače.
+**Tolerance** vzniká k analgezii, euforii, útlumu dechu i nauzee, ale **nikdy k
+mióze a zácpě** — proto je špendlíková zornice diagnostická i u letitého
+uživatele a k opioidu se rovnou nasazuje laxativum.
+**Otrava:** kóma, útlum dechu a mióza. **Antidotem je naloxon**, který má kratší
+poločas než morfin, a proto se musí opakovat.
+**Kodein** je proléčivo aktivované CYP2D6 na morfin.
+""")
+
+K("61", "Deriváty a náhražky morfinu", """
+Opioidy se dělí podle **síly** a podle **chování na receptoru**.
+**Silné, plné agonisty μ:** **fentanyl** (asi stokrát účinnější než morfin,
+náplasti; při rychlém i.v. podání rigidita hrudní stěny), sufentanil,
+**remifentanil** (rozkládají ho esterázy, má kontextově necitlivý poločas),
+oxykodon, hydromorfon, **metadon** (velmi dlouhý poločas, používá se k substituci,
+prodlužuje QT) a **petidin**, jehož metabolit norpetidin dráždí CNS a vyvolává
+křeče; s inhibitory MAO je kombinace smrtelná.
+**Slabé:** kodein, dihydrokodein a **tramadol**, který kromě slabého působení na
+μ receptor blokuje zpětné vychytávání noradrenalinu a serotoninu — odtud riziko
+**serotoninového syndromu** a snížení prahu pro křeče.
+**Parciální a smíšené:** **buprenorfin** má strop dechového útlumu, ale váže se
+tak pevně, že jej naloxon obtížně vytlačí; nalbufin a pentazocin mohou u pacienta
+na plném agonistovi vyvolat odvykací stav.
+**Antagonisté:** naloxon i.v. u akutní otravy, naltrexon perorálně v prevenci
+relapsu a **methylnaltrexon**, který neprochází do mozku a používá se na
+opioidovou zácpu.
+Podle **žebříčku WHO** se postupuje od neopioidního analgetika přes slabý opioid
+k silnému; u chronické bolesti se dávkuje podle hodin, ne podle potřeby.
+""")
+
+K("62", "Eikosanoidy", """
+**Eikosanoidy** jsou místní působky odvozené od **kyseliny arachidonové**, která
+se uvolňuje z membránových fosfolipidů působením **fosfolipázy A₂**.
+Kyselina arachidonová se dál metabolizuje dvěma větvemi. **Cyklooxygenázová
+(COX)** větev tvoří prostaglandiny, **prostacyklin (PGI₂)** a **tromboxan
+(TXA₂)**; **lipoxygenázová (LOX)** větev tvoří **leukotrieny**, které stahují
+průdušky, zvyšují tvorbu hlenu a působí chemotakticky.
+**Kortikoidy blokují fosfolipázu A₂**, tedy o patro výše, a vypnou proto **obě**
+větve. **Nesteroidní antirevmatika blokují jen COX**, takže se kyselina
+arachidonová „přelije" do lipoxygenázové větve — odtud **aspirinem indukované
+astma** a Samterova trias (astma, nosní polypy, intolerance aspirinu).
+**COX-1** je konstitutivní: ochranný hlen žaludku, tromboxan v trombocytech,
+průtok ledvinou. **COX-2** je indukovatelná zánětem, ale nachází se i v endotelu
+a ledvině, proto koxiby zvyšují kardiovaskulární riziko.
+**Tromboxan a prostacyklin jsou protipóly** — TXA₂ z destiček sráží a stahuje
+cévu, PGI₂ z endotelu působí opačně.
+**Léčebně:** misoprostol, alprostadil, latanoprost, epoprostenol, dinoproston a
+antileukotrien montelukast.
+""")
+
+K("63", "Analgetika-antipyretika", """
+Analgetika-antipyretika tlumí bolest a horečku, ale **nemají významný
+protizánětlivý účinek**.
+**Paracetamol** působí převážně centrálně. Nedráždí žaludeční sliznici,
+neovlivňuje srážení krve a je bezpečný v graviditě, u dětí, u astmatu a u vředové
+choroby. Maximální denní dávka je **4 g**, u rizikových pacientů méně.
+**Otrava paracetamolem:** za běžných okolností se 90 % konjuguje a asi 10 %
+přechází přes CYP2E1 na toxický **NAPQI**, který zneškodní glutathion. Při
+předávkování se konjugace nasytí, glutathion se vyčerpá a vzniká **jaterní
+nekróza**. Alkoholik je ohrožen i běžnou dávkou, protože má indukovaný CYP2E1 a
+nízké zásoby glutathionu. **Příznaky se objeví až za 1–3 dny**, proto se
+rozhoduje podle hladiny v čase, nikoli podle stavu pacienta; **antidotem je
+N-acetylcystein**, nejúčinnější do 8 hodin.
+**Metamizol** má silný analgetický a **spazmolytický** účinek, hodí se u kolik;
+rizikem je **agranulocytóza** a prudký pokles tlaku při rychlém nitrožilním
+podání.
+Dále se používá kyselina acetylsalicylová v analgetické dávce a kombinace s
+kofeinem, který účinek zesiluje.
+""")
+
+K("64", "Nesteroidní antiflogistika", """
+**Nesteroidní antirevmatika (NSA)** inhibují cyklooxygenázu a mají čtyři účinky:
+protizánětlivý, analgetický, antipyretický a antiagregační.
+**Neselektivní:** ibuprofen, diklofenak, **naproxen** (nejnižší kardiovaskulární
+riziko), indometacin, ketoprofen, piroxikam a kyselina acetylsalicylová.
+**Preferenční COX-2:** nimesulid, meloxikam. **Koxiby** (celekoxib, etorikoxib)
+šetří žaludek, ale zvyšují kardiovaskulární riziko — rofekoxib byl proto stažen.
+**Kyselina acetylsalicylová** jako jediná **ireverzibilně acetyluje COX**;
+trombocyt nemá jádro a enzym si neobnoví, takže antiagregační účinek trvá 7–10
+dní a stačí dávka 100 mg denně.
+**Nežádoucí účinky plynou z blokády COX-1:** vřed a krvácení (vznikají i po
+nitrožilním podání, prevencí je inhibitor protonové pumpy); v ledvině zrušení
+prostaglandinové vazodilatace přívodné tepénky s rizikem akutního selhání u
+dehydratovaného a seniora a analgetická nefropatie; retence sodíku, hypertenze;
+**Reyeův syndrom** u dětí a **aspirinem indukované astma**.
+**Interakce:** trojkombinace NSA + ACE inhibitor + diuretikum ohrožuje ledviny a
+**ibuprofen ruší antiagregační účinek aspirinu**.
+""")
