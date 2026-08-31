@@ -22,3 +22,4 @@ Zapisuje se přes `/session-close`. Živý rozpracovaný stav sem NEPATŘÍ — 
 - 2026-08-08 — Projekt založen při stavbě vaultu — viz kořenový README.md
 2026-08-29 — Farmakologie: dodelan VYCUC-FINAL (89 str., vsech 136 otazek: zacatek odpovedi, kostra, sketch, doptavaci otazky). README aktualizovano jako primarni soubor na posledni dny.
 2026-08-31 — Farmakologie: OBRAZKY-VSE (46 str., 136 kreslenych schemat, 1 na otazku). Novy nastroj nastroje/schemata.py + gen_obrazky.py; md2gdoc umi inline SVG.
+2026-08-31 — Farmakologie: SKETCHNOTES (136 stran, 1 kreslena strana na otazku, cela otazka vcetne deleni, NU, pasti, zubarskeho presahu a mnemotechniky). Novy nastroj nastroje/sketch.py (rucne kresleny styl: jitterovane tahy, zvyraznovac) + gen_sketch.py.

@@ -4266,3 +4266,518 @@ S("123", "Cytostatika",
         "s onkologem a podle krevního obrazu.",
   past="Checkpoint inhibitory nezabíjejí nádor přímo — jen sundají brzdu z imunity. "
        "Proto jejich nežádoucí účinky vypadají jako autoimunitní onemocnění.")
+
+S("124", "Farmakoterapie anemií",
+  jadro="Anemie není diagnóza, ale příznak. Než se začne léčit, musí se vědět, "
+        "o jaký typ jde — a hlavně proč vznikl.",
+  karty=[
+      ("SIDEROPENICKÁ — železo", [
+          "⚠️ Perorálně nalačno, ⚠️ s vitaminem C (zlepší vstřebání)",
+          "⚠️ Vstřebání snižují: antacida, PPI, tetracykliny, chinolony, čaj, mléko",
+          "⚠️ NÚ: zácpa nebo průjem, ⚠️ ČERNÁ STOLICE (nezaměnit s melénou)",
+          "⚠️ Léčit do doplnění ZÁSOB (ferritin), ne jen do normálního hemoglobinu",
+          "⚠️ VŽDY HLEDAT ZDROJ KRVÁCENÍ — u muže a u ženy po menopauze i nádor",
+          "i.v. železo při nesnášenlivosti nebo malabsorpci"], "zelena"),
+      ("⚠️ MEGALOBLASTICKÁ — B12 a folát", [
+          "⚠️ U perniciózní anemie B12 PARENTERÁLNĚ — chybí vnitřní faktor",
+          "⚠️ SMRTELNÁ PAST: samotný FOLÁT u deficitu B12 upraví krevní obraz,",
+          "⚠️ ALE NEUROLOGICKÉ POŠKOZENÍ POSTUPUJE DÁL a stane se nevratným",
+          "⚠️ Kdo je ohrožen deficitem B12: vegani, senioři, po resekci žaludku",
+          "nebo ilea, ⚠️ pacienti na metforminu a dlouhodobých PPI",
+          "Folát: ⚠️ prevence rozštěpů neurální trubice — už PŘED otěhotněním"], "cervena"),
+      ("DALŠÍ TYPY", [
+          "⚠️ Renální anemie — ERYTROPOETIN (+ vždy zajistit dostatek železa)",
+          "⚠️ Cílem není normální hemoglobin, ale bezpečné pásmo",
+          "(přestřelení zvyšuje riziko trombóz)",
+          "Aplastická anemie — imunosuprese, transplantace",
+          "Hemolytické — léčba příčiny, kortikoidy"], "modra"),
+      ("⚠️ ZUBAŘSKY — velmi praktické", [
+          "⚠️ ATROFICKÁ GLOSITIDA (hladký, červený, pálící jazyk)",
+          "⚠️ ANGULÁRNÍ CHEILITIDA (koutky)",
+          "⚠️ Recidivující afty a pálení úst",
+          "→ ⚠️ Časté PRVNÍ projevy deficitu železa, vitaminu B12 nebo folátu",
+          "⚠️ Zubař je vidí dřív než praktický lékař — reagovat odběrem,",
+          "ne jen lokální mastí"], "cervena"),
+  ],
+  mnemo="Folát sám u deficitu B12 opraví krev a zničí nervy.",
+  zubar="⚠️ Hladký bolestivý jazyk a opakované afty u pacienta bez zjevné příčiny "
+        "stojí za odběr (krevní obraz, ferritin, B12, folát). Je to nález, se kterým "
+        "zubař odesílá dál.",
+  past="Černá stolice u pacienta na železe není meléna — ale nesmí se tím zakrýt "
+       "skutečné krvácení, které anemii způsobilo.")
+
+S("125", "Rtg kontrastní látky",
+  jadro="Nemají žádný zamýšlený farmakologický účinek — a přesto mají tři typické "
+        "komplikace, na které se ptají.",
+  karty=[
+      ("JODOVÉ LÁTKY", [
+          "Ionické × neionické; ⚠️ klíčovou veličinou je OSMOLALITA",
+          "⚠️ Čím nižší osmolalita, tím lépe se snášejí",
+          "Dnes se používají neionické nízko- až izoosmolární",
+          "Použití: CT, angiografie, urografie, ⚠️ sialografie"], "zelena"),
+      ("⚠️ TŘI HLAVNÍ RIZIKA", [
+          "⚠️ 1) KONTRASTEM INDUKOVANÁ NEFROPATIE",
+          "→ prevence dostatečnou hydratací, ⚠️ vysadit METFORMIN (laktátová acidóza)",
+          "⚠️ 2) ANAFYLAKTOIDNÍ REAKCE — ⚠️ NEZPROSTŘEDKOVANÁ IgE",
+          "→ může přijít i při prvním podání; u rizikových premedikace",
+          "kortikoidem a antihistaminikem",
+          "⚠️ 3) TYREOTOXIKÓZA u pacienta s latentní hypertyreózou (jodová nálož)"], "cervena"),
+      ("BARYUM a GADOLINIUM", [
+          "⚠️ Baryová suspenze — jen do trávicího traktu",
+          "⚠️ NIKDY při podezření na perforaci (baryum v dutině břišní",
+          "→ těžká peritonitida) → tam vodná jodová látka",
+          "⚠️ Gadolinium (MR) — ⚠️ nefrogenní systémová fibróza",
+          "u těžké renální insuficience",
+          "Ultrazvukové kontrastní látky — mikrobubliny"], "modra"),
+      ("⚠️ CO ZJISTIT PŘED PODÁNÍM", [
+          "Funkce ledvin (odhad glomerulární filtrace)",
+          "Anamnéza reakcí na kontrast",
+          "Léky — ⚠️ zejména metformin",
+          "Onemocnění štítné žlázy",
+          "⚠️ MÝTUS: „alergie na jod v jídle\" NEznamená alergii na kontrastní látku"], "bila"),
+  ],
+  mnemo="Ledviny, anafylaxe, štítnice. Tři rizika jodové kontrastní látky.",
+  zubar="⚠️ V běžné zubní rentgenologii se kontrastní látky nepoužívají. "
+        "Jodová látka se uplatní při SIALOGRAFII slinných žláz.",
+  past="Anafylaktoidní reakce na kontrast není alergie — nepotřebuje předchozí "
+       "senzibilizaci a může přijít hned napoprvé.")
+
+S("126", "Léčiva pro místní účinek na kůži a sliznicích, dezinficiencia",
+  jadro="Sterilizace ničí vše včetně spor, dezinfekce se dělá na předmětech, "
+        "antiseptikum se aplikuje na živou tkáň.",
+  karty=[
+      ("⭐ CHLORHEXIDIN — zlatý standard v ústech", [
+          "⚠️ SUBSTANTIVITA — naváže se na sliznici a zuby a uvolňuje se hodiny",
+          "→ proto funguje mnohem déle než jiná ústní voda",
+          "⚠️ NÚ: HNĚDÉ ZBARVENÍ zubů a jazyka, ⚠️ PORUCHA VNÍMÁNÍ CHUTI,",
+          "pálení, zvýšená tvorba zubního kamene",
+          "⚠️ Není na dlouhodobé užívání — krátkodobě a cíleně",
+          "⚠️ Inaktivuje ho laurylsulfát ze zubní pasty → odstup asi 30 minut"], "zelena"),
+      ("DALŠÍ V DUTINĚ ÚSTNÍ", [
+          "Povidon-jod, peroxid vodíku (⚠️ ne dlouhodobě — dráždí)",
+          "⚠️ CHLORNAN SODNÝ — endodontické proplachy;",
+          "⚠️ při přetlačení za apex těžká chemická nekróza („chlornanová příhoda\")",
+          "Éterické oleje, hexetidin, delmopinol",
+          "⚠️ Kdy chlorhexidin indikovat: po chirurgickém výkonu, když pacient",
+          "dočasně nemůže čistit zuby, u akutní gingivitidy",
+          "⚠️ NIKDY jako trvalá náhrada mechanické hygieny"], "modra"),
+      ("⚠️ FLUORIDY", [
+          "⚠️ Nejúčinnější prevence kazu",
+          "⚠️ Fluorid nahradí hydroxylovou skupinu v hydroxyapatitu",
+          "→ vznikne FLUOROAPATIT, odolnější vůči kyselinám",
+          "Podporuje remineralizaci a tlumí bakteriální metabolismus",
+          "Formy: pasty, gely, laky, ústní vody, tablety",
+          "⚠️ Nadbytek v době vývoje zubu → DENTÁLNÍ FLUORÓZA (bílé skvrny)"], "zelena"),
+      ("NA KŮŽI a ZÁSADY", [
+          "Lokální kortikoidy podle potence — ⚠️ dlouhodobě atrofie kůže, strie,",
+          "teleangiektázie; ⚠️ na obličej jen slabé a krátce",
+          "Lokální antimykotika, keratolytika (kyselina salicylová)",
+          "Antiseptika: povidon-jod, oktenidin, alkoholy, benzalkonium",
+          "⚠️ Antibiotika používaná celkově se nemají aplikovat lokálně",
+          "(rezistence a senzibilizace)"], "bila"),
+  ],
+  mnemo="Substantivita = chlorhexidin zůstává a uvolňuje se. Proto funguje déle.",
+  zubar="⚠️ Chlorhexidin pacientovi vždy vysvětli i s nežádoucími účinky — hnědé "
+        "zbarvení a změna chuti jsou časté a pacienta zaskočí. A řekni mu, že "
+        "nenahrazuje kartáček.",
+  past="Chlorhexidin se nesmí použít hned po čištění zubní pastou — laurylsulfát "
+       "ho inaktivuje.")
+
+S("127", "Infuzní terapie",
+  jadro="Jediná otázka rozhoduje: kam se podaný roztok v těle rozejde.",
+  tok=[("5% GLUKÓZA = čistá voda", "cervena"), ("KRYSTALOIDY mimobuněčný prostor", "bila"),
+       ("KOLOIDY drží vodu v cévě", "zelena")],
+  karty=[
+      ("KRYSTALOIDY", [
+          "⚠️ „Fyziologický\" roztok 0,9 % NaCl fyziologický NENÍ —",
+          "má mnohem víc chloridů než plazma",
+          "⚠️ Při velkých objemech → hyperchloremická metabolická acidóza",
+          "a zhoršení průtoku ledvinou",
+          "⚠️ Proto se dnes preferují BALANCOVANÉ roztoky (Ringerův laktát, Plasmalyte)",
+          "⚠️ 5% glukóza — cukr se spotřebuje a zbyde volná voda",
+          "→ ⚠️ NENÍ na náhradu objemu"], "zelena"),
+      ("KOLOIDY", [
+          "Albumin — přirozený koloid",
+          "⚠️ Hydroxyethylškroby — výrazně OMEZENY (zhoršovaly funkci ledvin",
+          "a zvyšovaly úmrtnost u kriticky nemocných)",
+          "Želatina",
+          "⚠️ Velké molekuly drží vodu v cévním řečišti"], "modra"),
+      ("INDIKACE a ZÁSADY", [
+          "Dehydratace, šok, udržovací terapie, korekce iontů",
+          "⚠️ Hodnotit ODPOVĚĎ (tlak, diuréza, laktát, kapilární návrat),",
+          "ne podávat paušálně podle rozpisu",
+          "⚠️ U edému mozku NE hypotonické roztoky ani glukóza",
+          "→ hypertonický roztok nebo mannitol"], "bila"),
+      ("PARENTERÁLNÍ VÝŽIVA", [
+          "Aminokyseliny, tuky, cukry, ionty, stopové prvky, vitaminy",
+          "⚠️ REFEEDING SYNDROM — při rychlém krmení podvyživeného pacienta",
+          "prudce klesne fosfát, draslík a hořčík → může být smrtelný",
+          "→ začínat pomalu a doplňovat ionty",
+          "Riziko infekce katétru, jaterní steatóza"], "cervena"),
+  ],
+  mnemo="Glukóza je voda. Krystaloid do mimobuněčného prostoru. Koloid zůstane v cévě.",
+  zubar="⚠️ V ambulantní praxi je nejčastější indikací kolapsový stav a dehydratace. "
+        "⚠️ Pacient, který několik dní pro bolest nejedl a nepil, může být výrazně "
+        "dehydratovaný — před výkonem to zvaž.",
+  past="Fyziologický roztok není fyziologický. Při větších objemech způsobí acidózu, "
+       "kterou pak nikdo nečeká.")
+
+S("128", "Vitaminy rozpustné v tucích",
+  jadro="A, D, E, K se v těle UKLÁDAJÍ — proto u nich na rozdíl od vodorozpustných "
+        "hrozí i předávkování.",
+  tok=[("CHOLEKALCIFEROL", "bila"), ("JÁTRA → 25-OH-D", "bila"),
+       ("LEDVINY → ⚠️ KALCITRIOL", "zelena"), ("vstřebávání vápníku", "modra")],
+  karty=[
+      ("VITAMIN A a D", [
+          "A (retinol): zrak (rodopsin), epitely, imunita",
+          "⚠️ Deficit: šeroslepost, xeroftalmie, suché sliznice",
+          "⚠️ Nadbytek: hepatotoxicita, ⚠️ TERATOGENITA",
+          "⚠️ ISOTRETINOIN (na těžké akné) — silný teratogen, nutná spolehlivá",
+          "antikoncepce; ⚠️ NÚ: výrazná suchost rtů a sliznic",
+          "D: ⚠️ dvě hydroxylace ve dvou orgánech (játra → ledviny = kalcitriol)",
+          "⚠️ Deficit: rachitis u dětí, osteomalacie u dospělých; nadbytek: hyperkalcemie"], "zelena"),
+      ("VITAMIN E a K", [
+          "E (tokoferol): antioxidant membrán; deficit vzácný (neuropatie, hemolýza)",
+          "⚠️ Nadbytek E: zvýšená krvácivost",
+          "⚠️ K: γ-karboxylace faktorů II, VII, IX, X (a proteinů C a S)",
+          "⚠️ Deficit: krvácivost; ⚠️ hemoragická nemoc novorozence",
+          "→ ⚠️ novorozenci se vitamin K podává profylakticky",
+          "(střevo ještě nemá bakterie, které ho vyrábějí)",
+          "⚠️ Vitamin K je antidotum warfarinu"], "modra"),
+      ("⚠️ KDO JE OHROŽEN DEFICITEM", [
+          "⚠️ Poruchy vstřebávání tuků: celiakie, cystická fibróza, cholestáza",
+          "⚠️ Po bariatrické operaci",
+          "⚠️ Při užívání ORLISTATU",
+          "Chronické onemocnění jater a ledvin",
+          "⚠️ U dialyzovaného pacienta chybí aktivní forma D → podává se kalcitriol"], "cervena"),
+      ("⚠️ ZUBAŘSKY", [
+          "Vitamin D a vápník pro mineralizaci skloviny a kosti",
+          "⚠️ Deficit D u dětí → hypoplazie skloviny a opožděná erupce",
+          "⚠️ Deficit A → poruchy epitelu sliznic",
+          "⚠️ Isotretinoin → suché rty, cheilitida, snadné praskání koutků"], "bila"),
+  ],
+  mnemo="A, D, E, K se ukládají. Proto se dají předávkovat.",
+  zubar="⚠️ Pacient na isotretinoinu má extrémně suché rty a sliznice — plánované "
+        "zákroky a otisky jsou nepříjemné; někteří autoři doporučují odložit "
+        "elektivní chirurgii [⚠️ ověřit dle skript].",
+  past="Kalcidiol u dialyzovaného pacienta nepomůže — ledvina neprovede poslední "
+       "hydroxylaci, takže musí dostat rovnou aktivní formu.")
+
+S("129", "Vitaminy rozpustné ve vodě",
+  jadro="Skupina B a vitamin C. Většina jejich deficitů se projeví v ústech — "
+        "proto je to pro zubaře nejvděčnější vitaminová otázka.",
+  karty=[
+      ("⚠️ VITAMIN C — pro zubaře nejdůležitější", [
+          "⚠️ Kofaktor hydroxylace PROLINU a LYSINU → tvorba KOLAGENU",
+          "⚠️ Bez něj je vazivo v celém těle vadné",
+          "⚠️ SKORBUT: KRVÁCENÍ Z DÁSNÍ, oteklá rozbředlá dáseň,",
+          "⚠️ VIKLAJÍCÍ SE AŽ VYPADÁVAJÍCÍ ZUBY, petechie, špatné hojení ran,",
+          "únava, bolesti kloubů",
+          "⚠️ Proč právě dásně: závěsný aparát zubu je kolagen s rychlým obratem"], "cervena"),
+      ("SKUPINA B — projevy v ústech", [
+          "⚠️ B2 riboflavin → ANGULÁRNÍ CHEILITIDA (koutky), glositida",
+          "⚠️ B3 niacin → pelagra: 3× D (dermatitida, diarea, demence)",
+          "+ stomatitida a jasně červený jazyk",
+          "⚠️ B12 a folát → atrofická glositida, afty, pálení jazyka",
+          "B5, B7 (biotin) — vzácné deficity"], "zelena"),
+      ("B1, B6, B9, B12 — klinicky", [
+          "⚠️ B1 thiamin: beri-beri; ⚠️ WERNICKEOVA ENCEFALOPATIE u alkoholiků",
+          "→ ⚠️ podává se PŘED glukózou",
+          "⚠️ B6 pyridoxin: deficit při léčbě IZONIAZIDEM → periferní neuropatie;",
+          "⚠️ nadbytek dělá neuropatii také",
+          "⚠️ B9 folát: prevence rozštěpů neurální trubice — už PŘED koncepcí",
+          "⚠️ B12: vyžaduje vnitřní faktor; deficit u veganů, po resekci žaludku",
+          "nebo ilea, ⚠️ při metforminu a dlouhodobých PPI"], "modra"),
+      ("PROČ NEKUMULUJÍ", [
+          "Jsou rozpustné ve vodě a přebytek se vyloučí močí",
+          "⚠️ Výjimka: B12 se ukládá v játrech (zásoba na roky)",
+          "→ musí se přijímat pravidelně, předávkování je vzácné",
+          "⚠️ Kdy pomyslet na deficit v ordinaci: opakované afty, pálení jazyka,",
+          "hladký červený jazyk, koutky — stojí za odběr, ne za lokální mast"], "bila"),
+  ],
+  mnemo="Vitamin C dělá kolagen. Bez kolagenu nedrží zub v lůžku.",
+  zubar="⚠️ Krvácející, oteklá dáseň a viklající se zuby u pacienta s jednostrannou "
+        "stravou (senior, alkoholik, poruchy příjmu potravy) — pomysli na skorbut. "
+        "Je vzácný, ale stále existuje.",
+  past="U skorbutu byly dásně historicky prvním příznakem u námořníků — protože "
+       "závěsný aparát zubu má nejrychlejší obrat kolagenu.")
+
+S("130", "Farmakoterapie osteoporózy",
+  jadro="Dvě protilehlé strategie — brzdit odbourávání, nebo kost budovat. "
+        "A jeden paradox: parathormon podávaný přerušovaně kost buduje.",
+  karty=[
+      ("ZÁKLAD VŽDY", [
+          "⚠️ Vápník + vitamin D",
+          "Pohyb, prevence pádů, nekouřit, omezit alkohol",
+          "Bez toho nefunguje žádná další léčba",
+          "Diagnostika: denzitometrie, hodnocení rizika zlomeniny"], "zelena"),
+      ("ANTIRESORPČNÍ — brzdí osteoklasty", [
+          "⚠️ BISFOSFONÁTY: alendronát, risedronát, kyselina zoledronová",
+          "⚠️ Vážou se na hydroxyapatit → v kosti zůstávají LÉTA",
+          "⚠️ ZPŮSOB UŽITÍ: nalačno, zapít plnou sklenicí čisté vody,",
+          "⚠️ zůstat 30 minut ve vzpřímené poloze a nejíst — jinak ezofagitida",
+          "⚠️ DENOSUMAB (protilátka proti RANKL) — ⚠️ po vysazení RYCHLÁ ztráta",
+          "kosti a zlomeniny obratlů → nevysazovat bez náhrady",
+          "Raloxifen, kalcitonin"], "modra"),
+      ("OSTEOANABOLICKÉ — budují kost", [
+          "⚠️ TERIPARATID — parathormon",
+          "⚠️ PARADOX: podávaný INTERMITENTNĚ kost BUDUJE,",
+          "kdyby se podával kontinuálně, odbourával by ji",
+          "⚠️ Omezeno na dva roky léčby; poté nutné navázat antiresorpčním lékem,",
+          "jinak se získaná kost ztratí",
+          "Romosozumab"], "zelena"),
+      ("⚠️ MRONJ — osteonekróza čelisti způsobená léky", [
+          "⚠️ Riziko NÍZKÉ u perorální osteoporotické léčby,",
+          "⚠️ VÝRAZNĚ VYŠŠÍ u nitrožilních onkologických dávek a u denosumabu",
+          "⚠️ SANACE CHRUPU PATŘÍ PŘED zahájení léčby, ne po něm",
+          "⚠️ Extrakci raději nahradit konzervativním řešením (endodoncie, ponechání kořene)",
+          "⚠️ Lék NEVYSAZOVAT svévolně — „drug holiday\" jen po domluvě",
+          "(bisfosfonát v kosti stejně zůstává roky)",
+          "⚠️ Proč čelist: vysoký obrat kosti + tenká sliznice + bakterie + extrakce",
+          "⚠️ [⚠️ ověřit přesná doporučení podle vašich skript]"], "cervena"),
+  ],
+  mnemo="Bisfosfonát: nalačno, sklenice vody, půl hodiny vzpřímeně.",
+  zubar="⚠️ Tohle je jedna z nejdůležitějších otázek pro zubaře. Pacient před "
+        "zahájením bisfosfonátové nebo denosumabové léčby patří na kompletní sanaci. "
+        "Po jejím zahájení se invazivní výkony minimalizují.",
+  past="Fluorid jako lék na osteoporózu se neosvědčil — kost byla hustější, "
+       "ale křehčí. V zubu je to jinak: tam vytvoří odolnější fluoroapatit.")
+
+S("131", "Fytoterapie",
+  jadro="„Přírodní\" neznamená „bezpečné\". Rostlinné přípravky mají skutečné "
+        "farmakologické účinky — a proto i skutečné interakce.",
+  karty=[
+      ("⚠️ TŘEZALKA TEČKOVANÁ — hlavní příklad", [
+          "⚠️ INDUKUJE CYP3A4 a P-GLYKOPROTEIN → hladiny jiných léků KLESNOU",
+          "⚠️ Selhání hormonální antikoncepce",
+          "⚠️ Pokles účinku warfarinu, ⚠️ cyklosporinu (rejekce štěpu),",
+          "antiretrovirotik, digoxinu",
+          "⚠️ + SEROTONINOVÝ SYNDROM v kombinaci s SSRI",
+          "Sama o sobě mírný antidepresivní účinek u lehké deprese"], "cervena"),
+      ("⚠️ ROSTLINY ZVYŠUJÍCÍ KRVÁCIVOST", [
+          "⚠️ GINKGO BILOBA",
+          "⚠️ ČESNEK",
+          "⚠️ ZÁZVOR",
+          "⚠️ ŽENŠEN",
+          "🔑 Anglicky „the four G's\"",
+          "⚠️ Před chirurgickým výkonem se na ně ptej stejně jako na léky"], "cervena"),
+      ("DALŠÍ POUŽÍVANÉ", [
+          "Heřmánek a šalvěj — ⚠️ ústní výplachy, mírný protizánětlivý účinek",
+          "Měsíček, kozlík (nespavost), máta, ostropestřec",
+          "Senna — ⚠️ stimulační laxativum, ne dlouhodobě",
+          "Echinacea — ⚠️ evidence sporná",
+          "⚠️ HŘEBÍČKOVÝ OLEJ (EUGENOL) — tradiční zubní antiseptikum a analgetikum"], "modra"),
+      ("⚠️ PROČ JSOU PROBLEMATICKÉ", [
+          "⚠️ Kolísavý obsah účinných látek, chybějící standardizace",
+          "⚠️ Nedeklarované příměsi (i syntetická léčiva)",
+          "⚠️ Pacient je neuvede jako lék — nepovažuje je za léky",
+          "⚠️ Zubařsky: eugenol dráždí sliznici a u alergických vyvolá kontaktní reakci",
+          "⚠️ Eugenolová dočasná výplň narušuje vazbu kompozita"], "bila"),
+  ],
+  mnemo="Čtyři G zvyšují krvácivost: ginkgo, garlic, ginger, ginseng.",
+  zubar="⚠️ Anamnéza před extrakcí musí zahrnovat doplňky stravy a bylinky. "
+        "Ginkgo a česnek v kombinaci s NSA po výkonu znamenají reálné riziko krvácení.",
+  past="Třezalka je nejnebezpečnější „neškodná\" bylina — jako induktor sráží "
+       "hladiny prakticky všeho, včetně antikoncepce a imunosupresiv.")
+
+S("132", "Obecná toxikologie",
+  jadro="Paracelsus: „Všechno je jed, záleží jen na dávce.\" Toxikologie zkoumá "
+        "právě ten vztah dávky a účinku.",
+  karty=[
+      ("ZÁKLADNÍ POJMY", [
+          "Xenobiotikum — látka tělu cizí",
+          "Akutní × chronická toxicita",
+          "⚠️ Bioakumulace — látka se hromadí v organismu",
+          "⚠️ Biomagnifikace — koncentrace roste po potravním řetězci",
+          "(proto je nejvíc methylrtuti ve velkých dravých rybách)",
+          "Cesty vstupu: ústy, dýcháním, kůží, injekčně"], "zelena"),
+      ("VELIČINY", [
+          "⚠️ LD₅₀ — dávka usmrcující polovinu pokusných zvířat (míra AKUTNÍ toxicity)",
+          "⚠️ Ale neříká nic o chronické toxicitě, karcinogenitě ani teratogenitě",
+          "NOAEL — nejvyšší dávka bez pozorovaného nežádoucího účinku",
+          "ADI — přijatelný denní příjem (z NOAEL s bezpečnostním faktorem)",
+          "Hygienické limity na pracovišti (PEL, NPK-P)"], "modra"),
+      ("⚠️ INTERAKCE — vděčná otázka", [
+          "ADITIVNÍ 1 + 1 = 2",
+          "SYNERGIE 1 + 1 = 5 (účinek větší než součet)",
+          "⚠️ POTENCIACE 0 + 1 = 5 — látka sama netoxická zesílí toxicitu druhé",
+          "⚠️ Příklad: etanol sám játra nezničí a paracetamol v běžné dávce také ne,",
+          "ale společně ano (indukce CYP2E1 + vyčerpaný glutathion)",
+          "ANTAGONISMUS — základ všech antidot"], "cervena"),
+      ("KARCINOGENY a TESTOVÁNÍ", [
+          "Mutagen (poškozuje DNA) · karcinogen · teratogen",
+          "⚠️ U genotoxických karcinogenů se nepředpokládá bezpečná prahová dávka",
+          "⚠️ AMESŮV TEST — mutagenita na bakteriích, rychlý screening",
+          "Klasifikace IARC: skupina 1 prokázaný, 2A pravděpodobný, 2B možný",
+          "⚠️ Klasifikace vyjadřuje SÍLU DŮKAZU, ne velikost rizika"], "bila"),
+  ],
+  mnemo="Dávka dělá jed. A potenciace je 0 + 1 = 5.",
+  zubar="⚠️ Profesionální expozice v ordinaci: rtuť z amalgámu, oxid dusný, "
+        "dezinfekční prostředky, akryláty, ionizující záření → odsávání, ventilace, "
+        "osobní ochranné pomůcky.",
+  past="Vysoká LD₅₀ neznamená bezpečnou látku — může být silně karcinogenní nebo "
+       "teratogenní při dávkách daleko pod ní.")
+
+S("133", "Terapie otrav a předávkování",
+  jadro="Nejčastější chyba je hnát se po antidotu, zatímco pacient nedýchá. "
+        "Pořadí kroků je pevné.",
+  tok=[("1. VITÁLNÍ FUNKCE", "zelena"), ("2. dekontaminace", "bila"),
+       ("3. urychlit eliminaci", "bila"), ("4. antidotum · 5. podpora", "modra")],
+  karty=[
+      ("⚠️ POŘADÍ KROKŮ", [
+          "⭐ 1) Zajištění vitálních funkcí (dýchání, oběh, vědomí) — VŽDY PRVNÍ",
+          "2) Zamezení dalšímu vstřebávání (dekontaminace)",
+          "3) Urychlení eliminace",
+          "4) ⚠️ Antidotum — existuje jen u malé části otrav",
+          "5) Podpůrná a symptomatická léčba, monitorace"], "zelena"),
+      ("DEKONTAMINACE", [
+          "⚠️ AKTIVNÍ UHLÍ — hlavní nástroj, ideálně do 1 hodiny",
+          "⚠️ NEVÁŽE: alkoholy, kovy, železo, lithium, kyseliny a louhy",
+          "⚠️ VYVOLÁVÁNÍ ZVRACENÍ SE NEPOUŽÍVÁ",
+          "⚠️ Zvlášť ne u žíravin (poleptání podruhé) a uhlovodíků (aspirace)",
+          "Výplach žaludku jen výjimečně a časně; oplach kůže a očí"], "cervena"),
+      ("URYCHLENÍ ELIMINACE", [
+          "⚠️ ALKALIZACE MOČI — aspirin, barbituráty",
+          "(kyselý lék se v zásaditém prostředí ionizuje a nevstřebá zpět = iontová past)",
+          "⚠️ HEMODIALÝZA — metanol, ethylenglykol, lithium, salicyláty",
+          "Opakované dávky aktivního uhlí (přerušení enterohepatálního oběhu)",
+          "Forsírovaná diuréza — dnes okrajově"], "modra"),
+      ("⚠️ ANTIDOTA — tabulka k naučení", [
+          "opioidy → NALOXON · benzodiazepiny → flumazenil",
+          "⚠️ paracetamol → N-ACETYLCYSTEIN · organofosfáty → atropin + pralidoxim",
+          "anticholinergika → fyzostigmin · warfarin → vitamin K, protrombinový komplex",
+          "heparin → protamin · digoxin → protilátky (Fab)",
+          "⚠️ metanol a ethylenglykol → etanol nebo fomepizol · kyanidy → hydroxokobalamin",
+          "oxid uhelnatý → kyslík (hyperbarický) · železo → deferoxamin",
+          "⚠️ lokální anestetika → LIPIDOVÁ EMULZE · betablokátory → glukagon",
+          "blokátory Ca → kalcium, inzulin s glukózou · těžké kovy → chelátory"], "cervena"),
+  ],
+  mnemo="Nejdřív dýchání a oběh. Antidotum je až čtvrté v pořadí.",
+  zubar="⚠️ V zubní ordinaci nejrelevantnější: předávkování lokálním anestetikem "
+        "(zajistit dýchání, benzodiazepin na křeče, ⚠️ lipidová emulze) a "
+        "⚠️ fluoridová otrava u dětí → mléko nebo přípravek s vápníkem.",
+  past="U otravy žíravinou se nevyvolává zvracení ani neneutralizuje — jen výplach "
+       "vodou a rychlý transport. Neutralizace uvolní teplo a poškození zhorší.")
+
+S("134", "Toxikologie rostlin a hub",
+  jadro="U hub rozhoduje o prognóze jediná věc: jak dlouho trvalo, než se objevily "
+        "první příznaky.",
+  tok=[("6–24 h zvracení a průjem", "bila"), ("⚠️ ZDÁNLIVÉ ZLEPŠENÍ", "cervena"),
+       ("3.–5. den JATERNÍ SELHÁNÍ", "cervena"), ("silibinin, transplantace", "zelena")],
+  karty=[
+      ("🔑 PRAVIDLO LATENCE", [
+          "⚠️ Latence pod 6 hodin → obvykle lehčí otrava",
+          "(dráždivé, muskarinové, halucinogenní houby)",
+          "⚠️ Latence NAD 6 hodin → smrtelné nebezpečí",
+          "→ ⚠️ MUCHOMŮRKA ZELENÁ (Amanita phalloides)",
+          "⚠️ Uschovat zbytky pokrmu a zvratky k identifikaci"], "zelena"),
+      ("⚠️ MUCHOMŮRKA ZELENÁ", [
+          "⚠️ AMANITINY blokují RNA-POLYMERÁZU II → buňka nemůže přepisovat geny",
+          "⚠️ Tři fáze: 6–24 h prudké zvracení a průjem →",
+          "⚠️ ZDÁNLIVÉ ZLEPŠENÍ (pacient bývá propuštěn — klasická chyba) →",
+          "⚠️ 3.–5. den jaterní selhání",
+          "⚠️ Vaření, sušení ani mražení toxin nezničí",
+          "Léčba: silibinin, penicilin G, N-acetylcystein, ⚠️ transplantace jater"], "cervena"),
+      ("DALŠÍ HOUBY", [
+          "Muchomůrka červená — ⚠️ kyselina ibotenová a muscimol",
+          "(⚠️ muskarin v ní navzdory jménu není hlavní toxin); delirium a spavost",
+          "⚠️ Vláknice a strmělky — MUSKARIN → SLUDGE → ⚠️ antidotum ATROPIN",
+          "⚠️ Hnojník inkoustový — KOPRIN → disulfiramová reakce s alkoholem",
+          "Lysohlávky — psilocybin"], "modra"),
+      ("JEDOVATÉ ROSTLINY", [
+          "⚠️ Rulík, durman, blín (atropin, skopolamin) → anticholinergní syndrom",
+          "→ ⚠️ antidotum FYZOSTIGMIN",
+          "⚠️ Náprstník — digitalisové glykosidy → arytmie, žluté vidění",
+          "Oleandr, konvalinka — také glykosidy",
+          "⚠️ TIS — taxiny, ⚠️ bez antidota · bolehlav (koniin)",
+          "⚠️ OMĚJ (akonit) — nejjedovatější rostlina naší přírody",
+          "Ricin (⚠️ blokuje ribozom) · bolševník (fototoxická dermatitida)"], "cervena"),
+  ],
+  mnemo="Krátká latence = obvykle přežiješ. Dlouhá latence = muchomůrka zelená.",
+  zubar="⚠️ Anticholinergní otravu poznáš i podle extrémně suchých úst a rozšířených "
+        "zornic. ⚠️ Dráždivé rostlinné šťávy mohou způsobit poleptání ústní sliznice u dětí.",
+  past="Zdánlivé zlepšení u muchomůrky zelené je nejnebezpečnější moment — "
+       "jaterní buňky už umírají, jen se to ještě neprojevilo.")
+
+S("135", "Toxikologie živočišných jedů",
+  jadro="U hmyzu není hlavním nebezpečím toxicita jedu, ale alergická reakce. "
+        "To je věta, kterou začni.",
+  karty=[
+      ("⚠️ BLANOKŘÍDLÍ — včela, vosa, sršeň", [
+          "⚠️ Jed sám je nebezpečný jen při mnohonásobném bodnutí",
+          "⚠️ SKUTEČNÉ RIZIKO = ANAFYLAXE",
+          "→ ⭐ ADRENALIN i.m. do stehna, ne antihistaminikum",
+          "⚠️ ZUBAŘSKY ZÁSADNÍ: bodnutí do ÚST nebo HRDLA → otok →",
+          "⚠️ OBSTRUKCE DÝCHACÍCH CEST i u nealergického člověka",
+          "→ chlazení, urgentní pomoc, zajištění dýchacích cest"], "cervena"),
+      ("⚠️ ZMIJE OBECNÁ", [
+          "⚠️ Jediný jedovatý had naší přírody",
+          "Jed hemotoxický a cytotoxický: prudká bolest, rychle rostoucí otok,",
+          "modřiny, nekróza, porucha srážlivosti, hypotenze",
+          "⚠️ CO SE NEDĚLÁ: neřezat, nevysávat, nepřikládat škrtidlo,",
+          "nedávat alkohol, nechladit ledem přímo",
+          "⚠️ CO SE DĚLÁ: uklidnit, znehybnit končetinu, sundat prsteny a hodinky,",
+          "rychlý transport; antisérum jen u těžkých průběhů v nemocnici"], "cervena"),
+      ("EXOTICKÉ JEDY", [
+          "Hadi: ⚠️ kobry — neurotoxické (obrna dýchání) × zmije — hemotoxické",
+          "Škorpioni, medúzy, jedovaté žáby",
+          "⚠️ TETRODOTOXIN (ryba fugu, modrokroužkovaná chobotnice)",
+          "⚠️ Blokátor sodíkových kanálů — dělá totéž co lokální anestetikum,",
+          "jen systémově a nezvratně",
+          "Antiséra, symptomatická léčba"], "modra"),
+      ("⚠️ PROČ NE ŠKRTIDLO", [
+          "⚠️ Zadrží jed v tkáni, kde působí nekrózu",
+          "⚠️ A po uvolnění ho vyplaví najednou do oběhu",
+          "→ celkově uškodí víc, než pomůže",
+          "⚠️ V ordinaci má být adrenalin, kyslík, antihistaminikum, kortikoid,",
+          "infuzní roztok — a hlavně nacvičený postup"], "zelena"),
+  ],
+  mnemo="U hmyzu nezabíjí jed, ale alergie. A tam je jediná odpověď adrenalin.",
+  zubar="⚠️ Bodnutí do jazyka nebo hrdla je urgentní stav bez ohledu na alergii — "
+        "otok může uzavřít dýchací cesty. Ordinace musí mít adrenalin a nacvičený postup.",
+  past="Tetrodotoxin je zajímavý právě tím, že má stejný mechanismus jako lokální "
+       "anestetikum — jen se nedá zvrátit.")
+
+S("136", "Intoxikace sloučeninami rtuti, arzenu a olova",
+  jadro="Všechny tři kovy se vážou na sulfhydrylové skupiny bílkovin a tím vyřadí "
+        "enzymy — proto se všechny léčí chelátory. A všechny mají nález v ústech.",
+  karty=[
+      ("⚠️ RTUŤ", [
+          "Elementární (páry) — ⚠️ vstřebává se PLÍCEMI",
+          "⚠️ Z amalgámu se uvolňuje minimálně; omezování je vedeno hlavně",
+          "ekologicky (Minamatská úmluva) [⚠️ ověřit formulaci dle skript]",
+          "Anorganické soli — ⚠️ nefrotoxické",
+          "⚠️ Organická (methylrtuť) — ryby, biomagnifikace, neurotoxická,",
+          "⚠️ prochází placentou (Minamata)",
+          "⚠️ Chronicky: GINGIVOSTOMATITIDA, kovová chuť, slinění, uvolňování zubů,",
+          "třes, erethismus („šílený kloboučník\")",
+          "⚠️ Antidota: DMPS, sukcimer; ⚠️ u methylrtuti dimerkaprol nevhodný"], "cervena"),
+      ("⚠️ ARZEN", [
+          "Akutně: zvracení, ⚠️ prudký vodnatý „rýžovitý\" průjem,",
+          "⚠️ ČESNEKOVÝ zápach dechu, šok",
+          "Chronicky: hyperkeratózy a pigmentace kůže,",
+          "⚠️ MEESOVY příčné bílé linie na nehtech, polyneuropatie",
+          "⚠️ KARCINOGEN — kůže, plíce, močový měchýř",
+          "⚠️ Historicky „jed dědiců\" — bez chuti a zápachu",
+          "⚠️ Antidota: dimerkaprol (BAL), DMPS, sukcimer"], "cervena"),
+      ("⚠️ OLOVO", [
+          "⚠️ Blokuje syntézu hemu (δ-aminolevulát dehydratáza, ferrochelatáza)",
+          "→ ⚠️ anemie s BAZOFILNÍM TEČKOVÁNÍM erytrocytů",
+          "⚠️ Břišní kolika, ⚠️ obrna extenzorů ruky („padající ruka\")",
+          "⚠️ Encefalopatie — u dětí i při nízkých hladinách trvalé poškození vývoje a IQ",
+          "⚠️ ZUBAŘSKY: OLOVĚNÝ LEM na okraji dásně (Burtonova linie) —",
+          "modrošedý proužek ze sulfidu olovnatého",
+          "⚠️ Antidota: EDTA (⚠️ KALCIOVÁ sůl), sukcimer, penicilamin, dimerkaprol"], "cervena"),
+      ("SPOLEČNÉ PRINCIPY", [
+          "⚠️ Vazba na ─SH skupiny → blokáda enzymů",
+          "⚠️ Léčba: CHELÁTORY (dimerkaprol/BAL, DMPS, EDTA, sukcimer, penicilamin)",
+          "⚠️ U olova se podává KALCIOVÁ sůl EDTA — sodná by navázala vápník",
+          "z krve a způsobila smrtelnou hypokalcemii",
+          "Odkud dnes hrozí expozice: rtuť z ryb, arzen z podzemní vody a pesticidů,",
+          "olovo ze staré barvy, pájek, střeliva a starých potrubí"], "zelena"),
+  ],
+  mnemo="Rtuť = zánět dásní a slinění. Olovo = olověný lem. Arzen = česnekový dech.",
+  zubar="⚠️ Olověný lem a rtuťová gingivostomatitida jsou klasické učebnicové nálezy, "
+        "na které se ptají právě zubařů — protože zubař je vidí v ústech dřív než kdokoli jiný.",
+  past="Sodná sůl EDTA u otravy olovem by navázala vápník z krve a pacienta zabila — "
+       "podává se výhradně kalciová sůl.")

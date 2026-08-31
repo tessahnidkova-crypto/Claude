@@ -51,16 +51,39 @@ U **každé** otázky jsou čtyři věci, a nic navíc:
 |---|---|---|
 | **`VYCUC-FINAL.pdf`** | **všech 136** | **89** + 136 záložek |
 
-### 🖼 Obrázky (jedno schéma ke každé otázce)
+### 🖼 SKETCHNOTY — celá otázka jako jeden kreslený list
 
 | Soubor | Otázky | Stran |
 |---|---|---|
-| **`OBRAZKY-VSE.pdf`** | **všech 136** | **46** + 136 záložek |
+| **`SKETCHNOTES.pdf`** | **všech 136** | **136** (1 otázka = 1 strana) + 136 záložek |
 
-Kreslená schémata, ne text. Ke každé otázce jeden obrázek, který nese její hlavní
-myšlenku, a pod ním jedna červená věta „co si z toho odnést". ⚠️ **Červený rámeček =
-past nebo nežádoucí účinek · zelený = jádro věci.** Zdroj je `nastroje/farmakologie_obrazky.py`
-— když se schéma opraví, přegeneruje se celý atlas příkazem `python3 nastroje/gen_obrazky.py`.
+**Ručně kreslený přehled CELÉ otázky na jednu stranu.** Ne jedna myšlenka jako
+v `OBRAZKY-VSE`, ale všechno: mechanismus, dělení, zástupci, nežádoucí účinky, pasti,
+zubařský přesah i mnemotechnika.
+
+| Prvek na stránce | Co to je |
+|---|---|
+| **žlutě podtržená věta nahoře** | jádro otázky — o čem to celé je |
+| **pás rámečků se šipkami** | mechanismus, na který se dá pověsit zbytek |
+| **dlaždice ve dvou sloupcích** | dělení · zástupci · indikace · nežádoucí účinky · pasti |
+| 🔑 **žlutý pruh dole** | mnemotechnika |
+| 🦷 **modrý pruh dole** | zubařský přesah |
+| ⚠️ **červený pruh dole** | past, na které se u téhle otázky chytají |
+
+**Barvy rámečků:** zelená = jádro věci · **červená = past nebo nežádoucí účinek** ·
+modrá = klinika · bílá = neutrální výčet.
+
+Zdroj je `nastroje/farmakologie_sketch.py`; přegeneruje se příkazem
+`python3 nastroje/gen_sketch.py`.
+
+### 🖼 OBRAZKY-VSE — rychlý přelet
+
+| Soubor | Otázky | Stran |
+|---|---|---|
+| `OBRAZKY-VSE.pdf` | všech 136 | 46 + 136 záložek |
+
+Jedno schéma na otázku s **jednou hlavní myšlenkou** — 3 otázky na stranu. Na rychlé
+projetí celé látky za hodinu; na učení použij sketchnoty výš.
 
 ### Zkrácené výpisky (na učení)
 
@@ -159,8 +182,10 @@ Katedra zkouší zubaře; tyhle položky se opakovaně objevují:
 
 ## Jak se to učit
 
-**Obrázky projeď jako první.** 46 stran, jedno schéma na otázku — za hodinu máš přeletěnou
-celou látku a víš, které otázky ti nic neříkají. Teprve na ně pak pusť text.
+**Pořadí, ve kterém to používat:** ⓵ **`OBRAZKY-VSE`** (46 stran) na rychlý přelet — za
+hodinu víš, které otázky ti nic neříkají · ⓶ **`SKETCHNOTES`** na učení — jedna otázka,
+jedna strana, všechno na ní · ⓷ **`VYCUC-FINAL`** na to, jak otázku začít a co se doptají ·
+⓸ zkrácená a mluvená verze jen u otázek, které ti pořád nesedí.
 
 **Plán na zbývající dny:** ⓵ **projeď `VYCUC-FINAL` celý** — u každé otázky přečti jen ▶ ZAČNI a KOSTRU, schémata si prohlédni · ⓶ **projeď ho podruhé a u každé otázky se pokus říct začátek nahlas ZPAMĚTI, než se podíváš** · ⓷ **u otázek, kde to nešlo, otevři zkrácenou verzi** · ⓸ **den před zkouškou jen ❓ DOPTAJÍ SE — to je to, co tě u zkoušky nejspíš potopí, ne hlavní odpověď.**
 
