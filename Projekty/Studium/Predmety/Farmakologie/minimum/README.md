@@ -82,9 +82,14 @@ Zdroj je `nastroje/farmakologie_sketch.py`; přegeneruje se příkazem
 |---|---|---|
 | **`TAHACKY.pdf`** | **všech 136** (1 otázka = 1 kartička) | **12** listů A4, 12 karet na list |
 
-Karta má zhruba **66 × 71 mm** — velikost hrací karty, vejde se do kapsy. Na každé je:
-**číslo a název · jádro otázky (žlutě) · mechanismus jako šipkový řetěz (zeleně) ·
-až sedm bodů, přednostně pastí a nežádoucích účinků · 🔑 mnemotechnika · 🦷 zubařský přesah.**
+Karta má zhruba **66 × 71 mm** — velikost hrací karty, vejde se do kapsy. Obsahuje
+**číslo a název otázky · mechanismus jako šipkový řetěz · až jedenáct faktických bodů**
+(mechanismus, dělení se zástupci, indikace, nežádoucí účinky, kontraindikace, interakce).
+
+⚠️ **Odborný registr:** kartičky vědomě **neobsahují zubní přesah, mnemotechniku ani
+komentář k učení** a nemají zvýrazňovací piktogramy. Nežádoucí účinky se slizničním
+nebo dentálním projevem (hyperplazie gingivy po fenytoinu, xerostomie, zbarvení zubů
+po tetracyklinech) zůstávají — jsou to standardní farmakologická fakta, ne přesah.
 
 ⚠️ **Tisk:** jednostranně, **měřítko 100 %** (ne „přizpůsobit stránce" — jinak se
 posunou střihové linky). Rozstříhat po čárkovaných linkách.
