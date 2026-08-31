@@ -27,3 +27,4 @@ Zapisuje se přes `/session-close`. Živý rozpracovaný stav sem NEPATŘÍ — 
 2026-08-31 — Farmakologie: TAHACKY.pdf — kapesni karticky, 136 karet (95x68 mm), 8 na list A4, 17 listu. Obsah se automaticky zhustuje ze sketchnot (nastroje/gen_tahaky.py); S() ve farmakologie_sketch.py nove uklada i strukturovana data (DATA).
 2026-08-31 — Farmakologie: TAHACKY zmenseny na 12 karet na A4 (66x71 mm, 12 listu). Do generatoru pridan rozpocet radku a min-height:0 v mrizce — bez toho radek rostl podle obsahu a text pretekal na dalsi stranu.
 2026-08-31 — Farmakologie: TAHACKY prepsany do odborneho registru — bez zubniho presahu, mnemotechniky a piktogramu; jen fakta (az 11 bodu na kartu). Generator ma filtry DENTALNI/META a cisteni piktogramu.
+2026-08-31 — Farmakologie: TAHACKY prepsany — kazda karta ma ZACATEK (dve vety z VYCUC-FINAL), KOSTRU a ZAKLAD, plni se az do kraje. Generator cte VYCUC-FINAL.md, filtruje zubni presah i z kostry a nikdy neutina text uprostred mysleny.

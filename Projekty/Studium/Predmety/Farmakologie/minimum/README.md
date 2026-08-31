@@ -82,9 +82,17 @@ Zdroj je `nastroje/farmakologie_sketch.py`; přegeneruje se příkazem
 |---|---|---|
 | **`TAHACKY.pdf`** | **všech 136** (1 otázka = 1 kartička) | **12** listů A4, 12 karet na list |
 
-Karta má zhruba **66 × 71 mm** — velikost hrací karty, vejde se do kapsy. Obsahuje
-**číslo a název otázky · mechanismus jako šipkový řetěz · až jedenáct faktických bodů**
-(mechanismus, dělení se zástupci, indikace, nežádoucí účinky, kontraindikace, interakce).
+Karta má zhruba **66 × 71 mm** — velikost hrací karty, vejde se do kapsy. Struktura:
+
+| Část karty | Co obsahuje |
+|---|---|
+| **ZAČÁTEK** *(zelený rámeček)* | **dvě věty, kterými se otázka otevře** — přebírá se z `VYCUC-FINAL` |
+| **KOSTRA** *(šipkový řetěz)* | osnova odpovědi: v jakém pořadí mluvit |
+| **ZÁKLAD** *(odrážky)* | fakta: mechanismus, dělení se zástupci, indikace, nežádoucí účinky, kontraindikace, interakce |
+
+Karta se plní **až do kraje** — kolik faktů se vejde, tolik jich tam je.
+⚠️ **Text se nikdy neutíná uprostřed myšlenky:** položka, která by po zkrácení
+nedávala smysl, se vynechá a nastoupí další.
 
 ⚠️ **Odborný registr:** kartičky vědomě **neobsahují zubní přesah, mnemotechniku ani
 komentář k učení** a nemají zvýrazňovací piktogramy. Nežádoucí účinky se slizničním
