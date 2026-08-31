@@ -51,6 +51,17 @@ U **každé** otázky jsou čtyři věci, a nic navíc:
 |---|---|---|
 | **`VYCUC-FINAL.pdf`** | **všech 136** | **89** + 136 záložek |
 
+### 🖼 Obrázky (jedno schéma ke každé otázce)
+
+| Soubor | Otázky | Stran |
+|---|---|---|
+| **`OBRAZKY-VSE.pdf`** | **všech 136** | **46** + 136 záložek |
+
+Kreslená schémata, ne text. Ke každé otázce jeden obrázek, který nese její hlavní
+myšlenku, a pod ním jedna červená věta „co si z toho odnést". ⚠️ **Červený rámeček =
+past nebo nežádoucí účinek · zelený = jádro věci.** Zdroj je `nastroje/farmakologie_obrazky.py`
+— když se schéma opraví, přegeneruje se celý atlas příkazem `python3 nastroje/gen_obrazky.py`.
+
 ### Zkrácené výpisky (na učení)
 
 | Soubor | Otázky | Stran |
@@ -147,6 +158,9 @@ Katedra zkouší zubaře; tyhle položky se opakovaně objevují:
 ---
 
 ## Jak se to učit
+
+**Obrázky projeď jako první.** 46 stran, jedno schéma na otázku — za hodinu máš přeletěnou
+celou látku a víš, které otázky ti nic neříkají. Teprve na ně pak pusť text.
 
 **Plán na zbývající dny:** ⓵ **projeď `VYCUC-FINAL` celý** — u každé otázky přečti jen ▶ ZAČNI a KOSTRU, schémata si prohlédni · ⓶ **projeď ho podruhé a u každé otázky se pokus říct začátek nahlas ZPAMĚTI, než se podíváš** · ⓷ **u otázek, kde to nešlo, otevři zkrácenou verzi** · ⓸ **den před zkouškou jen ❓ DOPTAJÍ SE — to je to, co tě u zkoušky nejspíš potopí, ne hlavní odpověď.**
 

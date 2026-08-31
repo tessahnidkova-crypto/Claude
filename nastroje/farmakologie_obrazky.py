@@ -1221,3 +1221,324 @@ N("110", "Nikotin", srovnani(
          "implantátů. ⚠️ Kouření indukuje CYP1A2 → po přestání stoupne hladina theofylinu, "
          "olanzapinu, klozapinu. Odvykání: ⚠️ vareniklin je nejúčinnější.",
     a_kind="pozor", b_kind="normal"))
+
+N("111", "Metylxantiny a jejich deriváty", srovnani(
+    "BLOKÁDA ADENOSINU",
+    ["Adenosin je „signál únavy\"", "Zablokuješ ho → bdělost",
+     "⚠️ Energii to nedodá, jen maskuje únavu", "Tohle dělá kofein"],
+    "INHIBICE FOSFODIESTERÁZY",
+    ["↑ cAMP → bronchodilatace", "Silnější a rychlejší stah srdce",
+     "⚠️ Až ve vyšších koncentracích —", "blízko toxickému pásmu"],
+    titulek="Dva mechanismy jedné skupiny",
+    pozn="⚠️ THEOFYLIN má velmi úzké okno: nauzea → neklid → tachyarytmie → křeče. "
+         "⚠️ Makrolidy a chinolony hladinu zvednou, ⚠️ KOUŘENÍ ji SNÍŽÍ — a když kuřák "
+         "přestane, hladina vyskočí nahoru. Kofein: apnoe nedonošenců, přídavek do analgetik.",
+    a_kind="normal"))
+
+N("112", "Antirevmatika", srovnani(
+    "SYMPTOMATICKÁ",
+    ["NSA a kortikoidy", "Uleví od bolesti a ztuhlosti",
+     "⚠️ Kloub se ničí DÁL", "Nemění průběh nemoci"],
+    "⭐ CHOROBU MODIFIKUJÍCÍ (DMARDs)",
+    ["⭐ METHOTREXÁT — lék volby", "Leflunomid, sulfasalazin, hydroxychlorochin",
+     "Biologika: anti-TNF, rituximab, tocilizumab", "⚠️ Nasadit CO NEJDŘÍV"],
+    titulek="Kloubní destrukce vzniká v prvních měsících a je nevratná",
+    pozn="⚠️ METHOTREXÁT SE PODÁVÁ JEDNOU TÝDNĚ — denní podání je smrtelná chyba. "
+         "⚠️ Přidává se kyselina listová. ⚠️ NÚ: hepatotoxicita, útlum dřeně, TERATOGENITA "
+         "a ⚠️ ULCERACE V ÚSTECH. ⚠️ Před biologiky screening TBC a hepatitid.",
+    a_kind="normal", b_kind="zvyrazni"))
+
+N("113", "Antiuratika", srovnani(
+    "AKUTNÍ ZÁCHVAT",
+    ["NSA (⚠️ ne aspirin — zvyšuje urikemii)", "KOLCHICIN (⚠️ průjem limituje dávku)",
+     "Kortikoidy", "⚠️ Alopurinol se sem NENASAZUJE"],
+    "DLOUHODOBĚ, MEZI ZÁCHVATY",
+    ["⭐ ALOPURINOL (xanthinoxidáza), febuxostat", "Urikosurika: probenecid, benzbromaron",
+     "⚠️ Při zahájení krýt kolchicinem —", "prudká změna hladiny záchvat vyvolá"],
+    titulek="Dvě úplně jiné léčby, které se nesmí zaměnit",
+    pozn="⚠️ ALOPURINOL + AZATHIOPRIN je nebezpečná kombinace — alopurinol zablokuje enzym, "
+         "který azathioprin odbourává → těžký útlum dřeně. ⚠️ Kyselinu močovou zvyšují "
+         "thiazidy, kličková diuretika, nízké dávky aspirinu, pyrazinamid, cyklosporin.",
+    a_kind="normal", b_kind="zvyrazni"))
+
+N("114", "Imunosupresiva, imunostimulancia", cil(
+    "CYKLOSPORIN kalcineurinový inhibitor",
+    [("⚠️ HYPERPLAZIE GINGIVY", "pozor"),
+     ("⚠️ Nefrotoxicita a hypertenze", "pozor"),
+     ("⚠️ Hypertrichóza", "pozor"),
+     ("⚠️ TAKROLIMUS hyperplazii dásní NEDĚLÁ (ale je diabetogenní)", "zvyrazni"),
+     ("⚠️ Všechna imunosupresiva: INFEKCE", "pozor"),
+     ("⚠️ a NÁDORY — i rtu a dutiny ústní", "pozor")],
+    titulek="Třetí lék, který zvětšuje dásně — vedle fenytoinu a nifedipinu",
+    pozn="⚠️ Dokonalá ústní hygiena rozsah hyperplazie výrazně zmenší. ⚠️ Sanace chrupu patří "
+         "PŘED transplantaci a před zahájení imunosuprese. Azathioprin: ⚠️ testovat TPMT. "
+         "Cyklofosfamid: ⚠️ hemoragická cystitida → mesna."))
+
+N("115", "Hormony hypothalamu, hypofýzy, jejich analoga", srovnani(
+    "GnRH PULZNĚ",
+    ["Napodobí fyziologii", "→ osa se BUDÍ",
+     "Používá se v reprodukční medicíně", ""],
+    "⚠️ GnRH KONTINUÁLNĚ",
+    ["Receptory se desenzibilizují", "→ ⚠️ osa se VYPNE = chemická kastrace",
+     "Goserelin, leuprorelin", "⚠️ Karcinom prostaty, endometrióza"],
+    titulek="Paradox, na který se ptají: stejná látka, opačný výsledek",
+    pozn="⚠️ DESMOPRESIN: diabetes insipidus, noční pomočování — a ⚠️ VYPLAVÍ vWF a FAKTOR "
+         "VIII → před extrakcí u mírné hemofilie A. ⚠️ AKROMEGALIE: progenie, diastemata, "
+         "makroglosie — zubař si toho často všimne první. Dopamin je brzda prolaktinu "
+         "→ kabergolin u prolaktinomu.", a_kind="normal"))
+
+N("116", "Farmakoterapie onemocnění štítné žlázy", srovnani(
+    "HYPOTYREÓZA — levothyroxin",
+    ["⚠️ Nalačno, 30 min před jídlem", "⚠️ Odstup od vápníku, železa, PPI",
+     "⚠️ U seniora a kardiaka začínat nízko", "Kontrola TSH až za 6–8 týdnů"],
+    "HYPERTYREÓZA — tyreostatika",
+    ["Thiamazol; propylthiouracil v 1. trimestru", "Blokáda tyreoidální peroxidázy",
+     "⚠️ AGRANULOCYTÓZA — při horečce a bolesti", "v krku OKAMŽITĚ krevní obraz"],
+    titulek="Dvě protilehlé situace a jejich praktické detaily",
+    pozn="⚠️ Zubařsky: „angína\" u pacienta na tyreostatiku není banalita. "
+         "⚠️ U nekontrolované hypertyreózy odložit plánované ošetření a být opatrná "
+         "s adrenalinem — riziko arytmie až tyreotoxické krize.",
+    a_kind="normal", b_kind="pozor"))
+
+N("117", "Glukokortikoidy, mineralokortikoidy", retez(
+    [("KORTIKOID → nitrobuněčný receptor", "zvyrazni"),
+     ("jádro → tvorba LIPOKORTINU", "normal"),
+     ("⚠️ blokáda FOSFOLIPÁZY A₂", "pozor"),
+     ("⚠️ nevzniknou ANI prostaglandiny ANI leukotrieny", "zvyrazni")],
+    titulek="Kortikoid blokuje o patro výš než NSA — proto vypne obě větve",
+    pozn="⚠️ ZUBAŘSKY NEJDŮLEŽITĚJŠÍ: pacient na dlouhodobých kortikoidech potřebuje před "
+         "stresovým zákrokem dávku ZVÝŠIT, ne vynechat — jeho nadledviny neumějí odpovědět "
+         "vlastním kortizolem (adrenální krize). ⚠️ Účinek nastupuje s odstupem (musí se "
+         "přepsat geny), proto kortikoid sám anafylaxi nezachrání."))
+
+N("118", "Farmakoterapie obezity", stupnice(
+    [("⭐ ZÁKLAD — režim, strava, pohyb", "farmakoterapie je DOPLNĚK, ne náhrada", "zvyrazni"),
+     ("ORLISTAT — blokuje střevní lipázu", "⚠️ steatorea; ⚠️ snižuje vstřebání vitaminů A, D, E, K", "normal"),
+     ("⚠️ GLP-1 AGONISTÉ — liraglutid, semaglutid", "dnes nejúčinnější; ⚠️ zpomalují vyprazdňování žaludku", "zvyrazni"),
+     ("⚠️ STAŽENÉ Z TRHU", "sibutramin (KV příhody) · rimonabant (suicidalita) · fenfluramin (chlopně)", "pozor")],
+    titulek="Proč se u léků na obezitu vyžaduje dlouhodobá bezpečnost",
+    sipka_popis="od režimu k lékům",
+    pozn="Berou je jinak zdraví lidé a dlouho — proto stačí malé riziko, aby přípravek "
+         "skončil. ⚠️ Po bariatrické operaci: zvracení a reflux → EROZE SKLOVINY, "
+         "a doživotní suplementace železa, B12, vápníku a vitaminu D."))
+
+N("119", "Androgeny, anabolické steroidy", vetev(
+    "ANABOLIKA ZVENČÍ tělo vidí dost androgenů",
+    [("⚠️ vypne vlastní osu", "atrofie varlat, zástava spermiogeneze, NEPLODNOST", "pozor"),
+     ("⚠️ nadbytek se AROMATIZUJE na estrogeny", "GYNEKOMASTIE", "pozor"),
+     ("⚠️ 17-alkylované (perorální)", "jaterní poškození, cholestáza, nádory", "pozor"),
+     ("⚠️ u žen VIRILIZACE", "hirsutismus, ⚠️ NEVRATNÉ prohloubení hlasu", "pozor")],
+    titulek="Zpětná vazba je důvod skoro všech komplikací",
+    pozn="⚠️ Testosteron se nedá podat ústy (first-pass) → injekčně, gelem, náplastí. "
+         "Antiandrogeny: cyproteron, bikalutamid, ⚠️ finasterid (5-α-reduktáza — prostata "
+         "i plešatost), abirateron, enzalutamid."))
+
+N("120", "Estrogeny, gestageny", vetev(
+    "TAMOXIFEN jedna molekula, tři různá chování",
+    [("v PRSU", "⭐ ANTAGONISTA → léčba karcinomu prsu", "zvyrazni"),
+     ("v ENDOMETRIU", "⚠️ AGONISTA → riziko karcinomu endometria", "pozor"),
+     ("v KOSTI", "agonista → chrání; ⚠️ ale zvyšuje riziko trombózy", "normal")],
+    titulek="Selektivní modulátor: v každé tkáni něco jiného",
+    pozn="Raloxifen v endometriu nepůsobí → osteoporóza. Inhibitory aromatázy jen "
+         "u postmenopauzálních žen. ⚠️ HRT: nejnižší dávka, nejkratší doba, u ženy s dělohou "
+         "vždy přidat gestagen. ⚠️ Zubařsky: hormonální gingivitida, těhotenský epulis, "
+         "vyšší riziko suché alveolitidy."))
+
+N("121", "Kontraceptiva", cil(
+    "⚠️ KONTRAINDIKACE kombinované antikoncepce",
+    [("⚠️ Trombóza nebo trombofilie v anamnéze", "pozor"),
+     ("⚠️ MIGRÉNA S AUROU", "pozor"),
+     ("⚠️ Kouření u ženy nad 35 let", "pozor"),
+     ("Karcinom prsu, těžké onemocnění jater", "normal"),
+     ("⚠️ INTERAKCE: rifampicin, karbamazepin, fenytoin, třezalka", "pozor"),
+     ("Přínos navíc: ⚠️ nižší riziko karcinomu vaječníku a endometria", "zvyrazni")],
+    titulek="Mechanismus je jednoduchý — zkoušejí se kontraindikace",
+    pozn="Tři mechanismy: potlačení ovulace · zahuštění hlenu · změna endometria. "
+         "⚠️ U migrény s aurou se sčítá riziko ischemické mozkové příhody. "
+         "Postkoitálně: levonorgestrel do 72 h, ulipristal do 120 h."))
+
+N("122", "Farmakoterapie benigní hyperplazie prostaty", srovnani(
+    "α1-BLOKÁTORY — dynamická složka",
+    ["Tamsulosin, silodosin, alfuzosin", "Uvolní staženou svalovinu hrdla",
+     "⚠️ Úleva ZA DNY", "⚠️ Floppy iris, ortostáza"],
+    "INHIBITORY 5-α-REDUKTÁZY — statická",
+    ["Finasterid, dutasterid", "Skutečně ZMENŠÍ žlázu",
+     "⚠️ Ale až za 3–6 MĚSÍCŮ", "⚠️ Sníží PSA na polovinu"],
+    titulek="Dvě složky obtíží, dvě rychlosti úlevy",
+    pozn="⚠️ Snížené PSA je past při screeningu karcinomu prostaty — urolog to musí vědět. "
+         "⚠️ Zubařsky: anticholinergika (i antihistaminika I. generace a tricyklika) mohou "
+         "u muže s hyperplazií vyvolat akutní retenci moči.", a_kind="normal", b_kind="normal"))
+
+N("123", "Cytostatika", cil(
+    "CYTOSTATIKUM zasáhne RYCHLE SE DĚLÍCÍ buňky",
+    [("NÁDOR ⭐ o to nám jde", "zvyrazni"),
+     ("KOSTNÍ DŘEŇ → ⚠️ neutropenie, krvácivost", "pozor"),
+     ("SLIZNICE → ⚠️ MUKOZITIDA = vstupní brána sepse", "pozor"),
+     ("VLASOVÉ FOLIKULY → alopecie", "normal"),
+     ("GONÁDY → neplodnost", "normal"),
+     ("⚠️ Proto SANACE CHRUPU PŘED chemoterapií, ne během", "pozor")],
+    titulek="Jedna věta vysvětlí účinek i celý profil toxicity",
+    pozn="Orgánové zvláštnosti: ⚠️ doxorubicin — kumulativní KARDIOTOXICITA · bleomycin — "
+         "plicní fibróza · cisplatina — nefro- a ototoxicita · cyklofosfamid — hemoragická "
+         "cystitida (mesna) · vinkristin — neuropatie. ⚠️ Po ozáření hlavy a krku: "
+         "xerostomie a OSTEORADIONEKRÓZA."))
+
+N("124", "Farmakoterapie anemií", srovnani(
+    "SIDEROPENICKÁ — železo",
+    ["⚠️ Nalačno, s vitaminem C", "⚠️ Antacida, PPI, tetracykliny brzdí vstřebání",
+     "⚠️ Léčit do doplnění ZÁSOB (ferritin)", "⚠️ VŽDY hledat zdroj krvácení"],
+    "MEGALOBLASTICKÁ — B12 a folát",
+    ["⚠️ U perniciózní anemie B12 PARENTERÁLNĚ", "⚠️ SMRTELNÁ PAST: samotný folát",
+     "upraví krevní obraz, ale NEUROLOGICKÉ", "poškození postupuje dál a stane se nevratným"],
+    titulek="Anemie není diagnóza, ale příznak — nejdřív typ, pak léčba",
+    pozn="⚠️ ZUBAŘSKY: atrofická glositida, angulární cheilitida, pálení jazyka a "
+         "recidivující afty bývají PRVNÍM projevem deficitu železa, B12 nebo folátu — "
+         "a zubař je vidí dřív než praktik.", a_kind="normal", b_kind="pozor"))
+
+N("125", "Rtg kontrastní látky", cil(
+    "JODOVÁ KONTRASTNÍ LÁTKA tři typické komplikace",
+    [("⚠️ NEFROPATIE → hydratace, ⚠️ vysadit METFORMIN", "pozor"),
+     ("⚠️ ANAFYLAKTOIDNÍ reakce — ⚠️ NEZÁVISLÁ na IgE", "pozor"),
+     ("⚠️ TYREOTOXIKÓZA u latentní hypertyreózy", "pozor"),
+     ("Rozhoduje OSMOLALITA — čím nižší, tím snesitelnější", "zvyrazni"),
+     ("⚠️ BARYUM nikdy při podezření na perforaci", "pozor"),
+     ("⚠️ GADOLINIUM → nefrogenní systémová fibróza", "pozor")],
+    titulek="Látka bez zamýšleného účinku, a přesto se třemi riziky",
+    pozn="⚠️ „Alergie na jod v jídle\" NEznamená alergii na kontrastní látku — je to "
+         "rozšířený mýtus. Zubařsky: jodová látka se používá při sialografii slinných žláz."))
+
+N("126", "Léčiva pro místní účinek na kůži a sliznicích, dezinficiencia", cil(
+    "CHLORHEXIDIN zlatý standard v dutině ústní",
+    [("⭐ SUBSTANTIVITA — váže se a uvolňuje hodiny", "zvyrazni"),
+     ("⚠️ HNĚDÉ ZBARVENÍ zubů a jazyka", "pozor"),
+     ("⚠️ PORUCHA VNÍMÁNÍ CHUTI", "pozor"),
+     ("⚠️ Inaktivuje ho laurylsulfát ze zubní pasty → odstup 30 min", "pozor"),
+     ("⚠️ Jen krátkodobě a cíleně", "pozor"),
+     ("⚠️ Nikdy jako náhrada mechanické hygieny", "pozor")],
+    titulek="Proč chlorhexidin funguje déle než jiná ústní voda — a proč jen krátce",
+    pozn="⚠️ FLUORIDY: fluorid nahradí hydroxylovou skupinu v hydroxyapatitu → FLUOROAPATIT, "
+         "odolnější vůči kyselinám. ⚠️ Chlornan sodný v endodoncii — při přetlačení za apex "
+         "těžká chemická nekróza. Sterilizace × dezinfekce (předměty) × antisepse (živá tkáň)."))
+
+N("127", "Infuzní terapie", vetev(
+    "KAM SE ROZTOK V TĚLE ROZEJDE?",
+    [("5% GLUKÓZA", "cukr se spotřebuje, zbyde ČISTÁ VODA → ⚠️ NENÍ na náhradu objemu", "pozor"),
+     ("KRYSTALOIDY", "zůstanou v mimobuněčném prostoru, v cévě jen asi čtvrtina", "normal"),
+     ("KOLOIDY (albumin)", "velké molekuly ⚠️ drží vodu v cévě", "zvyrazni")],
+    titulek="Jediná otázka, která u infuzí rozhoduje",
+    pozn="⚠️ „Fyziologický\" roztok fyziologický není — má mnohem víc chloridů než plazma "
+         "→ při velkých objemech hyperchloremická acidóza; proto se dnes preferují "
+         "balancované roztoky. ⚠️ Hydroxyethylškroby byly omezeny (ledviny). "
+         "⚠️ Refeeding syndrom při rychlém krmení podvyživeného."))
+
+N("128", "Vitaminy rozpustné v tucích", retez(
+    [("CHOLEKALCIFEROL vitamin D ze stravy a kůže", "normal"),
+     ("JÁTRA → 25-OH-D", "normal"),
+     ("LEDVINY → ⚠️ 1,25-(OH)₂-D = KALCITRIOL", "zvyrazni"),
+     ("vstřebávání vápníku a mineralizace kosti", "normal")],
+    titulek="Dvě hydroxylace ve dvou orgánech — proto dialyzovaný pacient potřebuje kalcitriol",
+    pozn="⚠️ A, D, E, K se UKLÁDAJÍ → na rozdíl od vodorozpustných hrozí i předávkování. "
+         "⚠️ Vitamin A: teratogen (isotretinoin — přísná antikoncepce). ⚠️ Vitamin K: "
+         "γ-karboxylace faktorů II, VII, IX, X; novorozenci se podává profylakticky. "
+         "⚠️ Deficit hrozí při poruchách vstřebávání tuků a při orlistatu."))
+
+N("129", "Vitaminy rozpustné ve vodě", cil(
+    "⚠️ DEFICIT SE ČASTO UKÁŽE V ÚSTECH",
+    [("⚠️ VITAMIN C → SKORBUT: KRVÁCENÍ Z DÁSNÍ, VIKLAJÍCÍ SE ZUBY", "pozor"),
+     ("B2 riboflavin → ⚠️ ANGULÁRNÍ CHEILITIDA, glositida", "pozor"),
+     ("B3 niacin → pelagra: 3× D + stomatitida a červený jazyk", "pozor"),
+     ("B12 a folát → ⚠️ atrofická glositida, afty, pálení jazyka", "pozor"),
+     ("B1 thiamin → ⚠️ Wernickeova encefalopatie u alkoholiků", "normal"),
+     ("B6 → ⚠️ deficit při izoniazidu (neuropatie)", "normal")],
+    titulek="Pro zubaře nejužitečnější vitaminová otázka",
+    pozn="⚠️ Vitamin C je kofaktorem hydroxylace prolinu a lysinu → bez něj se nedá udělat "
+         "plnohodnotný KOLAGEN. Závěsný aparát zubu je vazivo s rychlým obratem — proto "
+         "se poškodí mezi prvními."))
+
+N("130", "Farmakoterapie osteoporózy", srovnani(
+    "ANTIRESORPČNÍ — brzdí odbourávání",
+    ["⚠️ BISFOSFONÁTY — v kosti zůstávají LÉTA", "⚠️ nalačno, zapít vodou,",
+     "30 min ve vzpřímené poloze", "⚠️ DENOSUMAB — po vysazení rychlá ztráta kosti"],
+    "OSTEOANABOLICKÉ — budují kost",
+    ["⚠️ TERIPARATID — parathormon", "⚠️ PARADOX: INTERMITENTNĚ kost BUDUJE,",
+     "kontinuálně by ji odbourával", "Romosozumab; ⚠️ jen 2 roky léčby"],
+    titulek="Dvě protilehlé strategie a jeden paradox",
+    pozn="⚠️ ZUBAŘSKY ZÁSADNÍ — MRONJ (osteonekróza čelisti): riziko nízké u perorální "
+         "osteoporotické léčby, ⚠️ vysoké u nitrožilních onkologických dávek. "
+         "⚠️ SANACE PŘED zahájením léčby · extrakci raději nahradit konzervativně · "
+         "⚠️ lék nevysazovat svévolně.", a_kind="pozor", b_kind="normal"))
+
+N("131", "Fytoterapie", cil(
+    "⚠️ „PŘÍRODNÍ\" NEZNAMENÁ „BEZPEČNÉ\"",
+    [("⚠️ TŘEZALKA indukuje CYP3A4 → selže ANTIKONCEPCE", "pozor"),
+     ("⚠️ Třezalka sráží warfarin, cyklosporin, antiretrovirotika", "pozor"),
+     ("⚠️ + serotoninový syndrom s SSRI", "pozor"),
+     ("⚠️ GINKGO, ČESNEK, ZÁZVOR, ŽENŠEN → KRVÁCIVOST", "pozor"),
+     ("Šalvěj a heřmánek — mírný lokální účinek v ústech", "normal"),
+     ("Hřebíčkový olej (EUGENOL) — zubní antiseptikum", "normal")],
+    titulek="Bylinky mají skutečné interakce — pacient je ale za léky nepovažuje",
+    pozn="⚠️ Před chirurgickým výkonem se ptej na doplňky stravy a bylinky stejně jako "
+         "na léky. ⚠️ Eugenolová dočasná výplň narušuje vazbu kompozita."))
+
+N("132", "Obecná toxikologie", srovnani(
+    "VELIČINY",
+    ["LD₅₀ — usmrtí polovinu zvířat", "NOAEL — nejvyšší dávka bez účinku",
+     "ADI — přijatelný denní příjem", "⚠️ U karcinogenů se práh nepředpokládá"],
+    "INTERAKCE",
+    ["ADITIVNÍ 1 + 1 = 2", "SYNERGIE 1 + 1 = 5",
+     "⚠️ POTENCIACE 0 + 1 = 5", "ANTAGONISMUS — základ všech antidot"],
+    titulek="Paracelsus: „Všechno je jed, záleží jen na dávce.\"",
+    pozn="⚠️ Potenciace v praxi: etanol sám játra nezničí a paracetamol v běžné dávce také "
+         "ne, ale spolu ano. Bioakumulace (hromadění v organismu) × biomagnifikace "
+         "(růst koncentrace po potravním řetězci — methylrtuť v dravých rybách). "
+         "Mutagenita se testuje AMESOVÝM TESTEM.", a_kind="normal", b_kind="normal"))
+
+N("133", "Terapie otrav a předávkování", stupnice(
+    [("1. ⭐ ZAJIŠTĚNÍ VITÁLNÍCH FUNKCÍ", "⚠️ VŽDY PRVNÍ — nejčastější chyba je hnát se po antidotu", "zvyrazni"),
+     ("2. ZAMEZIT DALŠÍMU VSTŘEBÁVÁNÍ", "⚠️ AKTIVNÍ UHLÍ do 1 h; ⚠️ NEVÁŽE alkoholy, kovy, železo, lithium, žíraviny", "normal"),
+     ("3. URYCHLIT ELIMINACI", "alkalizace moči (aspirin) · hemodialýza (metanol, lithium, salicyláty)", "normal"),
+     ("4. ANTIDOTUM", "⚠️ existuje jen u malé části otrav", "normal"),
+     ("5. PODPŮRNÁ LÉČBA", "teplota, oběh, ionty, monitorace", "normal")],
+    titulek="Pořadí kroků — a nikdy jinak",
+    sipka_popis="pořadí",
+    pozn="⚠️ ZVRACENÍ SE NEVYVOLÁVÁ — zvlášť ne u žíravin (poleptání podruhé) a uhlovodíků "
+         "(aspirace). Antidota: naloxon–opioidy · flumazenil–benzodiazepiny · "
+         "N-acetylcystein–paracetamol · atropin+pralidoxim–organofosfáty · "
+         "fyzostigmin–anticholinergika · ⚠️ LIPIDOVÁ EMULZE–lokální anestetika."))
+
+N("134", "Toxikologie rostlin a hub", retez(
+    [("6–24 h prudké zvracení a průjem", "normal"),
+     ("⚠️ ZDÁNLIVÉ ZLEPŠENÍ pacient bývá propuštěn", "pozor"),
+     ("3.–5. den JATERNÍ SELHÁNÍ", "pozor"),
+     ("silibinin, penicilin G, N-acetylcystein, ⚠️ transplantace", "zvyrazni")],
+    titulek="Muchomůrka zelená — proč je zrádná právě tou pauzou uprostřed",
+    pozn="🔑 PRAVIDLO: latence pod 6 h = obvykle lehčí otrava · ⚠️ NAD 6 h = smrtelné "
+         "nebezpečí. Amanitiny blokují RNA-polymerázu II; ⚠️ vaření ani sušení je nezničí. "
+         "Muskarin (vláknice, strmělky) → SLUDGE → atropin. Rulík a durman → anticholinergní "
+         "syndrom → fyzostigmin. Náprstník → digitalisové glykosidy. ⚠️ Tis nemá antidotum."))
+
+N("135", "Toxikologie živočišných jedů", srovnani(
+    "BLANOKŘÍDLÍ (včela, vosa, sršeň)",
+    ["⚠️ Riziko není toxicita, ale ANAFYLAXE", "→ ⭐ ADRENALIN i.m., ne antihistaminikum",
+     "⚠️ Bodnutí do ÚST nebo HRDLA →", "otok → ⚠️ OBSTRUKCE dýchacích cest"],
+    "ZMIJE OBECNÁ",
+    ["Hemotoxický a cytotoxický jed", "⚠️ NEŘEZAT, NEVYSÁVAT, NEŠKRTIDLO",
+     "Uklidnit, znehybnit, sundat prsteny,", "rychlý transport; antisérum u těžkých forem"],
+    titulek="Dvě expozice, které v našich podmínkách reálně potkáš",
+    pozn="⚠️ Škrtidlo zadrží jed v tkáni, kde působí nekrózu, a po uvolnění ho vyplaví "
+         "najednou. Tetrodotoxin (fugu, modrokroužkovaná chobotnice) blokuje sodíkové "
+         "kanály — dělá totéž co lokální anestetikum, jen systémově a nezvratně.",
+    a_kind="pozor", b_kind="normal"))
+
+N("136", "Intoxikace sloučeninami rtuti, arzenu a olova", cil(
+    "TĚŽKÉ KOVY vážou se na ─SH skupiny → blokáda enzymů",
+    [("⚠️ RTUŤ → GINGIVOSTOMATITIDA, slinění, kovová chuť", "pozor"),
+     ("+ třes a erethismus („šílený kloboučník\")", "normal"),
+     ("⚠️ ARZEN → „rýžovitý\" průjem, ČESNEKOVÝ dech", "pozor"),
+     ("+ Meesovy linie na nehtech, ⚠️ karcinogen", "normal"),
+     ("⚠️ OLOVO → OLOVĚNÝ LEM na dásni (Burtonova linie)", "pozor"),
+     ("+ anemie, kolika, ⚠️ „padající ruka\", u dětí vývoj", "normal")],
+    titulek="Všechny tři mají nález v ústech — proto se ptají právě zubařů",
+    pozn="Léčba všech: ⚠️ CHELÁTORY (dimerkaprol/BAL, DMPS, sukcimer, EDTA, penicilamin). "
+         "⚠️ U olova se podává KALCIOVÁ sůl EDTA — sodná by navázala vápník z krve. "
+         "⚠️ Z amalgámu se rtuť uvolňuje minimálně; omezování je vedeno hlavně ekologicky."))

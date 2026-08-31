@@ -166,12 +166,13 @@ def srovnani(a_nadpis, a_body, b_nadpis, b_body, titulek="", pozn="",
     vnitrek = ""
     for x, nadpis, radky, kind in ((30, a_nadpis, radky_a, a_kind),
                                    (30 + pw + 26, b_nadpis, radky_b, b_kind)):
-        fill = BGA if kind == "zvyrazni" else (BGW if kind == "pozor" else BG)
+        fill = BGA if kind == "zvyrazni" else (BGW if kind == "pozor" else "#FFFFFF")
         stroke = ACCENT if kind == "zvyrazni" else (CRIT if kind == "pozor" else LINE)
         vnitrek += (f'<rect x="{x:.0f}" y="{y0}" width="{pw:.0f}" height="{ph:.0f}" rx="7" '
                     f'fill="{fill}" stroke="{stroke}" stroke-width="1.6"/>')
+        nadpis_barva = stroke if stroke != LINE else "#1A2421"
         vnitrek += _text(x + pw / 2, y0 + 26, _wrap(nadpis, pw - 20, 13.5),
-                         fs=13.5, barva=stroke, tucne_prvni=True)
+                         fs=13.5, barva=nadpis_barva, tucne_prvni=True)
         vnitrek += _text(x + 16, y0 + 52, radky, fs=FSS, anchor="start")
     h = y0 + ph + 18
     if pozn:
