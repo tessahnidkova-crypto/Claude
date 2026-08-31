@@ -3887,3 +3887,382 @@ S("113", "Antiuratika",
         "ne NSA. ⚠️ Dnavé postižení čelistního kloubu je vzácné, ale popsané.",
   past="Nasazení alopurinolu během akutního záchvatu ho zhorší — hladina kyseliny "
        "močové se prudce změní a krystaly se mobilizují.")
+
+S("114", "Imunosupresiva, imunostimulancia",
+  jadro="Cyklosporin je třetí lék, který zvětšuje dásně — vedle fenytoinu a nifedipinu. "
+        "A všechna imunosupresiva sdílejí dvě rizika: infekce a nádory.",
+  karty=[
+      ("SKUPINY PODLE CÍLE", [
+          "Kortikoidy — široký útlum přepisu prozánětlivých genů",
+          "⚠️ Kalcineurinové inhibitory: CYKLOSPORIN, takrolimus — blokují aktivaci T-lymfocytů",
+          "Inhibitory mTOR: sirolimus, everolimus",
+          "Antiproliferativní: azathioprin (⚠️ TPMT), mykofenolát (⚠️ teratogen),",
+          "methotrexát, ⚠️ cyklofosfamid (hemoragická cystitida → MESNA)",
+          "Biologika: basiliximab, antithymocytární globulin, belatacept"], "zelena"),
+      ("⚠️ CYKLOSPORIN × TAKROLIMUS", [
+          "CYKLOSPORIN: ⚠️ HYPERPLAZIE GINGIVY, nefrotoxicita, hypertenze,",
+          "hypertrichóza, tremor",
+          "TAKROLIMUS: ⚠️ hyperplazii dásní NEDĚLÁ, ale je diabetogenní,",
+          "nefrotoxický a neurotoxický",
+          "⚠️ Oba mají úzké okno a měří se hladiny",
+          "⚠️ Grapefruit a azoly jejich hladinu prudce zvednou"], "cervena"),
+      ("⚠️ SPOLEČNÁ RIZIKA", [
+          "⚠️ INFEKCE, včetně oportunních (pneumocystis, CMV, kandida)",
+          "⚠️ NÁDORY — zejména kožní a lymfomy",
+          "⚠️ U transplantovaných i nádory RTU a DUTINY ÚSTNÍ",
+          "→ pravidelná zubní prohlídka je fakticky screening",
+          "⚠️ Žádné živé vakcíny"], "cervena"),
+      ("IMUNOSTIMULANCIA", [
+          "Interferony (α, β)",
+          "⚠️ Filgrastim (G-CSF) — obnova neutrofilů po chemoterapii",
+          "Imunoglobuliny",
+          "Bakteriální lyzáty — ⚠️ slabá evidence",
+          "⚠️ VAKCÍNY jako nejúspěšnější imunostimulace vůbec"], "modra"),
+  ],
+  mnemo="Fenytoin, cyklosporin, nifedipin — tři léky, které zvětšují dásně.",
+  zubar="⚠️ Sanace chrupu PATŘÍ PŘED transplantaci a před zahájení imunosuprese — "
+        "poté se každý zánětlivý fokus stává nebezpečným. ⚠️ Hyperplazii gingivy "
+        "výrazně zmenší dokonalá hygiena; chirurgie bez ní recidivuje.",
+  past="Před azathioprinem se testuje TPMT — při nízké aktivitě enzymu hrozí "
+       "těžká myelosuprese.")
+
+S("115", "Hormony hypothalamu, hypofýzy, jejich analoga",
+  jadro="Paradox, na který se ptají: GnRH podávané pulzně osu budí, ale podávané "
+        "kontinuálně ji VYPNE.",
+  karty=[
+      ("HYPOTHALAMUS", [
+          "⚠️ GnRH: pulzně budí — kontinuálně receptory desenzibilizuje → osa se VYPNE",
+          "→ goserelin, leuprorelin: ⚠️ karcinom prostaty, endometrióza, myomy",
+          "⚠️ Na začátku krátký vzestup testosteronu („flare\") → kryje se antiandrogenem",
+          "Antagonisté GnRH: degarelix (bez flare)",
+          "⚠️ SOMATOSTATIN → oktreotid, lanreotid: akromegalie, neuroendokrinní nádory,",
+          "krvácení z jícnových varixů",
+          "⚠️ DOPAMIN = prolaktin inhibiční faktor"], "zelena"),
+      ("ADENOHYPOFÝZA", [
+          "Růstový hormon: somatropin u deficitu; ⚠️ antagonista pegvisomant u akromegalie",
+          "⚠️ Prolaktin: agonisté dopaminu BROMOKRIPTIN, KABERGOLIN",
+          "→ u hyperprolaktinemie a prolaktinomu (⚠️ nádor i zmenší)",
+          "ACTH (tetrakosaktid — diagnostika), TSH",
+          "FSH a LH — gonadotropiny v reprodukční medicíně"], "modra"),
+      ("⚠️ NEUROHYPOFÝZA — DESMOPRESIN", [
+          "Analog ADH (vasopresinu)",
+          "Centrální diabetes insipidus, noční pomočování",
+          "⚠️ A NAVÍC: vyplaví z endotelu VON WILLEBRANDŮV FAKTOR a FAKTOR VIII",
+          "→ ⚠️ používá se PŘED EXTRAKCÍ u mírné hemofilie A",
+          "a u von Willebrandovy choroby",
+          "⚠️ NÚ: hyponatremie · terlipresin u varixů a hepatorenálního syndromu",
+          "OXYTOCIN — indukce porodu, atonie dělohy"], "cervena"),
+      ("⚠️ AKROMEGALIE — zubařsky", [
+          "Nadbytek růstového hormonu u dospělého",
+          "⚠️ Zvětšení dolní čelisti = PROGENIE",
+          "⚠️ Rozestupy mezi zuby (diastemata), změna skusu",
+          "⚠️ Makroglosie",
+          "⚠️ Zubař bývá první, kdo si toho všimne — „přestala mi sedět protéza\""], "cervena"),
+  ],
+  mnemo="Pulzně budí, kontinuálně vypíná. To je celý trik s GnRH.",
+  zubar="⚠️ DESMOPRESIN před extrakcí u mírné hemofilie A — vždy po domluvě "
+        "s hematologem, spolu s kyselinou tranexamovou a pečlivou místní hemostázou.",
+  past="Kontinuální podávání GnRH agonisty osu nevybudí, ale utlumí — protože "
+       "receptory se desenzibilizují. Fyziologie je pulzní.")
+
+S("116", "Farmakoterapie onemocnění štítné žlázy",
+  jadro="Dvě protilehlé situace: u hypotyreózy hormon nahrazujeme, u hypertyreózy "
+        "blokujeme jeho tvorbu. U obou rozhodují praktické detaily.",
+  karty=[
+      ("HYPOTYREÓZA — levothyroxin (T4)", [
+          "⚠️ Nalačno ráno, nejméně 30 minut před jídlem",
+          "⚠️ Odstup od vápníku, železa, inhibitorů protonové pumpy a sóji",
+          "⚠️ U seniora a kardiaka začínat nízkou dávkou a stoupat pomalu",
+          "(prudké nastartování metabolismu → angina pectoris, arytmie)",
+          "⚠️ Účinek se hodnotí podle TSH, nejdřív za 6–8 týdnů"], "zelena"),
+      ("HYPERTYREÓZA — tyreostatika", [
+          "⚠️ THIAMAZOL (methimazol) — základ",
+          "⚠️ PROPYLTHIOURACIL hlavně v prvním trimestru gravidity",
+          "Blokují tyreoidální peroxidázu → brání tvorbě hormonů",
+          "⚠️ Účinek nastupuje týdny (zásoba hormonu ve žláze)"], "modra"),
+      ("⚠️ AGRANULOCYTÓZA", [
+          "⚠️ Nejzávažnější NÚ tyreostatik",
+          "⚠️ Pacient MUSÍ být poučen: při horečce a bolesti v krku",
+          "OKAMŽITĚ vyšetřit krevní obraz a lék vysadit",
+          "⚠️ Zubařsky velmi relevantní: „angína\" u pacienta na tyreostatiku",
+          "není banalita"], "cervena"),
+      ("DALŠÍ LÉČBA A ZUBAŘSKY", [
+          "Betablokátory (propranolol) — symptomaticky na tep, třes, úzkost",
+          "Radiojód, chirurgie",
+          "⚠️ Jodid ve vysoké dávce u tyreotoxické krize (Wolffův–Chaikoffův efekt)",
+          "⚠️ Zubařsky: u nekontrolované hypertyreózy ODLOŽIT plánované ošetření",
+          "⚠️ Opatrně s adrenalinem — riziko arytmie až tyreotoxické krize",
+          "Hypotyreóza: makroglosie, zpomalené hojení, opožděná erupce u dětí"], "cervena"),
+  ],
+  mnemo="Levothyroxin nalačno a s odstupem od všeho. TSH až za dva měsíce.",
+  zubar="⚠️ Pacient s dobře kompenzovanou tyreopatií snese běžné množství adrenalinu "
+        "v anestetiku. ⚠️ U nekontrolované hypertyreózy výkon odlož.",
+  past="Levothyroxin se nedávkuje podle pocitu, ale podle TSH — předávkování "
+       "znamená osteoporózu a fibrilaci síní.")
+
+S("117", "Glukokortikoidy, mineralokortikoidy",
+  jadro="Kortikoid blokuje o patro výš než NSA — vypne obě větve eikosanoidů najednou. "
+        "Ale musí se přepsat geny, proto nastupuje hodiny.",
+  tok=[("KORTIKOID → nitrobuněčný receptor", "zelena"), ("jádro → tvorba LIPOKORTINU", "bila"),
+       ("⚠️ blokáda FOSFOLIPÁZY A₂", "cervena"),
+       ("⚠️ ani prostaglandiny, ani leukotrieny", "zelena")],
+  karty=[
+      ("ÚČINKY A ZÁSTUPCI", [
+          "Protizánětlivý, imunosupresivní, antialergický",
+          "Metabolický: ⚠️ glukoneogeneze, katabolismus bílkovin, redistribuce tuku",
+          "Hydrokortison (fyziologický) · prednison, prednisolon (standard)",
+          "Methylprednisolon · ⚠️ DEXAMETHASON a betamethason — nejsilnější, nejdelší,",
+          "⚠️ bez mineralokortikoidního účinku",
+          "Lokálně: budesonid, flutikason, klobetasol · ⚠️ Fludrokortison (Addison)"], "zelena"),
+      ("⚠️ NEŽÁDOUCÍ ÚČINKY", [
+          "Cushingoidní vzhled, ⚠️ OSTEOPORÓZA, myopatie",
+          "Hyperglykemie až diabetes, hypertenze a otoky",
+          "⚠️ Vřed (zvláště s NSA), katarakta a glaukom",
+          "⚠️ Infekce a jejich ZASTŘENÝ obraz, ⚠️ poruchy hojení ran",
+          "Psychické změny, u dětí zpomalení růstu"], "cervena"),
+      ("⚠️ ÚTLUM OSY A VYSAZOVÁNÍ", [
+          "Při léčbě delší než zhruba 2–3 týdny se utlumí osa",
+          "hypothalamus–hypofýza–nadledviny",
+          "⚠️ NÁHLÉ VYSAZENÍ → ADRENÁLNÍ KRIZE (hypotenze, slabost, zvracení,",
+          "hypoglykemie, hyponatremie) → hydrokortison i.v. a objem",
+          "⚠️ Vysazovat vždy postupně"], "cervena"),
+      ("⚠️ ZUBAŘSKY — nejdůležitější věta", [
+          "⚠️ Pacient na dlouhodobé kortikoterapii potřebuje před stresovým zákrokem",
+          "⚠️ DÁVKU ZVÝŠIT, NE VYNECHAT (tzv. stresová dávka)",
+          "⚠️ Jeho nadledviny nedokážou na stres odpovědět vlastním kortizolem",
+          "⚠️ [⚠️ ověřit, u kterých výkonů a od jaké dávky to vaše skripta vyžadují]",
+          "⚠️ Inhalační kortikoid → orální kandidóza (výplach úst, nástavec)"], "cervena"),
+  ],
+  mnemo="Blokuje fosfolipázu A₂ — o patro výš než NSA. Proto vypne obě větve.",
+  zubar="⚠️ Dexamethason jednorázově po chirurgickém výkonu výrazně sníží otok "
+        "a v krátkém podání nehrozí útlum osy.",
+  past="Kortikoid nastupuje hodiny, protože musí projít jádrem a změnit přepis genů — "
+       "proto u anafylaxe nikdy nenahradí adrenalin.")
+
+S("118", "Farmakoterapie obezity",
+  jadro="Farmakoterapie obezity je doplněk režimových opatření, ne jejich náhrada. "
+        "A u těchto léků se vyžaduje dlouhodobá bezpečnost.",
+  karty=[
+      ("INDIKACE A ZÁSADY", [
+          "⚠️ Základ: strava, pohyb, změna chování",
+          "Farmakoterapie při BMI ≥ 30, nebo ≥ 27 s komorbiditou",
+          "⚠️ Obezita je chronické onemocnění s hormonální regulací hmotnosti",
+          "→ po zhubnutí se tělo aktivně brání a metabolismus se zpomalí",
+          "→ proto se váha vrací a proto to není „jen otázka vůle\""], "zelena"),
+      ("DNEŠNÍ LÉKY", [
+          "ORLISTAT — blokuje střevní lipázu; ⚠️ steatorea, únik stolice,",
+          "⚠️ snižuje vstřebávání vitaminů A, D, E, K",
+          "⚠️ GLP-1 AGONISTÉ: liraglutid, semaglutid — dnes nejúčinnější, injekčně",
+          "⚠️ Zpomalují vyprazdňování žaludku a působí na centrum sytosti; NÚ nauzea",
+          "Tirzepatid (GIP/GLP-1) — [⚠️ ověřit dle skript]",
+          "Naltrexon/bupropion (⚠️ snižuje práh křečí), fentermin"], "modra"),
+      ("⚠️ STAŽENÉ Z TRHU — proč to zkoušejí", [
+          "⚠️ SIBUTRAMIN — kardiovaskulární příhody",
+          "⚠️ RIMONABANT — deprese a sebevražednost",
+          "⚠️ FENFLURAMIN / dexfenfluramin — chlopenní vady a plicní hypertenze",
+          "⚠️ Ukázka toho, proč se vyžaduje dlouhodobá bezpečnost:",
+          "berou je jinak zdraví lidé a dlouho"], "cervena"),
+      ("BARIATRICKÁ CHIRURGIE", [
+          "U těžké obezity nejúčinnější metoda",
+          "⚠️ Následně poruchy vstřebávání: železo, B12, vápník, vitamin D",
+          "→ doživotní suplementace",
+          "⚠️ Zvracení a reflux → EROZE SKLOVINY",
+          "⚠️ Nutriční deficity → glositida a horší hojení"], "bila"),
+  ],
+  mnemo="Režim je základ, lék je doplněk. A u léků na hubnutí rozhoduje bezpečnost.",
+  zubar="⚠️ Po bariatrické operaci: eroze skloviny ze zvracení a refluxu, nutriční "
+        "deficity s projevy v ústech. ⚠️ Pacient na GLP-1 agonistovi má zpomalené "
+        "vyprazdňování žaludku — důležité před sedací (riziko aspirace).",
+  past="Obezita je rizikový faktor parodontitidy — mají společný zánětlivý podklad.")
+
+S("119", "Androgeny, anabolické steroidy",
+  jadro="Skoro všechny komplikace zneužívání anabolik plynou z jediné věci — "
+        "ze zpětné vazby: tělo vidí androgeny zvenčí a vypne vlastní tvorbu.",
+  tok=[("ANABOLIKA ZVENČÍ", "cervena"), ("tělo vidí dost androgenů", "bila"),
+       ("⚠️ vypne osu (LH, FSH)", "cervena"), ("⚠️ atrofie varlat, neplodnost", "cervena")],
+  karty=[
+      ("ANDROGENY V LÉČBĚ", [
+          "⚠️ Testosteron se nedá podat ústy — obrovský first-pass efekt",
+          "→ injekčně, transdermálně gelem nebo náplastí, bukálně",
+          "Mesterolon (17-alkylovaný, p.o.)",
+          "Indikace: hypogonadismus, opožděná puberta, kachexie",
+          "⚠️ Nic z toho není „posílení výkonu u zdravého člověka\""], "zelena"),
+      ("⚠️ NÁSLEDKY ZNEUŽÍVÁNÍ", [
+          "⚠️ Útlum osy → atrofie varlat, zástava spermiogeneze, NEPLODNOST",
+          "⚠️ GYNEKOMASTIE — nadbytek se aromatizuje na estrogeny",
+          "⚠️ 17-alkylované (perorální) → jaterní poškození, cholestáza, nádory jater",
+          "Dyslipidemie (↓ HDL), hypertenze, kardiomyopatie, trombózy",
+          "Akné, agresivita a výkyvy nálad",
+          "⚠️ U dospívajících předčasný uzávěr růstových plotének"], "cervena"),
+      ("⚠️ U ŽEN", [
+          "Virilizace: hirsutismus, akné",
+          "⚠️ NEVRATNÉ prohloubení hlasu",
+          "Zvětšení klitorisu, poruchy cyklu, atrofie prsů",
+          "⚠️ Část změn je trvalá i po vysazení"], "cervena"),
+      ("ANTIANDROGENY", [
+          "Cyproteron (i gestagenní účinek), flutamid, bikalutamid",
+          "⚠️ FINASTERID, dutasterid — inhibitory 5-α-reduktázy",
+          "→ hyperplazie prostaty a androgenní alopecie; ⚠️ sníží PSA na polovinu",
+          "Spironolakton (hirsutismus u žen)",
+          "Abirateron, enzalutamid — karcinom prostaty"], "modra"),
+  ],
+  mnemo="Zvenčí androgen → vypnutá osa → atrofie a neplodnost.",
+  zubar="⚠️ U uživatele anabolik: hypertenze, horší hojení, bruxismus a agresivita "
+        "mohou zkomplikovat ošetření. Popsané zvětšení čelisti se pojí spíš "
+        "s růstovým hormonem než s anaboliky.",
+  past="Gynekomastie u muže na testosteronu není paradox — část hormonu se "
+       "aromatázou přemění na estradiol.")
+
+S("120", "Estrogeny, gestageny",
+  jadro="Selektivní modulátor receptoru je v každé tkáni něco jiného — tamoxifen "
+        "je v prsu antagonista, ale v endometriu agonista.",
+  karty=[
+      ("ESTROGENY a SERM", [
+          "Estradiol, ethinylestradiol, konjugované estrogeny",
+          "⚠️ TAMOXIFEN: v PRSU antagonista (⭐ léčba karcinomu prsu),",
+          "⚠️ v ENDOMETRIU AGONISTA → riziko karcinomu endometria,",
+          "v kosti agonista (chrání); ⚠️ + riziko trombózy",
+          "⚠️ RALOXIFEN — v endometriu nepůsobí → osteoporóza u postmenopauzálních"], "zelena"),
+      ("INHIBITORY AROMATÁZY", [
+          "Anastrozol, letrozol, exemestan",
+          "⚠️ Jen u POSTMENOPAUZÁLNÍCH žen",
+          "(u premenopauzální je hlavním zdrojem estrogenů vaječník, ne periferní aromatizace)",
+          "⚠️ Urychlují osteoporózu, bolesti kloubů"], "modra"),
+      ("GESTAGENY a HRT", [
+          "Progesteron, dydrogesteron, levonorgestrel, drospirenon",
+          "⚠️ Antagonista: mifepriston",
+          "⚠️ HRT v menopauze: jen na obtěžující potíže, nejnižší dávka, nejkratší doba",
+          "⚠️ U ženy S DĚLOHOU nutné přidat gestagen — samotný estrogen",
+          "by nechráněné endometrium hyperplazoval",
+          "⚠️ Rizika: žilní trombóza, karcinom prsu při delším podávání"], "bila"),
+      ("⚠️ ZUBAŘSKY", [
+          "⚠️ HORMONÁLNÍ GINGIVITIDA — v pubertě, v graviditě a při hormonální léčbě",
+          "dáseň reaguje na stejné množství plaku mnohem silněji",
+          "⚠️ „TĚHOTENSKÝ EPULIS\" — nezhoubný útvar, po porodu obvykle ustoupí",
+          "⚠️ Estrogeny zvyšují riziko SUCHÉ ALVEOLITIDY po extrakci",
+          "→ u žen na kombinované antikoncepci plánovat extrakci mimo dny",
+          "s nejvyšší hladinou [⚠️ ověřit dle skript]"], "cervena"),
+  ],
+  mnemo="Tamoxifen: v prsu proti, v děloze pro. Proto se sleduje endometrium.",
+  zubar="⚠️ Zvýšená krvácivost dásní v těhotenství není důvod přestat čistit zuby — "
+        "naopak. Hygiena je jediné, co rozsah gingivitidy zmenší.",
+  past="Inhibitor aromatázy u premenopauzální ženy nefunguje — vaječník vyrábí "
+       "estrogeny jinou cestou.")
+
+S("121", "Kontraceptiva",
+  jadro="Mechanismus je jednoduchý — zkoušejí se kontraindikace a interakce, "
+        "protože právě ty rozhodují o bezpečnosti.",
+  karty=[
+      ("MECHANISMUS", [
+          "🔑 Tři úrovně účinku:",
+          "1) Potlačení ovulace útlumem LH a FSH (hlavní)",
+          "2) Zahuštění cervikálního hlenu",
+          "3) Změna endometria (nevhodné pro nidaci)",
+          "Kombinovaná = estrogen + gestagen; čistě gestagenní varianty"], "zelena"),
+      ("⚠️ KONTRAINDIKACE kombinované", [
+          "⚠️ Trombóza nebo trombofilie v anamnéze",
+          "⚠️ MIGRÉNA S AUROU — sčítá se riziko ischemické mozkové příhody",
+          "⚠️ KOUŘENÍ u ženy nad 35 let",
+          "Karcinom prsu, těžké onemocnění jater, nekontrolovaná hypertenze",
+          "Gravidita",
+          "⚠️ Hlavní riziko: žilní tromboembolismus, nejvyšší v prvním roce"], "cervena"),
+      ("⚠️ INTERAKCE", [
+          "⚠️ RIFAMPICIN — nejsilnější induktor, selhání antikoncepce",
+          "⚠️ Karbamazepin, fenytoin, fenobarbital",
+          "⚠️ TŘEZALKA TEČKOVANÁ",
+          "⚠️ Běžná antibiotika (amoxicilin) se dnes za významnou interakci",
+          "nepovažují — [⚠️ ověřit, jak to uvádějí vaše skripta; starší materiály",
+          "tvrdí opak a u zkoušky je bezpečnější odpovědět podle nich a rozdíl zmínit]"], "cervena"),
+      ("DALŠÍ FORMY A PŘÍNOSY", [
+          "Čistě gestagenní: minipilulky, depotní injekce (⚠️ ztráta kostní hmoty),",
+          "podkožní implantát, ⚠️ nitroděložní systém s levonorgestrelem",
+          "(nejúčinnější — ⚠️ nezáleží na tom, jestli si pacientka vzpomene)",
+          "Postkoitální: levonorgestrel do 72 h, ⚠️ ulipristal do 120 h,",
+          "⚠️ nitroděložní tělísko je nejúčinnější",
+          "⚠️ Přínos navíc: nižší riziko karcinomu vaječníku a endometria, léčba akné"], "modra"),
+  ],
+  mnemo="Trombóza, migréna s aurou, kouření nad 35. Tři hlavní zákazy.",
+  zubar="⚠️ Hormonální gingivitida a ⚠️ vyšší riziko suché alveolitidy po extrakci. "
+        "⚠️ Pokud předepíšeš rifampicin, pacientka musí být poučena o náhradní antikoncepci.",
+  past="Selhání antikoncepce po antibiotiku je dnes připisováno hlavně rifampicinu — "
+       "u běžných antibiotik se to nepotvrdilo, ale skripta se mohou lišit.")
+
+S("122", "Farmakoterapie benigní hyperplazie prostaty",
+  jadro="Dvě složky obtíží — stažená svalovina a objem žlázy — a dvě skupiny léků "
+        "s velmi odlišnou rychlostí úlevy.",
+  karty=[
+      ("α1-BLOKÁTORY — dynamická složka", [
+          "Tamsulosin, silodosin, alfuzosin, doxazosin, terazosin",
+          "Uvolní hladkou svalovinu hrdla měchýře a prostaty",
+          "⚠️ Úleva už za DNY",
+          "⚠️ NÚ: ortostatická hypotenze a first-dose efekt, retrográdní ejakulace,",
+          "⚠️ FLOPPY IRIS SYNDROME při operaci šedého zákalu"], "zelena"),
+      ("INHIBITORY 5-α-REDUKTÁZY — statická složka", [
+          "Finasterid, dutasterid",
+          "Blokují přeměnu testosteronu na dihydrotestosteron",
+          "⚠️ Skutečně ZMENŠÍ žlázu — ale až za 3–6 MĚSÍCŮ",
+          "⚠️ SNÍŽÍ PSA zhruba NA POLOVINU → past při screeningu karcinomu prostaty",
+          "⚠️ NÚ: sexuální dysfunkce, gynekomastie",
+          "Také u androgenní alopecie (nižší dávka)"], "modra"),
+      ("KOMBINACE A DALŠÍ", [
+          "⚠️ U velké prostaty se obě skupiny kombinují:",
+          "α1-blokátor přinese rychlou úlevu, inhibitor 5-α-reduktázy dlouhodobě",
+          "zmenší žlázu a sníží riziko akutní retence a operace",
+          "Tadalafil v nízké denní dávce — zlepší močení i erektilní funkci",
+          "⚠️ Fytoterapie (Serenoa repens, kopřiva) — slabá evidence"], "bila"),
+      ("⚠️ ZUBAŘSKY", [
+          "⚠️ Anticholinergika mohou u muže s hyperplazií prostaty vyvolat",
+          "AKUTNÍ RETENCI MOČI",
+          "⚠️ Týká se i antihistaminik I. generace a tricyklických antidepresiv",
+          "→ v anamnéze se na hyperplazii prostaty zapomíná",
+          "⚠️ α1-blokátor + ortostáza: po delším ošetření vleže nechat pacienta sedět"], "cervena"),
+  ],
+  mnemo="Alfa-blokátor uleví za dny. Finasterid zmenší za měsíce.",
+  zubar="⚠️ Než podáš staršímu muži antihistaminikum I. generace nebo lék "
+        "s anticholinergním účinkem, zeptej se na potíže s močením.",
+  past="Snížené PSA u pacienta na finasteridu může zamaskovat karcinom prostaty — "
+       "urolog musí o léku vědět.")
+
+S("123", "Cytostatika",
+  jadro="Zasahují rychle se dělící buňky — a z té jediné věty plyne účinek "
+        "i celý profil toxicity.",
+  tok=[("NÁDOR ⭐ cíl", "zelena"), ("⚠️ KOSTNÍ DŘEŇ", "cervena"),
+       ("⚠️ SLIZNICE → mukozitida", "cervena"), ("vlasy, gonády", "bila")],
+  karty=[
+      ("SKUPINY", [
+          "Alkylační: ⚠️ cyklofosfamid (hemoragická cystitida → MESNA), ifosfamid,",
+          "busulfan, ⚠️ CISPLATINA (nefrotoxická, ototoxická, silně emetogenní)",
+          "Antimetabolity: ⚠️ methotrexát (⚠️ „záchrana\" LEUKOVORINEM),",
+          "5-fluorouracil, kapecitabin, cytarabin, gemcitabin",
+          "Rostlinné: ⚠️ vinkristin/vinblastin (brání stavbě mikrotubulů, ⚠️ neuropatie),",
+          "taxany (paklitaxel — ⚠️ naopak je stabilizují)",
+          "Inhibitory topoizomeráz: etoposid, irinotekan"], "zelena"),
+      ("PROTINÁDOROVÁ ANTIBIOTIKA a CÍLENÁ LÉČBA", [
+          "⚠️ DOXORUBICIN — kumulativní KARDIOTOXICITA → dexrazoxan",
+          "⚠️ BLEOMYCIN — plicní fibróza",
+          "⚠️ Cílená léčba: -tinib = malé molekuly (imatinib, erlotinib)",
+          "-mab = protilátky: trastuzumab (⚠️ kardiotoxicita),",
+          "rituximab, bevacizumab (⚠️ zhoršuje hojení ran)",
+          "⚠️ Checkpoint inhibitory (pembrolizumab, nivolumab) — sundají brzdu imunity",
+          "→ ⚠️ imunitně podmíněné NÚ: kolitida, tyreoiditida, hepatitida → kortikoidy"], "modra"),
+      ("⚠️ OBECNÁ TOXICITA A CYKLY", [
+          "Útlum dřeně (neutropenie, anemie, trombocytopenie), alopecie,",
+          "nevolnost a zvracení, neplodnost, sekundární nádory",
+          "⚠️ Podávají se v CYKLECH — zdravé tkáně se v pauze regenerují rychleji než nádor",
+          "⚠️ Nádorový rozpadový syndrom: hyperkalemie, hyperfosfatemie,",
+          "hyperurikemie → selhání ledvin; prevence hydratací a rasburikázou"], "cervena"),
+      ("⚠️ ZUBAŘSKY — jedna z nejdůležitějších otázek", [
+          "⚠️ MUKOZITIDA — bolestivý rozpad ústní sliznice,",
+          "⚠️ vstupní brána pro sepsi u neutropenického pacienta",
+          "⚠️ SANACE CHRUPU MUSÍ PROBĚHNOUT PŘED zahájením chemoterapie",
+          "nebo ozařování, ne během",
+          "⚠️ Po ozáření hlavy a krku: trvalá xerostomie → prudký kaz",
+          "a ⚠️ OSTEORADIONEKRÓZA (extrakce v ozářené oblasti je rizikový výkon)",
+          "⚠️ Před výkonem vždy aktuální krevní obraz"], "cervena"),
+  ],
+  mnemo="Rychle se dělí i dřeň, sliznice, vlasy a gonády. Odtud celá toxicita.",
+  zubar="⚠️ Sanace PŘED onkologickou léčbou je zásadní. Během léčby je pacient "
+        "neutropenický a trombocytopenický — invazivní výkony jen po domluvě "
+        "s onkologem a podle krevního obrazu.",
+  past="Checkpoint inhibitory nezabíjejí nádor přímo — jen sundají brzdu z imunity. "
+       "Proto jejich nežádoucí účinky vypadají jako autoimunitní onemocnění.")
