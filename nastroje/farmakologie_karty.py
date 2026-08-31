@@ -1243,3 +1243,713 @@ dehydratovaného a seniora a analgetická nefropatie; retence sodíku, hypertenz
 **Interakce:** trojkombinace NSA + ACE inhibitor + diuretikum ohrožuje ledviny a
 **ibuprofen ruší antiagregační účinek aspirinu**.
 """)
+
+K("65", "Farmakoterapie migrény", """
+Migréna je **neurovaskulární onemocnění** s aktivací trigeminovaskulárního
+systému a vyplavením **CGRP**; léčba se dělí na akutní a profylaktickou.
+**Akutní léčba** má být zahájena co nejdříve. Podává se **NSA nebo paracetamol**
+spolu s **metoklopramidem nebo domperidonem** — ty nepůsobí jen proti nevolnosti,
+ale hlavně rozhýbou při záchvatu zastavený žaludek, takže se analgetikum vůbec
+vstřebá.
+**Triptany** (sumatriptan, eletriptan, zolmitriptan) jsou agonisté **5-HT1B/1D**:
+stahují rozšířené mozkové cévy a tlumí uvolňování CGRP. Jsou kontraindikované u
+ischemické choroby srdeční a nekontrolované hypertenze a nesmějí se kombinovat s
+ergotaminem, který je pro riziko ergotismu obsoletní.
+**Bolest hlavy z nadužívání léků** vzniká při užívání analgetik více než 10–15
+dní v měsíci; řešením je vysazení, nikoli přidání dalšího léku.
+**Profylaxe** se zahajuje při čtyřech a více záchvatech měsíčně: betablokátory
+(metoprolol, propranolol), topiramát, valproát, amitriptylin, flunarizin,
+kandesartan; u těžkých forem **monoklonální protilátky proti CGRP** a u chronické
+migrény botulotoxin. Účinek se hodnotí až po 2–3 měsících.
+""")
+
+K("66", "Léčiva s pozitivně inotropním účinkem, digoxin", """
+**Pozitivně inotropní** léčiva zvyšují sílu stahu srdce a všechna nakonec zvýší
+nabídku vápníku v kardiomyocytu.
+**Skupiny:** srdeční glykosidy (digoxin, digitoxin), sympatomimetika
+(**dobutamin**), inhibitory fosfodiesterázy 3 (milrinon — „inodilatátor") a
+senzitizér vápníku **levosimendan**.
+**Digoxin blokuje Na⁺/K⁺-ATPázu:** uvnitř buňky přibude sodík, výměník Na⁺/Ca²⁺
+přestane vyvážet vápník, jehož koncentrace stoupne a stah zesílí. Druhým účinkem
+je **vagotonické zpomalení vedení v AV uzlu**.
+**Indikace:** fibrilace síní s rychlou komorovou odpovědí a srdeční selhání se
+systolickou dysfunkcí; **zlepší příznaky, ale neprodlouží život**. Vylučuje se
+ledvinami (digitoxin játry), proto opatrně u seniorů.
+**Toxicita:** úzké terapeutické okno, hladiny se měří. **Hypokalemie toxicitu
+zvyšuje**, protože draslík a digoxin soutěží o stejné vazebné místo — a
+hypokalemii způsobují diuretika, která pacient obvykle užívá. Projevy: nauzea a
+zvracení, **žluté vidění (xantopsie)**, zmatenost a **arytmie** (bigeminie, AV
+blokáda). Léčbou jsou **protilátky proti digoxinu (Fab)** a úprava kalia.
+""")
+
+K("67", "Antiarytmika", """
+**Vaughanova–Williamsova klasifikace** řadí antiarytmika podle blokovaného
+kanálu.
+**I. třída — blokátory sodíkových kanálů:** IA chinidin, prokainamid, ajmalin
+(prodlužují akční potenciál); **IB lidokain** a mexiletin (zkracují, používají se
+u komorových arytmií při infarktu); **IC propafenon a flekainid**, které silně
+zpomalují vedení a jsou kontraindikované u strukturálního postižení srdce —
+studie CAST ukázala, že po infarktu sice potlačí extrasystoly, ale **zvýší
+úmrtnost**.
+**II. třída — betablokátory:** jediná skupina, která prokazatelně snižuje
+úmrtnost.
+**III. třída — blokátory draslíkových kanálů: amiodaron**, sotalol, dronedaron;
+prodlužují QT a hrozí *torsades de pointes*. Amiodaron je nejúčinnější, ale
+nejtoxičtější: obsahuje jód (tyreopatie), způsobuje plicní fibrózu, usazeniny v
+rohovce, fotosenzitivitu a hepatotoxicitu, a poločas má týdny až měsíce.
+**IV. třída — blokátory kalciových kanálů:** verapamil a diltiazem; nesmějí se
+kombinovat s betablokátorem.
+**Mimo klasifikaci:** **adenosin** (poločas několik sekund, ukončí paroxysmální
+supraventrikulární tachykardii), digoxin, **magnezium** u torsades, atropin,
+ivabradin. Každé antiarytmikum může arytmii také vyvolat.
+""")
+
+K("68", "ACE inhibitory a antagonisté angiotensinu", """
+**Systém renin-angiotensin-aldosteron:** renin štěpí angiotensinogen na
+angiotensin I, **ACE** jej mění na **angiotensin II**, který přes receptor
+**AT1** stahuje cévy, uvolňuje aldosteron, podporuje remodelaci myokardu, žízeň
+a výdej ADH.
+**ACE je zároveň kináza II**, která odbourává **bradykinin**. Proto se při
+podávání ACE inhibitorů bradykinin hromadí a vzniká **suchý dráždivý kašel** a
+vzácně **angioedém**. **Sartany** blokují až receptor AT1, bradykinin
+neovlivňují, a proto kašel nezpůsobují.
+**Zástupci:** ramipril, perindopril, enalapril, kaptopril (**-pril**); losartan,
+valsartan, telmisartan, kandesartan (**-sartan**).
+**Indikace:** hypertenze, srdeční selhání, stav po infarktu myokardu a
+**diabetická či proteinurická nefropatie**. **Renoprotekce** spočívá v uvolnění
+odvodné tepénky glomerulu, čímž klesne nitroglomerulární tlak; mírný vzestup
+kreatininu na začátku léčby je proto očekávaný.
+**Nežádoucí účinky a kontraindikace:** hyperkalemie, hypotenze po první dávce,
+zhoršení funkce ledvin, **absolutní kontraindikace v graviditě** a při
+oboustranné stenóze renálních tepen. ACE inhibitor a sartan se nekombinují.
+Kombinace **ARNI** (sakubitril + valsartan) je dnešním standardem u srdečního
+selhání.
+""")
+
+K("69", "Diuretika", """
+Diuretika se dělí podle **místa účinku v nefronu**, z něhož plyne jejich síla i
+minerálové poruchy.
+**Proximální tubulus:** **acetazolamid** (inhibitor karboanhydrázy) u glaukomu a
+výškové nemoci, způsobuje metabolickou acidózu; osmotický **mannitol** u
+mozkového edému.
+**Vzestupné raménko Henleovy kličky: furosemid** blokuje kotransportér NKCC2. Je
+**nejsilnější**, protože klička vstřebává největší podíl sodíku, a **účinkuje i
+při selhání ledvin**. **Vyplavuje vápník**, způsobuje hypokalemii,
+hypomagnezemii a je ototoxický; nitrožilně působí nejprve žilní dilatací, což se
+využívá u plicního edému.
+**Distální tubulus: thiazidy** (hydrochlorothiazid, indapamid, chlortalidon)
+blokují kotransportér NCC. **Vápník naopak šetří.** Nefungují při těžkém selhání
+ledvin a mají metabolické nežádoucí účinky — hyperurikemii (dna), hyperglykemii,
+hyperlipidemii a hyponatremii.
+**Sběrací kanálek — kalium šetřící:** antagonisté aldosteronu **spironolakton**
+(zlepšuje přežití u srdečního selhání, ale způsobuje gynekomastii) a eplerenon;
+blokátory sodíkového kanálu amilorid a triamteren.
+Všechna kromě poslední skupiny **ztrácejí draslík**, což zvyšuje toxicitu
+digoxinu.
+""")
+
+K("70", "Blokátory kalciových kanálů", """
+Blokují **kalciové kanály typu L** v hladké svalovině cév a v myokardu; podle
+převažujícího cíle se dělí na dvě skupiny.
+**Dihydropyridiny** (amlodipin, nifedipin, nitrendipin, lerkanidipin, felodipin —
+koncovka **-dipin**) působí především na **cévy**. Vyvolají vazodilataci a
+snížení tlaku; nežádoucí jsou **otoky kotníků** (nejde o retenci tekutin, ale o
+nerovnováhu mezi dilatovanou tepénkou a nedilatovanou žilkou, proto na ně
+diuretikum nezabere), návaly, bolest hlavy, reflexní tachykardie a **hyperplazie
+gingivy**.
+**Verapamil** (fenylalkylamin) a **diltiazem** (**benzothiazepin**) působí
+především na **srdce**: zpomalují frekvenci, snižují kontraktilitu a zpomalují
+vedení v AV uzlu; verapamil navíc způsobuje zácpu. **Nesmějí se kombinovat s
+betablokátory** (riziko AV blokády) a jsou **kontraindikované u srdečního
+selhání**.
+**Indikace:** hypertenze (zejména dihydropyridiny, vhodné u seniorů), angina
+pectoris včetně vazospastické, a u verapamilu i diltiazemu supraventrikulární
+arytmie a fibrilace síní — zejména tam, kde nelze podat betablokátor.
+**Grapefruit** inhibuje CYP3A4 a zvyšuje jejich hladinu.
+""")
+
+K("71", "Nitrity a nitráty", """
+**Nitráty jsou donory oxidu dusnatého (NO)**. NO aktivuje guanylátcyklázu,
+zvýší cGMP a uvolní hladkou svalovinu — **především v žilním řečišti**. Krev se
+zadrží v žilách, klesne **předtížení**, srdce se méně plní a **potřebuje méně
+kyslíku**; teprve druhotně se rozšíří věnčité tepny a odezní spazmus.
+**Zástupci a formy:** **nitroglycerin** sublingválně nebo ve spreji (**nesmí se
+polykat**, zničil by ho first-pass efekt), isosorbid dinitrát a mononitrát
+(mononitrát first-pass nemá), molsidomin a nitroglycerin nitrožilně u akutních
+stavů.
+**Tolerance** je hlavním praktickým problémem: při nepřetržité expozici účinek
+během několika dní vymizí, a proto se dodržuje **nitrátový interval 8–12 hodin**
+denně, obvykle přes noc (u nočních obtíží naopak přes den).
+**Nežádoucí účinky:** bolest hlavy (během dnů odezní), návaly, hypotenze a
+reflexní tachykardie.
+**Absolutní kontraindikací jsou inhibitory fosfodiesterázy 5** (sildenafil,
+tadalafil) — obě skupiny zvyšují cGMP, účinek se sečte a nastane nezvratný pokles
+tlaku. Na jejich užívání je nutné se aktivně ptát.
+Nitráty jsou léčbou symptomatickou, prognózu nezlepšují.
+""")
+
+K("72", "Farmakoterapie srdečního selhání", """
+U srdečního selhání je zásadní odlišit léčbu, která **prodlužuje život**, od
+léčby, která pouze **ulevuje od příznaků**.
+**Čtyři pilíře** u selhání se sníženou ejekční frakcí: **ACE inhibitor nebo
+sartan** (dnes nejlépe **ARNI** — sakubitril s valsartanem), **betablokátor**
+(pouze bisoprolol, metoprolol ZOK, karvedilol a nebivolol), **antagonista
+aldosteronu** (spironolakton, eplerenon) a **gliflozin** (dapagliflozin,
+empagliflozin), který působí i u nediabetika.
+**Symptomatická léčba:** diuretika (furosemid), digoxin a ivabradin. Zlepší
+příznaky a sníží hospitalizace, ale prognózu nemění.
+**Proč se tlumí srdce, které nestačí:** chronická aktivace sympatiku a systému
+RAAS je zpočátku kompenzací, ale dlouhodobě vede k remodelaci a poškození
+myokardu. Léčba tuto nadměrnou podporu odstraňuje — proto se betablokátor nasazuje
+až u stabilizovaného pacienta v nízké dávce a titruje se týdny, přičemž stav se
+může přechodně zhoršit.
+**Kontraindikované jsou** nesteroidní antirevmatika (retence sodíku, zhoršení
+funkce ledvin), verapamil a diltiazem (negativně inotropní) a glitazony (retence
+tekutin).
+""")
+
+K("73", "Farmakoterapie ischemické choroby srdeční", """
+Ischemická choroba srdeční vzniká **nepoměrem mezi nabídkou a spotřebou kyslíku
+v myokardu**. Léčba se dělí na chronickou a akutní.
+**U chronické formy zlepšují prognózu** antiagregancia (kyselina
+acetylsalicylová), **statin** ve vysoké dávce (nejen kvůli cholesterolu, ale pro
+**stabilizaci plátu**, protože infarkt způsobí prasklý plát), **ACE inhibitor** a
+**betablokátor**.
+**Pouze od příznaků ulevují** nitráty, **ivabradin** (blokuje kanál If v
+sinusovém uzlu, zpomalí tep bez vlivu na kontraktilitu a tlak), trimetazidin,
+ranolazin a blokátory kalciových kanálů, které jsou volbou u vazospastické
+anginy. Betablokátor uleví tím, že zpomalí tep, prodlouží diastolu a zlepší
+plnění věnčitých tepen, k němuž dochází právě v diastole.
+**Akutní koronární syndrom:** rozhoduje čas a otevření tepny perkutánní koronární
+intervencí. Farmakoterapie ji doprovází: kyselina acetylsalicylová s inhibitorem
+P2Y12 (tikagrelor, prasugrel), antikoagulancium, morfin, kyslík při desaturaci,
+nitrát, betablokátor a statin. Trombolýza se podá jen tam, kde katetrizace není
+dostupná.
+**Duální antiagregace po zavedení stentu** trvá obvykle 12 měsíců a nesmí se
+svévolně vysadit — hrozí trombóza stentu.
+""")
+
+K("74", "Antihypertenziva", """
+Léčba hypertenze stojí na **pěti základních třídách**: ACE inhibitory a sartany,
+blokátory kalciových kanálů (dihydropyridiny), **thiazidová diuretika**,
+betablokátory a u rezistentní hypertenze **spironolakton**. Doplňují je centrálně
+působící α2 agonisté (methyldopa, klonidin), α1-blokátory, přímé vazodilatátory
+(hydralazin, minoxidil) a urapidil.
+**Zásadou je kombinovat nízké dávky několika léčiv** raději než vyhnat jedno do
+maxima — účinek se sečte, nežádoucí účinky ne. Fixní kombinace v jedné tabletě
+zlepšuje adherenci, protože hypertenze nebolí.
+**Volba podle pacienta:** diabetik nebo proteinurie → ACE inhibitor či sartan; po
+infarktu → betablokátor s ACE inhibitorem; srdeční selhání → čtyři pilíře;
+starší pacient s izolovanou systolickou hypertenzí → blokátor kalciových kanálů
+nebo thiazid. **U dny se nepodává thiazid, u astmatu betablokátor.**
+**V graviditě** jsou povolené **methyldopa, labetalol a nifedipin**, zatímco ACE
+inhibitory a sartany jsou absolutně kontraindikované.
+**Hypertenzní krize** se nesmí srážet příliš rychle. U rezistentní hypertenze se
+nejdřív vyloučí nespolupráce a sekundární příčina — nejčastěji **primární
+hyperaldosteronismus**, dále onemocnění ledvin či léky (NSA, kortikoidy,
+antikoncepce).
+""")
+
+K("75", "Farmakoterapie aterosklerózy, hyperlipidemie", """
+**Statiny** (atorvastatin, rosuvastatin, simvastatin) inhibují **HMG-CoA
+reduktázu**, klíčový enzym tvorby cholesterolu v játrech. Játra na to reagují
+zvýšením počtu **LDL receptorů**, kterými vytáhnou cholesterol z krve. Kromě toho
+mají pleiotropní účinek — tlumí zánět ve stěně cévy a **stabilizují
+aterosklerotický plát**, což je klinicky podstatnější než samotné číslo v odběru.
+**Nežádoucí účinky:** svalové obtíže od myalgie po vzácnou **rabdomyolýzu**
+(bolest svalů, tmavá moč, vysoká kreatinkináza), zvýšení jaterních testů a mírné
+zvýšení rizika diabetu. **Riziko myopatie stoupá s inhibitory CYP3A4** —
+makrolidy (klarithromycin), azolová antimykotika, verapamil, cyklosporin,
+grapefruit — a při kombinaci s fibrátem.
+**Další hypolipidemika:** **ezetimib** blokuje střevní vstřebávání cholesterolu
+(přenašeč NPC1L1); **inhibitory PCSK9** (evolokumab, alirokumab) jsou injekční
+protilátky s velmi silným účinkem pro rodinnou hypercholesterolemii a
+netolerující pacienty; **fibráty** (fenofibrát) přes PPAR-α snižují především
+triacylglyceroly; dále pryskyřice, kyselina nikotinová a omega-3 mastné kyseliny.
+Cílová hodnota LDL se řídí celkovým kardiovaskulárním rizikem.
+""")
+
+K("76", "Parenterální antikoagulancia", """
+**Heparin sám o sobě neúčinkuje** — asi tisíckrát zesílí přirozený inhibitor
+**antitrombin III**. Proto při vrozeném deficitu antitrombinu nefunguje.
+**Nefrakcionovaný heparin** má dlouhý řetězec, inhibuje **faktor IIa i Xa**,
+monitoruje se pomocí **aPTT**, má krátký poločas a **antidotem je protamin
+sulfát**; hodí se při těžkém selhání ledvin a tam, kde je třeba účinek rychle
+ukončit.
+**Nízkomolekulární hepariny** (enoxaparin, nadroparin) působí především na
+**faktor Xa**, podávají se podkožně jednou až dvakrát denně, rutinní monitorace
+není nutná (jen anti-Xa aktivita) a protamin je zruší jen částečně.
+**Fondaparinux** je syntetický pentasacharid inhibující výhradně faktor Xa a
+**nevyvolává HIT**.
+**Heparinem indukovaná trombocytopenie (HIT)** je paradoxní komplikace:
+protilátky proti komplexu heparinu s destičkovým faktorem 4 destičky nejen
+ubírají, ale i **aktivují**, takže pacient má málo destiček a přitom trombózy.
+Heparin se okamžitě vysadí a nahradí argatrobanem, bivalirudinem nebo
+fondaparinuxem; **destičky se nepodávají**.
+Hepariny **neprocházejí placentou**, a jsou proto antikoagulanciem volby v
+graviditě.
+""")
+
+K("77", "Perorální antikoagulancia", """
+**Warfarin** je antagonista vitaminu K: blokuje γ-karboxylaci koagulačních
+faktorů **II, VII, IX a X**, ale i přirozených inhibitorů **proteinu C a S**.
+Protože protein C má nejkratší poločas, je pacient v prvních dnech přechodně
+**protrombogenní** — proto se léčba **překrývá heparinem**, dokud INR nedosáhne
+cíle. Účinek nastupuje za 3–5 dní, monitoruje se **INR** (obvykle 2–3),
+antidotem je **vitamin K**, plazma nebo koncentrát protrombinového komplexu.
+Warfarin je **teratogenní**.
+**Interakce** jsou rozsáhlé: vitamin K v listové zelenině (zásadou je jíst jí
+stále stejně), antibiotika ničící střevní bakterie produkující vitamin K,
+amiodaron a azolová antimykotika zvyšují INR, rifampicin, karbamazepin a
+třezalka je snižují; NSA zvyšují riziko krvácení i beze změny INR.
+**Přímá perorální antikoagulancia (DOAC):** **dabigatran** je přímý inhibitor
+trombinu s antidotem **idarucizumabem**; **rivaroxaban, apixaban a edoxaban**
+inhibují faktor Xa a antidotem je andexanet alfa. Výhodou je fixní dávka bez
+monitorace, méně interakcí a nižší riziko krvácení do mozku; **nesmějí se použít
+u mechanické chlopně a u těžké renální insuficience**.
+""")
+
+K("78", "Fibrinolytika, trombolytika, hemostatika", """
+**Trombolytika** aktivují plazminogen na **plazmin**, který rozpouští fibrin.
+Patří sem rekombinantní **alteplasa** a tenektaplasa a starší **streptokináza**,
+kterou nelze podat opakovaně, protože jako bakteriální bílkovina vyvolá tvorbu
+protilátek.
+**Indikace:** infarkt myokardu s elevacemi ST tam, kde není dostupná katetrizace,
+masivní plicní embolie a **ischemická cévní mozková příhoda do 4,5 hodiny**.
+**Kontraindikace:** aktivní krvácení, krvácení do mozku v anamnéze, nedávná
+operace nebo úraz, nekontrolovaná hypertenze, disekce aorty.
+**Hemostatika** působí opačně. **Vitamin K** ruší účinek warfarinu. **Kyselina
+tranexamová** je antifibrinolytikum — blokuje vazbu plazminogenu na fibrin a
+používá se u silného krvácení a menoragie; je kontraindikovaná při aktivní
+trombóze. **Desmopresin** vyplaví z endotelu **von Willebrandův faktor a faktor
+VIII**, a uplatní se proto u mírné hemofilie A a von Willebrandovy choroby.
+Dále etamsylát, koncentráty koagulačních faktorů a rekombinantní faktor VIIa.
+**Místně** se používá oxidovaná celulóza, kolagenová houbička a fibrinové lepidlo.
+**Hemofilie A je vrozený, X-vázaný deficit faktoru VIII.**
+""")
+
+K("79", "Antiagregancia", """
+**V tepně** vzniká sraženina převážně z **destiček**, proto se používají
+antiagregancia; **v žíle** převažuje fibrin a nasazují se antikoagulancia. Toto
+rozlišení určuje indikace.
+**Kyselina acetylsalicylová** v dávce 75–100 mg **ireverzibilně acetyluje COX-1**
+v trombocytu. Ten nemá jádro a enzym si neobnoví, takže účinek trvá celý život
+destičky, tedy 7–10 dní. Nízká dávka zasáhne destičkovou COX-1 už při průchodu
+játry, zatímco vyšší dávka by potlačila i ochranný prostacyklin v endotelu.
+**Inhibitory receptoru P2Y12 pro ADP:** **klopidogrel** je proléčivo aktivované
+CYP2C19 — pomalí metabolizátoři z něj nemají užitek a omeprazol jeho účinek
+snižuje; **prasugrel a tikagrelor** jsou účinnější, tikagrelor navíc reverzibilní
+a není proléčivem.
+**Inhibitory GPIIb/IIIa** (abciximab, eptifibatid) blokují poslední společný krok
+agregace, podávají se jen nitrožilně v katetrizační laboratoři.
+**Dipyridamol** se kombinuje s aspirinem po cévní mozkové příhodě, **cilostazol**
+se používá u ischemické choroby dolních končetin.
+Hlavním nežádoucím účinkem je krvácení, u aspirinu navíc gastropatie.
+""")
+
+K("80", "Inzulin, jeho analoga a glukagon", """
+Cílem inzulinoterapie je napodobit fyziologii — stálou **bazální** hladinu a
+vzestup k jídlu (**bolus**).
+**Rychlá analoga** (lispro, aspart, glulisin) nastupují asi za 15 minut a
+podávají se těsně před jídlem. **Krátce působící humánní inzulin** vyžaduje
+odstup asi 30 minut. **Střednědobý NPH** slouží k překlenutí, **dlouhá analoga**
+(glargin, detemir, degludek) nemají výrazný vrchol a kryjí bazální potřebu;
+existují i premixované směsi.
+**Hlavním nebezpečím je hypoglykemie:** pocení, třes, bušení srdce, hlad, poté
+zmatenost, bezvědomí a křeče. **Betablokátor maskuje třes a palpitace**
+zprostředkované sympatikem, ale **pocení zůstane**, protože je cholinergní, a
+bývá jediným varováním. Léčbou je cukr ústy, při bezvědomí glukóza nitrožilně
+nebo **glukagon** i.m. či nosním sprejem.
+**Glukagon** je zároveň **antidotem předávkování betablokátory**, protože zvyšuje
+cAMP v myokardu jinou cestou než přes β receptor.
+Dalšími nežádoucími účinky jsou přírůstek hmotnosti a **lipodystrofie**, které
+předchází střídání míst vpichu. Rozlišuje se Somogyiho fenomén (ranní
+hyperglykemie po noční hypoglykemii) a dawn fenomén.
+""")
+
+K("81", "Perorální antidiabetika", """
+U diabetu 2. typu stojí problém na **inzulinové rezistenci** a postupném
+selhávání beta-buněk. Léčiva se dnes nevybírají jen podle glykemie, ale i podle
+ochrany srdce a ledvin.
+**Metformin** je lékem první volby: snižuje jaterní glukoneogenezi a zvyšuje
+citlivost k inzulinu. **Sám hypoglykemii nevyvolá**, protože nenutí slinivku
+vylučovat inzulin. Vysazuje se před podáním jodové kontrastní látky a při
+akutním stavu pro riziko **laktátové acidózy**; dlouhodobě může vést k deficitu
+vitaminu B12.
+**Sulfonylurea** (glimepirid, gliklazid) uzavírá KATP kanál a vyplaví inzulin
+**bez ohledu na glykemii**, proto jako jediná z tablet způsobuje těžkou a
+protrahovanou **hypoglykemii** a přírůstek hmotnosti; podobně glinidy.
+**Gliptiny** (sitagliptin) jsou metabolicky neutrální. **Agonisté GLP-1**
+(liraglutid, semaglutid) vedou k hubnutí a chrání srdce, podávají se injekčně a
+zpomalují vyprazdňování žaludku. **Glifloziny** (dapagliflozin, empagliflozin)
+blokují SGLT2, chrání srdce i ledviny, ale způsobují glykosurii s rizikem
+mykotických infekcí a **euglykemické ketoacidózy**.
+Dále pioglitazon (retence tekutin, srdeční selhání) a akarbóza.
+""")
+
+K("82", "Principy antibiotické terapie", """
+Antibiotická léčba stojí na **selektivní toxicitě** — zasáhne strukturu, kterou
+má bakterie a člověk ne.
+**Cíle v bakteriální buňce:** **buněčná stěna** z peptidoglykanu (betalaktamy,
+glykopeptidy), **cytoplazmatická membrána** (polymyxiny, daptomycin),
+**ribozom 70S** — podjednotka 30S (aminoglykosidy, tetracykliny) a 50S
+(makrolidy, linkosamidy, amfenikoly), **nukleové kyseliny** (chinolony blokují
+topoizomerázu, rifampicin RNA-polymerázu, metronidazol poškozuje DNA anaerobů) a
+**syntéza kyseliny listové** (sulfonamidy s trimethoprimem).
+**Pojmy:** baktericidní × bakteriostatické, úzké × široké spektrum, empirická ×
+cílená léčba, **MIC**. Podle způsobu zabíjení se dávkuje: **koncentračně závislá**
+antibiotika (aminoglykosidy, chinolony) se podávají ve vysoké dávce jednou
+denně, **časově závislá** (betalaktamy) častěji, protože rozhoduje doba nad MIC.
+**Mechanismy rezistence:** produkce **betalaktamáz**, změna cílové struktury
+(MRSA má pozměněný PBP2a), **efluxní pumpy** a snížená propustnost stěny.
+Rezistence roste s používáním, proto se antibiotika nenasazují na virózy a
+neslouží jako náhrada chirurgického ošetření ložiska.
+""")
+
+K("83", "Peniciliny, inhibitory betalaktamáz", """
+**Peniciliny** jsou betalaktamová antibiotika, která blokují transpeptidázu
+(protein vázající penicilin) a tím **syntézu buněčné stěny**. Jsou **baktericidní
+a působí jen na dělící se bakterie**. Protože člověk buněčnou stěnu nemá, jsou
+velmi bezpečné a hlavním rizikem je alergie, nikoli toxicita.
+**Přirozené:** penicilin G (i.v., i.m.), **penicilin V** perorálně (podává se
+nalačno) a depotní benzathin-penicilin. **Protistafylokokové:** oxacilin, odolný
+vůči stafylokokové betalaktamáze. **Aminopeniciliny:** ampicilin a **amoxicilin**
+se širším spektrem včetně některých gramnegativních bakterií.
+**Ureidopeniciliny:** piperacilin s účinkem na *Pseudomonas*.
+**Inhibitory betalaktamáz** (kyselina klavulanová, sulbaktam, tazobaktam) samy
+prakticky neúčinkují — obětují se enzymu a rozšíří spektrum na producenty
+betalaktamáz.
+**Nežádoucí účinky:** alergie (skutečná IgE reakce je vzácnější, než pacienti
+uvádějí; při anafylaxi v anamnéze se betalaktamům vyhýbáme a volíme klindamycin
+nebo makrolid), průjem a infekce *Clostridioides difficile*, ve vysokých dávkách
+křeče. **Ampicilinový exantém u infekční mononukleózy není alergie.**
+""")
+
+K("84", "Cefalosporiny, karbapenemy, monobaktamy", """
+Všechny tři skupiny jsou **betalaktamy** se stejným mechanismem jako peniciliny.
+**Cefalosporiny** se dělí do generací a platí pravidlo: **čím vyšší generace, tím
+méně grampozitivních a více gramnegativních bakterií**. I. generace (cefazolin,
+cefalexin) se používá k chirurgické profylaxi; II. (cefuroxim) pokrývá i
+*Haemophilus*; III. (**ceftriaxon**, cefotaxim) proniká do centrálního nervového
+systému, a hodí se proto u meningitid, ceftazidim navíc na *Pseudomonas*; IV.
+(cefepim) je široká, nemocniční; V. (ceftarolin) jako jediná působí i na **MRSA**.
+**Žádný cefalosporin nepůsobí na enterokoky ani na atypické patogeny.**
+**Karbapenemy** (meropenem, imipenem s cilastatinem, ertapenem) mají nejširší
+spektrum, a proto se drží v **rezervě** pro těžké a multirezistentní infekce.
+Imipenem se musí kombinovat s cilastatinem, aby jej nerozložil ledvinný enzym, a
+snižuje práh pro křeče; ertapenem nepůsobí na *Pseudomonas*.
+**Monobaktam aztreonam** působí jen na gramnegativní bakterie, ale je natolik
+strukturálně odlišný, že jej lze podat i při alergii na penicilin.
+Nežádoucí účinky jsou společné: alergie, průjem a **klostridiová kolitida**.
+""")
+
+K("85", "Aminoglykosidy, chinolony", """
+Obě skupiny jsou **baktericidní a koncentračně závislé**, proto se dávkují ve
+vysoké dávce jednou denně.
+**Aminoglykosidy** (gentamicin, amikacin, tobramycin, streptomycin) blokují
+**30S podjednotku ribozomu**, ale na rozdíl od ostatních inhibitorů proteosyntézy
+jsou **baktericidní**. Nevstřebávají se ze střeva, podávají se jen parenterálně a
+nepůsobí na anaeroby, protože jejich vstup do buňky vyžaduje kyslík. Se
+**betalaktamy působí synergicky**. Toxicita je typická: **nefrotoxicita**
+(obvykle vratná) a **ototoxicita** postihující sluch i rovnováhu, která bývá
+**trvalá** — proto se sledují plazmatické hladiny. Dávkování jednou denně navíc
+chrání ledvinu.
+**Chinolony** (ciprofloxacin, ofloxacin, levofloxacin, moxifloxacin) inhibují
+**topoizomerázu II, tedy DNA-gyrázu, a topoizomerázu IV**. Mají široké spektrum
+a dobrou tkáňovou penetraci. Nežádoucí účinky: **zánět a ruptura šlach** (typicky
+Achillovy, zvláště u seniorů a při současné kortikoterapii), **kontraindikace u
+dětí a v graviditě** pro poškození chrupavek, prodloužení QT, fotosenzitivita,
+neuropsychické projevy a průjem po *C. difficile*. **Chelatují se s vápníkem,
+hořčíkem a železem** — nesmějí se zapíjet mlékem ani brát s antacidy.
+""")
+
+K("86", "Linkosamidy, glykopeptidy, polymyxiny", """
+**Klindamycin** (linkosamid) blokuje **50S podjednotku ribozomu** a je
+bakteriostatický. Působí na grampozitivní koky a především na **anaeroby** a má
+**vynikající průnik do kosti**, proto se používá u abscesů, osteomyelitidy a jako
+alternativa při alergii na penicilin. Hlavním rizikem je **pseudomembranózní
+kolitida vyvolaná *Clostridioides difficile***, která se projeví vodnatými
+průjmy během léčby i po ní a léčí se **perorálním vankomycinem** nebo
+fidaxomicinem; léky tlumící střevní motilitu jsou kontraindikované.
+**Glykopeptidy** (vankomycin, teikoplanin) blokují syntézu buněčné stěny na
+**jiném místě než betalaktamy**, takže je betalaktamázy neovlivní. Působí pouze
+na **grampozitivní** bakterie a jsou lékem volby u **MRSA**. Perorálně se
+nevstřebávají — právě proto se tak podávají u klostridiové kolitidy. Při rychlé
+infuzi vzniká **„red man syndrome"**, histaminová reakce, která není alergií;
+dále hrozí nefrotoxicita a ototoxicita.
+**Polymyxiny** (kolistin) narušují cytoplazmatickou membránu jako detergent,
+slouží jako rezerva na multirezistentní gramnegativní bakterie a jsou výrazně
+nefrotoxické a neurotoxické.
+""")
+
+K("87", "Tetracykliny, amfenikoly", """
+**Tetracykliny** (doxycyklin, minocyklin, tetracyklin) jsou širokospektrá
+**bakteriostatická** antibiotika, která blokují **30S podjednotku ribozomu** —
+nikoli buněčnou stěnu. Spektrum zahrnuje i **atypické patogeny**: chlamydie,
+mykoplazmata, borrelie a rickettsie, proto je doxycyklin lékem volby u lymeské
+boreliózy. Doxycyklin má lepší vstřebávání, delší poločas a lze jej podat i při
+renální insuficienci.
+**Nežádoucí účinky:** vážou se na **vápník** a ukládají do rostoucí kosti a zubu,
+kde způsobí **nevratné šedohnědé zbarvení a hypoplazii skloviny** — proto jsou
+kontraindikované **do 8 let věku, v graviditě a při kojení**. Dále **chelatace**
+s vápníkem, hořčíkem a železem (nezapíjet mlékem, neužívat s antacidy),
+fotosenzitivita a ezofagitida, které předchází zapití velkým množstvím vody.
+Rezistence je dnes rozsáhlá.
+**Amfenikoly — chloramfenikol** blokuje **50S podjednotku**. Systémově se
+prakticky nepoužívá pro **aplastickou anemii**, která je idiosynkratická a
+nezávislá na dávce, a pro **gray baby syndrom** u novorozence s nezralou
+glukuronidací. Zůstal v očních kapkách a mastech.
+""")
+
+K("88", "Makrolidy", """
+**Makrolidy** blokují **50S podjednotku ribozomu** a jsou bakteriostatické.
+Pokrývají **atypické patogeny** — mykoplazmata, chlamydie, legionelu, původce
+černého kašle — a jsou **alternativou při alergii na penicilin**.
+**Zástupci:** erythromycin (nejstarší, špatně snášený), **klarithromycin**,
+**azithromycin** a spiramycin.
+**Nejvýznamnějším problémem jsou lékové interakce.** Erythromycin a
+klarithromycin jsou **silné inhibitory CYP3A4**, a proto zvyšují hladiny statinů
+(riziko rabdomyolýzy), warfarinu (krvácení), cyklosporinu, karbamazepinu a
+některých blokátorů kalciových kanálů. **Azithromycin CYP3A4 prakticky
+neinhibuje**, a je tedy volbou u polymorbidního pacienta. Azithromycin má navíc
+velmi dlouhý tkáňový poločas — třídenní kúra působí ještě řadu dní po poslední
+dávce.
+**Další nežádoucí účinky:** **prodloužení QT**, zvláště v kombinaci s dalšími
+léčivy se stejným efektem (antipsychotika, chinolony, ondansetron), a
+gastrointestinální nesnášenlivost. Erythromycin dráždí žaludek přes
+**motilinový receptor** — této vlastnosti se využívá, když se podává jako
+prokinetikum u gastroparézy.
+""")
+
+K("89", "Chemoterapeutika močových a střevních infekcí", """
+Jde o léčiva, která se **koncentrují v místě infekce** — v moči nebo ve střevním
+lumen — a systémově působí málo, což omezuje nežádoucí účinky.
+**Močové cesty: nitrofurantoin** se aktivuje bakteriálními nitroreduktázami na
+radikály poškozující DNA; má **baktericidní účinek jen v moči**, proto se hodí
+na nekomplikovanou cystitidu, ale **nikdy na pyelonefritidu** (netvoří tkáňové
+hladiny). Kontraindikován je při **renální insuficienci** (nedostane se do moči)
+a v posledním trimestru gravidity; dlouhodobě hrozí plicní fibróza a
+polyneuropatie. **Fosfomycin** blokuje ranou fázi syntézy peptidoglykanu a
+podává se jako **jednorázová dávka 3 g**. Používají se dále
+**kotrimoxazol** a **chinolony** (u komplikovaných infekcí).
+**Střevní infekce: rifaximin** je nevstřebatelný derivát rifamycinu — působí
+v lumen, užívá se u cestovatelského průjmu a v prevenci **jaterní encefalopatie**
+(snižuje střevní produkci amoniaku). **Nifuroxazid** je střevní nitrofuran.
+**Vankomycin perorálně** se nevstřebává a je léčbou **klostridiové kolitidy**,
+stejně jako **fidaxomicin**. **Metronidazol** pokrývá anaeroby a améby.
+""")
+
+K("90", "Antiparazitika", """
+**Antiparazitika** se dělí podle cílového parazita na antiprotozoika,
+antihelmintika a ektoparazitika; většina zasahuje **struktury, které savčí
+buňka nemá** — mikrotubuly červa, jeho neuromuskulární přenos nebo
+anaerobní metabolismus prvoka.
+**Antiprotozoika: metronidazol** (a tinidazol) se aktivuje v anaerobním
+prostředí na radikály štěpící DNA — účinkuje na **trichomonádu, lamblie,
+améby** a anaerobní bakterie; má **disulfiramový efekt s alkoholem** a kovovou
+pachuť. **Antimalarika:** chlorochin, **artemisininové kombinace (ACT)** jako
+lék volby u falciparové malárie, atovakvon/proguanil a doxycyklin v profylaxi,
+**primachin** na jaterní hypnozoity (kontraindikace při **deficitu G6PD** —
+hemolýza). Toxoplazmóza: pyrimethamin se sulfadiazinem a kyselinou listovou.
+**Antihelmintika: albendazol a mebendazol** vážou **β-tubulin** červa a blokují
+příjem glukózy — široké spektrum hlístic. **Praziquantel** zvyšuje propustnost
+membrány pro vápník (motolice, tasemnice). **Ivermektin** otevírá
+glutamátem řízené chloridové kanály.
+**Ektoparazitika:** permethrin a ivermektin na svrab a veš.
+""")
+
+K("91", "Antituberkulotika a antileprotika", """
+**Tuberkulóza se nikdy neléčí jedním lékem** — mykobakterie se dělí pomalu,
+tvoří dormantní populace a rychle vytvoří rezistenci; proto vždy
+**kombinace nejméně čtyř léčiv** a dlouhé podávání pod přímým dohledem (DOT).
+**Standardní režim: 2 měsíce HRZE + 4 měsíce HR.**
+**Izoniazid (H)** blokuje syntézu **kyseliny mykolové**; nežádoucí je
+**periferní neuropatie** (prevence **pyridoxinem, vitamin B6**) a
+hepatotoxicita. **Rifampicin (R)** inhibuje bakteriální **RNA-polymerázu**;
+je **silným induktorem CYP450** — snižuje účinek kontraceptiv, warfarinu,
+antiretrovirotik — a **barví moč, slzy a pot oranžově** (varovat pacienta,
+barví kontaktní čočky). **Pyrazinamid (Z)** působí v kyselém prostředí
+makrofágu, zvyšuje kyselinu močovou a je hepatotoxický. **Etambutol (E)**
+blokuje arabinosyltransferázu a způsobuje **retrobulbární neuritidu** —
+porucha barvocitu a ostrosti, nutná oční kontrola.
+**Rezervní:** streptomycin, fluorochinolony, bedachilin, linezolid.
+**Lepra:** dapson + rifampicin + klofazimin, léčba trvá roky.
+""")
+
+K("92", "Antimykotika", """
+**Antimykotika** cílí na **ergosterol** — sterol houbové membrány, který
+lidská buňka nemá (má cholesterol) — nebo na buněčnou stěnu z glukanu.
+**Azoly** (flukonazol, itrakonazol, vorikonazol, posakonazol; lokálně
+klotrimazol, mikonazol) inhibují **14-α-demetylázu**, tedy syntézu ergosterolu.
+Jsou fungistatické a jejich hlavním rizikem jsou **interakce přes CYP450** —
+inhibují CYP3A4, a tím zvyšují hladiny statinů, warfarinu, cyklosporinu.
+**Polyeny — amfotericin B** se váže přímo na ergosterol a **děrují membránu**;
+je fungicidní, vyhrazený pro těžké systémové mykózy, silně **nefrotoxický**
+a působí horečku a třesavku při infuzi (lipozomální forma je snášena lépe).
+**Nystatin** je polyen jen pro lokální a perorální (nevstřebatelné) použití —
+kandidóza dutiny ústní a střeva.
+**Echinokandiny** (kaspofungin, anidulafungin) blokují syntézu **β-glukanu**
+buněčné stěny; jsou dobře snášené a jsou lékem volby u invazivní kandidózy.
+**Terbinafin** inhibuje skvalenepoxidázu — onychomykózy a dermatofytózy.
+**Flucytosin** se vestavuje do RNA, kombinuje se s amfotericinem.
+""")
+
+K("93", "Antivirotika", """
+**Antivirotika** jsou převážně **virostatická** — potlačují replikaci, ale
+nevymýtí latentní virus; proto herpetické infekce recidivují. Cílem bývá
+**virová polymeráza**, protože ta se dostatečně liší od lidské.
+**Herpetické viry: aciklovir** je proléčivo, které fosforyluje **virová
+thymidinkináza** — proto se aktivuje jen v infikované buňce, což vysvětluje
+jeho vysokou bezpečnost. Aktivní trifosfát pak blokuje virovou DNA-polymerázu
+a působí jako **terminátor řetězce**. Valaciklovir má lepší biologickou
+dostupnost. Riziko je **krystalurie a nefrotoxicita** při nedostatečné
+hydrataci. Na **cytomegalovirus** slouží ganciklovir a valganciklovir
+(myelosuprese), rezervně foskarnet a cidofovir (nefrotoxické).
+**Chřipka: oseltamivir a zanamivir** blokují **neuraminidázu**, a brání tak
+uvolnění nových virionů z buňky — účinné jen **do 48 hodin** od začátku
+příznaků. **Hepatitida C:** přímo působící antivirotika (sofosbuvir,
+ledipasvir, glekaprevir) dosahují vyléčení u naprosté většiny nemocných.
+**Hepatitida B:** tenofovir, entekavir, peginterferon.
+""")
+
+K("94", "Antiretrovirotika", """
+**Antiretrovirotika** potlačují replikaci HIV natolik, že virová nálož klesne
+pod mez detekce; **infekci nevyléčí**, protože provirus přetrvává v paměťových
+buňkách. Podávají se **vždy v kombinaci (cART)** — nejméně tři léčiva ze dvou
+skupin — protože monoterapie během týdnů vybere rezistentní kmen.
+**Skupiny podle kroku replikačního cyklu:**
+**NRTI** — nukleosidové inhibitory reverzní transkriptázy (tenofovir,
+emtricitabin, abakavir, lamivudin); terminují řetězec. Abakavir smí být podán
+až po vyšetření **HLA-B*5701** kvůli hypersenzitivitě, starší NRTI působí
+mitochondriální toxicitu a laktátovou acidózu.
+**NNRTI** — nenukleosidové (efavirenz, rilpivirin, doravirin), vážou se
+alostericky; interagují přes CYP450, efavirenz působí neuropsychicky.
+**Inhibitory proteázy** (darunavir, atazanavir) blokují štěpení polyproteinu;
+boostují se ritonavirem nebo kobicistatem (inhibitory CYP3A4), působí
+**dyslipidemii a lipodystrofii**.
+**Inhibitory integrázy** (dolutegravir, bictegravir) jsou dnes základem
+první linie — rychlý pokles nálože, málo interakcí.
+**Inhibitory vstupu:** maravirok (CCR5), enfuvirtid. **PrEP:** tenofovir
+s emtricitabinem.
+""")
+
+K("95", "Antitusika, mukolytika, expektorancia", """
+**Kašel je obranný reflex** — produktivní kašel se tlumit nemá, protože brání
+odstranění sekretu; tlumí se jen **suchý dráždivý kašel**. Proto se
+**antitusika zásadně nekombinují s mukolytiky** (hromadil by se hlen).
+**Antitusika centrální — opioidní: kodein** a **dextromethorfan** tlumí
+centrum kašle v prodloužené míše. Kodein je proléčivo metabolizované
+**CYP2D6 na morfin**, působí zácpu, útlum dechu a je návykový; u dětí je
+kontraindikován. Dextromethorfan není analgetický ani (v běžné dávce)
+návykový, ve vysokých dávkách je disociativní. **Butamirát** je neopioidní
+centrální antitusikum. **Periferní** antitusika snižují dráždivost receptorů
+v dýchacích cestách.
+**Mukolytika** mění vlastnosti hlenu. **N-acetylcystein** štěpí **disulfidové
+můstky** mukoproteinů, čímž hlen zřeďuje; současně je **antidotem otravy
+paracetamolem** (doplňuje glutathion). **Ambroxol** a bromhexin zvyšují
+sekreci surfaktantu a tvorbu řidšího hlenu. **Erdostein**, **dornáza alfa**
+(štěpí DNA v hnisavém sputu u cystické fibrózy).
+**Expektorancia** (guaifenesin, silice, břečťan) zvyšují objem sekretu a
+usnadňují vykašlání; základem zůstává **dostatečná hydratace**.
+""")
+
+K("96", "Antiastmatika", """
+**Astma je chronický zánět dýchacích cest** s bronchiální hyperreaktivitou,
+proto je jeho základem **protizánětlivá léčba, nikoli bronchodilatace**.
+Léčiva se dělí na **úlevová** (podle potřeby) a **kontrolující** (denně).
+**Úlevová: SABA — salbutamol, fenoterol** — β2-agonisté s rychlým nástupem,
+relaxují hladký sval bronchu; nežádoucí je **tremor, tachykardie,
+hypokalemie**. Vysoká spotřeba SABA je známkou špatně kontrolovaného astmatu.
+Dále **ipratropium** (krátkodobé anticholinergikum).
+**Kontrolující: inhalační kortikosteroidy (IKS)** — budesonid, flutikason,
+beklometason — jsou **základem léčby**; potlačují zánět, jejich hlavním
+lokálním nežádoucím účinkem je **orofaryngeální kandidóza a dysfonie**, čemuž
+brání **výplach úst po inhalaci a použití nástavce**. **LABA** (formoterol,
+salmeterol) se podávají **výhradně s IKS**, nikdy samostatně — monoterapie
+LABA zvyšuje mortalitu. Dnešní standard je **fixní kombinace IKS + formoterol**
+i jako úlevová léčba. Dále **LAMA** (tiotropium), **antileukotrieny**
+(montelukast — pozor na neuropsychické reakce), **teofylin** (úzké
+terapeutické okno) a **biologika** (omalizumab anti-IgE, mepolizumab anti-IL-5).
+""")
+
+K("97", "Antihistaminika", """
+**Antihistaminika** blokují histaminové receptory. **H1-antihistaminika** jsou
+inverzní agonisté H1 receptoru a tlumí projevy alergie: **svědění, kopřivku,
+rýmu, kýchání a slzení**; na bronchokonstrikci u astmatu ani na anafylaxi
+nestačí — **lékem první volby u anafylaxe je adrenalin**.
+**I. generace** (bisulepin, prometazin, difenhydramin, hydroxyzin) prochází
+**hematoencefalickou bariérou** a působí **sedaci** — nesmí se řídit ani pít
+alkohol. Mají navíc **anticholinergní účinky**: sucho v ústech, retence moči,
+rozmazané vidění, zácpa, u starších zmatenost; kontraindikací je
+**glaukom s uzavřeným úhlem a hyperplazie prostaty**. Sedace a antiemetický
+efekt se využívají cíleně (kinetóza, svědění v noci, premedikace).
+**II. generace** (**cetirizin, loratadin, desloratadin, fexofenadin,
+bilastin**) do CNS prakticky nepronikají — **nesedují a nemají anticholinergní
+efekt**, proto jsou volbou pro denní léčbu. Starší preparáty této skupiny
+(terfenadin, astemizol) byly staženy pro **prodloužení QT**.
+**H2-antihistaminika** (famotidin) tlumí sekreci žaludeční kyseliny.
+""")
+
+K("98", "Laxativa, antidiaroika", """
+**Laxativa** podporují vyprázdnění; podávají se až po vyloučení organické
+příčiny a **nesmí se podat při podezření na střevní obstrukci nebo náhlou
+příhodu břišní**. Základem zůstává vláknina, tekutiny a pohyb.
+**Osmotická: laktulóza** (nevstřebatelný disacharid, který střevní bakterie
+štěpí na kyseliny — táhne vodu a **snižuje vstřebávání amoniaku**, proto se
+používá u **jaterní encefalopatie**), **makrogol** (polyethylenglykol, dnes
+lék volby, váže vodu bez dráždění) a solná projímadla (síran hořečnatý).
+**Kontaktní/stimulační: bisakodyl, senna, pikosíran** dráždí myenterický
+plexus a zvyšují sekreci; při chronickém zneužívání hrozí **hypokalemie
+a atonie tračníku**, proto se nehodí k trvalému užívání.
+**Objemová** (psyllium, ispaghula) bobtnají — nutný dostatečný příjem tekutin.
+**Změkčující/lubrikační:** dokusát, parafinový olej (zhoršuje vstřebávání
+vitaminů rozpustných v tucích). **Periferní antagonisté opioidů**
+(methylnaltrexon, naloxegol) na zácpu při opioidech.
+**Antidiaroika: loperamid** je agonista periferních **µ-opioidních receptorů**,
+který zpomaluje peristaltiku a do CNS neproniká; **nesmí se podat u dysenterie
+a horečnatého průjmu** (riziko toxického megakolon). Dále adsorbencia
+(diosmektit, aktivní uhlí), probiotika a **rehydratace**, která je zásadní.
+""")
+
+K("99", "Farmakoterapie vředové choroby a GERD", """
+Vřed vzniká **nepoměrem mezi agresivními faktory** (kyselina, pepsin,
+*Helicobacter pylori*, NSA) **a ochranou sliznice** (hlen, bikarbonáty,
+prostaglandiny). Léčba proto tlumí kyselinu, eradikuje bakterii a odstraní
+vyvolávající lék.
+**Inhibitory protonové pumpy (IPP)** — omeprazol, pantoprazol, esomeprazol —
+ireverzibilně blokují **H+/K+-ATPázu** parietální buňky, tedy poslední společný
+krok sekrece; jsou nejúčinnější. Podávají se **nalačno, 30 minut před jídlem**,
+protože aktivují se jen na sekretující pumpě. Dlouhodobě: hypomagnezemie,
+deficit **vitaminu B12**, zvýšené riziko klostridiové kolitidy a zlomenin;
+omeprazol inhibuje **CYP2C19** a snižuje účinek **klopidogrelu** (volí se
+pantoprazol).
+**H2-antihistaminika** (famotidin) tlumí sekreci slaběji, hodí se na noční
+příznaky. **Antacida** (hydroxid hlinitý a hořečnatý) neutralizují kyselinu —
+rychlá, ale krátká úleva; **vážou jiná léčiva**, proto s odstupem.
+**Protektiva:** sukralfát tvoří film na spodině vředu, misoprostol
+(analog prostaglandinu) chrání před NSA, ale je **kontraindikován v graviditě**.
+**Eradikace H. pylori:** IPP + **amoxicilin + klarithromycin** (nebo metronidazol),
+běžně jako **čtyřkombinace s bismutem**, 10–14 dní.
+""")
+
+K("100", "Prokinetika, antiemetika, emetika", """
+**Prokinetika** urychlují vyprazdňování žaludku a zvyšují tonus dolního jícnového
+svěrače. **Metoklopramid** je antagonista **D2 receptorů** (a v centru zároveň
+antiemetikum); prochází do CNS, a proto působí **extrapyramidové projevy —
+akutní dystonii, u dlouhodobého podání tardivní dyskinezi** — z čehož plyne
+omezení dávky a délky podávání. **Itoprid** a **domperidon** do CNS pronikají
+málo (domperidon však **prodlužuje QT**). **Erythromycin** působí přes
+motilinový receptor u gastroparézy.
+**Antiemetika se volí podle příčiny zvracení:**
+**Setrony — ondansetron** blokují **5-HT3** receptory v area postrema a ve
+střevě; jsou základem u **cytostatiky a ozářením vyvolaného zvracení** a po
+operaci. Nežádoucí: zácpa, bolest hlavy, **prodloužení QT**.
+**Antagonisté NK1** (aprepitant) proti pozdní fázi po chemoterapii.
+**Kortikosteroidy** (dexametazon) v kombinaci. **Antihistaminika I. generace**
+(prometazin) a **anticholinergika (skopolamin)** u **kinetózy**.
+**Neuroleptika** (haloperidol, levomepromazin) u zvracení v paliativní péči.
+**Kanabinoidy** rezervně.
+**Emetika: ipekakuanha a apomorfin** (agonista D2 v area postrema) se dnes
+při otravách **prakticky nepoužívají** — vyvolávat zvracení se nedoporučuje
+pro riziko aspirace; volí se aktivní uhlí.
+""")
