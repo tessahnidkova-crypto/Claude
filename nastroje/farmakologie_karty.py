@@ -1953,3 +1953,334 @@ operaci. Nežádoucí: zácpa, bolest hlavy, **prodloužení QT**.
 při otravách **prakticky nepoužívají** — vyvolávat zvracení se nedoporučuje
 pro riziko aspirace; volí se aktivní uhlí.
 """)
+
+K("101", "Farmakoterapie nespecifických střevních zánětů", """
+**Nespecifické střevní záněty (IBD)** — Crohnova nemoc a ulcerózní kolitida —
+jsou chronické imunitně podmíněné záněty. Léčba má dvě fáze: **navození remise**
+(rychle působící protizánětlivá léčba) a **udržení remise** (imunosuprese);
+**kortikosteroidy se k udržení remise nikdy nepoužívají**.
+**Aminosalicyláty — mesalazin (5-ASA)**, sulfasalazin, se uvolňují v tlustém
+střevě a působí lokálně protizánětlivě. Jsou základem u **ulcerózní kolitidy**,
+u Crohnovy nemoci mají malý účinek. Sulfasalazin (5-ASA vázaný na sulfapyridin)
+způsobuje nauzeu, vyrážku a **reverzibilní oligospermii**.
+**Kortikosteroidy** (prednison, u ileocékální lokalizace **budesonid** s vysokým
+first-pass efektem, tedy nižší systémovou toxicitou) navozují remisi.
+**Imunosupresiva: azathioprin a 6-merkaptopurin** udržují remisi; před
+nasazením se vyšetřuje aktivita **TPMT** kvůli riziku myelosuprese. Dále
+**metotrexát**.
+**Biologika: anti-TNF-α — infliximab, adalimumab** — u těžkých a fistulujících
+forem; před léčbou je nutné **vyloučit latentní tuberkulózu**. Dále
+**vedolizumab** (anti-integrin, střevně selektivní), **ustekinumab**
+(anti-IL-12/23) a inhibitory JAK (tofacitinib).
+""")
+
+K("102", "Spasmolytika", """
+**Spasmolytika** uvolňují křeč hladkého svalstva trávicího, žlučového a
+močového ústrojí; tlumí tak viscerální bolest, která z křeče vychází. Dělí se
+podle mechanismu na **neurotropní** (blokáda přenosu) a **myotropní** (přímý
+účinek na sval).
+**Neurotropní — anticholinergika** blokují **muskarinové receptory**.
+**Butylskopolamin** je kvartérní amin, který **neprochází hematoencefalickou
+bariérou**, takže nesedaje; typické nežádoucí účinky jsou **sucho v ústech,
+rozmazané vidění, tachykardie, retence moči a zácpa**. Kontraindikací je
+**glaukom s uzavřeným úhlem, hyperplazie prostaty, tachyarytmie a paralytický
+ileus**. Atropin má systémovější účinek.
+**Myotropní: drotaverin** a **papaverin** inhibují **fosfodiesterázu**, zvyšují
+cAMP a přímo relaxují sval — nemají anticholinergní nežádoucí účinky, a jsou
+proto vhodnější u pacientů s glaukomem či prostatismem. **Mebeverin** a
+**pinaveriumbromid** (blokátor kalciových kanálů střeva) se používají u
+dráždivého tračníku. **Peprmintový olej** působí přes kalciové kanály.
+**Metamizol** má vlastní spasmolytickou složku, proto se hodí u kolik.
+""")
+
+K("103", "Hepatoprotektiva, cholagoga", """
+**Hepatoprotektiva** mají chránit hepatocyt před poškozením; u většiny z nich
+je **důkaz o účinnosti slabý** a základem léčby jaterního onemocnění zůstává
+odstranění příčiny (alkohol, hepatotoxický lék, virus, obezita).
+**Silymarin** z ostropestřce mariánského působí antioxidačně a stabilizuje
+membránu hepatocytu; jediná jeho **doložená indikace je otrava muchomůrkou
+zelenou** (*Amanita phalloides*), kde silibinin nitrožilně brání vstupu
+amanitinu do buňky. **Esenciální fosfolipidy** se používají u steatózy.
+**N-acetylcystein** je **antidotem otravy paracetamolem** — doplňuje
+glutathion, na němž závisí zneškodnění toxického metabolitu NAPQI.
+**Ornithin-aspartát** a **laktulóza** snižují amoniak u jaterní encefalopatie.
+**Cholagoga** podporují tok žluči: **choleretika** zvyšují její tvorbu,
+**cholekinetika** vyprazdňování žlučníku. **Kyselina ursodeoxycholová (UDCA)**
+je hydrofilní žlučová kyselina, která nahrazuje toxické žlučové kyseliny —
+je lékem volby u **primární biliární cholangitidy** a rozpouští drobné
+cholesterolové konkrementy. Cholagoga jsou **kontraindikována při obstrukci
+žlučových cest**.
+""")
+
+K("104", "Farmaka v očním lékařství", """
+Do oka se podává **lokálně (kapky, masti)**, aby se dosáhlo účinku bez
+systémové zátěže; přesto se část léčiva vstřebá spojivkou a nosní sliznicí —
+proto mohou i kapky vyvolat celkové nežádoucí účinky (**timolol → bradykardii
+a bronchospasmus**). Vstřebávání se sníží **stlačením slzného bodu** po
+kapnutí.
+**Antiglaukomatika snižují nitrooční tlak** dvěma cestami — méně tvorby nebo
+lepší odtok komorové vody. **Analoga prostaglandinů** (latanoprost,
+bimatoprost) zvyšují uveosklerální odtok a jsou **první volbou**; barví duhovku
+a prodlužují řasy. **β-blokátory** (timolol) snižují tvorbu komorové vody;
+kontraindikací je **astma a bradykardie**. **Inhibitory karboanhydrázy**
+(dorzolamid lokálně, acetazolamid celkově), **α2-agonisté** (brimonidin) a
+**pilokarpin** (parasympatomimetikum — mióza, otevírá úhel; užívá se
+u akutního záchvatu).
+**Mydriatika a cykloplegika:** tropikamid, atropin (anticholinergika) a
+fenylefrin — k vyšetření očního pozadí; **kontraindikované u glaukomu
+s uzavřeným úhlem**. **Lokální anestetika:** oxybuprokain.
+**Kortikosteroidy** tlumí zánět, ale zvyšují nitrooční tlak, urychlují
+**kataraktu** a zhoršují herpetickou keratitidu. **Anti-VEGF** (ranibizumab,
+aflibercept) se aplikují intravitreálně u vlhké makulární degenerace.
+""")
+
+K("105", "Drogová (léková) závislost", """
+**Závislost** je chronické onemocnění mozku charakterizované **nutkavým užíváním
+látky navzdory škodám**. Diagnostická kritéria zahrnují **craving** (bažení),
+**ztrátu kontroly**, **toleranci**, **odvykací stav**, zanedbávání jiných zájmů
+a pokračování i přes zjevné následky.
+Společným podkladem je aktivace **mezolimbické dopaminergní dráhy** (ventrální
+tegmentum → nucleus accumbens) — všechny návykové látky přímo či nepřímo
+**zvyšují dopamin v nucleus accumbens**, což upevňuje chování.
+Rozlišuje se **psychická závislost** (craving, nejobtížněji léčitelná) a
+**fyzická závislost**, jejímž projevem je **odvykací stav**. **Tolerance** je
+pokles účinku při opakovaném podání (farmakodynamická nebo metabolická),
+**zkřížená tolerance** existuje mezi látkami se stejným mechanismem (alkohol —
+benzodiazepiny — barbituráty).
+**Odvykací stav bývá zrcadlem účinku látky:** po opioidech mydriáza, průjem,
+slzení a bolesti; po alkoholu a benzodiazepinech třes, tachykardie, **epileptické
+záchvaty a delirium tremens** — tento odvykací stav je **život ohrožující**.
+**Léčba:** substituce (metadon, buprenorfin, nikotinové náhrady),
+**averzivní** (disulfiram), snížení cravingu (naltrexon, akamprosát,
+vareniklin) a psychoterapie.
+""")
+
+K("106", "Ethylalkohol, methylalkohol", """
+**Ethanol** tlumí CNS — potencuje **GABA-A** a inhibuje **NMDA** receptory,
+tedy působí podobně jako sedativa (odtud nebezpečná kombinace
+s benzodiazepiny a opioidy: útlum dechu). Metabolizuje se v játrech
+**alkoholdehydrogenázou na acetaldehyd** a dále aldehyddehydrogenázou na acetát;
+odbourávání má **kinetiku nultého řádu** — konstantní množství za hodinu
+(cca 0,1–0,15 ‰/h), takže rychlost nelze urychlit. Chronicky se uplatňuje i
+**CYP2E1** (indukce → tolerance).
+**Následky:** akutně opilost až kóma a útlum dechu, **hypoglykemie**;
+chronicky jaterní steatóza → hepatitida → **cirhóza**, pankreatitida,
+kardiomyopatie, polyneuropatie, **Wernickeova encefalopatie z deficitu
+thiaminu** (proto se u alkoholika podává **thiamin vždy před glukózou**) a
+**fetální alkoholový syndrom**. Odvykací stav může vyústit v **delirium
+tremens** — léčí se **benzodiazepiny**.
+**Methanol** sám o sobě toxický není; jedovaté jsou jeho metabolity —
+alkoholdehydrogenáza jej mění na **formaldehyd a kyselinu mravenčí**, které
+způsobují **těžkou metabolickou acidózu a slepotu** (poškození očního nervu).
+Léčba je proto **kompetiční blokáda tvorby metabolitů: fomepizol nebo ethanol**,
+dále **hemodialýza**, korekce acidózy bikarbonátem a kyselina listová.
+Stejný princip platí u otravy **ethylenglykolem** (oxalátové krystaly, selhání
+ledvin).
+""")
+
+K("107", "Konopí, kanabinoidy", """
+**Kanabinoidy** působí na **receptory CB1 a CB2** endokanabinoidního systému.
+**CB1** je hojný v CNS (bazální ganglia, hipokampus, mozeček, kůra) — odtud
+psychotropní účinky; v **prodloužené míše se prakticky nevyskytuje**, což
+vysvětluje, proč konopí netlumí dech (na rozdíl od opioidů). **CB2** je na
+buňkách imunitního systému.
+**THC (delta-9-tetrahydrocannabinol)** je hlavní psychoaktivní složka,
+**parciální agonista CB1**. **Kanabidiol (CBD)** psychoaktivní není a má
+antikonvulzivní a anxiolytické působení.
+**Účinky:** euforie, změněné vnímání času, poruchy krátkodobé paměti a
+pozornosti, zhoršená koordinace (**riziko při řízení**), tachykardie,
+**překrvení spojivek**, sucho v ústech, zvýšená chuť k jídlu. Ve vyšších
+dávkách úzkost, panika, u disponovaných **psychotická ataka** — dlouhodobé
+užívání v dospívání zvyšuje riziko schizofrenie. Vzniká **psychická závislost**
+a **amotivační syndrom**; při chronickém užívání může vzniknout
+**kanabinoidní hyperemetický syndrom**.
+**Terapeutické využití:** **nabiximols** (THC/CBD) u spasticity u roztroušené
+sklerózy, **dronabinol** a **nabilon** proti zvracení po chemoterapii a při
+kachexii, **kanabidiol** u farmakorezistentní epilepsie (Dravetové a
+Lennoxův–Gastautův syndrom).
+""")
+
+K("108", "Halucinogeny (psychomimetika)", """
+**Halucinogeny** mění vnímání, myšlení a náladu, aniž by výrazně zastřely
+vědomí; typické jsou **iluze a halucinace**, změněné vnímání času a
+depersonalizace. Podle mechanismu se dělí do tří skupin.
+**Serotonergní (klasické): LSD, psilocybin** (lysohlávky), **meskalin** a
+**DMT** jsou agonisté **5-HT2A receptorů** v kůře. Působí mydriázu,
+tachykardii, hypertenzi a hypertermii. Vzniká **rychlá tolerance**, ale
+**nevyvolávají fyzickou závislost**. Rizikem je **"bad trip"** — panika a
+paranoia, kterou lze zvládnout klidným prostředím a benzodiazepiny — a
+**flashbacky (HPPD)**; u disponovaných může spustit psychózu.
+**Disociativní: ketamin, fencyklidin (PCP)** a **dextromethorfan** ve vysokých
+dávkách jsou **antagonisté NMDA receptoru** — vyvolávají pocit odloučení od
+těla, analgezii a amnézii. PCP navíc agresivitu, hypertenzi a nystagmus.
+**Ketamin se používá terapeuticky** jako anestetikum a (esketamin) u
+farmakorezistentní deprese.
+**Anticholinergní: atropin, skopolamin** a rostliny **rulík zlomocný, durman,
+blín** vyvolávají **delirium** — mydriázu, suchou horkou červenou kůži,
+tachykardii a retenci moči; antidotem je **fysostigmin**.
+Do skupiny se řadí i **MDMA**, které masivně uvolňuje serotonin — hrozí
+**hypertermie, hyponatremie a serotoninový syndrom**.
+""")
+
+K("109", "Stimulancia", """
+**Stimulancia (psychostimulancia)** zvyšují bdělost, výkonnost a náladu tím,
+že zesilují přenos **dopaminu a noradrenalinu** — buď blokádou zpětného
+vychytávání, nebo zvýšeným uvolňováním z nervového zakončení.
+**Amfetamin a metamfetamin (pervitin)** obracejí chod transportérů a vyplavují
+katecholaminy. Působí euforii, nespavost, nechutenství, mydriázu, **tachykardii
+a hypertenzi**; při předávkování hrozí **hypertermie, arytmie, infarkt, cévní
+mozková příhoda a křeče**. Chronicky vznikají **toxická psychóza** s paranoiou
+a halucinacemi (léčí se antipsychotiky), kachexie, poškození chrupu a
+**silná psychická závislost** s těžkým "dojezdem" (deprese, hypersomnie).
+**Kokain** blokuje zpětné vychytávání dopaminu a noradrenalinu a je zároveň
+**lokálním anestetikem** (blokáda sodíkových kanálů) — proto působí
+vazokonstrikci s **nekrózou nosní přepážky**. Rizikem je **infarkt při
+koronárním spasmu**; u kokainové kardiotoxicity se **β-blokátory nepodávají**
+(riziko nebrzděné α-stimulace), volí se benzodiazepiny.
+**Terapeuticky:** **metylfenidát**, lisdexamfetamin a atomoxetin (inhibitor
+zpětného vychytávání noradrenalinu, nenávykový) u **ADHD**; **modafinil**
+u narkolepsie. Řadí se sem i **kofein** a **efedrin**.
+""")
+
+K("110", "Nikotin", """
+**Nikotin** je alkaloid tabáku a **agonista nikotinových acetylcholinových
+receptorů (nAChR)** — v CNS zejména podtypu **α4β2**, jehož aktivace vede
+k výlevu **dopaminu v nucleus accumbens**; to je podstata jeho vysokého
+návykového potenciálu, srovnatelného s heroinem. Vstřebává se plícemi a mozku
+dosáhne během několika sekund, což posiluje návyk.
+**Účinky:** v nízkých dávkách stimulace ganglií a dřeně nadledvin —
+**tachykardie, hypertenze, vazokonstrikce**, snížená chuť k jídlu, zvýšená
+bdělost a soustředění; ve vysokých dávkách **depolarizační blokáda** ganglií
+s křečemi, zvracením a zástavou dechu (**akutní otrava nikotinem u dětí** po
+požití cigaret nebo náplně e-cigarety).
+Nikotin indukuje **CYP1A2** — kouření snižuje hladiny **teofylinu, klozapinu
+a olanzapinu**; po zanechání kouření je nutné dávky upravit. Za většinu
+zdravotních škod kouření (nádory, CHOPN, ateroskleróza) však odpovídá
+**dehet a oxid uhelnatý, nikoli nikotin sám**.
+**Odvykací stav:** neodolatelná touha kouřit, podrážděnost, úzkost,
+nesoustředěnost, zvýšená chuť k jídlu a přírůstek hmotnosti.
+**Léčba závislosti: nikotinová substituce** (náplasti, žvýkačky, pastilky),
+**vareniklin** (parciální agonista α4β2 — tlumí craving a zároveň blokuje
+odměnu z cigarety) a **bupropion** (inhibitor zpětného vychytávání dopaminu a
+noradrenalinu; snižuje práh křečí).
+""")
+
+K("111", "Metylxantiny a jejich deriváty", """
+**Metylxantiny** — **kofein, theofylin, theobromin** — jsou purinové alkaloidy
+kávy, čaje a kakaa. Působí dvěma mechanismy: **antagonismem adenosinových
+receptorů** (odtud bdělost, protože adenosin je látka útlumu a spánku) a ve
+vyšších koncentracích **inhibicí fosfodiesterázy** se vzestupem cAMP (odtud
+bronchodilatace a stimulace srdce).
+**Účinky:** stimulace CNS a dechového centra, **bronchodilatace**, pozitivně
+inotropní a chronotropní působení na srdce, mírná **diuréza**, zvýšení sekrece
+žaludeční kyseliny a uvolnění hladkého svalstva. Vysoké dávky vedou k
+**nespavosti, třesu, úzkosti, tachyarytmiím a křečím**; vzniká mírná závislost
+s odvykací bolestí hlavy.
+**Theofylin (a aminofylin)** se používá jako **antiastmatikum druhé volby**.
+Zásadní je jeho **úzké terapeutické okno** — nutné je **monitorování hladin**,
+protože mezi účinnou a toxickou koncentrací je malý rozdíl a projevem
+předávkování jsou arytmie a křeče. Metabolizuje se **CYP1A2**: **kouření
+hladinu snižuje** (indukce), zatímco **erythromycin, klarithromycin,
+ciprofloxacin, fluvoxamin a srdeční selhání ji zvyšují**.
+**Kofein** se terapeuticky používá u **apnoe nedonošených**, v kombinaci
+s analgetiky zesiluje jejich účinek a užívá se u postpunkční bolesti hlavy.
+**Pentoxifylin** zlepšuje deformabilitu erytrocytů u ischemické choroby
+dolních končetin.
+""")
+
+K("112", "Antirevmatika", """
+Léčba zánětlivých revmatických onemocnění stojí na dvou pilířích:
+**symptomatická** léčba tlumí bolest a zánět, ale nemoc nezastaví, zatímco
+**chorobu modifikující léčiva (DMARDs)** zpomalují destrukci kloubu — a proto
+se nasazují **co nejdříve po stanovení diagnózy**.
+**Symptomatická: NSA** inhibují cyklooxygenázu a tlumí bolest, otok a ranní
+ztuhlost; nemají vliv na průběh nemoci. **Kortikosteroidy** rychle potlačí
+aktivitu a slouží jako "most", než začnou působit DMARDs; k dlouhodobému
+podávání se pro nežádoucí účinky nehodí.
+**Syntetické DMARDs: metotrexát** je **lékem první volby u revmatoidní
+artritidy** — podává se **jednou týdně** (denní podání je závažná chyba
+s rizikem úmrtí) a doplňuje se **kyselinou listovou**; je hepatotoxický,
+myelotoxický a **kontraindikovaný v graviditě**. Dále **leflunomid**,
+**sulfasalazin**, **hydroxychlorochin** (retinopatie — oční kontroly) a
+soli zlata (historicky).
+**Biologické DMARDs:** **anti-TNF-α** (infliximab, adalimumab, etanercept),
+**rituximab** (anti-CD20), **tocilizumab** (anti-IL-6) a **abatacept**.
+Před jejich nasazením je nutné **vyloučit latentní tuberkulózu a hepatitidu B**,
+protože hrozí reaktivace; obecně zvyšují riziko infekcí.
+**Cílené syntetické: inhibitory JAK** (tofacitinib, baricitinib) — pozor na
+trombembolie.
+""")
+
+K("113", "Antiuratika", """
+**Dna** vzniká ukládáním krystalů **natrium-urátu** v kloubech a tkáních při
+hyperurikemii. Léčba má dvě zcela oddělené části a jejich záměna je častou
+chybou: **léčba akutního záchvatu** tlumí zánět, **hypourikemická léčba**
+snižuje kyselinu močovou dlouhodobě.
+**Akutní záchvat: NSA** (indometacin, naproxen — **nikoli kyselina
+acetylsalicylová**, která v nízké dávce retenci urátů zhoršuje),
+**kolchicin** (blokuje polymeraci mikrotubulů, a tím migraci neutrofilů;
+dávkově závislý **průjem** je limitující) a **kortikosteroidy** systémově nebo
+do kloubu.
+⚠️ **Během akutního záchvatu se hypourikemická léčba nezahajuje** — každá
+změna urikemie záchvat prodlužuje; pokud ji pacient již užívá, nevysazuje se.
+**Urikostatika — allopurinol** inhibuje **xanthinoxidázu**, a snižuje tak
+tvorbu kyseliny močové; je lékem volby. Zahajuje se **nízkou dávkou pod clonou
+kolchicinu nebo NSA**, protože jinak vyprovokuje záchvat. Nežádoucí je vyrážka
+až **závažný hypersenzitivní syndrom** (riziko u HLA-B*5801). **Interaguje
+s azathioprinem a 6-merkaptopurinem** — blokuje jejich odbourávání a hrozí
+těžká myelosuprese. **Febuxostat** je alternativa při intoleranci.
+**Urikosurika — probenecid** zvyšuje vylučování urátů ledvinami; nesmí se
+podat při **urátové nefrolitiáze** a vyžaduje dostatečný příjem tekutin.
+**Rasburikáza** (urikáza) u syndromu nádorového rozpadu.
+""")
+
+K("114", "Imunosupresiva, imunostimulancia", """
+**Imunosupresiva** tlumí imunitní odpověď u autoimunit a po transplantaci;
+společným rizikem všech je **infekce a zvýšený výskyt nádorů**, proto se
+kombinují v nižších dávkách.
+**Kortikosteroidy** potlačují přepis prozánětlivých genů; jsou univerzální,
+ale mají řadu nežádoucích účinků.
+**Inhibitory kalcineurinu: cyklosporin A** a **takrolimus** blokují přenos
+signálu v T-lymfocytu, a tím **tvorbu interleukinu-2**. Jsou základem
+transplantační imunosuprese. Zásadní je **nefrotoxicita** a **úzké terapeutické
+okno** — nutné monitorování hladin; metabolizují se **CYP3A4**, takže
+interagují s azoly, makrolidy a grapefruitem. Cyklosporin navíc působí
+hypertenzi, hirsutismus a **gingivální hyperplazii**; takrolimus je
+neurotoxický a diabetogenní.
+**Antiproliferativní: azathioprin** (před nasazením se vyšetřuje **TPMT**),
+**mykofenolát mofetil** (blokuje inosinmonofosfátdehydrogenázu, tedy syntézu
+purinů v lymfocytech; **teratogenní**) a **metotrexát**.
+**Inhibitory mTOR:** sirolimus, everolimus — nefrotoxické nejsou, ale zhoršují
+hojení a působí dyslipidemii.
+**Biologika:** anti-TNF-α, rituximab, basiliximab, antithymocytární globulin.
+**Imunostimulancia** naopak imunitu posilují: **interferony** (α u hepatitid,
+β u roztroušené sklerózy), **filgrastim (G-CSF)**, **interleukin-2**,
+bakteriální lyzáty a **imunomodulační protinádorová léčba — inhibitory
+kontrolních bodů** (nivolumab, pembrolizumab), jejichž typickým nežádoucím
+účinkem jsou **autoimunitní reakce**.
+""")
+
+K("115", "Hormony hypothalamu, hypofýzy, jejich analoga", """
+Hypothalamus řídí adenohypofýzu **uvolňujícími a inhibičními hormony**;
+adenohypofýza pak řídí periferní žlázy. Klíčem k pochopení terapie je, že
+**pulzní podání analog GnRH stimuluje, kdežto trvalé podání receptory
+desenzitizuje a vede k útlumu** — této dvojznačnosti se využívá.
+**Analoga GnRH: goserelin, leuprorelin, triptorelin** se podávají v depotní
+formě trvale, a proto po počátečním vzplanutí (**flare-up** — u karcinomu
+prostaty se kryje antiandrogenem) navodí **chemickou kastraci**. Užívají se
+u **karcinomu prostaty a prsu, endometriózy, myomů a předčasné puberty**.
+**Antagonisté GnRH** (degarelix, cetrorelix) tlumí ihned, bez vzplanutí.
+Pulzní podání GnRH naopak léčí neplodnost.
+**Somatostatin a jeho analoga — oktreotid, lanreotid** tlumí sekreci
+**růstového hormonu**; užívají se u **akromegalie**, neuroendokrinních nádorů
+a krvácení z jícnových varixů. **Růstový hormon (somatropin)** se podává u
+nedostatku u dětí. **Pegvisomant** je antagonista receptoru pro GH.
+**Prolaktin** se tlumí **agonisty dopaminu — kabergolinem a bromokriptinem**
+(prolaktinom, potlačení laktace), protože dopamin je fyziologickým inhibitorem
+prolaktinu.
+**Neurohypofýza: oxytocin** vyvolává děložní kontrakce (indukce porodu,
+poporodní atonie) — riziko hyperstimulace a hyponatremie. **Vasopresin a
+desmopresin** působí antidiureticky (**diabetes insipidus**, noční pomočování,
+hemofilie A a von Willebrandova choroba); **terlipresin** u krvácení z varixů
+a hepatorenálního syndromu. **Antagonisté (tolvaptan)** u hyponatremie.
+""")
