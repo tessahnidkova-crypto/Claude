@@ -3,8 +3,9 @@
 
     python3 nastroje/gen_tahaky.py
 
-Formát: **8 karet na stránku A4** (2 sloupce × 4 řady), karta zhruba 95 × 68 mm.
-136 otázek = 17 listů. Tiskni jednostranně, rozstříhej po čárkovaných linkách.
+Formát: **12 karet na stránku A4** (3 sloupce × 4 řady), karta zhruba 66 × 71 mm —
+velikost hrací karty. 136 otázek = 12 listů. Tiskni jednostranně a rozstříhej
+po čárkovaných linkách.
 
 Obsah kartičky je **automaticky zhuštěný** z `farmakologie_sketch.py` — vybírá se:
 jádro otázky · mechanismus jako šipkový řetěz · body označené ⚠️ (pasti a nežádoucí
@@ -24,9 +25,11 @@ import farmakologie_sketch as fs  # noqa: E402
 CIL = KOREN / "Projekty/Studium/Predmety/Farmakologie/minimum"
 CHROMIUM = ["/opt/pw-browsers/chromium", "/usr/bin/chromium", "/usr/bin/chromium-browser"]
 
-NA_STRANU = 8
+SLOUPCU, RADU = 3, 4
+NA_STRANU = SLOUPCU * RADU
 MAX_BODU = 7
-VYSKA_KARTY_RADKU = 21   # kolik řádků se na kartu vejde (odhad pro rozpočet)
+VYSKA_KARTY_RADKU = 23   # kolik řádků se na kartu vejde (odhad pro rozpočet)
+ZNAKU_NA_RADEK = 55      # užší karta → dřív se zalomí; odtud plynou i limity zkracování
 
 
 def _zkrat(s: str, limit: int) -> str:
@@ -56,24 +59,24 @@ def _radku(text: str, na_radek: float) -> float:
 
 
 def karta(cislo, nadpis, kw) -> str:
-    jadro = _zkrat(kw.get("jadro", ""), 150)
-    mnemo = _zkrat(kw["mnemo"], 118) if kw.get("mnemo") else ""
-    zubar = _zkrat(kw["zubar"], 155) if kw.get("zubar") else ""
+    jadro = _zkrat(kw.get("jadro", ""), 130)
+    mnemo = _zkrat(kw["mnemo"], 105) if kw.get("mnemo") else ""
+    zubar = _zkrat(kw["zubar"], 132) if kw.get("zubar") else ""
     tok = kw.get("tok") or []
-    retez = " → ".join(_zkrat(t, 34) for t, _ in tok[:4])
+    retez = " → ".join(_zkrat(t, 26) for t, _ in tok[:4])
 
     # ⚠️ Kolik řádků na kartě ještě zbývá na odrážky. Bez tohohle rozpočtu se
     # u hustých otázek poslední řádky uřízly (karta má overflow:hidden).
     zbyva = VYSKA_KARTY_RADKU
-    zbyva -= 2.0 if len(nadpis) > 44 else 1.6
+    zbyva -= 2.4 if len(nadpis) > 30 else 1.7
     if jadro:
-        zbyva -= _radku(jadro, 60) + 0.7
+        zbyva -= _radku(jadro, ZNAKU_NA_RADEK) + 0.7
     if retez:
-        zbyva -= _radku(retez, 78) + 0.4
+        zbyva -= _radku(retez, ZNAKU_NA_RADEK + 8) + 0.4
     if mnemo:
-        zbyva -= _radku(mnemo, 66) + 0.6
+        zbyva -= _radku(mnemo, ZNAKU_NA_RADEK + 4) + 0.6
     if zubar:
-        zbyva -= _radku(zubar, 66) + 0.6
+        zbyva -= _radku(zubar, ZNAKU_NA_RADEK + 4) + 0.6
 
     # z dlaždic se berou přednostně body s ⚠️ — to jsou pasti a nežádoucí účinky
     body, videno, radku = [], set(), 0.0
@@ -82,8 +85,8 @@ def karta(cislo, nadpis, kw) -> str:
         nonlocal radku
         if b in videno or len(body) >= MAX_BODU:
             return
-        t = _zkrat(b, 112)
-        odhad = _radku(t, 62)
+        t = _zkrat(b, 100)
+        odhad = _radku(t, ZNAKU_NA_RADEK)
         if radku + odhad > zbyva:
             return
         videno.add(b)
@@ -118,22 +121,23 @@ STYL = """
 * { box-sizing: border-box; }
 body { margin: 0; font-family: Calibri, Carlito, Arial, sans-serif;
        -webkit-print-color-adjust: exact; print-color-adjust: exact; }
-.list { display: grid; grid-template-columns: 1fr 1fr; grid-template-rows: repeat(4, 1fr);
+.list { display: grid; grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: repeat(4, 71.25mm);
         gap: 0; height: 285mm; page-break-after: always; }
 .list:last-child { page-break-after: auto; }
-.k { border: 1px dashed #B9C7C2; padding: 2.6mm 3mm; overflow: hidden;
-     display: flex; flex-direction: column; }
-.h { display: flex; align-items: baseline; gap: 2mm; border-bottom: 1.2pt solid #1B6B5F;
+.k { border: 1px dashed #B9C7C2; padding: 2mm 2.2mm; overflow: hidden;
+     min-height: 0; min-width: 0; display: flex; flex-direction: column; }
+.h { display: flex; align-items: baseline; gap: 1.4mm; border-bottom: 1.2pt solid #1B6B5F;
      padding-bottom: 0.8mm; margin-bottom: 1.2mm; }
-.n { font-size: 11pt; font-weight: 700; color: #1B6B5F; }
-.t { font-size: 8.4pt; font-weight: 700; line-height: 1.1; }
-.j { font-size: 7pt; line-height: 1.25; background: #FDE9A8; padding: 1mm 1.4mm;
+.n { font-size: 9.6pt; font-weight: 700; color: #1B6B5F; }
+.t { font-size: 7.4pt; font-weight: 700; line-height: 1.1; }
+.j { font-size: 6.2pt; line-height: 1.25; background: #FDE9A8; padding: 1mm 1.4mm;
      border-radius: 1mm; margin-bottom: 1.2mm; }
-.r { font-size: 6.8pt; line-height: 1.2; color: #1B6B5F; font-weight: 600;
+.r { font-size: 6pt; line-height: 1.2; color: #1B6B5F; font-weight: 600;
      border-left: 2pt solid #1B6B5F; padding-left: 1.4mm; margin-bottom: 1.2mm; }
-ul { margin: 0 0 1.2mm; padding-left: 3.2mm; }
-li { font-size: 6.8pt; line-height: 1.24; margin-bottom: 0.5mm; }
-.p { font-size: 6.6pt; line-height: 1.2; padding: 0.8mm 1.4mm; border-radius: 1mm;
+ul { margin: 0 0 1mm; padding-left: 2.8mm; }
+li { font-size: 6pt; line-height: 1.24; margin-bottom: 0.5mm; }
+.p { font-size: 5.9pt; line-height: 1.2; padding: 0.8mm 1.4mm; border-radius: 1mm;
      margin-top: auto; }
 .m { background: #FDF3D4; }
 .z { background: #E4EFF4; margin-top: 0.8mm; }

@@ -80,9 +80,9 @@ Zdroj je `nastroje/farmakologie_sketch.py`; přegeneruje se příkazem
 
 | Soubor | Otázky | Listů |
 |---|---|---|
-| **`TAHACKY.pdf`** | **všech 136** (1 otázka = 1 kartička) | **17** listů A4, 8 karet na list |
+| **`TAHACKY.pdf`** | **všech 136** (1 otázka = 1 kartička) | **12** listů A4, 12 karet na list |
 
-Karta má zhruba **95 × 68 mm** — vejde se do kapsy i do pouzdra. Na každé je:
+Karta má zhruba **66 × 71 mm** — velikost hrací karty, vejde se do kapsy. Na každé je:
 **číslo a název · jádro otázky (žlutě) · mechanismus jako šipkový řetěz (zeleně) ·
 až sedm bodů, přednostně pastí a nežádoucích účinků · 🔑 mnemotechnika · 🦷 zubařský přesah.**
 
