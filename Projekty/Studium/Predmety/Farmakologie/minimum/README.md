@@ -76,6 +76,36 @@ modrá = klinika · bílá = neutrální výčet.
 Zdroj je `nastroje/farmakologie_sketch.py`; přegeneruje se příkazem
 `python3 nastroje/gen_sketch.py`.
 
+### 🖼 SCENY — paměťová scéna na každou otázku (styl Sketchy)
+
+| Soubor | Otázky | Stran |
+|---|---|---|
+| **`SCENY.pdf`** | **všech 136** (1 otázka = 1 místo) | **136** + 136 záložek |
+
+**Otázka se nepřevádí na seznam, ale na JEDNO MÍSTO.** Ve scéně jsou rozmístěné
+symboly a každý znamená jeden fakt; zapamatuješ si obraz a pak se po něm
+„procházíš“ a odečítáš z něj látku.
+
+| Část strany | Co obsahuje |
+|---|---|
+| **MÍSTO** *(žlutý pruh)* | věta, která scénu pojmenuje a spojí s tématem |
+| **SCÉNA** *(velký rámeček)* | prostředí + očíslované symboly; **větší = blíž = důležitější** |
+| **CO JE VE SCÉNĚ** | očíslovaný klíč: symbol → fakt, odborně a doslova |
+| **⚠️ past** *(červený rámeček)* | nejčastější omyl u téhle otázky |
+
+Červené číslo = kritická věc (kontraindikace, závažný nežádoucí účinek, chyba
+ve zdroji katedry). Prostředí (poušť, laboratoř, moře, pokoj, les…) je samo o
+sobě první paměťové vodítko.
+
+⚠️ **Mnemotechnika nesmí zakódovat nepravdu.** Symbol smí být přehnaný, ale
+**klíč se píše odborně** — chybný hák se naučí stejně pevně jako správný.
+
+⚠️ **Kde je strop:** Sketchy kreslí ilustrátor. Tohle se skládá z piktogramů a
+nakreslených kulis — prostorová logika metody tam je, ilustrace ne.
+
+Zdroj je `nastroje/farmakologie_sceny.py`, kresba `nastroje/scenka.py`;
+přegeneruje se příkazem `python3 nastroje/gen_sceny.py`.
+
 ### 🧠 MNEMO — obrázek jako paměťový hák
 
 | Soubor | Otázky | Stran |
@@ -101,6 +131,9 @@ rozdíl od `TAHACKY`, kde je odborný registr bez obrázků.
 
 Zdroj je `nastroje/farmakologie_mnemo.py`, kresba `nastroje/mnemo.py`;
 přegeneruje se příkazem `python3 nastroje/gen_mnemo.py`.
+
+⚠️ **Překonáno souborem `SCENY.pdf`** — čtyři oddělené rámečky vedle sebe jsou
+pořád jen seznam s obrázky, ne paměťová scéna. Ponecháno zatím v repu.
 
 ### ✂️ TAHACKY — kapesní kartičky k vytištění
 
