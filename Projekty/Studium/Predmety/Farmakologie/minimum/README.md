@@ -76,6 +76,32 @@ modrá = klinika · bílá = neutrální výčet.
 Zdroj je `nastroje/farmakologie_sketch.py`; přegeneruje se příkazem
 `python3 nastroje/gen_sketch.py`.
 
+### 🧠 MNEMO — obrázek jako paměťový hák
+
+| Soubor | Otázky | Stran |
+|---|---|---|
+| **`MNEMO.pdf`** | **všech 136** (1 otázka = 1 strana) | **136** + 136 záložek |
+
+**Rozdíl proti `SKETCHNOTES`:** sketchnote je *přehled celé otázky* (mechanismus,
+dělení, zástupci, nežádoucí účinky). `MNEMO` je něco jiného — **paměťový hák**.
+Stránka je krátký **obrázkový příběh o čtyřech obrazech**, schválně konkrétní a
+přehnaný, protože přesně takové věci si mozek pamatuje.
+
+| Část strany | Co obsahuje |
+|---|---|
+| **HÁK** *(žlutý zvýrazňovač)* | jedna věta, která se má vybavit jako první |
+| **PŘÍBĚH** *(4 barevné panely se šipkami)* | obrazy zleva doprava — piktogram + krátký popisek |
+| **ROZKLÍČOVÁNÍ** | co který obraz doopravdy znamená, odborně a doslova |
+| **⚠️ past** *(červený rámeček)* | nejčastější omyl u téhle otázky |
+
+⚠️ **Mnemotechnika nesmí zakódovat nepravdu.** Chybný hák se naučí stejně pevně
+jako správný a u zkoušky vypadne jako omyl. Proto platí pravidlo: **obraz smí být
+přehnaný, ale rozklíčování se píše odborně**. Piktogramy jsou tu záměrně — na
+rozdíl od `TAHACKY`, kde je odborný registr bez obrázků.
+
+Zdroj je `nastroje/farmakologie_mnemo.py`, kresba `nastroje/mnemo.py`;
+přegeneruje se příkazem `python3 nastroje/gen_mnemo.py`.
+
 ### ✂️ TAHACKY — kapesní kartičky k vytištění
 
 | Soubor | Otázky | Listů |

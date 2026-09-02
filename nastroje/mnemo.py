@@ -55,8 +55,8 @@ def _panely(panely, y):
     n = len(panely)
     mezera = 26
     sirka = (W - 2 * OKRAJ - (n - 1) * mezera) / n
-    popisky = [wrap(p[1], sirka - 22, 15.2) for p in panely]
-    h = 132 + max(len(r) for r in popisky) * 15.2 * 1.32 + 20
+    popisky = [wrap(p[1], sirka - 40, 15.6) for p in panely]
+    h = 132 + max(len(r) for r in popisky) * 14.6 * 1.32 + 20
 
     s = ""
     for i, (glyf, _) in enumerate(panely):
@@ -65,7 +65,7 @@ def _panely(panely, y):
         s += podklad(x, y, sirka, h, vypln, opacita=0.4)
         s += rough_rect(x, y, sirka, h, barva, sw=2.2)
         s += text(x + sirka / 2, y + 100, [glyf], fs=82, anchor="middle")
-        s += text(x + sirka / 2, y + 150, popisky[i], fs=15.2, anchor="middle",
+        s += text(x + sirka / 2, y + 150, popisky[i], fs=14.6, anchor="middle",
                   tucne=True, barva=barva)
         if i < n - 1:
             s += sipka(x + sirka + 4, y + h / 2, x + sirka + mezera - 4, y + h / 2,
