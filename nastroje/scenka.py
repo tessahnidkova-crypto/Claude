@@ -94,10 +94,38 @@ def _cislo(n, x, y, barva):
             f'fill="{barva}" text-anchor="middle">{n}</text>')
 
 
+def _rozmisti(prvky):
+    """Doplní polohu a velikost tam, kde ji autor nezadal.
+
+    Symboly se rozdělí do dvou plánů: menší dozadu nad horizont, větší dopředu
+    na zem. Rozestupy jsou nepravidelné (seedovaný jitter), aby obraz vypadal
+    jako scéna, ne jako řádek ikon.
+    """
+    from sketch import _R
+    hotove, doplnit = [], []
+    for i, p in enumerate(prvky):
+        (hotove if len(p) >= 7 else doplnit).append(i)
+    if not doplnit:
+        return list(prvky)
+
+    vzadu = doplnit[::3]                       # každý třetí jde do pozadí
+    vpredu = [i for i in doplnit if i not in vzadu]
+    out = list(prvky)
+    for skupina, ypas, vel_zaklad in ((vzadu, 0.26, 52), (vpredu, 0.70, 74)):
+        n = max(1, len(skupina))
+        for k, i in enumerate(skupina):
+            glyf, nazev, krit, fakt = prvky[i]
+            fx = 0.10 + (0.80 * (k + 0.5) / n) + _R.sym(0.030)
+            fy = ypas + _R.sym(0.045)
+            vel = vel_zaklad + _R.sym(9)
+            out[i] = (glyf, fx, fy, vel, nazev, krit, fakt)
+    return out
+
+
 def _scena(prvky, prostredi):
     """Symboly rozmístěné v prostoru; větší = blíž, tedy důležitější."""
     s = _pozadi(prostredi)
-    for n, p in enumerate(prvky, 1):
+    for n, p in enumerate(_rozmisti(prvky), 1):
         _, fx, fy, vel = p[0], p[1], p[2], p[3] * 1.34
         x = OKRAJ + SIRKA * fx
         y = VYSKA_SCENY * fy
@@ -116,8 +144,8 @@ def _legenda(prvky, y):
     s = text(OKRAJ, y + 14, ["CO JE VE SCÉNĚ"], fs=13.5, tucne=True, barva=ACCENT)
     yy = y + 36
     for n, p in enumerate(prvky, 1):
-        nazev, fakt = p[4], p[6] if len(p) > 6 else ""
-        barva = CRIT if len(p) > 5 and p[5] else BLUE
+        nazev, krit, fakt = (p[4], p[5], p[6]) if len(p) >= 7 else (p[1], p[2], p[3])
+        barva = CRIT if krit else BLUE
         rl = wrap(nazev, lev - 58, 15.4)
         rp = wrap(fakt, W - 2 * OKRAJ - lev - 10, 15.4)
         vys = max(len(rl), len(rp)) * 15.4 * 1.32
@@ -153,8 +181,9 @@ def scenka(cislo, nadpis, misto, prostredi, prvky, past=None):
 
     misto     — věta, která scénu pojmenuje a spojí s tématem
     prostredi — klíč z PROSTREDI (krajina, poust, more, pokoj, laborator, noc…)
-    prvky     — n-tice (glyf, x, y, velikost, název, kriticke, fakt);
-                x a y jsou zlomky 0–1 uvnitř scény, velikost je stupeň písma
+    prvky     — buď krátce (glyf, název, kriticke, fakt) a poloha se dopočítá,
+                nebo plně (glyf, x, y, velikost, název, kriticke, fakt), kde
+                x a y jsou zlomky 0–1 uvnitř scény
     past      — nejčastější omyl u téhle otázky
     """
     seed(int(str(cislo).lstrip("O")) * 17 + 3)
