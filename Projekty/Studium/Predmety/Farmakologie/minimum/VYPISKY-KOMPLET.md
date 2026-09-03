@@ -1359,3 +1359,151 @@ Systematický dozor nad bezpečností léčiv: sledování užívání v klinick
 - *Kdo všechno smí nahlásit nežádoucí účinek?* → I samotný **pacient**, ne jen lékař.
 
 ---
+
+## O30 · Léková alergie a idiosynkrazie
+
+**O čem to je:** Ne každý nežádoucí účinek je stejný — **alergie** potřebuje imunitní systém a **předchozí kontakt** s lékem, **idiosynkrazie** je vrozená genetická odchylka a předchozí kontakt nepotřebuje vůbec. Tahle otázka jde do hloubky typu B nežádoucích účinků z O29.
+
+**Alergické reakce** jsou zprostředkované imunitním systémem a jejich vznik **vyžaduje předchozí expozici**. Většina léčiv je malá molekula, která sama o sobě nestačí k vyvolání imunitní odpovědi — imunogenita vzniká třemi cestami: **navázáním na velký nosič** (hapten — např. penicilin kovalentně na albumin), **metabolizací na reaktivní metabolit** (prohapten — sulfametoxazol), nebo **přímou interakcí s receptory imunitního systému**. Riziko ovlivňuje i cesta podání (parenterální a kožní podání je rizikovější než perorální — nejfyziologičtější) a přítomnost pomocných látek nebo nečistot v přípravku.
+
+### Čtyři typy alergických reakcí (klasické dělení podle Gell–Coombse)
+
+**Typ I — IgE zprostředkovaná** (nejrychlejší a nejznámější):
+- fáze senzibilizace: imunogenní komplex navodí tvorbu specifických **IgE protilátek**,
+- při **opětovné** expozici se IgE naváže na alergen → **degranulace mastocytů** (histamin, leukotrieny, prostaglandiny) → zánět,
+- **nástup v řádu sekund až minut**,
+- projevy: kožní vyrážka, svědění, hyperémie a sekrece nosu/očí, otok měkkých tkání,
+- příklady: **peniciliny, cefalosporiny, chinolony, makrolidy, salicyláty, lokální anestetika**.
+- ⚠️ **Anafylaktický šok** je nejzávažnější forma — multiorgánová reakce (svědění, erytém, otok, tíseň na hrudi, bronchospasmus, hypotenze, arytmie), **75 % případů způsobují peniciliny**; rizikové faktory: vyšší dávka, astma/atopie, vyšší věk.
+
+**Typ II — cytotoxický** (IgG/IgM): léčivo se naváže na povrch buňky → tvorba protilátek → po reexpozici aktivace komplementu nebo NK buněk → **destrukce buňky**. Cíle: erytrocyty, leukocyty, trombocyty. Příklady: hemolytická anemie po cefalosporinech/penicilinech/chinidinu/levodopě/methyldopě/NSA; trombocytopenie po **heparinu** (až 5 % pacientů), chininu, sulfonamidech.
+
+**Typ III — imunokomplexový**: komplex léčivo+nosič vyvolá tvorbu IgG → vznikají imunokomplexy, normálně odstraněné retikuloendotelovým systémem, ale za určitých okolností vyvolají reakci **1–3 týdny** po expozici (vzácné, 1–3 na 100 000). Projevy: vaskulitidy, kožní vyrážky, horečka, artritidy, glomerulonefritida. Příklady: chimerické protilátky, cefalosporiny, amoxicilin, kotrimoxazol, NSA.
+
+**Typ IV — zpožděná, buňkami zprostředkovaná** (T-lymfocyty): komplex léčivo-nosič prezentují antigen-prezentující buňky T-lymfocytům → klonální proliferace → uvolnění cytokinů. Nástup **2–8 dní**. Projevy: kontaktní dermatitida, makulopapulózní exantém. Příklad: aminoglykosidy.
+
+**Léčba alergických reakcí:** **antihistaminika** (kompetitivně blokují histamin, snižují propustnost kapilár), **kortikoidy** (imunosupresivně, blokují tvorbu IgE), **adrenalin** (u anafylaxe — snižuje uvolňování mediátorů ze žírných buněk a bazofilů, navíc přímo podporuje oběh). Prevence: vyhýbat se kontaktu s vyvolávající látkou.
+
+**Pseudoalergické reakce** — vypadají jako typ I, ale **nejsou zprostředkované imunitně** (IgE se nezvyšuje) — jde o přímé uvolnění/vytěsnění histaminu z mastocytů. Stejně časté jako typ I a podobně rychlé. Příklady: **NSA, vankomycin, opioidy, radiokontrastní látky**.
+
+**Idiosynkrazie** — **nevyžaduje předchozí senzitizaci** (na rozdíl od alergie!) — jde většinou o **geneticky podmíněnou odchylku metabolismu**. Příklady: **atypická pseudocholinesteráza** abnormálně pomalu odbourává sukcinylcholin (myorelaxans) → prodloužené ochrnutí; **deficit glukózo-6-fosfátdehydrogenázy** → vyšší citlivost k hemolýze po chinidinu.
+
+🔑 **Alergie potřebuje předchozí kontakt (imunitní paměť). Idiosynkrazie ho NEpotřebuje (genetická odchylka enzymu) — to je hlavní rozlišovací znak.**
+
+**Příklady stažených léků** (dobré pro doplňující otázky): **thalidomid** (sedativum/hypnotikum proti těhotenské nevolnosti — silný teratogen a karcinogen), **rimonabant** (anorektikum, inverzní agonista kanabinoidních receptorů — staženo pro psychiatrické NÚ), **sibutramin** (potlačení chuti k jídlu), **tetrazepam** (centrální myorelaxans — stažen pro závažné kožní reakce).
+
+❓ **Doptají se:**
+- *Kolik případů anafylaktického šoku způsobují peniciliny?* → **75 %.**
+- *Proč idiosynkratická reakce nevyžaduje předchozí kontakt s lékem?* → Je to vrozená genetická odchylka metabolismu, ne naučená imunitní reakce.
+- *Jaký je lék první volby u anafylaktického šoku?* → **Adrenalin.**
+
+---
+
+## O31 · Karcinogenní a mutagenní účinky
+
+**O čem to je:** Léčiva a chemikálie mohou poškodit DNA (mutagenita) a/nebo vyvolat rakovinu (karcinogenita) — proto se **každé nové léčivo musí v preklinice testovat na mutagenitu**. Otázka žádá znát testovací metodu a klasifikaci karcinogenů.
+
+**Mutagenita** = schopnost látky vyvolat mutaci (narušení genotypu buňky). Mutace mohou být **spontánní** nebo **indukované**; některé vedou k rozvoji nádoru, jiné naopak k apoptóze poškozené buňky. Pravděpodobnost mutace roste s frekvencí buněčného dělení.
+
+**Test mutagenity — Amesův test (in vitro):** používá se kmen bakterie *Salmonella typhimurium*, který díky mutaci ztratil schopnost syntetizovat histidin. Kmen se vystaví testovanému léčivu v prostředí bez histidinu — pokud látka **navodí zpětnou mutaci** obnovující schopnost syntetizovat histidin, znamená to, že látka je mutagenní.
+
+**Karcinogenita** — karcinogen je chemická sloučenina vyvolávající nádorové bujení. Dva typy:
+- **genotoxické karcinogeny** — přímo poškozují DNA v klíčových oblastech genomu (primární i sekundární),
+- **epigenetické karcinogeny** — samy nepoškozují DNA, ale zvyšují pravděpodobnost poškození jinou látkou: **promotory** (cigaretový kouř), **kokarcinogeny** (aromatické uhlovodíky), **hormony**.
+
+**Nejznámější skupiny chemických karcinogenů:** polycyklické aromatické uhlovodíky (v cigaretovém kouři, výfukových plynech — fenantren, benzpyren), aromatická aminy (barviva), nitrosloučeniny, alkylační látky (přenášejí alkylskupinu na DNA — patří sem i některá cytostatika!), přírodní látky (aflatoxin), kovy a metaloidy (nikl, chrom, azbest).
+
+### Klasifikace karcinogenů IARC (Mezinárodní agentura pro výzkum rakoviny)
+
+| Skupina | Význam | Příklady |
+|---|---|---|
+| **1** | dostatečně prokázaný karcinogen pro člověka | azbest, benzen, **cyklosporin**, etanol |
+| **2A** | pravděpodobně karcinogenní | **cisplatina**, chloramfenikol, anabolické steroidy |
+| **2B** | možný karcinogen (jen v kombinaci/za rizikových podmínek) | bleomycin, digoxin, fenobarbital, sulfasalazin |
+| **3** | nehodnotitelný pro nedostatek důkazů | aciklovir, ampicilin, disulfiram, káva, čaj |
+
+🔑 **I samotná léčiva mohou být klasifikovaným karcinogenem** — cyklosporin (imunosupresivum) je ve skupině 1 stejně jako azbest.
+
+❓ **Doptají se:**
+- *Jak funguje Amesův test?* → Sleduje, jestli testovaná látka vyvolá zpětnou mutaci u bakterie, která díky mutaci ztratila schopnost syntetizovat histidin.
+- *Do jaké IARC skupiny patří cyklosporin?* → Skupina **1** — dostatečně prokázaný lidský karcinogen.
+
+---
+
+## O32 · Léčiva v těhotenství (teratogenní účinek) a léčiva v době kojení
+
+**O čem to je:** V graviditě se mění farmakokinetika matky (jinak se lék vstřebává, distribuuje i vylučuje) a navíc existuje **placenta**, přes kterou se lék dostává k plodu — a tam může způsobit **vrozenou vadu**. Tahle otázka je jedna z klinicky nejdůležitějších v celé farmakologii.
+
+### Změny farmakokinetiky v graviditě
+
+- **absorpce:** v I. trimestru časté nauzea a zvracení; klesá pH žaludku (méně kyselé); zpomalená střevní motilita (vlivem progesteronu); u inhalace se vstřebávání **urychlí** (vyšší dechový objem); po i.m. podání se vstřebávání naopak **zpomalí** (horší žilní odtok z dolní části těla),
+- **distribuce:** distribuční objem stoupá až o **50 %** (expanze objemu plazmy, celková tělesná voda +7 l), stoupá srdeční výdej i průtok krve ledvinami/kůží/dělohou; vzniká **hypoalbuminemie** (steroidy a placentární hormony zabírají místa na albuminu) → **klesá vazebná kapacita, stoupá volná frakce** léčiv,
+- **eliminace:** v játrech roste aktivita CYP450 a UDP-glukuronyltransferázy (ale CYP1A2 a CYP2C19 naopak klesají); v ledvinách stoupá průtok o 25–50 % a GF o 50 % → **rychlejší renální eliminace** léčiv vylučovaných v nezměněné podobě.
+
+**Placenta** spojuje oběh matky a plodu — přenáší kyslík, pomáhá odstraňovat odpadní látky, tvoří hormony. **Téměř všechna léčiva pronikají v určité míře k plodu**, hlavně prostou difuzí (nejlépe lipofilní, neionizované látky s nízkou molekulovou hmotností), ale i aktivním transportem (P-glykoprotein).
+
+**Kinetika u plodu:** fetální albumin váže některá léčiva víc (ampicilin) a jiná míň (salicyláty) než mateřský — méně vázané léčivo dosáhne v plodu vyšší celkové koncentrace. Krev plodu má **nižší pH** než mateřská — slabé zásady snáz projdou placentou a v krvi plodu se ionizují (iontová past, viz O10) → hromadí se tam. Eliminace u plodu je velmi nezralá — spoléhá hlavně na zpětnou difuzi zpátky do mateřského oběhu.
+
+### Teratogeny
+
+= exogenní látky způsobující vrozené malformace nebo funkční defekty. Účinek závisí na **období působení**:
+- **blastogeneze (0.–14. den)** — platí "všechno, nebo nic": buď zánik zárodku, nebo úplná kompenzace bez následků,
+- **organogeneze (15.–90. den)** — **nejnebezpečnější období**, vznikají anatomické malformace,
+- **fetální období (90.–280. den)** — funkční změny (např. mentální retardace).
+
+**Klasifikace rizika léčiv v graviditě (FDA kategorie A–X):**
+
+| Kategorie | Význam | Příklad |
+|---|---|---|
+| **A** | kontrolované studie neprokázaly riziko | levotyroxin, kyselina listová |
+| **B** | studie na zvířatech neprokázaly riziko | paracetamol, amoxicilin, metformin |
+| **C** | prokazatelně teratogenní/embryocidní u zvířat (u lidí nejasné) | teofylin, amlodipin, gabapentin |
+| **D** | doložené riziko pro plod, ale používá se v nenahraditelných situacích | sartany, ACE inhibitory |
+| **X** | riziko jednoznačně převažuje nad přínosem | **warfarin, statiny** |
+
+**Konkrétní důležité teratogeny a jejich typický obraz** (klasické zkušební téma):
+
+| Léčivo | Následek |
+|---|---|
+| barbituráty, benzodiazepiny | závislost plodu, **fetální abstinenční syndrom** |
+| ACE inhibitory | renální selhání plodu, **oligohydramnion** |
+| kyselina acetylsalicylová | krvácení |
+| NSA | zúžení/uzávěr Botallovy dučeje (ductus arteriosus) |
+| tetracykliny | porucha vývoje skloviny a kostní hmoty |
+| **warfarin** | intrakraniální krvácení; **fetální warfarinový syndrom** — nízká porodní hmotnost, mentální retardace, hluchota, mikrocefalie, malformace kostí, sedlovitý nos |
+| **fenytoin** | **fetální hydantoinový syndrom** — rozštěpy obličeje, mikrocefalie, retardace, vady končetin a srdce, hypoplazie nehtů, nízko nasedající uši, krátký krk |
+
+**Léčiva vhodná vs. nevhodná v graviditě:**
+
+| Skupina | Vhodné | Nevhodné |
+|---|---|---|
+| antibiotika | peniciliny, cefalosporiny | tetracykliny, chinolony, sulfonamidy |
+| antitrombotika | LMWH (nízkomolekulární heparin) | warfarin |
+| antihypertenziva | methyldopa | ACE inhibitory, betablokátory |
+| mukolytika | ambroxol, acetylcystein | — |
+
+**Zásady léčby chronických nemocí u těhotných:** plánovat léčbu v době nejlepší kompenzace nemoci, informovat o riziku neléčení (**neléčená nemoc bývá pro plod větší riziko než léčba**), volit **monoterapii a nejnižší účinnou dávku**, vyhnout se kolísání hladin (monitorace), případně krátkodobě vysadit v citlivém období vývoje konkrétního orgánu (např. lithium kvůli srdci plodu), využívat prenatální diagnostiku.
+
+**Obecná doporučení:** u žen ve fertilním věku vždy zvážit možnost gravidity, vyhodnotit riziko/přínos, vyhýbat se prokázaným teratogenům, zvlášť vyloučit rizikové léky v **I. trimestru**, užívat léky večer (nejmíň nauzey).
+
+### Kojení
+
+Většina léčiv je v mateřském mléce **detekovatelná** — vždy je třeba počítat s farmakologickým ovlivněním dítěte (90 % žen užije nějaký lék už v prvním týdnu po porodu). Léčiva přechází do mléka **pasivní difuzí** po koncentračním gradientu.
+
+**Co ovlivňuje přechod do mléka:**
+- **na straně léčiva** — nejlépe přejdou látky s **nízkou vazbou na bílkoviny, malou molekulovou hmotností, vysokou lipofilitou a v neionizované formě**,
+- **na straně matky** — čím vyšší plazmatická koncentrace u matky a čím méně mléka produkuje, tím víc/míň se přenese celkově,
+- **na straně dítěte** — záleží na perorální dostupnosti u dítěte a jeho schopnosti léčivo eliminovat (jaterní metabolická kapacita dozrává až po týdnech — u plodu je hlavní enzym CYP3A7, po narození se mění na CYP3A4).
+
+**Léky ovlivňující tvorbu mléka:** **snižují** ji estrogeny, gestageny, ergotaminové alkaloidy (bromokriptin); **zvyšují** ji dopaminoví antagonisté (metoklopramid, domperidon), fenotiazinová neuroleptika (chlorpromazin).
+
+**Praktická doporučení:** zvážit poměr přínosu kojení a rizika; podávat jen nutná, osvědčená léčiva; užít lék **3–4 hodiny před kojením** (nebo hned po kojení, před nejdelším spánkovým intervalem dítěte), aby hladina do dalšího kojení klesla; u krátkodobé léčby zvážit dočasné přerušení kojení.
+
+🔑 **Nejnebezpečnější období pro teratogenitu je organogeneze (15.–90. den) — a to je přesně doba, kdy žena často ještě neví, že je těhotná.**
+
+❓ **Doptají se:**
+- *Co je fetální hydantoinový syndrom a čím je způsobený?* → Fenytoinem — rozštěpy obličeje, mikrocefalie, vady končetin a srdce.
+- *Proč je nebezpečné podávat NSA ve třetím trimestru?* → Předčasně uzavírají Botallovu dučej u plodu.
+- *Kdy je nejlepší užít lék, aby co nejméně ovlivnil kojené dítě?* → Těsně po kojení / 3–4 h před dalším kojením, ideálně před nejdelším spánkem dítěte.
+
+---
