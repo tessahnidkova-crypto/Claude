@@ -2129,3 +2129,271 @@ Systémová toxicita — z místa vpichu se anestetikum vstřebává do krve, č
 - *Co způsobuje prilokain specificky ve stomatologii?* → Methemoglobinemii.
 
 ---
+
+## 49 · Celková anestetika — inhalační
+
+**O čem to je:** Celková anestezie znamená úplné, ale reverzibilní vypnutí vědomí a vnímání bolesti kvůli operaci. Inhalační anestetika se vdechují jako plyn nebo páry — patří sem klasika jako oxid dusný ("rajský plyn"), který znáš i ze stomatologie.
+
+**Celková anestetika navozují reverzibilní bezvědomí** — cílem je zbavit pacienta strachu a bolesti spojené s operací a umožnit uvolnění kosterního svalstva. Účinek závisí na tom, jak dobře se látka rozpouští v tucích a začleňuje do buněčných membrán, čímž ovlivní přenos nervového signálu.
+
+**Nejcitlivější oblasti mozku** postupně: retikulární formace mezimozku, senzorická jádra thalamu a jejich spoje s kůrou (jejich útlum = ztráta schopnosti vyhodnotit bolest), mozková kůra, mícha. Krátkodobá amnézie po anestezii se přičítá útlumu hipokampu.
+
+> **Čtyři stadia celkové anestezie — musíš je umět odříkat popořadě:**
+
+| Stadium | Co se děje |
+|---|---|
+| 1. analgezie | pacient je při vědomí, ale utlumený, ztrácí vnímání bolesti |
+| 2. excitace ("vagové") | ztráta vědomí i reakce na nebolestivé podněty, neklid, nepravidelné dýchání — **dráždí se bloudivý nerv, hrozí bronchospasmus, zvracení, zástava srdce** |
+| 3. chirurgická tolerance | ustanou svalové pohyby, dýchání je pravidelné, mizí pohyby očí a rohovkový reflex, svaly relaxované — **tady se operuje** |
+| 4. míšní paralýza | pokud se anestetikum nepřestane podávat: útlum center pro krevní oběh a dýchání, ochabnutí svěračů, kóma a smrt během minut |
+
+**Kinetika inhalačních anestetik.** Jde o malé, v tucích rozpustné molekuly, které snadno projdou přes membránu plicních sklípků. Rychlost účinku určuje: jak rychle se podávají ve vdechované směsi, jak moc jsou plíce prokrvené a fyzikálně-chemické vlastnosti látky. Mozek je velmi prokrvený a mozkomíšní bariéra je pro tyto látky volně prostupná.
+
+> **Dvě čísla, na která se ptají:**
+> ① **Dělicí koeficient krev/plyn** — rychlost nástupu i odeznění anestezie závisí na rozpustnosti v krvi a tucích. **Nízký koeficient = rychlý nástup i rychlé odeznění** (a naopak).
+> ② **MAC (minimální alveolární koncentrace)** = taková koncentrace plynu v dýchané směsi, při které 50 % pacientů nereaguje pohybem na chirurgický řez. **MAC klesá při kombinaci s oxidem dusným** — v praxi hodně využívané, protože se dá snížit dávka dražšího/rizikovějšího anestetika.
+
+Po skončení anestezie se látka částečně vydýchá beze změny, částečně se metabolizuje v játrech a vyloučí ledvinami a žlučí. Mají **úzké terapeutické okno**.
+
+**Jednotlivá anestetika:**
+
+| Látka | Klíčové body |
+|---|---|
+| Halotan | první halogenové anestetikum, nedráždivý, levný; vazodilatační a hypotenzní efekt, ve vysoké dávce snižuje srdeční výdej. Rizika: **maligní hypertermie a hepatotoxicita** (pohalotanová hepatitida — autoimunitní poškození jater). **Dnes se už nepoužívá** |
+| Izofluran | **dnes nejpoužívanější inhalační anestetikum**, vazodilatační; pozor na "steal syndrom" (odklání krev od ischemických oblastí) — může zhoršit ischemii srdce |
+| Desfluran | rychlejší nástup i odeznění; dráždí dýchací cesty — kašel, laryngospasmus, bronchospasmus |
+| Sevofluran | *[doplněno — zdroj konkrétní detaily neuvádí]* nedráždivý, příjemná vůně, oblíbený u dětí pro úvod inhalací |
+| N₂O (oxid dusný) | bezbarvý plyn bez chuti a zápachu; rychlá indukce i odeznění; **v nižších koncentracích navozuje analgezii** — základ inhalační sedace ve stomatologii; slouží i jako nosný plyn, který sníží potřebnou dávku jiných anestetik. **Při expozici nad 6 h tlumí syntézu metioninu → útlum kostní dřeně**, nevhodný u anemie. Dlouhodobá expozice je spojována s vyšším rizikem potratů a vývojových vad plodu — popsáno u dětí členů operačního týmu (chronická profesní expozice) |
+| Xenon | vzácný plyn, chemicky inertní, netoxický a nemetabolizovaný; 1,5× silnější než N₂O; nejnižší rozpustnost v krvi → nejrychlejší nástup i probuzení. Nevýhoda: vysoká cena. Vhodný pro rizikové kardiaky (neovlivňuje oběh) a při poruše jater/ledvin |
+
+⚠️ **N₂O je pro tebe jako zubařku přímo relevantní** — analgezie v nízké koncentraci je základ inhalační sedace ve stomatologii.
+
+**Rizika celkové anestezie:** útlum dechového centra a oběhu (kromě ketaminu, viz O50), ve vyšší koncentraci zástava dechu, vazodilatace s poklesem tlaku, reflexní tachykardie, arytmie, pohalotanová hepatitida, maligní hypertermie (mechanismus viz O47).
+
+**Interakce:** inhalační anestetika ovlivňují sílu a délku nervosvalové blokády vyvolané nedepolarizujícími myorelaxancii; opioidy a benzodiazepiny v kombinaci mohou prohloubit útlum dechového centra.
+
+> **Antagonisté v celkové anestezii — tabulka, kterou zkoušející rád chce:**
+
+| Látka | Funkce |
+|---|---|
+| Naloxon, naltrexon, nalmefen | **antagonisté opioidních receptorů** — odstraní útlum dechu, oběhu a sedaci po opioidech |
+| Flumazenil | antagonista benzodiazepinů (přes GABA receptor) |
+| Neostigmin | inhibitor AChE — zruší účinek periferních myorelaxancií |
+| Doxapram | nespecifické dechové analeptikum — zvyšuje citlivost karotických chemoreceptorů na pokles kyslíku |
+| Dantrolen | blokuje uvolnění Ca²⁺ ze sarkoplazmatického retikula při maligní hypertermii |
+
+⚠️ **Naloxon je ANTAGONISTA opioidů, ne agonista** — pozor, ve starších studentských materiálech se objevuje opačně, což je věcná chyba.
+
+❓ **Doptají se:**
+- *Co znamená MAC?* → Koncentrace, při které 50 % pacientů nereaguje pohybem na řez.
+- *Proč je oxid dusný relevantní pro zubaře?* → V nízké koncentraci navozuje analgezii — inhalační sedace ve stomatologii.
+- *Čím zrušíš účinek opioidů po operaci?* → Naloxonem.
+
+---
+
+## 50 · Celková anestetika — intravenózní
+
+**O čem to je:** Nitrožilní anestetika slouží hlavně k rychlému a příjemnému "uspání" pacienta na začátku operace (úvod do anestezie), případně na krátké výkony samy o sobě.
+
+**Nitrožilní celková anestetika** se používají pro krátké výkony a hlavně k rychlému úvodu do celkové anestezie — obvykle se pak kombinují s inhalačními anestetiky nebo silnými opioidy a myorelaxancii. **Nástup účinku je asi 1 minuta.** Dělí se na **barbiturátová hypnotika** (nejužívanější thiopental) a **nebarbiturátová** (propofol, etomidát, ketamin).
+
+| Látka | Klíčové body |
+|---|---|
+| Thiopental (barbiturát) | velmi lipofilní, navodí anestezii do 2 minut — **hodí se pro úvod do anestezie**, trvá 5–10 minut. Plné probuzení závisí na tom, jak se látka přerozdělí (redistribuuje) do tukové tkáně a odtud zpátky do krve — proto přetrvává ospalost a "pobarbiturátová kocovina" i hodiny. Riziko útlumu dechového centra |
+| Propofol | vhodný pro **udržovací** (dlouhodobou) anestezii při kontinuální infuzi; rychlý nástup i odeznění, nízké riziko nevolnosti a zvracení. Vysoké dávky dlouhodobě → syndrom infuzního propofolu: metabolická acidóza, vysoký draslík, selhání oběhu, rozpad svalové tkáně (rhabdomyolýza) |
+| Etomidát | podobný thiopentalu, rychlejší eliminace, méně rizik pro srdce, dýchání i "kocovinu". Ale **potlačuje tvorbu kortikosteroidů**, což se spojuje s vyšší úmrtností |
+| Midazolam | benzodiazepin — předoperační sedace, u endoskopie, kde plná anestezie není potřeba |
+
+> ⚠️ **Ketamin — výjimka ze všech pravidel, tohle chtějí slyšet.** Jediné anestetikum, které **stimuluje** kardiovaskulární systém (místo aby ho tlumilo). Netlumí dýchání, reflexy ani svalový tonus. Vyvolává tzv. **disociovanou anestezii** — pacient je při vědomí, necítí bolest, má amnézii (jako by byl "odpojený" od reality). Nevýhoda: často dysforie a halucinace — proto se preventivně kombinuje s benzodiazepiny. Použití: malé výkony u dětí, medicína katastrof (dá se i.m.).
+
+**Neuroleptanalgezie** — kombinace nitrožilního silného analgetika (opiátu) a neuroleptika (droperidol). Neuroleptika navodí potlačení spontánního pohybu, nezájem o okolí, potlačení emocí. Klasická kombinace je **fentanyl + droperidol**. Navodí sedaci, analgezii a amnézii, ale **NE bezvědomí** — pacient je schopný spolupracovat. Použití: neurochirurgické výkony.
+
+⚠️ **Nezaměňuj droperidol (neuroleptikum) s domperidonem (antiemetikum)** — jde o dvě různá léčiva s podobným názvem, jedna z chyb, kterou dělá i studentský zdroj.
+
+**Kombinovaná anestezie — jak to celé vypadá v praxi:**
+
+| Fáze | Léčivo a proč |
+|---|---|
+| Premedikace | atropin — prevence zástavy srdce z podráždění n. vagus v průduškách; benzodiazepin — snazší navození anestezie |
+| Anestezie | thiopental pro rychlý úvod |
+| Myorelaxace | vekuronium k uvolnění příčně pruhovaného svalstva |
+| Antiemetika | ondansetron proti pooperačnímu zvracení |
+| Po operaci | opioidy a NSA na bolest |
+
+🔑 **Thiopental = úvod, propofol = udržování, ketamin = výjimka co stimuluje srdce.**
+
+❓ **Doptají se:**
+- *Proč je ketamin výjimečný mezi anestetiky?* → Je jediný, který kardiovaskulární systém stimuluje místo tlumí, a nezpůsobí ztrátu vědomí ani reflexů (disociovaná anestezie).
+- *Co je klasická kombinace u neuroleptanalgezie?* → Fentanyl + droperidol.
+
+---
+
+## 51 · Hypnotika
+
+**O čem to je:** Léky na spaní. Otázka rozebírá, co vlastně nespavost je, a pak tři generace léků na ni — od nebezpečných barbiturátů přes benzodiazepiny až po dnešní lék volby, tzv. Z-látky.
+
+**Insomnie (nespavost)** = obtížné usínání (déle než 30 minut) nebo přerušovaný spánek s časným ranním probuzením. Důsledek: celodenní únava, horší pozornost, změny nálady, víc chyb a dopravních nehod.
+
+| Typ | Definice |
+|---|---|
+| Primární | neorganická příčina |
+| Sekundární | souvisí s psychiatrickým/somatickým onemocněním nebo se zneužíváním/vysazením návykové látky |
+| Akutní | trvá méně než 3 měsíce, reakce na stres |
+| Chronická | 3+ noci týdně po dobu 3+ měsíců |
+
+⚠️ Nespavost bývá i nežádoucím účinkem psychostimulancií, antidepresiv, diuretik a betablokátorů.
+
+**Mechanismus.** Bdělost v mozkové kůře reguluje mozkový kmen přes pět přenašečů: histamin, dopamin, noradrenalin, serotonin, acetylcholin — spolu s hypotalamem jako "přepínačem" mezi spánkem a bděním. Hypnotika buď posilují mediátory, které spánek **navozují** (GABA, melatonin, adenosin), nebo tlumí ty, co spánek **potlačují** (histamin, serotonin, noradrenalin, acetylcholin).
+
+**Zásady předepisování.** Farmakoterapie má smysl hlavně u **akutní** insomnie jako prevence přechodu do chronické formy; dlouhodobé podávání se nedoporučuje kvůli toleranci, rebound nespavosti a riziku závislosti. Ideální hypnotikum má rychlý nástup a dost dlouhý účinek. V nižších dávkách mají hypnotika i anxiolytický (protiúzkostný) efekt. Hypnotický efekt mají i antipsychotika, sedativní antidepresiva, antihistaminika a bylinky (meduňka, mák). Než lékař hypnotikum předepíše, musí zjistit příčinu nespavosti, zkusit fytoterapii (meduňka, heřmánek, chmel) a spánkovou hygienu; u psychické zátěže krátkodobě benzodiazepin — jako pomoc usnout, ne k celonočnímu spánku.
+
+**Barbituráty — 1. generace (1906).** Deriváty kyseliny barbiturové. Váží se na vlastní ("barbiturátové") místo GABA receptoru a snižují dráždivost membrány otevřením chloridových kanálů.
+
+| Doba účinku | Trvání | Zástupci |
+|---|---|---|
+| Krátkodobě | 15 min až několik hodin | pentobarbital, thiopental |
+| Střednědobě | několik hodin | amobarbital |
+| Dlouhodobě | až 48 h | fenobarbital |
+
+Dobře se vstřebávají (ústy i injekčně), nástup a délka účinku závisí na rozpustnosti v tucích vs. vodě, metabolizují se v játrech, vylučují ledvinami. **Indukují mitochondriální enzymy** → ovlivňují metabolismus dalších léků. NÚ: vysoká toxicita, zmatenost, poruchy vědomí a paměti, deprese, alergie, tlumí dechové centrum, snadno vzniká tolerance a závislost, abstinenční příznaky (halucinace, arytmie, epilepsie), při intoxikaci poškození dechového centra a selhání oběhu. ⚠️ **Neexistuje antidotum** — na rozdíl od benzodiazepinů, kde je flumazenil.
+
+Dnes se jako hypnotika **nepoužívají** (potlačují REM spánek), zůstávají jako sedativa, anestetika pro úvod do anestezie a antiepileptika. Musí se podávat pomalu.
+
+**Hypnotika 3. generace — Z-látky.** Nebenzodiazepinoví agonisté benzodiazepinových receptorů — **dnešní lék první volby**. Díky selektivní vazbě na jednu podjednotku GABA receptoru nemají anxiolytický ani myorelaxační efekt, zkracují dobu usínání, snižují počet nočních probuzení a **na rozdíl od benzodiazepinů nepotlačují REM spánek**. Nižší riziko rebound fenoménu a lékových interakcí. NÚ: bolest hlavy, ospalost.
+
+**Zolpidem** — potíže s usínáním. **Zopiklon** — noční a časné probuzení; nevýhoda ranní útlum a **vylučuje se do slin → kovově hořká chuť** (zubařsky užitečný detail — pacient si na to může stěžovat).
+
+🔑 **Barbituráty = nebezpečné, bez antidota, potlačují REM. Z-látky = dnešní volba, nepotlačují REM.**
+
+❓ **Doptají se:**
+- *Proč se barbituráty dnes jako hypnotika nepoužívají?* → Vysoká toxicita, žádné antidotum, potlačují REM spánek, riziko závislosti.
+- *Co je typický nežádoucí účinek zopiklonu, na který si stěžují pacienti?* → Kovová hořká chuť v ústech.
+
+---
+
+## 52 · Benzodiazepiny
+
+**O čem to je:** Skupina léků na úzkost i na spaní zároveň — liší se od barbiturátů tím, jak přesně působí na GABA receptor, a mají (na rozdíl od barbiturátů) svoje antidotum.
+
+> **Mechanismus — přesná formulace.** Benzodiazepiny se váží na vazebná místa dvou podtypů benzodiazepinového receptoru, **oddělená** od místa, kam se váže GABA. Chovají se jako **plní agonisté, kteří alostericky (tedy nepřímo, přes změnu tvaru receptoru) podporují aktivaci GABA receptoru.** *(Rozdíl proti barbiturátům, které mají vlastní místo a přímo otevírají chloridový kanál.)*
+
+**Pět účinků:** anxiolytický (proti úzkosti), sedativní, hypnotický, myorelaxační, antikonvulzivní (proti křečím).
+
+| Doba účinku | Poločas | Zástupci |
+|---|---|---|
+| Krátkodobě | méně než 6 h | cinolazepam, medazepam, midazolam |
+| Střednědobě | 6–24 h | bromazepam, oxazepam, alprazolam |
+| Dlouhodobě | více než 24 h | diazepam, klonazepam |
+
+⚠️ **Z poločasu plyne indikace — jádro otázky:** krátký poločas → sedativní a hypnotický efekt (na nespavost); dlouhý poločas → léčba úzkostných stavů.
+
+V léčbě nespavosti prodlužují dobu spánku, snižují počet probuzení, ale **na rozdíl od Z-látek zkracují hluboký REM spánek**.
+
+**Nevýhody:** ranní i denní útlum, snížená pozornost, **anterográdní amnézie** (neschopnost vytvořit nové vzpomínky po podání), snížený fyzický výkon, horší psychomotorika pro řízení auta (obzvlášť s alkoholem), rebound nespavost po ukončení.
+
+**Farmakokinetika:** po podání ústy se vstřebávají téměř kompletně (dostupnost skoro 100 %), vážou se na plazmatické bílkoviny, jsou lipofilní a snadno procházejí HEB, metabolizují se v játrech. **Při akutní intoxikaci se používá flumazenil** jako antidotum.
+
+🔑 **Krátký poločas = na spaní, dlouhý poločas = na úzkost.** Antidotum: flumazenil.
+
+❓ **Doptají se:**
+- *Jaký je rozdíl v mechanismu benzodiazepinů oproti barbiturátům?* → Benzodiazepiny se váží na vlastní místo oddělené od GABA a působí alostericky (nepřímo); barbituráty mají svoje vlastní místo a přímo otevírají chloridový kanál.
+- *Co je antidotum benzodiazepinů?* → Flumazenil.
+
+---
+
+## 53 · Antiepileptika
+
+**O čem to je:** Léky proti epileptickým záchvatům — nemoci, kdy neurony v mozku vystřelí naráz a nekontrolovaně. Otázka je hodně o mechanismech (tři různé cesty, jak lze záchvat zastavit) a o konkrétních lécích s jejich typickými nežádoucími účinky.
+
+**Epileptický záchvat** = přechodný projev abnormální neuronální aktivity mozku — mozková dysfunkce z nadměrných výbojů neuronů, které se ložiskově nebo v celém mozku naráz depolarizují.
+
+**Epilepsie jako nemoc** je definovaná jedním ze tří: ① aspoň 2 nevyprovokované záchvaty odděleně během 24 hodin, ② jeden záchvat a vysoká pravděpodobnost dalšího, ③ diagnóza konkrétního epileptického syndromu.
+
+Diagnostika: EEG, MR, PET, ve dvou krocích — nejdřív klasifikace typu **záchvatu** (fokální/generalizovaný/neznámý začátek), pak typu **epilepsie** (fokální/generalizovaná/kombinovaná/neznámá). Příčiny: genetická, strukturální (nádor, úraz, cévní), imunitní, zánětlivá, metabolická, neznámá. Postihuje 0,5–1 % populace. Komplikace nekompenzované epilepsie: ztráta kognitivních funkcí, sebevražedné pokusy, poranění, vyšší úmrtnost (i syndrom náhlého úmrtí).
+
+> **Status epilepticus — čísla, na která se ptají:** záchvat trvá **déle než 5 minut** nepřetržitě a pacient se neprobírá k vědomí → **léčba diazepam**. Pokud trvá i po adekvátní dávce diazepamu **déle než 30 minut** → rozvinutý status epilepticus, léčba i.v.: fenytoin, valproát, levetiracetam. Při selhání se musí farmakologicky navodit kóma s monitorací EEG.
+
+**Tři mechanismy účinku — řekni je v tomto pořadí:**
+
+| Cesta | Konkrétně |
+|---|---|
+| ① Snížení presynaptické excitability a uvolnění přenašečů | blokáda Na⁺ kanálu, blokáda Ca²⁺ kanálu, ovlivnění vezikulárního proteinu |
+| ② Posílení tlumivých mechanismů | aktivace GABA receptorů (alostericky — barbituráty a benzodiazepiny), zpomalení odbourávání GABA (vigabatrin, valproát) |
+| ③ Potlačení excitační glutamátové transmise | zabránění uvolnění glutamátu (gabapentin), blokáda postsynaptických glutamátových receptorů (topiramát) |
+
+Antiepileptika tedy upravují transport iontů přes membránu neuronu tak, aby se snížila jeho dráždivost. Podávají se dlouhodobě, někdy doživotně; při správné diagnóze a lécích dosahuje remise až 60 % pacientů během 5 let.
+
+**Zásady léčby:** začíná se **monoterapií** s nižší dávkou (kombinace = víc NÚ), při selhání se zkusí jiná monoterapie nebo kombinace. Dávku sleduješ podle dvou principů: dynamického (typ a počet záchvatů, EEG, jaterní testy, krevní obraz) a kinetického (měření hladiny léku v krvi, TDM). Odpověď funguje na principu "vše nebo nic" a lépe koreluje s hladinou v krvi než s dávkou samotnou. **Ukončení jen postupným snižováním — náhlé vysazení může vyvolat status epilepticus.**
+
+**Nežádoucí účinky podle typu:**
+
+| Typ | Projevy |
+|---|---|
+| A — závislé na dávce | zpomalení, poruchy paměti, závratě, ospalost, poruchy spánku, porucha koordinace (ataxie), poruchy vědomí, třes, změny hmotnosti, **hyperplazie dásní a polyneuropatie**, megaloblastická anemie (z poruchy metabolismu kyseliny listové), poruchy zorného pole, osteoporóza, poruchy štítné žlázy |
+| B — alergie, idiosynkrazie | vyžaduje okamžité vysazení; nejvážnější jsou alergické reakce, poškození jater, poruchy krvetvorby |
+| C — teratogenní | poškození neurální trubice plodu ("rozštěp páteře") |
+
+⚠️ **Intoxikace nemá antidotum**, léčba jen symptomatická.
+
+⚠️ **Hyperplazie dásní je pro tebe klíčová** — u pacienta na **fenytoinu** je to učebnicový nález a přímá otázka na ústní zkoušce ze zubního lékařství.
+
+**Klasická antiepileptika:** fenobarbital, primidon, fenytoin, etosuximid, karbamazepin, valproát. Vážou se na plazmatické bílkoviny, metabolizují se v játrech, často **indukují jaterní enzymy** (výjimka valproát); kinetika je u většiny lineární (výjimka fenytoin); v těhotenství jejich hladiny výrazně klesají. U žen: **valproát se nepoužívá** (teratogenita), přednost monoterapii, při zjištění těhotenství se léčba **NEVYSAZUJE** (riziko záchvatu je horší než riziko léku), kojení není kontraindikace.
+
+| Léčivo | Mechanismus a NÚ |
+|---|---|
+| Fenobarbital | alostericky na GABA receptor, prodlužuje otevření Cl⁻ kanálu; proti generalizovaným tonicko-klonickým křečím. NÚ: sedace, horší koncentrace, úzkost, deprese, zmatenost, poruchy paměti, GIT potíže, indukce enzymů |
+| Primidon | fenobarbital vzniká i jeho bioaktivací; podobný účinek plus další mechanismy |
+| Fenytoin | prodlužuje inaktivaci napěťově řízených Na⁺ kanálů, ovlivňuje i K⁺, Ca²⁺, uvolňování GABA a glutamátu. **Kinetika 0. řádu** — po dosažení individuální denní dávky prudce stoupne koncentrace. Účinný u generalizovaných i fokálních záchvatů. NÚ: dvojité vidění, mimovolní pohyby očí, ataxie, únava, ospalost, nauzea, **hyperplazie dásní, hirsutismus (nadměrné ochlupení), zhrubnutí rysů**, poškození jater, silně indukuje CYP3A4 |
+| Karbamazepin | prodlužuje inaktivaci Na⁺ kanálů; ovlivňuje obrat dopaminu a noradrenalinu → antimanický efekt; chemicky derivát tricyklických antidepresiv. Účinný hlavně u fokálních záchvatů, i u neuropatické bolesti. NÚ: závratě, poškození jater, útlum krvetvorby |
+| Valproát (kyselina valproová a její sodná sůl) | širokospektrý — fokální i generalizované záchvaty; blokuje enzymy odbourávající GABA a blokuje tvorbu výbojů přes Na⁺ kanály. NÚ: encefalopatie, přírůstek hmotnosti, hirsutismus, poškození jater, **embryopatie a teratogenita**, nauzea, syndrom polycystických ovarií, poruchy krvetvorby a srážlivosti |
+
+**Nová antiepileptika (od 90. let)** mají farmakokinetickou výhodu — nevážou se na plazmatické bílkoviny, neovlivňují jaterní cytochromy, nemetabolizují se v játrech (méně lékových interakcí).
+
+| Léčivo | Klíčové body |
+|---|---|
+| Lamotrigin | prodlužuje inaktivaci Na⁺ kanálů, ovlivňuje Ca²⁺ kanály, tlumí uvolnění glutamátu. **Lék první volby u fokálních i generalizovaných záchvatů**, Lennox-Gastautův syndrom, **vhodný pro těhotné**. NÚ: vysoké riziko kožních reakcí — vyrážka může vyústit ve Stevensův-Johnsonův syndrom a toxickou epidermální nekrolýzu |
+| Gabapentin | derivát GABA, blokuje vápníkové kanály, má i analgetický efekt; vylučuje se ledvinami beze změny, nemá klinicky významné interakce, potřeba 3–4 dávek denně. Epilepsie, neuropatická bolest |
+| Pregabalin | derivát GABA, blokuje Ca²⁺ kanály. NÚ: periferní otoky, angioedém. Epilepsie, neuropatická bolest, **generalizovaná úzkostná porucha** |
+| Levetiracetam | váže se na synaptický vezikulární protein, není výrazně metabolizován. NÚ: pancytopenie. **Lék 1. volby u fokálních i generalizovaných tonicko-klonických záchvatů** |
+| Benzodiazepiny (klonazepam, klobazam, diazepam, midazolam) | alostericky na GABA receptor, snižují dráždivost neuronu. Rektální diazepam nebo bukální midazolam účinkují během minut, i.m. diazepam se vstřebává pomaleji. Nejsou lékem první volby na dlouhodobou léčbu, ale **diazepam je lékem volby u hrozícího status epilepticus** |
+
+❓ **Doptají se:**
+- *Jaký nález na dásních spojíš s antiepileptikem a s jakým?* → Hyperplazie dásní u fenytoinu.
+- *Co uděláš, pokud otěhotní žena na antiepileptikách?* → Léčbu nevysazuješ (riziko záchvatu > riziko léku), přejdeš na monoterapii, valproát se nepoužívá.
+- *Jaký lék je volbou u hrozícího status epilepticus?* → Diazepam.
+
+---
+
+## 54 · Antiparkinsonika
+
+**O čem to je:** Parkinsonova nemoc vzniká úbytkem dopaminových neuronů v mozku, takže "brzda" na pohyb chybí a převládá "plyn" (cholinergní systém) — projeví se to třesem a ztuhlostí. Léky se buď snaží dopamin doplnit/podpořit, nebo utlumit tu přebývající cholinergní stranu.
+
+**Parkinsonova nemoc** je porucha bazálních ganglií, druhé nejčastější neurodegenerativní onemocnění (po Alzheimerově chorobě); přispívá genetická predispozice i vnější vlivy (neurotoxiny, oxidační stres). Výskyt roste s věkem, medián diagnózy je 61 let, ale vyskytuje se i pod 40 let; častější u mužů.
+
+> **Patofyziologie — jádro otázky, uměj to vysvětlit plynule.** Jde o úbytek dopaminových neuronů v části mozkového kmene zvané *substantia nigra*, konkrétně jejich spojů se striatem. Zpočátku se uplatní kompenzační mechanismy (zbylé neurony pracují víc), což může zamaskovat začátek nemoci. Jak neuronů dál ubývá, klesá tlumivý (inhibiční) vliv dopaminu na striatum, kde je velké množství excitačních (budivých) cholinergních buněk podílejících se na řízení svalů. **Se ztrátou dopaminu tedy aktivita cholinergního systému relativně STOUPÁ → to způsobuje typické příznaky (třes, ztuhlost).** Nemoc se klinicky projeví, až když ve striatu chybí **80 %** dopaminu — proto je diagnóza často "opožděná" oproti reálnému začátku poškození.
+
+Klinické příznaky: svalová ztuhlost, klidový třes, zpomalení pohybu, poruchy držení těla a chůze, poruchy spánku a únava, deprese a úzkost, demence, poruchy srdce a GIT. Podobně se může projevit i "parkinsonský syndrom" vyvolaný blokádou dopaminových receptorů striata při léčbě antipsychotiky, nebo po infekci CNS.
+
+Cílem léčby je obnovit rovnováhu mezi excitační (cholinergní) a chybějící inhibiční (dopaminovou) složkou. **Léky nezastaví postup nemoci** — léčba je jen symptomatická, ale musí začít včas.
+
+**Dvě strategie, čtyři cesty:**
+- **I. Posílení dopaminergního systému:** a) dodání prekurzoru dopaminu (L-DOPA), b) omezení odbourávání dopaminu (inhibice MAO-B) nebo L-DOPA (inhibice COMT), c) přímá aktivace dopaminových receptorů agonisty, d) léky uvolňující dopamin.
+- **II. Potlačení nadměrné cholinergní aktivity ve striatu.**
+
+> **L-DOPA + karbidopa — nejelegantnější myšlenka otázky.** L-DOPA (levodopa), prekurzor dopaminu, se rychle vstřebá v GIT, ale už ve střevní sliznici se z ní stane dopamin (dekarboxylací) — **dřív, než stihne projít hematoencefalickou bariérou (HEB)**. Samotný dopamin totiž HEB neprojde a v periferii navíc vyvolá nauzeu, zvracení, pokles tlaku při vstávání. **Proto se L-DOPA kombinuje s karbidopou**, inhibitorem dekarboxylázy, která tuto předčasnou přeměnu blokuje **mimo mozek** a tím zvyšuje množství L-DOPA, které se dostane až do mozku (kde se teprve tam promění v dopamin). Odpověď je příznivá u 80 % léčených, ale po zhruba 2 letech léčby vzniká tolerance a nemoc dál postupuje. NÚ v pozdější fázi: mimovolní pohyby (dyskineze) rostoucí s dávkou, bolestivé křeče, zkracující se doba účinku, zmatenost, halucinace.
+
+| Skupina | Léčiva a mechanismus |
+|---|---|
+| Inhibitory COMT | entakapon — brání odbourání L-DOPA, podává se jako doplněk k L-DOPA a zvýší její dostupnost |
+| Inhibitory MAO-B | selegilin, rasagilin — blokují MAO-B ve striatu, chrání dopamin před odbouráním; u pacientů s nedostatečnou odpovědí na L-DOPA |
+| Agonisté D2 receptorů | pramipexol, rotigotin, ropinirol, apomorfin — dobře se vstřebávají z GIT, účinek 8–12 h, tlumí syndrom "on-off" (střídání dobrých a špatných fází). Ropinirol navíc u syndromu neklidných nohou. **Preferují se u mladších pacientů** |
+| Léky uvolňující dopamin | amantadin — méně účinný, ale lépe snášený než L-DOPA; navíc antagonista NMDA receptorů v bazálních gangliích, čímž vyrovnává poruchu rovnováhy mezi excitačním (glutamátovým) a inhibičním (dopaminovým) systémem. Vzniká na něj tolerance |
+| Anticholinergika | biperiden, procyklidin — syntetická parasympatolytika, antagonisté muskarinových receptorů (nepůsobí na nikotinové); tlumí extrapyramidové příznaky |
+
+🔑 **Karbidopa sama dopamin nedodává — jen chrání L-DOPA, aby se nepřeměnila předčasně mimo mozek.**
+
+❓ **Doptají se:**
+- *Proč se L-DOPA nepodává samotná?* → Přemění se na dopamin už ve střevě, ten neprojde HEB a navíc vyvolá periferní NÚ (nauzea, hypotenze) — karbidopa tomu zabrání mimo mozek.
+- *Kolik procent dopaminu musí ve striatu chybět, aby se nemoc klinicky projevila?* → 80 %.
+
+---
