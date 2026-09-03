@@ -3602,3 +3602,48 @@ Teikoplanin — méně nefrotoxický, výhodnější farmakokinetika; léčba en
 - *Na jaké úrovni blokují tetracykliny bakterie — buněčná stěna, nebo ribozom?* → Ribozom (proteosyntéza), NE buněčná stěna.
 
 ---
+
+## 88 · Makrolidy `[doplněno — mimo materiál katedry]`
+
+⚠️ **Tahle otázka NENÍ ve tvém zdroji.** Makrolidy chybí jak v podrobné Specce I (končí u tetracyklinů = otázka 87), tak ve vypracovaných otázkách. Obsah níže je ze standardní učebnicové farmakologie — dej si na něm menší důraz než na ostatní otázky a **kdybys sehnala materiál přímo od katedry, přebij to jím.**
+
+**O čem to je:** Makrolidy jsou ATB, která se hodí hlavně na "atypické" bakterie schované uvnitř buněk (chlamydie, mykoplazma, legionella) — a jsou to nejčastější náhrada za penicilin, když je na něj pacient alergický.
+
+**Makrolidy = bakteriostatická ATB blokující proteosyntézu vazbou na 50S ribozomální podjednotku** (na 23S rRNA) — zabrání posunu (translokaci) rostoucího peptidového řetězce. Ve vysoké koncentraci a u citlivých kmenů mohou být i baktericidní. Vazebné místo sdílejí s linkosamidy a streptograminy — odtud zkřížená rezistence.
+
+> **Který ATB kam — tabulka, která tě zachrání u kterékoli otázky o antibiotikách:**
+> **Buněčná stěna:** betalaktamy, glykopeptidy · **50S ribozom:** makrolidy, linkosamidy, amfenikoly · **30S ribozom:** aminoglykosidy, tetracykliny · **DNA topoizomerázy:** chinolony · **folátová dráha:** sulfonamidy, trimetoprim
+
+Chemicky jde o makrocyklický laktonový kruh s navázanými cukry, dělí se podle počtu atomů v kruhu: **14-členné** — erythromycin, klarithromycin, roxithromycin; **15-členné (azalidy)** — azithromycin; **16-členné** — spiramycin, josamycin.
+
+**Spektrum:** G+ koky (streptokoky, pneumokoky, stafylokoky), G− koky a vybrané tyčinky (moraxella, neisserie, černý kašel, kampylobakter, *H. pylori*), **hlavní doména — atypičtí patogeni: mykoplazma, chlamydie, legionella**, dál treponema a borrelie (alternativa), atypická mykobakteria. **Nepůsobí na enterobakterie ani na pseudomonádu.**
+
+**Farmakokinetika:** výborně pronikají do buněk a tkání → vysoké nitrobuněčné koncentrace (proto účinnost proti nitrobuněčným patogenům). Špatně pronikají do mozkomíšního moku — nevhodné u meningitidy. Vylučují se hlavně játry a žlučí, ne ledvinami → nemusí se upravovat dávka při selhávání ledvin. Erythromycin je citlivý na žaludeční kyselinu → potřebuje odolnou lékovou formu. Azithromycin má velmi dlouhý poločas a hromadí se ve tkáních → stačí 1× denně, krátká kúra 3–5 dní, účinek přetrvává i po vysazení.
+
+**Indikace:** komunitní pneumonie, hlavně atypická (lék volby); **respirační infekce u alergie na penicilin — nejčastější klinická role**; streptokoková tonzilofaryngitida při alergii na PNC; černý kašel (lék volby); chlamydiové urogenitální infekce (azithromycin jednorázově); kampylobakterová enteritida; **eradikace *H. pylori*** (klarithromycin v kombinaci); legionelóza; atypická mykobakteria; **spiramycin — toxoplazmóza v těhotenství**. Off-label: erythromycin jako prokinetikum (agonista motilinových receptorů) u gastroparézy.
+
+**Nežádoucí účinky:** GIT — nevolnost, zvracení, křeče, průjem (nejvíc erythromycin); **prodloužení QT intervalu → riziko torsade de pointes** (nejvíc erythromycin a klarithromycin); poškození jater (erythromycin-estolát); ototoxicita při vysokých dávkách (vratná); kovová chuť v ústech u klarithromycinu; zánět žíly při i.v. podání.
+
+> **Interakce — nejvděčnější část otázky.** **Erythromycin a klarithromycin silně blokují CYP3A4, azithromycin prakticky ne** — tenhle rozdíl je klasická zkušební otázka. Blokádou CYP3A4 zvyšují hladiny: statinů → **rabdomyolýza** (nejcitovanější příklad), warfarinu → krvácení, karbamazepinu, cyklosporinu a takrolimu → nefrotoxicita, theofylinu → křeče a arytmie, midazolamu → hlubší sedace, kolchicinu. **Digoxin** — makrolidy potlačí střevní bakterii, která ho normálně částečně inaktivuje → zvýší se jeho hladina a riziko intoxikace. **Praktický důsledek: u pacienta na statinu nebo warfarinu volíš raději azithromycin.**
+
+**Rezistence:** methylace 23S rRNA (geny *erm*) → **MLS-B fenotyp**, zkřížená rezistence s linkosamidy a streptograminy; efluxní pumpy (*mef*) — jen na makrolidy, nižší úroveň rezistence; enzymatická inaktivace esterázami (vzácné).
+
+| Léčivo | Kruh | Klíčové vlastnosti |
+|---|---|---|
+| Erythromycin | 14 | základní zástupce, citlivý na žaludeční kyselinu, nejvíc GIT NÚ, silný inhibitor CYP3A4, prokinetikum |
+| Klarithromycin | 14 | lepší snášenlivost, *H. pylori*, atypická mykobakteria, silný inhibitor CYP3A4, kovová chuť |
+| Roxithromycin | 14 | dobrá snášenlivost, respirační infekce |
+| Azithromycin | 15 (azalid) | dlouhý poločas, 1× denně, krátká kúra, hromadí se ve tkáních, **minimální blokáda CYP3A4** |
+| Spiramycin | 16 | toxoplazmóza v těhotenství |
+
+🔑 **Azithromycin = jediný z běžně používaných bez významné blokády CYP3A4 — proto je bezpečnější u pacientů na statinech/warfarinu.**
+
+❓ **Doptají se:**
+- *Proč jsou makrolidy častou volbou u alergie na penicilin?* → Účinná alternativa na respirační a streptokokové infekce s jiným mechanismem, netýká se jí zkřížená alergie s betalaktamy.
+- *Který makrolid nejméně interaguje s ostatními léky přes CYP3A4?* → Azithromycin.
+
+---
+
+*(Tím je Speciální farmakologie I (36–88) kompletní. Pokračuje Speciální farmakologie II.)*
+
+---
