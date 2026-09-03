@@ -442,3 +442,81 @@ Kvalitativní požadavky: sterilita, izotonicita, **pH kolem 7–9** (bezbolestn
 - *Kolik z rektálně podaného léčiva obejde first-pass efekt?* → Přibližně **50 %**.
 
 ---
+
+## O9 · Komunikace s pacientem při předepisování léčiv, adherence, compliance, význam placeba a noceba
+
+**O čem to je:** Lék funguje jen tak dobře, jak dobře ho pacient skutečně užívá — a to, jak s pacientem lékař mluví, jeho očekávání přímo ovlivňuje. Otázka spojuje dvě věci: **jak správně komunikovat při předpisu** a **jak psychika pacienta (očekávání) mění účinek léčby** (placebo/nocebo).
+
+**Co musí lékař pacientovi vysvětlit při předepsání** (nejde jen "napsat recept"):
+- jakou **lékovou formu** zvolit podle pacienta (dětem sirupy, seniorům spíš tablety),
+- jak se přípravek **podává a dávkuje**,
+- jaké mohou nastat **lékové interakce**,
+- jestli bude mít pacient **doplatek** za přípravek,
+- a u eReceptu i to, jakou formu identifikátoru pacient zvládne (papírová průvodka vs. aplikace u seniora).
+
+**Compliance a adherence — dva názvy pro totéž.** **Compliance** = ochota a schopnost pacienta dodržovat předepsaný terapeutický režim (do jaké míry se drží pokynů k užívání). Dnes se tento pojem čím dál víc nahrazuje slovem **adherence**, protože zdůrazňuje **vyšší podíl vlastní zodpovědnosti pacienta** (není jen pasivně "poslušný", ale aktivně se rozhoduje spolupracovat) — významově jsou ale rovnocenné.
+
+**Na čem compliance/adherence závisí:**
+- fyzická a duševní schopnost pacienta a jeho celkový zdravotní stav,
+- ochota a vůle se léčbě podřídit,
+- **počet a dávkování současně užívaných léčiv** (víc léků = hůř se to hlídá, hrozí i interakce — je potřeba to průběžně kontrolovat),
+- povaha terapie — složitost režimu, nežádoucí účinky, jestli pacient subjektivně cítí, že mu to pomáhá,
+- povaha samotného onemocnění.
+
+**Jak adherenci zlepšit:** co nejjednodušší terapeutický režim (méně tablet, méně denních dávek), zapojit rodinu pacienta do informování, a hlavně **s pacientem mluvit** — vysvětlovat, nabízet možnost volby, a při každé změně terapie compliance znovu probrat.
+
+🔑 **Adherence = totéž co compliance, jen s důrazem na to, že pacient je aktivní spolupracovník, ne jen poslušný vykonavatel.**
+
+**Placebo** = neúčinná látka upravená do stejné podoby jako skutečný lék (stejný vzhled, chuť), používá se hlavně jako **srovnávací rameno ve fázi III klinických studií** (viz O4) — nová látka se musí ukázat jako účinnější než placebo. Placebo přesto často vykazuje **reálné pozitivní zlepšení zdraví** — nejde o "nic": funguje přes psychiku pacienta (věří, že je léčen, uklidní se, a to zlepšení může být i měřitelně reálné). Účinek je ale **individuální a liší se podle typu nemoci** — funguje docela dobře u bolesti a deprese, ale prakticky vůbec ne u nemoci s objektivně nízkou šancí na vyléčení (např. pokročilá rakovina). Název pochází z latinského *placeo* = "líbit se".
+
+**Nocebo** je přesný opak: projeví se, když pacient **očekává zhoršení** — po podání neúčinné (neutrální) látky mu bylo řečeno, že se dostaví nežádoucí účinky, nebo se dozví vysokou cenu léčby, a stav se **kvůli tomuto očekávání skutečně zhorší**. Širší význam noceba zahrnuje i situaci, kdy **od léku, do kterého pacient vkládal velké naděje, se nedostaví očekávaný léčebný efekt a naopak se objeví nežádoucí účinky**. Název je z latinského *noceo* = "škodit".
+
+📊 *Konkrétní doložený příklad (dobrý k zapamatování čísel):* ve studii s finasteridem u zvětšené prostaty jedné skupině pacientů řekli, že se u nich může objevit erektilní dysfunkce jako nežádoucí účinek — **u 44 % z nich se problém skutečně objevil**. Druhé skupině se to neřeklo — problém se objevil jen u **15 %**. Rozdíl vznikl čistě z toho, co pacienti **očekávali**.
+
+⚠️ Placebo/nocebo efekt **není "jen v hlavě" v tom smyslu, že by nebyl skutečný** — měřitelně mění fyziologii (vnímání bolesti, hladinu stresových hormonů). To je důvod, proč se ve studiích musí srovnávat proti placebu, ne jen sledovat, jestli se pacientovi "zdá" lépe.
+
+❓ **Doptají se:**
+- *Proč se dnes preferuje slovo adherence před compliance?* → Zdůrazňuje aktivní roli a spoluzodpovědnost pacienta, ne jen poslušnost.
+- *Funguje placebo u všech nemocí stejně?* → Ne — dobře u subjektivních potíží (bolest, deprese), málo tam, kde je objektivně nízká šance na zlepšení.
+- *Co je nocebo v širším smyslu?* → I situace, kdy očekávaný účinek léku nenastane a místo toho se objeví nežádoucí účinky.
+
+---
+
+## O10 · Přechod látek biologickými membránami — pasivní a specializovaný
+
+**O čem to je:** Aby lék zabral, musí se dostat z místa podání až k receptoru — a cestou musí překonat řadu **buněčných membrán**, které fungují jako bariéry. Tahle otázka popisuje **pět různých způsobů**, jak to léčivo dokáže, a jak jsou na cestě "postavené" různé typy bariér v těle.
+
+**Aby léčivo vůbec zabralo**, musí: proniknout do organismu → dostat se do cílové tkáně → být tam v dostatečné koncentraci u svého cíle (receptor, enzym). Na molekulární úrovni musí překonat jak velké vzdálenosti v těle, tak samotné biologické membrány.
+
+**Tři základní druhy pohybu léčiva v těle** (než se dostaneme k mechanismům přes membránu):
+- **unášení tělními tekutinami** — rychlá distribuce krví a lymfou na velké vzdálenosti; nezávisí na vlastnostech léčiva (lipofilní látky špatně rozpustné ve vodě se přitom váží na bílkoviny, aby se daly takhle převážet),
+- **difuze ve stacionárním vodném prostředí** (v tkáňovém moku, uvnitř buňky) — náhodný **Brownův pohyb** molekul z místa vyšší do místa nižší koncentrace; skoro vůbec neovlivněný vlastnostmi léčiva,
+- **překonávání biologických membrán** — buď **transcelulárně** (přes lipidovou dvojvrstvu a vodní póry), nebo **paracelulárně** (vodným prostředím mezi buňkami) — a tohle už silně závisí na fyzikálně-chemických vlastnostech léčiva.
+
+**Pět mechanismů transportu přes membránu:**
+
+**1. Pasivní difuze** — nejčastější mechanismus u absorpce, distribuce i eliminace většiny léčiv. Řídí se **Fickovým zákonem**: rychlost přestupu závisí na difuzním koeficientu látky, rozdílu koncentrací na obou stranách membrány, velikosti plochy a tloušťce membrány. Pohyb pokračuje, dokud se koncentrace nevyrovnají. **Není saturovatelná** (nezpomalí se, i když je látky hodně) a **není strukturně specifická**.
+- Klíčové pro pochopení: u slabých kyselin a bází existuje při daném pH rovnováha mezi **ionizovanou formou** (hydrofilní, membránou neprojde) a **neionizovanou formou** (dost lipofilní, aby prošla). **Příliš hydrofilní léčiva** membránou projdou špatně, **příliš lipofilní** se naopak mohou v membráně hromadit (kumulovat).
+
+**2. Facilitovaná (usnadněná) difuze** — potřebuje **přenašečový protein (carrier)**, ale pohybuje se stále **po koncentračním spádu**, takže **nepotřebuje energii**. Umožňuje rychlejší přestup hydrofilnějších látek, než by šlo prostou difuzí. Přenašeč se dá **saturovat** (zahltit) a jiná látka s afinitou k přenašeči ho může blokovat (kompetice). Typický příklad: přestup **glukózy** do buněk.
+
+**3. Aktivní transport** — také přes přenašečový protein, ale **spotřebovává energii z ATP**, a proto umí přenášet látku **i proti koncentračnímu spádu** (z místa nižší do místa vyšší koncentrace). Je saturovatelný, relativně selektivní, a různá léčiva mohou o stejný přenašeč **soupeřit (kompetice)**.
+
+**4. Vezikulární transport (endocytóza a exocytóza)** — buňka "spolkne" nebo "vyplivne" látku ve váčku (vezikule). **Endocytóza**: membrána se kolem látky vychlípí a vytvoří měchýřek — **pinocytóza** je vstup kapiček tekutiny, **fagocytóza** je pohlcení pevných částic. **Exocytóza** je opak — váček uvnitř buňky splyne s membránou a obsah se vylije ven. Tenhle typ transportu se dnes hodně zkoumá pro **cílené doručování léčiv**.
+
+**5. Filtrace** — přestup je čistě limitovaný **velikostí molekuly** skrz vodní póry. Přes běžnou buněčnou membránu projdou jen látky s molekulovou hmotností do 100. Výjimkou jsou **ledvinné glomeruly**, které mají mnohem větší póry — tam projdou bez omezení látky do molekulové hmotnosti 5 000, se zvyšující se hmotností přestup klesá a **úplným stropem je hmotnost 60 000–70 000**.
+
+🔑 **Pasivní difuze a filtrace nepotřebují energii ani přenašeč. Facilitovaná difuze potřebuje přenašeč, ale ne energii. Aktivní transport potřebuje oboje — a jako jediný umí jít proti spádu.**
+
+**Bariéry v těle — kde všude se to uplatňuje:**
+- **Vnější bariéry — epitelové membrány** (kůže, sliznice dutých orgánů). Malé hydrofilní molekuly (do MH 200) prochází paracelulárně, lipofilní molekuly rychle transcelulárně přes lipidovou dvojvrstvu — to je hlavní cesta vstřebávání ve **střevě** (klky a mikroklky zvětšují vstřebávací plochu). Kůže je díky rohovatějícímu epitelu pro léčiva prakticky **nepropustná**, kromě velmi lipofilních látek.
+- **Vnitřní bariéry — cévní endotel.** Propustnost se liší podle orgánu: ve střevě, ledvinách a žlázách jsou póry 6–12 nm (propustné i pro větší molekuly); v kůži, svalech, plicích a tuku jsou póry do 5 nm; **v játrech a slezině je endotel nesouvislý** s póry až 100 nm (projdou i makromolekuly); **glomerulární kapiláry** mají póry až 60 nm.
+- **Vnitřní bariéry s "bariérovou funkcí"** — těsné mezibuněčné spoje bez pórů: **hematoencefalická, hematolikvorová, placentární a testikulární bariéra**. Tady projdou polární látky jen s pomocí přenašečů, makromolekuly vezikulárním transportem, a **snadno projdou jen lipofilní léčiva**.
+- **Cytoplazmatická membrána buňky** — velmi malé póry (< 1 nm), difuzí projdou jen drobné hydrofilní molekuly (voda, etanol, lithium); větší nebo nabité látky potřebují transportér.
+
+❓ **Doptají se:**
+- *Který transportní mechanismus jako jediný jde proti koncentračnímu spádu?* → **Aktivní transport** (potřebuje ATP).
+- *Proč lék dobře rozpustný ve vodě špatně proniká do mozku?* → Hematoencefalická bariéra má těsné spoje bez pórů — projdou hlavně **lipofilní** látky, hydrofilní potřebují přenašeč.
+- *Co znamená, že difuze "není saturovatelná"?* → I při vysoké koncentraci se rychlost přestupu dál úměrně zvyšuje — na rozdíl od transportu přenašečem, který se dá "zahltit".
+
+---
