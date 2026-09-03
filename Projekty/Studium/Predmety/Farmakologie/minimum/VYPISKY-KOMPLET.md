@@ -1507,3 +1507,163 @@ Většina léčiv je v mateřském mléce **detekovatelná** — vždy je třeba
 - *Kdy je nejlepší užít lék, aby co nejméně ovlivnil kojené dítě?* → Těsně po kojení / 3–4 h před dalším kojením, ideálně před nejdelším spánkem dítěte.
 
 ---
+
+## O33 · Farmakoterapie v dětství
+
+**O čem to je:** Klíčová věta celé otázky: **dítě není malý dospělý.** Novorozenec má úplně jinou absorpci, distribuci, metabolismus i eliminaci léčiv než dospělý — a tělo se v tomhle mění doslova z týdne na týden, takže dávka se musí počítat na konkrétní dítě, ne odhadovat.
+
+**Novorozenec** = od narození do 28. dne — z farmakoterapeutického hlediska je to **extrémně nehomogenní** skupina (týden starý novorozenec funguje jinak než 27denní).
+
+### Farmakokinetické odlišnosti
+
+**Absorpce:**
+- **enterálně** — těžko předvídatelná: pomalejší vyprazdňování žaludku, **vyšší pH žaludečního obsahu** (méně kyselé), nižší obsah žlučových kyselin a pankreatických šťáv, pomalejší peristaltika,
+- **i.m.** — u nemocného novorozence časté "centralizace oběhu", která vstřebávání zhoršuje,
+- **rektálně** — dobré vstřebávání, ale nepředvídatelné kvůli náhodnému odchodu stolice,
+- **endotracheálně** — používá se při KPR (adrenalin) a při podání surfaktantu/kortikoidů,
+- **transdermálně** — **nevhodné** u nezralých novorozenců: kůže je tenká, hrozí významná systémová absorpce,
+- **i.v.** — komplikovaná menším průměrem a průtokem cév.
+
+**Distribuce:**
+- **celková tělesná voda tvoří 75 % hmotnosti novorozence** (u dospělého jen ~60 %) → **zvýšený distribuční objem pro hydrofilní léčiva**, naopak **snížený pro lipofilní** (méně tuku),
+- vazebná kapacita bílkovin je výrazně snížená (nižší koncentrace albuminu i kyselého glykoproteinu) → **vyšší volná (účinná) frakce** léčiva.
+
+**Metabolismus:**
+- reakce **fáze I** fungují už brzy prenatálně; donošený novorozenec má **50–70 % kapacity dospělého**,
+- reakce **fáze II** vyzrávají mnohem pomaleji — hodnot dospělého dosáhnou **až po 2 letech věku**; nízká aktivita UDP-glukuronyltransferázy nutí tělo používat jiné konjugační cesty (jiné metabolity s jinou aktivitou — riziko!).
+
+**Exkrece:**
+- glomerulární filtrace dosáhne hodnot dospělého **až v polovině 2. roku života**,
+- nedonošené děti mají výrazně nižší tubulární funkci,
+- jaterní/žlučová exkrece je zpomalená nezralostí GIT; enzymy střevní sliznice dozrávají také až první 2 roky.
+
+**Praktické zásady:** pozor na volbu lékové formy (ne hořká/špatně aplikovatelná — vhodné sirupy a chuťově korigované suspenze); i.m. injekce se u dětí aplikují do **m. quadriceps femoris**; existuje samostatné dávkování *dosis pro infantibus* podle českého lékopisu.
+
+### Specifické nežádoucí účinky typické pro dětský věk
+
+| Syndrom | Vyvolávající léčivo | Projevy |
+|---|---|---|
+| **Reyeův syndrom** | kyselina acetylsalicylová (obvykle nasedá na virózu) | jaterní encefalopatie, zvracení, delirium, křeče, nitrolební hypertenze — **může vést ke smrti** |
+| **Gray baby syndrom** | chloramfenikol (u nedonošených novorozenců) | šedá barva kůže, hypotenze, hypoperfuze orgánů, kolaps, šok |
+| poruchy zubů a kostí | tetracykliny | ukládají se do kostí, interferují s růstem, poškozují zubní sklovinu |
+
+🔑 **Tři jména, tři syndromy: aspirin → Reye, chloramfenikol → gray baby, tetracyklin → zuby a kosti.**
+
+❓ **Doptají se:**
+- *Proč se kyselina acetylsalicylová nepodává dětem s virózou?* → Riziko Reyeova syndromu (jaterní encefalopatie).
+- *Proč je chloramfenikol nebezpečný u nedonošenců?* → Nezralá konjugace v játrech → kumulace → gray baby syndrom.
+- *Kdy dosáhne dětská glomerulární filtrace hodnot dospělého?* → Kolem **poloviny 2. roku** života.
+
+---
+
+## O34 · Farmakoterapie ve stáří, polypragmazie
+
+**O čem to je:** Zrcadlový obraz O33 — u seniora se všechny fáze ADME zase zpomalují a mění, jen z jiné příčiny (involuce orgánů, ne nezralost). Přidává se k tomu **polypragmazie** — senioři berou v průměru víc léků najednou, což riziko násobí.
+
+**Senior** = pacient starší **65 let**. Změny vznikají involucí orgánů a úbytkem adaptačních schopností; velkou roli hrají **přidružené nemoci** (vedou k polypragmazii), horší compliance a obtíže s manuální/kognitivní funkcí. Charakteristická je **zvýšená vnímavost k benzodiazepinům**.
+
+### Farmakokinetické odlišnosti
+
+**Absorpce:** vzestup žaludečního pH (hypo/achlorhydrie), pokles vstřebávací plochy střeva (involuce sliznice), horší prokrvení splanchniku (cévní nemoci), snížená motilita žaludku.
+
+**Distribuce:**
+- klesá celková tělesná voda → **menší distribuční objem** → **vyšší plazmatická koncentrace hydrofilních léčiv** (digoxin, kyselina acetylsalicylová),
+- stoupá tělesný tuk → **vyšší distribuční objem lipofilních látek** → **prodloužený poločas** (benzodiazepiny, metoprolol),
+- hypoalbuminemie (zpomalená tvorba albuminu) → vyšší volná frakce léčiv (perorální antidiabetika, NSA, **warfarin**).
+
+**Eliminace:** klesá metabolická aktivita jater, zpomalují se reakce fáze I i II, klesá i **citlivost receptorů** (méně receptorů, pomalejší přenos signálu) — proto je vyšší vnímavost k **benzodiazepinům, morfinu, warfarinu, ACE inhibitorům**.
+
+**Exkrece:** klesá průtok krve ledvinami, GF klesá — **po 75. roce až o 50 %, aniž by stoupl sérový kreatinin** (méně svalové hmoty produkuje méně kreatininu — klasická past!), klesá i tubulární sekrece.
+
+⚠️ **Klasická zkušební past: normální sérový kreatinin u seniora NEZNAMENÁ normální funkci ledvin** — svalová hmota je nižší, takže i při snížené GF může kreatinin vypadat v normě.
+
+### Obecné zásady dávkování u seniorů
+
+Zvážit, jestli je medikace vůbec nutná; hledat vhodnější alternativy; snažit se **vyhnout polypragmazii**; volit vhodné lékové formy a pacienta poučit; vyhýbat se léčivům s vysokým rizikem závažných nežádoucích účinků; pravidelně kontrolovat léčbu, upravovat dávkování a aktivně pátrat po nežádoucích účincích.
+
+**Nástroje pro bezpečné předepisování u seniorů:**
+- **Beersova kritéria** — seznam léčiv **potenciálně nevhodných** pro léčbu seniorů,
+- **START kritéria** (*Screening Tool to Alert doctors to Right Treatment*) — naopak upozorňují, kde by lék **měl být zvážen**, ale chybí,
+- **STOPP kritéria** (*Screening Tool of Older People's Prescriptions*) — identifikují nevhodná léčiva nebo jejich nevhodné kombinace.
+
+🔑 **START hledá chybějící potřebnou léčbu, STOPP hledá zbytečnou/škodlivou léčbu — jsou to doplňkové nástroje, ne totéž.**
+
+❓ **Doptají se:**
+- *Proč může mít senior sníženou funkci ledvin i s normálním kreatininem?* → Nižší svalová hmota tvoří míň kreatininu — hodnota vypadá normálně, i když GF klesla.
+- *Jaký je rozdíl mezi Beersovými a STOPP/START kritérii?* → Beersova kritéria jsou obecný seznam nevhodných léčiv; STOPP/START jsou párový nástroj — STOPP najde nevhodné léky, START najde chybějící potřebné léky.
+- *Proč mají senioři delší poločas benzodiazepinů?* → Vyšší podíl tělesného tuku zvyšuje distribuční objem lipofilních látek.
+
+---
+
+## O35 · Biologická léčba: rozdělení, názvosloví, biosimilars, přínosy a rizika
+
+⚠️ **Tahle otázka chybí ve tvých vypracovaných materiálech** (viz `okruhy.md`) — katedra ji zařadila jako oficiální otázku č. 35, ale student, který otázky psal, ji nevypracoval. Text níže je proto sepsaný **z obecných znalostí, ne z tvého zdroje** — až seženeš oficiální materiál/přednášku ke O35, **přebij tímto textem**. Místa, kde si nejsem jistý ani obecně, jsou označená `[⚠️ ověřit]`.
+
+**O čem to je:** Biologika jsou léky vyrobené **živým organismem** (ne chemickou syntézou) — typicky velké bílkoviny jako protilátky nebo hormony. Kvůli své velikosti a složitosti se chovají úplně jinak než klasické "malé molekuly" — jinak se vyrábí, podává i kopíruje.
+
+### Biologikum vs. malá molekula
+
+| | Malá molekula | Biologikum |
+|---|---|---|
+| Velikost | stovky Da | tisíce až ~150 000 Da |
+| Výroba | chemická syntéza | živé buňky (rekombinantní DNA, hybridomy) |
+| Podání | často perorálně | **prakticky vždy parenterálně** (bílkovina by se v GIT strávila) |
+| Imunogenita | nízká | **významná** |
+| Kopie po skončení patentu | generikum = identické | **biosimilar = vysoce podobný, ne identický** |
+
+⚠️ Léčiva s koncovkou **-tinib** (imatinib, erlotinib) jsou **malé molekuly**, NE biologika, přestože jde o cílenou léčbu — "cílená léčba" a "biologická léčba" nejsou synonyma.
+
+### Rozdělení podle typu
+
+| Skupina | Typická koncovka | Příklady |
+|---|---|---|
+| monoklonální protilátky | `-mab` | infliximab, rituximab, trastuzumab |
+| fúzní proteiny (receptor + Fc) | `-cept` | etanercept, abatacept |
+| rekombinantní hormony | — | inzulin a analoga, somatropin |
+| rekombinantní enzymy | `-áza` | altepláza |
+| cytokiny (interferony, interleukiny) | — / `-kin` | interferon alfa, aldesleukin |
+| růstové faktory | `-stim` | filgrastim |
+| erytropoetiny | `-poetin` | epoetin alfa |
+| pokročilé terapie (ATMP) | — | genová terapie, CAR-T buňky |
+
+### Názvosloví monoklonálních protilátek (klasický systém)
+
+Název se skládá ze **substrátu (cíl)** a **zdroje (původ)** + přípona `-mab`. Zdroj podle míry "polidštění":
+
+| Infix | Původ | Imunogenita |
+|---|---|---|
+| `-o-` | myší | nejvyšší |
+| `-xi-` | chimérická | vysoká |
+| `-zu-` | humanizovaná | nižší |
+| `-u-` | plně humánní | nejnižší |
+
+🔑 **Mnemotechnika:** o → xi → zu → u = čím dál v abecedě od "o", tím "lidštější" a méně imunogenní protilátka. *Příklady: ritu-xi-mab (chimérická), trastu-zu-mab (humanizovaná), adali-mu-mab (humánní).*
+
+⚠️ `[⚠️ ověřit]` WHO tohle názvosloví v posledních letech reformovalo — pokud se tvoje přednáška liší, řiď se přednáškou, ne tímhle textem.
+
+### Biosimilars
+
+Generikum malé molekuly je chemicky **identické** s originálem. U biologika to kvůli výrobě v živých buňkách nejde — proto se místo generika mluví o **biosimilaru**: přípravku **vysoce podobném** referenčnímu biologiku, bez klinicky významných rozdílů v kvalitě, bezpečnosti a účinnosti. Registrace vyžaduje víc než jen bioekvivalenci — srovnávací studie (analytické, neklinické, klinické včetně imunogenity).
+
+### Terapeutické přínosy
+
+Vysoká cílová specificita (méně "vedlejších" zásahů), účinnost tam, kde konvenční léčba selhává (revmatoidní artritida, střevní záněty, psoriáza, roztroušená skleróza, onkologie), often ovlivňují **průběh nemoci**, ne jen příznaky, dlouhý poločas (řidší dávkování).
+
+### Rizika
+
+| Riziko | Poznámka |
+|---|---|
+| **imunogenita** | tvorba protilátek proti léčivu → ztráta účinnosti nebo reakce |
+| **infekce, reaktivace latentní TBC a hepatitidy B** | ⚠️ **screening před zahájením je povinný** |
+| reakce na podání | infuzní reakce až anafylaxe |
+| syndrom z uvolnění cytokinů | u CAR-T terapie a bispecifických protilátek — horečka, hypotenze |
+| imunitně podmíněné nežádoucí účinky | u checkpoint inhibitorů (kolitida, hepatitida, tyreoiditida) |
+| cena a nutnost chladového řetězce | zásadně omezují dostupnost |
+
+**Před zahájením biologické léčby vždy:** screening latentní TBC (IGRA/Mantoux + RTG), screening hepatitid B/C a HIV, vyloučit aktivní infekci; **živé vakcíny jsou během biologické léčby kontraindikované.**
+
+❓ **Doptají se:**
+- *Proč se biosimilar neregistruje jako generikum?* → Biologikum je velká, strukturně proměnlivá molekula z živých buněk — nejde vyrobit chemicky identickou kopii, jen vysoce podobnou.
+- *Co je nutné vyšetřit před zahájením anti-TNF terapie?* → Latentní tuberkulózu a hepatitidu B (riziko reaktivace).
+
+---
