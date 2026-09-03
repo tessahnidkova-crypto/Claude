@@ -4220,3 +4220,292 @@ Indikace: po odstranění žlučníku, po operaci žlučových cest, při biliá
 - *Jaký je vědecký konsenzus o účinnosti hepatoprotektiv?* → Nízká, minimální doložený přínos — je to dobré nahlas přiznat.
 
 ---
+
+## 104 · Farmaka v očním lékařství
+
+**O čem to je:** Léky na oči se podávají hlavně kapkami, ale i tak jde velká část dávky do celého těla (ne jen na oko). Klíčové téma je glaukom — nemoc s vysokým nitroočním tlakem, kterou léčíme buď tím, že tekutinu z oka lépe odvedeme, nebo že jí méně vytvoříme.
+
+**Podávání:**
+
+| Cesta | Zvláštnost |
+|---|---|
+| Topicky | kapky a masti; při postižení spojivky, rohovky, přední komory, duhovky a víček. **Až 80 % podané látky jde do celotělového oběhu** — a vstřebané léčivo se vyhne first-pass efektu v játrech (nejde přes trávicí trakt) |
+| Lokálně | intravitreálně (do sklivce), intrakamerálně (do přední komory), retrobulbárně (za oční bulvu) |
+| Systémově | |
+
+Aplikace kapek: záklon hlavy, pohled vzhůru, odtažené dolní víčko → po aplikaci 10 sekund zavřené oko; při dvou přípravcích nechat několikaminutový odstup; masti se nanáší od vnitřního koutku ven.
+
+**A) Mydriatika a cykloplegika** — vyvolávají rozšíření zornice (mydriáza) a krátkodobé ochabnutí svalu řasnatého tělíska (cykloplegie) — při vyšetření očního pozadí, chirurgickém zákroku a v diferenciální diagnostice. Terapeuticky: fenylefrin u srůstů (synechií) při zánětu duhovky, atropin u skleritidy a uveitidy.
+
+**B) Antiglaukomatika.** **Glaukom** = chronická postupující neuropatie zrakového nervu vedoucí k nevratnému poškození zraku. Rizikovým faktorem je zvýšený nitrooční tlak. Léčba je obvykle celoživotní.
+
+| Skupina | Zástupci |
+|---|---|
+| ① Zvyšují odtok komorové tekutiny | analoga prostaglandinů (latanoprost, bimatoprost) — nevýhoda: aplikace 4× denně, pozměněné vidění; miotická parasympatomimetika (pilokarpin) — pokles tlaku je dlouhodobý, málo NÚ |
+| ② Snižují tvorbu komorové tekutiny | betablokátory — kardioselektivní betaxolol, neselektivní karteolol (vyšší účinek); inhibitory karboanhydrázy — acetazolamid, brinzolamid; rychlý nástup, ale pálení po aplikaci |
+| ③ Obojím mechanismem | brimonidin — adrenergní antagonista α2, rychlý nástup |
+| ④ Hyperosmotické | u těžkého glaukomu — manitol, glycerol |
+
+**C) Oční antineovaskularizační látky** (proti nechtěnému růstu cév v oku). Nespecificky: verteporfin — proléčivo podané infuzí, aktivuje se cíleně mířeným laserem. Potlačující VEGF (vaskulární endotelový růstový faktor), podávají se do sklivce:
+
+| Léčivo | Mechanismus |
+|---|---|
+| Pegaptanib | váže volný VEGF a inaktivuje ho |
+| Ranibizumab | naváže se na VEGF a zabrání jeho vazbě na receptory |
+| Aflibercept | funguje jako "falešný" (decoy) receptor pro VEGF |
+
+**D) Umělé slzy — syndrom suchého oka.** Etiologicky různorodá nemoc; může být vyvolaná i léky (antidepresiva, antihistaminika). Čím výraznější poškození rohovky, tím vyšší viskozita a delší trvání účinku přípravku potřebuješ:
+
+| Poškození rohovky | Přípravek |
+|---|---|
+| minimální/nulové | nízká viskozita — povidon |
+| pokročilejší | deriváty celulózy — karmelóza, karbomery |
+| nejtěžší | kyselina hyaluronová |
+
+**E) Ostatní:** fluorescein — do žíly, barvivo pro diagnostiku (fluorescenční angiografie); guajazulen — protizánětlivý, antiseptický, adstringentní, podporuje hojení, preventivně u pacientů v kómatu proti vyschnutí oka; okriplazmin — do sklivce k léčbě vitreomakulární trakce.
+
+🔑 **80 % oční kapky jde do celotělového oběhu, mimo first-pass efekt — pozor na systémové NÚ i u lokálního léku.**
+
+❓ **Doptají se:**
+- *Proč je nebezpečné podceňovat systémové účinky očních kapek?* → Až 80 % dávky se vstřebá do celotělového oběhu a navíc obejde first-pass efekt v játrech.
+
+---
+
+## 105 · Drogová (léková) závislost
+
+**O čem to je:** Závislost je chronická mozková nemoc, ne slabá vůle — klíčovou roli hraje dopamin a systém odměny, který se při opakovaném užívání drogy trvale změní.
+
+**Drogová závislost** = multifaktoriální chronické relabující (znovu se vracející) onemocnění CNS.
+
+**Diagnostická kritéria — 3 a víc projevů během posledního roku:**
+1. silná touha nebo pocit puzení užívat látku (craving)
+2. potíže v kontrole užívání
+3. tělesný odvykací stav
+4. rozvinutá tolerance k účinkům
+5. postupné zanedbávání jiných zájmů ve prospěch látky
+6. pokračování v užívání i přes jasný důkaz škodlivých následků
+
+**Vznik závislosti — bio-psycho-socio-spirituální model:**
+
+| Vnější faktory | Vnitřní faktory |
+|---|---|
+| dostupnost drogy, návykový potenciál drogy, prostředí, sociální postavení, stres | genetické předpoklady, nezralost organismu, ženské pohlaví, jiná onemocnění |
+
+Mechanismy vzniku: princip posilování (reinforcement — pozitivní i negativní podněty, vlastní psychotropní efekt drogy, podmíněné podněty "cues", nepříjemný odvykací stav), impulzivita (upřednostnění malé okamžité odměny před opožděnou větší), kompulze.
+
+**Dopamin a systém odměny — jádro otázky.** **Nejvýznamnější roli hraje dopamin.** Základní anatomická osa: mezolimbicko-mezokortikální dopaminová dráha (tegmentální oblast, nucleus accumbens, prefrontální kůra).
+
+Návyková látka při prvním podání vyplaví dopamin v nucleus accumbens → aktivuje systém odměny ("high"). Návykové látky jsou vždy psychotropně účinné, tedy lipofilní (musí projít HEB). Masivní vylití dopaminu vytváří změny neodpovídající fyziologickému nastavení → při opakování poškozuje motivační a rozhodovací oblasti mozku a dlouhodobě snižuje počet dopaminových receptorů ve striatu. Po opakovaných dávkách se dopamin začne vyplavovat už při pouhém zaznamenání "cues" (podnětů spojených s drogou) — tím se vysvětluje relaps (i po dlouhé abstinenci pohled na "cue" vyvolá bažení).
+
+Syndrom závislosti: dominuje silná touha, ztráta sebeovládání a rostoucí tolerance vynucující zvyšování dávky.
+
+Škodlivé následky: poruchy duševního i tělesného zdraví, zrakové halucinace, amnestický syndrom, poškození jater, úrazy. Rizika abúzu: stres a pracovní problémy, odvykací syndrom, kriminalita, infekce (hepatitida C, HIV) při injekčním podávání, intoxikace z předávkování.
+
+Závislost vyvolávají: alkohol, opioidy a opiáty, sedativa, hypnotika, kanabinoidy, nikotin, psychodysleptika, xantiny, těkavé látky. **Závislost naopak nevyvolávají antidepresiva.**
+
+Dělení drog: "měkké" — nezpůsobují fyzickou závislost, menší rizika (kanabinoidy, LSD); "tvrdé" — poškození organismu, vysoké riziko závislosti (heroin, kokain).
+
+**Terapie.** Základem je psychická a sociální podpora. Farmakoterapie se používá na dlouhodobou substituci, zmírnění akutních příznaků odvykacího stavu, zablokování příjemného pocitu z drogy, snížení nutkání a navození nepříjemných pocitů po podání drogy.
+
+| Mechanismus | Zástupci |
+|---|---|
+| Agonisté | nikotin, metadon |
+| Parciální agonisté | buprenorfin, vareniklin |
+| Antagonisté | naloxon, naltrexon |
+| Kombinace / ovlivnění metabolismu | akamprosat / disulfiram |
+| Obecné mechanismy | agonisté α2 receptorů — snížení stresové odpovědi |
+| Jiné | vakcinace (kokainová vakcína) |
+
+Závislost na opiátech: prevence odvykacího syndromu benzodiazepiny, haloperidol a tiaprid; metadon při dlouhodobé závislosti; anticravingová léčba: metadon, buprenorfin + naloxon.
+
+🔑 **Dopamin v nucleus accumbens = jádro celého mechanismu závislosti. "Cues" po čase samy spustí dopamin → relaps.**
+
+❓ **Doptají se:**
+- *Proč hrozí relaps i po dlouhé abstinenci?* → Podmíněné podněty ("cues") spojené s drogou samy o sobě vyplaví dopamin, i bez samotné látky.
+- *Jaké léky nevyvolávají závislost?* → Antidepresiva.
+
+---
+
+## 106 · Ethylalkohol, methylalkohol
+
+**O čem to je:** Alkohol je nejrozšířenější návyková látka vůbec, s vlastní tabulkou hladin krve odpovídajících účinku. Methanol je naopak jedovatý průmyslový alkohol, kde je klíčové vědět, čím se léčí otrava (paradoxně samotným ethanolem).
+
+Alkohol je nejčastější látka vedoucí k tělesnému bažení. V ČR se závislost týká asi 230 tisíc lidí starších 15 let. Obsah: pivo 3,5–6 %, víno 10 %, destiláty 40–55 %.
+
+**Ethanol** — bezbarvá hořlavá kapalina, sedativní účinek. Vstřebává se sliznicí úst, jícnu, žaludku i střeva; měřitelná koncentrace v krvi už do 5 minut po podání ústy. Rozděluje se do veškeré tělesné vody, metabolizuje se v játrech.
+
+**Oxidaci na acetaldehyd katalyzuje alkoholdehydrogenáza za účasti NAD⁺ a enzym CYP2E1** — CYP2E1 se dá indukovat, což vede k toleranci (spojka na obecnou otázku O19).
+
+| Promile | Účinek |
+|---|---|
+| 0,2 | pocit uvolnění |
+| 0,3 | mírná euforie |
+| 0,5 | mírná porucha koordinace |
+| 1 | porucha koordinace pohybů (ataxie) |
+| 3 | stupor |
+| 4 | kóma |
+
+**Orgánové účinky:**
+
+| Systém | Účinky |
+|---|---|
+| CNS | horší schopnost učení, pozornosti, úsudku; porucha koordinace, ataxie |
+| Kardiovaskulární | rozšíření kožních cév, pocení; fibrilace síní, kardiomyopatie; stažení cév ve splanchniku; vyšší dráždivost, tepová frekvence, tlak |
+| GIT a játra | ranní nevolnost, zánět žaludku, peptický vřed; vratné zvětšení jater, alkoholická hepatitida, cirhóza; útlum ADH (hormonu, který šetří vodu — proto alkohol močopudně odvodňuje) |
+| Slinivka | zánět slinivky — alkohol stimuluje sekretin, ten zvýší množství pankreatických enzymů → autotrávení slinivky při otoku Oddiho svěrače |
+| Metabolismus | nízký cukr v krvi, metabolická acidóza |
+| Psychiatrie | psychóza, encefalopatie, demence, atrofie mozku |
+
+Pozor na lékové interakce — hypnotika, anxiolytika, antidepresiva (potenciace útlumu).
+
+**Použití ethanolu — vděčná otázka.** Ethanol má velmi omezené léčebné využití: rozpouštědlo a vehikulum při přípravě lékových forem, lokálně jako kožní dezinfekce a dezinfekce operačního pole. **Vnitřní podání je omezené jen na jedinou indikaci — otravu metanolem a etylenglykolem.**
+
+**Methanol** se používá v průmyslu i domácnostech; vstřebává se z GIT, kůže i dýchacích cest. Alkoholdehydrogenáza ho přemění na formaldehyd a dál na kyselinu mravenčí a CO₂. Formaldehyd blokuje enzymy a reaguje s bílkovinami. **Nejtoxičtější je kyselina mravenčí — poruchy vidění až oslepnutí, bradykardie, křeče, acidóza.** Odbourávání metanolu je pomalejší než ethanolu — proto se příznaky projeví se zpožděním.
+
+Léčba intoxikace: stanovit koncentraci metanolu v krvi, **podat 10% roztok ethanolu i.v.** (ethanol soutěží o stejný enzym a zpomalí tak vznik toxických metabolitů metanolu), hemodialýza, hemoperfuze, alkalizace bikarbonátem při metabolické acidóze.
+
+**Alkoholismus a odvykání.** Abstinenční syndrom: třes, pocení, nevolnost, neklid, křeče, sluchové halucinace, dezorientace, panika, nechutenství. Těžké stavy s epileptickými záchvaty nebo deliriem ohrožují život — léčba benzodiazepiny, klomethiazol.
+
+| Systém | Chronické následky |
+|---|---|
+| Nervový | alkoholická demence, periferní neuropatie, **Korsakovova psychóza** (paralýza očních svalů, ataxie, poruchy paměti) |
+| Játra a GIT | steatóza → cirhóza → karcinom jater, gastritida, chronická pankreatitida |
+| Kardiovaskulární | kardiomyopatie, arytmie, hypertenze |
+| Krev | sideroblastická a megaloblastická anemie, trombocytopenie |
+| Endokrinní | hypoglykemie, ketóza, gynekomastie, sterilita |
+| Těhotenství | fetální alkoholový syndrom, teratogenní efekt |
+
+⚠️ **Hlavním smyslem léčby je trvalá abstinence — farmakologická léčba má jen omezený účinek.** Disulfiram — blokuje aldehyddehydrogenázu, po požití alkoholu vyvolá nevolnost, zvracení, bolest hlavy; naltrexon; SSRI — snižují bažení.
+
+🔑 **Léčba otravy metanolem = ethanol i.v. (soutěží o stejný enzym). Vnitřní podání ethanolu jako léku má jen tuhle jedinou indikaci.**
+
+❓ **Doptají se:**
+- *Proč se otrava metanolem léčí podáním ethanolu?* → Ethanol soutěží se stejnou alkoholdehydrogenázou, čímž zpomalí vznik toxického formaldehydu a kyseliny mravenčí.
+- *Jaký je mechanismus disulfiramu?* → Blokuje aldehyddehydrogenázu, takže se při požití alkoholu hromadí toxický acetaldehyd a vyvolá nepříjemné příznaky.
+
+---
+
+## 107 · Konopí, kanabinoidy
+
+**O čem to je:** Marihuana a hašiš jsou formy konopí s různým podílem psychoaktivní látky THC. Tělo má vlastní systém receptorů pro podobné látky (endokanabinoidní systém), který normálně pomáhá zvládat stres.
+
+Alkaloidy z rostlin konopí setého (*Cannabis sativa*) a konopí indického (*Cannabis indica*). Podle obsahu psychoaktivního tetrahydrokanabinolu (THC): technické konopí (stavebnictví, textil, provazy) × léčebné konopí (upraveno právními předpisy).
+
+| | Co to je |
+|---|---|
+| Hašiš | pryskyřice ze žláz listů — vyšší podíl THC |
+| Marihuana | usušená rostlinná část, euforizující účinky |
+
+Užívá se kouřením, vaporizací, ústy. Pryskyřice obsahuje THC (psychogenní, psychostimulační) a CBD (kanabidiol).
+
+**Rizika:**
+- dopravní nehody — zpomalené reakce, horší koordinace
+- kardiovaskulární a bronchiální: spasmus koronárních tepen, ale bronchodilatace (na plíce naopak "uvolňuje")
+- **zhoršuje prognózu všech psychiatrických onemocnění**
+- horší imunitní odpověď, zpomalené psychomotorické tempo, horší paměť
+- **zvyšuje riziko a urychluje vznik psychózy**
+- narušuje kvalitu spermií a ovariální cyklus
+- v těhotenství: nízká porodní hmotnost, THC prochází placentou a ovlivňuje CNS plodu
+
+⚠️ **Účinná látka se hromadí v tukové tkáni** — droga je běžnými laboratorními testy prokazatelná i po jedné malé dávce a s velkým časovým odstupem.
+
+**Kanabinoidní hyperemetický syndrom** — dlouhodobé zvracení a nevolnost u dlouhodobých uživatelů. Léčba závislosti je symptomatická.
+
+**Endokanabinoidní systém** existuje přirozeně v lidském těle a pomáhá se vyrovnat s fyziologickým, biologickým i psychickým stresem. Je popsáno šest endokanabinoidů — ligandů pro kanabinoidní receptory v CNS, GIT a imunitním systému; nejznámější je anandamid.
+
+🔑 **THC zvyšuje riziko psychózy — zvlášť rizikové u lidí s psychiatrickou zátěží.**
+
+❓ **Doptají se:**
+- *Proč je marihuana prokazatelná v testech ještě dlouho po užití?* → THC je lipofilní a hromadí se v tukové tkáni.
+
+---
+
+## 108 · Halucinogeny (psychomimetika)
+
+**O čem to je:** Halucinogeny mění vnímání, myšlení a náladu, ale — na rozdíl od jiných látek působících na CNS — nevyvolávají poruchu vědomí ani amnézii. LSD je nejsilnější z nich a paradoxně nemá stanovenou smrtelnou dávku.
+
+Psychedelické látky ovlivňují vědomí, myšlení a náladu. **Nevyvolávají kvalitativní poruchy vědomí a nejsou spojeny s amnézií** — to je jejich rozlišovací znak, řekni ho. Zkoumá se pozitivní účinek mikrodávek psychedelik v terapii deprese, úzkosti, obsedantně-kompulzivní poruchy a závislosti na alkoholu a tabáku.
+
+**LSD (dietylamid kyseliny lysergové).** Nejsilnější halucinogen; agonista serotoninových 5-HT receptorů, přesný mechanismus není znám. Forma savého papíru ("tripy"), méně často tabletka ústy; aplikace ústy, injekčně, kouřením, šňupáním.
+
+Fyzické účinky: rozšířené zornice, snížená chuť k jídlu, husí kůže, pocení; sympatomimetická aktivace (vyšší tlak, tachykardie, třes). Psychické: blaženost, "spirituální osvícení", ale i "bad trip" (negativní emoce, strach, paranoia). Po 3 hodinách se rozvíjí třes, porucha koordinace, zrakové halucinace — tvary se "hroutí", zvuky jsou vnímány barevně (synestezie), změněné vnímání času. Malá dávka účinkuje až 12 h. **Nedá se jím předávkovat — nemá stanovenou smrtelnou dávku (LD50).** NÚ: flashbacky, přetrvávající porucha vnímání (zrnění, vlnění obrazu). Prudké zvyšování teploty spojené s intenzivním tancem může způsobit kardiovaskulární komplikace.
+
+**MDMA ("extáze")** — je zároveň halucinogen i stimulant, poměrně toxická. Blokuje zpětné vychytávání v podstatě všech přenašečů. Taneční droga — větší výdrž, pocit zvýšené duševní aktivity a euforie. NÚ: poruchy spánku, úzkost, impulzivita a agresivita, nevolnost, křeče, arytmie, dehydratace, hypertermie, rozpad svalové tkáně, poškození jater; neurotoxická, zvyšuje propustnost HEB a poškozuje mozek. Léčba akutní intoxikace: klidné prostředí a malá dávka benzodiazepinů.
+
+**Ostatní:**
+
+| Látka | Charakteristika |
+|---|---|
+| Psilocybin | alkaloid lysohlávek; stejné účinky jako LSD, váže se na 5-HT receptor; hrozí záměna s jinými (jedovatými) houbami |
+| Atropin, skopolamin | alkaloidy čeledi lilkovitých |
+| Kanabinoidy | vysoké dávky THC → halucinace, paranoidní představy, úzkost, panika |
+| Fencyklidin | syntetický halucinogen, antagonista NMDA receptorů; halucinace, pocit nadlidské síly a nesmrtelnosti, necítí bolest, psychóza, zuřivost, amnézie, sebevraždy |
+
+🔑 **LSD = nemá stanovenou LD50, nedá se jím předávkovat smrtelně. Halucinogeny obecně = na rozdíl od jiných drog nevyvolávají amnézii ani poruchu vědomí.**
+
+❓ **Doptají se:**
+- *Dá se předávkovat LSD?* → Ne, nemá stanovenou smrtelnou dávku (LD50).
+- *Čím se halucinogeny odlišují od jiných látek působících na CNS?* → Nevyvolávají poruchu vědomí ani amnézii.
+
+---
+
+## 109 · Stimulancia `[doplněno z vypracovaných otázek — v podrobné Specce II chybí]`
+
+**O čem to je:** Stimulancia jako kokain, amfetaminy a MDMA mají společný princip — všechny zvýší množství "dobré nálady" přenašečů (dopamin, noradrenalin, serotonin) v mozku, jen různým mechanismem. Zajímavé je, že některé z nich (amfetamin, metylfenidát) jsou zároveň i legální léky.
+
+**Společný jmenovatel — řekni ho hned na začátku:** všechna stimulancia zvyšují koncentraci monoaminů (dopamin, noradrenalin, serotonin) v synaptické štěrbině — buď vyšším uvolňováním (amfetaminy, MDMA), nebo blokádou zpětného vychytávání (kokain). Odtud plynou všechny účinky i NÚ.
+
+**MDMA (extáze)** = 3,4-metylendioxy-N-metylamfetamin, entaktogen — strukturně podobný halucinogenům i amfetaminu. Mechanismus: stimuluje vyplavení serotoninu, noradrenalinu i dopaminu; agonista 5-HT, α, D, H1, M1,2 receptorů. Podává se ústy (méně často šňupáním), nástup 30–60 min, trvá 3–4 h (vrchol za 2 h), dávka 50–150 mg; má nižší riziko závislosti než jiná stimulancia.
+
+| | Účinky |
+|---|---|
+| Psychické | euforie, pocit energie, sebejistoty a sounáležitosti; snazší komunikace, vyšší empatie; zesílené vnímání barev a zvuků, pseudohalucinace |
+| Fyzické | třes, napětí žvýkacích svalů, rozšířené zornice, potíže se vymočit; tachykardie, hypertermie, dehydratace; nechutenství, méně potřeby spánku, sucho v ústech, nevolnost |
+| Negativní | při vysokých dávkách nevratné poškození mozku — neurotoxicita |
+
+**Kokain — centrální stimulancium.**
+
+| Forma | Vlastnosti |
+|---|---|
+| Kokain hydrochlorid | bílý prášek rozpustný ve vodě; nosem, i.v. |
+| Volná báze ("crack") | vzniká neutralizací hydrochloridu vodou s jedlou sodou (odtud "praskání" při kouření); kouřením → rychlé vstřebání; oxidací vzniká methylekgonidin — kardio- a hepatotoxický |
+
+Běžná dávka 0,2–0,4 g.
+
+**Mechanismus — tři složky, ne jedna:** blokáda zpětného vychytávání dopaminu a noradrenalinu, blokáda Na⁺ kanálů, agonista σ-receptorů. Z toho plyne: lokální anestetický efekt (Na⁺ kanály), vazokonstrikce, euforie (nejintenzivnější po i.v. nebo kouření cracku). **Při opakovaném podání cracku v krátkých intervalech rychle vzniká závislost.**
+
+| Předávkování | Projevy |
+|---|---|
+| Mírné | neklid, závratě, třes, rozostřené vidění |
+| Těžké | vysoká teplota, vysoký tlak, halucinace, paranoia, formikace (pocit mravenčení pod kůží), křeče, komorové arytmie, krvácivé mrtvice, spasmy koronárních tepen → angina pectoris, infarkt, trombóza koronárních nebo mozkových cév |
+| Chronická | atrofie nosní sliznice se ztrátou čichu → nekróza až perforace nosní přepážky; poškození myokardu → srdeční selhání |
+
+Prochází placentou — spontánní potraty, předčasné porody, malformace (srdce, lebka).
+
+**Amfetaminy — centrální stimulancia.** Jsou to nepřímá sympatomimetika: zvyšují uvolňování dopaminu, noradrenalinu a serotoninu a zároveň blokují jejich zpětné vychytávání.
+
+Účinky: zlepšená nálada, euforie, pocit zvýšené fyzické síly a mentální kapacity, vyšší sebedůvěra, erotogenní efekt; snížená potřeba spánku a jídla; psychotické stavy — halucinace, paranoidní představy podobné paranoidní schizofrenii; hypertenze, arytmie, selhání ledvin, výrazná neurotoxicita.
+
+**Typ závislosti — přesně tuhle formulaci čekají: mírná fyzická závislost, ale silná psychická.** Abstinenční příznaky: dysforie, bažení, únava, spavost, zvýšená chuť k jídlu, deprese — jsou to zrcadlový obraz účinků samotné drogy.
+
+**Terapeutické využití — amfetaminy jsou i léky:**
+
+| Léčivo | Použití |
+|---|---|
+| Amfetamin | v některých zemích léčba ADHD |
+| Metylfenidát | léčba ADHD |
+| Modafinil | působí podobně jako metylfenidát; léčba narkolepsie |
+
+⚠️ **Efedrin a pseudoefedrin** — amfetaminu podobné látky, zneužívané jako výchozí látka pro výrobu metamfetaminu (pervitinu). **Xantiny (kofein)** patří mezi stimulancia (viz O111 Metylxantiny).
+
+**Dopaminová teorie psychóz** — psychózu lze vyvolat psychostimulancii, která jsou agonisty dopaminu (amfetamin, meskalin, LSD). Proto amfetaminová psychóza připomíná paranoidní schizofrenii.
+
+⚠️ **Pro tebe jako zubařku:** MDMA typicky vyvolává bruxismus a trismus (v pramenech popisováno jako "napětí žvýkacích svalů") a sucho v ústech u všech stimulancií zvyšuje kazivost. `[obecné znalosti]`
+
+🔑 **Všechna stimulancia zvyšují monoaminy — amfetaminy uvolňováním, kokain blokádou vychytávání. Amfetamin/metylfenidát/modafinil jsou zároveň legální léky.**
+
+❓ **Doptají se:**
+- *Jaký je typ závislosti na amfetaminech?* → Mírná fyzická, ale silná psychická.
+- *Proč amfetaminová psychóza připomíná schizofrenii?* → Obě souvisí s nadměrnou dopaminovou aktivitou (dopaminová teorie psychóz).
+
+---
