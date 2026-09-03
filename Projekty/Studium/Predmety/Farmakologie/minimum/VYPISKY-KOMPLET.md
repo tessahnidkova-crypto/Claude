@@ -3270,3 +3270,153 @@ NÚ: krvácení — **antidotum protamin sulfát**; **heparinem indukovaná trom
 - *Co je antidotum dabigatranu?* → Idarucizumab.
 
 ---
+
+## 78 · Fibrinolytika, trombolytika, hemostatika
+
+**O čem to je:** Zatímco antikoagulancia z O76–77 brání vzniku nového trombu, fibrinolytika (trombolytika) rozpouštějí trombus, který **už vznikl** — typicky se používají při čerstvé mrtvici. Druhá polovina otázky je opačný extrém — hemostatika, která naopak krvácení zastavují, a je tu i praktický zubařský detail (lokální hemostatika po extrakci).
+
+**Dělení antitrombotik podle typu trombu — řekni ho hned:** protidestičkové (antiagregační) látky → prevence a léčba **arteriálního** trombu; antikoagulancia → prevence a léčba **venózního** trombu; **trombolytika → rozpouštění už vzniklého trombu nebo embolu**.
+
+**Fibrinolytika = trombolytika** rozpouštějí už vzniklý trombus. Mechanismus: aktivují přeměnu plazminogenu na plazmin, který rozloží fibrin na degradační produkty. Plazminogen na plazmin mohou aktivovat: tkáňový aktivátor (tPA), urokináza (uPA), kalikrein.
+
+**Altepláza** — rekombinantní tkáňový aktivátor plazminogenu, enzym, který se přirozeně vyskytuje v těle. **Retepláza, tenektepláza** — rekombinantně vyráběné obdoby alteplázy s rychlejším nástupem a delším účinkem, vyšší cena. Nejčastější indikace: léčba časné ischemické cévní mozkové příhody.
+
+**Antifibrinolytika** naopak fibrinolýzu blokují — inhibují fibrinolytické proteázy a reverzibilně se váží na plazmin, takže plazminogen se nepřemění na plazmin a fibrinová síť se nerozpustí. Použití: zástava krvácení způsobeného přirozenou nebo lékem navozenou fibrinolýzou. Proti aktivátorům plazminogenu: kyselina tranexamová, kyselina aminokapronová, kyselina paraaminometylbenzoová. Proti už aktivnímu plazminu: aprotinin.
+
+**Hemostatika — dělení podle fáze hemostázy** (viz tři fáze v O76). Hemostatika = léky podporující zástavu krvácení.
+
+| Fáze | Léčiva |
+|---|---|
+| A) Destičková | usnadňují přilepení destiček a tvorbu první "zátky". Etamsylát — účinný na kapilární krvácení, dá se i.v., i.m. i ústy, používá se při chirurgických výkonech |
+| B) Destičková + koagulační | hemostatika pro místní účinek a pro systémový účinek (viz níže) |
+| C) Fibrinolýza | antifibrinolytika — tlumí nadměrné rozpouštění už hotové zátky |
+
+**Hemostatika pro místní účinek** — funkce: podporují slepení destiček, usnadňují srážení, působí mechanickým tlakem, nasávají tekutinu.
+
+| Typ | Zástupci |
+|---|---|
+| Tkáňová adheziva | vyvolávají tvorbu fibrinové sraženiny přímo v místě aplikace: fibrinové lepidlo (z koncentrovaného lidského fibrinogenu, aprotininu a trombinu); trombinové lepidlo (trombin + želatina/kolagen — na popáleniny, kapilární krvácení); kolagen a atelokolagen; kolagenová houbička; implantát z kolagenové houby s gentamicinem; **oxycelulóza** — nabobtná v kontaktu s tekutinou a vytvoří zátku, urychlí přilnavost a shlukování destiček; chitosan, kyanoakrylát, glutaraldehydový tmel |
+| Adsorbenty | nasávají vodu a zvýší koncentraci krevních buněk a srážecích faktorů přímo v ráně; rostlinné polysacharidy (škroby) — v kontaktu s krví se mění na gel a vytvoří mechanickou bariéru |
+| Léky s vazokonstrikčním účinkem | felypresin — obdoba vazopresinu, vyvolá silnou, ale krátkou vazokonstrikci |
+
+⚠️ **Pro tebe jako zubařku je tenhle odstavec zlatý.** Oxycelulóza a kolagenové houbičky jsou standardní lokální hemostatika **po extrakci zubu**, a felypresin je vazokonstrikční přísada v **prilokainovém dentálním anestetiku** — alternativa k adrenalinu tam, kde je adrenalin nevhodný (např. srdeční pacient).
+
+**Hemostatika pro systémový účinek** (substituce chybějících faktorů):
+
+| Skupina | Klíčové body |
+|---|---|
+| Koagulační faktory | **hemofilie A** — chybí faktor VIII (antihemofilický); **hemofilie B** — chybí faktor IX (Christmasův). Projev: nadměrné krvácení typicky do velkých kloubů a svalů — bolest, otok, porucha hybnosti. Dřív se léčilo plnou krví nebo zmraženou plazmou (nízký obsah faktorů → častá úmrtnost); dnes rekombinantní přípravky s prodlouženým poločasem. Dál fibrinogen (faktor I) a koncentráty protrombinového komplexu při dlouhodobé léčbě warfarinem |
+| Vitamin K | vyskytuje se v rostlinách, nezbytný pro tvorbu faktorů II, VII, IX, X; podává se ústy, jeho vstřebávání z GIT vyžaduje žlučové kyseliny. **Je antagonista warfarinu** — soutěží s ním o reduktázu vitaminu K. Indikace: prevence/léčba krvácení po warfarinu, nedostatek vitaminu K, u dětí prevence novorozeneckého krvácení |
+| Protamin sulfát | antidotum heparinu — tvoří s ním neúčinné komplexy |
+| Antidota DOAC | idarucizumab, andexanet alfa, ciraparantag — pro urgentní situace během antikoagulační léčby, kdy je nutné rychle obnovit srážlivost: život ohrožující krvácení, urgentní operace |
+
+⚠️ **Hemofilie je VROZENÝ (dědičný) defekt, ne získaný** — pozor, je to jedna z chyb, kterou obsahují některé studentské materiály. Získané poruchy srážlivosti jsou třeba ty způsobené warfarinem.
+
+🔑 **Fibrinolytika rozpouštějí trombus, hemostatika ho naopak podporují — dva zcela opačné cíle v jedné otázce.**
+
+❓ **Doptají se:**
+- *Jaká hemostatika používáš po extrakci zubu?* → Oxycelulóza, kolagenová houbička.
+- *Co je felypresin a k čemu ho použiješ?* → Vazokonstrikční přísada v dentálním anestetiku, alternativa adrenalinu.
+- *Je hemofilie vrozená nebo získaná?* → Vrozená (dědičná).
+
+---
+
+## 79 · Antiagregancia
+
+**O čem to je:** Protidestičkové léky brání srážení v tepnách (na rozdíl od antikoagulancií, které řeší žíly) — nejznámější je aspirin v nízké dávce, který nevratně vyřadí destičky z provozu na celou dobu jejich života.
+
+**Trombóza** vzniká nepřiměřenou aktivací hemostázy — je nejčastější příčinou nemocnosti a úmrtnosti, jak v tepnách, tak v žilách.
+
+| | Charakteristika |
+|---|---|
+| Arteriální trombóza | vzniká rupturou aterosklerotického plátu; příčina většiny infarktů a mozkových příhod; riziko roste při fibrilaci síní |
+| Venózní tromboembolismus (hluboká žilní trombóza + plicní embolie) | třetí nejčastější cévní příčina srdeční příhody a mozkové příhody; začíná v dolní končetině a šíří se do žil blíž trupu — část trombu se může odtrhnout → embolus → plicní embolie |
+
+**Kyselina acetylsalicylová (aspirin).**
+
+**Mechanismus — vysvětli rovnováhu, ne jen "blokuje COX".** ASA mění rovnováhu mezi **TXA₂** (uvolňují ho destičky, podporuje jejich shlukování) a **PGI₂** (tvoří ho endotel cév, shlukování naopak brzdí). Mechanismus: nevratně **acetyluje** destičkovou COX-1, která je nezbytná pro tvorbu TXA₂. Protože destička nemá jádro a nedokáže si vyrobit novou COX-1, **antiagregační efekt trvá až 5 dní** — dokud tělo tyto konkrétní destičky nenahradí novými.
+
+Indikace: prevence trombózy po infarktu a při dalším kardiovaskulárním riziku. NÚ: krvácení při invazivních výkonech — **to je tvoje téma při extrakcích zubů**. KI: současné podání ibuprofenu, který soutěží s aspirinem o stejné vazebné místo na COX a tím jeho efekt ruší.
+
+**Blokátory receptoru P2Y12** nevratně blokují shlukování destiček zprostředkované ADP receptorem typu P2Y.
+
+| Léčivo | Klíčové body |
+|---|---|
+| Klopidogrel | proléčivo (musí se aktivovat v játrech); nástup do 4 h, účinek trvá 72 h; riziko rezistence kvůli genetickému polymorfismu enzymů CYP; kombinuje se s aspirinem |
+| Prasugrel | také proléčivo, ale nástup do 30 min, méně ovlivněný lékovými interakcemi |
+| Kangrelor, tikagrelor | **reverzibilní** blokátory P2Y bez nutnosti aktivace v játrech, nástup v řádu minut |
+
+**Protidestičkové látky podávané i.v.:** dipyridamol — zvyšuje hladinu vlastního cAMP a PGI₂, silně antiagregační, dnes není k dispozici; abciximab — monoklonální protilátka proti glykoproteinovému receptoru, efekt trvá 48 h; epoprostenol (PGI₂) — brání shlukování a je účinný vazodilatans, na prevenci srážení u pacientů na hemodialýze, když je heparin kontraindikován.
+
+🔑 **Aspirin = nevratný, efekt na celou dobu života destičky (~5 dní). P2Y12 blokátory = reverzibilní nebo nevratné podle látky.**
+
+❓ **Doptají se:**
+- *Proč trvá antiagregační efekt aspirinu tak dlouho (5 dní)?* → Nevratně acetyluje COX-1 a destička bez jádra si ji nedokáže znovu vyrobit — musí se nahradit novými destičkami.
+- *Proč se ibuprofen nekombinuje s aspirinem kvůli antiagregačnímu efektu?* → Kompetuje o stejné vazebné místo na COX, takže ruší nevratnou vazbu aspirinu.
+
+---
+
+## 80 · Inzulin, jeho analoga a glukagon
+
+**O čem to je:** Inzulin a glukagon jsou dva hormony slinivky, které dělají přesný opak — inzulin snižuje hladinu cukru v krvi, glukagon ji zvyšuje. Otázka pokrývá typy inzulinu, jak se podává a kdy hrozí komplikace.
+
+**Inzulin** vyrábí β-buňky slinivky; dospělý člověk ho vyprodukuje asi 20–40 IU denně. Je to polypeptid ze dvou řetězců aminokyselin spojených disulfidickými můstky; při jeho vzniku se odštěpí **C-peptid**, jehož hladina je dobrým ukazatelem toho, kolik **vlastního (endogenního)** inzulinu tělo tvoří (na rozdíl od injikovaného inzulinu, který C-peptid neobsahuje).
+
+Nalačno se tvoří jen minimálně (bazální sekrece). Nejsilnějším podnětem pro sekreci je glukóza, dál i volné mastné kyseliny a aminokyseliny. Cílové tkáně: kosterní sval, tuková tkáň, játra — inzulin otevře membránové transportéry pro glukózu (GLUT4) přes inzulinové receptory a umožní jí vstup do buňky. Antagonisté inzulinu: adrenalin, glukagon, růstový hormon, kortizol. Chybějící zvýšení sekrece je typický časný příznak rozvíjejícího se diabetu 2. typu.
+
+Použití: diabetes 1. typu — intenzifikovaný inzulinový režim, kde se dávají přednost **inzulinovým analogům** před humánním inzulinem (lepší farmakokinetika i dynamika); u diabetu 2. typu v pozdějších fázích, po selhání diety a perorálních antidiabetik.
+
+⚠️ **Inzulin posouvá draslík dovnitř buněk — nitrožilní podání glukózy s inzulinem se používá v urgentní medicíně na snížení vysokého draslíku.** Oblíbená doplňující otázka.
+
+| Typ podle původu | Charakteristika |
+|---|---|
+| Zvířecí | z hovězích nebo vepřových slinivek; nevýhodný farmakodynamický profil; hovězí se kvůli riziku BSE (nemoci šílených krav) nepoužívá vůbec |
+| Humánní (HM) | vyrobený rekombinantní technologií pomocí *E. coli*; polárnější než zvířecí, rychleji se vstřebává, kratší účinek |
+| Analoga | biosyntetické varianty s upraveným pořadím aminokyselin a jinou farmakokinetikou |
+
+Kategorie: krátkodobý / dlouhodobý + premixované. Nejdůležitější léčebný režim je **bazál-bolus** (dlouhodobý "základ" + krátkodobé "bolusy" k jídlu), premixy se hodí u pacientů s horší spoluprací.
+
+**Farmakokinetika:** v GIT by ho rychle rozložily proteázy (je to bílkovina) → musí se podávat parenterálně, nejčastěji pod kůži (i.v. jen v nemocnici na JIP). Vstřebávání z podkoží se hodně liší člověk od člověka podle prokrvení, typu inzulinu a místa vpichu (z břicha rychleji než ze stehna). Podaný (exogenní) inzulin se z víc než 60 % odbourá v ledvinách, vlastní (endogenní) hlavně v játrech.
+
+NÚ: hypoglykemie, lokální reakce, vzácně lipodystrofie (změny tukové tkáně v místě vpichu). Interakce: sulfonylurea zesiluje efekt i riziko hypoglykemie; nižší potřeba při selhávání ledvin; **betablokátory mohou maskovat příznaky rozvíjející se hypoglykemie**; nižší účinek při stresu, sepsi, léčbě kortikoidy nebo sníženou funkcí štítné žlázy. Aplikační formy: inzulinové stříkačky (1 dílek = 1 IU), inzulinová pera, inzulinové pumpy — kontinuálně dávkují inzulin podle glykemie z čidla, nevýhody: cena, časté měření, vyšší riziko kožní infekce.
+
+**Glukagon** vyrábí α-buňky slinivky, je fyziologickým protivníkem inzulinu. Podnětem k jeho vylučování je výrazný pokles cukru a mastných kyselin v krvi; sekrece stoupá při hladovění, zvýšených nárocích svalů a při horečce. Zvyšuje hladinu glukózy v krvi rozkladem glykogenu a novotvorbou glukózy v játrech. **Léčba hypoglykemie: glukagon i.m.** — vhodný pro rychlou reakci i laikem (např. rodinným příslušníkem diabetika). Biologická dostupnost 100 %, poločas jen 5–6 minut a podobně rychle nastupuje účinek. NÚ: nevolnost až u 30 % lidí. KI: feochromocytom. Neúčinkuje u pacientů s nedostatkem jaterního glykogenu — hladovění, nedostatečnost nadledvin, hypoglykemie z alkoholu (protože pak není z čeho glukózu uvolnit). Po probuzení musí postižený doplnit sacharidy jídlem, jinak hrozí návrat hypoglykemie.
+
+🔑 **Inzulin = snižuje cukr, potřebuje injekci. Glukagon = zvyšuje cukr, léčba hypoglykemie, i.m. i laikem.**
+
+❓ **Doptají se:**
+- *Proč se inzulin nedá podat ústy?* → Je to bílkovina, GIT by ji rozložil trávicími enzymy dřív, než by se stihla vstřebat.
+- *Proč se glukagon nedá při hypoglykemii z alkoholu nebo hladovění?* → Chybí zásoby jaterního glykogenu, ze kterého by glukagon uvolnil glukózu.
+
+---
+
+## 81 · Perorální antidiabetika (PAD)
+
+**O čem to je:** Léky na cukrovku 2. typu, kterou se dá léčit i bez injekcí — protože u tohoto typu tělo inzulin ještě tvoří, jen ho buď nedokáže využít (rezistence), nebo ho postupně tvoří míň (selhávající sekrece). Podle toho, který problém převažuje, se volí jiná strategie. Metformin je dnes lék první volby prakticky pro všechny.
+
+**Diabetes** = soubor nemocí definovaných zvýšenou hladinou cukru v krvi; cílem léčby je snížit nemocnost a úmrtnost tím, že se glykemie vrátí co nejblíž k normálu. **PAD jsou základ léčby u diabetu 2. typu**, ale inzulin se často stává nutným i tam, protože vlastní sekrece inzulinu je zpočátku zvýšená, ale postupně klesá.
+
+**Dva fenotypy diabetu 2. typu — z nich plyne individuální volba léčby:**
+- **Inzulinová rezistence** (genetická porucha přenosu signálu inzulinu, metabolické příčiny, protilátky proti inzulinu) — vysoká glykemie **nalačno**, po jídle stoupá jen málo, protože nadměrná sekrece inzulinu zatím kompenzuje necitlivost tkání.
+- **Selhávající sekrece inzulinu** — typicky vysoká glykemie **po jídle** (postprandiálně).
+
+| Skupina | Klíčové body |
+|---|---|
+| Deriváty sulfonylurey | stimulují sekreci inzulinu z B-buněk — vyžaduje zachovalou schopnost slinivky vylučovat inzulin. Problém: sekreci zvýší i při už nízké glykemii → vysoké riziko hypoglykemie; další NÚ: přibírání na váze. Účinek posiluje kombinace se sulfonamidy, kumarinovými antikoagulancii, inhibitory MAO. Dnes se používají méně, jsou levné — výhoda hlavně v rozvojových zemích |
+| Metformin (biguanidy) | prokazatelně snižuje nemocnost i úmrtnost u obézních diabetiků 2. typu → **lék první volby na zahájení léčby**. Kombinuje se se sulfonylureou, glitazony, gliptiny, glifloziny i inzulinem. Důležité místo účinku je **střevní stěna** — zpomaluje vstřebávání glukózy; zvyšuje citlivost tkání k inzulinu; mírně snižuje hmotnost (potlačuje chuť k jídlu), volné mastné kyseliny, LDL i triglyceridy. NÚ: trávicí potíže, průjem (lze zmírnit retardovanou formou) |
+| Glitazony — pioglitazon | zvyšuje citlivost tkání k inzulinu, snižuje inzulinovou rezistenci, tvorbu glukózy v játrech, LDL a mírně tlak; chrání B-buňky slinivky tím, že zpomaluje jejich sekreční zátěž → oddaluje nutnost přejít na intenzivnější léčbu. Poločas 5–6 h, aktivní metabolity až 23 h. NÚ: zadržování tekutin, otoky, srdeční selhávání, přírůstek hmotnosti. KI: srdeční selhání, selhávání jater, **karcinom močového měchýře** (pioglitazon je podezřelý, že ho podporuje). Plný účinek se rozvine až po půl roce léčby |
+| Antidiabetika využívající inkretiny — gliptiny | inkretiny = hormony ze střevních buněk, nejdůležitější je **GLP-1**: zvyšuje sekreci inzulinu, snižuje sekreci glukagonu a tlumí chuť k jídlu. Efekt je "glukóza-dependentní" — projeví se jen při vysoké glykemii, ne při normální nebo nízké → **hypoglykemie prakticky nehrozí**. Navíc chrání B-buňky před odumíráním a má ochranný efekt na srdce. GLP-1 běžně odbourává enzym DPP-4 — gliptiny ho blokují, čímž prodlouží účinek vlastního GLP-1 |
+| Glifloziny (inhibitory SGLT-2) | blokují SGLT2 v ledvinách → víc glukózy odchází do moči (glykosurie); efekt závisí na glykemii → riziko hypoglykemie je malé. V podstatě fungují jako osmotická diuretika — snižují tlak i hmotnost. NÚ: časté močení, dehydratace, pokles tlaku při vstávání, **mykotické infekce genitálu**, ketoacidóza. Efekt nezávisí na inzulinu ani jeho receptoru → dá se použít v kterémkoli stadiu nemoci, funguje i u pacientů, kteří nedodržují dietu; nově i při léčbě srdečního selhání; jen malý efekt při selhávání ledvin. Selektivní: dapagliflozin, empagliflozin; semiselektivní (blokují i SGLT1): kanagliflozin — navíc sníží vstřebávání glukózy ze střeva, ale způsobuje trávicí potíže |
+
+> ⚠️ **Laktátová acidóza po metforminu — nejzávažnější věc celé otázky.** Vzniká skoro vždy jen při nedodržení kontraindikací, hlavně **selhávání ledvin**. KI: alkohol a obecně vše, co zvyšuje tvorbu laktátu (nedostatek kyslíku), akutní selhání ledvin, závažné srdeční nebo jaterní selhávání. **Funkce ledvin je nutné kontrolovat aspoň jednou ročně. Úmrtnost laktátové acidózy je dodnes kolem 50 %.**
+
+Fixní kombinace: s metforminem (metformin + sulfonylurea, metformin + pioglitazon), s inkretinovými léky (gliptin + metformin, lixisenatid + inzulin glargin).
+
+🔑 **Metformin = lék první volby, riziko laktátové acidózy hlavně při selhání ledvin. Gliptiny/glifloziny = nízké riziko hypoglykemie, protože závisí na aktuální glykemii.**
+
+❓ **Doptají se:**
+- *Proč je metformin lékem první volby?* → Prokazatelně snižuje mortalitu a morbiditu, nezpůsobuje hypoglykemii ani přibírání na váze.
+- *Jaké je nejzávažnější riziko metforminu a kdy hrozí nejvíc?* → Laktátová acidóza, hlavně při nerespektování kontraindikace (selhávání ledvin).
+- *Proč u gliptinů a gliflozinů prakticky nehrozí hypoglykemie?* → Jejich účinek závisí na aktuální hladině glukózy — při normální/nízké glykemii se neprojeví.
+
+---
