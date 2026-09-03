@@ -1667,3 +1667,465 @@ Vysoká cílová specificita (méně "vedlejších" zásahů), účinnost tam, k
 - *Co je nutné vyšetřit před zahájením anti-TNF terapie?* → Latentní tuberkulózu a hepatitidu B (riziko reaktivace).
 
 ---
+
+# ČÁST 2 — SPECIÁLNÍ FARMAKOLOGIE I (36–88)
+
+**Zdroj:** `specka1-podrobna-cast1.pdf` + `specka1-podrobna-cast2.pdf` (posun číslování zdroje +4, oficiálně 36–87), otázka 88 Makrolidy `[doplněno]` z obecných znalostí — obojí zdroje ji nemají. Chyby ve zdroji, které jsem opravil (viz `ustni/STAV-specka1.md`), jsou označené ⚠️ **Chyba ve zdroji**.
+
+## 36 · Cholinergní přenos vzruchu
+
+**O čem to je:** Vegetativní (autonomní) nervový systém (VNS) řídí věci, na které nemyslíš — tep, trávení, pocení. Má dvě větve, které fungují proti sobě jako plyn a brzda. Tahle otázka je o té "brzdě" (parasympatiku) a o tom, přes jaký receptor a jakého přenašeče vůbec funguje.
+
+**VNS = sympatikus + parasympatikus**, spolu s hormonálním systémem je to hlavní regulátor toho, co tělo dělá automaticky. Cesta signálu je vždycky stejná: **z mozkového kmene nebo míchy → pregangliové vlákno → ganglion (přepojovací "uzlík") → postgangliové vlákno → cílový orgán.** Přenašeč (neurotransmiter) se skladuje v drobných váčcích (vezikulách) v zakončení nervu, uvolní se ven exocytózou a naváže se na receptor na druhé straně.
+
+Sympatikus a parasympatikus se dají snadno splést, tak je porovnání v tabulce — a hned vysvětlené, ne jen vyjmenované:
+
+| | Sympatikus | Parasympatikus |
+|---|---|---|
+| Odkud vlákna vycházejí | hrudní a bederní mícha (**thorakolumbální**) | mozkový kmen a křížová mícha (**kraniosakrální**) |
+| Kdy se aktivuje | při zátěži — trauma, strach, zima, fyzická námaha, nízký cukr | v klidu, kdy tělo staví zásoby (anabolismus) |
+| Co dělá | zvyšuje tlak, mobilizuje energii pro "útok nebo útěk" | udržuje rovnováhu, trávení, vylučování |
+| Jak je rozvětvený | difúzně — jedno vlákno ovlivní víc orgánů najednou | cíleně — jde jen do jednoho konkrétního orgánu |
+| Heslo | *fight or flight* | *rest and digest* |
+
+**Kde všude v těle přenáší signál zrovna acetylcholin (ACh)** (i když jde o "acetylcholinový", ne "cholinergní" systém obecně — tenhle přenašeč není jen v parasympatiku):
+- na **nervosvalové ploténce** (odtud jde signál ze svalu ke kontrakci),
+- v **pregangliových vláknech obou větví** (sympatiku i parasympatiku — v gangliu se totiž vždycky přepojuje přes ACh, bez ohledu na to, co je za ním),
+- výjimečně i v **postgangliových vláknech sympatiku k potním žlázám** — tohle je záměrná odchylka od pravidla "sympatikus = noradrenalin" a zkoušející ji rád testuje,
+- v **dřeni nadledvin** (tam ACh spouští uvolnění adrenalinu),
+- a v celém **parasympatiku na postgangliových vláknech**.
+
+**Dva typy receptorů pro ACh** fungují úplně jinak:
+- **Nikotinové (N)** — iontový kanál, který se přímo otevře po navázání ACh → dovnitř proudí Na⁺/K⁺ → **rychlá** depolarizace. Jsou v gangliích a na nervosvalové ploténce.
+- **Muskarinové (M)** — nejsou iontový kanál, ale receptor napojený na G-protein → aktivuje druhé posly (IP₃, DAG, cAMP) → **pomalejší**, ale komplexnější odpověď. Podtypy M1–M5 mají různé umístění a efekt:
+
+| Receptor | Kde | Co dělá |
+|---|---|---|
+| M1 | CNS, žlázy | podporuje kognitivní funkce, zvyšuje žaludeční a slinnou sekreci |
+| M2 | **srdce**, CNS, hladké svaly | zpomaluje SA uzel, snižuje sílu stahu síní i komor, zpomaluje vedení v AV uzlu |
+| M3 | exokrinní žlázy, hladké svaly, endotel | zvyšuje sekreci a pohyb GIT, uvolňuje svěrače, zužuje zorničku (mióza), rozšiřuje cévy, stahuje průdušky |
+| M4 | CNS, plíce | ovlivňuje pohyb, moduluje iontové kanály |
+| M5 | CNS | ovlivňuje dopaminový systém |
+
+🔑 **Nikotinové receptory = rychlý iontový kanál, muskarinové = pomalejší G-protein.** Sympatikus a parasympatikus se přepojují v gangliu vždycky přes acetylcholin — teprve za gangliem se sympatikus přepne na noradrenalin.
+
+❓ **Doptají se:**
+- *Kde je ve sympatiku výjimka a používá se acetylcholin místo noradrenalinu?* → postgangliová vlákna k **potním žlázám**.
+- *Jaký je rozdíl mezi N a M receptorem mechanismem?* → N = iontový kanál (rychle), M = G-protein a druhý posel (pomaleji).
+
+---
+
+## 37 · Přímá cholinomimetika
+
+**O čem to je:** Cholinomimetika jsou léky, které "napodobují" acetylcholin — buď se přímo nalepí na jeho receptor (téma téhle otázky), nebo nepřímo zabrání jeho odbourání (otázka 38). Efekt je většinou jako "zapnutý parasympatikus navíc".
+
+**Přímá cholinomimetika = agonisté, kteří se váží přímo na M i N receptory** stejně jako přirozený ACh. Většina z nich převažující měrou stimuluje **M receptory → efekt jako aktivovaný parasympatikus** (proto se jim říká i parasympatomimetika). Některé navíc dráždí i **gangliové N receptory**, což aktivuje sympatikus i parasympatikus zároveň a spustí i uvolnění adrenalinu z nadledvin; některé působí i na **N receptorech nervosvalové ploténky** a v CNS.
+
+**Samotný acetylcholin se v klinické praxi nepoužívá** — po nitrožilním podání ho okamžitě rozloží enzym acetylcholinesteráza (AChE) v synaptické štěrbině (rozloží ho na cholin + acetát). Proto se v medicíně používají buď **syntetické estery cholinu**, které jsou vůči AChE odolnější, nebo **přírodní alkaloidy**.
+
+Efekt acetylcholinu záleží na dávce:
+
+| Dávka | Efekt |
+|---|---|
+| nízká — převažují M receptory | zúžení zorničky (mióza), pokles tlaku přes vazodilataci (přes druhého posla NO), zpomalení srdce, stažení průdušek, zrychlení střevní pasáže a povolení svěračů, víc slin a slz, stažení močového měchýře |
+| vyšší — přidávají se N receptory | smíšená aktivace obou větví VNS v gangliích |
+| v CNS (M i N) | zlepšení kognitivních funkcí a nálady |
+
+**Muskarin a otrava houbami.** Muskarin je izolován z mochomůrky červené, ale víc ho je v houbách rodu vláknice. Během pár minut po požití: nevolnost, zvracení, průjem, sliny, slzy, pocení, zúžená zornička, stažené průdušky, pomalé srdce. Léčba je symptomatická (při křečích diazepam) a **antidotum je atropin**, protože ten blokuje právě M receptory, na které muskarin útočí.
+
+**Konkrétní léčiva:**
+
+| Látka | Co je na ní důležité |
+|---|---|
+| Karbachol | odolný vůči rozkladu AChE → dlouhý účinek; léčba glaukomu |
+| Betanechol | vzácně, projímadlo, retence moči |
+| Cevimelin | selektivní na M3, zvyšuje tvorbu slin a slz |
+| Pilokarpin | z listů tropických keřů, mióza a léčba glaukomu, zvyšuje sekreci slin |
+| Arekolin | působí na M i N zároveň, centrálně stimulační; složka betelu — způsobuje červené sliny a **ničí zubní sklovinu, černý chrup** |
+| Nikotin | alkaloid tabáku, viz níže |
+
+⚠️ **Přímo tvoje obor jako budoucí zubařky:** cevimelin a pilokarpin se používají na **xerostomii** (suchost v ústech, typicky u Sjögrenova syndromu), arekolin/betel je učebnicová příčina zničené skloviny a černého chrupu.
+
+**Nikotin** působí na S i PS gangliích, v CNS a na nervosvalové ploténce: zrychlí srdce, zvedne tlak, zrychlí střeva, **zvýší sliny, pot a průduškovou sekreci**, uvolní adrenalin z nadledvin a ADH z hypofýzy, spouští zvracení. V nízké dávce na CNS: euforie, uvolnění, lepší pozornost a učení. Ve vysoké dávce: křeče, zvracení, zástava dechu. Může receptory jak stimulovat, tak "vyčerpat" (desenzibilizovat) — proto jsou účinky nepředvídatelné a vzniká fyzická i psychická závislost. **Z cigarety se vstřebá asi 1,5 mg, smrtelná dávka je 40 mg.** Abstinenční příznaky: podrážděnost, agresivita, poruchy spánku, hlad — léčba psychoterapií, náhradní nikotin, antidepresivum.
+
+🔑 **NÚ cholinomimetik jednou větou:** sliny, pot, slzy, mióza, časté nucení na moč, průjem, víc žaludeční kyseliny a pohybu, stažené průdušky a dušnost, nízký tlak, pomalé srdce.
+
+❓ **Doptají se:**
+- *Proč se čistý acetylcholin nepoužívá jako lék?* → Okamžitě ho rozloží AChE, účinek by trval vteřiny.
+- *Co je antidotum otravy muskarinem?* → Atropin.
+- *Jaké léky z téhle otázky použiješ jako zubařka?* → Cevimelin a pilokarpin na xerostomii.
+
+---
+
+## 38 · Nepřímá cholinomimetika
+
+**O čem to je:** Místo aby lék napodoboval acetylcholin, může jednodušeji zabránit jeho odbourání — pak se přirozený ACh, který si tělo samo vyrábí, v synapsi jen hromadí a účinkuje déle a silněji.
+
+**Nepřímá parasympatomimetika = inhibitory cholinesterázy.** Zablokují enzym, který ACh odbourává → ACh se hromadí a víc účinkuje na M i N receptorech. Existují dva typy cholinesterázy: **AChE** (acetylcholinesteráza, vázaná na membrány) a **butyrylcholinesteráza** neboli pseudocholinesteráza (v plazmě a tkáních).
+
+**Reverzibilní inhibitory** (účinek pomine sám) — chemicky jde o primární alkoholy s kvartérním dusíkem (edrofonium) nebo karbamáty (neostigmin). Účinek je podobný M agonistům, navíc **posílí kontrakci kosterního svalu**. Látky s terciárním dusíkem umí projít hematoencefalickou bariérou (HEB) a stimulovat CNS — ve vysoké dávce hrozí křeče, útlum CNS a dechu.
+
+**Použití:** pooperační atonie střev, retence moči, **edrofonium na diagnostiku a léčbu myasthenia gravis**, glaukom, **otrava atropinem/parasympatolytiky** (protijed), **Alzheimerova choroba (rivastigmin)**.
+
+> **Myasthenia gravis** = autoimunitní nemoc, kdy je porušen přenos signálu z nervu na sval → padající víčko, pokleslý koutek, potíže s polykáním, únava svalů, chudá mimika, potíže s dýcháním.
+
+| Látka | Zvláštnost |
+|---|---|
+| Neostigmin | neprochází HEB (nepůsobí na CNS) |
+| Pyridostigmin, distigmin, edrofonium | běžné zástupce |
+| Fyzostigmin | jediný, co vstupuje do CNS — léčba otrav cholinolytiky, oční kapky na glaukom |
+
+**Ireverzibilní inhibitory — organofosfáty.** Navážou se na AChE fosforylací a natrvalo ji vyřadí. Po pár hodinách dochází k "zestárnutí" komplexu — chemická změna, po které už není reaktivace možná, takže se s léčbou musí spěchat. Použití: insekticidy (paraoxon), bojové látky (soman, sarin — rychle se vstřebávají kůží), echotiofát na glaukom.
+
+> 🔑 **Léčba otravy organofosfáty — tři kroky v pořadí:** ① atropin i.v. ② reaktivátory cholinesterázy (fungují jen dokud komplex "nezestárl") ③ do budoucna rekombinantní lidská butyrylcholinesteráza.
+
+❓ **Doptají se:**
+- *Jak se diagnostikuje myasthenia gravis?* → Podáním edrofoninu — pokud se svalová síla krátkodobě zlepší, potvrzuje to diagnózu.
+- *Proč se u organofosfátové otravy musí spěchat s reaktivátory?* → Protože po "zestárnutí" komplexu s AChE už reaktivace nefunguje.
+
+---
+
+## 39 · Parasympatolytika
+
+**O čem to je:** Tohle jsou léky, které dělají přesný opak otázky 37 — blokují M receptory místo aby je stimulovaly. Efekt je "vypnutý parasympatikus": sucho v ústech, rychlejší srdce, rozšířená zornička.
+
+**Dva principy:** a) **přímo působící** — antagonisté muskarinových receptorů (nemají vliv na nikotinové, tedy neovlivňují ganglia ani nervosvalovou ploténku); b) **nepřímo působící** — potlačují tvorbu nebo uvolňování ACh.
+
+Podle chemické struktury se dělí na neselektivní s terciárním dusíkem, neselektivní s kvartérním dusíkem (ty mají spasmolytický efekt už v malé dávce a nepronikají do mozku) a selektivní.
+
+**Atropin a jeho příbuzní.** Přírodní alkaloidy atropin, hyoscyamin a skopolamin se nacházejí v rulíku zlomocném, blínu černém a durmanu obecném.
+
+> 🔑 **Citlivost tkání k atropinu sestupně — přesně v tomhle pořadí se ptají:**
+> ① nejcitlivější: slinné, bronchiální a potní žlázy *(proto je suchá pusa první příznak)*
+> ② střední citlivost: hladké svaly a srdce
+> ③ nejméně citlivé: buňky žaludeční sliznice tvořící kyselinu
+
+⚠️ Významné potlačení pocení může u dospělých ve vysoké dávce zvednout tělesnou teplotu, u dětí i v nižší dávce ("atropinová horečka").
+
+**Klinické využití:** rozšíření zornice a znehybnění řasnatého tělíska (mydriáza, cykloplegie) před vyšetřením očního pozadí, **premedikace před celkovou anestezií** (stabilizace VNS), bronchodilatancia (ipratropium, tiotropium), **antidotum při otravě inhibitory AChE**, antiarytmikum při pomalém srdci, antiemetikum (skopolamin), antiparkinsonikum (biperiden, procyklidin).
+
+⚠️ **Kontraindikace: glaukom a zvětšená prostata** (riziko, že se moč nedostane ven).
+
+**Odvozené léky:** homatropin (podobný atropinu, kratší účinek), biperiden a procyklidin (na parkinsonské příznaky), ipratropium a tiotropium (inhalačně u CHOPN). **Spasmolytika** uvolňují křeč dutých orgánů: butylskopolamin (hlavně GIT), oxybutynin (močové a pohlavní ústrojí).
+
+**Nepřímá cholinolytika** — bez využití v praxi: hemicholinium (blokuje transport cholinu do zakončení nervu), vesamikol (brání uložení ACh do vezikul).
+
+> **Botulotoxin** — neurotoxin bakterie *Clostridium botulinum*, zabrání splynutí váčků s ACh s presynaptickou membránou, takže se ACh vůbec neuvolní. Působí na hladké svaly, žlázy i kosterní svaly. Klinicky: blefarospazmus, hemifaciální spazmy, šilhání, anální křeče, **hypersalivace, hyperaktivní močový měchýř**, kosmeticky vrásky.
+
+❓ **Doptají se:**
+- *Co je první příznak atropinového účinku?* → Sucho v ústech (žlázy jsou nejcitlivější).
+- *Proč je atropin kontraindikován u glaukomu?* → Rozšiřuje zornici, což může zhoršit odtok nitrooční tekutiny.
+
+---
+
+## 40 · Adrenergní přenos vzruchu
+
+**O čem to je:** Tohle je zrcadlová otázka k O36, ale pro sympatikus. Hlavní přenašeč tam není acetylcholin, ale noradrenalin, a receptory se jmenují α a β.
+
+**Hlavní neurotransmiter postgangliových vláken sympatiku je noradrenalin (NA)**, který působí na adrenergní receptory α a β napojené na G-proteiny (tedy pomaleji než rychlé iontové kanály, ale komplexněji). V některých částech CNS se NA metylací mění na adrenalin (klíčový stresový hormon), v dopaminergních neuronech CNS se používá dopamin.
+
+Receptorů je pět typů, každý s jiným umístěním a účinkem — proto je nutná tabulka, ale s vysvětlením k čemu to je:
+
+| Receptor | Kde | Co dělá |
+|---|---|---|
+| α1 | hladká svalovina cév | **stažení cév**, rozšíření zornice, snížení nitroočního tlaku, stažení těhotné dělohy, tvorba glukózy z glykogenu i de novo, ejakulace, stažení svěrače močového měchýře, sekrece slin |
+| α2 | presynapticky, trombocyty | shlukování krevních destiček, stažení cév, **ale zároveň sníží tonus sympatiku a tlak** (protože tlumí vlastní uvolňování NA), sníží uvolnění inzulinu |
+| β1 | srdeční svalovina, tukové buňky, ledviny | **zrychlí a zesílí srdeční stah, zrychlí vedení, zvýší spotřebu kyslíku**; v ledvinách zvýší uvolnění reninu; sekrece slin |
+| β2 | hladké svaly a srdce | **rozšíří cévy ve svalech, rozšíří průdušky**, zpomalí střevo, uvolní dělohu a močový měchýř, tvorba glukózy |
+| β3 | tukové buňky, srdce | uvolní stěnu močového měchýře, rozkládá tuky |
+
+**Jak se to dá ovlivnit léky:**
+- **Sympatomimetika** (napodobují sympatikus) — přímá (agonisté receptorů, selektivní nebo ne) a nepřímá, která zvyšují množství NA ve štěrbině třemi cestami: zvýší jeho uvolnění, zpomalí jeho odbourání, nebo zabrání jeho zpětnému vychytání (sem patří amfetamin a příbuzné látky, efedrin, pseudoefedrin).
+- **Sympatolytika** (tlumí sympatikus) — přímá (antagonisté receptorů) a nepřímá, která se v praxi nepoužívají (reserpin blokuje uložení NA do vezikul, guanetidin blokuje splynutí vezikul s membránou — používá se jen jako miotikum v oftalmologii).
+
+🔑 **α1 a β1 = "zapni/posil", α2 = brzda sympatiku samotného, β2 = rozšiř cévy a průdušky.**
+
+❓ **Doptají se:**
+- *Proč agonista α2 receptoru sníží krevní tlak, když ostatní α receptory tlak zvyšují?* → α2 je presynaptický — jeho aktivace tlumí vlastní uvolňování noradrenalinu.
+
+---
+
+## 41 · Neselektivní sympatomimetika (katecholaminy)
+
+**O čem to je:** Katecholaminy jsou skupina látek definovaná konkrétní chemickou strukturou (adrenalin, noradrenalin a příbuzní), které působí na víc typů receptorů najednou — proto "neselektivní".
+
+> **Pět vlastností, které definují katecholamin:**
+> ① -OH skupina na 3. a 4. pozici benzenového jádra — přítomnost těchto -OH skupin rozhoduje o délce účinku
+> ② nejúčinnější v přímé aktivaci α i β receptorů
+> ③ rychle je odbourávají enzymy COMT (katechol-O-metyltransferáza) a MAO (monoaminooxidáza)
+> ④ neúčinkují po podání ústy (rozloží se dřív, než se vstřebají)
+> ⑤ jsou polární, takže špatně pronikají do mozku — přesto mají centrální účinky (třes, úzkost)
+> Vznikají z aminokyseliny fenylalaninu. **Adrenalin má největší afinitu k α receptorům, isoprenalin k β** (ten se ale v praxi nepoužívá).
+
+**Uptake** = zpětné vychytávání NA zpátky do zakončení: **uptake 1** = do presynaptického zakončení, kde ho rozloží MAO; **uptake 2** = částečná difuze přes postsynaptickou membránu, kde ho rozloží COMT.
+
+**Adrenalin — stresový hormon dřeně nadledvin**, největší afinita k α receptorům:
+
+| Efekt | Přes receptor |
+|---|---|
+| zesílí a zrychlí srdeční stah, zvýší srdeční výdej i spotřebu kyslíku, zvýší systolický tlak | β1 |
+| stáhne cévy v kůži a na sliznicích | α |
+| rozšíří cévy ve svalech | β2 |
+| sníží prokrvení ledvin, uvolní renin | β1 |
+| rozšíří průdušky, uvolní glukózu z jater, zvýší glukagon | β2 |
+| sníží uvolnění inzulinu | α2 |
+
+Poločas jen asi 2,5 minuty (rychle ho rozloží MAO a COMT), účinek se prodlouží při i.m. podání. NÚ: přecitlivělost srdce u hypertyreózy, diabetici potřebují víc inzulinu, **inhalační anestetika zvyšují citlivost srdce k adrenalinu**, hypertenze při kombinaci s neselektivními betablokátory, na CNS bolest hlavy, třes, úzkost. Použití: resuscitace, anafylaktický šok, **vazokonstrikční přísada v lokálních anestetikách**.
+
+⚠️ **Poslední bod je přímo tvoje praxe** — adrenalin v lokálním anestetiku. U pacienta s hypertyreózou, na neselektivních betablokátorech nebo diabetika si ohlídej interakce.
+
+**Ostatní katecholaminy:**
+
+| Látka | Klíčové body |
+|---|---|
+| Noradrenalin | hormon dřeně nadledvin a hlavní přenašeč sympatiku; stimuluje hlavně α1 a β1, **nestimuluje β2 → nemá bronchodilatační účinek**; zvyšuje periferní odpor i oba tlaky, zrychluje srdce. Použití: profylaxe/léčba akutní hypotenze, šokové stavy |
+| Isoprenalin | syntetický, neselektivní na β, na α zanedbatelně; na srdci silný jako adrenalin; klesá diastolický, stoupá systolický tlak; rozkládá se pomaleji, proto účinkuje déle; jen i.v. v akutní medicíně |
+| Dobutamin | β1 sympatomimetikum odvozené od dopaminu, ale bez vlivu na periferní D receptory; zesílí stah, sníží tlak v plicním řečišti, zvýší srdeční výdej. Indikace: kardiogenní šok, těžké srdeční selhání, stav po operaci srdce |
+
+> 🔑 **Dopamin — účinek přímo závisí na dávce, klasická zkušební otázka:**
+> **do 2 μg/kg/min → D receptory:** rozšíří cévy ledvin a střev, zvýší jejich prokrvení a tvorbu moči; v této dávce **nemá výrazný vliv na srdce**
+> **do 10 μg/kg/min → β receptory:** zvýší srdeční výdej
+> **nad 10 μg/kg/min → α receptory:** stáhne periferní cévy, zvýší srdeční výdej i tlak
+> **nad 20 μg/kg/min:** α převáží nad D → prokrvení ledvin naopak KLESÁ (obrátí se efekt)
+> Použití: léčba šoku a těžké hypotenze.
+
+❓ **Doptají se:**
+- *Proč se katecholaminy nepodávají ústy?* → Rychle je odbourávají enzymy v GIT a při first-pass efektu, ke správnému účinku by se nedostaly.
+- *Co se stane s prokrvením ledvin při vysoké dávce dopaminu (nad 20 μg/kg/min)?* → Klesne — α efekt (vazokonstrikce) přebije D efekt (vazodilatace).
+
+---
+
+## 42 · Sympatomimetika alfa
+
+**O čem to je:** Tahle otázka rozebírá léky, které cíleně (selektivně) stimulují jen α receptory, ne celý sympatikus — využívá se to na zúžení cév (dekongestanty, léčba hypotenze) nebo naopak paradoxně na snížení tlaku (α2).
+
+**Přímá neselektivní** — adrenalin, dopamin, noradrenalin (viz O41).
+
+**Selektivní α1-sympatomimetika** stahují hladké svaly cév. Použití: hypotenze, šokové stavy, snížení překrvení sliznic, mydriáza (rozšíření zornice).
+
+| Látka | Zvláštnosti |
+|---|---|
+| Fenylefrin | silné mydriatikum, dekongestant (užívaný i ústy proti nachlazení), systémově zvedá periferní odpor a tlak. **Kontraindikován v těhotenství.** Odolný vůči COMT, proto výrazně delší účinek než katecholaminy |
+| Midodrin | ortostatická hypotenze, stresová inkontinence moči; může tlumit enzym CYP2D6 |
+| Nafazolin, oxymetazolin, tetryzolin, tramazolin, xylometazolin | lokální dekongestanty do nosu/očí — spazmus cév sliznice sníží překrvení a otok. Použití: alergická rýma, konjunktivitida. **Nepoužívat souvisle déle než týden** — riziko návyku a poškození sliznice |
+
+**Selektivní α2-sympatomimetika** — paradox: agonista tlumí sympatikus. **α2 receptory jsou presynaptické — jejich stimulace sníží uvolnění NA do štěrbiny → klesne tonus sympatiku i tlak.**
+
+Klonidin (u nás není k dispozici), brimonidin (oční kapky, sníží tvorbu nitrooční tekutiny, léčba glaukomu), rilmenidin a moxonidin (antihypertenziva), dexmedetomidin (sedace).
+
+⚠️ **L-methyldopa** — v mozku se přemění na α-metylnoradrenalin, přes α2 receptory sníží tonus sympatiku i tlak. **Antihypertenzivum volby u těhotných** — na tohle se ptají.
+
+❓ **Doptají se:**
+- *Proč α2 agonista snižuje tlak, když je to přece stimulace sympatického receptoru?* → Protože α2 sedí presynapticky a jeho aktivace je zpětnovazební brzda — tlumí další uvolňování NA.
+- *Jaké antihypertenzivum se volí u těhotných?* → Methyldopa.
+
+---
+
+## 43 · Sympatomimetika beta
+
+**O čem to je:** Selektivní stimulace β receptorů — každý podtyp má jiné klinické využití: β1 posílí srdce, β2 rozšíří průdušky, β3 uvolní močový měchýř.
+
+**Selektivní β1 — dobutamin.** Derivát dopaminu bez vlivu na periferní D receptory, přímo stimuluje myokard, zesílí stah (pozitivně inotropní), sníží tlak v plicním řečišti, zvýší srdeční výdej. Indikace: kardiogenní šok, těžké srdeční selhání, operace na otevřeném srdci. **Jen i.v., nástup do 2 minut.**
+
+**Selektivní β2-sympatomimetika** — rozšiřují průdušky (léčba astmatu) a mají tokolytický efekt (snižují stahy dělohy — ale **v praxi se to nepoužívá**). NÚ: třes, nízký draslík, bolest hlavy, bušení srdce, tachyarytmie, křeče, nespavost. KI: přecitlivělost, zúžení aorty, tachyarytmie.
+
+| Skupina | Charakteristika | Zástupci |
+|---|---|---|
+| SABA (krátkodobě působící) | rychlý nástup, účinek 4–6 h, na akutní záchvat astmatu | clenbuterol, fenoterol, salbutamol, terbutalin |
+| RABA (rychle nastupující) | rychlý nástup | formoterol |
+| LABA (dlouhodobě působící) | dlouhý účinek | formoterol, salmeterol, vilanterol |
+| uLABA (ultra-dlouze působící) | při léčbě CHOPN | indakaterol, olodaterol |
+
+⚠️ **Formoterol je v obou skupinách — RABA i LABA.** Proto se hodí i do úlevové kombinace IKS-formoterol (viz O96).
+
+**Selektivní β3 — mirabegron** — uvolní hladký sval močového měchýře a zvětší jeho kapacitu, sníží počet kontrakcí bez mikce i epizod nechtěného úniku moči. Použití: hyperaktivní močový měchýř.
+
+🔑 **β1 = srdce, β2 = průdušky a cévy svalů, β3 = močový měchýř.**
+
+❓ **Doptají se:**
+- *Který lék patří do dvou skupin zároveň a proč je to výhoda?* → Formoterol (RABA i LABA) — rychlý nástup i dlouhé trvání, hodí se jako úlevová i udržovací léčba zároveň.
+
+---
+
+## 44 · Nepřímá sympatomimetika
+
+**O čem to je:** Na rozdíl od O41–43 tyhle látky nesedí přímo na receptoru, ale zvyšují množství vlastního noradrenalinu v synapsi — třemi možnými mechanismy.
+
+> **Tři mechanismy, kterými nepřímá sympatomimetika zvyšují množství přenašeče ve štěrbině:**
+> ① zvýší jeho uvolňování ② zpomalí jeho odbourání ③ zabrání jeho zpětnému vychytání
+> Efedrin a amfetaminy patří do skupiny tzv. "amfetaminu podobných látek".
+
+| Látka | Klíčové body |
+|---|---|
+| Efedrin | přírodní látka z chvojníku čínského; působí jako přímé i nepřímé sympatomimetikum zároveň; centrálně stimulační, zvyšuje srdeční činnost a tlak. Použití: dekongestant. **Zneužívá se jako výchozí látka pro výrobu metamfetaminu** |
+| Pseudoefedrin | optický izomer efedrinu, méně účinků na CNS; dekongestant proti chřipce |
+| Amfetamin | strukturně blízký efedrinu, výrazně centrálně stimulační; snadno prochází HEB a **není odbouráván MAO**. V některých zemích léčba ADHD |
+| Metylfenidát | brání zpětnému vychytávání NA a dopaminu do zakončení → zvýší jejich uvolnění do štěrbiny. Léčba ADHD |
+| Modafinil | funguje podobně jako metylfenidát; léčba narkolepsie |
+| Fentermin | anorektikum — blokuje zpětné vychytávání NA, serotoninu i dopaminu → potlačí chuť k jídlu; zvyšuje tlak, způsobuje nespavost, neklid, psychózy |
+
+> ⚠️ **Tyramin — interakce, na kterou se ptají nejčastěji.** Tyramin vzniká rozkladem tyrozinu při kvašení bílkovinných potravin (zralé sýry, víno). Normálně ho odbourává jaterní MAO. **Při léčbě inhibitory MAO se tyramin nerozloží, vstřebá se a zvýší uvolňování přenašečů → hypertenzní krize ("sýrový efekt").**
+
+❓ **Doptají se:**
+- *Proč je nebezpečné jíst zralý sýr při léčbě IMAO?* → Tyramin ze sýra se normálně rozloží MAO; při zablokovaném enzymu se vstřebá a spustí uvolnění přenašečů → prudký vzestup tlaku.
+
+---
+
+## 45 · Sympatolytika alfa
+
+**O čem to je:** Léky blokující α receptory — buď obě podskupiny najednou (výjimečný diagnostický nástroj u vzácného nádoru), nebo jen α1 (dvě zcela odlišná klinická využití — vysoký tlak a zvětšená prostata).
+
+**Dělení sympatolytik:** přímá (antagonisté na receptoru — **jen tahle se v praxi využívají**), nepřímá, selektivní (jen jeden typ receptoru), neselektivní (oba typy α nebo β), smíšená (α i β zároveň).
+
+**Neselektivní α1/α2-sympatolytika** — efekt: rozšíří cévy, sníží periferní odpor a tlak. NÚ: ortostatická hypotenze, reflexní tachykardie, ucpaný nos, sníží účinek sympatomimetik. Zástupci: fenoxybenzamin, fentolamin. **Použití: diagnostika a krátkodobá léčba feochromocytomu** (vzácný nádor chromafinních buněk dřeně nadledvin, který nekontrolovaně vylučuje katecholaminy).
+
+**Selektivní α1-sympatolytika — dvě různé indikace podle toho, kde v těle sedí:**
+
+| Léčiva | Indikace |
+|---|---|
+| Prazosin, doxazosin, terazosin | léčba hypertenze, **ale ne jako lék první volby** |
+| Alfuzosin, silodosin, tamsulosin | benigní hyperplazie prostaty (BPH) — blokáda receptorů uvolní hladké svaly prostaty a sníží odpor na výtoku z močového měchýře |
+
+**Selektivní α2-sympatolytikum: yohimbin** — blokuje i MAO a ovlivňuje serotoninový systém; dřív se používal u erektilní dysfunkce, **dnes se nepoužívá**.
+
+🔑 **Prazosinová skupina = tlak, tamsulosinová skupina = prostata** — obě jsou α1-blokátory, liší se jen tím, kde v těle převažuje efekt.
+
+❓ **Doptají se:**
+- *Na co se používají neselektivní α-blokátory fenoxybenzamin a fentolamin?* → Diagnostika a krátkodobá léčba feochromocytomu.
+
+---
+
+## 46 · Sympatolytika beta (β-blokátory)
+
+**O čem to je:** Betablokátory jsou jedny z nejpoužívanějších léků na srdce a tlak vůbec — blokují β receptory, takže srdce bije pomaleji a slaběji a tělo hůř reaguje na stres/zátěž. Existují tři generace podle toho, jak selektivně a s jakými přídavnými účinky fungují.
+
+**Na čem závisí konkrétní uplatnění betablokátoru:** na přídavných účincích, na selektivitě k β1 vs. β2, na tom, jestli blokuje i α receptory, na schopnosti navodit vazodilataci, na schopnosti stabilizovat buněčnou membránu, na rozpustnosti v tucích a na farmakokinetice.
+
+> **Tři generace — musíš je umět vyjmenovat:**
+
+| Generace | Charakteristika | Zástupci |
+|---|---|---|
+| 1. | neselektivní (blokuje β1 i β2) | propranolol, pindolol, timolol |
+| 2. | β1 selektivní | atenolol, esmolol, metoprolol |
+| 3. | neselektivní s přídavnými účinky | karvedilol, labetalol |
+| 3. | β1 selektivní s přídavnými účinky | betaxolol, celiprolol, nebivolol |
+
+**Farmakodynamika — kde všude a jak působí.** Klíčová věta: **hlavní účinky se projeví jen při zvýšené aktivitě sympatiku** (zátěž, stres) — v klidu je efekt menší.
+
+- **Srdce a cévy:** tlak klesá dvěma cestami — poklesem minutového srdečního výdeje (blokáda β1) a útlumem uvolnění reninu v ledvinách (taky β1). Při dlouhodobém podávání klesá i periferní odpor cév. Další efekty: antiarytmický, prodlužuje dobu mezi stahy (diastolu), působí proti ischemii, pomáhá u chronického srdečního selhání.
+- **Průdušky:** ⚠️ blokáda β2 v průduškách může u astmatiků nebo CHOPN vyvolat nebezpečný bronchospasmus.
+- **Metabolismus:** mohou zpomalit zotavení z hypoglykemie (hlavně u diabetu 1. typu), protože tlumí tvorbu glukózy z glykogenu, a navíc **zamaskují varovné příznaky hypoglykemie** (třes, bušení srdce), takže si jí pacient nemusí všimnout.
+- **Oko:** sníží tvorbu nitrooční tekutiny a nitrooční tlak.
+- **CNS:** útlum β stimulace se projeví svalovým třesem a neklidem.
+
+**Farmakokinetika — proč záleží na rozpustnosti v tucích:**
+
+| Rozpustné v tucích (propranolol, metoprolol, labetalol) | Rozpustné ve vodě |
+|---|---|
+| počítej s first-pass efektem v játrech | vylučují se ledvinami v nezměněné podobě |
+| dobře pronikají do CNS | při selhávání ledvin se poločas výrazně prodlužuje |
+
+**Indikace:** vysoký tlak, srdeční tachyarytmie, chronické srdeční selhání, **angina pectoris (lék první volby)**, snížení úmrtnosti po infarktu a prevence reinfarktu, hypertyreóza, glaukom. ⚠️ **Nejsou lékem první volby u hypertenze u diabetiků** (maskují hypoglykemii).
+
+> 🔑 **Rebound fenomén — nejčastější doplňující otázka.** Náhlé vysazení vyvolá nežádoucí reakci kvůli tomu, že si tělo mezitím zvýšilo počet (up-regulovalo) β-receptorů. Proto se betablokátory **vysazují postupně**.
+
+Další NÚ: pomalý sinusový rytmus, AV blok, zhoršení funkce levé komory, astmatický záchvat, pokles HDL a vzestup triglyceridů, deprese. KI: astma, CHOPN, sinusová bradykardie, AV blok, dekompenzované srdeční selhání. V těhotenství procházejí k plodu, nejsou považovány za teratogenní, ale mohou způsobit bradykardii a hypoglykemii u plodu.
+
+❓ **Doptají se:**
+- *Proč se betablokátor nikdy nevysazuje naráz?* → Rebound fenomén — tělo si zvyklo mít víc receptorů, náhlé vysazení vede k přehnané reakci na vlastní katecholaminy.
+- *Proč jsou betablokátory rizikové u diabetika?* → Maskují varovné příznaky hypoglykemie a zpomalují zotavení z ní.
+
+---
+
+## 47 · Myorelaxancia
+
+**O čem to je:** Léky na uvolnění svalového napětí — buď mírně, na bolestivý spazmus zad (centrální), nebo úplně, k ochrnutí svalů během operace (periferní, nervosvalová blokáda).
+
+**Centrální myorelaxancia** působí v míše nebo mozkovém kmeni — tlumí polysynaptický reflexní oblouk, který za patologických stavů způsobuje nadměrné bolestivé napětí svalu. Snižují svalový tonus a tlumí bolest. Zástupci: mefenoxalon, tolperison, guaifenesin; baklofen a diazepam fungují jako agonisté GABA receptorů (aktivace otevře K⁺ kanál → hyperpolarizace → tlumí uvolnění přenašeče). Indikace: dočasný bolestivý svalový spazmus po úrazu, vertebrogenní potíže, myalgie, po cévní mozkové příhodě.
+
+**Periferní myorelaxancia** blokují přenos přímo na nervosvalové ploténce, dvěma různými místy:
+
+**A) presynapticky** — sníží množství uvolňovaného ACh: botulotoxin, aminoglykosidová antibiotika (u nich je myorelaxace nechtěný až toxický vedlejší účinek).
+
+**B) postsynapticky** přes N receptor na ploténce — dvě protikladné strategie:
+
+| | Nedepolarizující | Depolarizující |
+|---|---|---|
+| Vztah k ACh | kompetitivní antagonisté (blokují místo) | agonisté (aktivují receptor) |
+| Mechanismus | brání depolarizaci membrány | aktivují receptor, ale drží ho depolarizovaný dlouho |
+| Velikost molekuly | robustní (pachykurarové) | malá (leptokurarové) |
+| Zástupci | d-tubokurarin (historicky), dnes pankuronium, arkuronium, rokuronium | sukcinylcholin |
+
+> 🔑 **Sled ochrnutí po d-tubokurarinu — klasická otázka:**
+> ① oční svaly a víčka → ② žvýkací svaly → ③ svaly hlavy, krku, končetin → ④ mezižeberní a břišní svaly → ⑤ bránice (zástava dechu)
+> Zotavení jde **v opačném pořadí** — jako první se obnoví bránice. ⚠️ **Vědomí a vnímání bolesti zůstávají zachovány** — pacient proto musí mít současně i celkovou anestezii, ne jen myorelaxans.
+> Nástup 4–6 min, trvá 80 min. Nevýhoda: uvolňuje histamin ze žírných buněk → bronchokonstrikce, víc hlenu, pokles tlaku. Dnes nahrazeno rychlejšími látkami (nástup do 4 min).
+
+**Sukcinylcholin** — depolarizace trvá déle než po ACh; projeví se nejdřív krátkými svalovými záškuby na břiše a hrudníku a pak úplnou paralýzou, v maximu účinku přechodná zástava dechu. **Ultrakrátký účinek**, protože je rychle rozložen pseudocholinesterázou. ⚠️ Vzácný genetický nedostatek tohoto enzymu může dramaticky prodloužit zástavu dechu.
+
+**Antidota:** u kompetitivních antagonistů (nedepolarizující skupina) podáváme inhibitory AChE — neostigmin, edrofonium (zvýší ACh, který soutěží o receptor); antihistaminika preventivně zmírní účinky uvolněného histaminu. **U agonistů (sukcinylcholin) antidotum neexistuje** — jen podpora dýchání, dokud efekt sám neodezní.
+
+Použití: doplněk celkové anestezie, snazší přístup při operaci, endotracheální intubace, laryngoskopie, endoskopie, ochrana před úrazem při elektrošokové léčbě. NÚ: uvolnění histaminu (hypotenze, bronchokonstrikce), vliv na nikotinové receptory ganglií (antagonisté → bradykardie a pokles tlaku, agonisté → tachykardie a vzestup tlaku), iontová nerovnováha u sukcinylcholinu, respirační paralýza, maligní hypertermie. **Bez zajištěné ventilace a proškoleného personálu se nesmí podat.**
+
+> ⚠️ **Maligní hypertermie — nejvděčnější část otázky.** Vzácná reakce na myorelaxancia nebo celková anestetika (halotan). Příčina: vrozený defekt schopnosti sarkoplazmatického retikula vychytávat vápník, kvůli mutaci ryanodinového receptoru (ten normálně řídí uvolňování Ca²⁺). Následek: prudký nárůst Ca²⁺ v myocytech → zrychlený aerobní i anaerobní metabolismus → horečka a metabolická acidóza. **Bez léčby umírá přes 60 %.** Léčba: co nejrychleji dantrolen i.v. ve stoupajících dávkách — blokuje uvolňování Ca²⁺ ze sarkoplazmatického retikula. Další indikace dantrolenu: maligní neuroleptický syndrom.
+
+Botulotoxin A (viz i O39) — navíc kosmetické použití na vrásky a inkontinenci.
+
+❓ **Doptají se:**
+- *Proč pacient s myorelaxans potřebuje i celkovou anestezii?* → Myorelaxans nezasahuje vědomí ani vnímání bolesti, jen ochromí svaly.
+- *Jak se léčí maligní hypertermie?* → Dantrolen i.v.
+
+---
+
+## 48 · Lokální anestetika
+
+**O čem to je:** Léky, které znecitliví jen určitou část těla (bez ztráty vědomí) tím, že zablokují vedení nervového signálu — přesně to, co používáš při ošetření zubu.
+
+**Lokální anestetika ovlivňují senzitivní nervový systém — navodí znecitlivění dané oblasti bez ztráty celkového vědomí.** Reverzibilně blokují vedení vzruchu nervem (a strukturami schopnými podobné aktivace, jako je srdce) tím, že blokují napěťově řízené sodíkové kanály potřebné k tvorbě akčního potenciálu. **Nejcitlivější jsou tenká myelinizovaná vlákna s vysokou rychlostí vedení** (typu A a C). Síla účinku závisí na tom, jak rychle látka pronikne do tkáně.
+
+> ⚠️ **Estery vs. amidy — nejdůležitější tabulka celé otázky:**
+
+| | Estery | Amidy |
+|---|---|---|
+| Zástupci | kokain, prokain, tetrakain, benzokain | trimekain, lidokain, bupivakain, levobupivakain, ropivakain |
+| Odbourávání | plazmatická pseudocholinesteráza, rychle | v játrech přes CYP450 |
+| Poločas | kratší | delší |
+| Hlavní riziko | vyšší riziko **alergické** reakce | vyšší riziko **toxické** reakce |
+
+Všechna se nakonec přemění na ve vodě rozpustné metabolity a vyloučí se močí.
+
+**Farmakodynamika a vazokonstrikční přísada.** Sílu účinku ovlivňuje koncentrace i prokrvení tkáně v místě podání — silné prokrvení účinek zkracuje (látka se rychle "odplaví"). Anestetika ovlivňují i vegetativní nervy, takže samy o sobě způsobují mírnou vazodilataci — proto se přidává **vazokonstrikční přísada (adrenalin)**, která sníží průtok krve a tím prodlouží účinek. **Lokální anestetikum se nikdy nepodává nitrožilně — s výjimkou lidokainu při KPR.**
+
+| Druh anestezie | Kde se používá | Léčiva |
+|---|---|---|
+| Povrchová | vyžaduje schopnost proniknout kůží/sliznicí; na sliznice, rohovku, močový trakt, před vpichem jehly | lidokain, tetrakain, benzokain |
+| Infiltrační | do místa předpokládaného zakončení/větvení nervu | většina |
+| Svodná | v blízkosti nervu — **paže, mezižeberní i DENTÁLNÍ nervy** | většina |
+| Spinální | operace břicha a pánve, kdy je kontraindikována celková anestezie | lidokain |
+| Epidurální | do epidurálního prostoru, i při porodu | lidokain, bupivakain |
+
+**Jednotlivá léčiva:** kokain — první používané, dnes už jen v oftalmologii; prokain — bezpečnější, kratší účinek, rozkládá ho cholinesteráza, **nehodí se na povrchovou anestezii** (špatně proniká kůží), nástup do 3 min, trvá 30–60 min; tetrakain — účinnější než prokain, ale odbourává se pomaleji → vyšší riziko systémové toxicity, spinální anestezie s dlouhým účinkem; benzokain — málo se vstřebává, proto málo toxický, lze dát přímo do rány; mezokain — vhodný na všechny typy; lidokain — rychlý, silný a delší účinek.
+
+**Nežádoucí účinky — pro tebe nejdůležitější část otázky.** Mohou vznikat vlastním účinkem látky, chybnou technikou podání, blokádou vegetativních nervů nebo vazokonstrikční přísadou — záleží na tom, jak rychle stoupá koncentrace v krvi. ⚠️ **Aplikace v oblasti hlavy a krku (tvoje pracoviště!) nese vyšší riziko NÚ.**
+
+Systémová toxicita — z místa vpichu se anestetikum vstřebává do krve, čím víc je tkáň prokrvená, tím rychleji:
+
+| Systém | Projev a řešení |
+|---|---|
+| CNS | **nejdřív stimulace** (neklid, třes, křeče), **teprve pak útlum** (útlum dechu). Léčba symptomatická, ale okamžitá — křeče tlumí diazepam, případně thiopental. Prevence: nižší dávky |
+| KVS | vysoké koncentrace sníží dráždivost, vodivost i sílu stahu srdce; léčba adrenalinem; vyhýbat se epidurální anestezii a **bupivakainu (nejvíc kardiotoxický)**. Výjimka: kokain a mepivakain naopak vyvolávají vazodilataci, hypotenzi |
+
+- **Methemoglobinemie** — způsobuje ji **prilokain** (typický pro stomatologii); jeho metabolit mění hemoglobin na methemoglobin. Léčba: toluidinová modř, kyslík.
+- **Alergické reakce** — hlavně po **esterových** anestetikách: dermatitida, astma, vyrážka, otok, anafylaxe. Lék první volby u anafylaxe je adrenalin, při dechových potížích kyslík, kortikoidy, β-sympatomimetika.
+- **Vazokonstrikční přísada** sama může škodit: ischemie znecitlivěné oblasti, tachyarytmie, tachykardie, bušení srdce, vysoký tlak, dechová tíseň. **Kontraindikace: adrenalin při užívání IMAO a tricyklických antidepresiv.**
+
+⚠️ **Chyba ve zdroji, kterou neopakuj:** kokain jako lokální anestetikum a psychostimulancia obecně jsou dvě různé věci — indikace narkolepsie/ADHD patří **modafinilu a atomoxetinu**, ne kokainu. Kokainu naopak patří trofická perforace nosní přepážky při šňupání a jeho vlastní vazokonstrikční efekt.
+
+🔑 **Amidy = toxicita a hepatální odbourání, estery = alergie a rychlý plazmatický rozklad.**
+
+❓ **Doptají se:**
+- *Proč se do lokálního anestetika přidává adrenalin?* → Zpomalí vstřebávání (vazokonstrikce), prodlouží účinek a sníží riziko systémové toxicity.
+- *Který anestetikum je nejvíc kardiotoxické?* → Bupivakain.
+- *Co způsobuje prilokain specificky ve stomatologii?* → Methemoglobinemii.
+
+---
