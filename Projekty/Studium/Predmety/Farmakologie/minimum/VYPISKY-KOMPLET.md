@@ -1232,3 +1232,130 @@ Výsledný fenotyp se může projevit selháním účinku, zvýšeným rizikem n
 - *Jaký je rozdíl mezi zárodečnou a somatickou mutací?* → Zárodečná se dědí na potomky, somatická vzniká během života a nedědí se (ale může založit nádor).
 
 ---
+
+## O27 · Tolerance, tachyfylaxe, rezistence
+
+**O čem to je:** Tělo (nebo nádor, nebo bakterie) si na opakovaně podávaný lék "zvykne" a přestane na něj tak dobře reagovat — ale existuje víc typů tohoto jevu, které se liší **rychlostí** a **mechanismem**, a je potřeba je od sebe umět odlišit.
+
+Po zahájení farmakoterapie může opakované/kontinuální podávání vést k několika typům změny reakce: **tachyfylaxe, tolerance, rezistence, desenzitizace, senzitizace, kumulace účinku.**
+
+**Tachyfylaxe** — **rychlé** (v řádu minut) snížení až vymizení účinku při opakovaném podávání v krátkých intervalech; obnova původní reakce je také rychlá. Klasický příklad: **nepřímá sympatomimetika** (efedrin) vytěsňují noradrenalin ze zásobních vezikul v synapsích — jak zásoba noradrenalinu klesá, klesá rychle i účinek efedrinu.
+
+**Tolerance (návyk)** — **pomalé, postupné** snižování účinku při dlouhodobém podávání (dny až týdny); nemusí postihnout celé spektrum účinků látky najednou.
+- *Tolerance na terapeutický účinek je nežádoucí* — vyžaduje zvýšení dávky nebo výměnu léku; hlavní problém u **benzodiazepinů** je rychlý rozvoj tolerance spolu s fyzickou i psychickou závislostí.
+- *Tolerance na nežádoucí účinek je naopak vítaná* — např. při dlouhodobé léčbě astmatu **β2-agonisty** postupně mizí tremor kosterního svalstva (nežádoucí účinek), zatímco terapeutický účinek zůstává.
+
+**Rezistence** — snižování účinku **protinádorových a antimikrobiálních** látek v průběhu léčby. U cytostatik je velkým problémem **sekundární rezistence**: nádorová buňka, zprvu citlivá, si "vypěstuje" rychlejší transport cytostatika ven z buňky.
+
+**Desenzitizace** — přirozená reakce organismu na trvalou přítomnost agonisty: stejná koncentrace vyvolá **nižší** účinek.
+- v řádu **hodin až dní** klesá počet receptorů v cílové tkáni (**down-regulace**), případně se změní struktura vazebného místa a klesne afinita,
+- rychlejší mechanismus (v řádu **minut**) je **internalizace** — komplex agonista-receptor se pohltí endocytózou a odpojí od G-proteinu; při poklesu agonisty se receptor zase vrátí zpět do membrány ve funkčním stavu.
+
+**Senzitizace** — opak, hypersenzitivita receptorů; vzniká po dlouhodobém **úbytku** ligandu, nebo po dlouhodobé **blokádě antagonistou**. Počet receptorů stoupá (nová syntéza nebo "vynoření" už existujících na povrch — **up-regulace**). Klasický a klinicky důležitý příklad: **dlouhodobá léčba β-blokátory** vede k up-regulaci β-receptorů; při **náhlém vysazení** dojde k vystupňované, opačné reakci = **syndrom z vysazení (rebound fenomén)** — tachykardie, vzestup tlaku, anginózní bolesti.
+
+**Kumulace účinku** — zesílení účinku při opakovaném podávání, dvojího typu:
+- **humorální kumulace** — koncentrace léčiva se zvyšuje, protože další dávka přijde dřív, než se ta předchozí stačí eliminovat; míra závisí na dávkovacím intervalu a t½ (souvisí s O16); riziko roste i **bez** poruchy eliminačních orgánů,
+- **funkční kumulace** — účinek roste, protože se postupně mění citlivost cílové tkáně, přestože dávka i koncentrace zůstávají stejné.
+
+🔑 **Tachyfylaxe = minuty. Tolerance = dny až týdny. Rezistence = týká se nádoru/mikroba, ne pacienta jako celku.** Desenzitizace a senzitizace jsou dva směry téhož mechanismu (změna počtu/citlivosti receptorů).
+
+❓ **Doptají se:**
+- *Proč je nebezpečné náhle vysadit β-blokátor po dlouhé léčbě?* → Receptory jsou up-regulované (senzitizace) — náhlá absence blokády vyvolá rebound tachykardii a vzestup tlaku.
+- *Jaký je rozdíl mezi tolerancí a rezistencí?* → Tolerance je změna odpovědi organismu pacienta, rezistence je vlastnost nádoru/mikroba, který se lék naučí "obejít".
+
+---
+
+## O28 · Vliv průvodních onemocnění na účinek léčiv, polypragmazie
+
+**O čem to je:** Pacient málokdy má jen jednu nemoc a bere jen jeden lék — přidružené nemoci mění, jak tělo lék zpracuje (kinetika) i jak na něj zareaguje (dynamika), a čím víc léků najednou, tím víc příležitostí k problému.
+
+### Jak přidružené nemoci mění farmakokinetiku
+
+**Absorpce:** GIT poruchy (celiakie, Crohnova nemoc) snižují vstřebávání; poruchy motility (gastroparéza u diabetu) mění rychlost nástupu účinku; antacida a inhibitory protonové pumpy snižují biologickou dostupnost některých léčiv (ketokonazol, digoxin).
+
+**Distribuce:** **hypoalbuminemie** (u jaterních/ledvinných onemocnění) sníží vazbu na bílkoviny → stoupne **volná frakce** léčiv jako warfarin či fenytoin → **vyšší riziko toxicity** (přímo navazuje na O14); poruchy prokrvení tkání (kardiovaskulární nemoci) omezí distribuci do periferie.
+
+**Metabolismus:** jaterní onemocnění snižují metabolismus léčiv závislých na CYP450 (opioidy, benzodiazepiny) — u cirhózy roste riziko kumulace a toxicity; u pacientů s dalšími nemocemi je někdy nutná i farmakogenetická analýza (viz O26).
+
+**Eliminace:** chronické onemocnění ledvin (CKD) snižuje clearance renálně vylučovaných léčiv (aminoglykosidy, metformin) — nutná úprava dávky podle GFR.
+
+### Jak přidružené nemoci mění farmakodynamiku
+
+- **změna citlivosti receptorů** — např. u diabetiků snížená citlivost na inzulin,
+- **kompenzační mechanismy** — u srdečního selhání je zvýšená aktivita sympatiku, což mění účinek β-blokátorů,
+- **změny homeostázy** — např. **hypokalemie zhoršuje toxicitu digoxinu** (klasický a důležitý příklad, propojený se speciální farmakologií).
+
+### Polypragmazie
+
+= současné užívání více léčiv, běžné u pacientů s více chronickými nemocemi.
+
+- **farmakokinetické interakce** — např. ketokonazol (inhibitor CYP3A4) zvyšuje účinek statinů,
+- **farmakodynamické interakce** — warfarin + NSA zvyšují riziko krvácení,
+- **zvýšené riziko toxicity** — např. nefrotoxicita při kombinaci ACE inhibitorů a NSA,
+- **snížená účinnost** — antagonismus mezi β-agonisty a β-blokátory,
+- **non-adherence** — složitý režim s mnoha léky zvyšuje riziko chyb v užívání.
+
+**Jak riziko polypragmazie omezit:** pravidelně přehodnocovat medikaci a rušit zbytečné léky, individualizovat dávkování podle jaterních/renálních funkcí, používat software na detekci interakcí, a vzdělávat pacienty.
+
+🔑 **Klíčová dvojice k zapamatování: hypoalbuminemie zvyšuje volnou (toxickou) frakci warfarinu/fenytoinu. Hypokalemie zvyšuje toxicitu digoxinu.**
+
+❓ **Doptají se:**
+- *Proč je nebezpečná kombinace ACE inhibitoru a NSA?* → Obě snižují prokrvení ledvin — společně zvyšují riziko nefrotoxicity/akutního poškození ledvin.
+- *Jak hypoalbuminemie zvyšuje riziko toxicity warfarinu?* → Méně bílkoviny na vazbu → stoupne volná (účinná) frakce léčiva.
+
+---
+
+## O29 · Nežádoucí účinky léčiv
+
+**O čem to je:** Žádný lék není bez rizika. Tahle otázka má dvě části: **systém hlášení a dohledu** (farmakovigilance) a **klasifikaci typů nežádoucích účinků** — obojí se zkouší podrobně.
+
+### Farmakovigilance — "léková bdělost"
+
+Systematický dozor nad bezpečností léčiv: sledování užívání v klinické praxi, hodnocení poměru přínosu a rizika, zavádění opatření (změna registrace, pozastavení, zrušení) a informování zdravotníků. **V ČR je národním farmakovigilančním centrem SÚKL.**
+
+**Zdroje informací:** spontánní hlášení od zdravotníků i pacientů, klinická hodnocení, epidemiologické studie, farmaceutické firmy, odborná literatura, zdravotnické statistiky.
+
+**Regulační opatření po vyhodnocení signálu:** změna textu SPC/PIL, omezení indikací, změna dávkování, změna výdejové kategorie, **stažení z trhu.**
+
+**Hlášení nežádoucího účinku** = nepříznivá, nezamýšlená reakce po běžně užívané dávce. **Hlásit může i pacient sám** (elektronický nebo tištěný formulář SÚKL); **povinnost hlásit** mají zdravotničtí pracovníci, držitelé registrace a zadavatelé klinických hodnocení. Minimální náležitosti hlášení: údaje o pacientovi a oznamovateli, popis nežádoucího účinku, název přípravku a léčivé látky, dávka a způsob podání.
+
+**Po nahlášení:** hlášení dostane světové unikátní číslo → vloží se do databází (ČR, WHO, EU/EudraVigilance) → vznikne **farmakovigilanční signál** (hypotéza o souvislosti) → vyhodnocení → případné regulační opatření.
+
+### Základní rozdělení nežádoucích jevů
+
+| Pojem | Definice |
+|---|---|
+| **nežádoucí účinek LP** | nepříznivá, nezamýšlená reakce na běžnou dávku |
+| **nežádoucí příhoda** | jakýkoli neobvyklý nález u účastníka klinického hodnocení, ne nutně související s léčbou |
+| **závažný nežádoucí účinek** | vede k úmrtí, ohrožení života, hospitalizaci, trvalému poškození, nebo vrozené vývojové vadě |
+| **neočekávaný nežádoucí účinek** | povaha/závažnost neodpovídá tomu, co je uvedeno v SPC |
+
+**Podle závažnosti:** mírné (bez nutnosti měnit terapii), středně závažné (vyžadují změnu terapie), vážné (nutná hospitalizace, možná invalidita nebo smrt).
+
+### Typy nežádoucích účinků (klasifikace A–E — nejdůležitější část otázky)
+
+**Typ A — Augmented (zesílený)**
+- **časté** (až 95 % NÚ), nízká mortalita, **předvídatelné** — dají se odvodit přímo z farmakologického účinku léčiva,
+- **závisí na dávce**, projeví se hlavně na začátku terapie,
+- příčiny: špatně zvolená dávka, změněná farmakokinetika (nemoc, věk) nebo farmakodynamika (genetika, non-compliance),
+- příklady: **warfarin → krvácení**, **α1-blokátory → hypotenze**, **inzulin → hypoglykemie**, **β1-blokátor (metoprolol) → bronchokonstrikce u astmatika**,
+- řešení: **snížit dávku**, případně podat antagonistu; prevence: titrace dávky, individualizace, monitorování.
+
+**Typ B — Bizarre (bizarní)**
+- **vzácné** (0,01–0,1 %), ale **vysoká mortalita**; **NEZÁVISÍ na dávce** ani na známém farmakologickém účinku — nedají se předvídat; typicky se projeví v prvních týdnech léčby,
+- dva podtypy:
+  1. **idiosynkratické reakce** — nedají se odvodit ze známého mechanismu účinku léku,
+  2. **imunologické reakce (lékové alergie)** — zprostředkované imunitním systémem, vyžadují **předchozí expozici**. Většina léčiv je malá molekula, která sama nevyvolá imunitní odpověď — imunizace vznikne buď navázáním na velkou bílkovinu (**hapten** — penicilin kovalentně na albumin), metabolizací na reaktivní metabolit (**prohapten** — sulfametoxazol), nebo přímou interakcí s receptory imunitního systému.
+
+**Typ C — Continuous** — projeví se až po **dlouhodobém** podávání.
+**Typ D — Delayed** — projeví se po **delší době** (i po vysazení, teratogenita, kancerogenita).
+**Typ E — End of use** — projeví se **po vysazení** léčby (rebound fenomén, viz O27).
+
+🔑 **Typ A = časté, předvídatelné, závislé na dávce (řeší se úpravou dávky). Typ B = vzácné, nepředvídatelné, nezávislé na dávce (řeší se vysazením, ne úpravou dávky).**
+
+❓ **Doptají se:**
+- *Proč se typ A nedá vysvětlit jako "chyba" léku?* → Je to zesílení jeho ZNÁMÉHO farmakologického účinku, ne náhodná reakce — dá se předvídat a řešit úpravou dávky.
+- *Co je hapten?* → Malá molekula (léčivo), která se naváže na velkou bílkovinu a teprve tak vyvolá imunitní/alergickou odpověď.
+- *Kdo všechno smí nahlásit nežádoucí účinek?* → I samotný **pacient**, ne jen lékař.
+
+---
