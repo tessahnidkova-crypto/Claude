@@ -4757,3 +4757,311 @@ Diagnosticky se pomocí GnRH odliší hypogonadotropní hypogonadismus (nedostat
 - *Proč se vazopresin sám nehodí pro léčbu?* → Poločas jen 10 minut a neselektivní efekt (V1 i V2 zároveň).
 
 ---
+
+## 116 · Farmakoterapie onemocnění štítné žlázy
+
+**O čem to je:** Štítná žláza řídí metabolismus celého těla — moc hormonů znamená "zrychlené" tělo (hypertyreóza), málo znamená "zpomalené" (hypotyreóza). Léčba je buď blokáda (u přebytku), nebo náhrada (u nedostatku).
+
+Štítná žláza tvoří T3 a T4 (thyroxin), parafolikulární C-buňky tvoří kalcitonin. Hormony štítné žlázy řídí růst, vývoj a energetický metabolismus, kalcitonin řídí rovnováhu vápníku.
+
+**Transport a poločas — vděčná čísla.** Volná (neváznaá na bílkovinu) frakce T4 je jen 0,05 %, T3 0,5 %; hlavní transportní bílkovina je TBG (thyroxin-binding protein). Proto má T4 asi 3× delší poločas (asi 7 dní) než T3. V periferních tkáních se thyroxin (T4) přemění dejodací na T3, který je až 10× účinnější.
+
+Sekreci řídí TRH → TSH (bazální TSH tlumí somatostatin; hormony štítné žlázy tlumí zpětnovazebně jak TRH, tak TSH) a hladina jodidů — dlouhodobý nedostatek jódu vede ke strumě, nadbytek k atrofii žlázy. TSH zajišťuje vychytávání jodidů žlázou a má i trofický (růstový) efekt na tkáň.
+
+Účinky: přímo stimulují membránovou Na⁺/K⁺-ATPázu; efekt připomíná aktivaci sympatiku (rychlejší tep, sklon k arytmiím, nervozita, pocení, třes). Jsou nezbytné pro vývoj CNS a kostry — nedostatek v dětství vede ke kretenismu. Jsou lipofilní a v jádře buňky aktivují transkripci genů.
+
+**Hypertyreóza.** Nejčastější příčinou je Gravesova-Basedowova choroba. Tři možnosti léčby: ① thyreostatika (blokují tvorbu hormonů) + betablokátory na zmírnění příznaků, ② zničení tkáně radioaktivním jódem, ③ chirurgické odstranění.
+
+**Tyreotoxická krize** — život ohrožující stav, náhle vystupňovaná hypertyreóza, ohrožuje hlavně srdečním selháním. Léčba nitrožilně: betablokátory, jodidy (zpomalí uvolňování hormonů), thiamazol, hydrokortizon.
+
+**Hypotyreóza.** Primární — Hashimotova tyroiditida, nedostatek jódu, strumigeny z potravy; sekundární — pooperačně nebo po lécích (lithium). **Jedinou účinnou léčbou je podávání hormonů štítné žlázy** (pokud není příčinou přímo nedostatek jódu).
+
+Substituční léčba = nízké dávky udržující fyziologickou koncentraci. Supresivní léčba = vysoké dávky, které zpětnovazebně potlačí TSH — nutné u karcinomu a některých zánětů štítné žlázy; vyšší riziko kardiovaskulárních potíží.
+
+| | Levothyroxin (T4) | Liothyronin (T3) |
+|---|---|---|
+| Nástup | pomalý | rychlý — přímo účinný hormon |
+| Použití | nejčastěji používaný | nevhodný pro dlouhodobou léčbu — vyhrazen pro myxedémové kóma a urgentní stavy |
+
+Oba se musí užívat nalačno; levothyroxin lze užívat i na noc.
+
+**Jód.** Jodid je aktivně vychytáván štítnou žlázou → oxidován (thyreoidální peroxidáza) → naváže se do jodtyroninů; po dejodaci se vrací zpět do žlázy a znovu využívá. Ve vysokých dávkách přechodně tlumí uvolňování i tvorbu hormonů.
+
+Jodid draselný ústy — na doplnění nedostatku jódu (těhotné a kojící ženy, dospívající). Lugolův roztok (nasycený roztok KI) a kyselina jopanová — terapie hypertyreózy, vyšší dávky ústy nebo i.v.
+
+NÚ: v nadbytku aktivace autoimunity štítné žlázy, hypotyreóza (při dostatku jódu) i hypertyreóza (při deficitu jódu), alergická reakce, interference s thyreostatiky.
+
+**Příštítná tělíska a kalcitonin.** Parathormon (PTH) — sekreci řídí kalcemie (nízký vápník ji stimuluje, vysoký tlumí). Zvyšuje vápník v krvi (resorpce kosti, víc vstřebávání v ledvinách i střevě) a snižuje fosfatemii.
+
+| | Projevy | Léčba |
+|---|---|---|
+| Hyperparatyreóza | vysoký vápník → víc vápníku v moči, útlum CNS, ledvinové kameny | chirurgická nebo farmakologická (fosfáty, kalcitonin, bisfosfonáty); kalcimimetika — cinakalcet |
+| Hypoparatyreóza | často pooperačně; nízký vápník a vysoký fosfát | akutně soli vápníku nebo hořčíku i.v., chronicky vitamin D a vápník ústy; derivát PTH teriparatid |
+
+⚠️ **Cinakalcet** alostericky aktivuje receptor citlivý na vápník a zvyšuje jeho citlivost ke zpětnovazebné inhibici vápníkem → klesá sekrece PTH i kalcemie. Poločas asi 40 h; metabolizuje se přes CYP3A4 → lékové interakce.
+
+**Kalcitonin** — z parafolikulárních buněk, má opačné účinky než PTH, ale jeho reálný vliv na metabolismus vápníku je jen minimální. Lososí kalcitonin se podává parenterálně u akutní hyperkalcemie — nelze ústy, má delší a silnější účinek než lidský.
+
+🔑 **T4 = pomalý, dlouhý poločas. T3 = rychlý, silnější, jen na urgentní stavy.**
+
+❓ **Doptají se:**
+- *Proč se liothyronin (T3) nehodí na dlouhodobou léčbu?* → Rychlý nástup a krátký poločas — vyhrazen jen pro urgentní stavy (myxedémové kóma).
+- *Jaký je hlavní enzymový přenašeč T3/T4 v krvi?* → TBG (thyroxin-binding protein).
+
+---
+
+## 117 · Glukokortikoidy, mineralokortikoidy
+
+**O čem to je:** Kortikoidy jsou jedny z nejsilnějších protizánětlivých léků, ale za tu sílu se platí — dlouhodobě mají závažné NÚ, proto platí přísná pravidla (co nejnižší dávka, co nejkratší dobu, lokálně místo systémově, kdy to jde).
+
+**Glukokortikoidy.** Hlavní vlastní (endogenní) hormon je kortizol (hydrokortizon), uvolňovaný hlavně na ACTH. Syntetické deriváty se odbourávají pomaleji → delší poločas a jsou selektivnější. Prednison se v játrech přemění na aktivní prednisolon (je to proléčivo); metylací vzniká methylprednisolon, dál velmi silný dexamethason.
+
+**Nežádoucí účinky — nejdůležitější část otázky:**
+- horší odpověď na infekci a poškození tkáně — pomalé hojení ran, aktivace latentních infekcí
+- nižší vlastní tvorba hormonů — neschopnost reagovat na stres, "rebound" fenomén po náhlém vysazení
+- metabolické: iatrogenní (lékem vyvolaný) Cushingův syndrom, diabetogenní efekt, dyslipidemie
+- vyšší srážlivost krve, teplota a nitrolební tlak, osteoporóza, úbytek svalové hmoty
+- nízký draslík — hlavně v kombinaci s diuretiky
+
+**Tři způsoby použití:**
+
+| | Léčiva a zvláštnosti |
+|---|---|
+| Substituční | hydrokortizon, prednison, methylprednisolon. Hydrokortizon prochází HEB, placentou i do mateřského mléka, v plazmě se váže na transkortin. Podává se 2–3× denně se snahou zachovat přirozený denní rytmus — největší dávka ráno; i.v. po 6–8 h. **Dávky se zvyšují v zátěžových situacích — zdroj výslovně jmenuje stomatologický zákrok.** Indikace: nadledvinová nedostatečnost (Addisonova choroba) |
+| Systémová | prednison, methylprednisolon, dexamethason — imunosupresivní, protizánětlivý, antialergický, protiotokový efekt. Prednison a methylprednisolon mají menší mineralokortikoidní efekt než hydrokortizon. Dexamethason u otoku mozku při nádoru; použití i u Hodgkinovy choroby |
+| Lokální | dexamethason a triamcinolon — oční, ušní, nosní kapky, masti, krémy; triamcinolon a betamethason injekčně přímo do kloubu u revmatoidní artritidy, osteoartrózy, tendinitidy, burzitidy; inhalační u astmatu a CHOPN; intranazální u alergické rýmy. NÚ obvykle jen lokální — atrofie sliznic a kůže, ústní kandidóza; systémové vzácně |
+
+**Dvě čísla a pravidla terapie:** systémové podávání delší než 3 měsíce vede k rozvoji NÚ. Za bezpečnou dávku se považuje **2,5 mg prednisonu denně** — vyšší dávka je prokazatelně spojena s vyšším rizikem osteoporózy.
+
+**Pravidla:** upřednostnit lokální léčbu před systémovou, co nejnižší dávky, co nejkratší dobu, pomalu vysazovat.
+
+**Mineralokortikoidy.** Tvoří je kůra nadledvin (*zona glomerulosa*) — regulují vodní a iontovou rovnováhu. Základní je aldosteron, v malém množství deoxykortikosteron (jeho prekurzor, víc pod kontrolou ACTH).
+
+Nadměrná sekrece (Connův syndrom): zadržování sodíku a vody, nízký draslík, zásaditost krve, vysoký tlak. Snížená sekrece (Addisonova choroba): ztráta sodíku je relativně výraznější než ztráta vody → tekutina se přesouvá dovnitř buněk, vysoký draslík. Receptory pro aldosteron jsou jen v některých tkáních — distální tubulus, tlusté střevo, močový měchýř, potní žlázy.
+
+**Enzymová bariéra — nejelegantnější detail otázky.** K aldosteronovým receptorům mají afinitu i glukokortikoidy. Selektivitu zajišťuje enzym 11-β-hydroxysteroiddehydrogenáza v cílových buňkách, který z glukokortikoidů udělá neúčinné metabolity — proto na mineralokortikoidní receptory reálně nepůsobí, i když by mohly.
+
+**Blokátory mineralokortikoidních receptorů:**
+
+| | Spironolakton | Eplerenon |
+|---|---|---|
+| Postavení | nejužívanější; snižuje nemocnost i úmrtnost u srdečního selhání | u intolerance spironolaktonu, lépe snášen, dražší |
+| NÚ | antiandrogenní a progestagenní efekt — hlavně v kombinaci s léky snižujícími androgeny | prakticky bez interakcí |
+| Kinetika | poločas až 24 h, aktivní metabolity; výrazný induktor CYP3A4 a P-glykoproteinu | poločas asi 5 h, bez aktivních metabolitů |
+
+⚠️ Při monoterapii nebývá vysoký draslík výrazný, ale v kombinaci s ACE inhibitory, sartany, doplňky draslíku nebo při selhávání ledvin může vést k poruchám srdečního rytmu. Naopak v kombinaci s ACE inhibitory a diuretiky hrozí naopak nízký sodík — **sledovat sodík i draslík**.
+
+🔑 **Bezpečná dlouhodobá dávka prednisonu = 2,5 mg/den. Nad to riziko osteoporózy roste.**
+
+❓ **Doptají se:**
+- *Proč se glukokortikoidy nevysazují náhle?* → Riziko rebound fenoménu — tělo dočasně nemá dost vlastní produkce hormonů, aby reagovalo na stres.
+- *Co zajišťuje selektivitu mineralokortikoidních receptorů vůči glukokortikoidům?* → Enzym 11-β-hydroxysteroiddehydrogenáza, který glukokortikoidy v cílové buňce inaktivuje.
+
+---
+
+## 118 · Farmakoterapie obezity
+
+**O čem to je:** Léky na obezitu fungují třemi různými cestami — buď zabrání vstřebání tuku ve střevě, nebo tlumí chuť k jídlu v mozku, nebo (nejmodernější přístup) napodobí hormon sytosti GLP-1.
+
+**Obezita = BMI nad 30 kg/m².** Závažný rizikový faktor aterotrombotických příhod, cukrovky, nádorových onemocnění a artrózy. Společný jmenovatel "metabolického syndromu" — obezita v pase, dyslipidemie, hypertenze, cukrovka. Patofyziologie je velmi složitá a dosud plně neobjasněná.
+
+| Skupina | Mechanismus a zástupci |
+|---|---|
+| Inhibitory pankreatické lipázy | blokují lipázy v GIT → zamezí rozklad triglyceridů → sníží se jejich vstřebávání. Výsledkem je steatorea (mastná stolice) — obtížně předvídatelné vyprazdňování a nadýmání. Nutno podávat s každým jídlem obsahujícím tuk; snižuje vstřebávání i lipofilních léků/vitaminů. Orlistat |
+| Anorektika | působí v hypothalamu na centrum příjmu potravy zvýšením nabídky přenašečů — NA, dopamin, GABA, serotonin |
+| GLP-1 analoga | napodobují přirozený hormon zvyšující pocit sytosti a snižující chuť k jídlu; používají se i u diabetu 2. typu (posilují sekreci inzulinu). Podávají se injekčně v předplněném peru — liraglutid, semaglutid |
+
+**Anorektika jednotlivě:**
+
+| Léčivo | Podstata |
+|---|---|
+| Fentermin | účinný u pacientů s nezvladatelnou chutí k jídlu; blokuje zpětné vychytávání NA, serotoninu a dopaminu. NÚ: zvyšuje tlak, nespavost, neklid, tachyarytmie, psychózy |
+| Bupropion + naltrexon (fixní kombinace) | bupropion — antidepresivum NDRI, anticravingová léčba závislosti na jídle, nikotinu i alkoholu; naltrexon — antagonista μ-opioidních receptorů, snižuje euforizující efekt jídla |
+
+🔑 **GLP-1 analoga = dnešní nejmodernější přístup, napodobují hormon sytosti, fungují i na diabetes.**
+
+❓ **Doptají se:**
+- *Jak funguje orlistat a jaký má typický NÚ?* → Blokuje pankreatickou lipázu, sníží vstřebávání tuků → mastná, obtížně předvídatelná stolice (steatorea).
+- *Proč se GLP-1 analoga používají i u diabetu?* → Kromě potlačení chuti k jídlu potencují sekreci inzulinu.
+
+---
+
+## 119 · Androgeny, anabolické steroidy
+
+**O čem to je:** Testosteron a jeho aktivní metabolit DHT řídí mužské pohlavní znaky. Zneužívání anabolik ke svalové hmotě má paradoxní vedlejší účinek — feminizaci, protože testosteron je zároveň prekurzorem estrogenu.
+
+**Fyziologické androgeny:** **testosteron** — tvoří ho Leydigovy buňky ve varlatech, i vaječníky a nadledviny, pod vlivem FSH a LH; **dihydrotestosteron (DHT)** — hlavní aktivní metabolit testosteronu.
+
+**Mechanismus účinku — klíčový detail.** Androgeny se váží na specifický jaderný receptor. **Testosteron je aktivní přímo ve svalech a játrech. Ostatní tkáně potřebují jeho přeměnu na DHT enzymem 5-α-reduktázou.** *(Proto inhibitory 5-α-reduktázy fungují u hyperplazie prostaty — viz O122.)*
+
+Význam: vývoj primárních a sekundárních pohlavních znaků, plodnost a libido, vyšší svalová hmota a síla, urychlení tvorby červených krvinek, udržení normální kostní hustoty.
+
+**Terapeutické využití — substituční léčba hypogonadismu:** primární — defekt na úrovni varlat × sekundární — defekt na úrovni hypothalamu nebo hypofýzy. Estery testosteronu mají delší účinek a neodbourávají se v játrech — podávají se ústy, i.m. nebo transdermálně.
+
+**Antiandrogeny:**
+
+| Skupina | Zástupci a indikace |
+|---|---|
+| Blokáda tvorby testosteronu — analoga gonadoliberinu | goserelin, leuprorelin — karcinom prostaty, endometrióza, děložní myomy |
+| Blokáda účinku — antagonisté androgenních receptorů | flutamid, bikalutamid |
+
+**Anabolické steroidy** nejsou schváleny pro medicínskou praxi. Neschválené užívání ke zvýšení svalové hmoty a síly. Danazol — slabý androgen s antiestrogenní aktivitou; léčba endometriózy a fibrocystického onemocnění prsu.
+
+**Nežádoucí účinky podle skupin — vděčné na doptání:**
+
+| Skupina | Nežádoucí účinky |
+|---|---|
+| Muži | vysoké dávky mohou vyvolat feminizaci — testosteron je prekurzor estrogenu a některé tkáně (prs) mají jen estrogenové receptory; gynekomastie, neplodnost, zmenšená varlata, akné |
+| Ženy | akné, hirsutismus, zhrubnutí hlasu, vypadávání vlasů, nepravidelná menstruace |
+| Oba | změny chování, agresivita, hepatocelulární karcinom |
+| Děti | předčasné uzavření růstových plotének (zastaví se růst do výšky) |
+
+> **Feminizace u mužů po anabolikách zní jako paradox — a právě proto se na ni ptají.** Vysvětlení v jedné větě: testosteron je prekurzorem estrogenu, takže jeho nadbytek znamená i nadbytek estrogenu.
+
+🔑 **Testosteron = přímo aktivní ve svalu a játrech. Jinde potřebuje přeměnu na DHT (5-α-reduktáza).**
+
+❓ **Doptají se:**
+- *Proč vysoké dávky anabolik u mužů vedou k feminizaci?* → Testosteron je prekurzorem estrogenu, jeho nadbytek se z části přemění na estrogen.
+- *Proč anabolika u dětí zastaví růst?* → Předčasně uzavřou růstové ploténky kostí.
+
+---
+
+## 120 · Estrogeny, gestageny
+
+**O čem to je:** Ženské pohlavní hormony — estrogeny chrání cévy a kosti, ale zvyšují srážlivost krve; gestageny (hlavně progesteron) drží těhotenství a tlumí ovulaci. Tahle jedna dvojice vlastností estrogenů vysvětluje skoro celou otázku.
+
+Terapeutické použití pohlavních hormonů: antikoncepce, zvládání příznaků menopauzy, substituce při nedostatku, u antagonistů léčba a prevence hormonálně dependentních nádorů.
+
+**Estrogeny** jsou steroidní hormony tvořené vaječníkem, syntetizované z cholesterolu; v jejich metabolismu hrají roli enzymy CYP450.
+
+| Přirozený estrogen | Charakteristika |
+|---|---|
+| Estradiol | nejsilnější, vzniká v terciárních folikulech díky FSH; hlavní estrogen premenopauzálních žen |
+| Estron | metabolit estradiolu; hlavní estrogen žen po menopauze |
+| Estriol | metabolit estradiolu; výrazně stoupá v těhotenství, tvoří ho placenta |
+
+⚠️ Fyziologické estrogeny se ve farmakologii nepoužívají — příliš rychle se odbourávají.
+
+| Syntetický | Použití |
+|---|---|
+| Ethinylestradiol | odolnější vůči odbourání, účinný ústy v nízkých dávkách — nejčastější součást antikoncepce |
+| Estradiol-benzoát | i.m., substituční léčba |
+| Estradiol-valerát | v antikoncepci jen výjimečně |
+
+Mechanismus: vazba na nitrobuněčný receptor pro steroidní hormony → spustí transkripci genů. Receptory jsou po celém těle, nejvíc v pohlavních orgánech, prsní žláze, hypothalamu a hypofýze (zpětnovazebná inhibice), játrech, ledvinách, kosti.
+
+**Systémové účinky — jádro otázky:**
+- psychický a tělesný vývoj žen, spouští proliferační fázi ovariálního cyklu
+- **zvyšují HDL** — proto mají ženy do menopauzy nižší riziko cévních nemocí
+- **zvyšují srážecí faktory II, VII, IX, X a snižují antitrombin III** → protrombotický stav
+- usnadňují přesun tekutiny z cév do tkáně → otoky
+- **udržují hustotu kostí** — proto je po menopauze častá osteoporóza
+
+> **Ta dvojice vysvětluje všechno ostatní: estrogeny chrání cévy a kost, ale zvyšují srážlivost.** Z toho plynou indikace i kontraindikace.
+
+Indikace: substituce při primárním hypogonadismu, kontraceptiva, potlačení potíží po menopauze (návaly, otoky, vypadávání vlasů), profylaxe osteoporózy a dyslipidemie u postmenopauzálních žen.
+
+NÚ: otoky, krvácení po menopauze, tromboembolické příhody, napětí v prsou, hyperpigmentace (linea nigra na břiše), bolesti hlavy, ataky migrény, vyšší riziko rakoviny prsu, ale nižší riziko rakoviny vaječníků.
+
+KI: nádory závislé na estrogenu, krvácení z genitálií nejasného původu, poškozená funkce jater, tromboembolie v anamnéze nebo trombogenní mutace (Leidenská mutace faktoru V), silné kuřačky.
+
+**Gestageny.** Progesteron — prototyp, tvoří ho žluté tělísko v luteální fázi pod vlivem LH, v těhotenství placenta, u mužů varlata, u obou pohlaví kůra nadledvin.
+
+Účinky: podporuje vývoj sekrečních žláz v prsu a zrání endometria; ovlivňuje metabolismus cukrů, ukládá tuk; tlumí ovulaci a menstruační cyklus; aktivuje žlázy děložního hrdla k tvorbě hustého hlenu. **Progesteron snižuje počet estrogenových receptorů** — proto se používá i v prevenci hormonálně dependentních nádorů endometria.
+
+NÚ: bolest hlavy, deprese, přírůstek hmotnosti, změna libida, zvýšení tlaku, **snížení HDL** (opak estrogenů).
+
+| Syntetické | Atypické |
+|---|---|
+| medroxyprogesteron-acetát, **levonorgestrel — nejčastější v antikoncepci**, desogestrel | tibolon — snižuje úbytek kostní hmoty; drospirenon — proti otokům; cyproteron-acetát — proti akné |
+
+🔑 **Estrogeny = chrání cévy a kost, ale zvyšují srážlivost. Progesteron = snižuje počet estrogenových receptorů.**
+
+❓ **Doptají se:**
+- *Proč mají ženy do menopauzy nižší riziko cévních nemocí?* → Estrogeny zvyšují HDL a mají obecně ochranný vliv na cévy.
+- *Jak progesteron chrání endometrium před nádory?* → Snižuje počet estrogenových receptorů, čímž tlumí proliferační efekt estrogenů.
+
+---
+
+## 121 · Kontraceptiva
+
+**O čem to je:** Kombinovaná antikoncepce funguje na dvou úrovních — estrogen tlumí FSH, gestagen tlumí LH a navíc zahušťuje hlen. Otázka pokrývá formy, rizika i to, co se často opomíjí — pozitivní vedlejší efekty.
+
+**Mechanismus — dvě složky, dva různé účinky.** Exogenní estrogen vytváří negativní zpětnou vazbu a snižuje uvolnění FSH. Exogenní progestin (syntetický gestagen) tlumí sekreci LH, zahušťuje hlen děložního hrdla a snižuje pohyblivost vejcovodů. **Výsledek: brání ovulaci a transportu spermií.**
+
+Spolehlivost: Pearlův index 0,1–0,4 (počet těhotenství na 100 žen za rok užívání).
+
+⚠️ Při předepisování je nutné pacientku poučit: nevhodnost kouření, postup při chybě (zapomenutá tableta), NÚ, **antikoncepce nechrání před pohlavními nemocemi**. Před nasazením: cytologické vyšetření, změření tlaku, jaterní testy, anamnéza rizikových faktorů.
+
+**Kombinovaná antikoncepce — formy:**
+
+| Forma | Charakteristika |
+|---|---|
+| Jednofázová | 21 tablet, dávka estrogenu i progestinu je konstantní; může být doplněná o 7 placebo tablet |
+| Dvoufázová | 21 tablet, estrogen konstantní, progesteron vyšší ve druhé fázi cyklu — tělu přirozenější |
+| Třífázová | estrogen se ve druhé třetině zvyšuje, ve třetí snižuje; progesteron roste ve druhé a třetí třetině — nejmodernější a nejpřirozenější |
+| Transdermální náplast | ethinylestradiol + progestin; první tři týdny cyklu, čtvrtý bez náplasti. Méně účinná u žen nad 90 kg |
+| Vaginální kroužek | aplikace na tři týdny, pak odstraněn |
+
+NÚ: tromboembolická nemoc, ischemická choroba srdeční, infarkt, poškozená funkce jater, vyšší riziko žlučových kamenů, adenomy a karcinomy jater, vyšší riziko rakoviny prsu, při užívání nad 10 let možná dočasně horší schopnost otěhotnět.
+
+KI: tromboembolie v anamnéze, vrozené poruchy srážlivosti, obezita, dlouhodobá imobilizace, kouření, rodinná anamnéza infarktů.
+
+**Pozitivní účinky — nezapomeň na ně, otázka není jen o rizicích:** úprava menstruačního cyklu, snížení nadměrného krvácení, zmírnění premenstruačního syndromu, méně funkčních ovariálních cyst, méně mimoděložních těhotenství, méně pánevního zánětu, zlepšení akné.
+
+**Gestagenní (jednosložková) antikoncepce.** Kontinuální podávání progestinu. **Absolutní kontraindikace u žen s rakovinou prsu.** Vhodná pro: ženy s kontraindikacemi jiných metod, **kuřačky nad 35 let**, kojící ženy.
+
+Mechanismus: naruší funkci vaječníku, ztíží uhnízdění, ovlivní hustotu hlenu — stane se neprůchodným pro spermie.
+
+⚠️ **Interakce, kterou zdroj zvlášť zdůrazňuje:** pozor na acetylcystein a jiná mukolytika — sníží hustotu hlenu, tedy přesně ten mechanismus, na kterém gestagenní antikoncepce stojí.
+
+Nevýhody: poruchy menstruačního cyklu, nepravidelné krvácení, napětí v prsou, přírůstek hmotnosti, změny libida.
+
+🔑 **Kombinovaná = estrogen tlumí FSH, gestagen tlumí LH + zahušťuje hlen. Gestagenní samostatná = jen hustota hlenu + narušení ovulace, vhodná pro kuřačky a kojící.**
+
+❓ **Doptají se:**
+- *Proč se acetylcystein nekombinuje s gestagenní antikoncepcí?* → Ředí hlen děložního hrdla, což ruší hlavní mechanismus účinku (zahuštění hlenu jako bariéra pro spermie).
+- *Jaké pozitivní účinky má kombinovaná antikoncepce mimo prevenci těhotenství?* → Úprava cyklu, méně krvácení, méně PMS, méně funkčních cyst, méně mimoděložních těhotenství, zlepšení akné.
+
+---
+
+## 122 · Farmakoterapie benigní hyperplazie prostaty
+
+**O čem to je:** Zvětšená prostata u starších mužů tlačí na močovou trubici dvěma způsoby — mechanicky (jen tkáň) a "dynamicky" (napětí svalu) — a léčba cílí na oba mechanismy jinak.
+
+**Benigní hyperplazie prostaty** = nezhoubné zvětšení prostaty ze zmnožení stromálních buněk. Výskyt roste s věkem — v 60 letech má klinické příznaky 60 % mužů.
+
+**Patogeneze — vysvětluje, proč fungují inhibitory 5-α-reduktázy.** S věkem přibývá relativně estrogenů, které zvyšují počet DHT receptorů → to stimuluje růst prostaty.
+
+| Typ obstrukce | Podstata |
+|---|---|
+| Mechanická | pasivní stlačení močové trubice tkání |
+| Dynamická | napětí hladkého svalu prostaty |
+
+Dřív bez léčby vznikal zbytek moči v měchýři, jeho zbytnění až poškození ledvin.
+
+**Klinický obraz — prostatismus:**
+
+| Iritační příznaky | Obstrukční příznaky |
+|---|---|
+| časté nucení na moč, naléhavé nucení, noční močení, urgentní inkontinence, bolest za sponou stydkou | pomalý start močení, močení se zvýšeným úsilím, přerušovaná prodloužená mikce, ztenčení proudu moči |
+
+**Farmakologická léčba:**
+
+| Skupina | Mechanismus a zástupci |
+|---|---|
+| α-blokátory | antagonisté podtypu receptoru α1A/D, který je jen v prostatě → uvolnění hladkého svalu prostaty, nižší odpor v uretře. Mírní obstrukční i iritační příznaky. Neovlivňují α1B receptory kardiovaskulárního systému → minimum systémových NÚ — přesto pozor na pokles tlaku při vstávání. Alfuzosin, silodosin, tamsulosin |
+| Inhibitory 5-α-reduktázy | selektivně kompetitivně blokují přeměnu testosteronu na DHT; přidávají se k α-blokátorům, využívají se i k léčbě androgenní alopecie. Svaly si vystačí s testosteronem a DHT nepotřebují — proto tyto léky nesnižují svalovou hmotu. NÚ: horší libido, poruchy erekce, méně ejakulátu, změny nálad. Finasterid, dutasterid |
+| Inhibitory fosfodiesterázy 5 | tadalafil, sildenafil |
+| Anticholinergika | spasmolytický efekt na sval močového měchýře; u hyperaktivního močového měchýře. Solifenacin |
+| Fytoterapeutika | extrakty z palmy trpasličí a kopřivy dvoudomé |
+
+> **Propojení:** finasterid je zároveň učebnicový příklad **noceba** z obecné otázky O9 — informovaní pacienti hlásí erektilní dysfunkci výrazně častěji než neinformovaní.
+
+🔑 **α-blokátory = rychlá úleva (uvolní sval). 5-α-reduktáza inhibitory = pomalu zmenší samotnou žlázu.**
+
+❓ **Doptají se:**
+- *Proč inhibitory 5-α-reduktázy nesníží svalovou hmotu, i když blokují přeměnu na DHT?* → Sval je aktivní přímo testosteronem, DHT nepotřebuje.
+- *Jaký je typický vedlejší účinek inhibitorů 5-α-reduktázy?* → Sexuální dysfunkce (horší libido, poruchy erekce), a je to i klasický příklad noceba efektu.
+
+---
