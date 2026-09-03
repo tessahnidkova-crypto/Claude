@@ -4509,3 +4509,251 @@ Prochází placentou — spontánní potraty, předčasné porody, malformace (s
 - *Proč amfetaminová psychóza připomíná schizofrenii?* → Obě souvisí s nadměrnou dopaminovou aktivitou (dopaminová teorie psychóz).
 
 ---
+
+## 110 · Nikotin
+
+**O čem to je:** Nikotin je alkaloid tabáku, agonista nikotinových receptorů — vysvětluje, proč zapůsobí na tolik různých míst v těle najednou (mozek, ganglia, svaly). Otázka pokrývá i praktické odvykání a zdravotní následky kouření.
+
+**Nikotin = alkaloid v tabáku, cholinomimetikum.** Je agonistou nikotinových cholinergních receptorů — v mozku, gangliích i na nervosvalové ploténce.
+
+Účinky (na sympatických i parasympatických gangliích, v CNS a na ploténce): tachykardie, vyšší tlak, víc pohybu GIT, víc slin/potu/průduškové sekrece, uvolnění adrenalinu z nadledvin, uvolnění ADH z hypofýzy, spouští zvracení, stažení cév.
+
+| Dávka | Účinek na CNS |
+|---|---|
+| Nízká | euforie, vzrušení, uvolnění, zlepšená pozornost, usnadňuje učení |
+| Vysoká | křeče, zvracení, zástava dechu, potlačí chuť k jídlu |
+
+⚠️ **Nikotin může receptory jak stimulovat, tak vyčerpat (desenzibilizovat) — proto jsou účinky smíšené a nepředvídatelné.**
+
+**Proč se musí "šlukovat" — vděčný detail.** pH kouře je kyselejší než nikotin sám → nikotin se v ústech vstřebává špatně, proto nestačí kouř jen držet v ústech, musí se vdechnout do plic.
+
+Metabolit nikotinu je **kotinin** — spolehlivý marker toho, jestli člověk kouří. Vzniká fyzická i psychická závislost. Abstinenční příznaky: podrážděnost, agresivita, poruchy spánku, zvýšená chuť k jídlu.
+
+Otrava nikotinem: zvracení, křeče, zmatenost, tachykardie, respirační selhání. **Z cigarety se vstřebá asi 1,5 mg nikotinu, smrtelná dávka je 40 mg.**
+
+**Odvykání kouření:** psychoterapie, antidepresiva, nikotinová substituční léčba (žvýkačky, náplasti, pastilky).
+
+| Anticravingová léčba | Charakteristika |
+|---|---|
+| Vareniklin | parciální agonista α2β2 cholinergních receptorů; NÚ: sebevražedné myšlenky, změny nálad, deprese |
+| Bupropion | antidepresivum ze skupiny NDRI |
+| Cytisin | podobný účinek jako vareniklin, lépe snášený, ale nižší úspěšnost |
+
+**Následky kouření.** V tabákovém kouři bylo nalezeno přes 60 karcinogenních látek. Život kuřáka je v průměru asi o 10 let kratší. Aktivní kouření se podílí na: zhoubných nádorech plic, dutiny ústní, slinivky a střev; rozvoji aterosklerózy (mozkové a srdeční příhody); urychlení stárnutí kůže; **CHOPN vzniká prakticky jen u kuřáků**; vředové chorobě žaludku a duodena; šedém zákalu; poruše potence a plodnosti u mužů, menstruačních obtížích a neplodnosti u žen.
+
+⚠️ **Pro tebe jako zubařku stojí za zdůraznění nádory dutiny ústní** — na tohle se ptají i mimo farmakologii.
+
+🔑 **Kotinin = marker kouření. CHOPN vzniká téměř výhradně u kuřáků.**
+
+❓ **Doptají se:**
+- *Proč se cigareta musí "šlukovat" a nestačí kouř jen držet v ústech?* → Kyselé pH kouře brání vstřebávání nikotinu ústní sliznicí — musí se dostat do plic.
+- *Jaký je spolehlivý marker kouření?* → Kotinin, metabolit nikotinu.
+
+---
+
+## 111 · Metylxantiny a jejich deriváty
+
+**O čem to je:** Kofein a jeho příbuzní jsou překvapivě řazeni i mezi diuretika — kromě známého stimulačního efektu na mozek totiž ovlivňují i ledviny a průdušky přes dva společné mechanismy.
+
+⚠️ Zdroj řadí metylxantiny mezi diuretika — různorodou skupinu léků zajišťujících vyšší vylučování vody a iontů (hlavně sodíku a draslíku). Indikace: stavy se zadržováním sodíku a vody, léčba hypertenze.
+
+Jde o purinové sloučeniny. **Dva mechanismy:**
+1. blokují fosfodiesterázu → zvyšují nitrobuněčný cAMP
+2. blokují adenosinový receptor (AR1) — neselektivní antagonisté
+
+**Renální účinek:** rozšíří přívodnou tepénku (*vas afferens*) a stáhnou odvodnou (*vas efferens*) → vyšší filtrační tlak a víc primární moči; blokádou AR1 v proximálním tubulu sníží zpětné vstřebávání sodíku. Diuretický efekt je zpočátku výrazný, pak vzniká tolerance a efekt klesá.
+
+**CNS:** blokádou adenosinových receptorů se potlačí únava a zvýší schopnost soustředění. **Průdušky:** uvolní hladké svaly → využití u perzistujícího astmatu.
+
+| Látka | Zdroj / použití |
+|---|---|
+| Kofein | alkaloid ze semen kávovníku a listů čajovníku |
+| Teofylin, aminofylin | bronchodilatace → astma; podávají se ústy v retardovaných formách |
+| Theobromin | v kakau |
+| Etofylin | vazodilatace — subakutní a chronické poruchy prokrvení mozku |
+| Pentoxifylin | rozšiřuje tepny — poruchy prokrvení aterosklerotické, diabetické a zánětlivé etiologie, omrzliny |
+
+**Sildenafil (Viagra)** — perorální blokátor fosfodiesterázy typu 5. Indikace: plicní arteriální hypertenze a erektilní dysfunkce.
+
+**Mechanismus:** při sexuálním vzrušení se uvolní NO, ten aktivuje guanylátcyklázu → víc cGMP → rozšíření tepének a lokální překrvení (přímá spojka na druhé posly z obecné otázky O22).
+
+⚠️ **NÚ: prudký pokles tlaku; u pacientů s ischemickou chorobou srdeční popsány i fatální infarkty; riziko kardiovaskulárních příhod v kombinaci s nitráty** (viz O71).
+
+🔑 **Metylxantiny = dva mechanismy: blokáda fosfodiesterázy + blokáda adenosinových receptorů. Sildenafil = blokáda PDE5, nikdy nekombinovat s nitráty.**
+
+❓ **Doptají se:**
+- *Jaké jsou dva mechanismy účinku metylxantinů?* → Blokáda fosfodiesterázy (víc cAMP) a blokáda adenosinových receptorů.
+- *Proč je nebezpečné kombinovat sildenafil s nitráty?* → Oba zvyšují cGMP stejnou cestou → extrémní, nebezpečný pokles tlaku.
+
+---
+
+## 112 · Antirevmatika
+
+**O čem to je:** Léky na revmatoidní artritidu se dělí na ty, co jen tlumí příznaky (NSA), a na DMARD, které skutečně zpomalují postup nemoci — ty ale často nastupují až po měsících.
+
+Nesteroidní antirevmatika (= nesteroidní antiflogistika) mají protizánětlivý, antipyretický a analgetický efekt (viz O64).
+
+**DMARD (disease modifying antirheumatic drugs)** = skupina chemicky různorodých látek, které zlepšují příznaky a snižují aktivitu revmatoidní artritidy a dalších zánětlivých onemocnění: úleva od bolesti, ústup otoku, lepší hybnost, pokles bílkovin akutní fáze.
+
+**Tři věty, které DMARD definují:** mechanismus účinku často není přesně znám; účinek nastupuje pomalu, ale dlouhodobě přetrvává; **zasahují do samotného imunopatologického děje, tlumí zánětlivou aktivitu a zpomalují postup nemoci — na rozdíl od NSA, která jen tlumí příznaky.**
+
+| Skupina | Léčivo | Charakteristika | Indikace | NÚ |
+|---|---|---|---|---|
+| NSA-podobné | sulfasalazin, olsalazin | kombinace sulfonamidu a salicylátu; účinná látka se uvolní až činností bakterií v tlustém střevě | lék první volby u ulcerózní kolitidy, Crohnova nemoc, RA | trávicí potíže, kožní reakce, leukopenie |
+| Imunosupresiva | metotrexát | antagonista kyseliny listové, cytostatikum | ulcerózní kolitida, Crohn, RA, psoriáza, leukemie, nádory | méně časté |
+| Sloučeniny zlata | aurothiomalát sodný, auranofin | účinek nastupuje velmi pomalu — až po 4 měsících | RA | závažná toxicita — kožní vyrážky, poškození kostní dřeně, neuropatie |
+| Antimalarika | chlorochin, hydroxychlorochin | při selhání jiné léčby | RA, systémový lupus erythematodes | zvracení, neostré vidění, vyrážky |
+| Metabolity penicilinu | penicilamin | potlačuje tvorbu IL-1 a částečně kolagenu | RA | zánět ústní sliznice, leukopenie, trombocytopenie |
+
+**Monoklonální protilátky** ovlivňují struktury důležité pro rozvoj zánětlivého autoimunitního onemocnění a rejekce transplantátu. Cílovou molekulou je konkrétní prozánětlivý cytokin nebo jeho receptor. Indikují se u pacientů, kteří nedostatečně odpovídají na předchozí léčbu.
+
+⚠️ **Koncovky — pozor, tenhle zdroj je zapisuje jinak než obecná otázka O35:** **-mumab** = humánní, **-momab** = myší, **-ximab** = chimérické (max 40 % myší složky), **-zimab** = humanizované (jen 10 % myší složky). *(Obecná otázka O35 to popisuje jako -o-/-xi-/-zu-/-u- — jde o totéž dělení podle podílu myší složky, jen jinak zapsané; procenta uvádí jen tenhle zdroj.)*
+
+| Cíl | Léčiva | Indikace |
+|---|---|---|
+| TNF-α (tvoří ho makrofágy v místě zánětu, stimuluje imunitní odpověď) | infliximab, adalimumab, etanercept, golimumab | nejrozšířenější: RA, psoriatická artritida, Crohnova nemoc, psoriáza |
+| IL-1 | anakinra / kanakinumab | RA / ataky dnavé artritidy |
+| IL-6 | tocilizumab | RA a juvenilní idiopatická artritida |
+| IL-2 (antagonista) | basiliximab, daklizumab | prevence akutní rejekce transplantátu |
+
+**Derivancia** — látky k místnímu použití, zvyšují prokrvení a urychlují průběh (a tím i hojení) zánětu, nebo urychlují vstřebání otoku. Účinné látky: kafr, mentol. Jsou obvykle jen doplňkem hlavní kauzální léčby. *(Z latinského derivans = odvádějící.)*
+
+🔑 **NSA = jen tlumí příznaky. DMARD = zasahují imunopatologický proces, zpomalují postup nemoci, ale pomalý nástup.**
+
+❓ **Doptají se:**
+- *Jaký je hlavní rozdíl mezi NSA a DMARD?* → NSA jen tlumí příznaky, DMARD zpomalují samotný postup nemoci, ale nastupují pomalu.
+- *Který lék ze sloučenin zlata má nejpomalejší nástup?* → Efekt nastupuje až po 4 měsících u obou (aurothiomalát, auranofin).
+
+---
+
+## 113 · Antiuratika
+
+**O čem to je:** Léky na dnu (dnavou artritidu) se dělí podle toho, jestli řešíš právě probíhající bolestivý záchvat (kolchicin, NSA), nebo dlouhodobě snižuješ vysokou kyselinu močovou (alopurinol) — a tady je klasická past, protože se to nesmí zaměnit.
+
+Používají se k léčbě dny, která se projevuje akutním bolestivým záchvatem artritidy; v krvi je přítomná hyperurikemie (vysoká kyselina močová).
+
+**Tři možné příčiny hyperurikemie:**
+1. genetická porucha metabolismu purinů a ukládání urátů v chrupavkách a kloubech
+2. nadměrný rozpad nukleotidů
+3. pokles vylučování kyseliny močové
+
+Může vést k degenerativním kloubním procesům.
+
+**Čtyři cíle léčby — tímhle otázku strukturuj:** ① potlačit projevy akutního záchvatu ② snížit riziko dalších atak ③ upravit hyperurikemii mezi záchvaty ④ dosáhnout koncentrace kyseliny močové pod 360 μmol/l.
+
+**Akutní záchvat — potlačení zánětu a bolesti:**
+
+| Léčivo | Mechanismus |
+|---|---|
+| NSA | léčiva první volby |
+| Kolchicin | mitotický jed — brání tvorbě mikrotubulů, a tím zabraňuje migraci leukocytů k postiženému kloubu; způsobuje náhlé profuzní průjmy |
+| Glukokortikoidy | při neúspěchu předchozí léčby — i.m. nebo přímo do kloubu |
+
+**Prevence a dlouhodobá léčba — potlačení tvorby urátů.** Inhibitory xantinoxidázy (enzym, který přeměňuje puriny na kyselinu močovou): **alopurinol je lékem volby pro dlouhodobou léčbu — NE pro akutní záchvat.** To je klasická chytačka. Dál febuxostat. Pokud alopurinol nestačí, kombinuje se s **lesinuradem** — selektivní blokátor transportéru URAT1, který zajišťuje zpětné vstřebávání kyseliny močové.
+
+**Urikosurika** (podporují vylučování): kyselina močová se v ledvinách zpětně vstřebává, jen asi 10 % filtrovaného množství se dostane do moči. **Probenecid** — blokuje zpětné vstřebávání kyseliny močové blokádou příslušných transportérů. *(Tentýž probenecid, který prodlužuje hladiny penicilinu — obecná otázka O25.)*
+
+K prevenci je důležitá životospráva: omezení jídel bohatých na puriny, omezení alkoholu, redukce nadváhy.
+
+🔑 **Alopurinol = jen dlouhodobá prevence, NIKDY na akutní záchvat. Akutní záchvat = NSA, kolchicin, kortikoidy.**
+
+❓ **Doptají se:**
+- *Můžeš nasadit alopurinol při akutním záchvatu dny?* → Ne, je jen pro dlouhodobou léčbu; akutní záchvat se řeší NSA, kolchicinem nebo kortikoidy.
+- *Jak funguje kolchicin?* → Mitotický jed, brání tvorbě mikrotubulů, čímž zablokuje migraci leukocytů do postiženého kloubu.
+
+---
+
+## 114 · Imunosupresiva, imunostimulancia
+
+**O čem to je:** Léky ovlivňující imunitu jdou dvěma směry — buď ji tlumí (po transplantaci, u autoimunit), nebo ji povzbuzují (proti infekcím, nádorům) — a hranice mezi oběma efekty není vždy ostrá.
+
+⚠️ **Cílem imunomodulační léčby je potlačení imunitního systému (imunosuprese) nebo naopak jeho stimulace (imunostimulace). Hranice mezi nimi je tenká — potlačení jedné funkce imunity může vést ke stimulaci jiné.** Tuhle větu řekni jako první, drží celou otázku.
+
+**Imunosupresiva:**
+
+| Skupina | Léčiva | Podstata |
+|---|---|---|
+| Glukokortikoidy | | široké spektrum protizánětlivých účinků; působí především na buněčnou imunitu, méně na humorální; brání tvorbě prozánětlivých IL-1, IL-6 a tvorbě IL-2 |
+| Cytotoxická léčiva | azathioprin | proléčivo, mění se na merkaptopurin; blokuje novotvorbu purinů (de novo syntézu) |
+| | mykofenolát-mofetil | proléčivo, blokuje enzym rozhodující o syntéze purinů; tlumí množení i funkce lymfocytů, tvorbu protilátek, buněčnou adhezi a migraci; toxicita — trávicí potíže a leukopenie |
+| Antibiotika-imunosupresiva | cyklosporin, takrolimus, sirolimus, everolimus | nutné sledovat hladiny (TDM) kvůli prevenci toxicity; odbourávají se přes CYP3A4; rizika: poškození ledvin, nervů, vysoký tlak |
+
+Indikace glukokortikoidů, azathioprinu i mykofenolátu: prevence a léčba rejekce transplantátu, autoimunitní onemocnění (azathioprin navíc revmatoidní artritida).
+
+**Propojení, které stojí za vyslovení:** cyklosporin a takrolimus se metabolizují přes CYP3A4, mají úzké terapeutické okno, a proto se u nich sledují hladiny — učebnicový příklad TDM z obecné otázky O16. Zároveň je cyklosporin ve skupině 1 karcinogenů IARC (obecná otázka O31).
+
+**Imunostimulancia.** Volně prodejné: přírodní látky a vitaminy. Na recept: imiquimod, isoprinosin, bakteriální lyzáty, vakcíny.
+
+Přírodní látky: echinacea s vitaminem C, hlíva ústřičná s rakytníkovým olejem, rakytník, ženšen. Vitaminy C, E, D — receptor vitaminu D se nachází i v buňkách imunitního systému; pacienti s těžkým průběhem infekce horních cest dýchacích mají často téměř neměřitelné hodnoty vitaminu D v krvi.
+
+| Léčivo | Charakteristika | Indikace |
+|---|---|---|
+| Imiquimod | chemoterapeutikum k lokální aplikaci jako krém; modifikuje imunitní odpověď, stimuluje receptory imunitních buněk; protinádorově působí hlavně indukcí interferonu α. NÚ v místě aplikace | malé povrchové bazocelulární karcinomy, condylomata acuminata (genitální bradavice) |
+| Isoprinosin | syntetický purinový derivát s imunomodulačním a antivirovým efektem; moduluje T-lymfocyty, zvyšuje počet NK buněk, tvorbu cytokinů, chemotaxi a fagocytózu. NÚ: GIT potíže | imunodeficitní stavy, poruchy buněčné imunity; recidivující opar rtu i genitální, pásový opar, CMV, EB virózy |
+| Bakteriální lyzáty | směs lyzátů zvyšuje hladinu cirkulujících T-lymfocytů a IgA. NÚ: alergické reakce, bolest hlavy, vyrážka, GIT potíže | profylaxe recidivujících infekcí horních cest dýchacích |
+| Vakcíny | NÚ: bolest v místě vpichu, alergické reakce, lehké příznaky nemoci, proti které je vakcína namířena | |
+
+🔑 **Cyklosporin/takrolimus = úzké terapeutické okno, nutné TDM. Isoprinosin = zvyšuje NK buňky, na recidivující herpes.**
+
+❓ **Doptají se:**
+- *Proč je nutné monitorovat hladiny cyklosporinu?* → Má úzké terapeutické okno a metabolizuje se přes CYP3A4 s rizikem toxicity (nefro-, neurotoxicita).
+
+---
+
+## 115 · Hormony hypothalamu, hypofýzy, jejich analoga
+
+**O čem to je:** Hypothalamus řídí hypofýzu přes liberiny (spouštěče) a statiny (brzdy). Nejdůležitější zkušební paradox je u GnRH — pulzní podání stimuluje pohlavní hormony, ale kontinuální podání je naopak úplně vypne.
+
+**Hypothalamus produkuje hormony, které krví ovlivňují sekreci hormonů hypofýzy:** liberiny (RF — *releasing factors*) a statiny (IF — *inhibiting factors*).
+
+| Hormon | Funkce · analog a jeho využití |
+|---|---|
+| GHRH — somatoliberin | spouští sekreci GH; sermorelin — test sekrece GH u dětí s podprůměrným růstem |
+| Somatostatin | tvoří se i v pankreatu (D buňky); tlumí GH a TSH, snižuje průtok splanchnikem → portální hypertenze; má antisekretorický, antiproliferační a proapoptotický efekt |
+| TRH — thyreoliberin | spouští sekreci TSH; protirelin — diagnostika mírnějších poruch štítné žlázy |
+| CRH — kortikoliberin | spouští sekreci ACTH a β-endorfinu; kortikorelin — diagnostika Cushingova syndromu |
+| GnRH — gonadoliberin | uvolňuje LH i FSH; analoga leuprolid, goserelin, nafarelin, buserelin |
+| Dopamin | fyziologický inhibitor sekrece prolaktinu; agonisté bromokriptin, kabergolin, chinagolid |
+
+⚠️ **Oktreotid** (analog somatostatinu, delší poločas) je významný lék pro akromegalii, jícnové varixy a endokrinně aktivní nádory GIT (neuroendokrinní tumory, VIPomy, gastrinomy, insulinomy). Dál lanreotid, pasireotid. **Prolaktinom je jediný nádor hypofýzy, který lze vyléčit konzervativně (bez operace)** — agonisté dopaminu blokují syntézu prolaktinu i růst nádoru.
+
+**GnRH — nejvděčnější část otázky.** **Pro stimulační účinek je nutná i.v. pulzní aplikace. Kontinuální infuze uvolňování gonadotropinů naopak potlačí (inhibuje).** Na tomhle paradoxu stojí celé terapeutické využití — a přesně na to se ptají.
+
+Diagnosticky se pomocí GnRH odliší hypogonadotropní hypogonadismus (nedostatečná stimulace LH) od hypergonadotropního (dostatečná stimulace, ale nedostatečná odpověď). Terapeuticky: obnovení plodnosti, opožděná puberta, umělé oplodnění; při kontinuálním podání naopak "biochemická kastrace" — karcinom prostaty, endometrióza, syndrom polycystických ovarií. Dlouhodobě hrozí riziko osteoporózy.
+
+**Adenohypofýza.** GH ovlivňuje růst nepřímo přes somatomediny (IGF-1 a 2) z jater. ACTH vzniká z proopiomelanokortinu (z něj vzniká i MSH), stimuluje kortizol. TSH — přes Gs receptory folikulárních buněk → víc cAMP → vyšší příjem jódu. FSH a LH — vývoj folikulů a spermatogeneze; LH navíc spouští ovulaci a v Leydigových buňkách tvorbu testosteronu. hCG — z placenty, stejné účinky jako LH.
+
+**Růstový hormon — poruchy podle věku.** Nedostatek v dětství → hypofyzární nanismus (trpasličí vzrůst) — léčba somatotropin pod kůži 3–6× týdně; v místě vpichu bolest a lipodystrofie. Nepodávat při nádoru, polytraumatu a akutním selhání dýchání. Nadprodukce u dětí → gigantismus, u dospělých → akromegalie — léčba analogy somatostatinu, které sníží produkci GH a zmenší i samotný adenom.
+
+⚠️ **Tetrakosaktid** (analog ACTH) — diferenciální diagnostika primární nadledvinové nedostatečnosti (Addisonova choroba) od sekundární. MSH je součástí prekurzoru pro ACTH — proto je u Addisonovy choroby typická hyperpigmentace kůže.
+
+**Neurohypofýza.** Oxytocin i vazopresin vznikají v hypothalamu (*nucleus supraopticus* a *paraventricularis*) a do zadního laloku hypofýzy se dostávají přímo axony (ne krví jako liberiny).
+
+**Oxytocin** — uterotonikum; váže se na myoepitelie mléčné žlázy (uvolnění mléka) a dělohy (kontrakce), citlivost výrazně roste na konci těhotenství. Poločas 10 minut. Vylučuje se na dva podněty: dráždění bradavek při kojení a roztažení děložního hrdla při porodu. KI: předčasný porod a distres plodu. Antagonista **atosiban** potlačuje předčasný porod.
+
+**Vazopresin (ADH)** — hlavní hormon kontrolující osmolalitu tělesných tekutin. Uvolňuje se při vyšší osmolalitě a nižším objemu krve; stimuluje ho i angiotenzin. Zvyšuje zpětné vstřebávání sodíku v kortikálním sběrném kanálku → synergista aldosteronu.
+
+| Receptor | Kde | Protein | Účinek |
+|---|---|---|---|
+| V1 | hladké svaly cév | Gq | vazokonstrikce |
+| V2 | bazolaterální membrána distálního tubulu | Gs | vloží akvaporiny do membrány → zpětné vstřebání vody |
+| V3 | adenohypofýza | Gq | zvýší sekreci ACTH |
+
+⚠️ **Afinita k V1 je nižší než k V2 — proto se efekt na cévy projeví až při vyšších dávkách.** Samotný vazopresin se pro léčbu nehodí — poločas jen 10 minut a neselektivní účinky.
+
+| Analog | Selektivita | Indikace |
+|---|---|---|
+| Desmopresin | selektivní na V2 — nepůsobí vazokonstrikčně | diabetes insipidus centrálního typu, noční pomočování, profylaxe krvácení u hemofilie A a von Willebrandovy choroby |
+| Terlipresin | proléčivo selektivní na V1, účinek 5 a víc hodin | krvácení z GIT — peptické vředy, jícnové varixy |
+
+⚠️ Nitrožilní podání může vyvolat spasmus koronárních tepen s anginózními potížemi a bronchospasmus — opatrnost u koronární nedostatečnosti a astmatu.
+
+**Antagonisté ADH:** demeklocyklin — u syndromu nepřiměřené sekrece ADH (SIADH, Schwartz-Bartterův syndrom) — příčinou bývají nádory tvořící ADH jako paraneoplastický syndrom → "otrava vodou" s nízkým sodíkem. Akvaretika (tolvaptan) — zvyšují vylučování samotné vody s minimálním vlivem na ionty.
+
+🔑 **GnRH pulzně = stimuluje. GnRH kontinuálně = tlumí (biochemická kastrace).** Desmopresin = jen V2 (voda), terlipresin = jen V1 (cévy).
+
+❓ **Doptají se:**
+- *Jaký je zásadní rozdíl mezi pulzním a kontinuálním podáním GnRH?* → Pulzní stimuluje uvolnění gonadotropinů, kontinuální ho naopak potlačí (biochemická kastrace).
+- *Proč se vazopresin sám nehodí pro léčbu?* → Poločas jen 10 minut a neselektivní efekt (V1 i V2 zároveň).
+
+---
