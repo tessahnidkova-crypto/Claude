@@ -1,20 +1,29 @@
 # MINIMUM — co musíš umět, abys prošla
 
-**Materiál na posledních pár dní před zkouškou 1. 9. 2026.**
+**Materiál na posledních pár dní před zkouškou 9. 9. 2026** *(⚠️ dřívější verze tohoto souboru uváděla 1. 9. 2026 — Tessa v chatu uvedla 9. 9., datum opraveno 2026-09-03, ale nevím, jde-li o odklad/opravný termín nebo překlep; ověř si oficiální datum)*.
 
 ---
 
-## K čemu to je
+## ⭐⭐ ZAČNI TÍMHLE — `VYPISKY-KOMPLET.pdf` (2026-09-03, nahrazuje `VYCUC-FINAL`)
 
-Zkouška = **test (50 otázek, potřeba 35 = 70 %) + ústní (1 obecná + 2 speciální)**.
+**Tohle je teď hlavní a nejúplnější soubor: `VYPISKY-KOMPLET.md` / `.pdf` / `.html` — 136/136 otázek (Obecná O1–O35 + Speciální I 36–88 + Speciální II 89–136), přepsané od nuly ve Feynmanově stylu.**
 
-**Test je branka.** Když neprojde test, ústní nebude. A test o 50 otázkách ze 136 témat odměňuje **široký mělký záběr**, ne hloubku v pár tématech. Proto tahle vrstva pokrývá **všech 136 otázek**.
+Vznikl jako oprava — Tessa řekla, že `VYCUC-FINAL` a další starší vrstvy níž byly moc zkrácené, chyběl v nich obsah (např. celá "odvětví farmakologie" v O1) a hesla/tabulky bez vysvětlení. `VYPISKY-KOMPLET`:
+- **nic nevynechává** ze zdrojových vypracovaných otázek — každá otázka je zpracovaná kompletně, ne zkráceně,
+- **každý výčet a tabulka má vysvětlení**, proč tam co je — ne jen heslovitý seznam,
+- začíná **"O čem to je"** — jednou až dvěma větami bez odborných slov, než přijde odborný text,
+- končí 🔑 (shrnutí k zapamatování) a ❓ **Doptají se** (typické navazující otázky s odpověďmi),
+- cituje zdroj a označuje `[doplněno]` vše, co jsem přidala z obecných znalostí, protože to ve zdroji chybělo (jen O35 Biologická léčba a otázka 88 Makrolidy — obě zdroj vůbec nepokrývá).
+
+**Zdrojový `.md` je definitivní zdroj pravdy** — když se bude něco opravovat, edituje se on a PDF/HTML se přegenerují (`nastroje/md2pdf.py`, `nastroje/md2gdoc.py`).
+
+⚠️ **Starší vrstvy níž (`VYCUC-FINAL`, `OBECKA-mluvena`, `SPECKA*-mluvena/zkracene` atd.) jsou teď záložní/doplňkové** — nebyly smazané (bezpečné selhání = archiv, ne mazání), ale primárním zdrojem k učení je od 2026-09-03 `VYPISKY-KOMPLET`.
 
 ---
 
-## ⭐ ZAČNI TÍMHLE — `VYCUC-FINAL.pdf`
+## Starší vrstva — `VYCUC-FINAL.pdf`
 
-**Na poslední dva dny je hlavní soubor `VYCUC-FINAL.pdf` — 89 stran, všech 136 otázek, 136 záložek.**
+Do 2026-09-03 hlavní soubor, teď záloha. 89 stran, všech 136 otázek, 136 záložek.
 
 U **každé** otázky jsou čtyři věci, a nic navíc:
 

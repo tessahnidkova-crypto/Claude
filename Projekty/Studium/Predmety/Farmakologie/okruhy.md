@@ -4,7 +4,9 @@ Zdroje: `Inputs/seznam-otazek-VL.docx` (oficiální seznam) · `Inputs/podminky-
 Vypracované: `obecka-vypracovane-otazky.pdf` (73 s.) · `specka-1-vypracovane-otazky.pdf` (94 s.) · `specka-2-vypracovane-otazky.pdf` (97 s.)
 **Vypracované otázky mají přednost před obecnými znalostmi — podle nich tě katedra zkouší.**
 
-Zkouška: **úterý 1. 9. 2026** · **test (50 otázek, nutno 35 = 70 %) + ústní** (losuje se 1 obecná + 2 speciální)
+Zkouška: **9. 9. 2026** *(⚠️ dřív tu bylo 1. 9. 2026 — Tessa v chatu 2026-09-03 uvedla 9. 9., opraveno, ale nevím, jde-li o odklad/opravný termín nebo překlep — ověř oficiálně)* · **test (50 otázek, nutno 35 = 70 %) + ústní** (losuje se 1 obecná + 2 speciální)
+
+⚠️ **2026-09-03: hlavní studijní vrstva je teď `minimum/VYPISKY-KOMPLET.md`** (plné, nezkrácené zpracování všech 136 otázek ve Feynmanově stylu — viz `minimum/README.md`). Předchozí vrstvy (`VYCUC-FINAL` aj.) zůstávají jako záloha.
 
 ⚠️ Rozsah zahrnuje **v plném rozsahu i Farmakologii I**.
 
