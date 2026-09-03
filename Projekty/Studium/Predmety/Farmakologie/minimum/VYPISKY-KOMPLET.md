@@ -2837,3 +2837,157 @@ Další NÚ salicylátů: záněty žaludeční sliznice, riziko krvácení. Int
 - *Hodí se triptany na prevenci migrény?* → Ne, jen na akutní záchvat.
 
 ---
+
+## 66 · Léčiva s pozitivně inotropním účinkem, digoxin
+
+**O čem to je:** Kardiotonika posilují stah srdce — nejstarší a nejznámější je digoxin, lék odvozený z rostlinných jedů, který zná lidstvo přes 3000 let. Klíčový paradox otázky: u nemocného srdce digoxin výdej ZVÝŠÍ, u zdravého ho naopak SNÍŽÍ.
+
+**Kardiotonika = léčiva zvyšující stažlivost myokardu** (pozitivně inotropní účinek). Jde o srdeční glykosidy = léčiva digitalisového typu, obsažené v rostlinách: náprstník červený, čemeřice černá, konvalinka, oleandr. Struktura: cukr (důležitý pro vazbu na myokard) + aglykon (kyselina cholanová a laktonový kruh).
+
+**Mechanismus — odvoď ho, nešprtej.** Blokáda Na⁺/K⁺ pumpy v membráně srdeční buňky → nitrobuněčně se hromadí Na⁺ a přechodně i Ca²⁺ → Ca²⁺ aktivuje aktin a myozin → posílí se stah. Srdeční glykosidy zároveň aktivují n. vagus → zpomalí srdeční frekvenci (negativně chronotropně) a zpomalí vedení v AV uzlu (negativně dromotropně), s rizikem AV blokády.
+
+⚠️ **Klíčový protiklad, který chtějí slyšet:** u **selhávajícího** srdce digoxin zvyšuje minutový výdej a potlačuje supraventrikulární arytmie; u **zdravého** srdce naopak minutový výdej **snižuje**.
+
+Elektrické účinky: zkrácení fáze plató, abnormální automaticita → riziko proarytmogenních supraventrikulárních i komorových tachyarytmií. Extrakardiální účinky: zvracení, průjem, nechutenství.
+
+**Digoxin** zůstává v současnosti jediným ústy podávaným pozitivně inotropním lékem vhodným pro dlouhodobou léčbu — je to zlatý standard kardiologie. Dobře se vstřebává z GIT, ze 2/3 se vylučuje beze změny ledvinami. Kontroluje srdeční činnost jen v klidu, proto mají přednost betablokátory tam, kde je potřeba kontrola i při zátěži.
+
+| | |
+|---|---|
+| Co zvyšuje citlivost myokardu na digoxin | vysoký vápník, nízký draslík, ischemie a nedostatek kyslíku v myokardu, snížená funkce štítné žlázy |
+| Indikace | posílení kontraktility selhávajícího myokardu u fibrilace síní a dilatace levé komory; dlouhodobě u chronického srdečního selhávání |
+| Kontraindikace | pomalý tep, AV blok, nízký i vysoký draslík, srdeční selhávání z diastolické dysfunkce levé komory |
+
+Příbuzné látky: digitoxin — nezávislý na funkci ledvin, delší poločas, ale hůř řiditelný a méně bezpečný; acetyldigoxin a metyldigoxin — estery digoxinu, lepší dostupnost, ale žádná skutečná terapeutická výhoda.
+
+**Ostatní pozitivně inotropní látky** jsou při dlouhodobé léčbě spojeny s **vyšší úmrtností**:
+
+| Skupina | Klíčové body |
+|---|---|
+| β1-sympatomimetika | dopamin, dobutamin — základ léčby akutního srdečního selhání s nízkým tlakem, nízkým výdejem až kardiogenním šokem; pomáhají překonat kritické období; riziko závažných arytmií a náhlé smrti. Dopamin v nízké dávce navíc rozšiřuje koronární a renální řečiště |
+| Kalciový senzitizér | levosimendan — zvyšuje citlivost troponinu C na vápník; u kardiogenního a septického šoku |
+| Inhibitory fosfodiesterázy 3 | amrinon, milrinon — riziko závažných arytmií a náhlé smrti |
+
+🔑 **Selhávající srdce: digoxin zvýší výdej. Zdravé srdce: digoxin výdej sníží.**
+
+❓ **Doptají se:**
+- *Proč digoxin zpomaluje srdeční frekvenci?* → Aktivuje n. vagus (negativně chronotropní efekt).
+- *Co zvyšuje riziko toxicity digoxinu?* → Nízký draslík, vysoký vápník, ischemie, hypotyreóza.
+
+---
+
+## 67 · Antiarytmika
+
+**O čem to je:** Léky na poruchy srdečního rytmu — rozdělené do čtyř tříd podle toho, jaký iontový kanál nebo receptor blokují (klasifikace Vaughana-Williamse). Klíčový mechanismus arytmií, na který se ptají nejvíc, je tzv. reentry (vzruch obíhá dokola místo aby doběhl a zhasl).
+
+**Tři vlastnosti nutné pro pravidelný rytmus:** automaticita (schopnost samovolně tvořit vzruchy — převodní systém), dráždivost (dána refrakterností — obdobím, kdy buňka nemůže reagovat), vodivost (dva typy — závislá na Ca²⁺ kanálech v SA a AV uzlu, závislá na Na⁺ kanálech ve zbytku převodního systému a v komorách).
+
+Arytmie vznikají poruchou tvorby vzruchu, poruchou jeho šíření, nebo kombinací obojího. Příčiny: katecholaminy, léky se stimulačním účinkem na myokard, degenerativní onemocnění, místní ischemie, nekróza po infarktu. Dělení: podle původu supraventrikulární × komorové, podle frekvence tachyarytmie × bradyarytmie.
+
+**Mechanismy arytmií — reentry je to, co chtějí slyšet.** Abnormální tvorba impulzu: automatické rytmy (zvýšená normální automaticita), spouštěcí rytmy (časná/opožděná následná depolarizace). Abnormální vodivost: AV bloky, a hlavně **reentry** — vzruch je v jednom směru blokovaný ohniskem ischemie, takže se místo zániku vrací a "obíhá dokola" (retrográdně) — to živí arytmii donekonečna.
+
+Cíle léčby: obnovit normální rytmus, zabránit opakování, zmírnit oběhové následky, snížit riziko komorové fibrilace a náhlé smrti. Nefarmakologicky: elektrická defibrilace, chirurgické metody, implantace kardiostimulátoru. ⚠️ **Antiarytmika sama mohou vyvolat arytmii (proarytmogenní riziko)** — proto je nutné terapeutické monitorování a individuální dávkování.
+
+**Klasifikace podle Vaughana-Williamse — základ celé otázky:**
+
+| Třída | Mechanismus | Zástupci |
+|---|---|---|
+| Ia | blokáda Na⁺ kanálu, **prodlužuje** akční potenciál | chinidin, disopyramid |
+| Ib | blokáda Na⁺ kanálu, **zkracuje** akční potenciál | lidokain |
+| Ic | blokáda Na⁺ kanálu, akční potenciál **neovlivňuje** | flekainid, propafenon |
+| II | blokáda β receptorů | propranolol, metoprolol, atenolol, esmolol |
+| III | prodlužují repolarizační fázi akčního potenciálu | amiodaron, d-sotalol, dronedaron, vernakalant |
+| IV | antagonisté Ca²⁺ kanálů | verapamil, diltiazem |
+| Nezařazená | | adenozin, digoxin |
+
+**Třída I obecně** blokuje vstup Na⁺ do buňky → zpomalí rychlost depolarizace, stabilizuje membránu, sníží schopnost odpovědět na aktivaci.
+- **Ia** — blokují vstup Na⁺ i výstup K⁺ → prodlužují repolarizaci. Chinidin (fibrilace/flutter síní, komorové tachykardie) — proarytmogenní riziko dané parasympatolytickým efektem a prodloužením QT → sinusová tachykardie a "torsade de pointes" (polymorfní komorová tachykardie); NÚ: GIT nesnášenlivost, cinchonismus (ztráta sluchu, neostré vidění, třes), alergie; nebezpečná interakce s warfarinem (krvácení); dnes se používá výjimečně. KI: AV blok, nízké destičky, prodloužený QT.
+- **Ib** — chemicky jsou to amidová lokální anestetika; prevence a léčba komorových extrasystol a tachykardie v akutní fázi infarktu. V ČR jen lidokain, i.v. v časné fázi infarktu; riziko u hypotenzních pacientů — nižší průtok játry zpomalí odbourání lidokainu → parestezie, křeče.
+- **Ic** — selektivní, jen blokáda Na⁺ kanálu. Flekainid zpomaluje vedení v přídatných drahách u WPW syndromu (Wolff-Parkinson-White) — jen u pacientů bez postižení koronárních tepen a struktury srdce, lék volby u AV rekurentní tachykardie. Propafenon má navíc betalytický efekt, lék první volby u arytmií bez strukturálního onemocnění srdce.
+
+**Třída II — betablokátory** tlumí arytmogenní efekt katecholaminů, potlačují supraventrikulární arytmie spojené s námahou, hypertyreózou a stresem; zpomalují automaticitu SA uzlu a prodlužují refrakterní periodu AV uzlu. Esmolol pro akutní stav (rychlý a krátký účinek). KI: závažné astma, diabetes se sklonem k hypoglykemii, ischemická choroba dolních končetin.
+
+**Třída III** blokuje K⁺ kanál → prodloužení plató fáze a intervalu QT.
+> **Amiodaron** — dlouhý poločas; první 3 týdny léčby ústy se projeví jen betalytický efekt, teprve později efekt prodlužující akční potenciál. **Lék první volby u supraventrikulárních i komorových tachykardií a k potlačení komorové fibrilace.** NÚ amiodaronu — nejvděčnější část otázky: porucha funkce štítné žlázy oběma směry (molekula obsahuje jód), šedavé až modré zabarvení kůže, barevná depozita v rohovce, vzácná, ale velmi závažná plicní fibróza, hepatitida.
+
+D-sotalol — selektivně na K⁺ kanály, podobný amiodaronu. Dronedaron — podobný amiodaronu, ale slabší, nekumuluje se ve tkáních, kratší poločas, **neobsahuje jód**; kvůli first-pass efektu jen 15% dostupnost; fibrilace síní; KI: srdeční selhání, bradykardie. Vernakalant — blokuje K⁺ i Na⁺ kanály v síních, potlačuje reentry.
+
+**Třída IV — verapamil, diltiazem** snižují automaticitu SA uzlu, prodlužují AV vedení, rozšiřují koronární i periferní cévy, mají negativně inotropní účinek; na supraventrikulární tachyarytmie. NÚ: bradykardie, AV blok, nauzea, zvracení, zácpa.
+
+**Nezařazená:** adenozin — agonista A1 receptorů v SA a AV uzlu → otevře K⁺ kanály a vyvolá hyperpolarizaci; na paroxysmální supraventrikulární tachyarytmie a fibrilaci síní. Digoxin — zpomaluje AV vedení, zpomaluje frekvenci a posiluje stah (viz O66).
+
+**Antiarytmika proti bradyarytmiím.** Bradyarytmie často způsobují léky s výrazně negativně chronotropním a dromotropním efektem — digoxin, betablokátory, verapamil. Metodou léčby je kardiostimulace; léky (atropin, β-sympatomimetika) se používají jen krátkodobě nebo k překlenutí do zavedení kardiostimulátoru.
+
+🔑 **Ia prodlužuje AP, Ib zkracuje, Ic neovlivňuje. Reentry = vzruch obíhá dokola místo aby doběhl.**
+
+❓ **Doptají se:**
+- *Co je reentry mechanismus?* → Vzruch je v jednom směru blokovaný ischemickým ohniskem, může se ale šířit opačným směrem a "obíhat dokola", což udržuje arytmii.
+- *Jaké jsou typické NÚ amiodaronu?* → Poruchy štítné žlázy, zabarvení kůže a rohovky, plicní fibróza, hepatitida.
+
+---
+
+## 68 · ACE inhibitory a antagonisté angiotenzinu
+
+**O čem to je:** Jedny z nejpoužívanějších léků na vysoký tlak a srdeční selhání — blokují systém RAAS, který tělo používá k udržování tlaku. Klasický "vedlejší produkt" této blokády je suchý kašel, protože ACE odbourává i jinou látku (bradykinin) — a přesně kvůli tomu existuje alternativa (sartany), která kašel nezpůsobuje.
+
+**Kaskáda RAAS — odříkej ji plynule.** Angiotenzinogen z jater přemění **renin** (z juxtaglomerulárního aparátu ledvin) na angiotenzin I. Ten sám o sobě nemá žádný cévní účinek, ale **ACE (angiotenzin konvertující enzym)** ho promění na **angiotenzin II — silný vazokonstriktor**. ACE sedí na povrchu endotelových buněk, hlavně v plicích. **ACE navíc odbourává i bradykinin na neaktivní fragmenty — jeho nadbytek při zablokovaném ACE způsobuje kašel a angioedém** (odtud nejznámější NÚ celé skupiny).
+
+Účinky angiotenzinu II: stažení cév, zvýšené uvolnění noradrenalinu ze sympatiku (přidá se k vazokonstrikci), vylučování aldosteronu, podpora zpětného vstřebávání Na⁺, pokles glomerulární filtrace.
+
+**ACE inhibitory** kompetitivně blokují ACE. Zástupci: kaptopril, enalapril, ramipril, perindopril, lisinopril.
+
+Komplexní účinky: zvyšují glomerulární filtraci, snižují tvorbu aldosteronu i aktivitu sympatiku, **jsou to jediná vazodilatancia bez reflexní aktivace sympatiku** (proto nezrychlují srdce jako jiná vazodilatancia), snižují krevní tlak, vedou k regresi zbytnělého srdce, chrání před dilatací a remodelací myokardu, zvyšují citlivost na inzulin a snižují riziko cukrovky, potlačují únik bílkoviny do moči a stabilizují funkci ledvin — jsou renoprotektivní.
+
+Indikace: arteriální hypertenze (vazodilatací a poklesem aldosteronu zvyšují průtok krve ledvinami), **diabetes 1. typu** — zpomalují postup diabetické nefropatie, systolická dysfunkce levé komory a srdeční selhání — zastavují progresi, neaktivují sympatikus, snižují srdeční frekvenci.
+
+NÚ: pokles tlaku u dehydratovaných pacientů, **kašel, kopřivka, angioedém** (z nadbytku bradykininu), nízký sodík v kombinaci s diuretiky, **malformace plodu a fetotoxicita** (kontraindikace v těhotenství).
+
+**Antagonisté AT1 receptorů — sartany.** Losartan, valsartan, telmisartan, eprosartan — blokují navázání angiotenzinu II na receptor AT1 → nepřímá vazodilatace.
+
+⚠️ **V čem se liší od ACEI — jádro otázky:** blokáda AT1 receptoru je selektivnější a **neovlivňuje odbourávání bradykininu → proto sartany kašel nezpůsobují.**
+
+Kinetika: losartan je proléčivo, biologická dostupnost 20–60 %, eliminace beze změny, dobře snášené, málo interakcí. Riziko vysokého draslíku při kombinaci s blokátory mineralokortikoidních receptorů. **Nekombinovat s ACE inhibitory** (dvojitá blokáda RAAS). Indikace: nahrazují ACEI u pacientů, kteří na ně reagují nežádoucím způsobem (typicky kašlem), a dále všude, kde je dlouhodobě aktivovaný RAAS — hypertenze, prevence cévních a srdečních příhod, srdeční selhání, nefropatie s únikem bílkoviny.
+
+🔑 **ACEI = kašel (bradykinin), sartany = žádný kašel (selektivně jen AT1).**
+
+❓ **Doptají se:**
+- *Proč ACE inhibitory způsobují kašel a sartany ne?* → ACEI blokují i odbourávání bradykininu (nadbytek dráždí dýchací cesty), sartany blokují jen receptor pro angiotenzin II, bradykinin neovlivňují.
+- *Proč jsou ACEI kontraindikované v těhotenství?* → Fetotoxicita a malformace plodu.
+
+---
+
+## 69 · Diuretika
+
+**O čem to je:** Léky na odvodnění a na vysoký tlak — liší se tím, ve které části ledvinného kanálku (nefronu) zasahují. Čím "hlouběji" v systému zasahují, tím větší podíl filtrované vody dokážou zadržet z reabsorpce — proto jsou kličková diuretika nejsilnější.
+
+**Diuretika** = různorodá skupina léků, jejichž společná vlastnost je zvýšit vylučování vody a iontů (hlavně sodíku a draslíku). Používají se na stavy se zadržováním sodíku a vody a na léčbu vysokého tlaku.
+
+| Skupina | Kde v nefronu zasahuje | Mechanismus a zástupci |
+|---|---|---|
+| Osmotická | proximální tubulus a sestupné raménko Henleovy kličky (úseky volně propustné pro vodu) | snižují osmotický gradient mezi kůrou a dření ledviny. Manitol — cukerný alkohol, rozloží se mimo buňky, **nepodléhá zpětnému vstřebávání** v tubulu. Indikace: forsírovaná diuréza, prevence selhání ledvin při šoku, intoxikace, přesun tekutiny z tkáně do cév (např. při otoku mozku) |
+| Aquaretika | sběrný kanálek | blokují vazopresinové receptory → tlumí zpětné vstřebávání vody → vodní diuréza bez ovlivnění iontů. Tolvaptan. Indikace: nízký sodík, vysoká sekrece vazopresinu, srdeční selhání, retence tekutin. Klinický význam je malý |
+| Inhibitory karboanhydrázy | proximální tubulus | blokují enzym, který štěpí H₂CO₃ na H⁺ a HCO₃⁻ — krok důležitý pro zpětné vstřebání HCO₃⁻ a Na⁺. **Jako diuretika se dnes už nepoužívají.** Acetazolamid, brinzolamid, dorzolamid — léčba glaukomu (méně bikarbonátu v nitrooční tekutině → méně tekutiny se tvoří), některé formy dětské epilepsie, urychlení aklimatizace ve vysoké nadmořské výšce |
+| Kličková | Henleova klička | **nejúčinnější diuretika vůbec**. Prototyp furosemid. Blokují sodno-draselno-chloridovou pumpu → sníží osmotický i elektrický gradient mezi tubulem a okolní tkání |
+| Thiazidová a sulfonamidová | distální tubulus | blokují thiazid-senzitivní Na⁺/Cl⁻ kotransportér. Hydrochlorothiazid, chlorthalidon, indapamid |
+| Draslík šetřící | sběrné kanálky | blokují amilorid-senzitivní sodíkový kanál (ENaC). Amilorid — zablokuje Na⁺ kanály na luminální straně buňky, důsledkem je zadržení draslíku; kombinuje se s diuretiky, která draslík naopak vyplavují (thiazidy). Indikace: antihypertenzivum, otoky při onemocnění jater/ledvin/srdce, prevence nízkého draslíku |
+
+**Kličková diuretika (furosemid) — detaily, na které se ptají:**
+- **Renální účinek:** v tenkém úseku vzestupné Henleovy kličky blokují transport NaCl z tubulu do okolní tkáně; vyšší vylučování sodíku osmoticky "strhává" vodu s sebou.
+- **Extrarenální:** rozšíří žíly, sníží plicní otok — proto účinkují na plicní edém dřív, než vůbec začne diuréza.
+- **Kinetika:** po i.v. účinek do 2 minut, trvá 6 h; po podání ústy do hodiny, trvá 8 h.
+- **NÚ:** nízký draslík (arytmogenní faktor) — nutno doplnit; **ototoxicita** — porucha až ztráta sluchu, hlavně v kombinaci s aminoglykosidovými antibiotiky.
+- **Indikace:** retence tekutin při srdečním nebo renálním selhání; často v kombinaci u akutního plicního edému, městnavého srdečního selhání, jaterní cirhózy s ascitem, selhání ledvin.
+
+**Thiazidová diuretika — detaily:**
+- **Kinetika:** hydrochlorothiazid účinkuje do 12 h; chlorthalidon se pomaleji vstřebává i vylučuje, účinkuje 24 h.
+- **Farmakodynamika:** blokují Na⁺/Cl⁻ transport na luminální straně distálního kanálku; **na rozdíl od kličkových ZVYŠUJÍ aktivní vstřebávání vápníku**; navíc rozšiřují žíly a **až po 2 týdnech podávání** sníží periferní cévní odpor.
+- **Indikace:** vysoký tlak, městnavé srdeční selhání, ledvinové kameny způsobené vysokým vylučováním vápníku, nefrogenní diabetes insipidus.
+- **NÚ:** nízký draslík, inzulinová rezistence. KI: alergie na thiazidy a sulfonamidy, poruchy jater a iontů, dna, cukrovka.
+
+🔑 **Kličková = nejsilnější, ztrácí Ca²⁺. Thiazidová = šetří Ca²⁺, ale ztrácí K⁺. Draslík šetřící = přesně naopak než obě předchozí.**
+
+❓ **Doptají se:**
+- *Jaký je rozdíl v účinku na vápník mezi kličkovými a thiazidovými diuretiky?* → Kličková zvyšují vylučování vápníku, thiazidy naopak zvyšují jeho zpětné vstřebávání.
+- *Proč se kličková diuretika kombinují s opatrností s aminoglykosidy?* → Zvyšuje se riziko ototoxicity (obě skupiny jsou ototoxické samy o sobě).
+
+---
