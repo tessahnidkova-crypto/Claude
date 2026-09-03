@@ -5231,3 +5231,165 @@ Nejčastěji používaná antiseptika: ethanol 60–70 %, jodofory, chlorhexidin
 - *Jaká koncentrace kyseliny salicylové je keratolytická?* → 5–10 %.
 
 ---
+
+## 127 · Infuzní terapie
+
+**O čem to je:** Když pacient nemůže pít nebo jíst, tekutiny a živiny se dodávají žilou. Klíčové pravidlo napříč celou otázkou: iontové poruchy (hlavně sodíku) se nesmí korigovat příliš rychle, jinak vzniknou nová, horší poškození.
+
+**Vnitřní prostředí.** Tekutiny tvoří 60 % tělesné hmotnosti: 2/3 uvnitř buněk, 1/3 mimo ně (z toho 80 % v tkáni/intersticiu, 20 % v plazmě). Množství celkové tělesné vody s věkem klesá. Denní příjem asi 2,5 l (tekutiny tvoří jen asi třetinu objemu, zbytek je z potravy a metabolismu).
+
+**Sodík (135–145 mmol/l)** — hlavní mimobuněčný iont (poměr uvnitř:vně buňky je 1:15), určuje akční potenciál. Denní potřeba 1–2 mmol/kg. Řízen ADH, ANP (natriuretickým peptidem síní) a juxtaglomerulárním aparátem ledvin.
+
+| | Hypernatremie (>145) | Hyponatremie (<135) |
+|---|---|---|
+| Léčba | zředění mimobuněčného prostoru hypoosmolární tekutinou (voda na injekci, 5% glukóza), diuretika | substituce 3% NaCl (i 10%) — používá se i jako léčba mozkového otoku |
+| Riziko rychlé korekce | přesun vody do tkání, kde je momentálně víc sodíku | syndrom centrální pontinní myelinolýzy → poškození distálních částí nervového systému až kvadruplegie |
+| Tempo | ideálně 10 mmol/l/den | akutní forma rychle, chronická forma (trvající nad 24 h) pozvolna |
+
+⚠️ **O závažnosti hyponatremie rozhodují neurologické příznaky.** **Obě poruchy spojuje jedno pravidlo: nekorigovat příliš rychle.** To je nejdůležitější věta celé otázky.
+
+**Draslík (3,8–5,2 mmol/l)** — hlavní vnitrobuněčný iont (98 % uvnitř buněk), určuje klidový membránový potenciál. Potřeba 1–1,5 mmol/kg/den. Výměník H⁺/K⁺ má význam v acidobazické rovnováze.
+
+Hyperkalemie vzniká při hemolýze, selhávání ledvin, po diureticích; může vést až k zástavě srdce. Léčba: vápník, glukóza + inzulin, betamimetika, iontoměniče, dialýza. Diagnóza z laboratoře a specifické EKG křivky — příznaky jsou samy o sobě zanedbatelné. Hypokalemie vzniká z diuretik, kortikoidů, průjmů, stresu. Léčba: ústy gramové dávky, i.v. KCl 7,45% (1M), max 10–20 ml/hod.
+
+**Vápník, hořčík, fosfor.** Vápník (ionizovaný 1,15–1,3) — jen 50 % je ionizováno (biologicky aktivní forma), většina je v kostech. Funkce: svalový stah, uvolnění přenašečů, srážení krve. Hypokalcemie se projeví tetanií a bývá způsobena masivními transfuzemi — krev v transfuzi obsahuje citrát, který váže vápník. Hyperkalcemie je vzácná.
+
+Hořčík (0,7–0,9 mmol/l) — vnitrobuněčný iont, koenzym fosforylace ATP, kofaktor transkripce a replikace DNA a ATPáz. Použití: tachyarytmie, eklampsie v těhotenství, bronchiální obstrukce.
+
+Fosfor (0,7–1,7 mmol/l) — fosfátový ion je nejdůležitější vnitrobuněčný anion (DNA, ATP). Snížený u refeeding syndromu (viz níže); substituce KHP, natrium-fosfát.
+
+**Poruchy acidobazické rovnováhy ve vztahu k infuzi.** Hyperchloremická acidóza vzniká po podání fyziologického roztoku — vznikne větší rozdíl mezi kationty a anionty → acidóza. Při acidóze se podává bikarbonát.
+
+**Čtyři typy infuzní terapie:**
+
+| Typ | Účel |
+|---|---|
+| Udržovací infuze | vyrovná vodní ztráty — 1 ml/kg/hod |
+| Náhrada deficitu | návrat k normě, např. po dlouhé dehydrataci |
+| Tekutinová resuscitace | masivní převody — např. po septickém šoku |
+| Tekutinová výzva | podání malého množství tekutiny navýší srdeční výdej (test, jestli srdce na tekutinu reaguje) |
+
+U periferních přístupů je důležitý výběr kanyly podle průměru — ovlivňuje rychlost podání.
+
+**Typy roztoků:** krystaloidy — roztoky iontů ve vodě, záleží na osmolalitě: Hartmannův, Ringerfundin, fyziologický roztok. Roztoky glukózy (5–40 %) — zdroj volné vody a kalorií, spíš jako přídavek. Koloidy — želatiny (bovinní kolagen), škroby (hydroxyethylškrob); od jejich používání se ustupuje — poruchy srážlivosti, poškození ledvin, anafylaxe. Krevní deriváty — albumin 5% nebo 20%, u sepse k tekutinové resuscitaci.
+
+Pozor na přebytek tekutin. Zásady: racionální podávání tekutin a akutní "deresuscitace" (odvodnění, pokud se pacient přehydratoval).
+
+**Výživa nemocných v intenzivní péči.** Umělá výživa nesmí nahrazovat normální příjem potravy, pokud je pacient schopen jíst. Stresové hladovění se liší od prostého — kritický stav mění, jak tělo substráty využívá (změny prokrvení a dodávky kyslíku do tkání, aktivace cytokinů a zánět, nefyziologické ztráty).
+
+Energetické hodnoty: 1 g bílkoviny = 4 kcal, 1 g glukózy = 3,4 kcal, 1 g tuku = 9 kcal.
+
+Typy: parenterální plná × doplňková; enterální (nasogastrická nebo nasojejunální sonda, perkutánní gastrostomie); sipping (kalorická "pitíčka").
+
+**Enterální výživa** — časné zahájení je prioritní, hned po stabilizaci pacienta. 20 ml/hod, navyšovat o 20 ml každých 8 h; plná výživa 70–100 ml/hod. Je ze 2/3 voda — pozor na hydrataci. Nenechat se odradit příznaky poruchy funkce GIT. KI: perforace a obstrukce GIT, kompartment syndrom, ischemie GIT, těžká pankreatitida, nestabilní oběh.
+
+**Parenterální výživa** — dobře živení krátkodobí pacienti na JIP ji nepotřebují. Centrální (nejčastěji) × periferní (jen nižší osmolalita, obvykle nestačí pokrýt energetické potřeby). Přídavky: glutamin, thiamin, selen.
+
+> **Refeeding syndrom — nejvděčnější pojem otázky.** Soubor metabolických abnormalit vznikajících při obnovení příjmu potravy — hlavně po podání většího množství glukózy podvyživeným nebo hladovějícím pacientům. Laboratorně: pokles fosforu, hořčíku a sodíku → nutno substituovat. Klinicky: psychické změny, mravenčení, až závažné arytmie a srdeční selhání.
+
+🔑 **Iontové poruchy — nikdy je nekoriguj příliš rychle. Refeeding syndrom = klesá fosfor, hořčík, sodík po znovunasazení jídla u podvyživeného pacienta.**
+
+❓ **Doptají se:**
+- *Co hrozí při příliš rychlé korekci hyponatremie?* → Syndrom centrální pontinní myelinolýzy — poškození nervového systému až kvadruplegie.
+- *Co je refeeding syndrom a kdy hrozí?* → Metabolické abnormality (pokles fosforu, hořčíku, sodíku) po obnovení příjmu jídla u podvyživeného/hladovějícího pacienta.
+
+---
+
+## 128 · Vitaminy rozpustné v tucích
+
+**O čem to je:** Vitaminy A, D, E, K se na rozdíl od vitaminů rozpustných ve vodě hromadí v těle — proto u nich (hlavně u vitaminu A) hrozí i předávkování, ne jen nedostatek.
+
+Vitaminy fungují jako katalyzátory biochemických reakcí a podílejí se na metabolismu bílkovin, tuků a sacharidů. Chemicky spolu vzájemně nesouvisejí — dělí se jen podle rozpustnosti.
+
+**Rozdíl, kterým otázku otevři:** nedostatek vitaminů vede k vážným nemocem. **Přebytek většiny vitaminů tělo vyloučí — to platí pro vitaminy rozpustné ve vodě.** U vitaminů rozpustných v tucích je nutná opatrnost, zejména u vitaminu A.
+
+Rozpustné v tucích: A, D, E, K. Rozpustné ve vodě: B1, B2, B3, B5, B6, B7, B9, B12 a C.
+
+**Vitamin A (retinol) a karotenoidy.** Antioxidant, nutný pro tvorbu zrakového pigmentu rodopsinu. Provitaminy: betakaroten, lutein. Funkce: zpracování obrazové informace, zrání (diferenciace) epitelu, funkce morfogenu (řídí embryonální vývoj), prevence rakoviny prostaty. Nedostatek → šeroslepost.
+
+Zdroje: játra, vaječný žloutek, mléko, máslo, mrkev, rajčata, špenát, dýně, meruňka, mango. Lykopen — červené barvivo v rajčatech, využitelné až po tepelné úpravě.
+
+Volný retinol se v krvi váže na nosič (RBP — retinol binding protein). Zásoby v játrech vystačí asi na 6 měsíců.
+
+**Léková interakce, kterou zdroj zvlášť zdůrazňuje:** současné podávání vitaminu A s tetracyklinovými antibiotiky nese riziko až fatální nitrolební hypertenze (*pseudotumor cerebri*). Mechanismus této interakce není znám.
+
+Dermatologické využití: externí masti s rybím tukem podporují hojení ran. Široké uplatnění mají syntetické retinoidy — vyšší účinnost a stabilita než mateřská látka, lokálně i systémově; akné, psoriáza, pityriasis, Darierova choroba, některé prekancerózy.
+
+**Vitamin E (tokoferol).** Antioxidant — chrání fosfolipidovou složku buněčných membrán; optimalizuje využití vitaminu A. Zdroje: máslo, mléko, pšeničné klíčky, ořechy, sója, rostlinné oleje. Terapeuticky: neplodnost, atrofické procesy, neurologická degenerativní onemocnění, doplněk v dermatologii.
+
+**Vitamin K — tři formy:**
+
+| Forma | Zdroj | Funkce |
+|---|---|---|
+| K1 — fylochinon | zelenina, rostlinné oleje | srážení krve |
+| K2 — menachinon | vzniká přímo v našem střevě — vstřebatelnost vázaná na tvorbu žlučových kyselin | kostní metabolismus |
+| K3 — menadion | syntetický | v těle se přemění na K2 |
+
+K1 umožňuje vazbu na Ca²⁺ → aktivuje kaskádu srážecích faktorů. Antagonisté vitaminu K: dikumarol, warfarin. K2 způsobuje funkční změny osteokalcinu → vazba Ca²⁺, působí proti kostní ztrátě z věku a je součástí léčby osteoporózy.
+
+Nedostatek: K1 → krvácivost, K2 → ztráta kostní hmoty. **Toxicita nebyla pozorována ani v doporučených, ani ve zvýšených dávkách — užívání je bezpečné.** DDD: 90 μg preventivně, 400–500 μg léčebně u poruch kostního metabolismu.
+
+**Vitamin K jako antidotum warfarinu — působí až po opětovné tvorbě koagulačních faktorů, tedy za 12–24 hodin.** Klíčová věta: **není to okamžité antidotum.** Dál doplňková léčba u diabetiků, nefrotických pacientů a pacientů s osteoporózou.
+
+**Vitamin D.** Vitamin D je vlastně steroidní hormon, ne "jen" vitamin. Ergokalciferol (D2) a cholekalciferol (D3).
+
+Neklasické biologické účinky — receptor VDR je ve většině tělesných tkání: regulace imunitní odpovědi, podpora zrání buněk a apoptózy, tlumení buněčného množení a zánětu.
+
+Nedostatek: křivice, osteoporóza, imunodeficientní stavy, poruchy mužské plodnosti, sarkoidóza, hyper- i hypoparatyreóza, vysoké vylučování vápníku močí, při léčbě antikonvulzivy a při onkologické léčbě.
+
+Předávkování: nevolnost, zvracení, nechutenství, zácpa, slabost, úbytek hmotnosti, zmatenost, abnormální srdeční rytmus, poškození ledvin.
+
+> **Propojení:** receptor vitaminu D v buňkách imunitního systému je důvod, proč se vitamin D řadí mezi imunostimulancia (viz O114) — pacienti se závažným průběhem infekcí horních cest dýchacích mívají téměř neměřitelné hodnoty vitaminu D.
+
+🔑 **Vitamin A a D = jediné, kde reálně hrozí předávkování. Vitamin K jako antidotum warfarinu = pomalý (12–24 h), ne okamžitý.**
+
+❓ **Doptají se:**
+- *Proč nefunguje vitamin K jako okamžité antidotum warfarinu?* → Musí nejdřív dojít k resyntéze koagulačních faktorů, což trvá 12–24 hodin.
+- *Jaká je nebezpečná interakce vitaminu A?* → S tetracyklinovými antibiotiky — riziko nitrolební hypertenze.
+
+---
+
+## 129 · Vitaminy rozpustné ve vodě
+
+**O čem to je:** Vitaminy skupiny B a vitamin C se na rozdíl od vitaminu A/D/E/K nehromadí v těle, takže předávkování je vzácné — hlavním problémem je naopak jejich nedostatek, hlavně u vitaminu C, kterou si člověk (na rozdíl od většiny živočichů) neumí sám vyrobit.
+
+Rozpustné ve vodě: B1 thiamin, B2 riboflavin, B3 niacin, B5 kyselina pantothenová, B6 pyridoxin, B7 biotin, B9 kyselina listová, B12 kyanokobalamin a C (kyselina L-askorbová).
+
+**Vitamin C (kyselina L-askorbová).** Značně kyselá povaha; tělo si neudržuje větší zásobu.
+
+**Detail, kterým se dá otázka ozdobit:** rostliny i většina živočichů si vitamin C syntetizují sami. **Nesyntetizuje ho jen člověk, primáti a morče.**
+
+DDD v EU: 60 mg/den pro dospělého (uvádí se 60–80 mg/den); tělo umí efektivně využít až 250 mg/den. Varem se ničí až 60 % vitaminu.
+
+| Stav | Projevy |
+|---|---|
+| Hypovitaminóza | únava, svalová slabost, bolesti kloubů a svalů, **krvácející dásně**, častější infekce |
+| Avitaminóza — skorbut (kurděje) | dnes poměrně vzácná: chudokrevnost, krvácivost, **vypadávání zubů**, otoky kloubů a dásní, křehkost kostí, časté infekce, oslabení svalstva, žaludeční vředy |
+| Hypervitaminóza | předávkování téměř nehrozí — je rozpustný ve vodě. Až nad 2000 mg/den: dráždění žaludku, ledvinové kameny |
+
+Interakce: vitamin C může ovlivnit užívání paracetamolu, antacid s hliníkem, kyseliny acetylsalicylové a warfarinu; **zvyšuje vstřebávání železa** (propojení na léčbu anemií, O124 — proto se železo zapíjí džusem).
+
+⚠️ Pro tebe jako zubařku je krvácení dásní u hypovitaminózy a vypadávání zubů u skorbutu detail, který bys měla znát i mimo farmakologii.
+
+**Vitaminy skupiny B:**
+
+| Vitamin | Hlavní funkce | Zdroje |
+|---|---|---|
+| B1 — thiamin | štěpení cukrů a škrobů; činnost srdce a nervové soustavy, psychická činnost. Tělo si neudržuje větší zásobu, potřeba stoupá při námaze a stresu | maso, med, neloupané obiloviny, ořechy |
+| B2 — riboflavin | metabolismus, snižuje únavu; udržuje sliznice, pokožku, zrak, červené krvinky | živočišné zdroje — maso, játra, ledviny, ryby, vejce, mléko |
+| B3 — niacin | metabolismus, snižuje únavu; sliznice a pokožka; psychická činnost a činnost nervové soustavy | maso, játra, ryby, vejce, listová zelenina, luštěniny |
+| B5 — kyselina pantothenová | metabolismus sacharidů, tuků a dalších živin; kvalita kůže, vlasů a nehtů | maso, vnitřnosti, luštěniny, obiloviny |
+| B6 — pyridoxin | reguluje hormonální aktivitu, metabolismus aminokyselin; funkce imunitního systému. Tepelně nestabilní | vepřové maso, ryby, vnitřnosti, zelenina, luštěniny |
+| B7 — biotin | metabolismus; kvalita sliznic, kůže, vlasů a nehtů | hovězí maso, játra, vejce, sója, ořechy |
+| B9 — kyselina listová | obnova a růst buněk — doporučuje se před a v době těhotenství. Tepelně nestabilní | vnitřnosti, salát, zelí, květák, brokolice, ořechy, avokádo |
+| B12 — kyanokobalamin | snižuje únavu; funkce nervového a imunitního systému; dělení buněk | živočišné zdroje |
+
+**Dva vitaminy skupiny B, které musíš umět i farmakologicky: B9 a B12** — jejich nedostatek je jednou z příčin anemie (viz O124). Interakce: fenytoin, karbamazepin a barbituráty ovlivňují hladiny kyseliny listové i B12; omeprazol a metformin snižují vstřebávání B12. **B6 a B9 jsou tepelně nestabilní** — tepelnou úpravou jejich obsah v jídle výrazně klesá.
+
+🔑 **Vitamin C si člověk (na rozdíl od většiny zvířat) neumí sám vyrobit. B9 a B12 = spojka na anemii, jejich vstřebávání ruší PPI/metformin/antiepileptika.**
+
+❓ **Doptají se:**
+- *Proč lidé potřebují přijímat vitamin C v potravě, na rozdíl od většiny zvířat?* → Neumí si ho sami syntetizovat (spolu s primáty a morčaty).
+- *Jaké dva vitaminy B souvisí s anemií?* → B9 (kyselina listová) a B12.
+
+---
