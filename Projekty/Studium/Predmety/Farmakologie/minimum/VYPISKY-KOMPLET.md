@@ -795,3 +795,175 @@ Poměr mezi dávkovacím intervalem (τ) a poločasem (t½) předpovídá míru 
 - *Na čem závisí ustálená koncentrace při kontinuální infuzi?* → Css = Rinf / CL (rychlost infuze dělená clearance).
 
 ---
+
+## O17 · Biotransformace léčiv, fáze, příklady
+
+**O čem to je:** Biotransformace = chemická přeměna léčiva v těle, obvykle proto, aby se z lipofilní (v tucích rozpustné) látky stala hydrofilní (ve vodě rozpustná) látka, kterou pak ledviny snadno vyloučí. Otázka chce znát **dvě fáze** téhle přeměny a konkrétní příklady enzymů a léčiv.
+
+**Proč k biotransformaci dochází:** většina cizorodých látek (xenobiotik), včetně léčiv, se v těle chemicky přemění tak, aby metabolit byl **lépe rozpustný ve vodě** a snáz se vyloučil ledvinami nebo žlučí.
+
+**Čtyři možné výsledky biotransformace:**
+- **a) přeměna proléčiva na účinné léčivo** (bioaktivace) — proléčivo (*prodrug*) samo o sobě málo/neúčinné, teprve metabolit účinkuje; příklad: **kodein → morfin**,
+- **b) přeměna na toxickou látku** — terapeuticky účinná látka se bioaktivací změní na toxický metabolit; příklady: **cyklofosfamid → akrolein** (toxický pro močový měchýř), **paracetamol** — jeho metabolit se váže na bílkoviny ledvinných struktur → nefrotoxicita,
+- **c) léčivo se vyloučí beze změny** — nepodléhá biotransformaci vůbec, vyloučí se v původní podobě močí (**lithium, gentamicin**),
+- **d) ztráta účinnosti** — část dávky se přemění na neúčinný/méně účinný metabolit (souvisí s first-pass efektem, O18).
+
+Biotransformace může začít velmi brzy — už **v dutině ústní** (kde se polycyklické aromatické uhlovodíky mohou vázat na DNA — karcinogenní efekt), ale typicky probíhá po vstřebání do krve v **játrech, GIT, ledvinách, plicích, mozku** — nejvíc v hladkém endoplazmatickém retikulu hepatocytů. Metabolizace probíhá i v neočekávaných místech (nosní sliznice, erytrocyty, nadledviny, aorta, myokard).
+
+### Fáze I — obvykle oxidace, redukce, hydrolýza
+
+Molekula se zpravidla stane **rozpustnější ve vodě** (ne vždy) a může jít ještě do fáze II.
+
+**a) katalyzované cytochromem P450 (CYP450)** — oxidační reakce:
+
+| Reakce | Příklad léčiva |
+|---|---|
+| hydroxylace | amfetaminy, fenytoin |
+| N-dealkylace | morfin, kofein, teofylin |
+| O-dealkylace | kodein |
+| N-oxidace | acetaminofen (paracetamol), nikotin |
+| deaminace | diazepam |
+
+**b) katalyzované jinými enzymy** (nezávislé na CYP450):
+
+| Reakce | Příklad léčiva |
+|---|---|
+| oxidace aminů | adrenalin |
+| dehydrogenace | etanol |
+| redukce | chloramfenikol, naloxon, dantrolen |
+| hydrolýza esterů | prokain, kyselina acetylsalicylová, klofibrát |
+| hydrolýza amidů | prokainamid, lidokain, indometacin |
+
+### Fáze II — konjugace
+
+Spojení (konjugace) léčiva nebo jeho metabolitu s endogenní (tělu vlastní) látkou — výsledek je typicky **rozpustný ve vodě, nepodléhá zpětnému vstřebání** a je připravený k vyloučení. Konjugáty odcházejí buď přes krevní pól hepatocytu (→ ledviny), nebo přes žlučový pól (→ žluč → stolice).
+
+| Typ konjugace | Příklad léčiva |
+|---|---|
+| glukuronidace | morfin, diazepam |
+| acetylace | sulfonamidy, izoniazid |
+| konjugace s glycinem | kyselina salicylová |
+| konjugace s kyselinou sírovou | metyldopa, acetaminofen |
+| metylace | adrenalin, noradrenalin, dopamin |
+
+**Stupeň biotransformace** závisí na cestě podání a aktivitě metabolizujících enzymů. Po perorálním podání může být léčivo aktivováno nebo naopak rozloženo už při průchodu **střevní sliznicí** — a pak přichází nejvýznamnější krok, **jaterní metabolismus**: teprve to, co projde játry a nevychytá se tam, se dostane do systémového oběhu (= biologická dostupnost, viz O13).
+
+🔑 **Fáze I = úprava molekuly (často oxidace). Fáze II = "přilepení" vodorozpustné skupiny, aby šlo léčivo ven.** Léčivo nemusí projít oběma fázemi — někdy jen jednou, někdy ani jednou (viz lithium).
+
+❓ **Doptají se:**
+- *Co je proléčivo a jaký je klasický příklad?* → Léčivo, které je samo neúčinné a účinným se stává až po metabolizaci; příklad kodein → morfin.
+- *Proč je paracetamol nebezpečný ve vysoké dávce?* → Jeho toxický metabolit se váže na bílkoviny (v ledvinách/játrech) — nefro/hepatotoxicita.
+
+---
+
+## O18 · Úloha jater v eliminaci léčiv, first-pass efekt
+
+**O čem to je:** Všechno, co se vstřebá ze střeva, **musí projít nejdřív játry**, než se dostane do zbytku těla — a játra část léčiva rovnou "spotřebují" nebo přemění. Tenhle první průchod se nazývá **first-pass efekt** a výrazně ovlivňuje, kolik léku se vůbec dostane tam, kam má.
+
+**Presystémová eliminace** = když se podstatná část léčiva metabolicky přemění na neúčinné metabolity **dřív, než se vůbec dostane do systémového oběhu**. Podílí se na ní enzymy jak střevní sliznice, tak hepatocytů. **First-pass efekt (účinek prvního průchodu)** je konkrétně přeměna léčiva při prvním průchodu portálním (jaterním) řečištěm. Je popsán u řady léčiv: **morfin, petidin, salbutamol, verapamil, nitroglycerin** — a to je přesně důvod, proč se nitroglycerin nepolyká, ale dává se pod jazyk (viz O6, O13).
+
+**Hepatocyt má dva "póly":**
+- **sinusoidální pól** — prostupný oboustranně,
+- **žlučový pól** — pro látky rozpustné ve vodě prostupný jen jedním směrem (ven, do žluči).
+
+Transport probíhá pasivní difuzí (u lipofilních látek) i aktivním transportem (u větších hydrofilních molekul). Příklad: **morfin** se v hepatocytech přemění na **morfin-6-glukuronid** — to je aktivní metabolit vylučovaný ledvinami; u pacientů s poruchou funkce ledvin se **kumuluje** a může vyvolat **prodloužený útlum dechového centra**.
+
+- **Transport přes sinusoidální pól** — látky a metabolity opustí hepatocyt do sinusoidů, jaterních žil, cestou dolní duté žíly (VCI) do systémového oběhu, a odtud dál do ledvin k vyloučení.
+- **Transport přes žlučový pól** — látky se dostanou do žlučovodů, vrátí se do duodena a tenkého střeva — odtud se mohou vracet zpět **enterohepatální cirkulací** (viz O20).
+
+🔑 **First-pass efekt je důvod, proč se stejná látka podává perorálně v mnohem vyšší dávce než nitrožilně** — velká část se ztratí hned při prvním průchodu játry.
+
+❓ **Doptají se:**
+- *Proč se nitroglycerin dává pod jazyk, ne polyká?* → Má vysoký first-pass efekt — sublingválně obchází játra a jde přímo do krve.
+- *Co je morfin-6-glukuronid a proč je nebezpečný u selhání ledvin?* → Aktivní metabolit morfinu vylučovaný ledvinami — při jejich selhání se kumuluje a prodlužuje útlum dýchání.
+
+---
+
+## O19 · Inhibice a indukce enzymů léčivy, klinický význam
+
+**O čem to je:** Když jedno léčivo ovlivní enzym, který zpracovává léčivo druhé, změní se jeho hladina v krvi — buď nahoru (**inhibice**), nebo dolů (**indukce**). Tohle je základ **většiny klinicky významných lékových interakcí** a typická oblast, kde se ptají na konkrétní dvojice léčiv.
+
+### Enzymová inhibice — hladiny druhého léčiva ROSTOU
+
+Jedno léčivo blokuje enzym, který metabolizuje léčivo druhé (soutěží o stejné aktivní místo). Podmínka: obě léčiva musí být podaná v blízkém čase a metabolizovaná stejným enzymem. Výsledek: hladina toho druhého léčiva stoupá, **až k toxickým hodnotám**.
+
+| Inhibovaný enzym | Inhibitor | Klinický dopad |
+|---|---|---|
+| **CYP3A4** (metabolizuje asi polovinu všech známých léčiv!) | azolová antimykotika (ketokonazol, itrakonazol), **grapefruitová šťáva** (deaktivuje střevní CYP3A4) | *simvastatin + itrakonazol* → **10× vyšší** biologická dostupnost statinu → riziko **rabdomyolýzy** |
+| CYP3A4 | cyklosporin | interakce s blokátory Ca²⁺ kanálů (nifedipin, isradipin, amlodipin) |
+| **CYP2D6** | chinidin, propafenon, fluoxetin | zesílení bradykardizujícího účinku betablokátorů |
+| **CYP2C19** (hlavní enzym pro **warfarin**) | statiny, makrolidy | zvyšují hladinu a účinek warfarinu (**riziko krvácení**) |
+
+### Enzymová indukce — hladiny druhého léčiva KLESAJÍ
+
+Jedno léčivo **zvýší aktivitu** enzymu, který metabolizuje i léčivo druhé — hladina druhého léčiva významně klesne, a to i po dobu **několika dní** po vysazení induktoru.
+
+| Indukovaný enzym | Induktor | Klinický dopad |
+|---|---|---|
+| CYP2C19 | **třezalka tečkovaná** | snižuje hladinu a účinek warfarinu |
+| CYP3A4, CYP2C9, CYP2C19 | barbituráty, **rifampicin**, karbamazepin, steroidy (estrogeny, dexametazon), extrakty třezalky | široký dopad na mnoho léčiv |
+| CYP1A1/CYP1A2 | aromatické uhlovodíky v **tabákovém kouři** | kuřáci mají zvýšenou aktivitu těchto enzymů |
+| CYP2E1 | etanol, rozpouštědla, hladovění, diabetes | mechanismus indukce není přesně znám |
+
+**Léčiva, jejichž VLASTNÍ metabolismus bývá inhibován** (účinek zesílen/prodloužen): dexametazon, disulfiram, etoposid/teniposid, etanol, fenytoin, warfarin, tolbutamid a další perorální antikoagulancia. **Léčiva, jejichž metabolismus bývá typicky indukován** (účinek snížen/zkrácen): barbituráty, fenytoin, teofylin, warfarin, metadon, metoprolol, chinidin.
+
+**Autoindukce a zkřížená indukce:** při opakovaném podávání dochází po **2–3 dnech** ke zvýšení syntézy a aktivity mikrozomálních enzymů. Léčivo tak může indukovat **svůj vlastní** metabolismus (autoindukce → tolerance, klesající účinek stejné dávky) nebo metabolismus **jiných současně podávaných léčiv** (heteroindukce/zkřížená indukce) — zkříženou indukci mohou vyvolat i látky z prostředí a z potravy.
+
+🔑 **Inhibice zvedá hladinu (riziko toxicity), indukce ji snižuje (riziko selhání léčby)** — obojí je nebezpečné, jen jinak.
+
+**Co ovlivňuje biotransformaci obecně:** genetická predispozice, věk, onemocnění eliminačních orgánů.
+
+❓ **Doptají se:**
+- *Proč je nebezpečná kombinace statinu s grapefruitovou šťávou nebo itrakonazolem?* → Oba inhibují CYP3A4 → prudce stoupne hladina statinu → riziko rabdomyolýzy.
+- *Proč třezalka snižuje účinek antikoncepce a warfarinu?* → Indukuje jaterní enzymy (CYP3A4/2C19), které tato léčiva odbourávají rychleji.
+- *Co je autoindukce?* → Léčivo indukuje enzym, který metabolizuje samo sebe — vede to k toleranci (klesajícímu účinku stejné dávky v čase).
+
+---
+
+## O20 · Vylučování léčiv renální a extrarenální
+
+**O čem to je:** Exkrece je poslední, **nevratný** krok — léčivo (nebo jeho metabolit) definitivně opouští tělo. Hlavním orgánem jsou ledviny, ale existují i další cesty. Otázka jde do detailu především u ledvin, protože tam se to dá nejlíp ovlivnit terapeuticky (např. změnou pH moči).
+
+**Hlavní exkreční orgány:** **renální** (ledviny) a **extrarenální** — játra (žlučí), plíce (těkavé látky), pot, sliny. Zvláštní důležitost má vylučování do **mateřského mléka** — riziko pro kojence.
+
+### Ledviny — tři děje najednou
+
+Množství léčiva v moči = **glomerulární filtrace + tubulární sekrece − tubulární reabsorpce**.
+
+**① Glomerulární filtrace (GF).** Ledvinami protéká u dospělého asi 1,2 l/min krve, z čehož vznikne ~120 ml/min glomerulárního filtrátu. Filtr má **efektivní velikost pórů 5 nm**:
+- molekuly do **5 000 Da** (do 1,4 nm) filtrují se velmi snadno — patří sem drtivá většina léčiv,
+- mezi 5 000–25 000 Da začíná záležet i na **náboji** (kationty projdou líp než anionty — např. záporně nabitý heparin filtrací neprojde) a **tvaru**,
+- velké molekuly a proteiny (albumin, IgG) filtrují minimálně; **léčivo vázané na plazmatické bílkoviny do primární moči vůbec neprojde** (navazuje na O14).
+
+Přefiltrované množství je přímo úměrné **koncentraci volného léčiva v plazmě** a rychlosti GF. GF se nejpřesněji měří látkou, která se filtruje a **vůbec se nereabsorbuje** — typicky **inulin**.
+
+**Renální clearance** (objem plazmy zcela očištěný ledvinami za jednotku času) slouží k posouzení funkce ledvin — v praxi měřená jako **clearance kreatininu**. Při **renálním selhání** GF i renální clearance výrazně klesají (nutná úprava dávkování), stejně tak progresivně **ve stáří**; naopak **u novorozence GF v prvních dnech po porodu až 10× stoupá**.
+
+**② Tubulární sekrece.** Aktivní transport léčiva z peritubulárních kapilár **proti koncentračnímu gradientu** pomocí membránových přenašečů — proto je rychlost renální exkrece u některých léčiv **výrazně vyšší**, než odpovídá pouhé filtraci (látka se odstraní hned při prvním průchodu ledvinou). Vysoká vazba na bílkoviny tenhle mechanismus omezuje jen málo (na rozdíl od filtrace). Přenašeče pro organické kyseliny a zásady jsou sdílené — proto tu dochází ke **kompetici a lékovým interakcím** (mezi dvěma léčivy, nebo mezi léčivem a endogenní látkou jako kyselina močová).
+
+**③ Tubulární reabsorpce.** Převážně **pasivní difuze lipofilních látek** zpátky do krve. Jak se v tubulu reabsorbuje voda (až 100× zahuštění), koncentrace léčiva v moči roste a vzniká koncentrační gradient, který lipofilní látky žene zpátky do krve — proto se **lipofilní léčiva vylučují ledvinami pomalu**.
+
+⚠️ **pH moči silně ovlivňuje reabsorpci ionizovatelných léčiv** (klasická zkušební past, propojená s O10 — iontová past):
+- **kyselá léčiva** se rychleji vylučují v **alkalické** moči (vyšší pH podpoří jejich disociaci, ztratí náboj vodíku a stanou se nabitými → nepodléhají zpětné reabsorpci),
+- u **zásaditých** léčiv je vztah opačný.
+
+**Praktické využití — alkalizace moči hydrogenuhličitanem:** u infuzní léčby akutní leukemie **metotrexátem** (má –COOH skupinu, tedy kyselý charakter) se sleduje pH moči a v případě potřeby se podá i.v. hydrogenuhličitan — urychlí to renální exkreci a sníží nebezpečně vysokou koncentraci cytostatika v plazmě. Stejný postup (alkalizace) se používá u **akutní otravy salicyláty nebo barbituráty**. ⚠️ U otrav **zásaditými** léčivy se naopak snižování pH moči/plazmy **nedoporučuje** — hrozí metabolická acidóza.
+
+### Játra — vylučování žlučí
+
+Látka přejde z krve přes sinusoidální a luminální membránu hepatocytu a žlučí se dostane do střeva, odkud odchází stolicí.
+
+**Enterohepatální cirkulace** — v duodenu a tenkém střevě se některá léčiva mohou **znovu vstřebat** místo definitivního vyloučení. Je důležitá i pro homeostázu endogenních látek (žlučové kyseliny, vitaminy D3 a B12, kyselina listová, estrogeny). Průběh: léčivo se vstřebá ze střeva → portální krví do jater → konjugace s kyselinou glukuronovou → konjugát odejde do žluči → vrátí se do střeva → **střevní bakterie (β-glukuronidázy) konjugát rozštěpí** → uvolněné léčivo se **znovu vstřebá**. Důsledek: **léčivo se z těla vylučuje pomaleji**, než by se čekalo.
+
+⚠️ **Antibiotická léčba mění střevní mikroflóru** a snižuje její schopnost konjugát rozštěpit — může to snížit plazmatické koncentrace léčiv závislých na enterohepatální cirkulaci (např. mykofenolát mofetil, imunosupresivum).
+
+**Enterohepatální cirkulaci lze cíleně přerušit aktivním uhlím** podaným do střeva — klasický a důležitý příklad: **aktivní uhlí přeruší enterohepatální cirkulaci α-amanitinu (toxin z muchomůrky zelené)** a tím sníží jeho toxicitu.
+
+🔑 **Kyselá moč zadrží zásadité léky, alkalická moč zadrží kyselé léky** — proto se u otravy salicyláty (kyselina) moč zalkalizuje, aby se rychleji vyloučily.
+
+❓ **Doptají se:**
+- *Jak se urychlí vyloučení salicylátů při otravě?* → **Alkalizací moči** (hydrogenuhličitanem) — kyselina se v alkalické moči ionizuje a nereabsorbuje se zpět.
+- *Co dělá aktivní uhlí u otravy muchomůrkou zelenou?* → Přerušuje enterohepatální cirkulaci toxinu (α-amanitinu), takže se nevstřebává znovu a rychleji se z těla vyloučí.
+- *Proč léčivo vázané na plazmatické bílkoviny neprojde glomerulární filtrací?* → Komplex léčivo-bílkovina je moc velký na to, aby prošel filtračními póry.
+
+---
