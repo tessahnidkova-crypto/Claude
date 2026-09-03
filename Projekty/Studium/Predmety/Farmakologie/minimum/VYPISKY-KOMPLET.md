@@ -2706,3 +2706,134 @@ Intoxikace: účinek vrcholí za 2–3 h; euforie, mióza, pokles tlaku, bradyka
 - *Co znamená stropový efekt?* → Po dosažení maximální dávky se analgetický efekt dál nezvyšuje, jen přibývají NÚ.
 
 ---
+
+## 62 · Eikosanoidy
+
+**O čem to je:** Eikosanoidy jsou lokální "hormony" — tělo si je vyrábí přímo v tkáni z jedné mastné kyseliny a používá je k regulaci zánětu, srážení krve, stahu cév a dělohy. Aspirin i řada dalších léků funguje tak, že zasahuje právě do jejich výroby.
+
+**Vznik — tuhle kaskádu řekni hned na začátku.** Eikosanoidy najdeme ve všech tkáních, jsou to deriváty kyseliny arachidonové (esenciální mastná kyselina o 20 uhlících). Esenciální mastné kyseliny přijímáme stravou → uloží se do fosfolipidů buněčných membrán → z nich se uvolní pomocí enzymu **fosfolipázy A2** (kterou blokuje lipokortin — a přesně takhle fungují kortikoidy, blokují ji nepřímo). Klíčový enzym pro tvorbu "cyklických" eikosanoidů je **cyklooxygenáza (COX)**; leukotrieny vznikají přes **lipoxygenázy**.
+
+| Skupina | Účinky a léčiva |
+|---|---|
+| PGE (prostaglandiny E) | vazodilatace (klesá tlak, roste průtok), bronchodilatace, rytmické stahy dělohy, potlačení tvorby žaludeční kyseliny, stah podélného svalstva GIT (a uvolnění kruhového). **Alprostadil** (derivát PGE1) — rozšiřuje tepénky, **udržuje otevřenou tepennou dučej u plodu**, protidestičkový, vazodilatans u ischemické choroby srdeční. **Dinoproston** (PGE2) — zvyšuje průtok ledvinami a tvorbu moči; gel na uvolnění děložního hrdla před porodem |
+| PGF (prostaglandiny F) | stahují plicní tepny a průdušky, stahují dělohu; tlumí funkci lymfocytů a imunitní odpověď. **Dinoprost, karboprost** — i.m., stimulují stah těhotné dělohy, rozšíří hrdlo, k vyvolání porodu nebo potratu. **Latanoprost, travoprost** — léčba glaukomu, zlepší odtok nitrooční tekutiny |
+| Prostacyklin | tvoří ho cévní endotel — vazodilatace, brání srážení destiček, uvolňuje děložní hrdlo. Může vést ke "steal fenoménu" — vazodilatancium v jedné části těla prohloubí nedokrvení jinde, protože "odčerpá" krev tam, kde je odpor menší. **Iloprost** i.v. u poruch prokrvení dolních končetin |
+| Tromboxany | proagregační (podporují srážení) a stahují cévy, stahují průdušky a dělohu. **Kyselina acetylsalicylová (aspirin) nevratně blokuje jejich tvorbu → antiagregační efekt** |
+| Leukotrieny | mediátory akutního i chronického zánětu (neutrofilního i alergického), vážou se na cysteinylové receptory. Účinky: stah koronárních a plicních cév, tvorba otoku, víc hlenu, bronchokonstrikce. Léčiva: **zafirlukast, montelukast** — kompetitivní antagonisté receptorů, žvýkací tablety, kombinovaná léčba astmatu; zileuton — blokátor lipoxygenázy, dnes není na trhu |
+
+**Inhibitory prozánětlivých cytokinů.** Cytokiny = bílkovinné mediátory, které vylučují CD4+ T lymfocyty a makrofágy; spouštějí zánětlivou reakci a specifickou imunitní odpověď. Prozánětlivé cytokiny (IL-1, IL-6, TNF) mobilizují buňky prezentující antigen, aktivují endotel, zvyšují expresi adhezivních molekul, fungují jako vlastní (endogenní) pyrogeny a spouštějí tvorbu bílkovin akutní fáze.
+
+**Imunosupresiva fungují třemi cestami:** blokáda tvorby IL-2 (růstový faktor T-lymfocytů) — cyklosporin, takrolimus, sirolimus; blokáda exprese cytokinových genů — kortikosteroidy; blokáda tvorby purinů a pyrimidinů (stavebních kamenů DNA) — azathioprin, mykofenolát mofetil.
+
+> **Monoklonální protilátky — dělení podle koncovky názvu:** **-mumab** = humánní · **-momab** = myší · **-ximab** = chimérické (max 40 % myší složky) · **-zumab** = humanizované (jen 10 % myší složky).
+
+**Inhibitory TNF-α** (TNF tvoří makrofágy v místě zánětu a stimuluje imunitní odpověď) — nejrozšířenější inhibitory prozánětlivých cytokinů: revmatoidní a psoriatická artritida, Crohnova choroba, psoriáza. Infliximab, adalimumab, etanercept, golimumab. Inhibitory IL-1: anakinra (revmatoidní artritida), kanakinumab (ataky dnavé artritidy). Inhibitory IL-6: tocilizumab (revmatoidní a juvenilní idiopatická artritida).
+
+🔑 **COX → prostaglandiny/tromboxany/prostacyklin. LOX → leukotrieny.** Aspirin blokuje COX nevratně.
+
+❓ **Doptají se:**
+- *Jak kortikoidy tlumí zánět na úrovni eikosanoidů?* → Přes lipokortin blokují fosfolipázu A2, takže se vůbec neuvolní kyselina arachidonová — zablokují celou kaskádu na začátku, ne jen jednu větev.
+- *Co znamená koncovka -zumab?* → Humanizovaná monoklonální protilátka, jen 10 % myší složky.
+
+---
+
+## 63 · Analgetika-antipyretika
+
+**O čem to je:** Léky na bolest a horečku, které na rozdíl od NSA vůbec neřeší zánět — nejdůležitější je tu paracetamol, protože je běžně dostupný, ale ve vyšší dávce je nebezpečně jaterně toxický.
+
+**Analgetika-antipyretika patří mezi neopioidní analgetika**, nemají tak silný analgetický efekt jako opioidy. **Mají jen analgetický a antipyretický účinek — na rozdíl od NSA NEMAJÍ protizánětlivý ani protidestičkový efekt.** Tím se od NSA (viz O64) zásadně liší.
+
+**Paracetamol.** Přesný mechanismus není objasněný — nejspíš blokuje cyklooxygenázu v hypotalamu (tedy centrálně, ne v periferní tkáni jako NSA). Podává se ústy, rychle se vstřebává, maximální koncentrace za 30–60 minut. **Bezpečný — lék první volby u starších pacientů, těhotných i kojenců.** Maximální denní dávka **4 g**, jednotlivá analgetická dávka asi **1 g** — nad to hrozí poškození jater.
+
+> **Hepatotoxicita — jádro otázky.** Poškození jater způsobuje toxický metabolit **NAPQI** (N-acetyl-p-benzochinonimin), který vzniká přes enzym CYP2E1. **Pozor na alkohol** — indukuje CYP2E1 a zvyšuje tvorbu tohoto toxického metabolitu, takže chronický alkoholik je ohrožen i nižší dávkou paracetamolu. **Antidotum při předávkování (od cca 15 g) je acetylcystein** (je to prekurzor glutathionu, který normálně NAPQI neutralizuje — u předávkování glutathion dojde a acetylcystein ho doplní).
+
+Indikace: horečka, bolest hlavy, kloubů, chřipkové onemocnění. Obchodní názvy: Paralen, Panadol, Coldrex, Ataralgin, Migralgin. **U dětí má přednost před aspirinem kvůli riziku Reyeova syndromu** (viz O64).
+
+**Pyrazolové deriváty — metamizol, propyfenazon.** Indikovány jen pro akutní bolest, bez rizika pro GIT (na rozdíl od NSA). Vhodné na bolest ze spazmu hladkého svalu — žlučová a ledvinová kolika, na spasmoanalgezii před/po instrumentálních vyšetřeních. NÚ: žaludeční/dvanáctníkové vředy, jsou karcinogenní a nefrotoxické, mohou vyvolat těžkou anafylaktoidní reakci — **nepodávat u astmatu**.
+
+🔑 **Paracetamol = bezpečný v terapeutické dávce, ale nebezpečně hepatotoxický při předávkování. Antidotum: acetylcystein.**
+
+❓ **Doptají se:**
+- *Čím se liší paracetamol od NSA?* → Nemá protizánětlivý ani protidestičkový efekt, jen analgetický a antipyretický.
+- *Co je antidotum při předávkování paracetamolem?* → Acetylcystein.
+- *Proč je nebezpečné kombinovat paracetamol s alkoholem?* → Alkohol indukuje CYP2E1, který tvoří toxický metabolit NAPQI — zvyšuje se riziko poškození jater.
+
+---
+
+## 64 · Nesteroidní antiflogistika (NSA)
+
+**O čem to je:** Nejpoužívanější léky na bolest a zánět vůbec (ibuprofen, aspirin...) — fungují přes blokádu enzymu COX, který má dvě varianty: jednu "hodnou" (chrání žaludek a ledviny) a jednu "zlou" (dělá zánět). Většina NÚ NSA plyne z toho, že blokují obě najednou.
+
+Patří do skupiny nesteroidních protizánětlivých látek (NSA) — "nesteroidní" je odlišuje od glukokortikoidů, které mají podobný protizánětlivý efekt jinou cestou. Některá jsou volně dostupná bez receptu → riziko nadužívání.
+
+> **COX-1 vs. COX-2 — nejdůležitější tabulka celé otázky:**
+
+| | COX-1 | COX-2 |
+|---|---|---|
+| Kde je | v naprosté většině tkání, důležitá pro běžný chod tkáně (homeostázu) | vytváří se navíc při zánětu, spouští ji cytokiny (IL-1, IL-6, TNF-α) |
+| Co dělá | mění kyselinu arachidonovou na prostanoidy potřebné pro normální fungování (ochrana žaludeční sliznice, průtok ledvinami) | tvoří prostanoidy, které dělají zánět — vazodilataci, otok, bolest |
+| Co se stane při zablokování | zmizí ochranný efekt PGE2 → NÚ v GIT a ledvinách; nedostatek tromboxanu → krvácivost | analgetický, protizánětlivý a imunosupresivní efekt (to je to, co chceme) |
+
+⚠️ **Klasická NSA blokují oba enzymy neselektivně (COX-1 i COX-2), koxiby blokují selektivně hlavně COX-2** — proto mají koxiby méně žaludečních NÚ.
+
+Účinky: antipyretický, protizánětlivý, u některých i antiuratický (snižuje kyselinu močovou). Protizánětlivý efekt se přičítá i tomu, že tlumí tvorbu leukotrienů a ovlivňují neutrofily, lymfocyty a cytokiny. Využití: mírná až středně silná bolest, artritida, osteoartróza, záněty, otoky, ztuhlost kloubů, horečka.
+
+**NÚ — vysoký výskyt hlavně u vyšších dávek, dlouhodobého užívání a u starších pacientů:**
+- **GIT:** trávicí potíže, průjem, zácpa, zvracení, **krvácení a perforace žaludeční stěny, vředy**.
+- **Ledviny:** selhávání ledvin z blokády prostaglandinů, které udržují jejich prokrvení; po vysazení obvykle vymizí, ale při dlouhodobém užívání může vzniknout trvalá porucha (analgetická nefropatie).
+- **Kůže:** vyrážky, alergie.
+- **KVS:** zvýšení krevního tlaku, riziko srdečních a mozkových příhod.
+
+**Přehled skupin:**
+
+| Skupina | Zástupci a zvláštnosti |
+|---|---|
+| Salicyláty | **kyselina acetylsalicylová** — nevratně blokuje COX-1 i COX-2; protidestičkový, antipyretický, analgetický a protizánětlivý efekt; intoxikace se projeví zrychleným dýcháním (hyperpnoe). Metylsalicylát — místně. Kyselina salicylová — místní keratoplastický a keratolytický efekt (změkčuje/odlupuje rohovatějící kůži) |
+| Deriváty kyseliny propionové | ibuprofen — revmatické bolesti, **nejšetrnější k GIT** ze všech NSA; **v těhotenství kontraindikován** — riziko předčasného uzávěru tepenné dučeje a poškození ledvin plodu. Flurbiprofen, ketoprofen — deriváty ibuprofenu. Naproxen — výhoda delšího poločasu (méně dávek denně) |
+| Oxikamy | kinetika srovnatelná s naproxenem: piroxikam, meloxikam (víc selektivní k COX-2) |
+| Preferenční COX-2 inhibitory | nimesulid — lék druhé volby pro akutní bolest, riziko poškození jater, nedoporučen těhotným |
+| Koxiby (specifické COX-2 inhibitory) | analgetický efekt srovnatelný s neselektivními, nízké riziko toxicity pro GIT. Parekoxib — pooperační bolest; celekoxib, etorikoxib — revmatoidní artritida a **osteoartróza** |
+
+> **Reyeův syndrom a salicylismus — dvě věci, na které se ptají.** **Reyeův syndrom** = encefalopatie a poškození jater u dětí léčených kyselinou acetylsalicylovou při horečce a viróze; úmrtnost až 40 %. **Dětem se salicyláty nepodávají** — místo nich paracetamol nebo ibuprofen. **Salicylismus** = při opakovaném podávání vyšších dávek — zvonění v uších (tinnitus), závratě, ztráta sluchu, nevolnost.
+
+Další NÚ salicylátů: záněty žaludeční sliznice, riziko krvácení. Interakce: zvyšují antikoagulační účinek warfarinu, snižují účinek antihypertenziv.
+
+🔑 **COX-1 = "hodný", chrání žaludek a ledviny. COX-2 = "zlý", dělá zánět. Aspirin = jediné NSA s nevratnou blokádou.**
+
+❓ **Doptají se:**
+- *Proč se aspirin nedává dětem?* → Riziko Reyeova syndromu (encefalopatie + jaterní postižení).
+- *Které NSA je nejšetrnější k žaludku a proč je kontraindikováno v těhotenství?* → Ibuprofen; kvůli riziku předčasného uzávěru tepenné dučeje plodu.
+- *Jaký je hlavní rozdíl mezi koxiby a klasickými NSA?* → Koxiby selektivně blokují COX-2, proto mají méně žaludečních NÚ, ale podobné kardiovaskulární riziko.
+
+---
+
+## 65 · Farmakoterapie migrény
+
+**O čem to je:** Migréna je záchvatovitá bolest hlavy spojená se změnami průsvitu mozkových cév. Léky proto buď stahují cévy zpátky (triptany — akutní léčba), nebo se snaží záchvatům předcházet (profylaxe).
+
+**Migréna** = benigní opakující se záchvatovitá bolest hlavy, trvá hodiny až dny; často doprovázena zvracením, nevolností, příznaky neurologické dysfunkce (např. aura).
+
+**Tři mechanismy patogeneze — musíš je vyjmenovat:**
+① **vazomotorická složka** — rozšíření nitrolebních i mimolebních tepen
+② **spouštěcí zóna** — uložená v serotoninergním systému středního mozku
+③ **aktivace trigeminovaskulárního systému** — nemyelinizovaná vlákna inervující cévy měkkých a tvrdých mozkových plen
+
+**Tři stadia záchvatu — v tomhle pořadí:** ① stažení lebečních cév → ② stadium bolesti (rozšíření cév) → ③ stadium otoku (zvýšená propustnost cév).
+
+**Terapie záchvatu:**
+
+| Skupina | Klíčové body |
+|---|---|
+| Triptany | **lék první volby**; agonisté 5-HT1 (serotoninových) receptorů → stáhnou nitrolební cévy zpět. **Nehodí se pro profylaxi** (jen na akutní záchvat). Sumatriptan — tablety, nosní sprej, i.v. pro těžké záchvaty; NÚ: spavost, únava, malátnost, nevolnost, mravenčení; **kontraindikace: infarkt myokardu, ischemická choroba srdeční** (vazokonstrikce by mohla zhoršit prokrvení srdce). Zolmitriptan — vyšší biologická dostupnost, tablety i nosní spreje; NÚ: závrať, mravenčení |
+| Námelové alkaloidy | ergotamin, dihydroergotamin — parciální agonisté serotoninových a α-adrenergních receptorů → stažení cév. Kvůli špatné biologické dostupnosti se podávají jako čípky (ergotamin) nebo nosní sprej (dihydroergotamin). NÚ: křeče, bolesti břicha, průjem, stahy dělohy, bolest svalů |
+| Analgetika a antiemetika | u lehčích forem salicyláty, naproxen, paracetamol; antiemetika u pacientů náchylných ke zvracení — domperidon, metoklopramid |
+
+**Profylaxe:** úprava životního stylu, betablokátory (metoprolol), blokátory kalciových kanálů (verapamil), antiepileptika (valproát). Cíle preventivní léčby: snížit frekvenci, závažnost a trvání záchvatů, zlepšit odpověď na akutní léčbu (a umožnit nižší dávku akutního léku), zlepšit kvalitu života.
+
+🔑 **Triptany = akutní léčba (stažení cév), betablokátory/BKK/valproát = profylaxe.**
+
+❓ **Doptají se:**
+- *Proč jsou triptany kontraindikovány u ischemické choroby srdeční?* → Způsobují vazokonstrikci, která by mohla zhoršit prokrvení srdce.
+- *Hodí se triptany na prevenci migrény?* → Ne, jen na akutní záchvat.
+
+---
