@@ -2991,3 +2991,125 @@ Kinetika: losartan je proléčivo, biologická dostupnost 20–60 %, eliminace b
 - *Proč se kličková diuretika kombinují s opatrností s aminoglykosidy?* → Zvyšuje se riziko ototoxicity (obě skupiny jsou ototoxické samy o sobě).
 
 ---
+
+## 70 · Blokátory kalciových kanálů (BKK)
+
+**O čem to je:** BKK rozšiřují cévy tím, že blokují vstup vápníku do svalové buňky — bez vápníku sval nemůže stáhnout. Tři chemické podskupiny se ale hodně liší tím, jestli působí hlavně na cévy, nebo hlavně na srdce — a tenhle rozdíl je klíčový pro to, s čím se dají a nedají kombinovat.
+
+**Blokátory kalciových kanálů (BKK) = antagonisté Ca²⁺ kanálů**, patří mezi přímá vazodilatancia.
+
+**Mechanismus na molekulární úrovni — odříkej celý řetězec.** Změna napětí na membráně aktivuje Ca²⁺ kanál → aktivuje se ryanodinový receptor (RyR) a uvolní se Ca²⁺ ze sarkoplazmatického retikula → vznikne komplex Ca²⁺ s kalmodulinem → kontrakce. **BKK se reverzibilně naváží na vazebné místo Ca²⁺ kanálu → zablokují vstup Ca²⁺ do buňky i jeho uvolnění ze sarkoplazmatického retikula → sval se uvolní.**
+
+Na tkáňové úrovni: rozšíří hladké svaly cévní stěny (i tepének), uvolní hladké svaly mimo cévy (spasmolýza), na srdci sníží kontraktilitu a automaticitu.
+
+Farmakokinetika: biologická dostupnost 10–30 %. **Nástup musí být pomalý, jinak dojde k reflexnímu vyplavení katecholaminů** (tělo zareaguje na rychlý pokles tlaku vyplavením stresových hormonů). Výhoda: dlouhé trvání účinku (někdy retardované tablety), dobrá snášenlivost. Eliminují se přes P-glykoprotein a CYP3A4 — jejich blokáda zvýší dostupnost BKK a naopak. NÚ: otoky kolem kotníků, síňokomorové blokády různého stupně. Indikace: vysoký tlak (i v těhotenství), angina pectoris, ischemická choroba dolních končetin, tepenné spazmy.
+
+**Tři chemické skupiny — v tomhle je celý rozdíl:**
+
+| Skupina | Charakteristika | Zástupci |
+|---|---|---|
+| Dihydropyridiny | selektivně blokují L-typ Ca²⁺ kanálů **v cévách**, vážou se mimo buňku; **minimální vliv na srdce** | nifedipin — 1. generace, rychlá vazodilatace s reflexní aktivací sympatiku; felodipin, isradipin — 2. generace, pomalejší nástup; amlodipin — 3. generace, retardované tablety |
+| Fenylalkylaminy | ovlivňují hlavně **myokard** — sníží kontraktilitu a zpomalí frekvenci | verapamil — lék první volby u pacientů s kontraindikací betablokátorů (CHOPN, astma); **kombinace s betablokátory je absolutně kontraindikovaná** (synergický efekt vede k bradykardii a AV blokádě); KI: AV blok, srdeční selhání; typický NÚ: úporná zácpa |
+| Benzothiazepiny | působí vazodilatačně na cévy i na myokard — stojí mezi oběma předchozími skupinami | diltiazem — stejné kontraindikace jako verapamil; dlouhodobá profylaxe anginy pectoris |
+
+🔑 **Dihydropyridiny = cévy, verapamil = srdce, diltiazem = obojí.** Verapamil/diltiazem + betablokátor = nikdy nekombinovat (riziko bradykardie a AV blokády).
+
+❓ **Doptají se:**
+- *Proč se verapamil nekombinuje s betablokátory?* → Oba tlumí srdce (kontraktilitu i vedení) — kombinace hrozí těžkou bradykardií a AV blokádou.
+- *Který BKK má minimální vliv na srdce?* → Dihydropyridiny (nifedipin, amlodipin...) — působí selektivně na cévy.
+
+---
+
+## 71 · Nitrity a nitráty
+
+**O čem to je:** Nitroglycerin a příbuzné léky jsou "dárci" oxidu dusnatého (NO) — přirozené látky, kterou tělo samo používá k rozšiřování cév. Nejdůležitější praktická věc z celé otázky je smrtelně nebezpečná kombinace s Viagrou.
+
+Za normálních podmínek reguluje průtok krve orgánem autoregulace. **Hlavní vazodilatátor je NO**, který tvoří endotel z aminokyseliny argininu (enzymem NO-syntáza). Za patologických podmínek je silným podnětem pro vazodilataci i ischemie — kvůli ní se cévy rozšíří distálně od zúžení způsobeného aterosklerotickým plátem. Pokud je zúžení příliš závažné, nelze dodávku kyslíku dál zvyšovat a endogenní NO klesá a rychle se odbourá. **Steal syndrom** = průtok se "odklání" od tepny poškozené zúžením směrem k tepnám, které jsou volně průchodné (krev jde "cestou nejmenšího odporu").
+
+**Mechanismus — přesná kaskáda, tohle chtějí slyšet.** Nitrity a nitráty jsou **donory NO**. Uvolněný NO stimuluje guanylátcyklázu → stoupá množství cGMP → aktivuje se proteinkináza G → uvolní se cévní i mimocévní hladké svaly. Efekt je posílen i přes cAMP. **Oba, cGMP i cAMP, odbourává enzym fosfodiesteráza (PDE5)** — jeho zablokování tedy vazodilatační efekt ještě zesílí.
+
+Zástupci: nitroglycerin, izosorbid dinitrát. Biologická dostupnost ústy jen 30 %, **podání pod jazyk (sublingválně) zajistí rychlý nástup**. NÚ: bolest hlavy, pokles tlaku při vstávání.
+
+> ⚠️ **Kontraindikace — nejčastější zkušební otázka celé skupiny:** současné podání **inhibitorů PDE5** (sildenafil, tadalafil — léky na erektilní dysfunkci, "Viagra"). Kombinace vede k neztlumitelné vazodilataci a život ohrožujícímu poklesu tlaku, protože oba léky posilují stejnou cestu (více cGMP, méně jeho odbourávání).
+
+Indikace: **nitroglycerin je lék první volby při atace anginy pectoris**, prevence záchvatů, rychlé zvládnutí bolesti (stenokardie).
+
+🔑 **Nitráty = dárci NO. Nikdy nekombinovat se sildenafilem/tadalafilem — smrtelný pokles tlaku.**
+
+❓ **Doptají se:**
+- *Proč je kombinace nitrátů se sildenafilem nebezpečná?* → Oba zvyšují množství cGMP (nitráty jeho tvorbu, sildenafil brání jeho odbourání) → extrémní, neztlumitelný pokles tlaku.
+- *Jaký je nejrychlejší způsob podání nitroglycerinu při záchvatu?* → Sublingválně (pod jazyk).
+
+---
+
+## 72 · Farmakoterapie srdečního selhání
+
+**O čem to je:** Když srdce nestíhá pumpovat dost krve, tělo se to snaží kompenzovat (víc sympatiku, víc RAAS) — jenže tahle kompenzace srdce dál poškozuje. Léčba srdečního selhání proto z velké části znamená zablokovat právě tuhle škodlivou "kompenzaci", ne nutně samotné pumpování posilovat.
+
+**Srdeční selhání** = stav, kdy porucha srdeční funkce znemožní přečerpat tolik krve, kolik tkáně a orgány potřebují pro svůj metabolismus.
+
+Mechanismy selhání: snížená kontraktilita myokardu, zvýšené předtížení a dotížení srdce, porucha roztažitelnosti srdečních oddílů, metabolické a hormonální faktory.
+
+**Adaptační mechanismy — z nich plyne celá léčba.** Tělo na nedostatečný výdej reaguje zvýšenou aktivitou sympatiku: přes α receptory stáhne periferní cévy, přes β receptory zvýší nároky myokardu na kyslík a podpoří tvorbu reninu → aktivace RAAS. **Právě proto se srdeční selhání léčí betablokátory a inhibitory RAAS — neposilují čerpání, ale blokují škodlivou kompenzaci, která srdce dál ničí.**
+
+Klasifikace se provádí podle ejekční frakce (EF) — podíl krve, který srdce při jednom stahu vypudí; EF pod 50 % už znamená mírně sníženou ejekční frakci. Léčba se zahajuje betablokátory a ACE inhibitory, spolu s diuretiky.
+
+**Levostranné selhání — tabulka cíl → léčivo:**
+
+| Cíl | Skupina | Zástupci |
+|---|---|---|
+| Zklidnit přebuzený sympatikus | betablokátory | 1. gen. propranolol, pindolol, timolol; 2. gen. atenolol, esmolol, metoprolol; 3. gen. karvedilol, labetalol (neselektivní s přídavnými účinky) a betaxolol, celiprolol, nebivolol (β1 selektivní s přídavnými účinky) |
+| Zklidnit přebuzený RAAS | ACE inhibitory | kaptopril, enalapril, ramipril, perindopril |
+| | sartany (blokáda AT receptorů) | losartan, valsartan, eprosartan |
+| | blokáda aldosteronových receptorů | spironolakton |
+| Snížit retenci tekutin | diuretika | thiazidy (hydrochlorothiazid), kličková (furosemid), osmotická (manitol), aquaretika (tolvaptan), draslík šetřící (amilorid) |
+| Zlepšit funkci levé komory | pozitivně inotropní látky | digoxin, sympatomimetika (dopamin, dobutamin, noradrenalin) |
+| Snížit riziko arytmií | antiarytmika | viz O67, třídy podle Vaughana-Williamse |
+
+**Pravostranné srdeční selhání — léčba plicní hypertenze:**
+
+| Cíl | Léčiva |
+|---|---|
+| Snížit plicní hypertenzi při nízkém kyslíku v plicním oběhu | antiendoteliny, inhibitory PDE5, prostaglandiny |
+| Snížit plicní hypertenzi při plicní embolii | antikoagulancia, fibrinolytika |
+| Zlepšit funkci pravé komory | inotropika, betablokátory, inhibitory RAAS, antiarytmika |
+| Vazodilatancia | ACE inhibitory, nitrity a nitráty |
+
+🔑 **Betablokátory a RAAS-inhibitory neposilují srdce — blokují škodlivou kompenzaci, která ho ničí.**
+
+❓ **Doptají se:**
+- *Proč se u srdečního selhání podávají betablokátory, když srdce už tak nezvládá pumpovat?* → Blokují škodlivou hyperaktivaci sympatiku, která dlouhodobě myokard poškozuje víc, než krátkodobě pomáhá.
+
+---
+
+## 73 · Farmakoterapie ischemické choroby srdeční (ICHS)
+
+**O čem to je:** ICHS znamená, že srdeční sval nedostává dost kyslíku, protože jsou zúžené věnčité tepny. Angina pectoris je bolest, kterou to způsobuje. Léčba se zásadně liší podle toho, jestli je forma "stabilní" (typicky při námaze, léčíme rozšířením cév/zpomalením srdce) nebo "nestabilní" (hrozí infarkt, řešíme protisrážlivě).
+
+**ICHS** = soubor chorob spojených nedostatečným okysličením myokardu. **Angina pectoris (AP)** je hlavní příznak ICHS: bolest za hrudní kostí vystřelující do krku a levé horní končetiny, způsobená nedostatečným zásobením myokardu kyslíkem, typicky **námahová bolest** ze zúžení věnčitých tepen aterosklerotickým plátem. Cíl léčby: ulevit od bolesti a zabránit infarktu i kardiovaskulární smrti.
+
+Klinické formy AP: stabilní, Prinzmetalova (vazospastická), smíšená, nestabilní, akutní koronární syndrom.
+
+**Rozdělení léčby — jádro otázky:**
+- **Stabilní a Prinzmetalova AP → antianginózní léčiva:** nitráty, blokátory kalciových kanálů, betablokátory.
+- **Nestabilní AP → je třeba zvýšit koronární průtok a snížit riziko trombózy:** heparin, protidestičkové léky.
+
+**Antianginózní léčiva:**
+
+| Skupina | Klíčové body |
+|---|---|
+| Nitráty | donory NO → guanylátcykláza → víc cGMP → proteinkináza G → rozšíření hladkého svalu; efekt posiluje blokáda PDE5 (viz O71). Nitroglycerin, izosorbid dinitrát; dostupnost 30 % ústy, sublingválně rychlý nástup. NÚ: bolest hlavy, pokles tlaku při vstávání |
+| Betablokátory | snižují kontraktilitu srdce a zpomalují frekvenci → snižují spotřebu kyslíku myokardem. Tři generace (viz O46) |
+| Blokátory Ca²⁺ kanálů | přímá vazodilatancia; dihydropyridiny (nifedipin, felodipin, amlodipin) minimálně ovlivňují srdce; verapamil působí hlavně na myokard, lék volby při kontraindikaci betablokátorů; diltiazem — dlouhodobá profylaxe AP (viz O70) |
+
+Dál se přidává protidestičková léčba.
+
+**Infarkt myokardu — patogeneze v jedné větě:** ruptura aterosklerotického plátu → vznik trombu → uzávěr postižené věnčité tepny. **K nekróze celé tloušťky srdečního svalu dochází přibližně do 6 hodin od vzniku uzávěru** — z toho vyplývá časové okno pro reperfuzní léčbu (zprůchodnění tepny). Bezprostředním úkolem je úleva od bolesti — opiáty.
+
+🔑 **Stabilní AP = antianginózní léčiva (nitráty/BKK/betablokátory). Nestabilní AP = protisrážlivá léčba (heparin, protidestičkové léky).**
+
+❓ **Doptají se:**
+- *Proč je časové okno u infarktu 6 hodin?* → Po této době dochází k nekróze srdečního svalu v celé tloušťce stěny — reperfuzní léčba (zprůchodnění tepny) po tomto čase už nezachrání tkáň.
+- *Jaký je hlavní rozdíl v léčbě stabilní vs. nestabilní anginy pectoris?* → Stabilní = antianginózní léčiva (uleví bolesti), nestabilní = protisrážlivá léčba (řeší hrozící trombózu a infarkt).
+
+---
