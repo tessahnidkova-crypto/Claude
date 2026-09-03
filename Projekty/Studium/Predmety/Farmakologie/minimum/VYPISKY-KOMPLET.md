@@ -297,3 +297,148 @@ Výhody prodlouženého uvolňování: **menší výkyvy hladiny léku v krvi** 
 - *Co znamená bílá/červená signatura na receptu?* → Bílá = vnitřní užití, červená = vnější užití.
 
 ---
+
+## O6 · Lékové formy — perorální a orální
+
+**O čem to je:** Otázky 6, 7 a 8 jsou vlastně jedna velká otázka "lékové formy" rozdělená na tři podle cesty podání. Tahle je o formách, které jdou **do trávicího traktu** (perorální) nebo **zůstávají v ústech** (orální). U každé lékové formy je důležité umět říct **co to je, k čemu se to hodí a jaké to má výhody/nevýhody** — přesně na to se doptávají.
+
+**Perorální/orální podání celkově:** je to **nejfyziologičtější** cesta — jednoduchá, bezbolestná aplikace, obvykle systémový účinek (ale dá se použít i lokálně ve střevě — antacida, adsorbencia). Nevýhodou je **pomalejší nástup** než u injekce, vliv žaludečního pH, interakce s jídlem a **first-pass efekt** (lék projde nejdřív játry, než se dostane do těla — podrobně O18). Hlavní mechanismus vstřebávání je pasivní difuze: **slabé kyseliny se lépe vstřebávají v žaludku**, **slabé zásady v tenkém střevě** (souvisí s iontovou pastí z O10).
+
+### Tekuté perorální formy (liquida peroralia)
+
+Hodí se hlavně pro pacienty se špatným polykáním, děti do 6 let (flexibilní dávkování) a geriatrii. Odměřují se pipetou, stříkačkou, odměrkou, lžičkou nebo po kapkách (1 ml ≈ 20 kapek).
+
+| Forma | Co to je | Poznámka |
+|---|---|---|
+| **Roztok (solutio)** | jednofázová homogenní směs — rozpuštěná látka + rozpouštědlo (voda, líh, glycerol) | rychlý účinek, snadná příprava, ale chemicky/mikrobiálně méně stabilní |
+| macerát | louhování sušené rostliny **za studena** | tradiční rostlinná forma |
+| nálev | přelití **vroucí** vodou (list, nať, květ) | |
+| odvar | vaření (kořeny, hlízy, semena) | |
+| tinktura | čirá, tmavá, výrazně vonící tekutina | *Valerianae tinktura* = kozlík, sedativum |
+| **Kapky (guttae)** | malý objem, vysoká koncentrace | odměřují se kapátkem |
+| **Sirup (sirupus)** | vodný roztok s vysokým podílem cukru/sladidla | nestabilní na teple a světle |
+| **Suspenze** | tuhé částice rozptýlené v kapalině (heterogenní, dvoufázová) | flexibilní dávkování, ale sedimentuje |
+| **Emulze** | dvě nemísitelné kapaliny (voda v oleji nebo olej ve vodě) | šampony, oční kapky, lipofilní vitaminy |
+
+⚠️ Injekční roztok podaný ústy (per os) je krajní řešení — hrozí ho zničí žaludeční kyselina a **first-pass efekt**, navíc pozor na pomocné látky (např. etanol se nesmí dávat kojencům).
+
+### Pevné perorální formy (solida peroralia)
+
+**Tablety** jsou nejrozšířenější a nejoblíbenější léková forma — tuhé výlisky z tabletoviny (léčivá látka + plniva, pojiva, rozvolňovadla, kluzné látky, barviva). **Ne všechny se smí dělit** — jen ty s půlicí rýhou.
+
+| Typ tablety | Vlastnost |
+|---|---|
+| **konvenční (neobalené)** — "1. generace" | rychlé, ale krátké uvolnění celé dávky najednou (paralen, acylpyrin) |
+| **obalované (dražé)** | obal má estetickou (chuť, vzhled), technologickou (ochrana) i terapeutickou (cílené uvolnění) funkci |
+| **enterosolventní** | odolají žaludeční kyselině, rozpadnou se až ve střevě (vydrží 2 h v kyselině, pak se rozpadnou při vyšším pH) |
+| **rozpustné** | rozpustit ve vodě před užitím |
+| **šumivé** | obsahují kyselinu + uhličitan → reakcí vznikne CO₂; chránit před vlhkostí |
+| **dispergovatelné v ústech** | rozpustí se ve slinách, nemusí se zapíjet |
+
+**Tobolky** — tělísko tvrdé (želatinová schránka s práškem/peletami) nebo měkké (obsahuje kapalinu, typicky olej nepříjemné chuti — "perle", citlivé na vlhkost). Vždy se řídí SPC, jestli se smí otevřít a vysypat.
+
+**Perorální prášky a granuláty** — buď jednodávkové (v sáčku), nebo vícedávkové (s odměrkou); před podáním se rozpustí nebo rovnou spolknou.
+
+### Orální formy — nepolykají se, zůstávají v ústech
+
+- **Lokální účinek** (gingivální/orofaryngeální přípravky) — na infekce v dutině ústní, u onkologických pacientů se suchými ústy (xerostomie): kloktadla, gely a pasty na dásně, pastilky.
+- **Systémový účinek** (sublingvální, mukoadhezivní přípravky) — **obchází first-pass efekt**, rychlý nástup díky tenké sliznici — typicky **opioidní analgetika a nitráty** (nitroglycerin pod jazyk u anginy pectoris).
+- **Léčivé žvýkací gumy** — např. *Nicorette* (substituce nikotinu při odvykání kouření) nebo *Travel-Gum* (antihistaminikum proti kinetóze).
+
+🔑 **Sublingvální/mukoadhezivní podání obchází first-pass efekt stejně jako injekce — proto nitroglycerin nikdy nepolykáš, dáváš si ho pod jazyk.**
+
+❓ **Doptají se:**
+- *Proč se enterosolventní tableta nesmí rozkousat?* → Ztratila by ochranu proti žaludeční kyselině a léčivo by se zničilo/dráždilo žaludek dřív, než mělo.
+- *Jak funguje sublingvální podání u nitroglycerinu?* → Vstřebá se přímo sliznicí do krve, **obejde játra i first-pass efekt** → rychlý nástup.
+
+---
+
+## O7 · Lékové formy — parenterální a dermatologika
+
+**O čem to je:** **Parenterální** znamená "mimo trávicí trakt" — vstřikuje se to injekční jehlou nebo se to nechává kapat do žíly. **Dermatologika** jsou naopak formy na kůži. Obojí spojuje to, že **obchází žaludek a first-pass efekt** — proto se musí splnit přísné požadavky na čistotu.
+
+**Pět požadavků na kvalitu parenterálních přípravků** (proto, že jdou přímo do těla, obchází přirozené bariéry):
+1. **průzračnost (čirost)** — nutná u i.v. podání (**suspenze se nikdy nepodává i.v.**, jen čirý roztok),
+2. **osmotický tlak** — izotonický s krevní plazmou (jinak by ničil buňky),
+3. **aktuální acidita (pH)** — izoacidní/euacidní, cca 4–8,
+4. **sterilita** — aseptická příprava, filtrace, sterilizace,
+5. **apyrogenita** — bez pyrogenů (látek vyvolávajících horečku).
+
+**Cesty parenterální aplikace:** intravenózní, intramuskulární, subkutánní, intraarteriální, intratekální, intraoseální, intraartikulární, intraperitoneální.
+
+| Cesta | Výhody | Nevýhody |
+|---|---|---|
+| **i.v. (intravenózní)** | rychlý nástup; lze podat i dráždivé látky (cévní stěna je málo citlivá) | riziko infekce při dlouho zavedené kanyle (max. 4 dny); **nelze podat suspenze/emulze** s kapénkami nad 0,5 µm, léčiva srážející krev nebo hemolyzující erytrocyty, ani látky vychytávající ionty (tetracyklin) |
+| **i.m. (intramuskulární)** | lze podat roztoky/suspenze/emulze; vhodné, když je i.v. nebezpečné (adrenalin u anafylaxe) nebo nemožné (agresivní pacient, epileptický záchvat) | pomalejší nástup než i.v.; jen nedráždivá léčiva; bolestivost; riziko zánětu/nekrózy |
+| **s.c. (subkutánní)** | vstřebávání konstantní a pomalé, dá se ovlivnit (rozpustnost, přídavek vazokonstrikční látky); snadná aplikace | nejpomalejší vstřebávání ze tří |
+
+**Injekce** = sterilní roztok/emulze/suspenze s antimikrobní přísadou, max. objem **do 100 ml**, jednorázová aplikace jehlou (i.v. jen vodné injekce). Výhodné hlavně u léčiv se silným first-pass efektem, v urgentních situacích a u nespolupracujících pacientů (bezvědomí).
+
+**Infuze** = sterilní, obvykle izotonický roztok bez antimikrobních přísad, objem **100–1000 ml**, podává se pomalu kapkami do žíly (100–500 ml/hod), typicky do *v. cephalica antebrachii* nebo *v. jugularis interna*. Účel: úprava vodní a elektrolytové rovnováhy, úprava acidobazické rovnováhy, parenterální výživa, dočasná náhrada krve/plazmy, osmotická diuréza, nebo jako nosič pro jiná léčiva (fyziologický roztok, Hartmannův, Darrowův, Ringerův roztok, roztoky cukrů/aminokyselin/tuků).
+
+**Parenterální formy s řízeným uvolňováním (depotní):** depotní injekce s mikročásticemi — uvolňují léčivo postupně z místa vpichu. Rychlost vstřebávání záleží na složení injekce, od nejrychlejšího po nejpomalejší: **vodný roztok → vodná suspenze → olejový roztok → vodná emulze → olejová emulze → olejová suspenze (nejpomaleji)**. Patří sem i **implantáty** (tuhé tyčinky zaváděné do tkáně pro dlouhodobé systémové působení) a **mikronizované injekce** (lipozomy — váčky s fosfolipidovou membránou, které umí cíleně nést léčivo).
+
+### Dermatologika — formy na kůži
+
+Volba typu přípravku se řídí **stavem kůže**: na **mokvající** místa patří "mokré" (hydrofilní) přípravky — roztoky, lotiony, gely, krémy; na **suchou** kůži naopak "suché" (hydrofobní) přípravky — masti.
+
+| Forma | Podíl vody | Použití |
+|---|---|---|
+| **Mast (unguentum)** | max. 20 % vody, hydrofobní | chronická, méně intenzivní onemocnění; může dráždit (bílá vazelína), promašťování |
+| **Krém (cremor)** | min. 20 % vody | akutnější stavy, i samostatně jako hydratace (emoliencia) |
+| **Gel (gelatum)** | vysokomolekulární látka ve vehikulu (často voda) | vysychavý, chladivý efekt — antipruriginóza, antibiotika |
+| **Pasta (pasta)** | mast/krém + 20–25 % pevné jemné látky | často s oxidem zinečnatým, adstringencia |
+| **Zásyp (pulvis adspersorius)** | suché sypké částice | absorbuje pot a maz, musí být sterilní na otevřené rány |
+| **Léčivá náplast (emplastrum medicatum)** | přilnavý základ s léčivem | keratolytické, protizánětlivé, hřejivé |
+
+**Skupiny dermatologik podle účinku** (stačí umět princip, ne encyklopedicky všechny): dezinficiencia/antiseptika (ničí zárodky), antiseborhoika (snižují mazotvorbu), adstringencia (vysušují drobná poranění), antipruriginóza + lokální anestetika (proti svědění), antihidrotika (proti pocení), keratolytika/keratoplastika (ovlivňují rohovatění), antipsoriatika, steroidní antiflogistika (protizánětlivá), epitelizancia/granulancia (hojení), přípravky na záření/omrzliny/popáleniny, protimikrobiální a protiparazitární léčiva, ochranné přípravky a kosmetika (emoliencia).
+
+**Transdermální terapeutické systémy (náplasti)** — na rozdíl od klasické náplasti proniká léčivo **přes zdravou kůži do krevního oběhu = systémový účinek**. Aplikují se na suchou, čistou, neporušenou kůži (ochlupení se **stříhá, ne holí** — mikrotraumata by zvýšila vstřebávání), a **nesmí se stříhat**, pokud to výslovně nedovolí SPC. Použití: hormonální substituce, kontracepce, chronická bolest, odvykání kouření.
+- **Výhody:** snadná aplikace, obchází first-pass efekt, stabilní hladina v krvi, možnost rychle přerušit (sundáním).
+- **Nevýhody:** nehodí se pro léčiva vyžadující vysokou hladinu, různá přilnavost ke kůži, může dráždit/senzibilizovat, cena.
+
+❓ **Doptají se:**
+- *Proč se suspenze nikdy nepodává i.v.?* → Hrozí ucpání/embolizace cévy pevnými částicemi — i.v. smí jen čirý roztok.
+- *Kdy zvolíš i.m. místo i.v.?* → Když je i.v. nebezpečné (adrenalin u anafylaxe) nebo technicky nemožné (agresivní pacient, křeče).
+- *Kdy se u transdermální náplasti smí stříhat?* → Jen když to výslovně dovolí SPC — jinak nikdy.
+
+---
+
+## O8 · Lékové formy — oční, ušní, nosní, rektalia, vaginalia a inhalanda
+
+**O čem to je:** Zbytek lékových forem podle "otvoru těla", kam se aplikují. Společné pro všechny je, že **musí respektovat konkrétní anatomii a fyziologii daného místa** — proto mají specifické požadavky na pH, sterilitu a objem.
+
+**Oční formy** — sterilní přípravky na oční bulbus nebo do spojivkového vaku, léčí vnější oko a přední část vnitřního oka. Léčivo se vstřebává přes rohovku nebo spojivku, ale **slzy velkou část spláchnou — do oka nakonec pronikne jen asi 1 % dávky**.
+
+| Forma | Objem | Poznámka |
+|---|---|---|
+| **oční kapky (oculoguttae)** | do 20 ml | jednodávkové (bez konzervantu) nebo vícedávkové (s protimikrobní přísadou, max. 10 ml, omezená použitelnost po otevření) |
+| **oční vody** | do 200 ml | k výplachu oka |
+| **oční injekce** | max. 1 ml | pod spojivku nebo do přední komory/sklivce, když kapky nestačí (ATB, mydriatika, kortikoidy) |
+| **polotuhé oční přípravky (oculenta)** | max. 5 g | sterilní masti/gely na spojivku |
+| **oční inzerty (lamely)** | — | tuhé/polotuhé vložky do spojivkového vaku, uvolňují léčivo dlouhodobě |
+
+Kvalitativní požadavky: sterilita, izotonicita, **pH kolem 7–9** (bezbolestné, tolerováno 5–11), snížené povrchové napětí, vyšší viskozita než slzy. **Aplikace:** záklon hlavy, pohled nahoru, odtáhnout dolní víčko, kápnout, zavřít oči a **stlačit vnitřní koutek asi 1 minutu**, aby kapka neodtekla slzným kanálkem pryč (a nevstřebala se zbytečně nosní sliznicí).
+
+**Nosní formy (nasalia)** — buď **lokálně** (antiseptika, ATB, dekongescencia proti ucpanému nosu, antihistaminika, kortikoidy), nebo **systémově** (dobrá dostupnost, **odpadá first-pass efekt**, ale vadí proteolytické enzymy a proměnlivé vstřebávání). Nemusí být sterilní (kromě aplikace do rány). Přípravek na sliznici vydrží jen asi **20 minut**, pak ho odstraní pohyb řasinek — proto musí být nedráždivý. Formy: nosní kapky/spreje, výplachy, polotuhé přípravky, zásypy, tyčinky. *Příklad systémového nosního podání: Bagsimi (glukagon) při závažné hypoglykemii.*
+
+**Ušní formy (auricula)** — výhradně **lokálně** do zevního zvukovodu: kapky, spreje, výplachy, zásypy. Obvykle nesterilní, vícedávkové, s protimikrobní přísadou; **před aplikací se zahřejí na tělesnou teplotu** (studené kapky dráždí a bolí). Obsah: antiseptika, ATB, kortikoidy, cerumenolytika (na ušní maz).
+
+**Rektalia** — do konečníku, s účinkem místním, systémovým nebo diagnostickým. Systémové podání se hodí, když lék nejde podat ústy (zvracení, bezvědomí) — **obchází first-pass efekt asi z 50 %** a vstřebává se rychle.
+- **Čípky (suppositoria)** — tuhé jednodávkové útvary, které se rozpustí při tělesné teplotě; velikost dospělí 2–3 g, děti 1 g; základ typicky kakaové máslo. Používají se systémově (analgetika, spasmolytika) i lokálně (hemoroidy, projímadla).
+- tekuté formy (klyzmata), polotuhé formy (masti, gely, rektální pěny).
+
+**Vaginalia** — tekuté nebo polotuhé přípravky do pochvy, lokální i systémový účinek.
+- **Vaginální kuličky (globuli vaginales)** — tuhé, jednodávkové, rozpustí se nebo roztají při tělesné teplotě; účinek antiseptický, antimykotický, spermicidní, hormonální, nebo upravují pH a mikroflóru pochvy.
+
+**Inhalanda** — tekuté nebo tuhé přípravky podávané jako pára nebo aerosol **do plic**, místně nebo celkově. Výhoda: rychlá cílená distribuce přímo do místa účinku, vysoká lokální koncentrace při nízké celkové dávce → **méně nežádoucích účinků**. Zařízení: nebulizér (rozprašovač), tlakový dávkovací inhalátor, inhalátor pro suchý prášek.
+- **Medicinální plyny** — v tlakových lahvích, barevně značené: **bílá = kyslík, světle modrá = oxid dusný (rajský plyn), hnědá = helium.**
+
+🔑 **Každá "díra" v těle má svá pravidla:** oko potřebuje izotonii a pH blízké slzám, nos má jen 20 minut, než ho řasinky vyčistí, rektum obchází first-pass jen zpola.
+
+❓ **Doptají se:**
+- *Proč se po nakapání oční kapky tlačí koutek oka?* → Aby kapka neodtekla slzným kanálkem a nevstřebala se zbytečně jinde — zůstane déle v oku.
+- *Jakou barvu má lahev s kyslíkem?* → **Bílou.**
+- *Kolik z rektálně podaného léčiva obejde first-pass efekt?* → Přibližně **50 %**.
+
+---
