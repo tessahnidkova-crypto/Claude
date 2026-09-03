@@ -3420,3 +3420,185 @@ Fixní kombinace: s metforminem (metformin + sulfonylurea, metformin + pioglitaz
 - *Proč u gliptinů a gliflozinů prakticky nehrozí hypoglykemie?* → Jejich účinek závisí na aktuální hladině glukózy — při normální/nízké glykemii se neprojeví.
 
 ---
+
+## 82 · Principy antibiotické terapie
+
+**O čem to je:** Než se dostaneš ke konkrétním antibiotikům (O83–O88), tahle otázka řeší obecná pravidla — jak se ATB dělí, na čem závisí dávkování a co si musíš rozmyslet, než ATB vůbec předepíšeš.
+
+| | Definice |
+|---|---|
+| Bakteriostatická | reverzibilně zastaví růst a množení bakterií; klinický efekt je vidět za 3–4 dny a po vysazení se bakterie mohou znovu množit |
+| Baktericidní | přímo usmrtí bakteriální buňku, působí nevratně a rychle |
+
+Dělení podle: mechanismu účinku, antibakteriálního spektra, farmakokinetiky, nežádoucích účinků, chemické struktury.
+
+**Dvě dělení, na která se ptají:**
+- **Podle farmakokinetiky/dynamiky:** antibiotika s efektem závislým na **koncentraci** (metronidazol — čím vyšší vrchol, tím lepší účinek, dávkuje se méně často ve vyšší dávce) × antibiotika s efektem závislým na **čase** (betalaktamy — důležité je, jak dlouho koncentrace zůstává nad prahem, dávkuje se častěji). Z toho plyne celý dávkovací režim.
+- **Podle distribučního objemu:** **hydrofilní** — malý distribuční objem, vysoké koncentrace v krvi, střední průnik do tkání, vylučují se ledvinami × **lipofilní** — velký distribuční objem, nízké koncentrace v krvi, dobře pronikají membránami, jsou přítomny i uvnitř buněk (důležité proti nitrobuněčným patogenům).
+
+**Pět otázek, které si musíš položit před podáním ATB:**
+① Je to vůbec bakteriální infekce? ② Byl odebrán materiál na mikroskopii/kultivaci? ③ Které mikroorganismy jsou pravděpodobným původcem? ④ Které ATB je nejvýhodnější podle spektra, farmakokinetiky, rizika rezistence a ceny? ⑤ Existují omezení pro konkrétního pacienta (alergie, těhotenství, kojení, NÚ, interakce)?
+
+| Rezistence | Charakteristika |
+|---|---|
+| Primární | geneticky daná necitlivost mikroba na dané ATB, bez ohledu na to, jestli s ním přišel do kontaktu — např. streptokoky mají přirozenou bariéru vůči aminoglykosidům |
+| Sekundární | vzniká v průběhu nebo následkem předchozí léčby ATB; získaná mutací nebo přenosem genu na plazmidu; příčinou je nevhodné/zbytečné použití ATB nebo jejich vysoká celková spotřeba |
+
+**MIC** = minimální inhibiční koncentrace — nejnižší koncentrace ATB, která ještě zastaví růst daného mikroba.
+
+Zásady léčby: správná indikace, správná volba (podle diagnózy, klinických příznaků, mikrobiologického vyšetření), správná délka léčby, správná dávka/interval/cesta podání, správná kombinace, u ATB s úzkým terapeutickým oknem nutné monitorování.
+
+🔑 **Bakteriostatická = zastaví množení, potřebují funkční imunitu. Baktericidní = přímo zabíjí.**
+
+❓ **Doptají se:**
+- *Jaký je rozdíl mezi primární a sekundární rezistencí?* → Primární je vrozená (necitlivost bez předchozího kontaktu s ATB), sekundární vzniká až v průběhu léčby.
+
+---
+
+## 83 · Peniciliny, inhibitory betalaktamáz
+
+**O čem to je:** Peniciliny jsou nejstarší a stále nejdůležitější skupina antibiotik — objevil je Fleming náhodou z plísně. Pro tebe jako budoucí zubařku je klíčový hlavně penicilin V, který je přímo doporučen jako lék první volby na infekce v ústní dutině.
+
+**β-laktamová antibiotika** = největší skupina antibiotik vůbec; společná vlastnost je **betalaktamový kruh**, který nese antimikrobní účinek. Patří sem peniciliny, cefalosporiny, monobaktamy, karbapenemy. Peniciliny jsou produktem plísně *Penicillium chrysogenum* — objevil je A. Fleming v roce 1928.
+
+**Farmakokinetika:** vstřebávání z GIT závisí na odolnosti vůči žaludeční kyselině, může ho snížit strava — proto se podávají hodinu před jídlem nebo 2 h po jídle. Nevstupují do nitra buněk. Koncentrace v CNS jsou nízké, ale stoupají při zánětu mozkových blan (proto fungují u meningitidy, i když normálně přes HEB moc neproniknou). Vylučují se ledvinami, pronikají do mléka a sputa.
+
+**Úzkospektré peniciliny:**
+
+| Léčivo | Spektrum a indikace |
+|---|---|
+| Penicilin G (benzylpenicilin) | streptokoky, stafylokoky, pneumokoky, neisserie, korynebakterie záškrtu, aktinomycety, treponema (syfilis), borrelie (lymská borelióza), klostridia, listerie. Lék první volby: meningitida a sepse od meningokoků/pneumokoků/streptokoků, pneumokoková pneumonie, streptokoková endokarditida, těžké streptokokové a klostridiové infekce měkkých tkání, aktinomykózy, anaerobní infekce. Prokain-penicilin G — suspenze pro i.m. podání s prodlouženým účinkem |
+| Penicilin V (fenoxymetylpenicilin) | odolný vůči žaludeční kyselině → vhodný ústy; u dětí na lehčí infekce (faryngitida, sinusitida, otitida). **Lék první volby: streptokoková tonzilofaryngitida a infekce ústní dutiny a ve stomatologické praxi** |
+| Antistafylokokové | jedinou indikací jsou slabší infekce stafylokoky tvořícími betalaktamázy. Oxacilin — odolný vůči stafylokokové betalaktamáze, lék 1. volby u stafylokokových infekcí; kloxacilin, dikloxacilin |
+
+⚠️ **Penicilin V je tvoje antibiotikum.** Zdroj ho výslovně jmenuje jako lék první volby pro infekce ústní dutiny a ve stomatologické praxi — tuhle větu u zkoušky použij, je přesně z materiálu katedry.
+
+**Širokospektré peniciliny.** Celková doba léčby: 48–72 hodin po odeznění příznaků infekce.
+
+| Skupina | Klíčové body |
+|---|---|
+| Aminopeniciliny | ampicilin (injekční), amoxicilin (ústy) — spektrum jako penicilin G, navíc G− bakterie: *E. coli*, *Proteus*, *Haemophilus*, salmonely, *Helicobacter*, enterokoky |
+| Antipseudomonádové ureidopeniciliny | piperacilin — G+, G−, pseudomonády a aerobní G− kmeny; **v kombinaci s tazobaktamem má nejširší antibakteriální spektrum ze všech penicilinů** |
+| Potencované (chráněné) peniciliny | ampicilin + sulbaktam → sultamicilin; amoxicilin + kyselina klavulanová → koamoxicilin (Amoksiklav); piperacilin + tazobaktam → kopiperacilin. Spektrum jako ampicilin, navíc kmeny tvořící betalaktamázy (*Staph. aureus*, *Haemophilus influenzae*, *E. coli*, *Klebsiella*, *Proteus*) |
+
+**Inhibitory betalaktamáz** — kyselina klavulanová, sulbaktam, tazobaktam — samy nemají antimikrobní účinek, ale chrání betalaktamový kruh penicilinu před rozštěpením bakteriálním enzymem.
+
+NÚ penicilinů: alergie; **Hoigného syndrom** — dechová tíseň a kolaps po podání, ale je to způsobené technicky chybným (příliš rychlým i.m.) podáním penicilinové suspenze, **není to alergie**; zvracení, trávicí potíže, průjmy; nedostatek vitaminu K a krvácení.
+
+🔑 **Penicilin V = lék volby na infekce v ústní dutině. Hoigného syndrom = vypadá jako anafylaxe, ale je to technická chyba podání, ne alergie.**
+
+❓ **Doptají se:**
+- *Jaké je tvoje antibiotikum jako budoucí zubařky?* → Penicilin V — lék první volby na infekce ústní dutiny.
+- *Je Hoigného syndrom alergická reakce?* → Ne, je to reakce na technicky chybné (příliš rychlé) i.m. podání penicilinové suspenze.
+
+---
+
+## 84 · Cefalosporiny, karbapenemy, monobaktamy
+
+**O čem to je:** Cefalosporiny jsou "příbuzní" penicilinů s pěti generacemi, kde s každou generací roste síla proti odolnějším (G−) bakteriím. Karbapenemy jsou "těžká zbraň" na multirezistentní bakterie.
+
+**Cefalosporiny** mají široké spektrum, jsou dobře snášeny, relativně levné; oproti penicilinům je nižší riziko anafylaxe, neurotoxicity a nefrotoxicity; nevýhodou je narůstající rezistence; velká část se vylučuje močí. NÚ: alergie, u 2. a 3. generace superinfekce, rezistence.
+
+| Generace | Spektrum a použití | Zástupci |
+|---|---|---|
+| 1. | velmi účinná na G+ koky i některé G− střevní tyčinky (*E. coli*, *Proteus mirabilis*); **nejsou lékem první volby** — používají se jako alternativa při alergii na peniciliny; **nedostávají se do mozkomíšního moku → nepoužívají se u meningitidy** | ústy cefadroxil, injekčně cefazolin |
+| 2. | nižší účinnost na G+, širší spektrum na G− (*Enterobacter*, *Klebsiella*, *Proteus*); alternativa u nekomplikovaných infekcí močových cest a horních cest dýchacích | ústy cefprozil, cefuroxim axetil; injekčně cefuroxim |
+| 3. | G− střevní tyčinky a kmeny tvořící betalaktamázy (hemofily, neisserie); po i.v. podání se dostávají do CNS → indikace u meningitid a sepse neznámého původu, **ale ne na listerie** | ústy cefpodoxim proxetil, cefixim; injekčně cefotaxim (i na G+ koky), ceftriaxon, ceftazidim (*Pseudomonas aeruginosa*) |
+| 4. | streptokoky, pneumokoky, stafylokoky, G− tyčky odolné vůči nižším generacím; i.v. u sepse, meningitid, těžkých infekcí dýchacích a močových cest; **lék první volby u febrilní neutropenie** | cefepim |
+| 5. | při alergii na peniciliny nebo rezistenci na oxacilin, u komplikovaných kožních infekcí včetně MRSA | ceftarolin |
+
+**Karbapenemy** pokrývají téměř celé antimikrobní spektrum; primárně na těžké smíšené infekce a infekce vysoce rezistentními G− bakteriemi; stabilní vůči většině betalaktamáz; nevstřebávají se z GIT → jen parenterálně; dráždí CNS; zkřížená alergie s peniciliny.
+
+- **Imipenem** — inaktivuje se v ledvinných tubulech, proto se kombinuje s **cilastatinem** (blokuje enzym, který ho tam rozkládá). První volba: infekce *Enterobacter*, infekce mikroby odolnými vůči jiným ATB, smíšené aerobně-anaerobní infekce, febrilní neutropenie. NÚ: poruchy CNS, nauzea, zvracení.
+- **Meropenem** — nižší riziko vlivu na CNS, jinak podobné účinky.
+- **Ertapenem** — neúčinkuje proti pseudomonádě a enterokokům.
+
+**Monobaktamy** účinkují na G− mikroby včetně pseudomonády a *Serratia*. **Lék první volby na plicní infekce Pseudomonas aeruginosa u pacientů s cystickou fibrózou.** Aztreonam, podává se i.v.
+
+🔑 **Cefalosporiny 1.–2. gen. = spíš G+ a alternativa při alergii na PNC. 3.–5. gen. = spíš G− a těžké infekce.**
+
+❓ **Doptají se:**
+- *Proč se 1. generace cefalosporinů nepoužívá u meningitidy?* → Nedostává se přes HEB do mozkomíšního moku.
+- *Proč se imipenem kombinuje s cilastatinem?* → Cilastatin blokuje enzym v ledvinách, který by imipenem jinak rychle rozložil.
+
+---
+
+## 85 · Aminoglykosidy, chinolony
+
+**O čem to je:** Dvě skupiny silných antibiotik s výraznými NÚ — aminoglykosidy poškozují sluch a ledviny, chinolony se nesmí dětem a těhotným (vážou vápník, podobně jako tetracykliny).
+
+**Aminoglykosidová antibiotika** jsou baktericidní, s rychlým nástupem, ale rizikem poškození ledvin a nervů. Parenterálně: gentamicin, tobramycin, amikacin — na závažné sepse, pneumonie, infekce močových cest. Lokálně: neomycin — do tělních dutin, vaginálně, na kůži, do oka. Byly nahrazeny méně toxickými ATB (betalaktamy, fluorochinolony), ale kvůli rostoucí rezistenci se opět více používají.
+
+Spektrum gentamicinu a tobramycinu: G− tyčinky (enterobakterie), pseudomonády, *Acinetobacter*, *Brucella*, *Francisella tularensis*, stafylokoky. Amikacin navíc účinkuje na většinu kmenů *Mycobacterium tuberculosis* i na kmeny odolné vůči gentamicinu. Nevstřebávají se z GIT. KI: pacienti s poruchou ledvin a starší lidé jsou ohroženi hromaděním léku. Účinek klesá při nízkém pH a v anaerobním prostředí (abscesy).
+
+**NÚ aminoglykosidů — nejvděčnější část otázky:**
+- **Neurotoxicita:** zvonění v uších, oslabení až ztráta sluchu, závratě, poruchy rovnováhy — poškozuje **VIII. hlavový nerv**.
+- **Nefrotoxicita:** poškození ledvinných tubulů, alergické reakce.
+- **Paralýza příčně pruhovaného svalstva se zástavou dechu** po vyšších dávkách (souvisí s presynaptickým myorelaxačním efektem, viz O47).
+- Toxicitě lze předcházet individuální úpravou dávky a intervalu mezi dávkami.
+
+**Chinolony** jsou baktericidní, širokospektré. Mechanismus: blokují bakteriální topoizomerázy → zastaví syntézu bakteriální DNA. **Přesně: DNA gyráza (topoizomeráza II) je hlavní cíl u G− bakterií, topoizomeráza IV u G+ bakterií** — jiná studijní literatura tady někdy chybně uvádí "DNA polymerázu", to není správně.
+
+**Kontraindikace u dětí a těhotných.** Aktuálně jsou indikace omezeny kvůli NÚ: poškození šlach, deprese, neuropatie.
+
+| Generace | Charakteristika | Zástupci |
+|---|---|---|
+| 1. — chinolony | jen infekce močových cest od *E. coli* a dalších G− střevních tyčinek | kyselina nalidixová, oxolinová, pipemidová |
+| 2. — fluorochinolony | širší spektrum: G− včetně legionel, chlamydií, pseudomonády; rychle a kompletně se vstřebávají z GIT | norfloxacin (močové cesty), ciprofloxacin, ofloxacin, levofloxacin, pefloxacin, prulifloxacin |
+| 3. | pokrývá i *Streptococcus pneumoniae* a další G+ koky | sparfloxacin |
+| 4. | "respirační chinolon" — pneumokoky, hemofily, streptokoky včetně multirezistentních, atypická mykobakteria | moxifloxacin |
+
+🔑 **Aminoglykosidy = oto- a nefrotoxicita, poškozují VIII. nerv. Chinolony = blokují topoizomerázy DNA, KI u dětí a těhotných.**
+
+❓ **Doptají se:**
+- *Který nerv poškozují aminoglykosidy?* → VIII. hlavový nerv (sluchový/vestibulární).
+- *Jaký je mechanismus chinolonů?* → Blokují bakteriální topoizomerázy (DNA gyrázu u G−, topoizomerázu IV u G+), takže se nemůže replikovat bakteriální DNA.
+
+---
+
+## 86 · Linkosamidy, glykopeptidy, polymyxiny
+
+**O čem to je:** Tři skupiny "rezervních" antibiotik na obtížné infekce. Klindamycin je pro tebe důležitý — dobře proniká do kosti, takže je standardní volba u zubních infekcí.
+
+**Linkosamidy** jsou bakteriostatické až baktericidní, s nízkou toxicitou. Klíčová vlastnost: **dobrý průnik do kostí a abscesů**. Účinné na stafylokoky, streptokoky a anaeroby. Terapie: zánět kostní dřeně (osteomyelitida), anaerobní infekce, abscesy, zánět pobřišnice, aktinomykózy. Klindamycin se navíc používá i na gynekologické záněty.
+
+⚠️ **Pro tebe jako zubařku:** kombinace "proniká do kosti + účinkuje na anaeroby a streptokoky" dělá z **klindamycinu** standardní volbu u **odontogenních infekcí a zánětu kostní dřeně čelisti**, zejména při alergii na peniciliny. `[obecné znalosti — logicky plyne z vlastností popsaných výše, zdroj to explicitně takto nespojuje]`
+
+**Glykopeptidy — vankomycin.** Velká molekula, ne úplně ideální farmakokinetika; působí na úrovni stavby buněčné stěny; spektrum: G+ koky (stafylokoky, enterokoky, klostridia, bacily); je nefrotoxický; podává se pomalou i.v. infuzí.
+
+> **Red man syndrom — tohle chtějí slyšet.** Zarudnutí v horní části těla při příliš rychlém podání, způsobené uvolněním histaminu-podobných látek. **Není to alergie** — stačí infuzi zpomalit, není nutné lék vysazovat.
+
+Indikace: *Enterococcus faecalis*, **MRSA** (meticilin-rezistentní *Staph. aureus*), ústy k léčbě pseudomembranózní kolitidy (*Clostridium difficile*) — protože se ústy nevstřebává, účinkuje jen lokálně ve střevě. Riziko vzniku rezistence: **VRE** (vankomycin-rezistentní enterokoky) a **VRSA** (vankomycin-rezistentní stafylokoky).
+
+Teikoplanin — méně nefrotoxický, výhodnější farmakokinetika; léčba endokarditid a osteomyelitid.
+
+**Polymyxiny (polypeptidy).** Kolistin — baktericidní, nefro- a neurotoxický; na G− bakterie; **rezervní ATB pro multirezistentní nozokomiální kmeny** (*Pseudomonas*, *Acinetobacter*, *Klebsiella pneumoniae*). Bacitracin — jen lokálně, jen na G+ bakterie; kombinace bacitracin + neomycin (aminoglykosid) = přípravek Framykoin.
+
+🔑 **Klindamycin = tvoje ATB pro zubní infekce (proniká do kosti). Vankomycin = MRSA a C. difficile. Red man syndrom ≠ alergie.**
+
+❓ **Doptají se:**
+- *Proč je klindamycin vhodný na zubní infekce?* → Dobře proniká do kosti a účinkuje na anaeroby a streptokoky, typické u odontogenních infekcí.
+- *Je red man syndrom alergická reakce?* → Ne, je způsobený nespecifickým uvolněním histaminu při rychlém podání — stačí zpomalit infuzi.
+
+---
+
+## 87 · Tetracykliny, amfenikoly
+
+**O čem to je:** Tetracykliny jsou pro tebe extrémně důležité — vážou se na vápník, takže poškozují vyvíjející se zuby a kosti u dětí. Chloramfenikol je dnes už jen záložní ATB kvůli riziku nevratného poškození kostní dřeně.
+
+**Tetracykliny** jsou bakteriostatické, **působí na úrovni ribozomů** (blokují proteosyntézu — **ne buněčnou stěnu!**, to je častá chyba v horších materiálech). Široké spektrum: G+ i G−, hemofily, yersinie, mykoplazmata, chlamydie, borelie, aktinomycety. Terapie: atypické pneumonie, sinusitidy, chlamydiové uretritidy. Doxycyklin se podává ústy; **kontraindikace do 12 let věku a u těhotných a kojících žen.**
+
+⚠️ **Pro tebe jako zubařku je důvod téhle kontraindikace zkušební otázka:** tetracykliny se vážou na vápník v mineralizujících se tkáních → **nevratné zbarvení zubů a poruchy vývoje skloviny**, u dětí navíc zpomalují růst kostí. `[obecné znalosti — zdroj uvádí jen samotnou KI, ne důvod]`
+
+⚠️ **Pozor na chybu, která koluje v jiných materiálech** — tetracykliny prý blokují buněčnou stěnu. **Správně blokují proteosyntézu na 30S podjednotce ribozomu.**
+
+**Amfenikoly — chloramfenikol.** Bakteriostatický, na úrovni ribozomů; široké spektrum: G+, G−, anaeroby; výborná farmakokinetika. **Indikace jsou dnes výrazně omezeny kvůli závažnému nežádoucímu účinku — nevratné aplastické anemii** (útlum kostní dřeně, kdy přestane tvořit krevní buňky). Léčba: tyfus, meningitidy, mozkové abscesy — dnes už většinou nahraditelný jinými léky.
+
+🔑 **Tetracykliny = blokují ribozom (ne buněčnou stěnu!), vážou vápník → poškození zubů a kostí u dětí. Chloramfenikol = aplastická anemie.**
+
+❓ **Doptají se:**
+- *Proč jsou tetracykliny kontraindikované u dětí do 12 let?* → Vážou se na vápník v zubech a kostech → nevratná diskolorace zubů, poškození skloviny, zpomalený růst kostí.
+- *Jaký je nejzávažnější NÚ chloramfenikolu?* → Nevratná aplastická anemie.
+- *Na jaké úrovni blokují tetracykliny bakterie — buněčná stěna, nebo ribozom?* → Ribozom (proteosyntéza), NE buněčná stěna.
+
+---
