@@ -1073,3 +1073,162 @@ Látka přejde z krve přes sinusoidální a luminální membránu hepatocytu a 
 - *Proč kortikoidy nezaberou okamžitě?* → Jsou to ligandy jaderných receptorů řídících transkripci — účinek závisí na syntéze nových bílkovin, trvá hodiny až dny.
 
 ---
+
+## O23 · Dávka a účinek, terapeutický index, terapeutické rozmezí (okno), terapeutické riziko
+
+**O čem to je:** Čím vyšší dávka, tím silnější účinek — ale jen do určité míry, a u každého léku jinak. Tahle otázka popisuje, jak se ten vztah **měří a vyjadřuje čísly**, a hlavně jak se z něj pozná, jestli je lék **bezpečný**.
+
+### Vztah koncentrace–účinek (kvantitativní/stupňovitá závislost)
+
+Měřením velikosti účinku při rostoucí koncentraci látky (typicky na izolovaných orgánech/tkáních in vitro) se získá **křivka koncentrace–účinek (CRC)**. Tři klíčové vlastnosti křivky:
+- **EC50** — koncentrace, při které je účinek roven **polovině maximálního účinku**; určuje polohu křivky na ose x a odráží hlavně **vazebnou afinitu** k receptoru,
+- **maximální účinek (Emax)** — kolik toho léčivo umí vyvolat nejvíc; odráží **vnitřní aktivitu** léčiva (plný agonista má nejvyšší Emax),
+- **sklon střední části křivky** — strmý sklon znamená, že malá změna dávky vyvolá velkou změnu účinku (**snadnější předávkování**); pozvolný sklon znamená, že úprava účinku vyžaduje větší změnu dávky (**snadnější a bezpečnější dávkování**).
+
+### Vztah dávka–účinek u populace (kvantální/statistická závislost)
+
+Tady se nesleduje síla účinku, ale **kolik jedinců** ze souboru zareaguje (účinek se hodnotí jako "vše nebo nic"). Odráží **individuální vnímavost** — citlivější jedinec zareaguje už na nižší dávku (nižší minimální efektivní dávka), méně citlivý potřebuje víc. Rozložení minimální efektivní dávky v populaci má tvar **Gaussovy křivky**; kumulativní podíl reagujících jedinců v závislosti na logaritmu dávky dá typickou **esovitou (sigmoidální) křivku** — u největšího podílu jedinců se účinek objeví kolem hodnoty **ED50**.
+
+### Terapeutický index — jak bezpečný lék je
+
+Ze stejného principu se dá získat kvantální křivka i pro **toxický** účinek, ne jen pro terapeutický — a jejich porovnání ukáže bezpečnost léčiva:
+- **ED50** = střední efektivní dávka (účinek u 50 % jedinců),
+- **TD50** = střední toxická dávka (toxický účinek u 50 % jedinců),
+- **LD50** = střední letální dávka (usmrtí 50 % — používá se v preklinice na zvířatech).
+
+**Terapeutický index TI = TD50 / ED50** (v preklinice někdy LD50/ED50) — říká, **kolikrát je toxická dávka vyšší než účinná**.
+
+| Hodnota TI | Co to znamená |
+|---|---|
+| **TI ≥ 10** | léčivo je relativně **bezpečné** |
+| **TI ≥ 2,5** | použitelné jen za **monitorování sérových hladin** (TDM) |
+| **TI ≤ 2** | vývoj léčiva se **zastavuje** — příliš nebezpečné |
+
+🔑 **Čím vyšší terapeutický index, tím větší je "rezerva" mezi dávkou, která léčí, a dávkou, která škodí.**
+
+**Terapeutické riziko** se dá vyjádřit i sofistikovaněji pomocí **NNT (number needed to treat)** — kolik pacientů je třeba léčit, aby se u jednoho projevil sledovaný efekt (pozitivní i negativní); výhodou je, že se dá zohlednit i závažnost základní nemoci.
+
+### Terapeutické okno (šíře)
+
+**Terapeutická šíře = TD50 − ED50** — rozmezí dávek, ve kterém je léčivo účinné, ale ještě ne toxické. Cílem správného dávkování je udržet koncentraci léčiva **uvnitř tohoto okna** — tomu se říká **farmakokineticky řízená individualizace terapie**, součást terapeutického monitorování léčiv (TDM). *Klasický příklad z jednoho léku: anxiolytikum ve správné dávce odstraní úzkost, ve vyšší už tlumí (sedace), ve velmi vysoké utlumí dýchání.*
+
+**Dávkování v praxi:**
+- **jednorázové podání** — nasycovací dávka urychlí dosažení terapeutického okna (viz O14, O16); víc nasycovacích dávek za sebou tvoří kumulativní dávku u léčiv vyžadujících dlouhodobou expozici,
+- **udržovací dávka** — koncentrace kolísá uvnitř terapeutického okna.
+
+⚠️ Opakované podávání může vést k zesílení nebo zeslabení odpovědi na léčivo (tolerance/senzibilizace); pokud má látka psychotropní účinky, zneužívání (abúzus) může vést k **lékové závislosti**.
+
+**Agonisté podle vztahu k receptoru** (doplnění k O21–22): plný/parciální agonista posouvá rovnováhu receptoru ve prospěch **aktivní konformace (R\*)** a zvyšuje účinek nad bazální úroveň; **inverzní agonista** se váže na **neaktivní konformaci (R)** a účinek naopak **sníží pod** bazální úroveň; **neutrální antagonista** se váže rovnocenně na obě formy a bazální účinek nemění vůbec (jen blokuje ostatní ligandy).
+
+❓ **Doptají se:**
+- *Co znamená vysoký terapeutický index?* → Velký rozestup mezi účinnou a toxickou dávkou — lék je bezpečnější.
+- *Proč je nebezpečná strmá křivka koncentrace-účinek?* → Malá změna dávky vyvolá velkou změnu účinku — snáz dojde k předávkování.
+- *Co dělá inverzní agonista jinak než antagonista?* → Antagonista jen blokuje, inverzní agonista aktivně **sníží** účinek pod klidovou úroveň.
+
+---
+
+## O24 · Vlivy působící na kinetiku a dynamiku léčiv
+
+**O čem to je:** Přehledová otázka — vyjmenovává **všechno, co může změnit, jak lék v konkrétním pacientovi zabere**. Je to spíš checklist faktorů než hluboká teorie, ale je potřeba je umět vyjmenovat a stručně vysvětlit.
+
+**Faktory ovlivňující kinetiku i dynamiku léčiv:**
+- **léková forma, způsob podání, velikost dávky** — přímo určují rychlost a rozsah vstřebání,
+- **vstřebání z místa aplikace, způsob eliminace a biotransformace** — individuálně proměnlivé,
+- **pohlavní rozdíly** — ženy bývají **citlivější** k účinkům léčiv (víc nežádoucích účinků) než muži; navíc menstruační cyklus, gravidita a kojení mění hladiny hormonů a tím i odpověď na léky,
+- **věk** — děti jsou obecně citlivější; u **novorozenců a nedonošených dětí** je hematoencefalická bariéra nedovyvinutá (léky snáz proniknou do CNS) a mají odlišnou clearance i metabolismus; u **starších osob** je typicky **snížená eliminace**,
+- **psychika a nervová činnost** pacienta,
+- **tělesná hmotnost a povrch těla** — základ pro přepočet dávky,
+- **prostředí pacienta, teplota, biologické (cirkadiánní) rytmy**,
+- **vzájemné interakce léčiv a interakce s potravou.**
+
+**Poruchy hemodynamiky** — změny krevního průtoku ovlivní všechny fáze ADME. Snížený průtok v místě vstřebávání (trávicí trakt, sval) vede k **zpomalenému a nespolehlivému vstřebávání** — proto se v urgentní situaci s narušeným oběhem volí **nitrožilní podání**, které je na prokrvení periferie nezávislé.
+
+**Onemocnění ledvin** — ovlivní nejen přímo exkreci, ale celou farmakokinetiku. Rychlost glomerulární filtrace se odhaduje ze sérového kreatininu, věku, hmotnosti a pohlaví; podle výsledku je nutná **úprava dávkování nebo změna léčby**.
+
+**Onemocnění jater** — také ovlivní celé ADME, ne jen metabolismus. U léčiv s **vysokou jaterní extrakcí** dojde ke **zvýšení biologické dostupnosti** (first-pass efekt se výrazně sníží, protože nemocná játra léčivo nezachytí tak účinně) a klesá jaterní clearance kvůli snížené funkční kapacitě — opět nutná úprava dávky nebo změna terapie.
+
+🔑 **Nejčastěji zkoušené dvojice:** děti a senioři mají sníženou/odlišnou eliminaci → nižší dávky; selhání jater paradoxně **zvyšuje** dostupnost léčiv s vysokým first-pass efektem (méně se jich "ztratí" cestou).
+
+❓ **Doptají se:**
+- *Proč je u novorozenců riziko toxicity léčiv působících na CNS vyšší?* → Nedovyvinutá hematoencefalická bariéra — léky se snáz dostanou do mozku.
+- *Co se stane s biologickou dostupností léčiva s vysokým first-pass efektem u jaterní cirhózy?* → **Stoupne** — nemocná játra ho při prvním průchodu nezachytí tak účinně jako zdravá.
+
+---
+
+## O25 · Lékové interakce
+
+**O čem to je:** Interakce = jak jedna látka změní účinek jiné. Otázka je řadí podle **významu** (chtěné/nechtěné) a podle **mechanismu** (kde v těle k interakci dochází).
+
+**Interakce** = změna síly a trvání účinku léčiva vlivem jiné látky — může to způsobit jiný lék (na předpis i volně prodejný), alkohol, i potrava. Klinicky se projeví buď jako nežádoucí reakce (podle klasifikace A–E, viz O29), nebo jako **selhání léčby (typ F — failure)**.
+
+### Dělení podle významu
+
+- **A) Žádoucí interakce** — vedou k očekávanému výsledku: buď **zesílení** účinku (synergismus — např. kombinace cytostatik), nebo **oslabení** účinku (antagonismus — např. léčba intoxikace antidotem).
+- **B) Nežádoucí interakce** — vedou k nedostatečné léčbě nebo jejímu selhání.
+
+### Dělení podle mechanismu
+
+**A) Farmaceutické (inkompatibility)** — změna vlastností léčiva jinou látkou ještě **mimo tělo** (při přípravě lékové formy) nebo **v těle před absorpcí**. Klasický příklad: **tetracykliny + ionty z mléka (Ca²⁺, Mg²⁺, Al³⁺)** vytvoří ve střevě nevstřebatelný komplex → snížená biologická dostupnost antibiotika.
+
+**B) Farmakokinetické** — látky se "potkávají" na cestě tělem, mění se absorpce, distribuce, biotransformace nebo exkrece. Nejčastější jsou na úrovni **biotransformace**:
+- **inhibice metabolismu** — dvě léčiva soutěží o stejný enzym (viz O19),
+- **zvýšení metabolismu (enzymová indukce)** — typicky u kuřáků, kde **benzopyreny v tabákovém kouři indukují CYP450**.
+
+Významné jsou i interakce na úrovni **renální exkrece** (změna tubulární sekrece nebo reabsorpce, viz O20).
+
+**D) Farmakodynamické** — probíhají přímo na úrovni receptoru nebo dějů za ním. Konkrétní důležité příklady:
+- **kyselina acetylsalicylová** má v nízké dávce antiagregační účinek, ve vysoké dávce antikoagulační — a **nízké i vysoké dávky ASA zesilují antikoagulační účinek warfarinu**,
+- naopak **vitamin K účinek warfarinu potlačuje** (je to jeho antidotum, viz O77 dál v materiálu),
+- **potrava a nápoje** mohou způsobit závažné interakce — typicky **flavonoidy a polyfenoly v grapefruitové šťávě inhibují CYP3A4**.
+
+🔑 **Farmaceutická interakce = ještě před vstřebáním (chemie v žaludku/lékovce). Farmakokinetická = cestou tělem (ADME). Farmakodynamická = až na cíli (receptor).**
+
+❓ **Doptají se:**
+- *Proč se tetracykliny nemají zapíjet mlékem?* → Farmaceutická interakce — vápník z mléka vytvoří s tetracyklinem nevstřebatelný komplex.
+- *Jak ovlivňuje kyselina acetylsalicylová účinek warfarinu?* → Zesiluje ho (farmakodynamicky) — riziko krvácení.
+- *Co znamená interakce typu F?* → **Selhání léčby** (failure), ne klasický nežádoucí účinek.
+
+---
+
+## O26 · Farmakogenetika, genetický polymorfismus
+
+**O čem to je:** Stejná dávka stejného léku může u dvou lidí zabrat úplně jinak — kvůli genetickým rozdílům v enzymech, které lék zpracovávají. Tahle otázka je jedna z klinicky nejdůležitějších — má konkrétní, často zkoušené příklady léků a enzymů.
+
+**Mutace** = dědičná změna ve struktuře DNA. Jediný typ mutace slučitelný se životem u jednoho genu je **genová (bodová)** mutace — vzniká substitucí, delecí nebo inzercí jednoho či více nukleotidů.
+
+- **Mutace zárodečných buněk** — ve vajíčku/spermii, **dědí se** na další generace; testují se z venózní krve (DNA leukocytů).
+- **Mutace somatických buněk** — vznikají během života, **nedědí se**, většina nemá klinický dopad, ale některé ovlivní signální dráhy růstu/dělení buněk a jsou **základem vzniku nádorů** — u nádorů se testují přímo z nádorové tkáně, protože určují vhodnost konkrétní léčby.
+
+**Genetický polymorfismus** = stav, kdy je v populaci jeden gen zastoupen nejméně **dvěma fenotypy s frekvencí ≥ 1 %**. Nejvíc popsaný je u izoenzymů cytochromu P450. Podle rychlosti, jakou daný enzym pracuje, se lidé dělí na čtyři skupiny:
+
+| Fenotyp | Genetický základ | Co se stane |
+|---|---|---|
+| **pomalý metabolizátor (PM)** | homozygot pro gen s nulovou/nízkou aktivitou enzymu | vysoká plazmatická koncentrace, **zesílený a prodloužený** účinek léčiva; u **proléčiva** naopak **snížený** účinek (nevznikne aktivní metabolit) |
+| **rychlý/extenzivní metabolizátor (EM)** | většina populace, normální gen | rychlá eliminace, riziko subterapeutické hladiny a **selhání léčby** |
+| **ultrarychlý metabolizátor (UM)** | amplifikace/duplikace genu pro enzym | ještě rychlejší eliminace než EM |
+| **intermediární metabolizátor (IM)** | heterozygot s jednou defektní alelou | mezistupeň mezi PM a EM |
+
+Výsledný fenotyp se může projevit selháním účinku, zvýšeným rizikem nežádoucích účinků, nebo zvýšeným rizikem interakcí. Určuje se buď **genotypizací (PCR)**, nebo **fenotypizací** (podá se selektivní substrát a změří se koncentrace metabolitu v moči/krvi).
+
+⚠️ **Jednonukleotidové polymorfismy (SNPs)** jsou velmi časté — mohou vést ke ztrátě schopnosti syntetizovat protein, syntéze abnormálního proteinu, nebo změně rychlosti syntézy. Některé SNPs souvisí i s **faktorem V Leiden** (dědičná trombofilie — porucha srážení krve).
+
+### Nejdůležitější klinické příklady (typické zkušební otázky)
+
+**CYP2D6** (~2 % všech CYP enzymů, ale metabolizuje **20–30 % běžně užívaných léčiv**; přes 120 popsaných variantních alel):
+- **PM** → kumulace léčiva: **kardiotoxicita tricyklických antidepresiv**, arytmie po antiarytmicích, **výrazná bradykardie** při β-blokátorech, **snížený analgetický účinek kodeinu** (nevznikne aktivní metabolit morfin),
+- **UM** → naopak riziko **kumulace morfinu** — popsáno u kojenců matek užívajících vyšší dávky kodeinu (matka ho rychle přemění na morfin, ten pak přejde do mléka).
+
+**CYP2C9** (~30 % všech CYP enzymů, metabolizuje ~10 % léčiv — NSA, antiepileptika, antikoagulancia, antihypertenziva):
+- **S-warfarin**: PM (varianty CYP2C9\*2, \*3) → snížené odbourávání účinnější formy warfarinu → **předávkování → krvácivé komplikace**,
+- **omeprazol**: PM → snížené odbourávání omeprazolu (nehrozí předávkování, má široké terapeutické okno), ale **kompetice o enzym sníží biotransformaci klopidogrelu** → riziko tromboembolie,
+- **izoniazid** (antituberkulotikum): PM je až **60 % kavkazské populace** → zvýšená plazmatická hladina → **hepatotoxicita a periferní neuropatie**,
+- **azathioprin**: PM → zesílené imunosupresivní a cytotoxické účinky metabolitu vznikajícího alternativní cestou.
+
+🔑 **Nejčastěji zkoušená dvojice: PM u CYP2D6 → kodein nezabírá (chybí aktivace na morfin). PM u CYP2C9 → warfarin se hromadí (riziko krvácení).**
+
+❓ **Doptají se:**
+- *Proč kodein u některých pacientů vůbec netlumí bolest?* → Jsou pomalí metabolizátoři CYP2D6 — nevytvoří dost aktivního metabolitu (morfinu).
+- *Proč je izoniazid nebezpečný u části kavkazské populace?* → Vysoké procento pomalých acetylátorů/metabolizátorů → hromadění léčiva → hepatotoxicita a neuropatie.
+- *Jaký je rozdíl mezi zárodečnou a somatickou mutací?* → Zárodečná se dědí na potomky, somatická vzniká během života a nedědí se (ale může založit nádor).
+
+---
