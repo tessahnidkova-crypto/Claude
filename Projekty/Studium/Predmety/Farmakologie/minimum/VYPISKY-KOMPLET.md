@@ -3896,3 +3896,327 @@ Guaifenesin se podává ústy; navíc má antitusický, myorelaxační a anxioly
 - *Jaký lék je zároveň mukolytikum i antidotum při otravě paracetamolem?* → N-acetylcystein.
 
 ---
+
+## 96 · Antiastmatika
+
+**O čem to je:** Léčba astmatu a CHOPN má dvě naprosto odlišné role — jedna léčba akutně "otevře" stažené průdušky (úlevová), druhá dlouhodobě tlumí zánět, který za obstrukcí stojí (kontrolující). Pacient musí mít obě, ale plete se, jak fungují jinak.
+
+**Věta, kterou otázku otevři:** **léčba nemocí s bronchiální obstrukcí má dvě odlišné role: ① úlevová = tlumí bronchokonstrikci ② kontrolující = tlumí zánět.** Na tenhle rozdíl se dá pověsit celá otázka. Pacient musí mít vždy u sebe záchrannou (úlevovou) medikaci.
+
+Nemoci s chronickou bronchiální obstrukcí: astma bronchiale, CHOPN, ACOS (překryv astmatu a CHOPN).
+
+| | Astma | CHOPN |
+|---|---|---|
+| Podstata | neinfekční chronické zánětlivé onemocnění dýchacích cest | chronická obstrukční plicní nemoc |
+| Obstrukce | bronchospasmus + víc hlenu, **reverzibilní** | **není plně reverzibilní**, postupuje — přestavba plicních sklípků, praskají přepážky |
+| Příčina | v dětství většinou alergie | nejčastěji kouření |
+| Klinický obraz | záchvaty ztíženého dýchání / výdechové dušnosti, dráždivý kašel | kašel, chronická tvorba sputa, postupující dušnost, horší tolerance zátěže |
+| Rizika | — | rakovina plic, pravostranné srdeční selhání |
+
+⚠️ **U astmatu je zánět dýchacích cest přítomný i bez příznaků** — proto se léčí i mezi záchvaty, ne jen během nich.
+
+**Klasifikace astmatu — čísla, na která se ptají:**
+
+| Stupeň | Frekvence | Spirometrie |
+|---|---|---|
+| Intermitentní | max 1× týdně (v noci max 2× měsíčně) | mezi záchvaty normální |
+| Perzistující lehké | víc než 1× týdně (v noci víc než 2× měsíčně), vliv na aktivity a spánek | > 80 % |
+| Perzistující středně těžké | denně (v noci několikrát týdně) | 60–80 % v klidu |
+| Perzistující těžké | trvalé příznaky, výrazné omezení aktivit | < 60 %, trvalá obstrukce |
+
+**Stupňovitá strategie léčby:** nízké dávky IKS-formoterol dle potřeby → denní IKS → nízké dávky IKS-LABA → střední dávky IKS-LABA (+ tiotropium, + antileukotrien) → vysoké dávky IKS-LABA (+ tiotropium, + anti-IgE, nízké dávky OKS). *(IKS = inhalační kortikosteroid, OKS = perorální kortikosteroid.)*
+
+**Bronchodilatancia.** Podání: inhalační (**MDI** — aerosolové dávkovače, pasivní; **DPI** — práškové, aktivní vdechnutí; nebulizátory — vlhký aerosol), ústy, parenterálně.
+
+**① β2-agonisté** — β2 receptory hlavně v dýchacích cestách. RABA = rychlý nástup do 5 minut.
+
+| Nástup | SABA (4 h) | LABA (12 h) | U-LABA (24 h) |
+|---|---|---|---|
+| Rychlý | fenoterol, salbutamol, terbutalin | formoterol | indakaterol, olodaterol, vilanterol |
+| Pomalý | — | salmeterol | — |
+
+NÚ: třes kosterního svalstva, tachykardie, nízký draslík, víc inzulinu i glukagonu.
+
+**② Anticholinergika** — tlumí parasympatikus, blokují vazbu ACh.
+
+| SAMA (4–6 h) | LAMA (12 h) | U-LAMA (24 h) |
+|---|---|---|
+| ipratropium | aklidinium | glykopyronium, tiotropium, umeklidinium |
+
+NÚ (anticholinergní): sucho v ústech, poruchy chuti, zhoršení glaukomu, zácpa, retence moči, arytmie, závratě, bolest hlavy.
+
+**③ Xantiny** — purinová báze, tyto deriváty se používají jako bronchodilatancia i stimulancia: kofein, aminofylin, pentoxifylin, teobromin, teofylin. Mechanismus: nespecifická blokáda fosfodiesteráz → víc cAMP → uvolnění hladkého svalu průdušek; neselektivní antagonista adenosinového receptoru; protizánětlivý a imunostimulační efekt. NÚ: nevolnost, zvracení, žaludeční reflux (uvolní jícnový svěrač), tachykardie, arytmie. Použití: přidávají se u středně těžkého/těžkého astmatu a CHOPN, když je omezené inhalační podání.
+
+**Kontrolující (protizánětlivá) léčba.**
+
+**Kortikosteroidy** jsou indikovány u všech pacientů s perzistujícím astmatem; snižují tvorbu zánětlivých mediátorů a aktivitu zánětlivých buněk; slouží k dlouhodobé profylaxi. ⚠️ **Zachrání život při status asthmaticus, ale samotnému záchvatu nezabrání** — to je past otázky.
+
+- **Inhalačně** — lék první volby u astmatu (u CHOPN jen u některých fenotypů), typicky ve fixní kombinaci s β2-agonisty; také laryngitidy, laryngotracheitidy, inhalační poranění, sarkoidóza. Beklometazon, budesonid, flutikazon, mometazon, triamcinolon.
+- **Systémově** — dlouhodobá léčba těžkého astmatu, těžké exacerbace astmatu i CHOPN (preferuje se podání ústy). Hydrokortizon, prednisolon.
+
+**Antileukotrieny** — kompetitivní antagonisté leukotrienových receptorů a blokátory 5-lipoxygenázy; u lehkého perzistujícího astmatu jako monoterapie, u těžšího jako přídavek; podávají se ústy, efekt do jednoho dne. **V ČR jediný zástupce montelukast.**
+
+**Anti-IgE** — humanizovaná monoklonální protilátka, váže volný IgE → brání jeho navázání na receptory bazofilů a mastocytů → omezí degranulaci žírných buněk. Pro IgE-mediované astma nekontrolovatelné IKS a LABA; podává se pod kůži — omalizumab.
+
+**Inhibitory PDE4** — blokují PDE4 → víc cAMP → aktivuje se proteinkináza A → tlumí zánětlivé buňky, mediátory a sekreci neuropeptidů. Udržovací léčba těžké CHOPN; kombinovatelné se vším kromě teofylinu — roflumilast.
+
+⚠️ **Pro tebe jako zubařku:** inhalační anticholinergika způsobují sucho v ústech a poruchy chuti, inhalační kortikosteroidy **orofaryngeální kandidózu** — proto pacientům radíš **vyplachovat ústa po inhalaci**. `[obecné znalosti — zdroj to výslovně neuvádí]`
+
+🔑 **Úlevová léčba = otevře průdušky HNED. Kontrolující léčba = tlumí zánět DLOUHODOBĚ, sama záchvat nezastaví.**
+
+❓ **Doptají se:**
+- *Proč musí mít astmatik vždy u sebe úlevovou medikaci, i když bere pravidelně kontrolující léčbu?* → Kontrolující léčba (kortikosteroidy) tlumí zánět dlouhodobě, ale akutní bronchospasmus nezastaví — na to je potřeba rychle působící bronchodilatans.
+- *Co bys doporučila pacientovi na inhalačních kortikoidech kvůli riziku orofaryngeální kandidózy?* → Vyplachovat ústa po každé inhalaci.
+
+---
+
+## 97 · Antihistaminika
+
+**O čem to je:** Léky proti alergii blokují receptor pro histamin — látku, kterou tělo vyplaví při alergické reakci. Starší generace prochází do mozku a působí ospale, novější ne.
+
+**Histamin** je biogenní amin vzniklý dekarboxylací histidinu. Vysoké koncentrace jsou v plicích, kůži, GIT i mozku. Je uložen v zásobních granulích spolu s heparinem v mastocytech a bazofilech, uvolňuje se exocytózou, nejčastěji při alergické reakci, kdy se IgE naváže na povrch mastocytu.
+
+| Receptor | Signální dráha | Kde |
+|---|---|---|
+| H1 | Gq → fosfolipáza C → IP₃ a DAG → víc nitrobuněčného Ca²⁺ | endotel cév, hladké svaly, nervová zakončení |
+| H2 | Gs → víc cAMP | žaludeční sliznice |
+| H3, H4 | | |
+
+**Věta, která odliší dobrou odpověď:** **antihistaminika H1 nejsou prostí antagonisté — jde o inverzní agonismus.** Váží se na **neaktivní** formu receptoru a udrží ho v neaktivním stavu (namísto pouhého zablokování aktivního místa).
+
+Indikace: prevence alergické rinosinusitidy, léčba alergické konjunktivitidy, kopřivky, angioedému, **společně s adrenalinem i.m. při anafylaktické reakci**, premedikace před výkony s rizikem alergické reakce. Celkové podání (ústy, i.v.) lze doplnit místními formami — nosní spreje, kapky, kožní gely.
+
+**I. vs. II. generace — jádro otázky:**
+
+| | I. generace | II. generace |
+|---|---|---|
+| Prostup HEB | ano | jen v menší míře |
+| Sedace | sedativní — dřív brána jako NÚ, dnes se přímo využívá jako sedativum | nesedativní |
+| Selektivita | neselektivní — blokují i cholinergní, muskarinové, serotoninové a dopaminové receptory | selektivní |
+| Vazba na H1 | krátká → nutno podávat 2–3× denně | delší doba účinku |
+| Zástupci | prometazin (alergie, úzkost, sedace dětí), hydroxyzin, moxastin-teoklát (Kinedryl — antiemetikum) | cetirizin, levocetirizin, desloratadin, fexofenadin |
+
+NÚ I. generace: sedace, horší soustředění, antimuskarinový efekt → vysušení sliznic a zahuštění hlenu, potíže s močením, impotence, zácpa.
+
+🔑 **I. generace = prochází HEB, ospalá, neselektivní. II. generace = neprochází HEB, nesedativní, selektivní.**
+
+❓ **Doptají se:**
+- *Proč se antihistaminikum I. generace kombinuje s adrenalinem při anafylaxi?* → Adrenalin je lék první volby (řeší oběh a dýchání okamžitě), antihistaminikum blokuje receptor pro histamin a doplňuje léčbu.
+
+---
+
+## 98 · Laxativa, antidiaroika
+
+**O čem to je:** Léky na zácpu a průjem jsou opačné extrémy — ale u obou platí, že léky nejsou první volba (u zácpy je to životospráva, u průjmu doplnění tekutin), a že se nesmí použít nesprávně (obstipans u infekčního průjmu udrží patogen ve střevě).
+
+**Zácpa a laxativa.** Příčinou zácpy je často nedostatek pohybu, tekutin a vlákniny — základem léčby je proto úprava životosprávy, ne léky. Laxativa se celkově nedoporučují, ale často jsou volně dostupná bez předpisu. Mohou způsobit interakce na úrovni vstřebávání jiných léků.
+
+| Typ | Mechanismus | Zástupci |
+|---|---|---|
+| Objemová | nestravitelné polysacharidy zvětší objem stolice → spustí defekační reflex; nutno doplnit i tekutiny | psyllium (semínka jitrocele indického) |
+| Změkčující stolici | směs nevstřebatelných uhlovodíků | tekutý parafín — v praxi se dnes nepoužívá |
+| Salinická | nevstřebatelné soli — zadržují vodu, ředí obsah střeva, dráždí sliznici | síran sodný, síran hořečnatý |
+| Osmotická | snižuje pH obsahu střeva, mění bakteriální osídlení, sníží tvorbu amoniaku, váže vodu | laktulóza; glycerol, sorbitol (čípky) — účinek do půl hodiny, obnoví defekační reflex |
+| Zvyšující motilitu | zkracují dobu vstřebávání vody a elektrolytů, působí dráždivě | zdroj: vůbec nedoporučovat |
+
+⚠️ **Laktulóza má dvojí využití** — jako osmotické projímadlo a **v léčbě jaterní encefalopatie** (acidifikuje obsah tlustého střeva a mění neionizovaný amoniak na NH₄⁺, který se nevstřebá). Viz O103.
+
+**Průjem a antidiaroika.** Průjem = vyprazdňování řídké, neformované stolice častěji než 3× denně. Akutní × chronický; infekční (léčí se ATB) × neinfekční. Řada léků vyvolává průjem jako NÚ: širokospektrá ATB, projímadla, NSA, chemoterapeutika, prostaglandiny; z potravin sorbitol a manitol ve větším množství.
+
+Terapie: pravidelné doplňování tekutin, hlenová dieta (rýže, mrkev), a farmakoterapie:
+
+| Skupina | Podstata | Zástupci |
+|---|---|---|
+| Střevní adsorbencia | povrchově aktivní látky vážící léky, toxiny a přebytečnou vodu; nevstřebávají se, odcházejí stolicí | aktivní uhlí (upozornit pacienta na černou stolici); diosmektit (Smecta) |
+| Střevní antiseptika | antibakteriální, antimykotické, antiprotozoální; typicky cestovatelské průjmy | chloroxin, nifuroxazid, rifaximin |
+| Obstipancia | přes periferní μ-opioidní receptory → zvýší tonus svěračů, prodlouží průchod střevem | loperamid — opioid působící jen na úrovni střeva; difenoxylát |
+
+⚠️ **Obstipancia se nepoužívají u infekčních průjmů** — ani když nevíme, z čeho průjem je — zadržel bys patogen ve střevě, kde by déle škodil.
+
+🔑 **Laxativa = léčba zácpy je hlavně životospráva. Obstipancia = nikdy u podezření na infekční průjem.**
+
+❓ **Doptají se:**
+- *Proč se loperamid nepodává u podezření na infekční průjem?* → Zpomalí průchod střevem a zadrží patogen uvnitř, kde způsobí víc škody.
+- *Jaké dvojí využití má laktulóza?* → Osmotické projímadlo a léčba jaterní encefalopatie.
+
+---
+
+## 99 · Farmakoterapie vředové choroby gastroduodena a GERD
+
+**O čem to je:** Vředová choroba dnes už není hlavně o "stresu a kořeněném jídle" — v 80 % je za ní bakterie *Helicobacter pylori*, a proto se léčí kombinací antibiotik s lékem, který sníží kyselost žaludku.
+
+**Vředová choroba** = slizniční defekt, který přesahuje pod *muscularis mucosae*, v dosahu kyselé žaludeční šťávy.
+
+| | Příčina |
+|---|---|
+| Primární | *Helicobacter pylori* (zdroj uvádí asi 20 % vředů — pozn.: v jiných zdrojích bývá udáváno vyšší procento, drž se čísla ze svých materiálů) |
+| Sekundární | nesteroidní antiflogistika, stresové příčiny u kriticky nemocných, endokrinní poruchy, závažné komorbidity |
+
+Klinika: dyspeptické potíže — dyskomfort, pocit plnosti, bolesti břicha.
+
+**Rozlišení, které se ptají skoro vždy: vřed v žaludku bolí PO jídle. Vřed v duodenu bolí NALAČNO a po jídle se uleví.**
+
+Komplikace: krvácení, perforace, penetrace do střeva nebo slinivky, zúžení z jizvení, vznik nádoru.
+
+***Helicobacter pylori*** je bičíkatá G− tyčinka tvořící ureázu a cytotoxiny, schopná přilnout a přežít v žaludeční sliznici. Vyvolává vředovou chorobu a atrofickou gastritidu; **je to karcinogen**.
+
+**Farmakoterapie — trojkombinace: 2 antibiotika + inhibitor protonové pumpy.**
+
+**Inhibitory protonové pumpy (PPI)** — nevratně blokují H⁺/K⁺-ATPázu parietálních buněk žaludku. Efekt trvá asi 16 h, udrží pH žaludku nad 4. Vhodné podávat před jídlem. NÚ: nevolnost, nadýmání, horší vstřebávání hořčíku, vápníku, železa a vitaminu B₁₂. KI: těhotenství, léčba warfarinem. Omeprazol, esomeprazol, lansoprazol, pantoprazol.
+
+**Antibiotika k eradikaci *H. pylori*:** amoxicilin + klaritromycin, 14 dní, účinnost asi 80 %.
+
+🔑 **Žaludeční vřed = bolí PO jídle. Duodenální vřed = bolí NALAČNO.**
+
+❓ **Doptají se:**
+- *Jak rozlišíš žaludeční a duodenální vřed podle bolesti?* → Žaludeční bolí po jídle, duodenální nalačno a po jídle se uleví.
+- *Z čeho se skládá standardní léčba H. pylori?* → Amoxicilin + klaritromycin + inhibitor protonové pumpy, 14 dní.
+
+---
+
+## 100 · Prokinetika, antiemetika, emetika
+
+**O čem to je:** Prokinetika "postrkují" trávicí trubici, když je líná (nejsilněji na jícnovém svěrači). Antiemetika tlumí zvracení — a k pochopení jich stačí znát dvě mozková centra, která zvracení spouštějí.
+
+**Prokinetika** stimulují ochablou propulzivní peristaltiku. Zvyšují klidové napětí dolního jícnového svěrače a snižují přehnanou peristolu.
+
+⚠️ **Účinek prokinetik klesá směrem od úst do zbytku trávicí trubice (aborálně) — největší efekt mají na dolní jícnový svěrač.** To je klíč k pochopení jejich indikací.
+
+Indikace: gastroezofageální reflux, duodenogastrický reflux, nauzea a zvracení při chemoterapii.
+
+| Léčivo | Mechanismus | Zvláštnost |
+|---|---|---|
+| Domperidon | antagonista D2 | nízko proniká přes HEB, nízká biologická dostupnost, vylučuje se játry |
+| Metoklopramid | antagonista D2 | lipofilní, proniká do CNS → ospalost |
+| Cisaprid | antagonista 5-HT4 | zvyšuje prokinetiku i v distálních částech trávicí trubice |
+| Itoprid | antagonista D2 + inhibitor AChE | zvyšuje ACh na M3 receptorech |
+
+NÚ: ospalost, vysoký prolaktin, průjmy, slinění, poruchy srdečního rytmu. KI: mechanická obstrukce GIT, krvácení z GIT nebo perforace.
+
+**Střevní eubiotika:** probiotika = živé nepatogenní bakterie nebo kvasinky (*Lactobacillus acidophilus*, bifidobakterie) — zvyšují tvorbu hlenu, tlumí prozánětlivé cytokiny, zvyšují tvorbu IgA, pomáhají tvorbě vitaminů K a B₁₂; prebiotika = substráty pro množení flóry (inulin, oligofruktóza). Většina eubiotik se řadí mezi potravinové doplňky.
+
+**Dvě centra řídící zvracení:**
+
+| Centrum | Kde | Reaguje na |
+|---|---|---|
+| Centrum pro zvracení | laterální retikulární formace prodloužené míchy | podněty z vestibulárního ústrojí, n. vagus, vyšších center, GIT |
+| Chemorecepční spouštěcí zóna | *area postrema* (cirkumventrikulární orgán, bez plné HEB) | toxiny a emetogenní látky přímo v krvi |
+
+Účastní se víc přenašečů — dopamin, acetylcholin, histamin, serotonin — proto existuje víc různých mechanismů, jak zvracení potlačit.
+
+⚠️ **Nejsilnější emetogen je cisplatina** — uvolní serotonin ze sliznice tenkého střeva, ten aktivuje parasympatikus a stimuluje centra zvracení.
+
+**Emetika** (léky vyvolávající zvracení): apomorfin — stimuluje D2 receptory chemorecepční zóny, pod kůži 5–10 mg → zvracení během minut; emetin — alkaloid z jihoamerické rostliny, ústy, stimuluje zakončení n. vagus, 15 mg vyvolá zvracení do hodiny.
+
+**Antiemetika.** Indikace: nauzea a zvracení po chemoterapii a radioterapii, nemoci trávicího ústrojí nebo jater, kinetózy (nevolnost z pohybu), pooperační nauzea, výjimečně při úporném zvracení v 1. trimestru těhotenství.
+
+| Skupina | Mechanismus | Zástupci |
+|---|---|---|
+| Setrony | antagonisté 5-HT3 (nejvýznamnější v indukci zvracení); nejdůležitější a nejúčinnější skupina | ondansetron, granisetron — u nádorových příčin a chemoterapie |
+| Antihistaminika I. generace | antagonisté H1, pronikají do CNS | moxastin-teoklát (Kinedryl); nehodí se na těžší stavy |
+| Analog histaminu | | betahistin — vertigo a Ménièrova choroba (vertigo + tinnitus + ztráta sluchu) |
+| Prokinetika | antagonisté D2 | domperidon, metoklopramid |
+| Kanabinoidy | | silný antiemetický efekt, ale halucinogenní a vyvolávají závislost — v ČR se nepoužívají |
+
+🔑 **Setrony (5-HT3 antagonisté) = nejúčinnější antiemetika, hlavně proti chemoterapii.**
+
+❓ **Doptají se:**
+- *Proč je cisplatina nejsilnější emetogen?* → Uvolní serotonin ze sliznice tenkého střeva, který přes parasympatikus aktivuje centra zvracení.
+- *Kde v mozku roste efekt prokinetik nejméně?* → Efekt klesá aborálně — nejsilnější je na horním konci trávicí trubice (jícnový svěrač).
+
+---
+
+## 101 · Farmakoterapie nespecifických střevních zánětů
+
+**O čem to je:** Crohnova choroba a ulcerózní kolitida jsou dvě podobné, ale odlišné autoimunitní nemoci střeva. Léčba má tři patra: rychlé zklidnění (kortikoidy), dlouhodobé držení (aminosalicyláty), a udržení klidu (imunosupresiva).
+
+**Crohnova nemoc vs. ulcerózní kolitida:**
+
+| | Crohnova nemoc | Ulcerózní kolitida |
+|---|---|---|
+| Rozsah postižení | celý GIT a celá tloušťka stěny | jen sliznice |
+| Lokalizace | časté záněty konečníku, řitního otvoru, úst; typické "skip léze" (přeskakující, neregulérní úseky) | začíná v konečníku a šíří se do tlustého střeva |
+| Klinika | bolesti břicha, teplota, hubnutí, průjmy, aftózní vředy, píštěle, poruchy vstřebávání živin | tenesmy (bolestivé nucení na stolici), krvavé a hlenové průjmy |
+| Průběh | | často končí vývodem (stomií) |
+
+**Patogeneze:** obě vznikají kvůli změněné reakci imunitního systému střeva na běžnou (komenzální) mikrobiální flóru u geneticky predisponovaných lidí — ztrácí se imunitní tolerance vůči vlastním mikrobům.
+
+Cílem léčby je potlačit zánětlivý proces. Antibiotika se podávají jen při hnisavých perianálních komplikacích.
+
+| Skupina | Podstata |
+|---|---|
+| Aminosalicyláty | **lék první volby u ulcerózní kolitidy**, vhodný na dlouhodobou léčbu. Působí lokálně protizánětlivě v tlustém střevě blokádou cyklooxygenázy a lipoxygenázy. Obsahují azoskupiny, které štěpí až bakterie v tlustém střevě — proto účinkují právě tam. Nejefektivnější je kombinace ústní a lokální formy. Mesalazin, sulfasalazin |
+| Kortikosteroidy — systémové | rychle a účinně navodí remisi; **nevhodné pro dlouhodobou léčbu** — vysoký výskyt NÚ. Prednisolon, methylprednisolon |
+| Kortikosteroidy — topické | srovnatelný efekt jako systémové, ale výrazně méně NÚ; klystýry a čípky. Budesonid v lékové formě s řízeným uvolňováním |
+| Imunosupresiva | azathioprin, 6-merkaptopurin — thiopurinová analoga, blokují tvorbu purinů pro DNA a RNA leukocytů; pomalý nástup 3–6 měsíců, efekt v udržení remise |
+
+🔑 **Logika léčby v jedné větě: aminosalicyláty na dlouhodobé držení, kortikoidy na rychlé navození remise, imunosupresiva na její udržení.**
+
+❓ **Doptají se:**
+- *Jaký je hlavní rozdíl v rozsahu postižení mezi Crohnovou nemocí a ulcerózní kolitidou?* → Crohn postihuje celý GIT a celou tloušťku stěny (i s "přeskakujícími" úseky), ulcerózní kolitida jen sliznici tlustého střeva a konečníku.
+- *Proč se kortikosteroidy nepoužívají dlouhodobě?* → Vysoký výskyt NÚ, hodí se jen na rychlé navození remise.
+
+---
+
+## 102 · Spasmolytika
+
+**O čem to je:** Léky proti křečovité bolesti dutých orgánů (žlučová a ledvinová kolika) — fungují buď blokádou parasympatiku, nebo přímým uvolněním svalu, a téměř všechny jejich NÚ i kontraindikace se dají odvodit z jediné věci — jsou to parasympatolytika.
+
+**Spasmolytika odstraňují spasmus vnitřních dutých orgánů trávicího (žlučová kolika) a urogenitálního ústrojí (ledvinová kolika).** ⚠️ **Neovlivňují hladké svaly cév ani průdušek** — to zdroj výslovně zdůrazňuje.
+
+Podávají se při bolestech z urogenitální nebo trávicí soustavy, dál při migrénách a kolikách.
+
+| Skupina | Mechanismus | Zástupci |
+|---|---|---|
+| Neurotropní | parasympatolytika — blokáda muskarinových receptorů | neselektivní: atropin, butylskopolamin, ipratropium; selektivní: pirenzepin |
+| Muskulotropní | na rozdíl od neurotropních navíc uvolňují i hladké svaly cév | papaverinového typu — blokáda fosfodiesterázy → víc cAMP → uvolnění svalu: papaverin (alkaloid opia, bez euforického i analgetického efektu, dnes se nepoužívá), drotaverin (No-Spa), pitofenon (Algifen); blokátory kalciového kanálu: pinaverin |
+| Spasmoanalgetika | spasmolytikum + analgetikum, často s muskulotropním | krátkodobé užití (např. po gynekologických operacích): metamizol, pethidin, tramadol |
+
+Indikace: tišení bolesti a tlumení spazmů trávicího a urogenitálního ústrojí — dráždivý tračník, spastické stavy, nadýmání, dumping syndrom.
+
+KI: glaukom, atonie střev, zvětšená prostata, tachykardie, retence moči. NÚ: nejvíc jich způsobují parasympatolytika — retence moči, tachykardie a tachyarytmie, zvýšení nitroočního tlaku, neklid, poruchy zaostřování oka, toxické megakolon, paralytický ileus.
+
+🔑 **KI i NÚ vycházejí z jediné věci — z parasympatolytického efektu.** Když si to odvodíš, nemusíš je memorovat.
+
+❓ **Doptají se:**
+- *Ovlivňují spasmolytika cévy a průdušky?* → Ne (kromě muskulotropních, viz níže), působí jen na duté orgány trávicího a urogenitálního ústrojí.
+- *Proč mají neurotropní spasmolytika tolik NÚ?* → Všechny plynou z jejich parasympatolytického (anticholinergního) účinku.
+
+---
+
+## 103 · Hepatoprotektiva, cholagoga
+
+**O čem to je:** Léky na "ochranu" jater mají spíš skromnou vědeckou podporu — zdroj sám je hodnotí kriticky. Cholagoga naopak fungují prokazatelně — podporují tvorbu a odtok žluči.
+
+**Hepatoprotektiva.** Zdroj je k nim otevřeně skeptický: "málo toxická, ale s nízkým přínosem, minimálním účinkem." Řekni to nahlas u zkoušky — ukazuje to, že rozlišuješ mezi tím, co se v praxi předepisuje, a tím, co je vědecky doložené.
+
+Poškození jater se nejčastěji projeví nespecifickou reakcí — steatohepatitidou: **alkoholická** × **nealkoholická** (virové infekty, metabolický syndrom, léky).
+
+Komplikace steatohepatitidy: jaterní encefalopatie, portální hypertenze.
+
+⚠️ **V terapii jaterní encefalopatie se uplatní laktulóza** — acidifikuje obsah tlustého střeva a mění neionizovaný amoniak na NH₄⁺, který se pak nevstřebá (spojka na O98 i na iontovou past z obecné farmakologie).
+
+| Přípravek | Podstata |
+|---|---|
+| Silymarin (ostropestřec) | přírodní preparát, aktivní složkou směs flavonoidů; antioxidant. Použití u alkoholového poškození jater, hepatitid a toxického poškození |
+| Esenciální fosfolipidy | směs nenasycených mastných kyselin (linolová, linolenová); vestavují se do membrán jaterních buněk → podpora regenerace organel; zpomalují fibrotizaci, urychlují regeneraci |
+| Další | cholin, metionin, arginin, inositol, kyselina thioktová |
+
+**Cholagoga** = látky zvyšující sekreci žluči. **Choleretika** zvyšují obsah vody ve žluči; **cholecystokinetika** usnadňují vyprázdnění žlučovodu.
+
+| Léčivo | Účinek |
+|---|---|
+| Kyselina ursodeoxycholová | choleretický, hepatoprotektivní, protizánětlivý a litolytický (rozpouštějící kameny) efekt; mění složení žluči ve prospěch hydrofilních žlučových kyselin → snižuje retenci žluči a poškození epitelu |
+| Kyselina obeticholová | snižuje tvorbu žlučových kyselin a bilirubinu |
+
+Indikace: po odstranění žlučníku, po operaci žlučových cest, při biliární dyspepsii.
+
+**Rozpouštění žlučových kamenů:** kameny vznikají při přesycení žluči cholesterolem a volným bilirubinem; terapeuticky se snižuje tvorba cholesterolu — deriváty žlučových kyselin s nerozpustnými pryskyřicemi.
+
+🔑 **Hepatoprotektiva = slabě doložený efekt, řekni to nahlas. Laktulóza = léčba jaterní encefalopatie přes vazbu amoniaku.**
+
+❓ **Doptají se:**
+- *Jak funguje laktulóza v léčbě jaterní encefalopatie?* → Okyselí obsah tlustého střeva a přemění amoniak na NH₄⁺, který se nevstřebá do krve.
+- *Jaký je vědecký konsenzus o účinnosti hepatoprotektiv?* → Nízká, minimální doložený přínos — je to dobré nahlas přiznat.
+
+---
