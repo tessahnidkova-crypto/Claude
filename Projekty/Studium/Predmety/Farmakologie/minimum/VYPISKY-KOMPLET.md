@@ -5065,3 +5065,169 @@ Dřív bez léčby vznikal zbytek moči v měchýři, jeho zbytnění až poško
 - *Jaký je typický vedlejší účinek inhibitorů 5-α-reduktázy?* → Sexuální dysfunkce (horší libido, poruchy erekce), a je to i klasický příklad noceba efektu.
 
 ---
+
+## 123 · Cytostatika
+
+**O čem to je:** Léky proti rakovině mají šest hlavních mechanismů, jak zabít rychle se dělící buňku — a protože si nevybírají jen nádorové buňky, poškozují i zdravé rychle se dělící tkáně (kostní dřeň, sliznice) — odtud plyne většina jejich nežádoucích účinků.
+
+Protinádorová léčba je multidisciplinární; u solidních nádorů zůstává v centru pozornosti chirurgická léčba.
+
+| Typ chemoterapie | Kdy |
+|---|---|
+| Předoperační | zmenšení lokálního rozsahu nemoci |
+| Pooperační | tam, kde předpokládáme už založené mikrometastázy |
+| Paliativní | zmírní rozvoj, oddálí postup — není kurativní (nevyléčí) |
+| Podpůrná | analgetika, antiemetika |
+| Symptomatická | pojem vyhrazený pro umírající pacienty |
+
+Cytostatika zasahují do regulačních mechanismů rychle se dělících, patologicky se množících buněk; používají se i u některých nezhoubných onemocnění.
+
+**Dvojí cíl léčby — řekni obojí:** ① zajistit optimální farmakoterapeutický efekt při přijatelné toxicitě, ② zabránit sekundární rezistenci. K tomu vede eskalace dávek, kombinace cytostatik a podpůrná léčba.
+
+Co ovlivňuje úspěšnost: racionální volba cytostatika, eskalace dávek, kombinovaná chemoterapie, rizikové faktory pacienta (stupeň diferenciace nádorových buněk, velikost nádoru, rozsev, věk, poškození vylučovacích orgánů, včasnost diagnózy), genetické faktory, biochemická modulace (jiný lék bez vlastního cytostatického efektu zesílí účinek cytostatika), cesta podání, chronofarmakologie (vliv doby podání během dne), rezistence.
+
+**Šest skupin podle mechanismu — jádro otázky:**
+
+| Skupina | Mechanismus | Zástupci |
+|---|---|---|
+| A) Alkylující látky | vysoce reaktivní alkylové skupiny se navážou na buněčné složky, hlavně DNA, a vytvoří tam pevné (kovalentní) vazby | bis-aminy, alkylsulfonáty, deriváty nitrosomočoviny, sloučeniny platiny |
+| B) Antimetabolity | blokují klíčové enzymy tvorby nukleových kyselin — postihuje i zdravé buňky → orgánová toxicita | antagonisté kyseliny listové — metotrexát; purinů — 6-merkaptopurin, azathioprin; pyrimidinů — 5-fluorouracil; cytidinu — cytosinarabinosid |
+| C) Rostlinné alkaloidy | zásah do mitotického vřeténka nebo topoizomerázy | vinkristin, vinblastin — naváží se na tubulin, způsobí jeho "krystalizaci" a rozpad vřeténka → zastaví buněčné dělení; taxany (z tisu) — vážou se na tubulin v mikrotubulech; etoposid, teniposid (z kořene mandragory) — nevratný komplex s topoizomerázou II a DNA |
+| D) Antibiotika | antracykliny se vmezeří mezi páry bází DNA a blokují topoizomerázu II → zastaví přepis DNA | **kardiotoxické!** |
+| E) Hormony a antihormony | | antiestrogeny, antiandrogeny, glukokortikoidy |
+| F) Ostatní | | blokátory topoizomerázy I, asparagináza (sníží hladinu asparaginu), interferony |
+
+**Orgánová toxicita — druhá polovina odpovědi:** poškození kostní dřeně (neutropenie, lymfocytopenie, anemie), nevolnost a zvracení, poškození ledvin a močových cest (nejvíc u cisplatiny), neurotoxicita, kardiotoxicita (antracykliny), neplodnost, teratogenní efekt.
+
+> **Propojení, které se vyplatí:** cisplatina je zároveň nejsilnější emetogen (viz O100) — uvolňuje serotonin ze sliznice tenkého střeva, proto se u ní podávají setrony. A metotrexát patří mezi terapeuticky monitorovaná léčiva (obecná otázka O16) a jeho toxicitu zvyšují NSA blokádou transportéru organických aniontů (obecná otázka O25).
+
+🔑 **Antracykliny = kardiotoxické. Cisplatina = nejsilnější emetogen a nefrotoxická.**
+
+❓ **Doptají se:**
+- *Proč jsou antimetabolity toxické i pro zdravé buňky?* → Blokují enzymy syntézy nukleových kyselin obecně, což postihne všechny rychle se dělící buňky, ne jen nádorové.
+- *Proč se u léčby cisplatinou vždy dávají setrony?* → Je to nejsilnější emetogen, uvolňuje serotonin ze sliznice tenkého střeva.
+
+---
+
+## 124 · Farmakoterapie anemií
+
+**O čem to je:** Anemie vzniká buď z toho, že tělu chybí stavební kámen pro červené krvinky (železo, kyselina listová, B12), nebo z jejich nadměrné ztráty. Léčba se vždy odvíjí od toho, co konkrétně chybí.
+
+**Anemie** = nedostatek červených krvinek, respektive hemoglobinu.
+
+| Skupina příčin | Konkrétně |
+|---|---|
+| Porucha tvorby erytrocytů | chybí stavební kameny — železo, kyselina listová, vitamin B₁₂; nedostatek erytropoetinu nebo tvorba látek blokujících krvetvorbu; toxické poškození kostní dřeně (léky, záření, toxiny) |
+| Zvýšené ztráty erytrocytů | krvácení — úraz, vředová choroba, gynekologické krvácení, z nosu; kratší doba přežívání a dřívější rozpad erytrocytů; jejich hromadění a rozpad ve slezině |
+
+Příznaky: zvýšená unavitelnost, celková slabost, bledost, závratě, bolesti hlavy, hučení v uších, zadýchávání při námaze, bolest na hrudi, tachykardie, bušení srdce.
+
+**Léčba.** Přírodní prostředky (železité červené víno, játra, červená řepa, špenát) mají nízkou účinnost — zdroj je uvádí jen pro úplnost.
+
+| Léčivo | Zvláštnosti a interakce |
+|---|---|
+| Železo | nevýhodou je špatná vstřebatelnost; lépe se vstřebává v kyselém prostředí — zapít džusem. NÚ: bolest žaludku, zácpa, průjem |
+| Kyselina listová | lékové interakce s antiepileptiky — fenytoin, karbamazepin, barbituráty. Dobrá snášenlivost |
+| Vitamin B₁₂ | fenytoin a barbituráty snižují jeho hladinu v krvi; omeprazol a metformin snižují jeho vstřebávání. Podává se ústy i i.m. |
+| Erytropoetin | hormon tvořený v ledvinách, řídí tvorbu erytrocytů; podává se pod kůži jako rekombinantní analog lidského hormonu — dobře snášen |
+
+> **Interakce vitaminu B₁₂ s omeprazolem má logiku:** PPI sníží kyselost žaludku, a ta je pro vstřebání B₁₂ potřeba. Je to tentýž NÚ, který zdroj uvádí u PPI v otázce O99.
+
+**Krevní transfuze** — erytrocytární koncentráty, plně kompatibilní s krví pacienta, virologicky testované na HIV, hepatitidy, CMV a syfilis. **Indikace: hemoglobin pod 80 g/l.** NÚ: potransfuzní reakce z protilátek, přetížení oběhu, tvorba protilátek, přetížení organismu železem.
+
+🔑 **Vitamin B12 potřebuje kyselé prostředí žaludku, proto ho zhoršují PPI a omeprazol.**
+
+❓ **Doptají se:**
+- *Proč omeprazol snižuje vstřebávání vitaminu B12?* → Sníží kyselost žaludku, která je nutná k jeho uvolnění a vstřebání.
+- *Při jaké hladině hemoglobinu je indikovaná transfuze?* → Pod 80 g/l.
+
+---
+
+## 125 · Rentgenkontrastní látky
+
+**O čem to je:** Kontrastní látky pomáhají zviditelnit struktury na rentgenu — buď je "zesvětlí" (pozitivní kontrast, jód/baryum), nebo "ztmaví" (negativní kontrast, plyn). Klíčové riziko jódových látek je alergie a vliv na štítnou žlázu.
+
+Kontrastní látky se používají pro lepší a detailnější zobrazení sledovaných struktur. Dělí se podle původu (tělu vlastní — vzduch × umělé) a podle skupenství, ale nejdůležitější je dělení podle toho, jak absorbují záření:
+
+| | Pozitivně kontrastní | Negativně kontrastní |
+|---|---|---|
+| Látky | sloučeniny jódu a barya | plyny, voda, methylcelulóza |
+| Efekt | vyšší absorpce RTG záření = zastínění | nižší absorpce = projasnění |
+
+**Pozitivně kontrastní látky** setrvávají v těle jen po dobu vyšetření, pak se rychle vyloučí, hlavně ledvinami.
+
+**Nejódované — síran barnatý:** pro vyšetření GIT, podává se ústy nebo do konečníku. **Baryum je samo o sobě silně jedovaté, ale použití nerozpustné sloučeniny k otravě nevede.** To je přesně ta věta, kterou chtějí slyšet. KI: perforace trávicí trubice. NÚ: problémy s vyprazdňováním, křeče, bolesti břicha.
+
+**Jódované látky** mají dobré rozložení mimo buňky, minimální vstřebávání:
+
+| Typ | Zástupci a použití |
+|---|---|
+| Nízkoosmolární | johexol, jomeprol, jopromid — pro přímé zobrazení tělních dutin; vstřebávání velmi pomalé, nedostávají se do celotělového oběhu |
+| Vysokoosmolární | kyselina joxitalamová — pro nitrožilní urografii a znázornění jícnu; málo se váže na plazmatické bílkoviny, rychle se vylučuje ledvinami |
+| Ve vodě nerozpustné | ethylestery jodovaných mastných kyselin — vzácně při lymfografii; v cévním oběhu mohou způsobit embolizaci |
+
+**Nežádoucí účinky jódových kontrastních látek:** riziko alergické až anafylaktické reakce, otoky, riziko chemotoxické reakce, může ovlivnit funkci štítné žlázy.
+
+> Poslední bod propoj s otázkou O116: nadbytek jódu vyvolá hypotyreózu u pacientů s dostatkem jódu a hypertyreózu u pacientů s deficitem jódu.
+
+**Negativně kontrastní látky** — plyny (vzduch, oxid uhličitý), voda, roztoky cukerných alkoholů (manitol, sorbitol); v RTG se využívají vzácně, častěji v CT.
+
+🔑 **Nerozpustný síran barnatý = i přes toxicitu barya samotného bezpečný. Jódové látky = riziko anafylaxe a ovlivnění štítné žlázy.**
+
+❓ **Doptají se:**
+- *Proč se síran barnatý používá i přes toxicitu barya?* → Je nerozpustný, takže se nevstřebává a k otravě nevede.
+- *Jak nadbytek jódu z kontrastní látky ovlivní štítnou žlázu podle toho, kolik jódu pacient normálně přijímá?* → U pacienta s dostatkem jódu vyvolá hypotyreózu, u pacienta s nedostatkem naopak hypertyreózu.
+
+---
+
+## 126 · Léčiva pro místní účinek na kůži a sliznicích (+ dezinficiencia)
+
+**O čem to je:** Kožní léky (masti, krémy, roztoky) fungují jen v místě nálezu, bez celotělových NÚ — u řady z nich (kyselina salicylová, močovina) je klíčové, že účinek se úplně mění podle koncentrace. Druhá půlka otázky rozlišuje dezinfekci (na předměty) od antiseptik (na živou tkáň).
+
+Léčba v dermatologii: zevní (lokální), celková (systémová), fyzikální (chirurgie, fototerapie, kryoterapie). Úspěch závisí na správné diagnóze, fázi nemoci a koncentraci zevního léku.
+
+**Zevní léčba — na čem stojí.** Cílem je efekt v místě nálezu bez nutnosti systémového podání → nedojde k celotělovým NÚ. Efekt závisí na účinné látce, vehikulu (nosiči) a způsobu aplikace. Vstřebávání ovlivňuje tloušťka rohové vrstvy a celistvost kůže, koncentrace léku a stav cév v koriu (škáře). Průnik rohovou vrstvou: transepidermálně (mezi buňkami nebo skrz ně) × transadnexálně (přes vývody žláz).
+
+Složení zevního léku: účinná látka, vehikulum/báze (vazelína), pomocné látky (makrogol, glycerol, propylenglykol).
+
+**Lékové formy:**
+- **Tekuté:** roztoky (voda nebo líh) — působí povrchově, na mokvavé rány; kolodia s elastickou hmotou — keratolytická léčba bradavic; koupele.
+- **Pevné:** obklady — vzdušné (vysýchavé) × zapařovací (neprodyšné); zásypy (oxid zinečnatý a talek) — ne na mokvající kožní nemoci; tekuté pudry — nutno protřepat; gely.
+- **Masťové:** oleje; masti (vazelína, včelí vosk); krémy — o/v (olej ve vodě) = na den, v/o (voda v oleji) = na noc; pasty — masťový základ s práškovou hmotou.
+
+**Externa podle účinku** (stejné dělení jako u dermatologik v O112): antimikrobiální, antiseptika, antiseboroika, antihidrotika, antipruriginóza (proti svědění), cytostatika, fotoprotektiva, keratolytika × keratoplastika, adstringencia.
+
+**Hlavní léčiva.** Kortikosteroidy — cévy zužují, protizánětlivý, antiproliferativní, imunomodulační efekt. Dostupnost se zlepší esterifikací, síla účinku halogenizací. Indikace: sluneční dermatitida, atopický ekzém, menší popálenina, lupus erythematodes. KI: primárně infekční onemocnění, otevřené rány, akné, kojení, novorozenci. NÚ: atrofie kůže, strie, akneformní vyrážka, purpura (krvácení do kůže), zvýšený růst ochlupení.
+
+Kalcineurinové blokátory — imunomodulační externa, selektivně blokují tvorbu prozánětlivých cytokinů; hlavně atopický ekzém. Analoga vitaminu D — zastavují množení keratinocytů → psoriáza. Modifikátory imunitní odpovědi — modulace tvorby cytokinů, virová a nádorová kožní onemocnění. Glycerol 85 % — váže vodu a snižuje vysychání.
+
+**Koncentrační řady — nejvděčnější část otázky.** Účinek obou látek se úplně mění podle koncentrace — přesně ten typ detailu, na který se ptají.
+
+**Kyselina salicylová:** 1–2 % = antiseptický, keratoplastický; 3–5 % = proti svědění, protiplísňový, antihidrotický; 5–10 % = **keratolytický**; 40–60 % = **leptavý** — v kolodiu k odstranění bradavic. Snadno se vstřebává — při rozsáhlé aplikaci hrozí systémová toxicita, a navíc zvyšuje průnik současně aplikovaných látek.
+
+**Močovina (urea):** do 10 % = hydratační; 10–20 % = antibakteriální; nad 20 % = proti svědění; 40–50 % = **keratolytický**. Je netoxická, nedráždivá, nevyvolává alergie.
+
+> **Klíč:** u obou platí — čím vyšší koncentrace, tím agresivnější účinek — od hydratace přes keratolýzu až k leptání.
+
+**Oficiální přípravky — fixní kombinace:** Jarischův roztok (kyselina boritá, glycerol) — proti svědění, keratoplastický, hydratační; Chlumského roztok (kafr, fenol, ethanol) — antiseptikum; Novikovův roztok (brilantová zeleň, tanin, ethanol) — "tekutý obvaz", antiseptický.
+
+**Dezinficiencia vs. antiseptika — rozdíl, na kterém otázka stojí:**
+
+| | Dezinficiencia | Antiseptika |
+|---|---|---|
+| Kde působí | ve vnějším prostředí — na neživých předmětech, plochách, nástrojích, v infekčním materiálu | v prostředí živých tkání — kůže, rána, sliznice |
+| Cíl | usmrcení mikroorganismů | zneškodnění (zastavení růstu) |
+| Podmínka | nejvyšším stupněm dezinfekce je sterilizace | v koncentracích, které nepoškodí zdravou tkáň |
+| Použití | | příprava operačního pole, před injekcí, ošetření ran |
+
+Nejčastěji používaná antiseptika: ethanol 60–70 %, jodofory, chlorhexidin.
+
+**Dělení podle chemické struktury:** alkoholy — působí na bakteriální membrány a denaturují bílkoviny: ethanol 60–70 %, isopropanol 70 %; fenoly — denaturace bílkovin, oxidační účinky: chlorhexidin; aldehydy — denaturace bílkovin: formaldehyd.
+
+🔑 **Kyselina salicylová a močovina — jejich efekt je čistě otázkou koncentrace, ne odlišné látky.**
+
+❓ **Doptají se:**
+- *Jaký je rozdíl mezi dezinficienciem a antiseptikem?* → Dezinficiens se používá na neživé předměty (usmrtí mikroby), antiseptikum na živou tkáň (v koncentraci, která ji nepoškodí).
+- *Jaká koncentrace kyseliny salicylové je keratolytická?* → 5–10 %.
+
+---
