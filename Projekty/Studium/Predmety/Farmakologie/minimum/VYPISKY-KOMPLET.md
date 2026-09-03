@@ -3647,3 +3647,252 @@ Chemicky jde o makrocyklický laktonový kruh s navázanými cukry, dělí se po
 *(Tím je Speciální farmakologie I (36–88) kompletní. Pokračuje Speciální farmakologie II.)*
 
 ---
+
+# ČÁST 3 — SPECIÁLNÍ FARMAKOLOGIE II (89–136)
+
+**Zdroj:** `specka2-podrobna-cast1-CITELNA.pdf` + `specka2-podrobna-cast2-CITELNA.pdf` a doplňkově `specka-2-vypracovane-otazky.pdf` (u dvou otázek, kde podrobná verze chyběla — viz `ustni/STAV-specka2.md`). Číslování v tomto zdroji je oficiální.
+
+## 89 · Chemoterapeutika močových a střevních infekcí
+
+**O čem to je:** Léky specializované buď jen na močové cesty (dostanou se tam ve vysoké koncentraci, jinde v těle skoro nepůsobí), nebo jen na střevo (nevstřebávají se, zůstávají lokálně).
+
+| Močové | Střevní |
+|---|---|
+| nitrofurantoin (Furantoin), fosfomycin (Urifos), ko-trimoxazol (Biseptol), pivmecilinam | rifaximin (Normix), cloroxin (Endiaron) — infekční průjem, nifuroxazid (Ercefuryl) |
+
+**Fosfomycin** — širokospektrý, baktericidní, blokuje syntézu buněčné stěny. Vstřebá se z GIT jen 40–60 % (jídlo vstřebávání zpomalí a omezí), dobře proniká do tkání. Spektrum: enterobakterie, stafylokoky, *Enterococcus faecalis*. Je opět na vzestupu kvůli multirezistentním bakteriím — na infekce multirezistentními kmeny, infekce močových cest i systémové infekce.
+
+**Nitrofurantoin** — na obvyklé močové patogeny (*E. coli*, *Enterococcus faecalis*, *Staph. saprophyticus*). **Lék první volby u nekomplikované infekce močových cest** — horší snášenlivost a pomalejší nástup, ale nízká rezistence u *E. coli*. Farmakokinetika: nerozšiřuje se systémově, terapeutických hladin dosahuje jen v moči — proto se hodí i na profylaxi. KI: těhotenství, děti do 3 měsíců, selhávání ledvin. NÚ: nesnášenlivost v GIT.
+
+**Rifaximin** (Normix) — podává se ústy, **nevstřebává se z GIT** (zůstává jen ve střevě). Akutní i chronické bakteriální střevní infekce, součást kombinované léčby jaterní encefalopatie.
+
+**Chloramfenikol** — bakteriostatický, na úrovni ribozomů; široké spektrum G+, G−, anaeroby, výborná farmakokinetika. Indikace jsou omezeny kvůli závažnému NÚ — nevratná aplastická anemie. Léčba tyfu, meningitid, mozkových abscesů. Dnes už většinou nahraditelný.
+
+**Fidaxomicin** — makrocyklické nové antibiotikum, baktericidní, jen lokální účinek, na *Clostridium difficile*.
+
+**Střevní antiinfektiva** je nadřazený pojem pro antiseptika a dezinficiencia; v širším smyslu sem patří i ATB použitá u střevních infekcí bez znalosti konkrétního původce: fluorochinolony (*E. coli*, salmonely, shigely, kampylobaktery, yersinie), ko-trimoxazol (často nepůsobí na *Campylobacter jejuni*), makrolidy (*H. pylori* a *Campylobacter jejuni*).
+
+🔑 **Nitrofurantoin = jen v moči (na profylaxi IMC). Rifaximin = jen ve střevě (nevstřebává se).**
+
+❓ **Doptají se:**
+- *Proč je nitrofurantoin vhodný na profylaxi IMC?* → Nerozšiřuje se systémově, dosahuje terapeutických hladin jen v moči.
+
+---
+
+## 90 · Antiparazitika
+
+**O čem to je:** Léčba parazitů je obtížnější než léčba bakterií, protože paraziti (jako my) jsou eukaryota — cokoli jim uškodí, snadno uškodí i lidským buňkám. V ČR je parazitárních infekcí málo, takže i dostupnost léků bývá problém.
+
+Terapie se zahajuje jen na základě parazitologického vyšetření, cíleně podle konkrétního původce. Látky jsou velmi různorodé a často toxické; účinná jsou i některá antibiotika. V ČR je minimum parazitárních infekcí → obtížná dostupnost léků kvůli nutnosti dovozu. Při nedostupnosti registrovaného léku smí lékař výjimečně předepsat neregistrovaný lék, musí být ale registrovaný alespoň v zahraničí (viz obecná otázka O2).
+
+**Proč je antiparazitární léčba obtížná — tohle řekni:** paraziti jsou eukaryota podobnější vyšším živočichům (na rozdíl od bakterií) — proto je léčba často toxická i pro pacienta. Navíc komplikuje chronický průběh, různé fáze životního cyklu a různá vývojová stadia parazita.
+
+Kdo je ohrožen: v rozvinutých zemích hlavně imunosuprimovaní; v rozvojových zemích opakované infekce a reinfekce, špatná výživa, HIV/AIDS, špatná hygiena.
+
+**Antihelmintika (proti červům — motolicím, tasemnicím):**
+
+| Skupina | Cíl | Zástupce |
+|---|---|---|
+| Benzimidazoly | háďátka, tasemnice | mebendazol, albendazol |
+| Tetrahydropyrimidin | škrkavky, roupi | pyrantel pamoát |
+| Piperaziny / avermektiny | filárie | piperazin / ivermektin |
+| Pyrazinochinolin | motolice, tasemnice | praziquantel |
+
+**V ČR je registrován a předepisován na střevní hlísty mebendazol.**
+
+**Antiprotozoika (proti prvokům — malárie a další):**
+
+| Skupina | Cíl | Zástupce |
+|---|---|---|
+| Těžké kovy | trypanosoma, leishmanióza | melarsoprol, soli antimonu |
+| Aminochinoliny | malárie | chlorochin, chinin |
+| Antagonisté kyseliny listové | malárie, toxoplazmóza | sulfonamidy, pyrimethamin |
+| Inhibitory proteosyntézy (ATB) | malárie, amébiáza | klindamycin, spiramycin, tetracykliny |
+| Chinolony / antimykotikum | malárie / améby | ciprofloxacin / amfotericin B |
+| Seskviterpeny | malárie | artemisinin (z pelyňku) |
+
+🔑 **Paraziti jsou eukaryota jako my — proto je antiparazitární léčba často toxičtější než antibakteriální.**
+
+❓ **Doptají se:**
+- *Proč je léčba parazitů obtížnější než léčba bakterií?* → Paraziti jsou eukaryota, biologicky podobnější lidským buňkám, takže je těžší najít látku, která poškodí je a ne pacienta.
+
+---
+
+## 91 · Antituberkulotika a antileprotika
+
+**O čem to je:** Tuberkulóza se vždy léčí kombinací víc léků naráz, dlouhodobě, protože mykobakterie mají různé "růstové fáze" a je snadné, aby si na jeden lék vyvinuly rezistenci.
+
+**Zásady léčby — tímhle otázku otevři:** léčba je dlouhodobá, **vždy kombinovaná** — na začátku 4 až 5 léků, později 3, doléčení 2 — cílem je zasáhnout všechny růstové fáze mykobakterií a předejít vzniku rezistence. Léčba probíhá v rukou specialistů (pneumologů), je kontrolovaná a ze zákona povinná, podle standardizovaných léčebných schémat. Alternativní antituberkulotika se používají jen u rezistentních kmenů a u netuberkulózních mykobakteriálních druhů.
+
+**Základní léčba — pět léčiv:**
+
+| Léčivo | Charakteristika |
+|---|---|
+| Streptomycin | aminoglykosid; ototoxický a neurotoxický — riziko roste s věkem kvůli poklesu glomerulární filtrace |
+| Izoniazid | proléčivo, které aktivují až samy mykobakterie; snadno vzniká rezistence, mnoho lékových interakcí |
+| Rifampicin | baktericidní na většinu mykobakterií včetně atypických, dobře se vstřebává z GIT; proniká i do špatně dostupných míst — abscesy, plicní kaverny; **induktor jaterních enzymů CYP450** → řada lékových interakcí |
+| Etambutol | bakteriostatický, působí jen na množící se buňky |
+| Pyrazinamid | baktericidní, proléčivo, mechanismus účinku není jasně objasněn |
+
+Náhradní léčba při rezistenci nebo selhání: klaritromycin, amikacin, kanamycin, fluorochinolony.
+
+**Čtyři stupně rezistence — vděčná otázka:**
+
+| Stupeň | Definice |
+|---|---|
+| Monorezistentní | rezistence na 1 základní antituberkulotikum |
+| Polyrezistentní | na víc než 1, ale **ne** současně na izoniazid a rifampicin |
+| Multirezistentní (MDR) | současně na izoniazid **i** rifampicin |
+| Extensively drug resistant (XDR) | na izoniazid a rifampicin a navíc na náhradní léčbu |
+
+🔑 **Hranicí mezi poly- a multirezistencí je dvojice izoniazid + rifampicin.**
+
+**Antileprotika.** Lepru vyvolává *Mycobacterium leprae*. Léčí se látkami příbuznými sulfonamidům — hlavně **dapson v kombinaci s rifampicinem**. Dapson je hematotoxický a zasahuje do metabolismu kyseliny listové. U rezistentních kmenů se indikuje klofazimin.
+
+❓ **Doptají se:**
+- *Co znamená MDR tuberkulóza?* → Rezistence současně na izoniazid a rifampicin.
+- *Proč se tuberkulóza vždy léčí kombinací léků?* → Aby se zasáhly všechny růstové fáze mykobakterií a předešlo se vzniku rezistence.
+
+---
+
+## 92 · Antimykotika
+
+**O čem to je:** Léky proti houbám a plísním. Fungují na jiném principu než antibiotika — nejčastěji cílí na ergosterol, látku v buněčné membráně hub, kterou lidské buňky nemají (mají místo ní cholesterol).
+
+Antimykotika jsou účinná proti houbám a plísním, zasahují buněčnou stěnu nebo nukleové kyseliny, působí fungistaticky (zastaví růst) nebo fungicidně (usmrtí). Rezistence vzniká pomalu.
+
+**Proč mykóz přibývá:** kvůli užívání léků, které ničí přirozené konkurenty hub (širokospektrá ATB likvidují bakterie, které by houby jinak držely na uzdě), a léků zasahujících imunitu (imunosupresiva, cytostatika).
+
+**Čtyři mechanismy účinku:** blokáda syntézy ergosterolu, přímá vazba na ergosterol (naruší celistvost membrány), blokáda syntézy β-glukanu (stavební látka buněčné stěny hub), blokáda syntézy DNA.
+
+**Systémová antimykotika:**
+
+| Skupina | Mechanismus | Spektrum a zástupci |
+|---|---|---|
+| Polyeny | vazba na ergosterol | širokospektré (kvasinky i plísně), hepato- a nefrotoxické. **Amfotericin B** — zlatý standard u aspergilových infekcí, podává se i.v.; NÚ: horečka, zvracení, bolest svalů a kloubů; indikace: mukormykózy, kryptokokové meningitidy, histoplazmóza |
+| Azoly | narušují syntézu ergosterolu | největší a nejpoužívanější skupina; hlavně kvasinky, ale i aspergily; výrazné lékové interakce |
+| Echinokandiny | narušují syntézu β-D-glukanu | nejnovější skupina; kandidy a aspergily |
+
+**Azoly jednotlivě:**
+
+| Azol | Zvláštnost |
+|---|---|
+| Flukonazol | rychle se vstřebává, proniká přes HEB; trávicí potíže při léčbě delší než 7 dní; **teratogenní** — malformace skeletu a myokardu; kvasinky, kryptokokové meningitidy, dermatomykózy |
+| Itrakonazol | spektrum jako flukonazol + aspergily a dermatofyta; nevhodný na léčbu závažné aspergilózy — jen na profylaxi; výrazné interakce |
+| Vorikonazol | **lék volby u aspergilových infekcí** — nejúčinnější, minimum NÚ |
+
+**Echinokandiny** (kaspofungin, anidulafungin, mikafungin) — nepůsobí na kryptokoky ani zygomycety; synergie s amfotericinem; dobrá snášenlivost; **neproniká HEB**; jen i.v. Indikace: nejzávažnější oportunní mykózy, lék první volby u invazivní kandidózy.
+
+**Lokální antimykotika.** Azoly — ekonazol, klotrimazol, mikonazol: na kůži u různých forem tinea a kožní kandidózy, ústy u orofaryngeální kandidózy, vaginálně (krémy, čípky, tablety). Neazolová: naftifin (dermatofyta a kvasinky), nystatin (**pouze proti kandidám**), amorolfin a cyklopirox (v laku na nehty při onychomykóze).
+
+⚠️ Léčba mykóz musí být doplněna prevencí reinfekce — péče o obuv a osobní hygienu.
+
+🔑 **Polyeny = vazba na ergosterol. Azoly = blokují jeho syntézu. Echinokandiny = blokují buněčnou stěnu, neproniknou do mozku.**
+
+❓ **Doptají se:**
+- *Který antimykotický lék je volbou u aspergilové infekce?* → Vorikonazol.
+- *Proč nejsou echinokandiny vhodné na plísňovou meningitidu?* → Neproniknou přes HEB.
+
+---
+
+## 93 · Antivirotika
+
+**O čem to je:** Antivirotika léčí jen zlomek virových infekcí — mnoho virových nemocí se u zdravého člověka vyléčí samo. Léčí se prakticky vždy jen HIV a hepatitidy B/C, u ostatních podle stavu pacienta.
+
+Viry jsou nejmenší živé částice, mají jen kapsidu a nukleovou kyselinu; vniknou do hostitelské buňky, replikují se a uvolní nové viriony. Antivirotika mají omezené spektrum léčitelných infekcí a řada virových onemocnění je u imunokompetentních lidí samoúzdravná — chřipka, plané neštovice, opar, EBV, CMV.
+
+**Kdy léčíme — jasné rozdělení:** **vždy** léčíme HIV, hepatitidu B, hepatitidu C; **podle klinického a imunitního stavu** léčíme CMV, HSV-1 a 2, VZV, EBV, chřipku A, RSV, Covid-19.
+
+Povinné očkování: spalničky, příušnice, zarděnky, dětská obrna, **hepatitida B**. Doporučené: klíšťová encefalitida, chřipka, HPV, hepatitida A, plané neštovice, Covid-19.
+
+**Hepatitida C** (RNA virus). Bez léčby vede k poškození jater — fibróza až cirhóza, hepatocelulární karcinom. Od roku 2011 se používají látky s přímým antivirovým účinkem, které blokují jeden ze tří klíčových enzymů replikačního cyklu viru. **Fixní kombinace sofosbuvir + velpatasvir vyléčí přes 97 % nemocných.** Existuje i trojkombinace + voxilaprevir.
+
+**Hepatitida B** — na rozdíl od hepatitidy C se přepisuje do DNA, která se může začlenit do chromozomální DNA hostitele — asi v 10 % vyvolá chronickou infekci s rizikem cirhózy nebo karcinomu. Cílem léčby je dlouhodobě potlačit replikaci. Základní lék: **tenofovir-disoproxil-fumarát** (ústy, blokuje reverzní transkriptázu). Alternativy: lamivudin, telbivudin, pegylovaný interferon α.
+
+**Antiherpetika.** HSV-1 — puchýřky v ústech, na tváři, v jícnu; HSV-2 — genitál, konečník; dál VZV, EBV, CMV. **Aciklovir má biologickou dostupnost ústy jen 10–30 %** — proto se podává jako proléčivo **valaciklovir**, čímž dostupnost vzroste na 70 %. Učebnicový příklad proléčiva. Indikace: u imunokompetentních počáteční infekce HSV; hlavní přínos u imunodeficientních se závažnými infekcemi HSV a VZV. **Není účinný na CMV** — na ten se používá ganciklovir, foskarnet. Analoga: penciklovir, famciklovir (lepší snášenlivost a vstřebávání).
+
+**Chřipka — inhibitory neuraminidázy.** Neuraminidáza je nezbytná pro uvolnění virových částic z infikovaných buněk. Působí na typ A i B.
+
+| | Oseltamivir | Zanamivir |
+|---|---|---|
+| Podání | proléčivo, tobolky ústy | inhalačně 2× denně po 5 dní |
+| Efekt | profylaxe snižuje výskyt; terapeuticky zkrátí příznaky včetně horečky | 10denní aplikace snižuje přenos mezi členy rodiny |
+| KI | | astma a CHOPN |
+
+**Ribavirin** — syntetický analog guanosinu, brání syntéze virové RNA. Podává se jako aerosol nebo ústy; po podání ústy se hromadí v červených krvinkách. Užívá se v kombinaci s alfa-interferony u některých genotypů hepatitidy C, u RSV a hemoragické horečky. **Teratogenní a mutagenní.** NÚ: hemolytická anemie, zánět slinivky, deprese.
+
+🔑 **Vždy léčíme: HIV, hepatitida B, hepatitida C. Ostatní jen podle stavu pacienta.**
+
+❓ **Doptají se:**
+- *Proč se aciklovir podává jako valaciklovir?* → Aciklovir má nízkou biologickou dostupnost ústy (10–30 %), valaciklovir jako proléčivo ji zvýší na 70 %.
+- *Jaké virové infekce se léčí vždy, bez ohledu na stav pacienta?* → HIV, hepatitida B, hepatitida C.
+
+---
+
+## 94 · Antiretrovirotika
+
+**O čem to je:** Léky proti HIV nedokážou virus z těla úplně odstranit, jen zabrání jeho množení — proto se berou doživotně a léčba se zahajuje podle toho, jak moc už virus poškodil imunitu.
+
+**HIV** je retrovirus vyvolávající syndrom získané imunitní nedostatečnosti (AIDS). Infikovaní jsou ohroženi oportunními infekcemi a nádory. HIV-1 je rozšířený po celém světě, HIV-2 hlavně v západní Africe. AIDS je chronické onemocnění — pacienti s ním přežívají až 10 let (bez léčby).
+
+**Patogeneze:** virus infikuje **T-lymfocyty CD4** a snižuje jejich počet → omezuje imunitní reakce organismu.
+
+**Dvě věty, které musí zaznít:** **cílem antiretrovirotik je potlačit mechanismy replikace viru — nevedou k eradikaci (úplnému odstranění) viru z těla.** **Mechanismus účinku: blokáda HIV reverzní transkriptázy a proteázy** (dva klíčové enzymy, které virus potřebuje k replikaci a tvorbě nových virionů).
+
+⚠️ **Léčba se zahajuje při poklesu CD4 buněk pod 350/mm³.**
+
+🔑 **Antiretrovirotika HIV nevyléčí, jen zastaví jeho množení — léčba je doživotní.**
+
+❓ **Doptají se:**
+- *Vyléčí antiretrovirotika HIV infekci?* → Ne, jen potlačí replikaci viru, k eradikaci nevedou.
+- *Při jaké hodnotě CD4 se zahajuje léčba?* → Pod 350/mm³.
+
+---
+
+## 95 · Antitusika, mukolytika, expektorancia
+
+**O čem to je:** Léky na kašel se dělí přesně podle toho, jaký kašel pacient má — suchý dráždivý kašel se tlumí (antitusika), ale vlhký kašel s hlenem se naopak podporuje, aby se hlen snáz vykašlal (mukolytika, expektorancia). Kombinovat tyto dvě skupiny je chyba.
+
+**Kašel** je nejčastější příznak nemocí dýchacích cest. Vzniká podrážděním tzv. tusigenních zón — dolní cesty dýchací, pohrudnice, bránice, osrdečník, jícen, zevní zvukovod. Až na výjimky (idiopatický kašel) je to příznak s širokou škálou možných příčin.
+
+| Dělení | Kategorie |
+|---|---|
+| Podle trvání | akutní (< 2–3 týdny), subakutní (3–8 týdnů), chronický (> 8 týdnů) |
+| Podle etiologie | infekční × neinfekční |
+| Podle povahy | neproduktivní (suchý) → léčí se antitusiky; produktivní (vlhký) → léčí se mukolytiky, expektoranciemi |
+
+**Tři fáze kašle:** hluboký nádech → kompresivní fáze (výdech proti uzavřeným hlasivkám, buduje se tlak) → explozivní fáze (hlasivky se otevřou, prudký nárůst rychlosti proudění vzduchu odstraní hlen a cizí tělesa).
+
+**Antitusika — na suchý kašel.** Kodeinová tlumí reflexní oblouk kašle blokádou nervové aktivity v prodloužené míše.
+
+| | Kodein | Dextrometorfan |
+|---|---|---|
+| Receptor | stimuluje opioidní μ-receptory | — |
+| Výdej | na běžný recept, i když je to opioid | na předpis |
+| Analgezie | ano | ne |
+| Zvláštnost | metabolizuje se na morfin (souvislost s CYP2D6, viz obecná otázka O26) | zneužíván jako psychoaktivní látka — ve vysokých dávkách halucinace, průjem |
+
+⚠️ **Kodein se nepodává současně s mukolytiky a expektoranciemi** — potlačil bys vykašlávání hlenu, který sám podpoříš uvolnit.
+
+**Nekodeinová antitusika** tlumí reflexní zóny kašle a navíc mají místní anestetický efekt na nervová vlákna; jsou slabší než kodein, ale netlumí dechové centrum a nevzniká na ně návyk. Butamirát — volně prodejný, vhodný i pro kojence.
+
+**Periferně působící antitusika** tlumí dráždivost sliznice a ovlivňují periferní C-vlákna; na neproduktivní kašel a premedikaci před bronchoskopií. Dropropizin, levodropropizin.
+
+**Mukolytika a expektorancia — na vlhký kašel.**
+
+| | Mukolytika | Expektorancia |
+|---|---|---|
+| Účinek | snižují viskozitu a elasticitu hlenu, snižují jeho množství, podporují pohyb řasinek | zvyšují sekreci z bronchiálních žláz, tvoří řidší hlen, snižují jeho viskozitu |
+| Zástupci | N-acetylcystein (ACC), bromhexin (NÚ: dráždí GIT) | guaifenesin |
+
+⚠️ **N-acetylcystein** je prekurzor glutathionu, antioxidant a detoxikant, a zároveň **antidotum při otravě paracetamolem** (přímá spojka na obecnou otázku O17).
+
+Guaifenesin se podává ústy; navíc má antitusický, myorelaxační a anxiolytický efekt.
+
+🔑 **Suchý kašel = antitusika (tlumí ho). Vlhký kašel = mukolytika/expektorancia (podporují vykašlávání). Nikdy nekombinovat kodein s mukolytiky.**
+
+❓ **Doptají se:**
+- *Proč se nesmí kombinovat kodein s mukolytikem?* → Kodein potlačuje kašlací reflex, mukolytikum naopak zvyšuje tvorbu hlenu, který by se pak nedal vykašlat.
+- *Jaký lék je zároveň mukolytikum i antidotum při otravě paracetamolem?* → N-acetylcystein.
+
+---
