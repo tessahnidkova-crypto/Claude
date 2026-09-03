@@ -2397,3 +2397,312 @@ Cílem léčby je obnovit rovnováhu mezi excitační (cholinergní) a chybějí
 - *Kolik procent dopaminu musí ve striatu chybět, aby se nemoc klinicky projevila?* → 80 %.
 
 ---
+
+## 55 · Neuroleptika (antipsychotika)
+
+**O čem to je:** Léky na psychózu — nemoc, kde člověk vnímá věci, které nejsou reálné (halucinace), nebo věří věcem, které nejsou pravda (bludy). Fungují tak, že blokují dopaminové receptory, ale právě proto mají spoustu vedlejších účinků, protože dopamin v mozku dělá i jiné věci než jen "spouštět psychózu".
+
+**Antipsychotika = neuroleptika** (dřív "velké trankvilizéry") jsou léky primárně na psychotické poruchy. **Psychóza** = závažná duševní nemoc s poruchou myšlení (bludy) a vnímání (halucinace).
+
+Název "neuroleptikum" pochází ze stavu, který tyto látky vyvolávají — neuroleptický syndrom: extrapyramidové a vegetativní příznaky, útlum a minimální zájem o okolí (konkrétně: svalová ztuhlost, vysoký tlak, tachykardie, porucha vědomí, sucho v ústech, pokles tlaku při vstávání). Starší název "velké trankvilizéry" vyjadřoval, že dokázaly zklidnit i velmi neklidné pacienty.
+
+**Neuroleptika jsou antagonisté dopaminových receptorů.** Efekt: antipsychotický, protiagresivní, zklidňující, celkový psychický i motorický útlum (apatie, ospalost). Proč nastupuje antipsychotický efekt až po týdnech, není úplně jasné — hlavní roli hraje blokáda dopaminových i serotoninových (5-HT2, 5-HT6) receptorů.
+
+**Čtyři dopaminergní dráhy — z nich plyne úplně všechno, co se v otázce ptají:**
+
+| Dráha | Co způsobí zablokování |
+|---|---|
+| Mezolimbický systém | **samotný žádoucí antipsychotický efekt** |
+| Nigrostriatální systém | parkinsonismus a extrapyramidové příznaky (nechtěný vedlejší efekt) |
+| Area postrema | antiemetický efekt (proti zvracení) |
+| Tuberoinfundibulární systém | zvýšený prolaktin, poruchy hormonů |
+
+Neuroleptika blokují i další receptory, odtud další nežádoucí účinky:
+
+| Blokovaný receptor | Efekt |
+|---|---|
+| α1 | sympatolytické účinky, pokles tlaku při vstávání, závratě, sexuální poruchy, ucpaný nos, víc chuti k jídlu |
+| Muskarinový | sucho v ústech, retence moči, zácpa, rozšířená zornice, tachykardie, horší učení a paměť |
+| H1 (histaminový) | ospalost, víc chuti k jídlu |
+| 5-HT2 + dopaminové | vlastní antipsychotický efekt, tlumí agresivitu |
+
+Klinicky se používají jak v psychiatrii (schizofrenie, agitovanost, agrese, úzkost), tak mimo ni (antiemetikum, hypnotikum, součást anestezie).
+
+**Typická antipsychotika (1. generace).** Antipsychotický efekt se projeví až po týdnech až měsících podávání. Indikace: léčba psychózy, psychosomatická onemocnění s částečně psychogenním původem (astma, arytmie, hypertenze — jen když jiné léky nefungují), antiemetikum v terminálních stavech.
+
+| Podskupina | Zástupci |
+|---|---|
+| Sedativní | levomepromazin; **chlorpromazin — první antipsychotikum vůbec**, původně antihistaminikum I. generace se silným sedativním efektem |
+| Incizivní | převažují extrapyramidové účinky a vysoký prolaktin: flufenazin (i.m. jednou za 4 týdny), perfenazin, **haloperidol — dobrá snášenlivost, nízká cena, nejpoužívanější**, droperidol |
+
+**Atypická antipsychotika (2. generace) — čím se liší, jádro otázky:** mají nízký výskyt extrapyramidových účinků, širší spektrum efektu — kromě **pozitivních** příznaků (halucinace, bludy, agrese) tlumí i **negativní** příznaky (autismus, hypobulie = nedostatek pevné vůle, oploštění emocí). Jsou lépe snášená, mají méně sexuálních dysfunkcí a nižší riziko neuroleptického syndromu.
+
+*(Vsuvka pro pochopení: extrapyramidové syndromy se dělí na hypokinetické — zpomalení až úplná neschopnost pohybu, svalová ztuhlost — a hyperkinetické — třes, mimovolní pohyby, tiky, dystonie.)*
+
+| Skupina | Charakteristika a zástupci |
+|---|---|
+| Selektivní D2 antagonisté | bez vazby na jiné receptory v CNS; vysoká afinita k D2 v tuberoinfundibulární oblasti → vysoký prolaktin (mléko mimo kojení, sexuální dysfunkce). Sulpirid, amisulprid — schizofrenie, dá se využít i na podporu tvorby mléka u kojících žen. Tiaprid — u schizofrenie se efekt neprokázal, má zklidňující efekt, používá se u poruch chování dětí s agitovaností a agresivitou |
+| SDA (serotonin-dopaminoví antagonisté) | vyšší poměr blokády 5-HT2 než D2; akutní i udržovací léčba schizofrenie a psychotických/manických příznaků u schizoafektivní poruchy. Risperidon, paliperidon, loxapin |
+| MARTA (multireceptoroví antagonisté) | jako SDA, navíc vysoká afinita k histaminovým receptorům → sedace a nárůst hmotnosti. Klozapin, olanzapin |
+| Parciální dopaminoví agonisté | při nadbytku dopaminu se chovají jako antagonisté, při nedostatku jako agonisté — "stabilizátory dopaminu". Aripiprazol, má i antidepresivní efekt, u schizofrenie a manických epizod dospělých i dospívajících |
+
+🔑 **Mezolimbická dráha = žádoucí efekt, nigrostriatální = nechtěný extrapyramidový efekt.**
+
+❓ **Doptají se:**
+- *Proč mají typická antipsychotika víc extrapyramidových příznaků než atypická?* → Silněji blokují nigrostriatální dráhu.
+- *Co znamená, že atypika léčí i negativní příznaky schizofrenie?* → Kromě halucinací a bludů zlepšují i apatii, oploštělé emoce, sociální stažení.
+
+---
+
+## 56 · Antidepresiva — tricyklická (TCA), inhibitory MAO
+
+**O čem to je:** Deprese souvisí s nedostatkem přenašečů nálady v mozku (serotonin, noradrenalin, dopamin) — antidepresiva jejich množství různými cestami zvyšují. Tahle otázka pokrývá dvě nejstarší skupiny: tricyklika (hodně nežádoucích účinků, ale účinná) a IMAO (dnes skoro nepoužívané kvůli nebezpečným interakcím).
+
+**Deprese** je heterogenní skupina onemocnění s různou patofyziologií, ne jedna jasně daná nemoc.
+
+| Skupina příznaků | Projevy |
+|---|---|
+| Psychické | porucha nálady, nezájem, ztráta energie, podceňování se, pocity viny, **sebevražedné myšlenky** |
+| Somatické | menší chuť k jídlu, sexuální poruchy, zácpa, poruchy spánku, únava, nepravidelná menstruace, **suchost sliznic** |
+| Behaviorální | psychomotorické zpomalení, pláč, vyhýbání se lidem, sebepoškozování |
+| Kognitivní | horší soustředění, nerozhodnost, zpomalené reakce, horší výkonnost |
+| Psychotické | bludy, halucinace |
+
+Postižené struktury: prefrontální kůra, amygdala a hipokampus, limbický systém, bazální ganglia, thalamus.
+
+**Molekulární podstata:** dochází k úbytku přenašečů (NA, dopamin, serotonin), nerovnováze vůči konkurenčním přenašečům a k tomu, že si receptory "sníží citlivost" (downregulace) — takže stejné množství přenašeče pak vyvolá slabší signál. Na buněčné úrovni antidepresiva ovlivňují i tvorbu bílkovin.
+
+Společný princip antidepresiv: **zvýšit nabídku monoaminů** (především serotoninu, NA, částečně dopaminu), a to třemi cestami: ① blokáda zpětného vychytávání, ② zpomalení odbourávacích enzymů, ③ přímé působení na receptory (blokáda těch presynaptických, které regulují výdej, a aktivace postsynaptických). Indikace: deprese a úzkostné poruchy, klinicky i nespavost, bolest, závislosti.
+
+**Tricyklická antidepresiva (TCA)** — nejstarší, dobrý efekt, ale špatně snášená s hodně NÚ. Účinek nastupuje po 2–4 týdnech. Mechanismus: blokáda zpětného vychytávání noradrenalinu i serotoninu.
+
+**NÚ podle blokovaného receptoru — takhle je odvoď, nešprtej seznam nazpaměť:**
+- **Muskarinové** → delirium, poruchy paměti, zácpa, sucho ve sliznicích, retence moči, poruchy zaostřování oka.
+- **Adrenergní** → reflexní tachykardie, pokles tlaku při vstávání, závratě.
+- **Histaminové** → sedace, ospalost, přibírání na váze díky vyšší chuti k jídlu.
+
+Procházejí placentou i do mateřského mléka. **Kontraindikace: alkohol** — může potencovat efekt a vést k toxickému útlumu dechu. **Jsou kardiotoxická, vysoká úmrtnost při předávkování.** Náhlé vysazení → syndrom z odnětí (závratě, nauzea, třes, sebevražedné myšlenky) a rebound fenomén. Zástupci: imipramin, amitriptylin, klomipramin, dibenzepin, nortriptylin.
+
+**Inhibitory MAO — antidepresiva 1. generace.** MAO A (v mitochondriích neuronů a střev) odbourává všechny monoaminy; MAO B (převážně v mozku) je aktivnější v odbourávání dopaminu.
+
+> **Dvě interakce, kvůli kterým se IMAO téměř nepoužívají:**
+> ① s potravinami bohatými na tyramin (zrající sýry, jogurty) → hypertenzní krize
+> ② s léky zvyšujícími obrat serotoninu → serotoninový syndrom
+
+V praxi se využívají jen minimálně. Dřív ireverzibilní neselektivní (tranylcypromin, fenelzin) nebo selektivní (selegilin). **Dnes se používá jen reverzibilní inhibitor MAO A: moklobemid** — málo účinný, u depresivní poruchy a sociální fobie. Kinetika: maximální koncentrace do 1,5 h po podání ústy, rychle a téměř úplně se metabolizuje. NÚ: nespavost, pokles tlaku při vstávání, závratě, syndrom z vysazení.
+
+🔑 **TCA = kardiotoxická, nebezpečná při předávkování. IMAO = nebezpečné interakce se sýrem a serotoninergními léky.**
+
+❓ **Doptají se:**
+- *Proč se IMAO dnes skoro nepoužívají?* → Riziko hypertenzní krize při jídle bohatém na tyramin a serotoninového syndromu při kombinaci s jinými serotoninergními léky.
+- *Jaký je hlavní bezpečnostní problém TCA?* → Kardiotoxicita, vysoká letalita při předávkování.
+
+---
+
+## 57 · Antidepresiva — SSRI, SNRI a atypická
+
+**O čem to je:** Novější generace antidepresiv, dnes lék první volby na depresi i úzkost. Fungují cíleněji než tricyklika, takže mají méně nežádoucích účinků — proto se prosadily jako standard.
+
+**SSRI — antidepresiva III. generace.** Selektivní inhibitory zpětného vychytávání serotoninu — nejrozšířenější skupina antidepresiv, **lék první volby** u deprese a úzkosti, i u sexuálních poruch (předčasná ejakulace). Mechanismus: selektivně blokují transportér serotoninu → víc serotoninu zůstává v synapsi k působení na receptory.
+
+Proč se prosadily: dobrá účinnost, snášenlivost, bezpečnost při předávkování, **nezvyšují hmotnost**, širší využití — deprese, úzkostné poruchy, obsedantně-kompulzivní porucha, posttraumatická stresová porucha, bulimie. Antidepresivní efekt se může projevit až s odstupem, až 3 týdny. Vážou se na plazmatické bílkoviny a kompetitivně blokují CYP450 → řada lékových interakcí.
+
+NÚ: nevolnost, průjem, sexuální dysfunkce, lékové interakce, **zvýšená krvácivost z horní části GIT**.
+
+> **Dvě zkratky, které musíš umět:**
+> **Syndrom z vysazení — FINISH:** **F**lu-like příznaky (jako chřipka) · **I**nsomnia (nespavost) · **N**ausea (nevolnost) · **I**mbalance (nerovnováha) · **S**ensory disturbances (poruchy čití) · **H**yperarousal (přehnaná úzkost/podráždění)
+> **Serotoninový syndrom:** nevolnost, křeče, třes, tachykardie, horečka, pocení, zmatenost.
+
+Zástupci: fluoxetin, sertralin, citalopram, fluvoxamin, paroxetin.
+
+**SNRI — antidepresiva IV. generace.** Selektivní inhibitory zpětného vychytávání serotoninu i noradrenalinu. Indikace: depresivní porucha, hypersomnie, chronická bolest. Ukončení musí být postupné — hrozí příznaky z vysazení včetně úzkosti. NÚ: pokles sexuálních funkcí, GIT potíže. Venlafaxin — prochází do mateřského mléka; milnacipran; duloxetin — také prochází do mléka a navíc má analgetický efekt.
+
+**Atypická antidepresiva** — smíšená skupina s různými mechanismy:
+
+| Léčivo | Mechanismus a zvláštnosti |
+|---|---|
+| Bupropion | selektivní inhibitor zpětného vychytávání noradrenalinu a dopaminu; nižší riziko NÚ a intoxikace; **využívá se i k léčbě závislosti na nikotinu**. NÚ: nervozita, třes, křeče |
+| Reboxetin, atomoxetin | selektivní inhibitory zpětného vychytávání noradrenalinu, slabší antidepresivní efekt; **atomoxetin se používá na ADHD** |
+| Trazodon, nefazodon | selektivní inhibitor zpětného vychytávání serotoninu, méně NÚ; v nízké dávce fungují i jako anxiolytika a hypnosedativa |
+| Mirtazapin | antagonista adrenergních α2 a serotoninových receptorů; antidepresivní, sedativní i anxiolytický efekt, **rychlá odpověď** — hodí se pro těžší deprese spojené s úzkostí. NÚ: sexuální dysfunkce, přibírání na váze |
+
+🔑 **SSRI = dnešní lék volby, bezpečný při předávkování. TCA/IMAO = starší, účinná, ale riziková.**
+
+❓ **Doptají se:**
+- *Co znamená zkratka FINISH?* → Syndrom z vysazení SSRI: flu-like příznaky, insomnie, nauzea, nerovnováha, senzorické poruchy, hyperarousal.
+- *Jaký lék z atypických antidepresiv se používá na odvykání kouření?* → Bupropion.
+
+---
+
+## 58 · Anxiolytika, stabilizátory nálady
+
+**O čem to je:** Dvě propojená témata — léky na kolísání nálady u bipolární poruchy (především lithium) a léky proti úzkosti, spolu s přehledem, jaké typy úzkostných poruch vlastně existují.
+
+**Bipolární porucha** = epizodické, často doživotní psychické onemocnění. Příčina není přesně známá, velkou roli hraje dědičnost.
+
+| Typ | Výskyt | Projev |
+|---|---|---|
+| I | 1 % populace | depresivní a plně vyjádřené manické epizody |
+| II | 5 % populace | depresivní a jen ojedinělé hypomanické (mírnější) epizody |
+
+Manická epizoda: zvýšená aktivita, nadnesená nálada, přehnané sebevědomí, bludy o mimořádných schopnostech, podrážděnost může vést až k agresi a násilí. Smíšená epizoda: podrážděnost, unavitelnost, úzkost, sebevražedné myšlenky, impulzivita.
+
+**Stabilizátory nálady (thymostabilizéry)** — cílem je rychle ovlivnit agitovanost a agresi.
+
+> **Lithium — dlouhodobě používaný lék.** Mechanismus účinku není přesně znám. **Snižuje riziko sebevraždy.** NÚ (lze zmírnit formou s prodlouženým uvolňováním): třes rukou, časté močení, žíznivost, GIT potíže, horší paměť, riziko snížené funkce štítné žlázy. **Lékové interakce mohou být až život ohrožující** — např. současné podání thiazidových diuretik (zvyšují hladinu lithia do toxických hodnot).
+
+Ostatní léky se stabilizujícím efektem na náladu (s lithiem mají aditivní účinek): antiepileptika (valproát, lamotrigin), antipsychotika (olanzapin, aripiprazol).
+
+**Úzkostné poruchy** jsou nejčastější ze všech duševních poruch. **Úzkostná porucha** = kombinace psychických a somatických projevů úzkosti, buď v záchvatech, nebo trvale. **Úzkost** = nepříjemný emoční stav, jehož reálnou příčinu lze těžko určit — člověk má obavy z ohrožení, domýšlí si nebezpečí, má nepřiměřený strach. **Fobie** = na rozdíl od úzkosti si člověk uvědomuje, že strach je nepřiměřený, ale přesto mu podléhá — tenhle rozdíl chtějí slyšet.
+
+Pacienti přicházejí k lékaři často se somatickými potížemi — poruchy spánku, bušení srdce, tachykardie, dušnost, vnitřní neklid. Neléčená úzkost může zchronicknout, přejít v depresi a vést k sebevraždě.
+
+| Porucha | Definice |
+|---|---|
+| Panická porucha | intenzivní záchvat úzkosti bez objektivního nebezpečí |
+| Agorafobie | strach z míst/situací, odkud je těžký únik nebo není dostupná pomoc |
+| Sociální fobie | strach ze situací, kde může být člověk posuzován druhými |
+| Specifické fobie | z létání, výšek, bouřky, pavouků, myší |
+| Generalizovaná úzkostná porucha | trvalá obecná úzkost, negativní očekávání, napětí |
+| Obsedantně-kompulzivní porucha | nutkavé myšlenky (obsese), kterým se pacient snaží čelit nutkavými úkony/rituály (kompulzemi) — např. strach z kontaminace + kompulzivní mytí rukou |
+| Posttraumatická stresová porucha | po extrémně stresující traumatické události, trvalé znovuprožívání a pocit odpovědnosti |
+
+**Anxiolytika nemají antipsychotický efekt** (na rozdíl od neuroleptik z O55).
+
+| Skupina | Klíčové body |
+|---|---|
+| Benzodiazepiny (alprazolam, klonazepam, diazepam) | efekt: anxiolytický, hypnosedativní, amnestický, myorelaxační. Dnes odklon od jejich užívání kvůli riziku závislosti a syndromu z vysazení (zmatenost, dezorientace, poruchy paměti). **Nebezpečná kombinace s alkoholem → útlum dechového centra** |
+| Antidepresiva — hlavně SSRI | lepší poměr přínos/riziko; zvyšují nabídku serotoninu; účinná u všech úzkostných poruch kromě specifických fobií. Fluoxetin, citalopram, sertralin, klomipramin, paroxetin |
+
+**Augmentace** (přidání dalšího léku, když první léčba nefunguje): antiepileptika (gabapentin, pregabalin, tiagabin, kyselina valproová), antipsychotika (olanzapin), antihistaminika (hydroxyzin), betablokátory, guaifenesin.
+
+🔑 **Fobie = víš, že je to nepřiměřené, ale přesto se bojíš. Úzkost obecně = nevíš proč se bojíš.**
+
+❓ **Doptají se:**
+- *Jaký je rozdíl mezi bipolární poruchou typu I a II?* → Typ I má plně vyjádřenou manickou epizodu, typ II jen mírnější hypomanickou.
+- *Proč je nebezpečná kombinace thiazidových diuretik s lithiem?* → Zvyšují jeho hladinu v krvi až k toxicitě.
+
+---
+
+## 59 · Farmakoterapie Alzheimerovy choroby, nootropika
+
+**O čem to je:** Alzheimerova choroba ničí paměť a myšlení tím, že se v mozku hromadí škodlivá bílkovina a odumírají neurony, které používají acetylcholin. Léky proto buď šetří zbylý acetylcholin (nejúčinnější přístup), nebo tlumí jiný přenašečový systém (memantin).
+
+**Alzheimerova choroba** = neurodegenerativní onemocnění s postupující poruchou paměti, ztrátou prostorové orientace, ztrátou intelektuálních a sociálních dovedností, emoční nestabilitou, agitovaností, úzkostí, depresí nebo agresivitou a narušeným cyklem spánek-bdění.
+
+**Patologie — dvě věci, které musíš říct:**
+① Ubývají neurony hlavně v hipokampu a předním mozku, kde se hromadí nerozpustná bílkovina **beta-amyloid** v podobě plaků **mimo buňky**.
+② Nejvýrazněji je poškozená **cholinergní** aktivita v oblastech mozku důležitých pro paměť a myšlení — z tohoto bodu vychází celá léčba.
+
+**Kognitiva** — ovlivňují pozornost i paměť; jde o inhibitory enzymů, které odbourávají acetylcholin (AChE a BuChE).
+
+| Léčivo | Zvláštnosti |
+|---|---|
+| Rivastigmin | blokuje oba enzymy (AChE i BuChE) po dobu 10 h, selektivně v kůře a hipokampu. NÚ: GIT potíže |
+| Galantamin, donepezil | selektivní blokátory jen AChE; výraznější efekt u počínajícího onemocnění |
+| Memantin | nekompetitivní antagonista glutamátových NMDA receptorů; mírné zlepšení kognice a zpomalení postupu nemoci; indikován u středně závažných forem; v kombinaci s AChE-inhibitory má aditivní efekt |
+
+⚠️ **Přínos vitaminu E (tokoferolu) a extraktu Ginkgo biloba se v kontrolovaných studiích neprokázal** — tuhle větu řekni, je to typická doplňující otázka.
+
+**Nootropika** = chemicky různorodá skupina léčiv, o kterých se soudí, že na buněčné úrovni zvyšují obrat kyslíku a glukózy v mozku a ruší místní spasmy. Klinicky mají příznivě ovlivňovat poruchy vědomí, pozornosti a paměti, **ale jejich účinek dodnes nebyl prokázán randomizovanou studií**. Zástupci: vinpocetin, piracetam; mezi nootropika se řadí i vazodilatační léky (flunarizin, cinnarizin, pentoxifylin). Jejich dřívější časté použití dnes nahradily AChE-inhibitory.
+
+🔑 **Beta-amyloid = strukturální problém, cholinergní deficit = funkční problém, který léčíme.**
+
+❓ **Doptají se:**
+- *Co je hlavní patofyziologický nález u Alzheimerovy choroby?* → Extracelulární plaky beta-amyloidu a ztráta cholinergních neuronů.
+- *Prokázal se přínos Ginkgo biloba?* → Ne, v kontrolovaných studiích ne.
+
+---
+
+## 60 · Opium a jeho alkaloidy
+
+**O čem to je:** Opioidy jsou nejsilnější analgetika, jaká máme — vycházejí z opia (šťávy z máku). Otázka pokrývá typy receptorů, celý balík účinků (i těch nechtěných) a detailně morfin jako referenční lék.
+
+**Bolest** = nepříjemný subjektivní vjem, nejčastěji reakce na poškození tkání (nociceptivní bolest), méně často způsobená poškozením nervů (neuropatická bolest); jindy už původní podnět neexistuje, ale bolest přetrvává (fantomová bolest po amputaci). **Farmakoterapie bolesti je vždy jen symptomatická** — uleví, ale neřeší příčinu.
+
+**Opioidní analgetika** tlumí bolest středně silné až silné intenzity (pooperační stav, trauma, infarkt, nádory). **Nepůsobí hypnoticky a nevyvolávají ztrátu vědomí** — sedace je jen vedlejší efekt. **Opium** = zaschlá šťáva z nezralých makovic máku, obsahuje alkaloidy s analgetickým účinkem — morfin, kodein.
+
+**Tři typy opioidních receptorů**, všechny napojené na G-proteiny:
+
+| Receptor | Účinky |
+|---|---|
+| μ (mí) | analgezie, útlum dýchání, sedace, euforie, fyzická závislost |
+| δ (delta) | analgezie na periferii |
+| κ (kappa) | analgezie na míšní úrovni, sedace, dysforie |
+
+Podle vztahu k receptorům: **plní agonisté** — morfin, kodein, metadon, pethidin, fentanyl, sufentanil; **parciální a smíšení agonisté-antagonisté** — nalbufin, butorfanol, buprenorfin; **antagonisté** — naloxon, naltrexon, nalmefen.
+
+**Sedm účinků opioidů — odříkej je:**
+- **analgezie** (hlavně přes μ)
+- **psychotropní** — euforie, potlačení úzkosti
+- **útlum dýchání** — snížením citlivosti dechového centra na CO₂, upravuje se naloxonem
+- **antitusický** — potlačení kašle, výrazné u kodeinu
+- **GIT a močové cesty** — zácpa, vzestup tlaku ve žlučových cestách, retence moči, nauzea a zvracení
+- **mióza** — "špendlíkové zorničky", typický příznak pro diagnózu intoxikace i lékové závislosti
+- **lokální uvolnění histaminu** — pokles tlaku, kopřivka v místě vpichu, bronchokonstrikce
+
+⚠️ **Tolerance se vyvíjí na analgetický i nežádoucí efekt — S VÝJIMKOU ZÁCPY A MIÓZY** (ty přetrvávají i při dlouhodobém užívání). Klasická chytačka u zkoušky.
+
+Slabé opioidy (kodein, tramadol, dihydrokodein, piritramid) — na chronickou nenádorovou bolest (artritida, osteoartróza, neurodegenerativní nemoci). Silné opioidy (morfin, oxykodon, fentanyl) — akutní silná bolest, chronická nádorová bolest; fentanyl navíc na tzv. průlomovou bolest. KI: současné podání centrálně tlumivých látek (hypnotika, sedativa, alkohol), antidepresiva (SSRI riziko serotoninového syndromu, IMAO riziko nebezpečně vysoké teploty).
+
+Endogenní opioidy (které si tělo tvoří samo): endorfiny, enkefaliny, dynorfin, endomorfin — vznikají v nervové tkáni, mají regulační funkci a fungují podobně jako exogenní opioidy na míšní úrovni.
+
+**Morfin — standardní a referenční léčivo silné bolesti.** I.v. na akutní bolest, ústy s postupným uvolňováním na chronickou. Silný analgetický efekt díky agonistickému působení na μ a κ receptory → analgezie, euforie, mióza, útlum dechu, bradykardie, méně pohybu střev. Kinetika: po podání ústy se rychle vstřebá, proniká HEB, je silně ovlivněn first-pass efektem v játrech. Metabolizuje se glukuronidací a N-demetylací → vznikají morfin-3-glukuronid a morfin-6-glukuronid, které mají **delší poločas a jsou farmakologicky aktivní** (tedy stále účinkují). Vylučuje se ledvinami, prochází placentou — před porodem může utlumit dech novorozence. **Předepisuje se na recept s modrým pruhem (tabulka I).**
+
+Intoxikace: účinek vrcholí za 2–3 h; euforie, mióza, pokles tlaku, bradykardie, svědění, nauzea, zvracení, zácpa; při předávkování útlum vědomí a dechu, smrt. Léčba: naloxon a naltrexon.
+
+**Heroin (diacetylmorfin)** se podává i.v. po nahřátí na lžíci, nebo kouřením. Akutní intoxikace: po i.v. intenzivní euforie ("rush"), pak nauzea a zvracení, dál pocit tepla, otupění, blaženosti. Při vyšetření zornice **zúžené** ("špendlíkové hlavičky"). Léčba: při požití ústy aktivní uhlí, kyslík, plicní ventilace; i.v. naloxon — **po jeho podání se okamžitě objeví abstinenční příznaky** (horečka, křeče, průjem). Abstinenční příznaky: slzení, výtok z nosu, **rozšířená zornice** (mydriáza — pozor, opak toho, co je při intoxikaci!), tachykardie, třes, neklid, horečka, křeče; začínají v čase, kdy by si narkoman dal další dávku.
+
+🔑 **Intoxikace = zúžená zornice. Abstinenční syndrom = rozšířená zornice.** Snadno se to plete, je to opak.
+
+❓ **Doptají se:**
+- *Na které dva nežádoucí účinky opioidů se tolerance nevyvíjí?* → Zácpa a mióza.
+- *Jaký je rozdíl v zornici mezi intoxikací a abstinencí opioidy?* → Intoxikace = mióza (zúžená), abstinence = mydriáza (rozšířená).
+
+---
+
+## 61 · Deriváty a náhražky morfinu
+
+**O čem to je:** Morfin má řadu "příbuzných" — syntetické látky navržené tak, aby buď účinkovaly rychleji/déle, nebo měly menší riziko závislosti, nebo šly použít jako antidotum.
+
+**Silná syntetická opioidní analgetika** — afinita hlavně k μ receptorům, na silné bolesti.
+
+| Léčivo | Klíčové body |
+|---|---|
+| Pethidin | podobný morfinu, ale kratší účinek (4 h), rychlejší nástup, víc rozpustný v tucích; vyvolává euforii i dysforii, spavost, letargii. Nejčastěji i.m. u pooperační bolesti. **Nevhodný pro dlouhodobou léčbu** — hromadí se toxický metabolit |
+| Metadon | substituční léčba psychické závislosti na opioidech (heroinu) — zabraňuje abstinenčním příznakům |
+| Fentanyl | silná chronická bolest; analgeticky silnější než morfin; podává se i.v. |
+| Sufentanil | používaný v anesteziologii — rychlý nástup, silný krátký intenzivní analgetický efekt |
+| Oxykodon | ústy s postupným uvolňováním, silná chronická bolest; vhodný i při selhávání ledvin |
+
+**Slabá opioidní analgetika** mají slabý μ-agonistický efekt. **Stropový efekt** — pojem, který musíš vysvětlit: po dosažení maximální dávky další navyšování už nezvýší analgetický efekt, jen NÚ. To je jejich hlavní praktické omezení.
+
+| Léčivo | Klíčové body |
+|---|---|
+| Kodein | dostupný na běžný recept; asi 10 % dávky se metabolizuje na morfin; antitusický efekt a tlumí bronchiální sekreci; jako analgetikum se často kombinuje s jinými léky |
+| Dihydrokodein | asi 1/6 účinku morfinu; v kombinaci s neopioidními analgetiky |
+| Tramadol | atypický opioid — nižší afinita k μ receptorům, na účinku se podílejí i neopioidní mechanismy (blokáda zpětného vychytávání NA a serotoninu). 6× slabší efekt než morfin, ale **nevyvolává zácpu ani netlumí dýchání** |
+
+**Antagonisté morfinu** — blokují všechny typy opioidních receptorů.
+
+| Léčivo | Klíčové body |
+|---|---|
+| Naloxon | kompetitivní antagonista na všech typech receptorů; kvůli rychlému rozkladu při prvním průchodu játry se dá podat **jen i.v.**; **lék první volby u útlumu dechu z intoxikace** opioidy, barbituráty, benzodiazepiny nebo alkoholem; nemá riziko závislosti |
+| Naltrexon | výhradně ústy; doplňková léčba závislosti na opioidech i alkoholu |
+| Metylnaltrexon | selektivní antagonista jen na **periferních** μ-receptorech (do mozku se nedostane) — navržen tak, aby zrušil **jen zácpu, ne analgezii** |
+
+**Parciální agonisté (dualisté) a smíšení agonisté-antagonisté** — vznikli ve snaze získat účinná analgetika bez rizika drogové závislosti. Vyvolávají hlavně spinální analgezii přes κ receptory, na μ receptory nemají žádnou nebo jen minimální aktivitu. Analgetický efekt je nižší než u plných agonistů, uplatňuje se stropový efekt, ale nižší riziko závislosti. Mírná zácpa, ve vyšších dávkách zvracení, sedace, psychomimetické účinky.
+
+| Léčivo | Profil |
+|---|---|
+| Buprenorfin | parciální agonista μ a antagonista κ; kvůli výraznému first-pass efektu se podává i.v. nebo transdermálně; akutní i chronická bolest |
+| Nalbufin | agonista κ a antagonista μ; minimální riziko závislosti; nepůsobí na GIT ani močové cesty |
+| Pentazocin | agonista κ a δ, antagonista μ; není ideální analgetikum — aktivace δ receptorů vyvolává halucinace |
+
+🔑 **Naloxon = antidotum (i.v. jen), naltrexon = udržovací léčba závislosti (ústy).**
+
+❓ **Doptají se:**
+- *Proč se metylnaltrexon nepoužívá jako obecné antidotum?* → Působí jen na periferní μ-receptory (nedostane se přes HEB), zruší jen zácpu, ne analgezii ani útlum dechu.
+- *Co znamená stropový efekt?* → Po dosažení maximální dávky se analgetický efekt dál nezvyšuje, jen přibývají NÚ.
+
+---
