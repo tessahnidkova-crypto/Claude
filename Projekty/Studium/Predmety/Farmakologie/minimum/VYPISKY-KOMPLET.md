@@ -3113,3 +3113,160 @@ Dál se přidává protidestičková léčba.
 - *Jaký je hlavní rozdíl v léčbě stabilní vs. nestabilní anginy pectoris?* → Stabilní = antianginózní léčiva (uleví bolesti), nestabilní = protisrážlivá léčba (řeší hrozící trombózu a infarkt).
 
 ---
+
+## 74 · Antihypertenziva
+
+**O čem to je:** Léky na vysoký tlak jsou skoro vždy jen symptomatická léčba — neřeší příčinu (u 95 % pacientů se ani přesná příčina nezná), ale brání dlouhodobému poškození cév a orgánů. Otázka je hlavně o tom, jaké skupiny léků existují a jaké mají typické NÚ/kontraindikace.
+
+**Arteriální hypertenze** = trvalé zvýšení tlaku nad 140/90 mm Hg. V 95 % jde o **primární** hypertenzi u dospělých nad 40 let bez zjevné příčiny; **sekundární** hypertenze vzniká jako důsledek jiné nemoci (např. postižení ledvinných cév, nadměrná tvorba aldosteronu). Kardiovaskulární nemoci ročně způsobí smrt 17 milionů lidí; hypertenze je nejčastější rizikový faktor cévní mozkové příhody a onemocnění věnčitých tepen.
+
+První příznaky hypertenze: zvýšený minutový výdej, vzestup periferního odporu, změny stěn tepének a orgánové tkáně.
+
+**Vztah hypertenze a aterosklerózy je oboustranný — bludný kruh.** Hypertenze vyvolá poruchu funkce endotelu → ta naopak přispívá k dalšímu zvyšování tlaku (vede k převaze vazokonstrikčních látek a útlumu NO a prostaglandinů). Vysoký tlak navíc může způsobit rupturu aterosklerotického plátu.
+
+**Metabolický syndrom** = soubor faktorů podporujících aterosklerózu a kardiovaskulární i mozkovou nemocnost — zahrnuje hypertenzi + obezitu + cukrovku 2. typu. Léčba metabolického syndromu je **nefarmakologická**: pravidelný životní režim, prevence stresu, vyvážená strava, méně soli a živočišných tuků, pohyb, žádné kouření ani nadměrný alkohol.
+
+Farmakologická léčba hypertenze **není kauzální** — jejím smyslem je oddálit aterosklerotické změny a poškození orgánů. Antihypertenziva snižují tlak třemi mechanismy: ① rozšíření tepének a žil, ② snížení kontraktility a frekvence srdce, ③ zbavení těla sodíku.
+
+| Základní antihypertenziva (první volba) | Druhá až třetí volba |
+|---|---|
+| ACE inhibitory, sartany, blokátory kalciových kanálů, diuretika, betablokátory | antagonisté aldosteronu (spironolakton), přímá vazodilatancia, α1-blokátory, centrálně působící látky |
+
+⚠️ **Kombinace dvou i více antihypertenziv je nutná u přes 70 % pacientů** — jeden lék většinou nestačí.
+
+| Skupina | NÚ | KI |
+|---|---|---|
+| Diuretika | dehydratace, nízký draslík, hypotenze, časté močení | |
+| Betablokátory | únava, poruchy spánku, GIT potíže, studené končetiny, bronchospasmus, sexuální poruchy u mužů | astma, CHOPN, AV blok, bradyarytmie |
+| Blokátory kalciových kanálů | návaly, otoky kotníků, zácpa | AV blok, arytmie |
+| ACE inhibitory | kašel, vysoký draslík, angioedém | těhotenství, vysoký draslík, kardiogenní šok |
+
+**Centrálně působící antihypertenziva:** klonidin a α-metyldopa, rilmenidin a moxonidin. Indikace: **metyldopa — hypertenze v těhotenství**, hypertenze s psychickým napětím, obtížně léčitelná hypertenze.
+
+🔑 **95 % hypertenze je bez zjevné příčiny — léčba je preventivní, ne kauzální.**
+
+❓ **Doptají se:**
+- *Který lék je volbou u hypertenze v těhotenství?* → Metyldopa.
+- *Proč se u většiny pacientů kombinuje víc léků?* → Jeden mechanismus samotný obvykle nestačí, kombinace cílí na víc mechanismů zvyšování tlaku najednou.
+
+---
+
+## 75 · Farmakoterapie aterosklerózy, hyperlipidemie
+
+**O čem to je:** Vysoký cholesterol nebolí, ale tiše poškozuje cévy — proto se léčí preventivně. Statiny jsou dnešní standard, protože blokují klíčový krok ve výrobě cholesterolu přímo v játrech.
+
+| | Definice |
+|---|---|
+| Hyperlipidemie | zvýšená koncentrace lipoproteinů a tuků v krvi |
+| Dyslipidemie | špatný **poměr** mezi jednotlivými druhy tuků/lipoproteinů (i při normálním celkovém množství) |
+
+Dlouho zůstávají nepozorovány, přitom jsou rizikovým faktorem aterosklerózy (věnčitých i periferních tepen, krkavic) a zánětu slinivky. Rizikové faktory: LDL nad 3 mmol/l, rodinná anamnéza ischemické choroby srdeční, vysoký tlak, cukrovka, obezita.
+
+**Referenční hodnoty — čísla se ptají skoro vždy:**
+
+| Lipid | Hranice |
+|---|---|
+| Celkový cholesterol | do 5,2 mmol/l |
+| LDL-cholesterol | do 3 mmol/l |
+| Triacylglyceroly (TAG) | do 1,7 mmol/l |
+
+Nefarmakologická léčba: pohyb, žádné kouření, dieta s omezením kalorií, žádný alkohol.
+
+**Hypolipidemika:**
+
+| Skupina | Mechanismus a zvláštnosti |
+|---|---|
+| Statiny (blokátory 3-HMG-CoA reduktázy) | **lék první volby** ke snížení kardiovaskulárního rizika. Podávají se ústy, dobře se vstřebávají, výrazný first-pass efekt. Simvastatin, lovastatin, pravastatin, fluvastatin, atorvastatin, rosuvastatin. Blokují enzym 3-HMG-CoA reduktázu, který katalyzuje jeden z prvních kroků výroby cholesterolu v játrech; snižují i triglyceridy. NÚ: trávicí potíže, zácpa, bolest hlavy, nespavost, vyšší jaterní enzymy, bolest svalů až **rabdomyolýza** (rozpad svalové tkáně) |
+| Inhibitory PCSK9 | nová skupina — biologická léčba, dvě humánní protilátky: alirokumab, evolokumab. Vážou izoenzym PCSK9 a tím zvýší, kolik LDL tkáně vychytávají z krve. NÚ: reakce v místě vpichu (podává se pod kůži) |
+| Ezetimib | blokuje vstřebávání cholesterolu ve střevě (blokuje transportér v kartáčovém lemu buněk sliznice). Menší nabídka cholesterolu do jater → játra si zvýší počet LDL receptorů → víc LDL se vychytá z krve. Indikace: kombinace se statiny při nedostatečné odpovědi, nebo samostatně u pacientů, kteří statiny netolerují |
+| Fibráty | zvyšují tvorbu lipoproteinové lipázy → rychlejší rozklad triglyceridů a vyšší HDL. Fenofibrát, bezafibrát |
+| Pryskyřice | cholestyramin, kolestipol, kolesevelam — působí jen ve střevě, samy se nevstřebávají; vážou žlučové kyseliny → přeruší jejich koloběh mezi střevem a játry → játra si zvýší počet LDL receptorů. NÚ: trávicí potíže, úporná zácpa, nedostatek vitaminů rozpustných v tucích (protože se vážou i na ně) |
+
+⚠️ Kyselina nikotinová byla z trhu stažena.
+
+🔑 **Statiny = blokují VÝROBU cholesterolu v játrech. Pryskyřice/ezetimib = blokují jeho VSTŘEBÁVÁNÍ nebo koloběh ve střevě.**
+
+❓ **Doptají se:**
+- *Jaký je nejzávažnější svalový NÚ statinů?* → Rabdomyolýza.
+- *Jaký je mechanismus ezetimibu?* → Blokuje transportér cholesterolu ve střevní sliznici, sníží tak jeho vstřebávání.
+
+---
+
+## 76 · Parenterální antikoagulancia
+
+**O čem to je:** Léky proti srážení krve, které se podávají injekčně — hlavně heparin a jeho novější varianty. Fungují tak, že posilují přirozenou "brzdu" srážení, kterou tělo samo má (antitrombin III), místo aby přímo blokovaly srážecí faktory.
+
+**Hemostáza — tři fáze, řekni je na úvod obou antikoagulačních otázek (O76 i O77):**
+
+| Fáze | Děj |
+|---|---|
+| Cévní | okamžitá lokální vazokonstrikce po poranění cévy; rovnováha mezi látkami stahujícími cévu (TXA₂, serotonin z destiček) a rozšiřující ji (PGI₂ z endotelu) |
+| Destičková | destičky se během sekund přilepí na poškozené místo (adheze) a shluknou se (agregace) |
+| Koagulační | krev se dostane do kontaktu s buňkami, které nesou tkáňový faktor a spustí srážení; na povrchu destiček se shromáždí srážecí faktory a spustí tvorbu trombinu |
+
+Vzniká **bílý trombus** (hlavně destičky), který zpomalí průtok a vytvoří podmínky pro **červený trombus** (síť fibrinu zachytávající červené krvinky). Srážení musí zůstat omezené jen na místo poranění — k tomu slouží inhibitory aktivovaných srážecích faktorů: antitrombin III, protein C a S. Velikost výsledného trombu reguluje fibrinolýza (aktivace plazminogenu na plazmin, který fibrin rozštěpí).
+
+**Antitrombotika se dělí na:** protidestičkové léky (brání aktivaci a shlukování destiček), antikoagulancia (hepariny a antitrombiny, léky ústy závislé na vitaminu K), trombolytika (aktivují rozpouštění trombu).
+
+**Heparin — nepřímý inhibitor trombinu a faktoru Xa.** Směs mukopolysacharidů, přirozeně se vyskytuje v mastocytech vnitřních orgánů; komerčně se získává z hovězích plic a vepřové sliznice, biologicky standardizován.
+
+**Mechanismus — nepřímý, přes antitrombin III (ATIII).** Účinek je zprostředkovaný vazbou na ATIII — heparin ho aktivuje a **až 1000× zvýší jeho účinek**. ATIII je přirozená protisrážlivá látka, která inaktivuje trombin a další srážecí faktory (IIa, Xa, IXa, XIIa). Heparin navíc působí i protidestičkově.
+
+Formy: nefrakcionovaný (velká molekula, 5000 Da a víc) × nízkomolekulární LMWH (do 5000 Da). Rezistence na heparin: nedostatek ATIII (1 % populace), zvýšený faktor VIII.
+
+Dávkování se určuje individuálně měřením **APTT** (aktivovaný parciální tromboplastinový čas) — norma 35–45 s, cíl je 2–4násobek této hodnoty. Podává se i.v. buď v intervalech, nebo kontinuální infuzí; nástup okamžitý, trvá 12–18 h; rozděluje se jen v cévním řečišti; **neprochází placentou ani do mléka** (proto je antikoagulans volby v těhotenství); metabolizuje se v játrech, vylučuje ledvinami.
+
+NÚ: krvácení — **antidotum protamin sulfát**; **heparinem indukovaná trombocytopenie (HIT)**: HIT I = benigní, neimunitní; HIT II = imunitní (závažnější); při léčbě delší než 6 měsíců osteoporóza se spontánními zlomeninami. Indikace: krátkodobá antikoagulační léčba akutních stavů, prevence srážení při hemodialýze, příprava nesrážlivé krve pro laboratoř a transfuze.
+
+**LMWH a fondaparinux.** Enoxaparin, bemiparin, dalteparin, nadroparin, parnaparin — v praxi se používají častěji než klasický heparin; posilují ATIII hlavně proti faktoru Xa; **nevyžadují laboratorní monitorování**, efekt je předvídatelnější; podávají se pod kůži 1–2× denně, vylučují se ledvinami. Indikace: profylaxe a léčba tromboembolické nemoci. NÚ: krvácení (protamin sulfát na ně účinkuje jen částečně), trombocytopenie (méně častá než u nefrakcionovaného heparinu).
+
+**Fondaparinux** — synteticky vyrobený pentasacharid; aktivuje antitrombin, ale inhibuje **jen faktor Xa**. Proč zrovna Xa: spojuje obě cesty aktivace srážení (vnitřní se spouští kontaktem s poškozenou cévní stěnou, zevní poškozením tkáně) — faktor Xa pak přemění protrombin na trombin a ten fibrinogen na fibrin.
+
+🔑 **Heparin = nepřímo přes ATIII, potřebuje monitoring (APTT). LMWH = předvídatelnější, bez nutné monitorace.**
+
+❓ **Doptají se:**
+- *Proč je heparin lékem volby v těhotenství?* → Neprochází placentou ani do mateřského mléka.
+- *Co je antidotum heparinu?* → Protamin sulfát.
+- *Proč se LMWH nemusí laboratorně monitorovat, ale klasický heparin ano?* → LMWH má předvídatelnější farmakokinetiku a odpověď na dávku.
+
+---
+
+## 77 · Perorální antikoagulancia
+
+**O čem to je:** Léky proti srážení krve, které se berou ústy — buď nové přímé léky (gatrany, xabany), nebo klasický warfarin, který funguje oklikou přes vitamin K a proto potřebuje pečlivé sledování.
+
+**Přímá perorální antikoagulancia (DOAC):**
+
+| Skupina | Mechanismus a antidotum |
+|---|---|
+| Gatrany — dabigatran | přímo kompetitivně blokují aktivní místo **trombinu**. Účinek trvá jen tak dlouho, jak je látka v krvi; hladiny se běžně nemonitorují. Použití: prevence žilní trombózy po velkých ortopedických operacích, prevence mozkové příhody při fibrilaci síní. **Antidotum: monoklonální protilátka idarucizumab** |
+| Xabany — rivaroxaban, apixaban, edoxaban | přímo kompetitivně blokují aktivní místo **faktoru Xa**; ostatní vlastnosti a indikace stejné jako u gatranů. **Antidotum: andexanet alfa** — rekombinantní forma lidského faktoru Xa bez vlastní enzymatické aktivity, "návnada" |
+
+**Warfarin — antikoagulans závislé na vitaminu K.**
+
+**Mechanismus — odvoď ho celý, jádro otázky.** Warfarin blokuje tvorbu koagulačních faktorů závislých na vitaminu K: protrombin, faktory VII, IX, X a proteiny C a S. Tyto faktory potřebují ke své funkci karboxylaci (přidání karboxylové skupiny) enzymem γ-glutamylkarboxyláza; zdrojem karboxylu je **redukovaná forma vitaminu K**. Regenerace vitaminu K zpátky na aktivní (redukovanou) formu probíhá enzymem vitamin K-reduktáza — **a právě tento enzym warfarin blokuje.** Bez vitaminu K se do krve uvolní jen neúčinné prekurzory faktorů, které neumí vázat vápník (a tím ani fungovat ve srážecí kaskádě). **Účinek warfarinu je patrný jen v živém organismu (in vivo) — ve zkumavce (in vitro) na srážení vliv nemá.**
+
+**Proč se warfarin nasazuje spolu s LMWH — klasická doplňující otázka.** Po zahájení léčby nejdřív klesají **antikoagulační** faktory (proteiny C a S mají kratší poločas než ty prokoagulační) — teprve pak klesají prokoagulační faktory. **V prvních dnech tedy warfarin paradoxně vyvolává mírně HYPERkoagulační stav** — proto se na začátku kombinuje s LMWH, dokud se plně nerozvine skutečný antikoagulační efekt.
+
+Účinek se sleduje protrombinovým časem (Quickův test, vyjádřený jako INR). Léčba je dlouhodobá. Farmakokinetika: rychle a kompletně se vstřebává z GIT, váže se na plazmatické bílkoviny, eliminuje se v játrech přes CYP2C9 (má genetický polymorfismus — u někoho účinkuje jinak silně), prochází placentou a **je teratogenní**, ale neprochází do mléka. NÚ: krvácení — vyžaduje vysazení a podání vitaminu K; kumarinová kožní nekróza (nekróza měkkých tkání z trombózy drobných žil).
+
+**Tabulka antidot:**
+
+| Antidotum | Proti čemu |
+|---|---|
+| Protamin sulfát | heparin; v menší míře i LMWH |
+| Idarucizumab | monoklonální protilátka proti dabigatranu |
+| Andexanet alfa | perorální xabany (rivaroxaban, apixaban, edoxaban) |
+| Vitamin K, čerstvě mražená plazma | warfarin |
+| Ciraparantag | ve fázi klinického zkoušení — multifunkční antidotum, váže se do aktivního místa trombinu i faktoru Xa; blokuje širokou škálu antikoagulancií (gatrany, xabany, heparin a jeho deriváty) |
+
+⚠️ **Pro tebe jako zubařku:** u pacienta na warfarinu se před extrakcí zubu postupuje podle INR, u DOAC podle času od poslední dávky — konkrétní postup je ale věc tvých supervizorů, ne přímo farmakologie. `[obecné znalosti]`
+
+🔑 **Warfarin = oklika přes vitamin K, funguje jen in vivo, na začátku paradoxně hyperkoagulační. DOAC = přímá blokáda konkrétního faktoru, rychlejší nástup, vlastní antidota.**
+
+❓ **Doptají se:**
+- *Proč warfarin nefunguje ve zkumavce?* → Blokuje regeneraci vitaminu K v organismu, ne přímo srážecí kaskádu — bez živého metabolismu nemá na co působit.
+- *Proč se na začátku léčby warfarinem přidává LMWH?* → Protože nejdřív klesají antikoagulační faktory (kratší poločas) a hrozí přechodný hyperkoagulační stav.
+- *Co je antidotum dabigatranu?* → Idarucizumab.
+
+---
