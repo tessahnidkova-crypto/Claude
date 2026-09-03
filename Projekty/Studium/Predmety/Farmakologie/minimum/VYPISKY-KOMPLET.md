@@ -650,3 +650,148 @@ Popisuje **časový průběh koncentrace léčiva v plazmě po mimožilním (ext
 - *Která cesta má nejrychlejší nástup účinku?* → **Inhalační a i.v.** (sekundy až ~2 minuty), sublingvální těsně za nimi.
 
 ---
+
+## O14 · Distribuce léčiv, distribuční objem, vazba léčiv na plazmatické bílkoviny, bariéry v organismu
+
+**O čem to je:** Po vstřebání se léčivo musí "rozvézt" po těle — do krve, pak do tkání. Kolik se ho kam dostane, závisí na tom, jestli se váže na bílkoviny v krvi (jen volná, nenavázaná část je účinná!) a jestli umí projít různými bariérami (do mozku, přes placentu).
+
+**Distribuce** = obousměrný transport léčiva mezi krví a tkáněmi. Závisí na fyzikálně-chemických vlastnostech látky, schopnosti překonávat membrány, schopnosti vázat se na bílkoviny (v krvi i tkáních) a na rychlosti prokrvení orgánů.
+
+**Po rychlém i.v. podání probíhají dvě fáze:**
+- **fáze α (distribuční)** — rychlý počáteční pokles koncentrace v plazmě, protože léčivo se rychle rozptyluje do tkání (dominuje distribuce, ne eliminace); vytváří se rovnováha mezi krví a tkáněmi (koncentrace *volného* léčiva se vyrovná, celkové koncentrace se liší podle míry vazby v jednotlivých tkáních),
+- **fáze β (eliminační)** — koncentrace v plazmě klesá pomaleji; jak ubývá volné léčivo v plazmě, přesouvá se další volné léčivo zpátky z tkání do krve, aby se rovnováha udržela.
+
+**Rychlost distribuce do jednotlivých orgánů:** nejrychleji ledviny, játra, mozek, srdce (dobře prokrvené); nejpomaleji kůže, kosti, tuková tkáň (špatně prokrvené).
+
+### Distribuční objem (Vd)
+
+Je to **zdánlivý** objem (ne skutečný anatomický prostor) — vypočítá se z poměru množství léčiva v těle ku jeho koncentraci v plazmě. Objemy tělesných "kompartmentů" pro srovnání: plazma 0,04 l/kg, krev 0,08 l/kg, extracelulární tekutina 0,2 l/kg, celková tělesná tekutina 0,6 l/kg.
+
+**Čtyři kategorie léčiv podle rozsahu distribuce:**
+
+| Kategorie | Vd | Kam se dostane | Příklad |
+|---|---|---|---|
+| zůstává intravaskulárně | ≤ 0,05 l/kg | jen krev | heparin, manitol, terapeutické proteiny |
+| proniká do intersticia | 0,1–0,3 l/kg | krev + mezibuněčný prostor | aminoglykosidy, polární léčiva |
+| proniká i intracelulárně | 0,4–0,8 l/kg | celková tělesná tekutina | metotrexát |
+| vysoká koncentrace ve tkáních | > 0,8 l/kg | tkáně (víc než celková tělesná voda!) | amiodaron, tricyklická antidepresiva, chlorochin |
+
+🔑 **Čím vyšší Vd, tím víc je léčivo "schované" ve tkáních, a ne v krvi** — proto se takové léčivo nedá dobře odstranit hemodialýzou (ta čistí jen krev).
+
+**Nasycovací dávka** — u léčiv, kde je potřeba **rychlý nástup účinku** (antibiotika, antiepileptika, antiarytmika, antikoagulancia v akutních stavech), se první dávka počítá tak, aby rovnou naplnila celý distribuční objem na terapeutickou koncentraci: **nasycovací dávka = Vd × požadovaná koncentrace**. Platí přesně pro nitrožilní podání, u mimožilního podání se musí navíc zohlednit neúplná biologická dostupnost.
+
+**Vztah k biologickému poločasu:** čím větší distribuční objem, tím **delší** je biologický poločas eliminace (léčivo se musí nejdřív "vrátit" z tkání zpátky do krve, aby se mohlo vyloučit).
+
+**Využití v toxikologii** — u otravy je důležité vědět, kde se toxická látka převážně nachází, aby se zvolila správná metoda odstranění:
+- **hemodialýza** — čistí krev, hodí se na **hydrofilní** látky s nízkým Vd (< 1 l/kg),
+- **hemoperfuze** (účinnější) — hodí se na látky s větším Vd, nízkou koncentrací v krvi (lipofilnější),
+- u léčiv s **velmi vysokým Vd** (hluboko ve tkáních) jsou obě metody málo účinné.
+
+**Bariéry — kam se léčivo obtížně dostane:**
+- **hematoencefalická bariéra (HEB)** — kontinuální endotel s těsnými spoji a výběžky astrocytů; nepropustná pro polární/iontové látky a makromolekuly. Vysoká vazba na plazmatické bílkoviny přestup dál zpomaluje. Propustnost je vyšší **u nezralých novorozenců** (riziko poškození při hyperbilirubinemii) a **při zánětu/infekci** (žádoucí u léčby meningitidy cefalosporiny).
+- **hematolikvorová bariéra** — podobná HEB, limitovaná hlavně těsnými spoji.
+- **placentární bariéra** — přestup z krve matky do plodu probíhá hlavně **volnou difuzí** (nejdůležitější mechanismus), ale i usnadněnou difuzí, aktivním transportem a endocytózou. **Lipofilní léčiva s MH < 600 pronikají snadno**, léčiva s **MH > 1000** nebo s vysokou vazbou na bílkoviny pronikají špatně.
+
+### Vazba léčiv na plazmatické bílkoviny
+
+Důležitá hlavně pro **lipofilní, ve vodě špatně rozpustné** látky. Vazba je **reverzibilní** (slabé síly — elektrostatické, vodíkové můstky, van der Waalsovy síly) a existuje v **dynamické rovnováze** mezi volnou a vázanou formou.
+
+**Volná frakce (fu)** = poměr koncentrace volného léčiva ku celkové koncentraci v plazmě. **Čím nižší fu, tím vyšší vazba.** Při běžných terapeutických dávkách nejsou vazebná místa saturovaná, takže fu zůstává konstantní bez ohledu na dávku — ale u pár léčiv (**sulfonamidy, tolbutamid, valproát, fenytoin**) se vazebná místa mohou saturovat, fu se pak zvýší a koncentrace volného léčiva začne stoupat **rychleji než úměrně dávce** → riziko nežádoucích účinků.
+
+**Kam se léčiva váží** — tři hlavní transportní bílkoviny:
+- **albumin** — váže hlavně **kyselá** léčiva (warfarin, furosemid, NSA),
+- **α1-kyselý glykoprotein** — váže **bazická** léčiva (propranolol, tricyklická antidepresiva),
+- **lipoproteiny** — váží **velmi lipofilní** léčiva (cyklosporin A).
+
+**Tři pásma vazby:** nízká (< 10 %, např. aminoglykosidy, metformin), střední (10–90 %, např. fenytoin, kyselina acetylsalicylová), vysoká (> 90 %, např. warfarin, statiny, diazepam).
+
+**Důsledky vysoké vazby na bílkoviny:**
+- **oddálený nástup a nižší intenzita účinku** — jen volné léčivo prostoupí cévním endotelem k receptoru, vázané ne,
+- **prodloužená eliminace** — ledviny filtrují jen volnou frakci (vázaná se do primární moči nedostane); jaterní eliminace je vazbou ovlivněná méně, ale liší se lék od léku (propranolol má volnou frakci jen 10 %, ale játra ho přesto eliminují z > 90 % — vazba mu eliminaci neomezuje; u **warfarinu** je to naopak — jeho pomalá jaterní eliminace přesně odpovídá jeho velmi nízké volné frakci, jen 1 %),
+- **lékové interakce vytěsněním** — dvě léčiva soupeří o stejné vazebné místo; klasický a nebezpečný příklad: **salicyláty nebo sulfonamidy vytěsní warfarin** z vazby na albumin → prudký nárůst volného (účinného) warfarinu → **riziko krvácení**.
+
+❓ **Doptají se:**
+- *Proč je vysoké Vd problém při otravě?* → Léčivo je hlavně ve tkáních, ne v krvi — hemodialýza (čistí jen krev) na něj nezabírá.
+- *Co se stane, když vytěsníš warfarin z vazby na albumin?* → Prudce stoupne volná (účinná) frakce → riziko krvácení.
+- *Proč se propustnost HEB při zánětu zvyšuje?* → Poškodí se těsné spoje endotelu — využívá se to terapeuticky u meningitidy (cefalosporiny se dostanou líp do mozku).
+
+---
+
+## O15 · Eliminace, poločas eliminace (fáze α a β), eliminační konstanta, clearance
+
+**O čem to je:** Eliminace je poslední krok osudu léčiva v těle — jak rychle a jakým způsobem tělo léčivo odstraní. Tahle otázka definuje veličiny, kterými se rychlost eliminace měří.
+
+**Eliminace probíhá dvěma cestami:**
+1. **exkrece nezměněné molekuly** — jen malá část léčiv se vyloučí v původní podobě,
+2. **metabolismus a následná exkrece metabolitu** — takhle se eliminuje **většina léčiv**.
+
+**Pravidlo pěti poločasů** (stejné jako u O12): za 5 poločasů klesne koncentrace ze 100 % na cca **3 %** — léčivo je prakticky pryč.
+
+| Poločas | Koncentrace |
+|---|---|
+| 1 | 50 % |
+| 2 | 25 % |
+| 3 | 12,5 % |
+| 4 | 6,25 % |
+| 5 | 3,125 % |
+
+Pokud podáme stejnou dávku dvou léčiv, z nichž jedno má **nižší clearance** (pomalejší eliminaci), bude **celková expozice organismu tomuto léčivu vyšší** (zůstává v těle déle a ve vyšší kumulativní koncentraci).
+
+**Eliminační konstanta (ke)** = rychlost, jakou klesá koncentrace léčiva s časem; matematicky **ke = CL / Vd** (clearance dělená distribučním objemem).
+
+**Clearance (CL)** = základní parametr rychlosti eliminace — vyjadřuje **objem plazmy, který je za jednotku času zcela očištěn** od léčiva (jednotka objem/čas, např. l/h nebo ml/min). Díky neustálému vyrovnávání rovnováhy mezi krví a tkáněmi se přes plazmatickou clearance postupně "čistí" celý distribuční objem. U většiny léčiv orgán neodstraní léčivo úplně z každé kapky krve, která jím proteče — proto je **clearance vždy nižší než skutečný průtok krve orgánem**.
+
+Pro eliminaci ze systémového oběhu jsou rozhodující **jaterní clearance (CLh)** a **renální clearance (CLr)** — jejich velikost říká, jak moc se na eliminaci daného léčiva podílejí játra a jak moc ledviny, a tedy **kdy je potřeba upravit dávkování** při selhání jednoho z těchto orgánů.
+
+**Orgánová clearance** závisí na prokrvení orgánu a na jeho schopnosti léčivo z krve "vytáhnout" — to vyjadřuje **extrakční poměr (E)**: poměr koncentrace léčiva v krvi vytékající z orgánu ku koncentraci v krvi vtékající do orgánu.
+
+**Co ovlivňuje clearance:** věk, genetický polymorfismus enzymů/transportérů, onemocnění jater a ledvin, snížené prokrvení eliminačních orgánů (kardiovaskulární choroby, šok), lékové interakce na úrovni metabolismu i vylučování.
+
+**Využití clearance:** u kontinuálního podávání (i.v. infuze) se ustálí rovnováha mezi rychlostí přísunu a rychlostí eliminace (**steady state**) — z celkové clearance a požadované terapeutické koncentrace se dá **vypočítat potřebná rychlost dávkování**.
+
+**Využití biologického poločasu:** umožňuje odhadnout, za jak dlouho se léčivo z těla vyloučí (nebo klesne na nižší koncentraci po vysazení), a taky za jak dlouho se při pravidelném podávání ustálí **steady state** koncentrace v plazmě. 🔑 **Čas do dosažení steady state závisí JEN na t½ — ne na cestě podání ani rychlosti podávání.** Za 5 poločasů dosáhne koncentrace 97 % ustálené hodnoty. Platí i obráceně: **čím delší t½ a čím kratší interval mezi dávkami, tím větší kumulace léčiva.**
+
+❓ **Doptají se:**
+- *Co znamená, že clearance je nižší než průtok krve orgánem?* → Orgán neodstraní léčivo ze 100 % krve, která jím proteče, jen z její části.
+- *Na čem závisí, za jak dlouho se ustálí steady state?* → **Pouze na biologickém poločasu (t½)**, ne na dávce, cestě podání ani rychlosti infuze.
+
+---
+
+## O16 · Dávkovací režim, plynulé a intermitentní podávání léčiv, kumulace léčiv, kumulační index
+
+**O čem to je:** Lék se dá podávat buď **plynule** (kapačka běžící pořád) nebo **po dávkách** (tabletka třikrát denně). Otázka řeší, co se s koncentrací v krvi děje v obou případech a kdy hrozí, že se lék v těle **hromadí (kumuluje)** nebezpečně.
+
+**Dva základní dávkovací režimy:**
+- **a) kontinuální podávání** — typicky i.v. infuze,
+- **b) opakované (intermitentní) podávání** — opakované p.o., i.v., i.m. dávky.
+
+V obou případech po zahájení podávání **koncentrace v plazmě roste**, a s ní úměrně roste i **rychlost eliminace** (faktorem úměrnosti je clearance).
+
+**A) Kontinuální podávání:** růst koncentrace se postupně zpomaluje, jak se zmenšuje rozdíl mezi rychlostí přísunu a rychlostí eliminace, až se obě rychlosti **vyrovnají — nastane ustálený stav (steady state)**. V ustáleném stavu platí: **rychlost dávkování = rychlost eliminace = CL × Css** (Css = ustálená koncentrace v plazmě).
+
+**B) Opakované podávání:** přísun léčiva je přerušovaný. **Rychlost dávkování (RD)** = množství léčiva podané za jednotku času; průměrná ustálená koncentrace mezi dávkami je **přímo úměrná rychlosti dávkování** a **nepřímo úměrná clearance**.
+
+### Kumulace léčiva
+
+Pokud **interval mezi dávkami nestačí k úplné eliminaci** předchozí dávky, každá další dávka se "přičte" ke zbytku předchozí — to je **princip superpozice**, a je to podstata kumulace.
+
+Poměr mezi dávkovacím intervalem (τ) a poločasem (t½) předpovídá míru kumulace:
+
+| Vztah intervalu a poločasu | Míra kumulace |
+|---|---|
+| τ = t½ | mírná kumulace (poměr koncentrace po první dávce ku ustálenému stavu je asi 1:2) |
+| τ < t½ | **významná kumulace** (ustálená koncentrace je víc než 2× vyšší než po první dávce) |
+| τ > t½ | nízká kumulace |
+
+🔑 **Čím kratší interval mezi dávkami vzhledem k poločasu, tím větší kumulace** — proto se u léčiv s dlouhým poločasem dávkuje řidčeji.
+
+**Při kinetice 1. řádu** (většina léčiv) se s růstem koncentrace úměrně zvyšuje i rychlost eliminace, takže se v intervalu mezi dávkami vyeliminuje čím dál větší část podané dávky — až se ustálí stav, kdy se **za jeden interval vyeliminuje přesně tolik, kolik se podá jednou dávkou**. V ustáleném stavu pak koncentrace pravidelně kolísá mezi **vrcholovou (maximální)** a **údolní (minimální)** hodnotou.
+
+**Při kinetice 0. řádu** (saturační — viz O12) je situace nebezpečnější: ustálená koncentrace **není přímo úměrná** rychlosti dávkování, protože rychlost eliminace se po saturaci enzymů dál nezvyšuje. Konstanta **Km** určuje, při jaké koncentraci saturace nastane (je individuálně proměnlivá), a existuje **maximální rychlost eliminace (Vmax)**, která se mezi pacienty výrazně liší. ⚠️ **Rychlost dávkování nesmí překročit Vmax** — jinak se koncentrace bude neustále zvyšovat bez ustálení a dojde k **intoxikaci**.
+
+❓ **Doptají se:**
+- *Kdy hrozí u opakovaného podávání nejvíc kumulace?* → Když je interval mezi dávkami **kratší** než biologický poločas léčiva.
+- *Proč je nebezpečné dávkovat léčivo s kinetikou 0. řádu (např. teofylin) rychleji, než stíhá eliminace?* → Rychlost eliminace má strop (Vmax) — po jeho překročení koncentrace neustále roste a nikdy se neustálí → intoxikace.
+- *Na čem závisí ustálená koncentrace při kontinuální infuzi?* → Css = Rinf / CL (rychlost infuze dělená clearance).
+
+---
