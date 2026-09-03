@@ -5604,3 +5604,169 @@ Klasifikace látek: syntetické × přirozené (rostlinné, živočišné, bakte
 - *Co nikdy neděláš při snaze snížit vstřebávání jedu po požití kyselin/louhů?* → Nevyvoláváš zvracení.
 
 ---
+
+## 134 · Toxikologie rostlin a hub
+
+**O čem to je:** Přehled nejnebezpečnějších jedovatých rostlin a hub v našich podmínkách — nejdůležitější je muchomůrka zelená, protože je to nejčastější příčina smrtelné otravy houbami vůbec, a mechanismus jejího jedu má přímé napojení na léčbu (aktivní uhlí kvůli enterohepatálnímu koloběhu).
+
+**Jedovatá rostlina** = rostlina, u které požití už malého množství může poškodit zdraví člověka.
+
+**Tropanové alkaloidy — jedna skupina, čtyři rostliny.** Rulík zlomocný, durman obecný a blín černý obsahují prakticky tutéž trojici: hyoscyamin, atropin, skopolamin. Projeví se anticholinergním syndromem — antidotum je fyzostigmin (viz O133).
+
+| Rostlina | Toxin a mechanismus |
+|---|---|
+| Tis červený | taxin A a B — kardiotoxický, blokuje vápníkové a sodíkové kanály v srdci |
+| Bolehlav plamatý | koniin — blokuje nikotinový receptor na nervosvalové ploténce; LD50 = 8 mg/kg |
+| Oměj šalamounek | akonitin — vyvolá dlouhodobou depolarizaci sodíkových kanálů; mravenčení, hypotenze, bradykardie, arytmie → srdeční selhání. **LD50 = 0,028 mg/kg — nejtoxičtější z našich rostlin** |
+| Skočec obecný | ricin — blokuje syntézu bílkovin |
+| Vraní oko čtyřlisté | srdeční glykosidy |
+
+**Houby.**
+
+> **Muchomůrka zelená — nejdůležitější otrava celé otázky.** Toxiny: amanitin, faloidin. Stačí 1–3 plodnice. Zasahují proteosyntézu → v játrech vznikají centrilobulární nekrózy (odumření buněk kolem centrální žilky jaterního lalůčku). Z krve se vylučují do střeva a zpět se vstřebávají — proto se podává **aktivní uhlí** (přeruší enterohepatální koloběh, viz obecná otázka O20). Další léčba: N-acetylcystein (obrana proti oxidačním radikálům), penicilin (kompetice o vazbu), cimetidin — blokuje jaterní CYP2E1, 3A4 a 2D6 a prokazatelně snižuje poškození jater; silymarin (extrakt z ostropestřce).
+
+| Houba | Toxin, mechanismus a projevy |
+|---|---|
+| Vláknice | otrava muskarinem — smrt už po 15 minutách. Zvýšená peristaltika → průjem, sliny, mióza, pocení, bradykardie, bronchokonstrikce. Terapie atropinem (parasympatolytikum) |
+| Muchomůrka červená | kyselina ibotenová — agonista NMDA receptorů → zmatenost, euforie, halucinace, amnézie; muscimol — silný agonista GABA → menší motorická aktivita, ataxie, delirium; a muskarin |
+| Pavučinec plyšový | orelanin — blokuje syntézu DNA, RNA a bílkovin; hlavně nefrotoxický → úmrtí na selhání ledvin |
+| Ucháč | gyromitrin — karcinogen, snižuje tvorbu GABA (neurologické příznaky), blokuje diaminoxidázu (GIT příznaky); methylhydrazin — degenerativní změny ledvinových tubulů, srdce a jater |
+| Hřib satan | bolesatin — glykoprotein, blokuje syntézu bílkovin, hemaglutinačně a nefrotoxicky |
+| Hřib žlučník, peprný | látky dráždící GIT — nevolnost, kolikovité bolesti, průjem; potíže 3–4 hodiny, zotavení do dvou dnů |
+
+**Paličkovice nachová** (Claviceps purpurea) — cizopasná houba parazitující na žitu, tvoří **námel**. Ergin — agonista serotoninových receptorů, psychotomimetikum. Ergotamin, ergometrin — ovlivňují 5-HT, adrenergní a dopaminové receptory; historicky používány jako antimigrenika, k zástavě laktace nebo krvácení. Odvozená látka: bromokriptin.
+
+Obecné zásady u otrav: odstranění agens, podpůrná opatření, urychlení vylučování, antidota.
+
+🔑 **Muchomůrka zelená = amanitin blokuje proteosyntézu, koloběh přes žluč → léčba aktivním uhlím.**
+
+❓ **Doptají se:**
+- *Proč se u otravy muchomůrkou zelenou podává aktivní uhlí, když toxin je už vstřebaný?* → Amanitin se vylučuje do žluči/střeva a znovu se vstřebává (enterohepatální koloběh) — aktivní uhlí ho v střevě zachytí a přeruší tento cyklus.
+- *Která rostlina je z našich nejtoxičtější podle LD50?* → Oměj šalamounek (akonitin, LD50 = 0,028 mg/kg).
+
+---
+
+## 135 · Toxikologie živočišných jedů
+
+**O čem to je:** Přehled jedů zvířat od moře po naše lesy — u mořských toxinů si stačí zapamatovat jeden princip (skoro všechny útočí na sodíkové kanály), u hadů zase to, že náš jediný jedovatý had (zmije) sice bolí, ale prakticky nezabíjí.
+
+**Kryptotoxičtí** živočichové nemají orgán na tvorbu jedu; **fanerotoxičtí** jedový orgán mají. **Aktivní toxicita** = zvíře má "sdělný aparát", kterým jed vpraví do jiného organismu (hadi, včely, ryby s jedovými ostny); **pasivní toxicita** = bez sdělného aparátu (žáby, mloci, čolci — jed je jen na/v kůži).
+
+**Mořské toxiny — všechny míří na sodíkové kanály:**
+
+| Toxin | Zdroj a mechanismus | Projevy |
+|---|---|---|
+| Ciguatoxin | obrněnky na řasách korálových útesů → hromadí se ve svalovině ryb (murény, barakudy, až 400 druhů). Snižuje práh otevírání napěťově řízených Na⁺ kanálů. LD50 0,25 μg/kg — **nemá vliv na chuť, vzhled ani vůni a nezničí ho vaření** | GIT potíže → za 2–6 h znecitlivění jazyka, rtů, končetin, **obrácené vnímání tepla a chladu**, tachykardie, paralýza |
+| Saxitoxin | obrněnky, koncentruje se v měkkýších. Blokátor Na⁺ kanálů. LD50 5,7 μg/kg | "Paralytic shellfish poisoning" — brnění rtů a jazyka, poruchy polykání → vzestupná paralýza, útlum dechu, smrt za 2–12 h |
+| Tetrodotoxin | termostabilní, ryby čtverzubcovití — hromadí se v gonádách, játrech, kůži, jikrách. Blokuje Na⁺ kanály. LD50 2–20 μg/kg | 30 min po požití brnění rtů a jazyka, sliny, ztráta hlasu, křeče, rozšířená zornice, hypotenze, selhání dýchání; smrt za 20 min až 8 h |
+
+**Žahavci a měkkýši.** Měchýřovka portugalská — physalitoxin (hemolytický); vysoce bolestivé rány jako po šlehnutí bičem, jed může vyvolat otok hrtanu. Pomočení rány zvyšuje uvolňování jedu. Čtyřhranka Fleckerova ("mořská vosa") — chirinotoxin: naruší buněčnou membránu → únik draslíku → hyperkalemie → selhání oběhu do 2–5 minut; na smrtelnou dávku stačí 3 metry chapadel. Homolice — konotoxin: antagonista nikotinového receptoru, blokáda Ca²⁺ a Na⁺ kanálů. Odvozená látka zikonotid se používá v léčbě bolesti — je 1000× účinnější než morfin. Chobotnice kroužková — jed obsahuje tetrodotoxin tvořený bakteriemi v jejích slinných žlázách.
+
+Pijavka lékařská vpouští **hirudin** — antikoagulans přímo blokující aktivovaný trombin. Odvozená léčiva: lepirudin, bivalirudin.
+
+**Členovci:**
+
+| Skupina | Toxin a projevy |
+|---|---|
+| Koutník | sfingomyelináza D — dermonekrotoxická; nejčastěji kožní nekróza, vzácně i s hemolýzou |
+| Palovčík | neurotoxiny na Na⁺ a Ca²⁺ kanálech; intenzivní bolest, priapismus, arytmie, křeče. LD50 0,2 mg/kg |
+| Sklípkan | robustoxin (atrakotoxin) — vyvolá spontánní akční potenciály → nepřetržité uvolňování ACh; vysoký tlak, svalové záškuby, sliny, slzy. Existuje protijed |
+| Nejjedovatější štíři | chlorotoxin, scyllatoxin + fosfolipáza A — blokují Na⁺ a Ca²⁺ kanály; otok, krutá bolest, křeče, úmrtí nejčastěji na plicní otok. K dispozici protijed |
+| Blanokřídlí — včely, vosy, sršni | apitoxin: biogenní aminy (histamin, serotonin); polypeptidy — melitin (naruší membrány, hemolytický, uvolní histamin), apamin, MCD peptid; enzymy (hyaluronidáza, fosfolipáza A). Závažný je otok jazyka a hrtanu. Terapie: NSA, antihistaminika, kortikosteroidy |
+| Puchýřník lékařský ("španělská muška") | kantharidin — dřív používaný jako afrodisiakum a k vyvolání potratu, silně dráždí kůži a sliznice. LD50 0,5 mg/kg |
+
+V ČR: zápřednice jedovatá — bolestivé kousnutí s otokem, odezní do 24 h; stepník moravský — kriticky ohrožený druh.
+
+**Ryby a obojživelníci.** Otrava masem makrelovitých ryb — vysoký obsah histidinu se bakteriálně přemění na histamin; nevolnost, kopřivka po celém těle, otok jazyka. Terapie: antihistaminika. Batrachotoxin — jed jihoamerických pralesniček, základ šípového jedu. Nevratně prodlužuje aktivaci sodíkových kanálů → nervosvalová blokáda (potlačí ho saxitoxin a tetrodotoxin), arytmie až fibrilace komor. LD50 2–3 μg/kg, **nemá antidotum**. Bufotoxiny ropuch mají kardiotonický efekt, bufotenin halucinogenní.
+
+**Hadi.** Hadí jedy jsou složité směsi bílkovin, peptidů a anorganických látek.
+
+| Skupina | Mechanismus |
+|---|---|
+| Fascikuliny | ničí acetylcholinesterázu → tetanie (mamby, chřestýši) |
+| Dendrotoxiny | blokáda K⁺ kanálů → zesílí výdej ACh (mamby) |
+| α-neurotoxiny | blokáda nikotinových receptorů → chabá paralýza (α-bungarotoxin, cobratoxin) |
+| β-neurotoxiny | aktivace fosfolipázy A2 → porucha uvolňování ACh → chabá paralýza (taipoxin, crotoxin) |
+| Cytotoxiny | fosfolipázy (naruší membránu), kardiotoxiny (depolarizace srdečních buněk), hemotoxiny (hemolýza nebo srážení), myotoxiny — rozpad svalů, myoglobin v moči, selhání ledvin, kompartmentový syndrom |
+
+**Zmije obecná — jediný náš jedovatý had.** Při uštknutí použije asi 1/3 obsahu jedových žláz (3 mg); letální dávka pro člověka je 15 mg (tedy uštknutí samo o sobě obvykle smrtelné není). Projevy: bolest, šířící se angioneurotický otok, drobná krvácení do kůže, **nevzniká nekróza**; nevolnost, zvracení; hypotenze, tachykardie, kolaps až šok. Zotavení za 1–3 týdny.
+
+Terapie: znehybnění končetiny, sedace a analgezie, antihistaminika a kortikosteroidy na otok, doplnění objemu a katecholaminy při šoku, observace nejméně 24 hodin, obzvlášť u dětí. Antisérum ANTITOXINUM VIPERICUM se podává naředěné v i.v. infuzi po dobu 30–45 minut; podání do svalu je považováno za méně účinné nebo neúčinné; riziko sérové nemoci. Vydání podléhá schválení Toxikologického centra.
+
+Kdy podat antisérum: hypotenze a šok, protrahovaná těžká GIT symptomatologie, otoky sliznic s rizikem obstrukce dýchacích cest, rychlé šíření otoku na končetinu a trup, neurologické příznaky, vysoké bílé krvinky (nad 15–20 × 10⁹/l), metabolická acidóza, hemolýza, poruchy srážlivosti.
+
+**Černá mamba** — neléčené uštknutí má 100% úmrtnost, léčené 14 %; smrt z paralýzy dýchacích svalů za méně než 10 minut od rozvoje příznaků. **Taipan velký** — považován za nejjedovatějšího hada — jeden had má dost jedu na 59 dospělých lidí; taicatoxin; smrt do 3–6 h, při léčbě úmrtnost 4,3 %.
+
+🔑 **Naše zmije = bolí, ale nekrotizuje ani obvykle nezabíjí. Mořské toxiny = skoro všechny blokují Na⁺ kanály.**
+
+❓ **Doptají se:**
+- *Vzniká po uštknutí naší zmijí obecnou nekróza?* → Ne, na rozdíl od jiných hadích jedů typicky nevzniká.
+- *Jaký je společný mechanismus většiny mořských toxinů?* → Ovlivňují napěťově řízené sodíkové kanály.
+
+---
+
+## 136 · Intoxikace sloučeninami rtuti, arzenu a olova
+
+**O čem to je:** Tři těžké kovy, každý s jinou typickou cestou otravy a jiným cílovým orgánem — ale u všech je základem léčby to samé: přerušit expozici a podat chelátor, který kov naváže a vyloučí z těla.
+
+**Těžké kovy** škodí člověku i životnímu prostředí: měď, zinek, kadmium, rtuť, olovo, chrom, arzen, selen.
+
+**Terapie otrav kovy:** přerušení expozice a dekontaminace → podpůrná léčba (udržení diurézy, kontrola životních funkcí) → podání chelátorů.
+
+**Jak cheláty fungují — a proč nejsou zadarmo.** Chelátotvorné látky jsou ohebné molekuly se dvěma nebo víc elektronegativními skupinami (−OH, −SH, −NH), které vytvoří pevné vazby s kationtem kovu a vyloučí ho z těla. Tím zároveň zabrání interakci kovu s podobnými skupinami na enzymech. **Mají ale omezenou selektivitu — vážou i biogenní (tělu potřebné) prvky (Zn²⁺, Cu²⁺).**
+
+| Chelátor | Použití a zvláštnosti |
+|---|---|
+| Dimerkaprol | arzen, olovo, rtuť; v olejovém roztoku → jen i.m., velmi bolestivé; NÚ: vysoký tlak, nevolnost, horečka. **Nevhodný u chronické otravy** — může naopak přesunout arzen a rtuť do CNS |
+| DMSA | ve vodě rozpustný analog dimerkaprolu → ústy i i.v., dobře snášen |
+| EDTA | dvoj- a trojmocné kovy, i.v. nebo i.m., léčba otravy olovem; způsobuje ztrátu zinku |
+| Penicilamin | otravy mědí a Wilsonova choroba; NÚ: vyrážka, horečka; pozor na alergii na penicilin |
+| Deferoxamin | chelátor volby pro otravu železem a přetížení železem při transfuzích; obarvuje moč do červena; NÚ: ARDS (syndrom akutní dechové tísně) při infuzi delší než 24 h |
+| Pruská modř | váže thalium a cesium |
+
+**Rtuť** je jediný kov tekutý za běžných podmínek. **Rtuť samotná je ústy prakticky netoxická** — toxické jsou páry kovové rtuti a rozpustné anorganické i organické sloučeniny.
+
+Výskyt: dentální amalgámy, výbojky, zářivky, čištění zlata, výroba chlóru; methylrtuť se hromadí (biokumuluje) v rybách. Kinetika: vstřebává se hlavně z plic → nejvyšší koncentrace v ledvinách; anorganická se vylučuje močí, methylrtuť žlučí a poškozuje hlavně CNS, sluch a zrak. Váže se na −SH skupiny v keratinizované tkáni (vlasy, nehty) — slouží ke zpětnému průkazu expozice.
+
+Akutní otrava: vdechnutí par → chemický zánět plic, zánět dásní a sliznice úst; požití anorganických solí → korozivní krvácivý zánět žaludku a střev, poškození ledvinných tubulů, selhání ledvin, encefalopatie, mozkový otok.
+
+**Chronická otrava — klinická triáda a Minamata: tremor, neuropsychické poruchy (erethismus), zánět dásní a sliznice úst.** Rozsáhlý případ chronické otravy v Japonsku je nemoc Minamata. Diagnostika z koncentrace v moči. Terapie: DMSA, D-penicilamin, DMPS (akutně dimerkaprol).
+
+**Arzen — nejtoxičtější kov.** Nejznámější jed: oxid arsenitý = arsenik. Výroba polovodičů, herbicidů.
+
+Kinetika: dobře se vstřebává plícemi a GIT, kůží minimálně; metabolizuje se metylací v játrech → moč; váže se na −SH skupiny. Mechanismus: blokuje enzymatické reakce, vazba na −SH skupiny, nahrazuje fosfát. **Karcinogenní — nádory plic, kůže a močového měchýře.**
+
+Akutní: nevolnost, zvracení, průjem, bolest břicha + únik tekutiny z kapilár → hypotenze, šok, smrt; poškození srdce a plic; pancytopenie; zmatenost, encefalopatie, neuropatie. Podezření na akutní otravu: náhlá gastroenteritida + hypotenze + metabolická acidóza. Diagnostika: arzen a jeho metabolity v moči (v krvi nespolehlivé). Terapie: vyčištění střeva, dimerkaprol.
+
+Chronická: únava, slabost, úbytek hmotnosti, anemie; hyperpigmentace, ztluštění kůže, Aldrich-Meesovy proužky na nehtech. Před odběrem moči se nesmí jíst ryby (falešně zvýší hodnoty).
+
+Arsenovodík — plyn vonící po česneku, hemolytický. Latence 2–24 hodin → těžká intravaskulární hemolýza (žloutenka, hemoglobin v moči) → oligurické selhání ledvin. Terapie: transfuze, forsírovaná diuréza, hemodialýza.
+
+**Olovo.** Zdroje: olovnatá paliva, starší barvy, vodovodní potrubí; expozice je všudypřítomná a škodí i v podprahových (subklinických) koncentracích.
+
+Kinetika: anorganické olovo se dobře vstřebává vdechnutím nebo požitím, kůží špatně (organické sloučeniny naopak dobře); váže se na červené krvinky, rozděluje se do měkkých tkání a **kostní matrix, kde tvoří zásobárnu**. **90 % celkového obsahu olova se ukládá do kosti — při přestavbě kosti se uvolňuje zpět do krve a mohou se objevit příznaky až akutní otravy** i po dlouhé době od expozice.
+
+Mechanismus není přesně známý — nejspíš blokuje enzymatickou aktivitu, interferuje s vápníkem, železem a zinkem, narušuje membrány a receptory.
+
+| Orgánový systém | Projevy |
+|---|---|
+| Neurotoxicita | únava, nechutenství, poruchy spánku, třes, periferní neuropatie — "malířská ruka" (ochrnutí extenzorů); akutně nitrolební hypertenze |
+| Hemotoxicita | normocytární až mikrocytární hypochromní anemie; interferuje s tvorbou hemu → vzestup volného protoporfyrinu; bazofilní tečkování erytrocytů |
+| Nefrotoxicita | "saturninská dna" — olovo snižuje vylučování kyseliny močové; porucha funkce tubulů, fibróza tkáně, hypertenze |
+| Reprodukční | víc potratů, kratší těhotenství, nízká porodní hmotnost, méně spermatu |
+| GIT | kolika z olova po vysokých dávkách; **tmavý lem na dásni** u těžce exponovaných se špatnou zubní hygienou; ztráta chuti, zácpa |
+
+> **Tmavý lem na dásni je nález, který bys jako zubařka mohla vidět jako první.** Stejně jako gingivostomatitida u rtuti — **oba tyto těžké kovy se projeví v dutině ústní.**
+
+Terapie: přerušení expozice a dekontaminace, podpůrná léčba (u encefalopatie antikonvulziva, kortikosteroidy, manitol), cheláty — CaNa₂EDTA v infuzi, DMSA ústy do ústupu příznaků.
+
+🔑 **Rtuť = gingivostomatitida + tremor + Minamata. Olovo = tmavý lem na dásni + "malířská ruka" + 90 % uloženo v kosti jako depo.**
+
+❓ **Doptají se:**
+- *Jaký nález na dásních uvidíš u chronické otravy olovem a u rtuti?* → Olovo: tmavý lem na dásni. Rtuť: gingivostomatitida (zánět dásní a sliznice úst).
+- *Proč mohou příznaky otravy olovem propuknout i dlouho po skončení expozice?* → 90 % olova je uloženo jako zásoba v kosti a při její přestavbě se olovo uvolňuje zpět do krve.
+- *Který ze tří kovů je popisován jako nejtoxičtější?* → Arzen.
+
+---
+
+*Tím je dokončena celá VYPISKY-KOMPLET.md — Obecná farmakologie (O1–O35), Speciální farmakologie I (36–88) i Speciální farmakologie II (89–136), všech 136 oficiálních otázek.*
