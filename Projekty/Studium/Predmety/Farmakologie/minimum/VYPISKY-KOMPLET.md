@@ -5393,3 +5393,214 @@ Interakce: vitamin C může ovlivnit užívání paracetamolu, antacid s hliník
 - *Jaké dva vitaminy B souvisí s anemií?* → B9 (kyselina listová) a B12.
 
 ---
+
+## 130 · Farmakoterapie osteoporózy
+
+**O čem to je:** Osteoporóza je nerovnováha mezi tvorbou a odbouráváním kosti — kost se rychleji odbourává, než se tvoří. Léčba jde dvěma cestami: buď zpomalí odbourávání (bisfosfonáty, denosumab), nebo přímo podpoří novotvorbu kosti (teriparatid).
+
+**Osteoporóza** = systémové onemocnění skeletu — málo kostní hmoty a zhoršená mikroarchitektura kosti, výsledkem je vyšší lomivost a riziko zlomeniny. Je porušená rovnováha mezi novotvorbou a odbouráváním kosti.
+
+Diagnóza: měření hustoty kostní hmoty (BMD), biochemické vyšetření, markery kostní novotvorby a odbourávání a hormony — s cílem vyloučit sekundární příčiny.
+
+**T-skóre podle WHO — čísla, která musíš znát.** T-skóre = počet směrodatných odchylek nad/pod průměrnou hustotou kosti zdravých mladších dospělých stejného pohlaví a etnika.
+
+| Nález | T-skóre |
+|---|---|
+| Normální BMD | nad −1,0 SD |
+| Osteopenie | −1,0 až −2,5 SD |
+| Osteoporóza | pod −2,5 SD |
+| Těžká osteoporóza | pod −2,5 SD + přítomná zlomenina |
+
+**Suplementace minerály a vitaminy.** Vápník — nejvíc zastoupený minerál v těle; s fosforem tvoří hydroxyapatit, základní stavební materiál kostí a zubů. Dál se podílí na srážení krve, srdeční frekvenci, neuromuskulárních dějích. Vstřebatelnost závisí na typu soli a pH a s věkem klesá. NÚ: při dlouhodobém užívání zácpa, riziko hyperkalcemie → tvorba ledvinových kamenů.
+
+Hořčík — druhý nejčastější buněčný kation, zajišťuje funkci Na⁺/K⁺-ATPázy. Při jeho nedostatku buňka nemůže doplnit draslík → vstupuje vápník do buněk → stoupá napětí svalu → křeče. Je kofaktorem hydroxyláz tvořících kalcitriol — proto při jeho nedostatku nefunguje efektivně ani vitamin D, hlavně při vyšších dávkách suplementace.
+
+Fosfor — vstřebává se v duodenu a jejunu, vstřebatelnost omezuje větší množství hliníku, vápníku a hořčíku; vylučuje se téměř výhradně ledvinami. Použití: vitamin D-rezistentní křivice a hypofosfatemická osteomalacie.
+
+**Fluor — pro tebe jako zubařku nejdůležitější odstavec.** Fluoridy se pasivně vstřebávají v duodenu a tenkém střevě; asi 50 % podané dávky se zabuduje do kostí a zubů. V kosti i zubním dentinu fluorový iont nahradí hydroxylovou skupinu v kalciumhydroxyapatitu → vzniká **kalciumfluoroapatit**, který má vyšší chemickou stabilitu. DDD 0,3–0,5 mg na prevenci zubního kazu. **U osteoporózy se fluor nepoužívá — pro malý efekt.**
+
+Vitamin D (viz O128); vitamin K2 (menachinon) — součást léčby osteoporózy, DDD 90 μg preventivně, 400–500 μg léčebně; toxicita nebyla pozorována.
+
+**Hormonální terapie.** Nedostatek estrogenů a androgenů vede k úbytku kostní hmoty: zvyšuje odbourávání kosti, podporuje odumírání osteoblastů a snižuje vstřebávání vápníku ve střevě.
+
+| Léčivo | Klíčové body |
+|---|---|
+| Estradiol | induktory jaterních enzymů (fenytoin, karbamazepin, rifampicin) snižují hladiny estrogenů. NÚ: bolesti hlavy, napětí v prsou, přírůstek hmotnosti, silnější menstruace; vzácně otoky a tromboembolie. Použití: substituce při předčasné nebo chirurgické menopauze, prevence postmenopauzální osteoporózy |
+| Testosteron | 98% vazba na plazmatické bílkoviny. Vyšší dávky androgenů zesilují účinek kumarinových antikoagulancií; s kortikosteroidy vyšší riziko otoků; snižuje TBG → nižší T4 v séru. NÚ: u žen maskulinizace, u mužů priapismus a narušená tvorba spermií. Použití: kauzální léčba sekundární osteoporózy u mužů |
+| Anabolické steroidy | vyšší anabolický efekt než testosteron → víc a horší NÚ: poškození jater (sledovat ALT, AST), zhoršený lipidový profil (podpora aterosklerózy). Použití: úbytek svalové hmoty u starých lidí s osteoporózou |
+| Kalcitonin | snižuje odbourávání kosti — snižuje aktivitu osteoklastů a při dlouhodobém podávání sníží i jejich počet. Injekčně nebo nosní sprej. Použití: Sudeckův algodystrofický syndrom (3–6 měsíců), hyperkalcemie v kombinaci s bisfosfonáty |
+
+**SERM — selektivní modulátory estrogenových receptorů.** Agonisté estrogenových receptorů v kosti, srdci a mozku — s neutrálním nebo naopak antagonistickým efektem v prsu a děložní sliznici. To je celý princip: výhoda estrogenu pro kost bez rizika pro prs. Raloxifen — postmenopauzální osteoporóza bez klimakterických potíží; bazedoxifen — se zvýšeným rizikem zlomeniny. NÚ: riziko hluboké žilní trombózy, podobně jako u hormonální terapie.
+
+**Bisfosfonáty a další léčiva.** Bisfosfonáty — syntetická nehormonální léčiva s vysokou afinitou ke kostní tkáni; společný znak je vazba fosfor-uhlík-fosfor (P-C-P). Blokují odbourávání kosti blokádou aktivních osteoklastů.
+
+| Léčivo | Mechanismus a zvláštnosti |
+|---|---|
+| Stroncium-ranelát | podporuje novotvorbu množením osteoblastů i blokuje odbourávání. Lék druhé linie při selhání nebo netoleranci. Dostupnost asi 25 %, jídlo vstřebávání omezuje — podávat nalačno. KI: ischemická choroba srdeční, onemocnění periferních tepen, cerebrovaskulární nemoc, neupravená hypertenze — kardiovaskulární bezpečnost byla diskutována, registrace přerušena a poté obnovena |
+| Teriparatid | rekombinantní úsek 34 aminokyselin lidského PTH; podporuje novotvorbu kosti stimulací osteoblastů — na rozdíl od dlouhodobé hypersekrece celého PTH, která naopak vede k převaze odbourávání. Podává se pod kůži. KI: zvýšené riziko osteosarkomu, nádorů kosti |
+| Denosumab | lidská monoklonální protilátka IgG; blokuje vznik, funkci a přežívání osteoklastů. Dostupnost asi 60 %, poločas 26 dní. NÚ: infekce močových cest a horních dýchacích cest. Použití: postmenopauzální osteoporóza, úbytek kosti při androgen-deprivační léčbě rakoviny prostaty |
+
+> **Rozdíl mezi teriparatidem a hypersekrecí PTH je nejelegantnější myšlenka otázky:** krátkodobě podávaný fragment PTH kost buduje, dlouhodobý nadbytek celého PTH ji naopak odbourává.
+
+**Látky ve výzkumu:** protilátka proti sklerostinu (negativní regulátor mineralizace, tvoří ho osteocyty), protilátka proti DKK-1, abaloparatid — analog PTHrP, s menším vlivem na odbourávání kosti → nižší riziko hyperkalcemie, delší účinek a možnost skladování při běžné teplotě. Žádný z těchto preparátů zatím neprokázal významný efekt na hojení zlomenin u lidí — jen abaloparatid na zvířecím modelu.
+
+🔑 **Fluor sice buduje zubní sklovinu (kalciumfluoroapatit), ale na osteoporózu se kvůli malému efektu nepoužívá. Teriparatid krátkodobě = staví kost. Nadbytek vlastního PTH dlouhodobě = boří kost.**
+
+❓ **Doptají se:**
+- *Kdy je T-skóre diagnostické pro osteoporózu?* → Pod −2,5 SD.
+- *Proč se fluor u osteoporózy nepoužívá, i když se zabudovává do kosti?* → Efekt na kostní denzitu je malý.
+- *Jak vysvětlíš paradox, že PTH kost jednou staví a jednou boří?* → Krátkodobý pulzní fragment (teriparatid) stimuluje osteoblasty, dlouhodobá trvalá hypersekrece celého PTH vede k převaze odbourávání.
+
+---
+
+## 131 · Fytoterapie
+
+**O čem to je:** Léčba rostlinnými přípravky je populární, ale zdaleka ne bez rizika — "přírodní" neznamená "bezpečné", a hlavní problém je, že lékař často o užívání fytofarmak vůbec neví, takže nemůže předvídat interakce.
+
+**Fytoterapie** = léčba, ve které se používají léčivé rostliny. Popularita roste, ale čistě přírodní fytoterapie může být stejně toxická jako jiná farmaka. Tuhle větu řekni hned — je to celý postoj otázky.
+
+**Čtyři problémy spojené s fytofarmakologií:**
+1. fytofarmaka nejsou rozsáhle testována
+2. jsou dostupná i mimo lékařský předpis
+3. **lékař o jejich užívání často neví a nemůže tak předvídat nežádoucí interakce**
+4. problematika dovozu z Číny a Indie — často s přidanými kortikoidy a těžkými kovy
+
+> **Propojení, které se vyplatí:** interakce fytofarmak jsou v obecné otázce O25 — grapefruit blokuje CYP450, třezalka ho naopak indukuje a snižuje účinnost hormonální antikoncepce i warfarinu, česnek a ginkgo zvyšují riziko krvácení s antikoagulancii.
+
+**Historie.** Léčivé vlastnosti rostlin objevili lidé náhodou při hledání potravy a pozorováním zvířat; první dokumentace v Egyptě a na Dálném východě. 18. století — klasifikace rostlin (Carl Linné); 19. století — izolace aktivních látek: morfin, strychnin, nikotin, kokain. Moderní dějiny — chemická syntéza, standardizace a odklon od rostlinných přípravků.
+
+**Tři důvody odklonu — přesně to, co chtějí slyšet:** specifita účinku, přesnost dávkování, možnost parenterálního podání. Důvod je jednoduchý: rostlina obsahuje spoustu látek a nevíme přesně, která z nich účinkuje.
+
+**Droga a rostlinné přípravky.** Droga = sušená surovina rostlinného původu užívaná k léčebným účelům nebo k výrobě léčiv.
+
+Rostlinné přípravky vznikají zpracováním rostlinných látek různými metodami. Některé jsou registrovány stejně jako léčivé přípravky, tedy s klinickými zkouškami (např. Detralex), ale většina je registrována zjednodušeným postupem jako tradiční rostlinné léčivé přípravky.
+
+🔑 **"Přírodní" neznamená "bezpečné" — hlavní riziko je, že lékař o fytofarmaku často neví a nemůže tak předejít interakci.**
+
+❓ **Doptají se:**
+- *Proč je fytoterapie riziková, i když se jedná o "přírodní" léčbu?* → Aktivní látky mohou být stejně toxické jako syntetické léky, málo se testují a lékař o nich často neví.
+- *Jaké jsou tři důvody, proč se medicína odklonila od rostlinných přípravků k syntetickým lékům?* → Specifita účinku, přesnost dávkování, možnost parenterálního podání.
+
+---
+
+## 132 · Obecná toxikologie
+
+**O čem to je:** Toxikologie stojí na Paracelsově principu — "všechno je jed, záleží jen na dávce". Otázka pokrývá, jak se jedy do těla dostávají, jakými šesti způsoby škodí, a jak se měří jejich nebezpečnost.
+
+**Toxikologie** = samostatný vědní obor studující nepříznivé účinky cizorodých látek (xenobiotik); vyžaduje mezioborovou spolupráci. Dělí se na obecnou a speciální.
+
+**Toxicita** = schopnost chemických látek nepříznivě působit na živé organismy. Podmiňují ji vlastnosti: chemické (reaktivita), fyzikální (skupenství, struktura, body varu a tání, rozpustnost), biologické (schopnost reagovat s molekulami živých organismů).
+
+⚠️ Soubor těchto vlastností určuje **nebezpečnost** chemické látky — širší pojem než toxicita (patří sem i hořlaviny a výbušniny).
+
+**Jedovatá látka / jed** = látka, která už v malé dávce nebo nízké koncentraci vyvolá těžké poškození organismu nebo jeho zánik.
+
+> **Paracelsus — citát, kterým otázku otevři:** "Všechny látky jsou jedy a záleží jen na dávce, kdy látka přestává být jedem." → spektrum dávek je široké, od ng/kg po desítky g/kg.
+
+**Expozice** = vystavení organismu účinku látky, při kterém dojde k jejímu proniknutí dovnitř organismu. Dochází k ní v "branách vstupu".
+
+**Rovnice, kterou musíš umět: Nebezpečnost + expozice = riziko chemické látky (zdravotní riziko).**
+
+**Toxikokinetika — obdoba farmakokinetiky (ADME):**
+
+| Fáze | Zvláštnosti |
+|---|---|
+| Absorpce | trávicím traktem — nejvýznamnější je lipofilita; dýchacími cestami (plyn, pára, aerosol, prach); kůží — lipofilní sloučeniny: nervové plyny, insekticidy |
+| Distribuce | lipofilní látky se hromadí v tukových orgánech (DDT, PCB) a tvoří tam zásobárny (depa); jiné se ukládají v kostech — olovo, fluor, stroncium |
+| Metabolismus | některé látky se vylučují beze změny, většina prochází biotransformací I. a II. fáze — dochází k detoxikaci i naopak bioaktivaci (vznikne toxičtější metabolit) |
+| Exkrece | močí (látky rozpustné ve vodě), stolicí (velké molekuly), vydýcháním, potem, mateřským mlékem |
+
+**Šest mechanismů toxického účinku podle projevu:**
+
+| Mechanismus | Podstata |
+|---|---|
+| Přímý toxický účinek | poškození až odumření buněk určitého orgánu |
+| Biochemický účinek | ovlivnění biochemického děje, např. blokáda enzymu |
+| Imunotoxický účinek | snížení imunity nebo naopak nepřiměřená alergická reakce |
+| Mutagenita | změna genetické informace vedoucí ke změně vlastností dalších generací |
+| Karcinogenita | změna genetické informace vedoucí k rakovinnému bujení |
+| Teratogenita | poškození plodu vedoucí k narození defektního jedince |
+
+**Vztah dávky a biologické odpovědi.** Odpověď vždy závisí na množství látky, dál na fyzikálně-chemických vlastnostech, bráně vstupu a délce expozice. Obecně platí přímá úměra, ale závislost není lineární.
+
+| Veličina | Význam |
+|---|---|
+| NOAEL (no-observed-adverse-effect-level) | nejvyšší dávka, při které nebyl pozorován žádný nepříznivý účinek |
+| LOAEL (lowest-observed-adverse-effect-level, ≈ prahová dávka) | nejnižší dávka pozorovaného nepříznivého účinku |
+| LD50 (dosis letalis 50 %) | dávka, která způsobí úhyn 50 % testovaných zvířat do 24 hodin |
+
+**Hormeze — speciální vztah mezi dávkou a účinkem.** Efekt není monotónní: škodí jak nedostatek, tak nadbytek. Příkladem jsou vitaminy — možná je jak hypo-, tak hypervitaminóza.
+
+**Řízení rizika.** Minimalizace poškození zdraví: zabránění kontaktu (zásady práce, ochranné pomůcky, evakuační protokoly), omezení délky expozice (časté střídání záchranářů při chemických haváriích), přerušení kontaktu — dekontaminace, likvidace látky přeměnou — odmoření, znalost nebezpečnosti látek.
+
+**Globálně harmonizovaný systém označování chemikálií:** H-věty (*hazard statements*) = věty o nebezpečnosti; P-věty (*precautionary statements*) = pokyny pro bezpečné zacházení.
+
+Klasifikace látek: syntetické × přirozené (rostlinné, živočišné, bakteriální); podle cílového orgánu (neurotoxické, hepatotoxické, hematotoxické); podle chemické struktury a mechanismu účinku. Řadu látek nelze snadno klasifikovat — často se proto řadí podle toxicity (LD50).
+
+🔑 **Paracelsův princip: neexistuje "netoxická" látka, jen otázka dávky. Nebezpečnost + expozice = riziko.**
+
+❓ **Doptají se:**
+- *Co znamená NOAEL?* → Nejvyšší dávka, při které nebyl pozorován žádný nepříznivý účinek.
+- *Co je hormeze?* → Vztah dávka-účinek, kdy škodí jak nedostatek, tak nadbytek látky (např. vitaminy).
+
+---
+
+## 133 · Terapie otrav a předávkování
+
+**O čem to je:** Léčba otrav má pět obecných postupů (od "zabránit vstřebání" po "dej antidotum") a jednu modelovou otravu, kterou znát nazpaměť — kyanidy, kde je klíčový paradox: postižený má dost kyslíku v krvi, jen ho buňky nedokážou využít.
+
+**Otrava** = vniknutí jedu do organismu. Příznaky jsou různorodé; u chronických otrav typicky ztráta hmotnosti a zpomalený přírůstek. Druhy: reverzibilní × ireverzibilní, lokální × systémový účinek, akutní × chronická.
+
+⚠️ **Nejjedovatější látky vůbec: botulotoxin, tetrodotoxin, nikotin.**
+
+**Pět obecných přístupů k terapii akutních otrav:**
+
+| Přístup | Konkrétně |
+|---|---|
+| ① Snížení vstřebávání jedu | výplach žaludku, vyvolání zvracení — pozor na vdechnutí žaludečního obsahu a **nikdy po požití kyselin a louhů**; laxativa, aktivní uhlí |
+| ② Zrychlení vylučování | forsírovaná diuréza (diuretika + přísun tekutin); ovlivnění ionizace jedu — kyselá moč: chlorid amonný; zásaditá moč: laktát, citrát sodný |
+| ③ Hemoeliminační metody | jen pokud jed není vázaný v tkáních: hemodialýza; hemoperfuze — účinnější, odstraní i lipofilní látky s větším distribučním objemem, ale odstraní z krve i potřebné látky |
+| ④ Symptomatická podpůrná léčba | kontrola základních životních funkcí |
+| ⑤ Antidota | jen pro malý počet látek existují specifická antidota — vyváží toxin, zablokují jeho vazbu na receptor, nebo ho z vazebného místa vytěsní |
+
+**Tabulka antidot — nejvděčnější část otázky:**
+
+| Toxin | Antidotum |
+|---|---|
+| Kyanidy | hydroxykobalamin (vitamin B12) |
+| Methanol, glykoly | ethanol, fomepizol |
+| Opioidy | naloxon |
+| Benzodiazepiny | flumazenil |
+| Paracetamol | N-acetylcystein |
+| Digoxin | digitalis antidotum |
+| Organofosfáty, karbamáty | atropin |
+| Anticholinergika (atropin, skopolamin) | fyzostigmin |
+| Olovo | cheláty — EDTA |
+| Arsen | cheláty — dimerkaprol |
+| Rtuť | dimerkaprol + DMSA |
+| Měď | penicilamin |
+| Heparin | protamin-sulfát |
+| Warfarin | vitamin K, čerstvě mražená plazma |
+
+**Mechanismy vybraných antidot:** naloxon — antagonista opioidních receptorů, podává se i.v., může vyvolat abstinenční příznaky (intoxikace opioidy: útlum CNS, mióza, riziko útlumu dechového centra). Flumazenil — antagonista benzodiazepinů na jejich vazebném místě GABA receptoru. Ethanol — metabolizuje ho alkoholdehydrogenáza, tím zpomaluje přeměnu metanolu na kyselinu mravenčí.
+
+**Kyanovodík a kyanidy — modelová otrava.** Kyanovodík je slabá, bezbarvá, těkavá kyselina s vůní po hořkých mandlích. Zdroje kyanidů: nedokonalé spalování, fungicidy, rodenticidy.
+
+**Mechanismus a paradox, na kterém otázka stojí.** Kyanidový aniont CN⁻ má vysokou afinitu k Fe³⁺ v cytochromoxidáze → zablokuje přenos elektronu na molekulární kyslík → přeruší se dýchací řetězec v mitochondriích → zastaví se tvorba ATP. **Kyslík ale i tak proudí do tkání dál — proto NENÍ cyanóza.** To je klíčový rozlišovací znak (na rozdíl od jiných otrav, kde je typicky modré zbarvení kůže). Při vdechnutí je to jedna z nejtoxičtějších látek vůbec; jako velmi slabá kyselina se málo ionizuje a snadno prochází membránami.
+
+| Forma otravy | Projevy |
+|---|---|
+| Superakutní | jeden či pár vdechů → silné sevření krku, nepravidelné křečovité dýchání, kácení v křečích, rychlá ztráta vědomí. **Smrt do 2–3 minut** |
+| Akutní | zrychlené dýchání, rozšířená zornice, úzkost, tonicko-klonické křeče; dýchání slábne až ustává, zástava srdeční činnosti do 3–4 minut po zástavě dechu |
+| Lehká | zachovalé vědomí, bolesti hlavy, závratě, tinnitus, bolesti hrdla, poruchy vidění, záchvatovitá dušnost |
+
+**Terapie:** zahájit umělou plicní ventilaci (dýchání z úst do úst není zcela vhodné); dusitany (amylnitrit) → vytvoří methemoglobin → naváže CN⁻ jako cyanmethemoglobin → odstraní ho z cytochromoxidázy; thiosíran sodný → přemění na netoxické thiokyanáty (kombinuje se s dusitany); dikobalt-edetát + glukóza (kobalt váže kyanidy, glukóza snižuje jeho vlastní toxicitu); hydroxykobalamin → vznikne neškodný kyanokobalamin.
+
+🔑 **Kyanidová otrava = kyslík proudí do tkání, ale buňky ho nemohou využít — proto NENÍ cyanóza, na rozdíl od jiných otrav s hypoxií.**
+
+❓ **Doptají se:**
+- *Proč otrava kyanidem nezpůsobí cyanózu?* → Kyslík se do tkání dostává normálně, jen ho buňky nemohou využít (blokáda cytochromoxidázy).
+- *Jaké je antidotum otravy kyanidem?* → Hydroxykobalamin, dusitany (methemoglobin), thiosíran sodný.
+- *Co nikdy neděláš při snaze snížit vstřebávání jedu po požití kyselin/louhů?* → Nevyvoláváš zvracení.
+
+---
