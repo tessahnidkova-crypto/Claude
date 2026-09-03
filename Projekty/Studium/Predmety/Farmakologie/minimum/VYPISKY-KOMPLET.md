@@ -967,3 +967,109 @@ Látka přejde z krve přes sinusoidální a luminální membránu hepatocytu a 
 - *Proč léčivo vázané na plazmatické bílkoviny neprojde glomerulární filtrací?* → Komplex léčivo-bílkovina je moc velký na to, aby prošel filtračními póry.
 
 ---
+
+# ČÁST 1B — FARMAKODYNAMIKA (O21–O23)
+
+## O21 · Účinek léčiv obecně, způsob účinku na molekulární úrovni
+
+**O čem to je:** Teď se přepínáme z farmakokinetiky (co tělo dělá s lékem) na **farmakodynamiku** (co lék dělá tělu). Základní myšlenka: **léky nevymýšlejí nové funkce těla — jen zesilují nebo tlumí funkce, které tělo už má.**
+
+**Účinek léčiva** je nejčastěji dán tím, že **zrychlí nebo zpomalí** už existující fyziologický děj — svalový stah, transport iontů v ledvinách, žlázovou sekreci (hlen, žaludeční kyselina, inzulin), přenos nervových vzruchů. **Léčiva nemění charakter funkcí organismu ani nevytvářejí nové funkce** — jen omezeně dokážou obnovit strukturu/funkci nevratně poškozenou nemocí.
+
+**Čtyři úrovně změny biologické funkce** (podle toho, jestli je změna ve fyziologických mezích, nebo je přehnaná):
+
+| Pojem | Co znamená |
+|---|---|
+| **stimulace** | zvýšení funkce **ve** fyziologických mezích |
+| **inhibice** | snížení funkce **ve** fyziologických mezích |
+| **excitace** | zvýšení funkce **nad** fyziologické meze |
+| **paralýza** | snížení funkce **pod** fyziologické meze (až vymizení) |
+
+**Šest typů molekulárních cílů, na které léčiva míří:** ① receptory (membránové i nitrobuněčné — nejčastěji jde o proteiny), ② iontové kanály, ③ enzymy, ④ transportní proteiny (membránové přenašeče), ⑤ jiné proteiny (cytokiny, růstové faktory, faktory krevní srážlivosti, strukturní proteiny), ⑥ neproteinové struktury (nukleové kyseliny).
+
+### Dva typy mechanismu účinku
+
+**a) Nespecifické mechanismy** (menší skupina léčiv) — účinek vychází čistě z **fyzikálně-chemických vlastností** látky, ne z vazby na konkrétní cílovou molekulu:
+
+| Princip | Příklad |
+|---|---|
+| změna osmotické aktivity | osmotická diuretika (manitol), osmotická projímadla (laktulóza, síran hořečnatý), plazmaexpandery |
+| vliv na acidobazickou rovnováhu/pH | antacida, hydrogenuhličitan sodný |
+| denaturace bílkovin | adstringencia |
+| adsorpce | aktivní uhlí |
+| oxidoredukční vlastnosti | dezinficiencia, antiseptika |
+| tvorba komplexních sloučenin | antidota (chelatace) |
+| povrchově aktivní látky | detergencia |
+
+**b) Specifické mechanismy** (velká většina léčiv) — účinná je už **nízká koncentrace** (efektivní koncentrace), protože chemická struktura léčiva přesně sedí na strukturu cílové molekuly:
+- **nereceptorový** — vazba na jinou molekulu než receptor (transportér, protonová pumpa, enzym),
+- **receptorový** — vazba na receptor s ovlivněním dějů za receptorem; typy receptorů (podrobně O22): **ionotropní, metabotropní (G-protein), s enzymovou aktivitou, regulující genovou transkripci.**
+
+**Ligand** = signální molekula, která svým tvarem sedí na vazebné místo cílového proteinu.
+- **agonista** = ligand, který se naváže a **vyvolá odpověď** (aktivuje receptor),
+- **antagonista** = ligand, který se naváže, ale **odpověď je nulová** (receptor se neaktivuje):
+  - **kompetitivní** — soutěží s agonistou o **stejné** vazebné místo; blokádu lze **přemoci vyšší dávkou agonisty** (příklad: atropin je kompetitivní antagonista acetylcholinu na muskarinovém receptoru),
+  - **nekompetitivní** — obsadí **jiné** vazebné místo; agonista se sice naváže, ale receptor stejně neaktivuje. Blokáda může trvat déle než eliminace samotného antagonisty, nebo být **nevratná** (příklad: blokáda α-receptorů fenoxybenzaminem — pokles tlaku přetrvává dlouho i po vyloučení léku z těla).
+
+**Jak funguje receptorová odpověď — pět kroků:** vazba ligandu na receptor → aktivace receptoru → přenos signálu → ovlivnění efektoru → změna buněčné funkce.
+
+🔑 **Receptor je normálně tam pro endogenní (tělu vlastní) ligand — léčivo (xenobiotikum) jen "napodobí" tuto vazbu a vyvolá stejnou nebo blokovanou odpověď.**
+
+❓ **Doptají se:**
+- *Jaký je rozdíl mezi kompetitivním a nekompetitivním antagonistou?* → Kompetitivní jde přemoct vyšší dávkou agonisty (soutěží o stejné místo), nekompetitivní ne (jiné místo nebo nevratná vazba).
+- *Co je excitace a čím se liší od stimulace?* → Excitace je zvýšení funkce **nad** fyziologické meze, stimulace jen **v rámci** nich.
+
+---
+
+## O22 · Specifický účinek léčiv — cílové struktury, receptorová teorie, typy receptorů
+
+**O čem to je:** Nejdůležitější a nejobsáhlejší otázka farmakodynamiky. Popisuje **čtyři typy receptorů** podle toho, jak rychle a jakým mechanismem přenášejí signál dovnitř buňky — od nejrychlejších (milisekundy) po nejpomalejší (hodiny až dny) — a další cíle mimo receptory.
+
+**Receptorová teorie — receptory nejsou pevné, ale flexibilní:**
+- při **nadbytku mediátoru** klesá počet aktivních receptorů (**down-regulace**) — receptory se "zanoří" do membrány (internalizace/endocytóza), některé se později znovu použijí, jiné se musí vyrobit nové,
+- při **deficitu nebo blokádě mediátoru** počet aktivních receptorů **stoupá** (**up-regulace**),
+- **desenzitizace** = chemická úprava, po které receptor dočasně ztratí schopnost se aktivovat.
+
+🔑 **Down-regulace = tolerance (potřeba vyšší dávky pro stejný účinek). Up-regulace vysvětluje rebound efekt po náhlém vysazení** (např. blokátoru) — receptorů je najednou hodně a vlastní mediátor je "přebudí" silněji, než je zdrávo.
+
+### Čtyři typy receptorů
+
+**① Ionotropní receptory (iontové kanály řízené ligandem)** — receptor JE zároveň iontový kanál. Uplatňují se v **rychlé synaptické transmisi** (nikotinové receptory na nervosvalové ploténce). Ligandy: acetylcholin, GABA, glycin, glutamát. **Nástup účinku ve zlomku milisekundy, odezní za pár milisekund** — nejrychlejší typ ze všech. Otevřou propustnost pro Na⁺/K⁺/Ca²⁺ (např. nikotinový, glutamátový receptor) nebo Cl⁻ (GABA-A receptor). *Příklad: nikotinový acetylcholinový receptor na nervosvalové ploténce — heteropentamer, vazba acetylcholinu na obě α-podjednotky otevře kanál, vtok Na⁺ vyvolá depolarizaci a akční potenciál.*
+
+**② Metabotropní receptory (spřažené s G-proteinem)** — nejrozsáhlejší skupina receptorů (muskarinové M-receptory, adrenergní β-receptory...). Receptor prochází membránou **7×**. Po navázání ligandu na vnější část receptoru se aktivuje **G-protein** (skládá se z podjednotek α, β, γ), který dál moduluje enzymy tvořící **druhé posly**. **Nástup účinku v řádu sekund.**
+
+**Druzí poslové** — chemicky různorodé látky, kterými se signál šíří dál v buňce:
+| Druhý posel | Jak vzniká | Co dělá |
+|---|---|---|
+| **cAMP** | adenylátcykláza z ATP; aktivována Gs, tlumena Gi | ovlivňuje mnoho intracelulárních enzymů; rychle se štěpí fosfodiesterázou |
+| **IP3** | fosfolipáza C štěpí membránový fosfolipid | otevře Ca²⁺ kanál v ER → vzestup Ca²⁺ v cytosolu (**kalciový signál**) → svalový stah, neurotransmise, žlázová sekrece, proliferace |
+| **DAG** | vzniká spolu s IP3 | aktivuje proteinkinázu C → fosforylace mnoha proteinů (enzymy, transkripční faktory) |
+| **NO (oxid dusnatý)** | z argininu; aktivuje guanylátcyklázu → cGMP → proteinkináza G | **vazodilatace** (nitroglycerin uvolňuje NO!), tlumí agregaci destiček, přenos vzruchů; ve vysoké koncentraci z makrofágů má baktericidní účinek; při sepsi masivní uvolnění NO → vazodilatace → šok |
+
+**③ Receptory s proteinkinázovou aktivitou** — pro hormony a růstové faktory (inzulin, růstový hormon, prolaktin, cytokiny, EGF, VEGF). Vazba na vnější část ovlivní vnitřní enzymatickou část. **Nástup účinku v řádu minut až hodin.** Řídí proliferaci, diferenciaci, migraci a apoptózu buněk — klíčové pro růst, imunitu, zánět a potlačení nádorového bujení. Dvě dobře popsané kaskády: **Ras/Raf/MAP kinázy** (růstové faktory) a **Jak/STAT** (cytokiny — STAT proteiny přímo mění genovou expresi).
+
+**④ Receptory regulující genovou transkripci** (jaderné/nitrobuněčné receptory) — ligandy jsou lipofilní molekuly, které projdou membránou: **steroidní hormony (glukokortikoidy, estrogeny, androgeny, gestageny), hormon štítné žlázy, vitamin D, prostaglandiny, leukotrieny.** Receptor má tři funkční části: vážící ligand, vážící se na DNA, a řídící transkripci. **Nástup účinku za hodiny až dny** — nejpomalejší ze všech, protože závisí na syntéze nových bílkovin.
+
+🔑 **Rychlost nástupu podle typu receptoru: ionotropní (milisekundy) → metabotropní/G-protein (sekundy) → kinázový (minuty–hodiny) → jaderný/transkripční (hodiny–dny).** Přesně tohle vysvětluje, proč kortikoidy nezaberou hned a proč benzodiazepin ano.
+
+### Další cílové struktury mimo klasické receptory
+
+**Iontové kanály** jako přímý cíl (ne jen součást ionotropního receptoru) — řídí tvorbu a šíření elektrických impulzů v srdci a nervech, sekreci tekutin a hormonů. Mohou být napěťově řízené (reagují na změnu membránového potenciálu) nebo chemicky řízené.
+
+**Enzymy** — druhý nejčastější cíl po receptorech:
+- **kompetitivní/nekompetitivní reverzibilní inhibitory** — léčivo soutěží se substrátem o aktivní místo, zpomalí tvorbu produktu,
+- **ireverzibilní inhibitory** — kovalentní vazba, enzym je trvale vyřazený ("sebevražda enzymu"); typický a děsivý příklad: **bojové látky (sarin, tabun, soman)** se váží na acetylcholinesterázu a po "zestárnutí" vazby ji **nelze zachránit ani antidotem**,
+- **falešné substráty** — např. **methyldopa** se použije místo DOPA a vznikne slabší metylnoradrenalin místo noradrenalinu; nebo analogy nukleotidů jako cytostatika (**5-fluorouracil** blokuje syntézu DNA),
+- **aktivátory enzymů** — např. nitráty uvolňují NO, který aktivuje guanylátcyklázu → myorelaxace.
+
+**Transportní proteiny** jako cíl — léčivo inhibuje přenašeč a tím sníží transport endogenní látky: antidepresiva/antipsychotika (inhibice zpětného vychytávání katecholaminů), **kardioglykosidy** (blokují Na⁺/K⁺-ATPázu v srdci), **thiazidy** (Na⁺/Cl⁻ kotransportér), **kličková diuretika** (Na⁺/K⁺/2Cl⁻ kotransportér).
+
+**Receptorová heterogenita** — receptory se dělí na typy, podtypy a izoformy; jejich variabilita se dál zvyšuje skládáním do dimerů/oligomerů a genovými mutacemi — to může být i příčinou některých nemocí.
+
+❓ **Doptají se:**
+- *Jaký typ receptoru má nejrychlejší nástup účinku a proč?* → **Ionotropní** — receptor JE zároveň iontový kanál, žádný mezikrok navíc.
+- *Proč nitroglycerin rozšiřuje cévy?* → Uvolňuje NO, který aktivuje guanylátcyklázu → cGMP → myorelaxace hladkého svalu cévy.
+- *Proč sarin nejde léčit "vypláchnutím" enzymu?* → Váže se ireverzibilně (kovalentně) na acetylcholinesterázu; po stabilizaci vazby ("zestárnutí") ji nejde obnovit ani antidotem.
+- *Proč kortikoidy nezaberou okamžitě?* → Jsou to ligandy jaderných receptorů řídících transkripci — účinek závisí na syntéze nových bílkovin, trvá hodiny až dny.
+
+---
