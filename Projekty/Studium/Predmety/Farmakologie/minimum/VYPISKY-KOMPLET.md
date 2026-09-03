@@ -520,3 +520,133 @@ Kvalitativní požadavky: sterilita, izotonicita, **pH kolem 7–9** (bezbolestn
 - *Co znamená, že difuze "není saturovatelná"?* → I při vysoké koncentraci se rychlost přestupu dál úměrně zvyšuje — na rozdíl od transportu přenašečem, který se dá "zahltit".
 
 ---
+
+## O11 · Základní farmakokinetické parametry a procesy
+
+**O čem to je:** Farmakokinetika popisuje, co se s lékem v těle děje od podání do vyloučení. Aby se to dalo **měřit a počítat** (třeba pro správné dávkování), existuje pár klíčových veličin — tahle otázka je jen vyjmenovává a vysvětluje, co která znamená.
+
+**Farmakokinetika** je podobor farmakologie, který studuje děje ovlivňující přítomnost léčiva v organismu **v čase** — od podání až po vyloučení. Odpovídá na otázku *"Co se v organismu děje s léčivem?"* — základní čtyři děje jsou **ADME** (Absorpce, Distribuce, Metabolismus, Exkrece).
+
+Rychlost a rozsah těchto dějů závisí na vlastnostech biologických membrán, kterými léčivo prochází — jejich tloušťce, integritě, těsnosti mezibuněčných spojů, přítomnosti pórů a membránových přenašečů (navazuje na O10).
+
+**Sedm základních farmakokinetických parametrů** — čísla, kterými se dávkování počítá:
+
+| Parametr | Značka | Jednotka | Co vyjadřuje |
+|---|---|---|---|
+| absolutní biologická dostupnost | **F** | bezrozměrná (%) | jak velká část dávky se dostane do krve v účinné formě — rozsah absorpce a presystémové eliminace |
+| rychlostní konstanta absorpce | **ka** | 1/čas | jak rychle probíhá absorpce |
+| zdánlivý distribuční objem | **Vd** | objem | jak moc se léčivo "rozptýlí" po těle — rozsah distribuce |
+| celková clearance | **CL** | objem/čas | jak rychle se z těla "čistí" — rychlost očišťování distribučního objemu od léčiva |
+| rychlostní konstanta eliminace | **ke** | 1/čas | jak rychle klesá koncentrace |
+| biologický poločas eliminace | **t½** | čas | za jak dlouho klesne koncentrace na polovinu |
+| volná frakce léčiva v plazmě | **fu** | bezrozměrná | kolik léčiva NENÍ navázané na bílkoviny (jen volná frakce je účinná) |
+
+🔑 **Prakticky se pro výpočet dávkování stačí měřit koncentrace léčiva v krevní plazmě** — koncentrace v krvi je v rovnováze s koncentrací ve tkáních, a její změny v čase odrážejí souhrnný výsledek všech čtyř ADME dějů najednou.
+
+❓ **Doptají se:**
+- *Co znamená Vd?* → Zdánlivý (ne skutečný fyzický) objem, do kterého by se muselo léčivo rozpustit, aby vysvětlilo naměřenou koncentraci v krvi — velké Vd znamená, že léčivo je hlavně ve tkáních, ne v krvi.
+- *Co je clearance?* → Objem plazmy (nebo krve), který se za jednotku času "vyčistí" od léčiva úplně.
+
+---
+
+## O12 · Farmakokinetické procesy nultého a prvního řádu, saturační kinetika
+
+**O čem to je:** Tělo neodbourává všechny léky stejně — u většiny platí, že čím víc léku v krvi je, tím rychleji ho tělo odbourává (úměrně). Ale u pár léků má tělo **omezenou kapacitu**, a ta se dá "ucpat" — pak se lék hromadí nebezpečně rychle. To je rozdíl mezi kinetikou 1. a 0. řádu.
+
+**Dvě klíčové otázky, které rozhodnou, o jaký typ kinetiky jde:**
+1. Odstraňují eliminační orgány léčivo **stejně efektivně** při nízkých i vysokých koncentracích?
+2. Je kapacita orgánů **limitovaná** — má rychlost eliminace nepřekročitelné maximum?
+
+**Kinetika 1. řádu (lineární farmakokinetika)** — *odpověď: ANO / NE.* Eliminační orgány odstraňují léčivo **stejně efektivně bez ohledu na koncentraci**, kapacita není limitovaná, eliminace nemá maximum. Za stejný časový interval (**biologický poločas t½**) klesne koncentrace vždy na polovinu — bez ohledu na to, jak vysoko začínala. **Platí pro naprostou většinu léčiv.**
+
+**Pravidlo pěti poločasů** (kolik léčiva zbývá po kolika poločasech):
+
+| Počet poločasů | Zbývající koncentrace |
+|---|---|
+| 1 | 50 % |
+| 2 | 25 % |
+| 3 | 12,5 % |
+| 4 | 6,25 % |
+| 5 | 3,125 % (prakticky eliminováno) |
+
+🔑 **Po 5 poločasech je léčivo prakticky pryč z těla** — tohle pravidlo se používá i naopak, u nasycovací dávky nebo u ustáleného stavu při opakovaném podávání.
+
+**Kinetika 0. řádu (nelineární/saturační farmakokinetika)** — *odpověď: NE / ANO.* Kapacita eliminačních orgánů **je limitovaná** a rychlost eliminace má **nepřekročitelné maximum**. Koncentrace klesá **konstantní rychlostí** bez ohledu na to, kolik léčiva v krvi je (lineární pokles v čase, ne exponenciální) — pokles koncentrace a celková doba eliminace jsou úměrné dávce. Následek: **AUC (plocha pod křivkou) roste s dávkou exponenciálně**, ne přímo úměrně jako u kinetiky 1. řádu — to znamená, že i malé zvýšení dávky může vést k **neúměrně vysoké a nebezpečné koncentraci** → riziko intoxikace při předávkování.
+
+⚠️ **Léčiva, u kterých se v terapeutických dávkách reálně objevuje kinetika 0. řádu:** **salicyláty (kyselina acetylsalicylová), teofylin, omeprazol, etanol.** Tahle čtyři jména se ptají skoro vždy.
+
+**Saturační (Michaelis–Mentenová) kinetika** — spojuje obojí: je to jev omezený na malý okruh látek (právě těch čtyř výše), kde existuje **maximální rychlost eliminace (vmax)** — po vyčerpání (saturaci) enzymů se přidáním dalšího substrátu rychlost eliminace už nezvýší. **Při nízké koncentraci v plazmě se látka chová podle kinetiky 1. řádu, při vysoké koncentraci (blízko vmax) přechází na kinetiku 0. řádu.** Právě tahle změna chování je nebezpečná — malý nárůst dávky u vysoké výchozí koncentrace vede k neúměrnému skoku hladiny v krvi.
+
+❓ **Doptají se:**
+- *Proč je nebezpečné předávkování etanolem nebo teofylinem?* → Mají kinetiku 0. řádu (respektive Michaelisovu-Mentenovou blízko saturaci) — malé zvýšení dávky vede k neúměrně velkému nárůstu koncentrace v krvi.
+- *Kolik procent léčiva zbývá po 3 poločasech?* → **12,5 %.**
+- *Co znamená, že je enzym "saturovaný"?* → Je vyčerpaný (obsazený) substrátem natolik, že další přidaný substrát se už neodbourá rychleji — rychlost eliminace dosáhla svého stropu (vmax).
+
+---
+
+## O13 · Absorpce léčiv, Batemanova funkce, biologická dostupnost a její měření, AUC
+
+**O čem to je:** Tahle otázka spojuje tři věci: **jak léčivo z místa podání vstoupí do krve** (absorpce), **jak vypadá křivka koncentrace v čase** (Batemanova funkce) a **kolik z podané dávky se reálně využije** (biologická dostupnost, AUC). Je to jedna z nejdůležitějších a nejpočetnějších otázek z farmakokinetiky.
+
+**Absorpce** = proces, kterým léčivo proniká z místa podání do systémové krevní cirkulace. Dvě klíčové charakteristiky:
+- **rychlost** — rozhoduje o **nástupu účinku** (jak rychle po podání účinek začne),
+- **rozsah** — rozhoduje o **intenzitě a délce trvání účinku** u léčiv podaných mimo cévu.
+
+**Co absorpci ovlivňuje:** chemické vlastnosti látky (pKa, lipofilita, velikost molekuly), fyzikální vlastnosti (polymorfismus, velikost částic), (pato)fyziologické faktory (funkce a motilita střeva), vlastnosti lékové formy (excipienty), cesta podání, lékové interakce (antacida) a potrava (klasický příklad: **tetracykliny se váží na vápník z mléka** a špatně se pak vstřebávají). ⚠️ I **místní** podání může vést k významnému vstřebání a systémovým nežádoucím účinkům — "lokální" neznamená automaticky "bezpečné".
+
+### Cesty podání — rychlost, rozsah, nástup účinku
+
+Tohle je klíčová tabulka celé otázky — u zkoušky se ptají přesně na tahle čísla:
+
+| Cesta | Absolutní biolog. dostupnost F | Absorpční plocha | Nástup účinku | Poznámka |
+|---|---|---|---|---|
+| **i.v. (nitrožilní)** | **F = 1 (100 %)** | — | ~2 min | přímo do krve; rychlá injekce riskuje toxický vrchol (útlum dechu, arytmie); nesmí obsahovat látky srážející krev/hemolyzující |
+| **i.m. (nitrosvalové)** | F ≈ 0,8 | — | 10–15 min | lze podat i suspenze/emulze, hydrofilní i lipofilní léčiva |
+| **s.c. (podkožní)** | F ≈ 0,7 | — | 15–20 min | pomalejší než i.m.; inzuliny, vakcíny, heparin; možné i implantáty s uvolňováním měsíce |
+| **inhalační** | — | ~100 m² (alveoly) | sekundy až minuty | rychlost blízká i.v.; **obejde first-pass efekt v játrech** |
+| **sublingvální/bukální** | — | — | ~2 min | jen velmi lipofilní látky; **žádná presystémová eliminace** (obejde first-pass); analgetika, nitráty |
+| **rektální** | — | malá, ale dobře prokrvená | ~15 min | jen část obejde first-pass (krev odtéká jak přes v. portae, tak přímo do VCI); antipyretika, analgetika, antiemetika |
+| **intranazální** | nízkomolekulární peptidy jen 3–5 % | ~180 cm² | ~5 min | obchází first-pass; využívá se pro triptany u migrény a pro urgentní antidota (naloxon, flumazenil) |
+| **perorální (p.o.)** | F ≈ 0,5 | žaludek 1 m², tenké střevo 200 m² (klky/mikroklky) | ~30 min | nejpomalejší, nejvíc ovlivněné jídlem a first-pass efektem |
+| **transdermální** | — | — | pomalý, plynulý (jako i.v. infuze) | jen lipofilní léčiva s MH < 400; náplast až na 7 dní; žádná presystémová eliminace |
+
+**Perorální podání podrobněji:** absorpci předchází uvolnění látky z lékové formy a její rozpuštění (příliš lipofilní látky, jako cyklosporin A, se špatně rozpouští a vstřebávají). Místo vstřebávání:
+- **žaludek** (pH 1,5 nalačno, 3 po jídle) — lépe se tu vstřebávají **slabé kyseliny** (v kyselém prostředí nedisociují), absorpční plocha jen 1 m²,
+- **tenké střevo** (pH 6,5–8) — **nejčastější místo absorpce**, dobře se tu vstřebávají **slabé zásady**; navíc funguje aktivní transport pro látky podobné tělu vlastním (aminokyseliny, peptidy, vitaminy); obrovská plocha díky klkům — **200 m²**.
+
+**Intravenózní/intraarteriální:** léčivo jde přímo do krve, **F = 1 vždy** — proto se i.v. dávka bere jako referenční "100 %" pro výpočet biologické dostupnosti ostatních cest.
+
+**Epidurální a intratékální podání** — injekce do míšního kanálu: epidurálně nad tvrdou plenu míšní, intratékálně (lumbální punkcí) do mozkomíšního moku. Používá se pro lokální anestetika/analgetika, nebo když chceme **obejít hematoencefalickou bariéru** a dosáhnout vysokých koncentrací v CNS (cytostatika, ATB).
+
+### Batemanova funkce
+
+Popisuje **časový průběh koncentrace léčiva v plazmě po mimožilním (extravaskulárním) podání** — typická křivka má tři fáze:
+1. na začátku **rychlost absorpce převyšuje rychlost eliminace** → koncentrace stoupá,
+2. v bodě **Cmax** (dosaženém v čase **tmax**) se rychlost absorpce a eliminace přesně vyrovnají — vrchol křivky,
+3. pak **rychlost eliminace převáží** nad absorpcí → koncentrace klesá.
+
+### Biologická dostupnost (F) a AUC
+
+**Biologická dostupnost** = jaká část podané dávky se **skutečně dostane do systémové cirkulace ve farmakologicky účinné formě** — protože absorpce nikdy není 100 % a část se navíc ztratí presystémovou eliminací (first-pass). Pro perorální podání se F počítá jako **poměr AUC po p.o. podání ku AUC po i.v. podání** stejné dávky.
+
+*Konkrétní počítaný příklad ze zdroje (dobré si zapamatovat postup):* z 500 mg podané látky se ztratí 20 % absorpcí (zůstane 80 %), pak 24 % metabolismem ve střevní stěně (zůstane 56 %), pak 28 % metabolismem v játrech → výsledná biologická dostupnost **F = 28 %** (do krve se dostane jen 140 mg z 500 mg podaných).
+
+**AUC** (*area under the curve*) = plocha pod křivkou koncentrace v čase, počítá se **lichoběžníkovým pravidlem** (součet ploch drobných lichoběžníků pod křivkou). Pro léčiva s kinetikou 1. řádu je **AUC přímo úměrná dávce**.
+
+**Farmakokinetika po jednorázovém podání** (jednokompartmentový model, absorpce kinetikou 1. řádu): rychlostní konstanta absorpce **ka klesá v pořadí i.m. > s.c. > p.o.** — co udělá se se křivkou, když se změní jednotlivé parametry:
+
+| Změna | Co se stane s křivkou |
+|---|---|
+| ↑ rychlost absorpce (ka) | vyšší **Cmax**, dosažené **dříve** (kratší tmax) |
+| ↓ biologická dostupnost (F) | úměrně nižší **AUC i Cmax** |
+| ↑ distribuční objem (Vd) | nižší Cmax, pomalejší pokles koncentrace, **delší t½** — ale AUC se nemění |
+| ↑ clearance (CL) | úměrně nižší **AUC i Cmax**, rychlejší pokles (kratší t½) |
+
+🔑 **F = 1 jen u i.v.** Všechny ostatní cesty ztrácejí část dávky absorpcí a/nebo first-pass efektem — proto se stejný lék podává perorálně ve vyšší dávce než nitrožilně.
+
+❓ **Doptají se:**
+- *Proč se slabé kyseliny lépe vstřebávají v žaludku a slabé zásady ve střevě?* → V kyselém prostředí žaludku kyseliny nedisociují (jsou v neionizované, vstřebatelné formě), zásady tam naopak disociují; ve střevě je to obráceně.
+- *Co znamená, že AUC se u vyššího Vd nemění?* → Vd ovlivňuje jen to, jak rychle koncentrace klesá a jak vysoký je vrchol — ne celkové množství léčiva, které se do těla dostalo.
+- *Která cesta má nejrychlejší nástup účinku?* → **Inhalační a i.v.** (sekundy až ~2 minuty), sublingvální těsně za nimi.
+
+---
