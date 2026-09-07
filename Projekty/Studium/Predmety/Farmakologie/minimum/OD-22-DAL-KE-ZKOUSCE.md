@@ -1675,3 +1675,104 @@
 ❓ *Co je penicilin volby na dentální infekci a proč?* → **Penicilin V** — je odolný vůči žaludeční kyselině (dá se podat ústy) a pokrývá orální streptokoky a anaeroby; u alergie na penicilin **klindamycin**.
 
 ---
+
+## 84 · Cefalosporiny, karbapenemy, monobaktamy
+
+**O čem to je:** „příbuzní" penicilinů v pěti generacích (s každou roste síla proti G− bakteriím) + karbapenemy jako **rezerva na multirezistentní kmeny**.
+
+- **Mechanismus:** stejný jako u penicilinů — **betalaktamový kruh blokuje syntézu buněčné stěny**, baktericidní, na čase závislé. Proti penicilinům jsou **odolnější vůči betalaktamázám**; ⚠️ **zkřížená alergie s peniciliny asi u 5–10 %**. Vylučují se hlavně **ledvinami**.
+
+| Generace | Spektrum a použití | Zástupci |
+|---|---|---|
+| **1.** | hlavně **G+ koky**, částečně *E. coli* a *Proteus*; ⚠️ **neprocházejí do likvoru → ne u meningitidy**; alternativa při alergii na PNC, **profylaxe v chirurgii** | cefazolin (i.v.), cefadroxil (p.o.) |
+| **2.** | méně G+, víc **G−** (*Klebsiella*, *Proteus*, hemofily); infekce dýchacích a močových cest | cefuroxim |
+| **3.** | silně **G−** a kmeny s betalaktamázou; ⚠️ **pronikají do CNS → meningitidy a sepse** (ale **ne na listerie**) | cefotaxim, **ceftriaxon**, **ceftazidim** (*Pseudomonas*) |
+| **4.** | G+ i rezistentní G−; ⚠️ **volba u febrilní neutropenie** | cefepim |
+| **5.** | pokrývá i **MRSA** | ceftarolin |
+
+- **Karbapenemy** (**imipenem, meropenem, ertapenem**) — nejširší spektrum ze všech ATB, **stabilní vůči většině betalaktamáz**; jen **parenterálně**. **Indikace: těžké nemocniční a smíšené infekce, multirezistentní G− kmeny, febrilní neutropenie.** ⚠️ **Imipenem se v ledvinných tubulech rozkládá dehydropeptidázou → kombinuje se s cilastatinem**, který ji blokuje. **NÚ: dráždění CNS až křeče** (nejvíc imipenem), nauzea; **ertapenem nepokrývá pseudomonádu ani enterokoky**.
+- **Monobaktamy — aztreonam:** jen **G− včetně pseudomonády**, i.v.; ⚠️ **nemá zkříženou alergii s peniciliny** → volba u těžce alergických; **lék volby u plicní infekce *P. aeruginosa* při cystické fibróze**.
+
+❓ *Proč nelze cefalosporin 1. generace u meningitidy?* → Neprochází přes hematoencefalickou bariéru do likvoru.
+
+---
+
+## 85 · Aminoglykosidy, chinolony
+
+**O čem to je:** dvě skupiny silných baktericidních ATB s výraznou toxicitou — aminoglykosidy ničí **sluch a ledviny**, chinolony jsou **zakázané u dětí a těhotných**.
+
+- **Aminoglykosidy — gentamicin, tobramycin, amikacin** (lokálně neomycin)
+  - **Mechanismus:** **ireverzibilní vazba na 30S ribozomální podjednotku** → chybné čtení mRNA a zástava proteosyntézy → **baktericidní**, ⚠️ **účinek závislý na koncentraci** → dávkují se **1× denně ve vysoké dávce** (lepší efekt a menší toxicita).
+  - **Spektrum:** **G− tyčinky** (enterobakterie, pseudomonáda, *Acinetobacter*), stafylokoky; **amikacin i mykobakteria**. ⚠️ **Nefungují v anaerobním a kyselém prostředí (absces)** — vstup do bakterie je závislý na kyslíku; v kombinaci s betalaktamem působí **synergicky** (endokarditida).
+  - **Kinetika:** ⚠️ **nevstřebávají se z GIT** → jen parenterálně; vylučují se **ledvinami** nezměněné; **úzké terapeutické okno → nutná monitorace hladin (TDM)**.
+  - ⚠️ **NÚ — nejvděčnější část:** **ototoxicita** — poškození **VIII. hlavového nervu** (tinnitus, nedoslýchavost, závratě, poruchy rovnováhy), často **nevratná** · **nefrotoxicita** (poškození tubulů, obvykle vratná) · **nervosvalová blokáda až zástava dechu** (presynapticky snižují výdej ACh — ⚠️ pozor u myasthenia gravis a po myorelaxanciích). **KI:** renální insuficience, gravidita, myasthenia gravis; ⚠️ nekombinovat s **furosemidem** (ototoxicita) ani s vankomycinem (nefrotoxicita).
+- **Chinolony a fluorochinolony**
+  - **Mechanismus:** ⚠️ **blokáda bakteriálních topoizomeráz — DNA gyrázy (topoizomeráza II) u G−, topoizomerázy IV u G+** → nemůže probíhat replikace DNA; baktericidní, závislé na koncentraci. *(⚠️ Některé studentské materiály chybně píší „DNA polymeráza" — to je věcná chyba.)*
+  - **Generace: 1.** kyselina nalidixová — jen močové infekce · **2. fluorochinolony** — **ciprofloxacin** (G−, **pseudomonáda**, močové a střevní infekce), ofloxacin, norfloxacin · **3.–4. „respirační"** — **levofloxacin, moxifloxacin** (pneumokoky, atypické patogeny, komunitní pneumonie).
+  - **Kinetika:** výborná perorální dostupnost a průnik do tkání i do buněk. ⚠️ **Vápník, hořčík, železo a antacida jejich vstřebání blokují** (chelace) — podávat s odstupem.
+  - ⚠️ **NÚ a KI:** **postižení chrupavek a šlach — tendinitida a ruptura Achillovy šlachy** (proto **KI u dětí do ukončení růstu a v graviditě**), fototoxicita, **prodloužení QT**, periferní neuropatie, zmatenost a křeče (snižují práh), **průjem po *C. difficile***, dysglykemie.
+
+🔑 **Aminoglykosidy = 30S ribozom, ototoxicita (VIII. nerv) a nefrotoxicita, 1× denně. Chinolony = topoizomerázy, šlachy a chrupavky → ne dětem a těhotným.**
+
+❓ *Proč aminoglykosid nezabere v abscesu?* → V kyselém anaerobním prostředí se nedostane do bakterie (jeho vstup je závislý na kyslíku).
+
+---
+
+## 86 · Linkosamidy, glykopeptidy, polymyxiny
+
+**O čem to je:** tři „rezervní" skupiny. ⚠️ **Klindamycin je tvoje antibiotikum na zubní infekce** (proniká do kosti a pokrývá anaeroby).
+
+- **Linkosamidy — klindamycin, linkomycin**
+  - **Mechanismus:** vazba na **50S podjednotku ribozomu** → blokáda proteosyntézy; bakteriostatické až baktericidní.
+  - **Spektrum:** **G+ koky (streptokoky, stafylokoky včetně části MRSA) a ANAEROBY**. ⚠️ **Výborně proniká do kosti a do abscesů.**
+  - **Indikace:** ⚠️ **odontogenní infekce a osteomyelitida čelisti — hlavně při alergii na penicilin**, anaerobní infekce, abscesy, aspirační pneumonie, gynekologické záněty, toxoplazmóza.
+  - ⚠️ **NÚ: nejvyšší riziko pseudomembranózní kolitidy (*Clostridioides difficile*)** ze všech ATB — průjem, horečka; léčba **vankomycinem p.o. nebo metronidazolem**.
+- **Glykopeptidy — vankomycin, teikoplanin**
+  - **Mechanismus:** vazba na **D-alanyl-D-alanin** prekurzoru peptidoglykanu → **zablokuje stavbu buněčné stěny** (jiné místo než betalaktamy); baktericidní, jen na **G+**.
+  - **Indikace:** ⚠️ **MRSA**, *Enterococcus*, těžké infekce G+ při alergii na betalaktamy, **perorálně u pseudomembranózní kolitidy** (nevstřebává se → působí lokálně ve střevě).
+  - **NÚ:** **nefrotoxicita a ototoxicita** (nutné TDM), flebitida; ⚠️ **red man syndrom** — zarudnutí horní poloviny těla při **příliš rychlé infuzi**, způsobené přímým uvolněním histaminu; **není to alergie**, stačí infuzi zpomalit.
+  - **Rezistence: VRE** (vankomycin-rezistentní enterokoky) a **VRSA**.
+- **Polymyxiny — kolistin:** **naruší cytoplazmatickou membránu** G− bakterií (působí jako detergent). ⚠️ **Rezervní ATB na multirezistentní nemocniční G− kmeny** (*Pseudomonas*, *Acinetobacter*, *Klebsiella*). **NÚ: nefrotoxicita a neurotoxicita.** **Bacitracin** — jen lokálně na G+ (Framykoin = bacitracin + neomycin).
+
+❓ *Které ATB volíš u odontogenní infekce při alergii na penicilin?* → **Klindamycin** — pokrývá orální streptokoky a anaeroby a proniká do kosti; pozor na riziko klostridiové kolitidy.
+
+---
+
+## 87 · Tetracykliny, amfenikoly
+
+**O čem to je:** ⚠️ **tetracykliny se vážou na vápník → poškozují vyvíjející se zuby a kosti** (přímo tvoje téma). Chloramfenikol je dnes rezerva kvůli aplastické anemii.
+
+- **Tetracykliny — doxycyklin, tetracyklin, minocyklin, tigecyklin**
+  - ⚠️ **Mechanismus: vazba na 30S podjednotku ribozomu → blokáda proteosyntézy, bakteriostatický efekt.** *(Tvůj zdroj u nich chybně uvádí inhibici buněčné stěny — to je věcná chyba, nezopakuj ji.)*
+  - **Spektrum:** široké — G+ i G−, a hlavně **nitrobuněční a atypičtí patogeni: chlamydie, mykoplazmata, rickettsie, borrelie, *Yersinia*, aktinomycety**, akné.
+  - **Indikace:** atypická pneumonie, **lymeská borelióza**, chlamydiové infekce, akné, rickettsiózy, malárie (profylaxe).
+  - **Kinetika:** ⚠️ **chelatují dvojmocné ionty — mléko, antacida, železo a vápník výrazně snižují vstřebání** (podávat nalačno, s odstupem).
+  - ⚠️ **NÚ a KI: ukládají se do mineralizujících se tkání → nevratné hnědožluté zbarvení zubů, hypoplazie skloviny, zpomalení růstu kostí → KONTRAINDIKOVÁNY do 12 let věku, v graviditě a při kojení**; dále **fototoxicita**, dráždění jícnu a GIT, hepatotoxicita ve vysokých dávkách.
+- **Amfenikoly — chloramfenikol:** vazba na **50S ribozom**, bakteriostatický, velmi široké spektrum a výborný průnik i do CNS. ⚠️ **Dnes rezerva kvůli NÚ: nevratná aplastická anemie** (idiosynkratická, nezávislá na dávce), dřeňový útlum závislý na dávce a ⚠️ **gray baby syndrom** u novorozenců (nezralá glukuronidace, viz O33). Používá se hlavně **lokálně** (oční kapky), systémově u tyfu a mozkových abscesů, kde nic jiného nezbývá.
+
+🔑 **Tetracykliny = 30S, vápník, zuby a kosti → nikdy dětem a těhotným. Chloramfenikol = 50S, aplastická anemie a gray baby syndrom.**
+
+❓ *Proč se tetracyklin nesmí zapíjet mlékem?* → Vytvoří s vápníkem nevstřebatelný chelát → antibiotikum se nevstřebá (farmaceutická interakce, viz O25).
+
+---
+
+## 88 · Makrolidy `[doplněno — chybí v materiálu katedry]`
+
+⚠️ **Tuhle otázku tvůj zdroj nemá** — text je ze standardní učebnice; kdybys měla materiál katedry, řiď se jím.
+
+**O čem to je:** ATB na **atypické, nitrobuněčné patogeny** a **nejčastější náhrada penicilinu při alergii**.
+
+- **Mechanismus:** vazba na **50S podjednotku (23S rRNA)** → blokáda translokace peptidového řetězce → **bakteriostatický** efekt (ve vysoké koncentraci baktericidní). Vazebné místo sdílejí s linkosamidy → **zkřížená rezistence (MLS-B fenotyp)**.
+- **Zástupci:** **erythromycin, klarithromycin, roxithromycin** (14-členné) · **azithromycin** (azalid, 15-členný) · **spiramycin** (16-členný).
+- **Spektrum:** G+ koky, moraxella, neisserie, **černý kašel, kampylobakter, *H. pylori***, a hlavně ⚠️ **atypické patogeny — mykoplazma, chlamydie, legionella**. **Nepůsobí na enterobakterie ani pseudomonádu.**
+- **Kinetika:** výborný průnik **do buněk a tkání** (proto účinek na nitrobuněčné patogeny), do likvoru špatně; vylučují se **žlučí, ne ledvinami** (není nutná úprava při renální insuficienci). **Azithromycin** má velmi dlouhý poločas → **1× denně, kúra 3–5 dní**.
+- **Indikace:** **komunitní a atypická pneumonie**, ⚠️ **respirační a streptokokové infekce při alergii na penicilin**, černý kašel, chlamydiové urogenitální infekce, **eradikace *H. pylori*** (klarithromycin), legionelóza, **spiramycin u toxoplazmózy v graviditě**.
+- **NÚ:** GIT potíže (nejvíc erythromycin — je agonista motilinu, proto se off-label používá jako prokinetikum), ⚠️ **prodloužení QT → torsade de pointes**, hepatotoxicita, kovová chuť (klarithromycin).
+- ⚠️ **Interakce — nejvděčnější část otázky: erythromycin a klarithromycin silně inhibují CYP3A4** → zvyšují hladinu **statinů (rabdomyolýza), warfarinu (krvácení), karbamazepinu, cyklosporinu, teofylinu, midazolamu**; makrolidy navíc zvyšují hladinu **digoxinu** (potlačí střevní bakterii, která ho inaktivuje). ⚠️ **Azithromycin CYP3A4 prakticky neinhibuje** → u pacienta na statinu nebo warfarinu volíš jeho.
+
+❓ *Který makrolid zvolíš u pacienta na statinu a proč?* → **Azithromycin** — na rozdíl od klarithromycinu neblokuje CYP3A4, takže nehrozí rabdomyolýza.
+
+---
+
+# ČÁST 3 — SPECIÁLNÍ FARMAKOLOGIE II (89–136)
+
