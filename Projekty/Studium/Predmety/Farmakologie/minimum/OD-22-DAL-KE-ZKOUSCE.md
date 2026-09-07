@@ -952,3 +952,116 @@
 ❓ *Jaký je rozdíl mezi typickými a atypickými antipsychotiky?* → Atypika blokují víc 5-HT2 než D2 → méně extrapyramidových NÚ a účinek i na **negativní** příznaky; platí za to metabolickými NÚ.
 
 ---
+
+## 56 · Antidepresiva — tricyklická (TCA), inhibitory MAO
+
+**O čem to je:** deprese souvisí s nedostatkem monoaminů (serotonin, noradrenalin, dopamin) v mozku. Tahle otázka pokrývá **dvě nejstarší skupiny** — účinné, ale rizikové.
+
+- **Deprese — příznaky ve skupinách:** **psychické** (skleslá nálada, ztráta zájmu a energie, pocity viny, **sebevražedné myšlenky**) · **somatické** (nechutenství, poruchy spánku, zácpa, sexuální dysfunkce, **suchost sliznic**) · **behaviorální** (zpomalení, pláč, izolace) · **kognitivní** (nesoustředěnost, nerozhodnost) · **psychotické** (bludy, halucinace). Postižené struktury: prefrontální kůra, **hipokampus, amygdala**, limbický systém.
+- **Monoaminová hypotéza:** klesá nabídka NA, serotoninu a dopaminu + dochází k **down-regulaci receptorů**. Všechna antidepresiva **zvyšují nabídku monoaminů** třemi cestami: ① blokáda **zpětného vychytávání** ② inhibice **odbourávacích enzymů** ③ přímé působení na receptory. ⚠️ **Účinek nastupuje až za 2–4 (až 6) týdnů** — hladina přenašeče stoupne hned, ale klinické zlepšení vyžaduje adaptaci receptorů. Tohle chtějí slyšet.
+
+**Tricyklická antidepresiva (TCA)** — **imipramin, amitriptylin, klomipramin, nortriptylin, dosulepin**.
+- **Mechanismus:** neselektivní blokáda zpětného vychytávání **noradrenalinu i serotoninu**.
+- **NÚ si odvoď z blokovaných receptorů, neuč se je jako seznam:** **muskarinové** → sucho v ústech, zácpa, retence moči, poruchy akomodace, u seniorů **delirium** · **α1-adrenergní** → ortostatická hypotenze, závratě, reflexní tachykardie · **H1-histaminové** → sedace a **přírůstek hmotnosti**.
+- ⚠️ **Hlavní bezpečnostní problém: kardiotoxicita** (blokáda Na⁺ kanálů → prodloužení QRS, arytmie) → **vysoká letalita při předávkování** (a předávkuje se právě suicidální pacient). Dále snižují práh pro křeče.
+- **KI:** čerstvý infarkt a poruchy vedení, glaukom s úzkým úhlem, hyperplazie prostaty, současně IMAO; ⚠️ **s alkoholem hrozí útlum dechu**. Procházejí placentou i do mléka. Vysazovat **postupně** (jinak závratě, nauzea, třes).
+- **Indikace:** těžká deprese, **neuropatická bolest a profylaxe migrény** (amitriptylin v nízké dávce), obsedantně-kompulzivní porucha (klomipramin), noční pomočování u dětí.
+
+**Inhibitory MAO (IMAO)** — **MAO-A** (v neuronech a **střevní stěně**) odbourává serotonin, NA i tyramin; **MAO-B** (hlavně v mozku) hlavně dopamin.
+- ⚠️ **Dvě interakce, kvůli kterým se prakticky nepoužívají:** ① **tyraminová („sýrová") hypertenzní krize** — zrající sýry, uzeniny, červené víno (viz otázka 44) ② **serotoninový syndrom** při kombinaci se SSRI, tramadolem, triptany.
+- **Dnes se používá už jen moklobemid** — **reverzibilní selektivní inhibitor MAO-A** (RIMA), u kterého je riziko tyraminové reakce výrazně nižší; indikace deprese a **sociální fobie**. NÚ: nespavost, ortostatická hypotenze, závratě. Starší ireverzibilní (tranylcypromin, fenelzin) vyžadovaly přísnou dietu. ⚠️ **Před převodem z IMAO na jiné antidepresivum je nutná pauza (u ireverzibilních 2 týdny).**
+
+🔑 **TCA = účinná, ale kardiotoxická a letální při předávkování · IMAO = nebezpečné interakce (sýr, serotoninergní léky).**
+
+❓ *Proč antidepresivum nezabere hned?* → Hladina přenašeče stoupne během hodin, ale klinický efekt vyžaduje **adaptaci (down-regulaci) receptorů** — 2–4 týdny.
+
+---
+
+## 57 · Antidepresiva — SSRI, SNRI a atypická
+
+**O čem to je:** novější generace, dnes **lék první volby** u deprese i úzkosti — cílenější mechanismus, méně nežádoucích účinků.
+
+- **SSRI (selektivní inhibitory zpětného vychytávání serotoninu)** — **fluoxetin, sertralin, citalopram, escitalopram, paroxetin, fluvoxamin**.
+  - **Mechanismus:** selektivní blokáda serotoninového transportéru (SERT) → víc serotoninu v synapsi.
+  - **Indikace:** **deprese, generalizovaná úzkostná porucha, panická porucha, OCD, PTSD, sociální fobie, bulimie**, předčasná ejakulace.
+  - **Proč se prosadily:** dobrá snášenlivost, **bezpečné při předávkování** (na rozdíl od TCA), nezvyšují výrazně hmotnost.
+  - **NÚ:** nauzea a průjem (na začátku), **sexuální dysfunkce** (nejčastější důvod vysazení), nespavost nebo naopak sedace, **hyponatremie u seniorů (SIADH)**, ⚠️ **zvýšená krvácivost z horního GIT** — zvlášť v kombinaci s NSA nebo antikoagulancii (serotonin je potřeba k agregaci destiček); na začátku léčby **přechodné zvýšení úzkosti a suicidálního rizika u mladých**.
+  - **Interakce:** blokují **CYP450** (hlavně fluoxetin a paroxetin — CYP2D6) → zvyšují hladiny jiných léků.
+- ⚠️ **Dvě zkratky, které chtějí slyšet:**
+  - **Syndrom z vysazení — FINISH:** **F**lu-like (jako chřipka) · **I**nsomnia · **N**ausea · **I**mbalance (nerovnováha, závratě) · **S**ensory disturbances (brnění, „elektrické šoky") · **H**yperarousal (neklid). Proto se vysazuje pomalu.
+  - **Serotoninový syndrom** (při kombinaci serotoninergních léků): **horečka, pocení, tachykardie, třes, myoklonus, hyperreflexie, zmatenost** až kóma. Léčba: vysadit vše, chladit, benzodiazepiny, v těžkém případě cyproheptadin.
+- **SNRI (serotonin a noradrenalin)** — **venlafaxin, duloxetin, milnacipran**: deprese, úzkostné poruchy, **chronická a neuropatická bolest** (duloxetin i u diabetické neuropatie a stresové inkontinence). NÚ jako SSRI + při vyšších dávkách **hypertenze** a pocení. Vysazovat postupně (venlafaxin má obzvlášť nepříjemný syndrom z vysazení).
+- **Atypická antidepresiva:**
+
+| Léčivo | Mechanismus a zvláštnost |
+|---|---|
+| **Bupropion** | inhibitor vychytávání **noradrenalinu a dopaminu**; **nezpůsobuje sexuální dysfunkce**, ⚠️ **používá se i k odvykání kouření**. NÚ: nespavost, neklid, **snižuje práh pro křeče** |
+| **Mirtazapin** | antagonista **α2** a 5-HT2/5-HT3 → antidepresivní + **sedativní a anxiolytický**, rychlý nástup; vhodný u deprese s úzkostí a nespavostí. NÚ: **sedace a přírůstek hmotnosti** |
+| **Trazodon** | blokáda 5-HT2 + slabá inhibice vychytávání; v nízké dávce **hypnotikum**. NÚ: sedace, ortostáza, vzácně priapismus |
+| **Reboxetin, atomoxetin** | selektivní inhibitory vychytávání noradrenalinu; **atomoxetin se používá u ADHD** |
+
+🔑 **SSRI = dnešní lék volby, bezpečné při předávkování; cenou jsou sexuální dysfunkce, hyponatremie a krvácivost.**
+
+❓ *Proč jsou SSRI rizikové spolu s NSA?* → Blokádou vychytávání serotoninu ochudí destičky o serotonin → horší agregace → **krvácení do GIT**, které NSA ještě zesílí.
+
+---
+
+## 58 · Anxiolytika, stabilizátory nálady
+
+**O čem to je:** dvě propojená témata — léky na **kolísání nálady** u bipolární poruchy (hlavně lithium) a léky proti **úzkosti**.
+
+- **Bipolární porucha:** **typ I** (~1 % populace) — depresivní i **plně vyjádřené manické** epizody · **typ II** — depresivní a jen mírnější **hypomanické** epizody *(zdroj uvádí až 5 % populace)*. **Manická epizoda:** zvýšená aktivita, nadnesená nálada, přehnané sebevědomí, bludy o mimořádných schopnostech, podrážděnost až agrese. **Smíšená epizoda:** podrážděnost, úzkost, impulzivita, sebevražedné myšlenky.
+- **Lithium** — základní stabilizátor nálady.
+  - **Mechanismus není přesně znám** (ovlivňuje druhé posly — inositolový cyklus a GSK-3).
+  - **Indikace:** akutní mánie a hlavně **dlouhodobá profylaxe** epizod; ⚠️ **jako jediný prokazatelně snižuje riziko sebevraždy**.
+  - ⚠️ **Velmi úzké terapeutické okno → nutné TDM** (měření hladin). **NÚ:** třes rukou, **polyurie a žíznivost** (nefrogenní diabetes insipidus), GIT potíže, přírůstek hmotnosti, poruchy paměti, **hypotyreóza**, dlouhodobě poškození ledvin. **Intoxikace:** zvracení, průjem, hrubý třes, ataxie, zmatenost, křeče.
+  - ⚠️ **Interakce, které jsou život ohrožující:** **thiazidová diuretika, ACE inhibitory a NSA zvyšují hladinu lithia** (ledvina ho zpětně vstřebává místo sodíku) → intoxikace. Stejně tak dehydratace a nízkosolná dieta. **KI:** těžká renální insuficience, gravidita (Ebsteinova anomálie srdce plodu).
+  - **Alternativy a doplňky:** antiepileptika **valproát** (u mánie), **lamotrigin** (u bipolární deprese), **karbamazepin**; antipsychotika **olanzapin, kvetiapin, aripiprazol**.
+- **Úzkostné poruchy** — nejčastější duševní poruchy vůbec. ⚠️ **Rozdíl, který chtějí slyšet: u úzkosti nedokáže člověk určit reálnou příčinu; u fobie si uvědomuje, že strach je nepřiměřený, ale přesto mu podléhá.**
+
+| Porucha | Charakteristika |
+|---|---|
+| **panická porucha** | náhlý intenzivní záchvat úzkosti bez reálného nebezpečí (bušení srdce, dušnost, strach ze smrti) |
+| **agorafobie** | strach z míst, odkud je obtížný únik nebo nedostupná pomoc |
+| **sociální fobie** | strach ze situací, kde může být člověk hodnocen |
+| **specifické fobie** | výšky, létání, pavouci |
+| **generalizovaná úzkostná porucha** | trvalé napětí a negativní očekávání |
+| **OCD** | vtíravé myšlenky (**obsese**) + nutkavé úkony (**kompulze**) — strach z nákazy a mytí rukou |
+| **PTSD** | po traumatické události — znovuprožívání, vyhýbání se, hyperarousal |
+
+- **Anxiolytika** (⚠️ **nemají antipsychotický efekt** — v tom se liší od neuroleptik):
+  - **Benzodiazepiny** (alprazolam, klonazepam, oxazepam, diazepam) — **rychlý účinek**, proto se hodí na akutní úzkost a překlenutí prvních týdnů, než zaberou antidepresiva. ⚠️ **Jen krátkodobě** — tolerance, závislost, syndrom z vysazení; ⚠️ **s alkoholem útlum dechového centra**.
+  - **SSRI a SNRI** — **léčba první volby všech úzkostných poruch** (kromě specifických fobií) díky lepšímu poměru přínos/riziko.
+  - **Ostatní:** **hydroxyzin** (antihistaminikum, bez závislosti), **pregabalin** (generalizovaná úzkostná porucha), **buspiron** (parciální agonista 5-HT1A, nástup týdny), **β-blokátory** na somatické projevy trémy (třes, tachykardie).
+
+🔑 **Lithium = úzké terapeutické okno, TDM, pozor na thiazidy/NSA/ACEI a dehydrataci. Snižuje suicidalitu.**
+
+❓ *Proč thiazidové diuretikum ohrožuje pacienta na lithiu?* → Při ztrátě sodíku ho ledvina zadržuje a spolu s ním zpětně vstřebává i lithium → hladina stoupne do toxického pásma.
+
+---
+
+## 59 · Farmakoterapie Alzheimerovy choroby, nootropika
+
+**O čem to je:** hromadí se škodlivá bílkovina a odumírají **cholinergní** neurony — léky proto šetří zbylý acetylcholin, nebo tlumí glutamátovou toxicitu.
+
+- **Klinicky:** postupná porucha **paměti** (nejdřív krátkodobé), ztráta orientace, úbytek intelektových a sociálních dovedností, emoční nestabilita, agitovanost, deprese, poruchy cyklu spánek–bdění.
+- **Patologie — dvě věci, které musíš říct:** ① **extracelulární plaky β-amyloidu** a intracelulární **neurofibrilární klubka z hyperfosforylovaného tau proteinu** `[doplněno]`, ubývají neurony v **hipokampu a bazálním předním mozku** ② **cholinergní deficit** v oblastech pro paměť — a **z tohohle bodu vychází celá léčba**.
+- **Kognitiva — inhibitory cholinesteráz** (šetří zbylý acetylcholin):
+
+| Léčivo | Podstatné |
+|---|---|
+| **Donepezil** | selektivní inhibitor AChE, 1× denně; lehká až středně těžká forma |
+| **Rivastigmin** | blokuje **AChE i butyrylcholinesterázu**, selektivně v kůře a hipokampu; i **náplast** (méně GIT potíží) |
+| **Galantamin** | inhibice AChE + alosterická modulace nikotinových receptorů |
+
+- **NÚ kognitiv (jsou to cholinergní účinky):** nauzea, zvracení, průjem, **bradykardie a synkopy**, křeče, ↑ salivace, nespavost. **KI:** bradykardie a poruchy vedení, aktivní vřed, astma, obstrukce močových cest.
+- **Memantin** — **nekompetitivní antagonista NMDA (glutamátových) receptorů**: brání excitotoxicitě z nadměrné stimulace glutamátem. **Indikace: středně těžká až těžká forma**; s inhibitory AChE má **aditivní efekt**. Dobře snášený, NÚ: závratě, bolest hlavy, zmatenost.
+- ⚠️ **Léčba je symptomatická — zpomalí progresi, nezastaví ji.**
+- **Nootropika** — **piracetam, vinpocetin**, vazoaktivní látky (pentoxifylin, cinnarizin, flunarizin): mají zvyšovat obrat kyslíku a glukózy v mozku, ⚠️ **ale jejich účinek nebyl prokázán kontrolovanou randomizovanou studií** — v praxi je nahradily inhibitory AChE.
+- ⚠️ **Přínos vitaminu E a Ginkgo biloba se v kontrolovaných studiích neprokázal** — typická doplňující otázka.
+
+🔑 **β-amyloid a tau = strukturální podstata · cholinergní deficit = to, co umíme léčit. Inhibitory AChE u lehké/střední formy, memantin u střední/těžké.**
+
+❓ *Proč mají kognitiva GIT nežádoucí účinky a bradykardii?* → Zvyšují acetylcholin **všude**, nejen v mozku — tedy i parasympatické účinky na srdce a střevo.
+
+---
