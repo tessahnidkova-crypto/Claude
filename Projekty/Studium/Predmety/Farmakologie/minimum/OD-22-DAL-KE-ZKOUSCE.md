@@ -1175,3 +1175,116 @@
 ❓ *Proč je kombinace paracetamolu s alkoholem nebezpečná?* → Alkohol indukuje CYP2E1 (víc toxického NAPQI) a zároveň vyčerpává glutathion, který ho má neutralizovat.
 
 ---
+
+## 64 · Nesteroidní antiflogistika (NSA)
+
+**O čem to je:** nejpoužívanější léky na bolest a zánět (ibuprofen, aspirin) — blokují **COX**, který má dvě varianty: „hodnou" COX-1 a „zánětlivou" COX-2. Většina nežádoucích účinků plyne z toho, že klasická NSA blokují obě.
+
+| | **COX-1 (konstitutivní)** | **COX-2 (indukovatelná)** |
+|---|---|---|
+| Kde | trvale ve většině tkání | tvoří se **při zánětu**, indukují ji IL-1, IL-6, TNF-α |
+| Funkce | **ochrana žaludeční sliznice** (PGE2), **průtok ledvinou**, **tromboxan v destičkách** | prostanoidy zánětu — vazodilatace, otok, **bolest**, horečka |
+| Blokáda znamená | ⚠️ **vředy a krvácení do GIT, poškození ledvin, krvácivost** | **analgetický a protizánětlivý efekt — to, co chceme** |
+
+- **Účinky NSA:** **analgetický, antipyretický, protizánětlivý**, u některých antiagregační a antiuratický. **Indikace:** mírná až středně silná bolest, **artritida, osteoartróza, dna**, poúrazové otoky, horečka, pooperační a zubní bolest.
+- **Nežádoucí účinky (rostou s dávkou, délkou léčby a věkem):**
+  - **GIT:** dyspepsie, **vředy, krvácení, perforace** — riziko násobí kombinace s kortikoidy, antikoagulancii nebo SSRI; prevence **inhibitorem protonové pumpy**,
+  - **ledviny:** ↓ prostaglandiny udržující průtok → **retence sodíku a vody, hypertenze, akutní selhání**, dlouhodobě **analgetická nefropatie**; ⚠️ nebezpečná trojkombinace **NSA + ACEI/sartan + diuretikum**,
+  - **kardiovaskulárně:** ↑ tlak, ↑ riziko infarktu a CMP (nejvíc u koxibů a diklofenaku),
+  - **hypersenzitivita:** ⚠️ **aspirinem indukované astma** — zablokovaná COX přesměruje kaskádu do tvorby leukotrienů (viz otázka 62),
+  - **krvácivost** (útlum tromboxanu).
+- **Kontraindikace:** aktivní vřed a krvácení do GIT, těžká renální i jaterní insuficience, srdeční selhání, ⚠️ **III. trimestr gravidity** (předčasný uzávěr Botallovy dučeje, oligohydramnion), astma s přecitlivělostí na NSA.
+
+| Skupina | Zástupci a zvláštnosti |
+|---|---|
+| **salicyláty** | **kyselina acetylsalicylová** — jako jediná blokuje COX **ireverzibilně**; v nízké dávce antiagregační, ve vysoké protizánětlivá. Kyselina salicylová lokálně **keratolyticky** |
+| **deriváty kys. propionové** | **ibuprofen** — nejšetrnější k GIT; **naproxen** — dlouhý poločas, nejnižší kardiovaskulární riziko; ketoprofen, flurbiprofen |
+| **deriváty kys. octové** | **diklofenak, indometacin** — silné, ale vyšší riziko GIT i KVS |
+| **oxikamy** | piroxikam, **meloxikam** (částečně COX-2 preferenční), dlouhý poločas |
+| **preferenční COX-2** | **nimesulid** — jen krátkodobě, ⚠️ hepatotoxicita |
+| **koxiby (selektivní COX-2)** | **celekoxib, etorikoxib, parekoxib** — výrazně méně GIT komplikací, ⚠️ **ale stejné či vyšší kardiovaskulární riziko** a nemají antiagregační efekt |
+
+⚠️ **Dvě věci, na které se ptají:** **Reyeův syndrom** — encefalopatie s jaterním selháním u **dítěte, kterému se při viróze podá kyselina acetylsalicylová**; úmrtnost až 40 % → **dětem se salicyláty nepodávají** (místo nich paracetamol nebo ibuprofen). **Salicylismus** — při vyšších dávkách **tinnitus, poruchy sluchu, závratě, nauzea, hyperventilace**.
+
+🔑 **COX-1 chrání žaludek a ledviny, COX-2 dělá zánět. Aspirin jako jediné NSA blokuje enzym ireverzibilně — proto působí na destičku celých 7–10 dní.**
+
+❓ *Proč mají koxiby méně vředů, ale kardiovaskulárně nejsou bezpečnější?* → Šetří COX-1 v žaludku, ale zároveň potlačí **prostacyklin** v endotelu, zatímco **tromboxan** v destičkách zůstává → posun k trombóze.
+
+---
+
+## 65 · Farmakoterapie migrény
+
+**O čem to je:** záchvatovitá bolest hlavy se změnami průsvitu mozkových cév — léky buď cévy stáhnou zpět (akutní léčba), nebo záchvatům předcházejí (profylaxe).
+
+- **Migréna** = opakovaná záchvatovitá bolest hlavy trvající hodiny až dny, často jednostranná, s nauzeou, zvracením, fotofobií a u části pacientů s **aurou**.
+- **Tři mechanismy vzniku:** ① **vazomotorická složka** — dilatace nitrolebních i mimolebních tepen ② **spouštěcí zóna** v **serotoninergním systému** mozkového kmene ③ **aktivace trigeminovaskulárního systému** — z nemyelinizovaných vláken inervujících pleny se uvolní neuropeptidy (CGRP) → neurogenní zánět a bolest.
+- **Tři stadia záchvatu:** ① vazokonstrikce (fáze aury) → ② **vazodilatace = bolest** → ③ otok a zvýšená propustnost cév.
+
+| Akutní léčba | Podstatné |
+|---|---|
+| **Triptany** | **lék první volby**; **agonisté 5-HT1B/1D** → vazokonstrikce nitrolebních cév + útlum výdeje neuropeptidů z trigeminu. **Sumatriptan** (tablety, nosní sprej, s.c. u těžkého záchvatu), **zolmitriptan** (vyšší dostupnost). ⚠️ **Jen na akutní záchvat, ne na profylaxi.** NÚ: tlak na hrudi, mravenčení, únava, závratě. ⚠️ **KI: ischemická choroba srdeční, stav po infarktu, nekorigovaná hypertenze, kombinace s IMAO a námelovými alkaloidy** |
+| **Námelové alkaloidy** | **ergotamin, dihydroergotamin** — parciální agonisté serotoninových a α-adrenergních receptorů → silná vazokonstrikce; špatná dostupnost → čípky, nosní sprej. NÚ: nauzea, křeče v břiše, průjem, **stahy dělohy** (KI gravidita), bolesti svalů, při nadužívání **ergotismus** (ischemie končetin) |
+| **Analgetika a antiemetika** | u lehčích záchvatů **kyselina acetylsalicylová, ibuprofen, naproxen, paracetamol**; **metoklopramid nebo domperidon** — nejen proti zvracení, ale i proto, že obnoví vyprázdnění žaludku a zlepší vstřebání analgetika |
+
+- **Profylaxe** (při ≥ 4 záchvatech měsíčně): **β-blokátory (metoprolol, propranolol)**, **blokátory kalciových kanálů (verapamil, flunarizin)**, **antiepileptika (valproát, topiramát)**, amitriptylin. Cíl: snížit frekvenci, délku a intenzitu záchvatů a umožnit nižší dávky akutních léků.
+- ⚠️ **Nadužívání akutních léků (>10–15 dní v měsíci) vede k bolesti hlavy z nadužívání medikace** — pacient pak má bolesti častěji, ne méně často.
+
+🔑 **Triptany = akutní záchvat (vazokonstrikce) · β-blokátory, BKK a valproát = profylaxe. Zaměnit to je klasická chyba.**
+
+❓ *Proč jsou triptany kontraindikovány u ICHS?* → Stahují i věnčité tepny → mohou vyvolat ischemii myokardu.
+
+---
+
+## 66 · Léčiva s pozitivně inotropním účinkem, digoxin
+
+**O čem to je:** kardiotonika posilují stah srdce; nejznámější je **digoxin** z náprstníku. Klíčový paradox: u **nemocného** srdce výdej zvýší, u **zdravého** sníží.
+
+- **Srdeční glykosidy** = léčiva digitalisového typu (náprstník, konvalinka, čemeřice, oleandr). Struktura: **cukr** (vazba na myokard) + **aglykon** (steroidní jádro s laktonovým kruhem — nositel účinku).
+- 🔑 **Mechanismus (odvoď, nešprtej):** blokáda **Na⁺/K⁺-ATPázy** → v buňce se hromadí Na⁺ → zpomalí se výměník Na⁺/Ca²⁺ → **v buňce zůstane víc Ca²⁺** → silnější vazba aktinu a myozinu = **pozitivně inotropní efekt**. Zároveň **aktivuje n. vagus** → **negativně chronotropní** (pomalejší tep) a **negativně dromotropní** efekt (zpomalené vedení AV uzlem — riziko AV blokády).
+- ⚠️ **Protiklad, který chtějí slyšet:** u **selhávajícího** srdce digoxin **zvýší** minutový výdej a potlačí supraventrikulární arytmie; u **zdravého** srdce výdej naopak **sníží** (převáží vagový efekt a vazokonstrikce).
+- **Digoxin:** dobře se vstřebává z GIT, **ze 2/3 se vylučuje nezměněný ledvinami** → ⚠️ **při renální insuficienci se kumuluje**. **Velmi úzké terapeutické okno → nutné TDM.** Kontroluje frekvenci hlavně **v klidu**, ne při zátěži — proto mají u fibrilace síní přednost β-blokátory.
+- **Indikace:** **fibrilace síní s rychlou odpovědí komor** (kontrola frekvence), **chronické srdeční selhání se sníženou ejekční frakcí**, kde přetrvávají příznaky i při standardní léčbě.
+- **Kontraindikace:** bradykardie a **AV blokáda**, hypokalemie i hyperkalemie, **hypertrofická kardiomyopatie a diastolická dysfunkce**, komorové tachyarytmie, WPW syndrom.
+- ⚠️ **Co zvyšuje citlivost k digoxinu (= riziko intoxikace):** **hypokalemie** (draslík soutěží o stejné vazebné místo — proto **diuretika ztrácející draslík jsou nejrizikovější interakce**), **hyperkalcemie**, hypomagnezemie, ischemie a hypoxie myokardu, **hypotyreóza**, renální insuficience, věk.
+- **Digitalisová intoxikace:** GIT (nauzea, zvracení, průjem, nechutenství), CNS (zmatenost, bolest hlavy, ⚠️ **poruchy barevného vidění — žluté vidění, xantopsie**), a hlavně **arytmie všeho druhu** (bigeminie, AV blok, komorová tachykardie). **Léčba:** vysadit, upravit kalium, atropin u bradykardie, **protilátky proti digoxinu (Fab fragmenty)** u těžké otravy.
+
+| Ostatní pozitivně inotropní léčiva | Podstatné |
+|---|---|
+| **β1-sympatomimetika** — dobutamin, dopamin | akutní srdeční selhání a **kardiogenní šok**; jen krátkodobě — ⚠️ arytmie a **vyšší mortalita při dlouhodobém podání** |
+| **Levosimendan** | **kalciový senzitizér** — zvyšuje citlivost troponinu C k vápníku (nezvyšuje spotřebu kyslíku); kardiogenní a septický šok |
+| **Inhibitory fosfodiesterázy 3** — milrinon, amrinon | ↑ cAMP v myocytu; riziko arytmií a náhlé smrti |
+
+❓ *Proč je hypokalemie u pacienta na digoxinu nebezpečná?* → Draslík soutěží s digoxinem o vazbu na Na⁺/K⁺-ATPázu; při jeho nedostatku se digoxin naváže víc → intoxikace i při „normální" dávce.
+
+---
+
+## 67 · Antiarytmika
+
+**O čem to je:** léky na poruchy rytmu, rozdělené do **čtyř tříd podle Vaughana-Williamse** podle toho, jaký kanál či receptor blokují. Mechanismus, na který se ptají nejvíc, je **reentry**.
+
+- **Tři vlastnosti nutné pro pravidelný rytmus:** **automaticita** (schopnost tvořit vzruchy — převodní systém), **dráždivost** (daná refrakterní fází) a **vodivost** — v **SA a AV uzlu je závislá na Ca²⁺ kanálech**, ve zbytku převodního systému a v komorách na **Na⁺ kanálech**. *(Z toho plyne, proč verapamil působí na uzly a lidokain na komory.)*
+- 🔑 **Reentry:** vzruch narazí na ohnisko (ischemie) s **jednosměrnou blokádou**, obejde ho druhou drahou a vrátí se zpět už vodivou tkání → **obíhá dokola** a arytmii udržuje donekonečna. Další mechanismy: zvýšená automaticita a **spouštěné rytmy** (časná/opožděná následná depolarizace).
+- ⚠️ **Každé antiarytmikum může arytmii i vyvolat (proarytmogenní efekt)** — proto individuální dávkování a monitorace.
+
+| Třída | Mechanismus | Zástupci |
+|---|---|---|
+| **Ia** | blokáda Na⁺ kanálu, **prodlužuje** akční potenciál (blokuje i K⁺) | chinidin, disopyramid, prokainamid |
+| **Ib** | blokáda Na⁺ kanálu, **zkracuje** akční potenciál | **lidokain**, mexiletin |
+| **Ic** | blokáda Na⁺ kanálu, délku AP **nemění** | **propafenon, flekainid** |
+| **II** | **β-blokátory** | metoprolol, bisoprolol, **esmolol** (i.v., ultrakrátký) |
+| **III** | blokáda **K⁺ kanálů** → prodloužení repolarizace a QT | **amiodaron**, sotalol, dronedaron, vernakalant |
+| **IV** | **blokátory kalciových kanálů** | **verapamil, diltiazem** |
+| **nezařazená** | — | **adenosin**, digoxin, atropin, ionty Mg²⁺ |
+
+- **Ia — chinidin:** fibrilace a flutter síní, komorové tachykardie. ⚠️ **Parasympatolytický efekt + prodloužení QT → torsade de pointes**; NÚ **cinchonismus** (tinnitus, poruchy sluchu a vidění, třes), GIT nesnášenlivost, interakce s **warfarinem** (krvácení). Dnes výjimečně.
+- **Ib — lidokain:** chemicky amidové **lokální anestetikum**; **jen i.v.**, komorové extrasystoly a komorová tachykardie **v akutní fázi infarktu**. ⚠️ Při hypotenzi klesá průtok játry → kumulace → parestezie, zmatenost, křeče.
+- **Ic — propafenon, flekainid:** lék volby u arytmií **bez strukturálního postižení srdce** (fibrilace síní, AV rekurentní tachykardie u **WPW syndromu**). ⚠️ **KI: ischemická choroba srdeční a stav po infarktu** — zvyšují tam mortalitu. Propafenon má navíc β-lytický efekt.
+- **II — β-blokátory:** tlumí arytmogenní vliv katecholaminů, zpomalují SA uzel a prodlužují refrakteritu AV uzlu → **kontrola frekvence u fibrilace síní**, arytmie při stresu, hypertyreóze a námaze, **prevence náhlé smrti po infarktu**. KI: astma, těžká bradykardie, AV blok.
+- **III — amiodaron:** ⚠️ **nejúčinnější antiarytmikum, ale nejtoxičtější.** Působí na všechny čtyři třídy zároveň, **extrémně dlouhý poločas (týdny)**, kumuluje se ve tkáních. **Indikace: supraventrikulární i komorové tachykardie, fibrilace síní, refrakterní komorová fibrilace při resuscitaci.** **NÚ — nejvděčnější část otázky:** ⚠️ **obsahuje jód → hypo- i hypertyreóza**, **plicní fibróza** (nejzávažnější), **hepatitida**, **šedomodré zbarvení kůže**, **depozita v rohovce**, fotosenzitivita, prodloužení QT. **Dronedaron** — obdoba bez jódu, slabší, KI u srdečního selhání. **Sotalol** — β-blokátor + třída III.
+- **IV — verapamil, diltiazem:** ↓ automaticita SA uzlu, ↑ refrakterita AV uzlu → **supraventrikulární tachyarytmie a kontrola frekvence u fibrilace síní**; negativně inotropní. ⚠️ **KI: WPW syndrom, srdeční selhání, kombinace s i.v. β-blokátorem** (riziko asystolie).
+- **Adenosin** — agonista A1 receptorů → otevře K⁺ kanály, hyperpolarizace, **krátkodobá blokáda AV uzlu**; podává se **rychlým i.v. bolusem**, účinek trvá sekundy; **lék volby u paroxysmální supraventrikulární tachykardie**. NÚ: krátký pocit dušnosti a tlaku na hrudi, flush.
+- **Bradyarytmie:** nejčastěji polékové (digoxin, β-blokátory, verapamil). Řešení je **kardiostimulace**; **atropin a β-sympatomimetika** jen krátkodobě k překlenutí.
+
+❓ *Co je reentry?* → Vzruch narazí na jednosměrnou blokádu, vrátí se oklikou zpět a obíhá dokola — tím arytmii udržuje.
+
+---
