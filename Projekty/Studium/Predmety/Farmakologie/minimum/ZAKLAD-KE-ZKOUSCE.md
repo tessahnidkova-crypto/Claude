@@ -43,9 +43,17 @@ Studie III jsou **randomizované, kontrolované, (dvojitě) zaslepené** (proti 
 
 **I. generace** — neřízené uvolnění, rychlý nástup. **II. generace** — řízené uvolnění (retardety — **nesmí se dělit**, kromě označených): **rezervoárový** typ (obal řídí uvolnění) × **matricový** (léčivo v matrici). Výhoda: méně výkyvů hladiny, lepší compliance. **III. generace** — cílená distribuce ("targeting"): pasivní (cytostatika se hromadí v nádoru) × aktivní (monoklonální protilátky na receptor). Dělení podle skupenství: pevné/polotuhé/kapalné/transdermální/plynné. Vnitřní užití = bílá signatura, vnější = červená.
 
-## O6–O8 · Lékové formy podle cesty podání
+## O6 · Lékové formy — perorální a orální
 
-**Perorální/orální** — nejfyziologičtější, ale first-pass efekt a pomalejší nástup; slabé kyseliny se vstřebávají v žaludku, slabé zásady ve střevě. Tekuté formy (roztok, macerát, nálev, odvar, tinktura), pevné (tablety, tobolky, dražé, čípky), sublingvální/bukální obchází first-pass efekt. **Parenterální** — i.v. (okamžitý účinek, 100% dostupnost), i.m., s.c., intradermální; obchází GIT i first-pass, ale invazivní, riziko infekce. **Dermatologika** — masti/krémy/gely podle typu kůže a léze (mokvavá×suchá), transdermální náplasti pro systémový účinek (obchází first-pass). **Oční/ušní/nosní/rektální/vaginální/inhalační** — lokální i systémový účinek podle formy; **rektální** obchází část first-pass efektu (dolní hemoroidální žíly); **inhalační** — rychlý nástup, velký povrch plic, MDI/DPI/nebulizátor.
+Perorální/orální = nejfyziologičtější cesta, ale s **pomalejším nástupem, first-pass efektem** a vlivem jídla. Vstřebávání pasivní difuzí: **slabé kyseliny líp v žaludku, slabé zásady ve střevě** (iontová past, O10). Tekuté formy (roztok, sirup, suspenze, emulze) — vhodné pro děti/geriatrii. Pevné formy: **konvenční tablety** (uvolní celou dávku najednou), **enterosolventní** (odolají žaludeční kyselině, rozpadnou se až ve střevě), tobolky. ⚠️ Ne všechny tablety se smí dělit — jen s **půlicí rýhou**. **Orální formy zůstávají v ústech** — sublingvální/mukoadhezivní (nitroglycerin, opioidy) **obchází first-pass efekt** stejně jako injekce.
+
+## O7 · Lékové formy — parenterální a dermatologika
+
+**Parenterální** = mimo trávicí trakt (injekce/infuze), obchází žaludek i first-pass efekt — proto **5 přísných požadavků**: čirost (⚠️ **suspenze/emulze se nikdy nepodává i.v.**, jen čirý roztok), izotonie, správné pH, sterilita, apyrogenita. **i.v.** — nejrychlejší nástup (~2 min), F=1 (100 %), ale riziko infekce a nelze podat dráždivé/srážející látky. **i.m.** — pomalejší, lze suspenze, vhodné když i.v. nejde (adrenalin u anafylaxe, agresivní pacient). **s.c.** — nejpomalejší, konstantní vstřebávání (inzulin). **Dermatologika**: **mast** (hydrofobní, na suchou/chronickou kůži) × **krém** (min. 20 % vody, na akutní/mokvavou). **Transdermální náplasti** — systémový účinek přes zdravou kůži, obchází first-pass; ochlupení se **stříhá, ne holí** (mikrotraumata by zvýšila vstřebávání), nesmí se stříhat, pokud to nedovolí SPC.
+
+## O8 · Lékové formy — oční, ušní, nosní, rektální, vaginální, inhalační
+
+**Oční kapky** — do oka nakonec pronikne jen asi **1 % dávky** (zbytek spláchnou slzy); po nakápnutí **tlačit vnitřní koutek ~1 minutu**, aby kapka neodtekla slzným kanálkem. **Nosní sliznice** — přípravek tam vydrží jen asi **20 minut**, pak ho odstraní řasinky; systémové podání obchází first-pass (příklad: Bagsimi/glukagon u hypoglykemie). **Ušní kapky** — vždy jen lokálně, zahřát na tělesnou teplotu před aplikací (studené bolí). **Rektální podání** — obchází first-pass jen asi z **50 %**, hodí se když nejde p.o. (zvracení, bezvědomí); čípky se rozpouští při tělesné teplotě. **Inhalační** — rychlý nástup, obrovská plocha plic (~100 m²), vysoká lokální koncentrace při nízké celkové dávce → méně systémových NÚ. 🔑 Barva kyslíkové lahve = **bílá**.
 
 ## O9 · Compliance, adherence, placebo a nocebo efekt
 
@@ -55,21 +63,53 @@ Studie III jsou **randomizované, kontrolované, (dvojitě) zaslepené** (proti 
 
 Pět mechanismů: **prostá difuze** (po koncentračním spádu, bez energie — většina léčiv), **filtrace** (malé molekuly póry), **usnadněná difuze** (po spádu, ale přes přenašeč), **aktivní transport** (proti spádu, spotřeba ATP), **pinocytóza/endocytóza** (velké molekuly). Bariéry: hematoencefalická (HEB — jen lipofilní projdou), placentární, testes-krevní.
 
-## O11–O13 · Farmakokinetické parametry, absorpce
+## O11 · Základní farmakokinetické parametry a procesy
 
-**Kinetika 0. řádu** — konstantní množství za čas (nezávisí na koncentraci, typicky při vysoké dávce/saturaci enzymu, např. fenytoin, ethanol). **Kinetika 1. řádu** — konstantní **podíl** za čas (většina léčiv), platí **pravidlo 5 poločasů** (po 5 t½ je látka prakticky eliminovaná/v ustáleném stavu). **Biologická dostupnost (F)** = podíl dávky, který se dostane do systémového oběhu v nezměněné formě (i.v. = 100 %). **Batemanova funkce** popisuje průběh koncentrace po p.o. podání (vzestup–vrchol–pokles). **AUC** = plocha pod křivkou plazmatické koncentrace, míra celkové expozice.
+Farmakokinetika popisuje osud léčiva v těle = **ADME** (Absorpce, Distribuce, Metabolismus, Exkrece). Sedm klíčových parametrů, kterými se to měří a počítá dávkování: **F** (biologická dostupnost — jak velká část dávky dorazí do krve účinná), **ka** (rychlost absorpce), **Vd** (distribuční objem — jak moc se léčivo rozptýlí do tkání), **CL** (clearance — jak rychle se tělo "čistí"), **ke** (rychlostní konstanta eliminace), **t½** (poločas), **fu** (volná, účinná frakce v plazmě). 🔑 Prakticky stačí měřit koncentraci v krevní plazmě — odráží souhrn všech ADME dějů najednou.
 
-## O14–O16 · Distribuce, vazba na bílkoviny, eliminace
+## O12 · Kinetika nultého a prvního řádu, saturační kinetika
 
-**Distribuční objem (Vd)** — malý (léčivo zůstává v krvi) × velký (hromadí se ve tkáních, typicky lipofilní látky). Vazba na plazmatické bílkoviny (albumin, α1-glykoprotein) — jen **volná frakce** je účinná a filtrovatelná; nízký albumin (jaterní/ledvinné selhání) → víc volné látky → riziko toxicity. **Clearance** = objem plazmy vyčištěný od látky za jednotku času. **Dávkovací režim** — udržovací dávka podle clearance, nasycovací dávka podle Vd; **kumulace** hrozí při intervalu kratším než t½.
+**Kinetika 1. řádu** (většina léčiv) — eliminace je stejně efektivní bez ohledu na koncentraci, za jeden poločas klesne koncentrace vždy na **polovinu**. 🔑 Po **5 poločasech** zbývá jen ~3 % — prakticky eliminováno. **Kinetika 0. řádu** — kapacita eliminace je **limitovaná** (má strop, Vmax), koncentrace klesá **konstantní rychlostí** bez ohledu na množství → malé zvýšení dávky může vést k **neúměrně vysoké a nebezpečné koncentraci**. ⚠️ Čtyři léčiva s kinetikou 0. řádu v terapeutických dávkách, ptají se skoro vždy: **salicyláty, teofylin, omeprazol, ethanol.**
 
-## O17–O20 · Biotransformace, first-pass efekt, CYP450, exkrece
+## O13 · Absorpce léčiv, Batemanova funkce, biologická dostupnost, AUC
 
-**Fáze I** (oxidace/redukce/hydrolýza, hlavně CYP450) — může vzniknout aktivní i toxický metabolit. **Fáze II** (konjugace — glukuronidace, sulfatace) — obvykle inaktivace, lépe rozpustné ve vodě. **First-pass efekt** — lék po p.o. podání projde nejdřív játry, kde se část hned metabolizuje, než se dostane do oběhu → nízká biologická dostupnost u některých léků. **CYP450 inhibice** (např. grapefruit, itrakonazol) → zvýší hladinu substrátu → toxicita (příklad: simvastatin + itrakonazol → rabdomyolýza). **Indukce** (rifampicin, karbamazepin, třezalka) → sníží hladinu substrátu → selhání léčby. **Renální exkrece** — glomerulární filtrace + tubulární sekrece/reabsorpce; pH moči ovlivňuje reabsorpci slabých kyselin/zásad (iontová past). **Enterohepatální cirkulace** — látka vyloučená žlučí se znovu vstřebá ve střevě → prodlouží účinek (přerušuje se aktivním uhlím).
+**F (biologická dostupnost) = 1 (100 %) jen u i.v.** — u všech ostatních cest se část dávky ztratí absorpcí a first-pass efektem. Rychlost nástupu podle cesty: i.v./inhalační/sublingvální (sekundy–minuty, obchází first-pass) → i.m. → s.c. → rektální (~50 % obchází first-pass) → **p.o. nejpomalejší** (~30 min, nejvíc ovlivněné jídlem). V žaludku se líp vstřebávají slabé kyseliny, ve střevě (200 m² plocha) slabé zásady. **Batemanova funkce** = křivka koncentrace po mimožilním podání: vzestup (absorpce > eliminace) → vrchol Cmax v čase tmax → pokles (eliminace > absorpce). **AUC** = plocha pod křivkou, u kinetiky 1. řádu přímo úměrná dávce; F se počítá jako poměr AUC(p.o.)/AUC(i.v.).
 
-## O21–O22 · Farmakodynamika, typy receptorů
+## O14 · Distribuce léčiv, distribuční objem, vazba na bílkoviny, bariéry
 
-Čtyři typy receptorů: **ionotropní** (iontový kanál, nejrychlejší — ms), **metabotropní** (G-protein, druzí poslové cAMP/IP3/DAG/NO — sekundy), **kinázové** (enzymová aktivita po vazbě — minuty), **transkripční/jaderné** (steroidní hormony, hodiny — nejpomalejší, ale nejdelší účinek). Kromě receptorů léky cílí i na iontové kanály, enzymy (příklady: sarin blokuje AChE, 5-FU blokuje syntézu DNA) a transportéry.
+**Distribuční objem (Vd)** = zdánlivý objem, do kterého se léčivo "rozptýlí" — malý (léčivo zůstává v krvi, např. heparin) × velký, i přes 0,8 l/kg (hromadí se ve tkáních, typicky lipofilní látky jako amiodaron). 🔑 Čím vyšší Vd, tím hůř se léčivo odstraní hemodialýzou (ta čistí jen krev). Vazba na plazmatické bílkoviny — **albumin** váže kyselá léčiva (warfarin, NSA), **α1-glykoprotein** bazická; jen **volná frakce** je účinná a filtrovatelná. ⚠️ Vytěsnění z vazby je nebezpečná interakce: **salicyláty vytěsní warfarin** z albuminu → prudký nárůst volné (účinné) frakce → riziko krvácení. Bariéry: **HEB** (hematoencefalická) propustná jen pro lipofilní látky, propustnější u novorozenců a při zánětu (proto ATB líp projdou u meningitidy); **placentární bariéra** — lipofilní léčiva s MH < 600 procházejí snadno.
+
+## O15 · Eliminace, poločas eliminace, eliminační konstanta, clearance
+
+**Clearance (CL)** = objem plazmy zcela očištěný od léčiva za jednotku času; **ke = CL/Vd**. Pravidlo 5 poločasů platí i tady (po 5 t½ zbývá ~3 %). 🔑 **Čas do dosažení steady state (ustáleného stavu) závisí JEN na biologickém poločasu (t½)** — ne na dávce, cestě podání ani rychlosti infuze; za 5 poločasů je koncentrace na 97 % ustálené hodnoty.
+
+## O16 · Dávkovací režim, kumulace léčiv
+
+Kontinuální podávání (i.v. infuze) → **steady state**, kdy rychlost dávkování = rychlost eliminace. Opakované podávání → **kumulace**, pokud interval mezi dávkami **nestačí k úplné eliminaci** předchozí (princip superpozice). 🔑 **Interval kratší než poločas = významná kumulace** — proto se léky s dlouhým t½ dávkují řidčeji. ⚠️ U kinetiky 0. řádu (saturační) nesmí rychlost dávkování překročit **Vmax** — jinak koncentrace roste bez ustálení → intoxikace.
+
+## O17 · Biotransformace léčiv, fáze, příklady
+
+Cíl: přeměnit léčivo na formu lépe rozpustnou ve vodě, aby se dalo vyloučit. **Fáze I** (oxidace/redukce/hydrolýza, hlavně **CYP450**) — může vzniknout aktivní metabolit (**proléčivo**, bioaktivace: **kodein → morfin**) nebo toxický metabolit (paracetamol). **Fáze II** (konjugace — glukuronidace, acetylace, sulfatace) — spojení s tělu vlastní látkou, obvykle inaktivace a příprava k vyloučení. Léčivo nemusí projít oběma fázemi — některá se vylučují beze změny (lithium, gentamicin).
+
+## O18 · Úloha jater v eliminaci léčiv, first-pass efekt
+
+**First-pass efekt** = přeměna léku při prvním průchodu portálním (jaterním) řečištěm, hned po vstřebání ze střeva — u některých léků (morfin, nitroglycerin, verapamil) se tak ztratí velká část dávky. 🔑 Proto se nitroglycerin dává **pod jazyk, nikdy nepolyká** — sublingválně first-pass efekt obchází.
+
+## O19 · Inhibice a indukce enzymů léčivy, klinický význam
+
+**CYP3A4 metabolizuje asi polovinu všech léčiv.** **Inhibice** (grapefruitová šťáva, itrakonazol/ketokonazol) → hladina substrátu **STOUPÁ** → toxicita — klasický příklad: **simvastatin + itrakonazol → 10× vyšší dostupnost → rabdomyolýza**. **Indukce** (rifampicin, karbamazepin, barbituráty, **třezalka**) → hladina substrátu **KLESÁ** → selhání léčby — třezalka snižuje účinek warfarinu i antikoncepce. 🔑 Inhibice = riziko toxicity, indukce = riziko selhání léčby.
+
+## O20 · Vylučování léčiv renální a extrarenální
+
+Množství v moči = **glomerulární filtrace + tubulární sekrece − tubulární reabsorpce**. Léčivo vázané na bílkoviny glomerulární filtrací neprojde. ⚠️ **pH moči ovlivňuje reabsorpci** (iontová past): kyselá léčiva se rychleji vylučují v **alkalické** moči a naopak — proto se u otravy salicyláty moč **alkalizuje** hydrogenuhličitanem. **Enterohepatální cirkulace** — léčivo vyloučené žlučí do střeva se tam znovu vstřebá (střevní bakterie rozštěpí konjugát) → prodlouží se účinek. 🔑 Přerušuje se **aktivním uhlím** — klasický příklad: otrava muchomůrkou zelenou (α-amanitin).
+
+## O21 · Účinek léčiv obecně, způsob účinku na molekulární úrovni
+
+🔑 **Léky nevytvářejí nové funkce těla — jen zesilují nebo tlumí funkce, které tělo už má.** Stimulace/inhibice = změna **ve** fyziologických mezích, excitace/paralýza = změna **nad/pod** nimi. **Agonista** aktivuje receptor, **antagonista** ne: **kompetitivní** (soutěží o stejné místo, jde přemoct vyšší dávkou agonisty, např. atropin na M-receptoru) × **nekompetitivní** (jiné místo nebo nevratná vazba, účinek přetrvá i po vyloučení léku).
+
+## O22 · Specifický účinek léčiv — cílové struktury, receptorová teorie, typy receptorů
+
+**Down-regulace** (nadbytek mediátoru → míň receptorů = tolerance) × **up-regulace** (nedostatek/blokáda → víc receptorů → vysvětluje **rebound efekt** po náhlém vysazení). 🔑 Čtyři typy receptorů podle rychlosti nástupu: **ionotropní** (iontový kanál, milisekundy — nervosvalová ploténka), **metabotropní/G-protein** (sekundy, druzí poslové **cAMP, IP3/DAG, NO** — nitroglycerin uvolňuje NO → vazodilatace), **kinázové** (minuty–hodiny, růstové faktory, inzulin), **transkripční/jaderné** (hodiny–dny, steroidní hormony — proto kortikoidy nezaberou hned). Další cíle mimo receptory: iontové kanály, enzymy (⚠️ sarin ireverzibilně blokuje AChE — "zestárnutí" vazby nejde zvrátit ani antidotem; 5-fluorouracil blokuje syntézu DNA), transportéry (kardioglykosidy blokují Na⁺/K⁺-ATPázu).
 
 ## O23 · Vztah dávka–účinek, terapeutický index
 
