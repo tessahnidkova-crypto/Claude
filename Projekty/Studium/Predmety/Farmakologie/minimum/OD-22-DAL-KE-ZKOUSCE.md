@@ -1991,3 +1991,128 @@
 ❓ *Proč metoklopramid působí v CNS a domperidon ne?* → Metoklopramid **prochází hematoencefalickou bariérou** (odtud extrapyramidové NÚ), domperidon prakticky ne.
 
 ---
+## 101 · Farmakoterapie nespecifických střevních zánětů
+
+**O čem to je:** Crohnova nemoc a ulcerózní kolitida — autoimunitní záněty střeva; léčba má tři patra: **rychle zklidnit, dlouhodobě držet, udržet remisi**.
+
+| | **Crohnova nemoc** | **Ulcerózní kolitida** |
+|---|---|---|
+| Rozsah | **celý GIT a celá tloušťka stěny**, typické **skip léze** (přeskakující úseky) | **jen sliznice**, souvisle od konečníku do tlustého střeva |
+| Klinika | bolesti břicha, teploty, hubnutí, průjmy, **píštěle a perianální abscesy, aftózní vředy v ústech**, malabsorpce | **tenesmy** (bolestivé nucení), **krvavé a hlenové průjmy** |
+
+- **Patogeneze:** u geneticky predisponovaných lidí se **ztratí imunitní tolerance vůči vlastní střevní flóře** → chronický zánět.
+- **Aminosalicyláty (mesalazin, sulfasalazin)** — ⚠️ **lék první volby u ulcerózní kolitidy**: lokálně tlumí COX a LOX ve sliznici; **azoskupinu štěpí až bakterie v tlustém střevě**, proto se lék uvolní přesně tam, kde má působit. Nejlepší je kombinace perorální + lokální formy (čípky, klyzma). NÚ: bolest hlavy, nauzea, u sulfasalazinu ⚠️ **oligospermie a hemolýza**.
+- **Kortikosteroidy** — **rychle navodí remisi**, ⚠️ **ale nehodí se na dlouhodobou léčbu** (NÚ, viz otázka 117). Topický **budesonid** (řízené uvolňování, velký first-pass efekt → málo systémových NÚ), systémově prednison u těžké ataky.
+- **Imunosupresiva — azathioprin, 6-merkaptopurin:** thiopuriny blokující syntézu purinů v lymfocytech; ⚠️ **nástup 3–6 měsíců → slouží k UDRŽENÍ remise, ne k jejímu navození**. NÚ: útlum dřeně (⚠️ podle aktivity TPMT), hepatotoxicita, pankreatitida. Dále methotrexát.
+- **Biologická léčba:** ⚠️ **anti-TNF-α (infliximab, adalimumab)** u těžkých a píštělových forem, vedolizumab, ustekinumab (viz O35 — před nasazením screening TBC a hepatitid).
+- **Antibiotika** (metronidazol, ciprofloxacin) jen u **hnisavých perianálních komplikací**, ne jako léčba zánětu.
+
+🔑 **Aminosalicyláty = dlouhodobé držení (hlavně kolitida) · kortikoidy = rychlé navození remise · imunosupresiva a biologika = udržení remise.**
+
+❓ *Proč se azathioprin nehodí na akutní ataku?* → Nastupuje **měsíce** — akutní zánět musí zklidnit kortikoid.
+
+---
+
+## 102 · Spasmolytika
+
+**O čem to je:** léky proti **křečovité bolesti dutých orgánů** (žlučová a ledvinová kolika). ⚠️ **Skoro všechny jejich NÚ a KI plynou z jediné věci — jsou to parasympatolytika.**
+
+- ⚠️ **Působí na hladké svaly trávicího a urogenitálního ústrojí, NE na cévy a průdušky** (výjimkou jsou muskulotropní, které uvolní i cévy).
+- **Neurotropní** = **parasympatolytika**, blokáda muskarinových receptorů: **butylskopolamin** (kvartérní dusík → neproniká do CNS, klasika u kolik), atropin, pirenzepin (selektivní M1).
+- **Muskulotropní** — působí přímo na sval, bez ohledu na nervový vstup: **drotaverin (No-Spa)** a **papaverin** — blokáda **fosfodiesterázy → ↑ cAMP → relaxace**; **pitofenon** (v Algifenu); **pinaverium** (blokátor kalciového kanálu).
+- **Spasmoanalgetika** = spasmolytikum + analgetikum v jednom (metamizol + pitofenon, tramadol, pethidin) — u kolik, kde samotné uvolnění svalu nestačí.
+- **Indikace:** **žlučová a ledvinná kolika**, dráždivý tračník, spastické bolesti při menstruaci, nadýmání, příprava k vyšetření.
+- ⚠️ **NÚ a KI (odvoď z anticholinergního účinku):** sucho v ústech, poruchy akomodace, **tachykardie**, zácpa až **paralytický ileus a toxické megakolon**, **retence moči**, zmatenost u seniorů. **KI: glaukom s úzkým úhlem, hyperplazie prostaty, atonie střev, tachyarytmie.**
+
+❓ *Proč je butylskopolamin lepší volba než atropin?* → Má **kvartérní dusík** — neprojde do CNS, takže nezpůsobuje zmatenost, a působí selektivněji na hladký sval.
+
+---
+
+## 103 · Hepatoprotektiva, cholagoga
+
+**O čem to je:** „ochrana jater" má **slabou vědeckou oporu** (řekni to nahlas), cholagoga naopak fungují prokazatelně.
+
+- **Poškození jater** se typicky projeví **steatohepatitidou** — **alkoholickou** nebo **nealkoholickou** (metabolický syndrom, viry, léky). Komplikace: **portální hypertenze a jaterní encefalopatie**, dále cirhóza a hepatocelulární karcinom.
+- ⚠️ **Jaterní encefalopatie:** játra nezvládnou odbourat **amoniak** → mozková dysfunkce. **Léčba: laktulóza** (okyselí obsah střeva → amoniak se změní na nevstřebatelný **NH₄⁺** — princip iontové pasti) **+ rifaximin** (potlačí bakterie tvořící amoniak, viz otázka 89).
+- **Hepatoprotektiva:** **silymarin** (ostropestřec — směs flavonoidů, antioxidant, stabilizuje membránu hepatocytu), **esenciální fosfolipidy** (vestaví se do membrán, podpora regenerace), cholin, metionin, kyselina thioktová. ⚠️ **Zdroj sám je hodnotí jako „málo toxická, ale s minimálním prokázaným přínosem"** — u zkoušky to zmiň, ukazuje to kritické myšlení.
+- **Cholagoga** = zvyšují sekreci žluči: **choleretika** (víc vody ve žluči) a **cholecystokinetika** (vyprázdnění žlučníku).
+  - ⚠️ **Kyselina ursodeoxycholová** — mění složení žluči ve prospěch **hydrofilních žlučových kyselin** → choleretický, hepatoprotektivní a **litolytický** efekt (rozpouští cholesterolové kameny). **Indikace: primární biliární cholangitida, cholestáza, rozpouštění malých cholesterolových kamenů.** Kyselina obeticholová — snižuje tvorbu žlučových kyselin.
+  - **Indikace cholagog:** stav po cholecystektomii a operaci žlučových cest, biliární dyspepsie.
+- **Žlučové kameny** vznikají při **přesycení žluči cholesterolem** — léčebně se snižuje jeho podíl deriváty žlučových kyselin.
+
+❓ *Jak laktulóza pomůže u jaterní encefalopatie?* → Okyselí obsah tlustého střeva → amoniak (NH₃) se protonizuje na **NH₄⁺**, který se nevstřebá a odejde stolicí.
+
+---
+
+## 104 · Farmaka v očním lékařství
+
+**O čem to je:** hlavní téma je **glaukom** — buď zlepšíme odtok nitrooční tekutiny, nebo snížíme její tvorbu.
+
+- ⚠️ **Zásadní kinetická poznámka: až 80 % kapek se vstřebá do celotělového oběhu a navíc obejde first-pass efekt v játrech** — proto i „jen kapky" mohou vyvolat systémové NÚ (timolol → bradykardie a bronchospasmus). Prevence: **po nakapání 1–2 minuty stisknout vnitřní koutek** (slzný kanálek).
+- **Cesty podání:** topicky (kapky, masti), lokálně (intravitreálně, intrakamerálně, retrobulbárně), systémově.
+- **Mydriatika a cykloplegika:** **tropikamid, atropin, fenylefrin** — k vyšetření očního pozadí, k operaci, k rozrušení synechií u uveitidy. ⚠️ **KI: glaukom s úzkým úhlem.**
+- **Glaukom** = chronická neuropatie zrakového nervu s **nevratnou** ztrátou zorného pole; hlavní ovlivnitelný rizikový faktor je **nitrooční tlak**; léčba je celoživotní.
+
+| Mechanismus | Léčiva |
+|---|---|
+| **↑ odtok** komorové tekutiny | ⚠️ **analoga prostaglandinů — latanoprost, bimatoprost** (dnes první volba, 1× denně večer; NÚ: **ztmavnutí duhovky, růst řas**, hyperemie); **pilokarpin** (parasympatomimetikum → mióza otevře úhel; NÚ: spazmus akomodace, šero) |
+| **↓ tvorba** tekutiny | **β-blokátory — timolol, betaxolol** (⚠️ KI astma, bradykardie); **inhibitory karboanhydrázy — dorzolamid, brinzolamid** lokálně, **acetazolamid** systémově u akutního záchvatu |
+| **obojí** | **brimonidin** (α2-agonista) |
+| **osmoticky** | **manitol, glycerol** i.v. u akutního glaukomového záchvatu |
+
+- **Antineovaskularizační léčba (věkem podmíněná makulární degenerace, diabetická retinopatie):** ⚠️ **anti-VEGF do sklivce — ranibizumab, aflibercept** (funguje jako „návnadový" receptor), pegaptanib; verteporfin s laserem.
+- **Syndrom suchého oka:** umělé slzy podle tíže — **povidon** (lehké) → **karmelóza, karbomery** → **kyselina hyaluronová** (nejtěžší). ⚠️ Vyvolat ho mohou i léky — **antihistaminika, antidepresiva, anticholinergika**.
+
+❓ *Proč se u astmatika nesmí použít oční timolol?* → Vstřebá se do oběhu (mimo first-pass) a jako **neselektivní β-blokátor vyvolá bronchospasmus**.
+
+---
+
+## 105 · Drogová (léková) závislost
+
+**O čem to je:** závislost je **chronická nemoc mozku**, ne slabá vůle — klíčem je **dopamin a systém odměny**.
+
+- **Diagnóza:** ≥ 3 z 6 projevů během posledního roku — ① **craving** (silná touha) ② ztráta kontroly nad užíváním ③ **tělesný odvykací stav** ④ **tolerance** ⑤ zanedbávání jiných zájmů ⑥ pokračování i přes zjevné škody.
+- 🔑 **Mechanismus:** droga vyplaví **dopamin v nucleus accumbens** (mezolimbická dráha z tegmentální oblasti do prefrontální kůry) → pocit odměny. Každá návyková látka je **lipofilní a psychotropní** (musí projít HEB). Opakovaně nefyziologicky vysoké výlevy **sníží počet dopaminových receptorů ve striatu** a poškodí rozhodovací oblasti → tolerance a nutkání. ⚠️ **Po čase dopamin vyplaví už samotné „cues" (podněty spojené s drogou) — proto hrozí relaps i po dlouhé abstinenci.**
+- **Rizikové faktory:** vnější — dostupnost, návykový potenciál látky, prostředí, stres · vnitřní — genetika, nezralost CNS, psychiatrická komorbidita.
+- **Dělení:** „měkké" (kanabinoidy, LSD — nevyvolávají fyzickou závislost) × „tvrdé" (heroin, pervitin, kokain). ⚠️ **Závislost vyvolávají: alkohol, opioidy, sedativa a hypnotika (benzodiazepiny, barbituráty), nikotin, kanabinoidy, stimulancia, těkavé látky — NE antidepresiva.**
+- **Komplikace:** předávkování, odvykací stav, ⚠️ **infekce při injekčním užívání (HIV, hepatitida B a C)**, psychózy, orgánové poškození, sociální rozpad.
+- **Léčba:** základ je **psychoterapie a sociální podpora**; farmakologicky:
+
+| Princip | Léčiva |
+|---|---|
+| **substituce agonistou** | **metadon**, nikotinová substituce |
+| **parciální agonista** | **buprenorfin** (+ naloxon proti zneužití), **vareniklin** (kouření) |
+| **antagonista** | **naloxon** (akutní předávkování), **naltrexon** (udržovací, i u alkoholu) |
+| **anticraving / averze** | **akamprosat**, **disulfiram** (blokuje aldehyddehydrogenázu → nevolnost po alkoholu) |
+| **zvládnutí odvykacího stavu** | **benzodiazepiny** (alkohol), klonidin (α2-agonista), tiaprid, haloperidol |
+
+❓ *Proč pacient relabuje i po letech abstinence?* → **Podmíněné podněty** (místo, lidé, náčiní) samy vyplaví dopamin a spustí bažení — bez jediné dávky.
+
+---
+
+## 106 · Ethylalkohol, methylalkohol
+
+**O čem to je:** nejrozšířenější návyková látka + průmyslový methanol, u kterého je zásadní vědět, že **antidotem je paradoxně ethanol**.
+
+- **Ethanol — kinetika:** vstřebává se už ze sliznice úst a žaludku (**měřitelný v krvi do 5 minut**), rozdělí se do celkové tělesné vody. **Metabolismus v játrech: alkoholdehydrogenáza (+ NAD⁺) a CYP2E1 → acetaldehyd → aldehyddehydrogenáza → acetát.** ⚠️ **CYP2E1 je indukovatelný — proto chronický konzument snáší víc (tolerance) a zároveň je citlivější k paracetamolu** (viz otázka 63). Odbourávání probíhá **kinetikou 0. řádu** (konstantní množství za hodinu).
+
+| Promile | Účinek |
+|---|---|
+| 0,2–0,3 | uvolnění, mírná euforie |
+| 0,5 | porucha koordinace a pozornosti |
+| 1,0 | **ataxie** |
+| 3,0 | stupor |
+| 4,0 | **kóma, útlum dechu** |
+
+- **Orgánové účinky:** **CNS** — útlum, porucha úsudku a koordinace · **KVS** — kožní vazodilatace (⚠️ **ztráta tepla, riziko podchlazení**), fibrilace síní („holiday heart"), hypertenze, kardiomyopatie · **GIT a játra** — gastritida, vřed, **steatóza → alkoholická hepatitida → cirhóza**, ⚠️ **útlum ADH → diuréza a dehydratace** · **slinivka** — akutní i chronická pankreatitida · **metabolismus** — **hypoglykemie a metabolická acidóza** · ⚠️ **potencuje útlum s benzodiazepiny, opioidy a hypnotiky**.
+- **Chronické následky:** alkoholická demence, **Wernickeova encefalopatie a Korsakovova psychóza** (deficit **thiaminu, B1** — okohybné poruchy, ataxie, poruchy paměti; ⚠️ **thiamin se podává PŘED glukózou**), periferní neuropatie, jaterní cirhóza a karcinom, kardiomyopatie, megaloblastická anemie, ⚠️ **fetální alkoholový syndrom**.
+- **Odvykací stav:** třes, pocení, neklid, nauzea, ⚠️ **epileptické křeče a delirium tremens (halucinace, dezorientace — život ohrožující)**. **Léčba: benzodiazepiny** (klomethiazol), doplnění **thiaminu, hořčíku a iontů**. Dlouhodobě: **disulfiram, naltrexon, akamprosat**, SSRI, psychoterapie — ⚠️ **cílem je trvalá abstinence, léky mají jen podpůrnou roli**.
+- ⚠️ **Léčebné použití ethanolu je jediné: intoxikace methanolem a etylenglykolem** (jinak jen jako rozpouštědlo a dezinfekce).
+- **Methanol** — vstřebá se z GIT, kůže i plic. **Alkoholdehydrogenáza z něj udělá formaldehyd → kyselinu mravenčí.** ⚠️ **Nejtoxičtější je kyselina mravenčí: těžká metabolická acidóza a poškození zrakového nervu → poruchy vidění až slepota**, bradykardie, křeče. Odbourává se **pomaleji než ethanol → příznaky nastupují se zpožděním (i po 12–24 h)**.
+- ⚠️ **Léčba otravy methanolem:** **ethanol i.v. (10 %) nebo fomepizol** — obsadí alkoholdehydrogenázu a zabrání vzniku toxických metabolitů; **hemodialýza**, **bikarbonát** na acidózu, kyselina listová.
+
+🔑 **Otrava methanolem se léčí ethanolem, protože oba soutěží o stejný enzym — methanol se pak vyloučí nezměněný, než stihne vzniknout kyselina mravenčí.**
+
+❓ *Proč se u alkoholika podává thiamin před glukózou?* → Glukóza spotřebuje zbytek thiaminu a může **spustit Wernickeovu encefalopatii**.
+
+---
