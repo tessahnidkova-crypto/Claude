@@ -1588,3 +1588,90 @@
 ❓ *Proč ruší ibuprofen účinek aspirinu?* → Obsadí stejné místo na COX-1 reverzibilně a **zabrání aspirinu, aby enzym trvale acetyloval**.
 
 ---
+
+## 80 · Inzulin, jeho analoga a glukagon
+
+**O čem to je:** dva hormony slinivky, které dělají přesný opak — **inzulin snižuje** glykemii, **glukagon zvyšuje**.
+
+- **Inzulin:** tvoří ho **β-buňky** Langerhansových ostrůvků (20–40 IU/den); polypeptid ze dvou řetězců spojených disulfidickými můstky. ⚠️ **Při jeho vzniku se odštěpí C-peptid — jeho hladina ukazuje, kolik VLASTNÍHO inzulinu člověk tvoří** (podaný inzulin C-peptid neobsahuje).
+- **Mechanismus:** naváže se na **inzulinový receptor** (tyrozinkináza) v játrech, svalu a tukové tkáni → přesun transportérů **GLUT4** do membrány → glukóza vstoupí do buňky; k tomu ↑ glykogeneze, lipogeneze a proteosyntéza, ↓ glukoneogeneze. **Nejsilnějším podnětem k sekreci je glukóza.** Protihráči: **glukagon, adrenalin, kortizol, růstový hormon**.
+- ⚠️ **Inzulin přesouvá draslík do buněk — proto se glukóza s inzulinem i.v. používá v urgentní medicíně na léčbu hyperkalemie.** Oblíbená doplňující otázka.
+
+| Typ | Charakteristika |
+|---|---|
+| **humánní (HM)** | rekombinantní technologií z *E. coli*; krátkodobý (regular) a střednědobý (NPH) |
+| **analoga** | upravené pořadí aminokyselin → lepší profil: **ultrakrátká** (lispro, aspart, glulisin — k jídlu) a **dlouhodobá bazální** (glargin, detemir, degludek — bez vrcholu) |
+| **premixované** | fixní směs krátkého a dlouhého — pro pacienty s horší spoluprací |
+
+- **Režim:** ⚠️ **bazál-bolus** (dlouhodobý bazál + krátké bolusy k jídlu) = intenzifikovaný režim, standard u **diabetu 1. typu**; u **2. typu** se přidává při selhání PAD.
+- **Kinetika:** ⚠️ **perorálně nelze** — je to bílkovina, proteázy v GIT ji rozloží; podává se **s.c.** (i.v. jen na JIP). Vstřebávání kolísá podle prokrvení a místa vpichu (**z břicha rychleji než ze stehna**). Exogenní inzulin se z > 60 % odbourá v ledvinách → ⚠️ **při renální insuficienci se dávka snižuje**.
+- **NÚ:** ⚠️ **hypoglykemie** (pocení, třes, hlad, zmatenost → kóma), přírůstek hmotnosti, lipodystrofie a lokální reakce v místě vpichu, hypokalemie.
+- **Interakce:** sulfonylurea a alkohol riziko hypoglykemie **zvyšují**; ⚠️ **β-blokátory maskují její varovné příznaky**; kortikoidy, hypertyreóza, stres a infekce potřebu inzulinu **zvyšují**.
+- **Glukagon:** z **α-buněk**; při poklesu glykemie spustí v játrech **glykogenolýzu a glukoneogenezi**. **Indikace: těžká hypoglykemie — i.m. nebo s.c., zvládne ji podat i laik** (rodinný příslušník); poločas 5–6 min. NÚ: nauzea až u 30 %. **KI: feochromocytom.** ⚠️ **Nefunguje, když nejsou zásoby glykogenu** — u hladovění, jaterního selhání a **hypoglykemie z alkoholu**; po probrání musí pacient sníst sacharidy, jinak se hypoglykemie vrátí.
+
+❓ *Proč glukagon nezabere u opilého pacienta v hypoglykemii?* → Alkohol blokuje glukoneogenezi a zásoby glykogenu jsou vyčerpané — glukagon nemá z čeho glukózu uvolnit; nutná je **glukóza i.v.**
+
+---
+
+## 81 · Perorální antidiabetika (PAD)
+
+**O čem to je:** léčba diabetu 2. typu, kde tělo inzulin ještě tvoří — jen ho **nedokáže využít** (rezistence), nebo ho tvoří **stále míň**. **Metformin je lék první volby.**
+
+- **Dva fenotypy 2. typu, z nichž plyne volba léku:** **inzulinová rezistence** → vysoká glykemie **nalačno** (sekrece zatím kompenzuje) · **selhávající sekrece** → vysoká glykemie **po jídle**.
+
+| Skupina | Mechanismus, výhody, NÚ |
+|---|---|
+| **Metformin (biguanid)** | ⚠️ **lék první volby**: ↓ glukoneogenezi v játrech, ↑ citlivost tkání k inzulinu, zpomalí vstřebávání glukózy ve střevě. **Nezpůsobuje hypoglykemii, mírně snižuje hmotnost a LDL, prokazatelně snižuje mortalitu.** NÚ: **průjem a dyspepsie** (mírní retardovaná forma), dlouhodobě deficit **vitaminu B12** |
+| **Deriváty sulfonylurey** (gliklazid, glimepirid) | zavírají K⁺ kanál na β-buňce → **stimulují sekreci inzulinu** (nutná zachovaná funkce slinivky). ⚠️ **Hypoglykemie a přírůstek hmotnosti** — sekreci zvýší i při už nízké glykemii |
+| **Glitazony** (pioglitazon) | agonisté **PPAR-γ** → ↓ inzulinová rezistence; plný efekt až po měsících. NÚ: **retence tekutin, otoky, přírůstek hmotnosti, zlomeniny**. ⚠️ **KI: srdeční selhání**, jaterní selhání, karcinom močového měchýře |
+| **Gliptiny** (inhibitory DPP-4 — sitagliptin, linagliptin) | brzdí odbourávání vlastního **GLP-1** (inkretin: ↑ inzulin, ↓ glukagon, ↓ chuť k jídlu). ⚠️ **Efekt je glukózo-dependentní → hypoglykemie prakticky nehrozí**; hmotnostně neutrální |
+| **Glifloziny** (inhibitory SGLT-2 — dapagliflozin, empagliflozin) | blokují zpětné vstřebávání glukózy v proximálním tubulu → **glykosurie**; ↓ hmotnost a tlak, ⚠️ **snižují mortalitu u srdečního selhání a chrání ledviny**. NÚ: **genitální mykózy a uroinfekce**, dehydratace, ⚠️ **euglykemická ketoacidóza** |
+| **agonisté GLP-1** (liraglutid, semaglutid) `[doplněno]` | injekční, ale patří sem logicky: silná redukce hmotnosti a kardiovaskulárního rizika |
+
+⚠️ **Laktátová acidóza po metforminu — nejzávažnější věc otázky.** Vzniká prakticky jen při **nedodržení kontraindikací**: **renální insuficience** (metformin se vylučuje ledvinami), hypoxie, srdeční a jaterní selhání, alkohol, sepse, ⚠️ **podání jodové kontrastní látky** (metformin se před vyšetřením vysazuje). **Funkce ledvin se kontroluje minimálně 1× ročně; úmrtnost laktátové acidózy je kolem 50 %.**
+
+🔑 **Metformin = první volba, bez hypoglykemie, pozor na ledviny. Sulfonylurea = hypoglykemie a přibírání. Gliptiny a glifloziny = hypoglykemie prakticky nehrozí, protože účinek závisí na aktuální glykemii.**
+
+❓ *Proč se metformin vysazuje před CT s kontrastem?* → Kontrast může zhoršit funkci ledvin → metformin se kumuluje → **laktátová acidóza**.
+
+---
+
+## 82 · Principy antibiotické terapie
+
+**O čem to je:** obecná pravidla, než se dostaneš ke konkrétním skupinám — jak se antibiotika dělí, čím se řídí dávkování a co si rozmyslet, než je předepíšeš.
+
+- **Bakteriostatická** — reverzibilně zastaví růst a množení; ⚠️ **potřebují funkční imunitu pacienta**, efekt je vidět za 3–4 dny (tetracykliny, makrolidy, linkosamidy, sulfonamidy, chloramfenikol). **Baktericidní** — bakterii přímo usmrtí, nevratně a rychle; nutná u **endokarditidy, meningitidy, sepse a u imunokompromitovaných** (betalaktamy, aminoglykosidy, chinolony, glykopeptidy, metronidazol).
+- 🔑 **Dělení podle farmakodynamiky (určuje dávkovací režim):** **na koncentraci závislá** (aminoglykosidy, chinolony, metronidazol) — rozhoduje **výška vrcholu**, dávkují se **ve vyšší dávce méně často** · **na čase závislá** (betalaktamy, makrolidy) — rozhoduje, **jak dlouho je koncentrace nad MIC**, dávkují se **častěji nebo v infuzi**.
+- **Podle distribuce:** **hydrofilní** (betalaktamy, aminoglykosidy) — malý distribuční objem, do buněk se nedostanou, vylučují se **ledvinami** · **lipofilní** (makrolidy, chinolony, tetracykliny) — velký distribuční objem, **pronikají do buněk** (nitrobuněčné patogeny), metabolizují se v játrech.
+- **MIC (minimální inhibiční koncentrace)** = nejnižší koncentrace, která zastaví růst daného mikroba — základ pro hodnocení citlivosti.
+- **Pět otázek před nasazením ATB:** ① Je to vůbec bakteriální infekce? ② Odebral jsem materiál na kultivaci **před** podáním? ③ Který patogen je nejpravděpodobnější? ④ Které ATB je nejvhodnější (spektrum, průnik do místa infekce, rezistence, cena)? ⑤ Má tenhle pacient omezení (**alergie, gravidita, kojení, ledviny, interakce**)?
+- **Rezistence:** **primární (přirozená)** — mikrob je necitlivý od začátku, bez předchozího kontaktu (streptokoky × aminoglykosidy) · **sekundární (získaná)** — vzniká mutací nebo přenosem genu na **plazmidu**, příčinou je nadužívání a nesprávné dávkování. **Mechanismy:** produkce **betalaktamáz**, změna cílové struktury, snížená propustnost stěny, **efluxní pumpy**.
+- **Zásady:** správná indikace (⚠️ **ne na virózy**), cílená léčba podle kultivace, dostatečná dávka a délka léčby (**nedokončená kúra plodí rezistenci**), u ATB s úzkým oknem (aminoglykosidy, vankomycin) **monitorace hladin**.
+
+❓ *Kdy je nutné baktericidní, ne bakteriostatické antibiotikum?* → U **endokarditidy, meningitidy, sepse a u pacientů s oslabenou imunitou** — bakteriostatikum se tam bez pomoci imunity neobejde.
+
+---
+
+## 83 · Peniciliny, inhibitory betalaktamáz
+
+**O čem to je:** nejstarší a stále nejdůležitější skupina antibiotik. ⚠️ **Penicilin V je pro tebe jako zubařku lék první volby na infekce ústní dutiny.**
+
+- **Mechanismus:** **β-laktamový kruh** blokuje **transpeptidázu (PBP — penicillin binding protein)** → nemůže vzniknout příčná vazba peptidoglykanu → **bakterie si nedostaví buněčnou stěnu a praskne**. ⚠️ **Baktericidní, ale jen na rostoucí a dělící se bakterie**, a **na čase závislé** (rozhoduje doba nad MIC → dávkovat často).
+- **Kinetika:** vstřebání z GIT závisí na odolnosti vůči žaludeční kyselině a snižuje ho jídlo (podávat 1 h před nebo 2 h po jídle). Do buněk nepronikají; do CNS jen málo — ⚠️ **ale při zánětu mozkových blan koncentrace stoupá, proto fungují u meningitidy**. Vylučují se **ledvinami**.
+
+| Skupina | Spektrum a indikace |
+|---|---|
+| **Penicilin G (benzylpenicilin)** | i.v./i.m.; **streptokoky, pneumokoky, meningokoky, treponema (syfilis), borrelie, klostridia, aktinomycety, listerie**. Lék volby: **meningokoková a pneumokoková meningitida a sepse, streptokoková endokarditida, syfilis, plynatá sněť, aktinomykóza**. Prokain-penicilin = depotní i.m. forma |
+| **Penicilin V (fenoxymetylpenicilin)** | perorální — ⚠️ **odolný vůči žaludeční kyselině**; **lék první volby u streptokokové tonzilofaryngitidy a INFEKCÍ ÚSTNÍ DUTINY (stomatologie)**, erysipel, lehčí infekce dýchacích cest |
+| **Antistafylokokové (oxacilin, kloxacilin)** | ⚠️ **odolné vůči stafylokokové betalaktamáze** → volba u infekcí *Staphylococcus aureus* (ne však MRSA) |
+| **Aminopeniciliny (ampicilin i.v., amoxicilin p.o.)** | spektrum penicilinu **+ G− bakterie**: *E. coli*, *Proteus*, *Haemophilus*, salmonely, enterokoky, *Helicobacter*. Indikace: infekce dýchacích cest, otitida, sinusitida, močové infekce, eradikace *H. pylori* |
+| **Ureidopeniciliny (piperacilin)** | + **pseudomonády** a další problémové G− kmeny; ⚠️ **s tazobaktamem má nejširší spektrum ze všech penicilinů** — nemocniční a těžké infekce |
+| **Potencované (chráněné)** | **amoxicilin + kyselina klavulanová** (koamoxicilin), ampicilin + sulbaktam, piperacilin + tazobaktam |
+
+- **Inhibitory betalaktamáz** (**kyselina klavulanová, sulbaktam, tazobaktam**) — ⚠️ **samy nejsou antibiotika**: obětují se jako „návnada" a **vyvážou bakteriální betalaktamázu**, čímž ochrání penicilin před rozštěpením. Rozšíří spektrum o kmeny produkující betalaktamázu (*S. aureus*, *H. influenzae*, *E. coli*, *Klebsiella*).
+- **Nežádoucí účinky:** ⚠️ **alergie — nejčastější léková alergie vůbec** (od exantému po anafylaxi; **75 % anafylaktických šoků způsobují peniciliny**, viz O30), průjem a dysmikrobie (u koamoxicilinu nejčastěji), **pseudomembranózní kolitida**, u vysokých dávek křeče, ↓ vitaminu K.
+- ⚠️ **Hoigného syndrom** — po (technicky chybném, příliš rychlém) i.m. podání depotní penicilinové suspenze do cévy: úzkost, dechová tíseň, kolaps, halucinace. **NENÍ to alergie**, ale mikroembolizace — proto se pacient po výkonu nevyřazuje z penicilinové léčby.
+
+❓ *Co je penicilin volby na dentální infekci a proč?* → **Penicilin V** — je odolný vůči žaludeční kyselině (dá se podat ústy) a pokrývá orální streptokoky a anaeroby; u alergie na penicilin **klindamycin**.
+
+---
