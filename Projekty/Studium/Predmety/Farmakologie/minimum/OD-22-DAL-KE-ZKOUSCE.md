@@ -2403,3 +2403,100 @@
 ❓ *Proč je u pacienta na finasteridu důležité znát dávku při hodnocení PSA?* → Finasterid **PSA přibližně půlí** — „normální" hodnota může maskovat karcinom, výsledek se musí zdvojnásobit.
 
 ---
+## 123 · Cytostatika
+
+**O čem to je:** ⚠️ **cytostatika ničí rychle se dělící buňky — a protože si nevybírají, poškodí i dřeň, sliznice a vlasové folikuly.** Z toho plyne většina nežádoucích účinků.
+
+- **Typy chemoterapie:** **neoadjuvantní (předoperační** — zmenší nádor) · **adjuvantní (pooperační** — zlikviduje mikrometastázy) · **paliativní** (⚠️ **nevyléčí, jen oddálí postup**) · **podpůrná** (antiemetika, analgetika, růstové faktory) · symptomatická (u umírajících).
+- **Dvojí cíl léčby:** ① maximální účinek při přijatelné toxicitě ② ⚠️ **zabránit vzniku rezistence** — proto se podávají **kombinace** léků s různým mechanismem, v cyklech s pauzou na zotavení dřeně.
+
+| Skupina | Mechanismus | Zástupci a specifická toxicita |
+|---|---|---|
+| **Alkylační látky** | kovalentně alkylují DNA → zlomy a chybné párování | cyklofosfamid (⚠️ **hemoragická cystitida — prevence mesnou**), busulfan, nitrosomočoviny; ⚠️ **samy jsou karcinogenní** (viz O31) |
+| **Sloučeniny platiny** | tvoří můstky mezi bázemi DNA | ⚠️ **cisplatina — nefrotoxická, ototoxická, neuropatie a NEJSILNĚJŠÍ EMETOGEN** (viz otázka 100 — proto vždy setrony) |
+| **Antimetabolity** | blokují enzymy syntézy nukleových kyselin | **metotrexát** (antifolát — ⚠️ **záchranný leukovorin**, mukozitida, ⚠️ **NSA zvyšují jeho toxicitu**), **5-fluorouracil**, merkaptopurin, cytarabin |
+| **Rostlinné alkaloidy** | zásah do mitotického vřeténka | **vinkristin, vinblastin** (brání polymeraci tubulinu — ⚠️ **periferní neuropatie**), **taxany** (paklitaxel — naopak stabilizují mikrotubuly), **etoposid** (inhibitor topoizomerázy II) |
+| **Protinádorová antibiotika** | vmezeří se mezi báze DNA (interkalace) + inhibice topoizomerázy II | ⚠️ **antracykliny (doxorubicin) — KARDIOTOXICITA závislá na kumulativní dávce**; bleomycin — **plicní fibróza** |
+| **Hormony a antihormony** | ovlivnění hormonálně dependentních nádorů | **tamoxifen, inhibitory aromatázy** (prs), **analoga GnRH, antiandrogeny** (prostata), **glukokortikoidy** (hematologické malignity) |
+
+- ⚠️ **Orgánová toxicita (druhá polovina odpovědi):** **útlum kostní dřeně — neutropenie (riziko febrilní neutropenie), anemie, trombocytopenie** · **nauzea a zvracení** · ⚠️ **mukozitida a stomatitida** (bolestivé afty v ústech — přímo tvoje téma; před chemoterapií je nutná **sanace chrupu**) · **alopecie** · nefrotoxicita, kardiotoxicita, neurotoxicita, plicní fibróza · **neplodnost a teratogenita** · ⚠️ **syndrom nádorového rozpadu** (hyperurikemie, hyperkalemie — prevence hydratací a alopurinolem) · **sekundární malignity**.
+- **Cílená a biologická léčba** doplňuje klasická cytostatika: **monoklonální protilátky** (trastuzumab, rituximab), **inhibitory tyrozinkináz (-tinib)**, **checkpoint inhibitory** (viz O35).
+
+❓ *Proč se před chemoterapií posílá pacient k zubaři?* → Chemoterapie vyvolá **mukozitidu a neutropenii** — neošetřené ložisko v ústech se pak stane bránou pro těžkou infekci.
+
+---
+
+## 124 · Farmakoterapie anemií
+
+**O čem to je:** buď chybí **stavební kámen** (železo, kyselina listová, B12), nebo jsou **ztráty** příliš velké — a podle toho se léčí.
+
+- **Anemie** = snížení hemoglobinu (a erytrocytů). **Příčiny:** ① **porucha tvorby** — nedostatek **železa, kyseliny listové, vitaminu B12**, nedostatek **erytropoetinu** (renální selhání), útlum dřeně (léky, záření, nádor) ② **zvýšené ztráty** — krvácení (⚠️ **u dospělého muže a ženy po menopauze vždy pátrat po zdroji v GIT**), hemolýza, hypersplenismus.
+- **Příznaky:** únava, slabost, bledost, závratě, bolest hlavy, **dušnost při námaze, tachykardie a palpitace**, u sideropenie i lomivé nehty, **pálení jazyka a koutkové ragády** `[doplněno]`.
+- **Léčba podle příčiny:**
+
+| Léčivo | Podstatné |
+|---|---|
+| **Železo** | perorálně (dvojmocné soli) ⚠️ **nalačno, lépe se vstřebá v kyselém prostředí — zapít vitaminem C nebo džusem**; ⚠️ **mléko, čaj, káva, antacida a PPI vstřebání zhorší**. NÚ: bolesti žaludku, zácpa, ⚠️ **černá stolice**; i.v. formy při nesnášenlivosti nebo malabsorpci (riziko anafylaxe). Léčba pokračuje ještě 3 měsíce po úpravě hemoglobinu — kvůli doplnění zásob |
+| **Kyselina listová** | u makrocytární anemie, v graviditě prevence rozštěpu neurální trubice; ⚠️ hladinu snižují **fenytoin, karbamazepin, barbituráty, metotrexát** |
+| **Vitamin B12** | perorálně i i.m.; ⚠️ **u perniciózní anemie (chybí vnitřní faktor) jen parenterálně**. Hladinu snižují **omeprazol (chybí kyselé prostředí) a metformin** |
+| **Erytropoetin** (epoetin, darbepoetin) | rekombinantní hormon s.c. — ⚠️ **anemie při chronickém selhání ledvin**, po chemoterapii. NÚ: hypertenze, trombózy |
+
+- ⚠️ **Nikdy nepodávej jen kyselinu listovou u nejasné makrocytární anemie** — upravila by krevní obraz, ale **neurologické postižení z deficitu B12 by dál postupovalo**. `[doplněno]`
+- **Transfuze erytrocytárního koncentrátu:** ⚠️ **indikace zhruba při hemoglobinu pod 80 g/l** (a podle klinického stavu). NÚ: potransfuzní reakce, tvorba protilátek, přetížení oběhu a **přetížení železem**.
+
+❓ *Proč PPI zhoršují anemii?* → Snižují kyselost žaludku, která je nutná pro **vstřebání železa i vitaminu B12**.
+
+---
+
+## 125 · Rentgenkontrastní látky
+
+**O čem to je:** buď struktury **zastíní** (pozitivní kontrast — jód, baryum), nebo **projasní** (negativní — plyn). Hlavní riziko jódu: **alergie a štítná žláza**.
+
+- **Pozitivně kontrastní** (vyšší absorpce RTG záření = zastínění): **sloučeniny jódu a síran barnatý** · **negativně kontrastní** (projasnění): **plyny (vzduch, CO₂), voda, methylcelulóza**.
+- ⚠️ **Síran barnatý** — jen k zobrazení GIT (perorálně nebo klyzmatem). **Baryum je samo o sobě silně toxické, ale síran barnatý je nerozpustný, nevstřebá se, a proto k otravě nevede** — přesně tuhle větu chtějí slyšet. ⚠️ **KI: podezření na perforaci trávicí trubice** (baryová peritonitida) — tam se použije vodná jódová látka. NÚ: zácpa, křeče v břiše.
+- **Jódové kontrastní látky** — distribuce mimobuněčná, rychlé vyloučení **ledvinami**. **Nízkoosmolární** (johexol, jopromid — dnes standard, lépe snášené) × **vysokoosmolární** (starší, víc NÚ) × ve vodě nerozpustné olejové (lymfografie — riziko embolizace).
+- ⚠️ **Nežádoucí účinky jódových látek:** **anafylaktoidní reakce** (většinou pseudoalergická — přímé uvolnění histaminu, viz O30; prevence u rizikových pacientů kortikoidy a antihistaminiky) · **kontrastem indukovaná nefropatie** (prevence **hydratací**, ⚠️ **vysadit metformin** — riziko laktátové acidózy, viz otázka 81) · ⚠️ **ovlivnění štítné žlázy: u pacienta s dostatkem jódu vyvolá spíš hypotyreózu, u pacienta s deficitem naopak hypertyreózu** (viz otázka 116); interferuje s léčbou radiojódem.
+
+❓ *Co musíš zkontrolovat u diabetika před podáním jódové kontrastní látky?* → Zda bere **metformin** — před vyšetřením se vysazuje (riziko laktátové acidózy při zhoršení funkce ledvin).
+
+---
+
+## 126 · Léčiva pro místní účinek na kůži a sliznicích (+ dezinficiencia)
+
+**O čem to je:** zevní léčba působí **jen v místě nálezu**; u kyseliny salicylové a močoviny ⚠️ **rozhoduje koncentrace — tatáž látka hydratuje, nebo leptá**.
+
+- **Princip zevní léčby:** účinek závisí na **účinné látce + vehikulu (nosiči) + způsobu aplikace**; průnik ovlivňuje tloušťka rohové vrstvy, porušení kůže, prokrvení a okluze. Cesty: **transepidermálně** (mezi buňkami nebo skrz ně) × **transadnexálně** (vývody žláz).
+- **Lékové formy podle stavu ložiska:** ⚠️ **na mokvající ložisko roztoky, obklady a zásypy · na suché a olupující se masti a mastné krémy**; krémy **o/v na den**, **v/o na noc**; pasty, gely, kolodia (bradavice), koupele.
+- **Hlavní léčiva:** **kortikosteroidy** (vazokonstrikce, protizánětlivý, antiproliferativní efekt — ekzém, psoriáza; ⚠️ **NÚ: atrofie kůže, strie, teleangiektázie, periorální dermatitida, akneiformní vyrážka; KI infekční ložiska a otevřené rány**) · **kalcineurinové inhibitory** (takrolimus, pimekrolimus — atopický ekzém, bez atrofie kůže) · **analoga vitaminu D** (kalcipotriol — psoriáza) · **imiquimod** (viz otázka 114) · **glycerol, urea** (hydratace).
+- 🔑 **Koncentrační řady — nejvděčnější detail otázky:**
+  - **kyselina salicylová:** **1–2 %** antiseptická a keratoplastická → **3–5 %** protisvědivá a antimykotická → ⚠️ **5–10 % keratolytická** → **40–60 % leptavá** (kolodium na bradavice). ⚠️ **Dobře se vstřebává — při aplikaci na velkou plochu hrozí salicylismus**, a zvyšuje průnik současně nanesených látek.
+  - **močovina (urea):** **do 10 %** hydratační → **10–20 %** antibakteriální → **nad 20 %** protisvědivá → ⚠️ **40–50 % keratolytická**. Netoxická, nedráždivá, nealergizující.
+- **Oficinální kombinace:** **Jarischův roztok** (kyselina boritá + glycerol — protisvědivý, hydratační), **Chlumského roztok** (fenol, kafr, ethanol — antiseptikum, i ve stomatologii), **Novikovův roztok** („tekutý obvaz", antiseptický).
+- ⚠️ **Dezinficiencia × antiseptika — rozdíl, na kterém otázka stojí:** **dezinficiencia** působí **na neživých předmětech, plochách a nástrojích** a mikroby **usmrcují** (nejvyšším stupněm je **sterilizace**) · **antiseptika** se používají **na živou tkáň** (kůže, rána, sliznice) v koncentraci, která ji **nepoškodí**, a růst mikrobů zastavují.
+- **Podle chemické struktury:** **alkoholy** (ethanol 60–70 %, isopropanol — denaturují bílkoviny; ⚠️ **nepůsobí na spory**), **fenoly a bisfenoly (chlorhexidin** — ⚠️ ve stomatologii výplachy u gingivitidy, NÚ **zabarvení zubů a změny chuti** `[doplněno]`), **jodofory (povidon-jod)**, **aldehydy (formaldehyd, glutaraldehyd — nástroje)**, peroxid vodíku, kvartérní amoniové soli.
+
+❓ *Jakou koncentraci kyseliny salicylové zvolíš na keratolýzu a čeho se bát?* → **5–10 %**; při rozsáhlé aplikaci hrozí **systémové vstřebání a salicylismus**.
+
+---
+
+## 127 · Infuzní terapie
+
+**O čem to je:** ⚠️ **iontové poruchy se nikdy nekorigují rychle** — to je nejdůležitější věta celé otázky.
+
+- **Vnitřní prostředí:** voda tvoří ~**60 % hmotnosti** — **2/3 intracelulárně, 1/3 extracelulárně** (z toho 80 % intersticium, 20 % plazma); s věkem podíl vody klesá. Denní příjem ~2,5 l.
+- **Sodík (135–145 mmol/l)** — hlavní **extracelulární** iont, určuje osmolalitu; řízen **ADH, natriuretickými peptidy a systémem renin-angiotenzin-aldosteron**.
+  - **Hypernatremie** → doplnit volnou vodu (5% glukóza, voda na injekci); ⚠️ **rychlá korekce = otok mozku**.
+  - **Hyponatremie** → podle tíže; hypertonický **3% NaCl** jen u těžkých neurologických příznaků; ⚠️ **rychlá korekce = centrální pontinní myelinolýza** (kvadruplegie, poruchy polykání a vědomí).
+  - ⚠️ **Tempo úpravy zhruba 10 mmol/l za 24 h; o závažnosti rozhodují neurologické příznaky, ne samotné číslo.**
+- **Draslík (3,8–5,2 mmol/l)** — hlavní **intracelulární** iont (98 % v buňkách), určuje **klidový membránový potenciál**.
+  - ⚠️ **Hyperkalemie** (renální selhání, hemolýza, kalium šetřící diuretika, ACEI) — **hrozí zástava srdce**; typické **EKG změny (vysoké hrotnaté T)** předcházejí příznakům. **Léčba: kalcium i.v.** (chrání myokard) **+ glukóza s inzulinem** a β2-mimetika (přesun K⁺ do buněk), iontoměniče, **dialýza**.
+  - **Hypokalemie** (diuretika, kortikoidy, průjmy, zvracení) — svalová slabost, arytmie, ⚠️ **zvyšuje toxicitu digoxinu**. ⚠️ **Kalium i.v. jen zředěné a pomalu (max ~10–20 mmol/h), nikdy bolusem.**
+- **Vápník, hořčík, fosfor:** **kalcium** — jen ~50 % je ionizované (aktivní); ⚠️ **hypokalcemie po masivních transfuzích** (citrát v konzervě váže vápník) → **tetanie**. **Magnezium** — kofaktor ATPáz; podává se u **tachyarytmií (torsade de pointes)**, ⚠️ **eklampsie** a těžké bronchiální obstrukce. **Fosfor** — klesá u refeeding syndromu.
+- **Roztoky:** **krystaloidy** — **balancované (Hartmannův, Ringerfundin)** jsou dnes preferované; ⚠️ **fyziologický roztok ve velkém objemu působí hyperchloremickou metabolickou acidózu** · **glukóza 5–40 %** jako zdroj volné vody a energie · **koloidy** (škroby, želatiny) — ⚠️ **ustupuje se od nich: poruchy srážlivosti, poškození ledvin, anafylaxe** · **albumin** (sepse, jaterní selhání).
+- **Čtyři typy infuzní terapie:** **udržovací** (~1 ml/kg/h) · **náhrada deficitu** · **tekutinová resuscitace** (šok) · **tekutinová výzva** (test, zda srdce na objem odpoví). ⚠️ Pozor i na **přetížení tekutinami** — pak je namístě „deresuscitace".
+- **Výživa:** ⚠️ **umělá výživa nemá nahrazovat příjem ústy, pokud pacient jíst může**; **enterální výživa má přednost** před parenterální a zahajuje se časně (KI: perforace, obstrukce, ischemie střeva, nestabilní oběh). Energie: **1 g bílkovin 4 kcal · 1 g glukózy 3,4 kcal · 1 g tuku 9 kcal**.
+- ⚠️ **Refeeding syndrom** — po obnovení příjmu (hlavně glukózy) u **podvyživeného či hladovějícího** pacienta se prudce přesunou ionty do buněk: **klesá fosfor, hořčík, draslík**, hrozí **arytmie, srdeční selhání, neurologické příznaky**. **Prevence: pomalé navyšování energie + substituce fosforu, hořčíku a thiaminu.**
+
+❓ *Proč se hyponatremie nesmí upravovat rychle?* → Prudký vzestup osmolality vyvolá **centrální pontinní myelinolýzu** s trvalým neurologickým postižením.
+
+---
