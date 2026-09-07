@@ -6,9 +6,9 @@
 
 ## 🚨 KRIZOVÝ REŽIM (2026-09-07, zbývají 2 dny) — `ZAKLAD-KE-ZKOUSCE.pdf` = TOP SOUBOR
 
-**Tohle je JEDINÝ soubor, který stačí otevřít.** Je to plná vysvětlená vrstva, obsahově totožná s `VYPISKY-KOMPLET` — u každé ze 136 otázek **O čem to je** (lidsky) → vysvětlený odborný text (žádná tabulka bez vysvětlení) → 🔑 → ⚠️ → ❓ **Doptají se**. **175 stran.**
+**Tohle je JEDINÝ soubor, který stačí otevřít.** U každé ze 136 otázek **O čem to je** (lidsky) → vysvětlený odborný text s klíčovou tabulkou → 🔑 → ⚠️ → ❓ **Doptají se** (1 otázka). **77 stran, pod limitem 80.**
 
-⚠️ **Historie:** první dvě verze tohoto souboru byly moc zkrácené na hesla/fakta bez vysvětlení — Tessa řekla, že jim po přečtení nerozumí. Zkracování na sílu ztrácelo přesně to, co dělá text pochopitelným. Třetí verze vypustila "Doptají se" pro úsporu místa (159 str.) — Tessa řekla, ať to tam nechám. **Finální verze = plný `VYPISKY-KOMPLET` beze změny, jen přejmenovaný a se zaváděcím plánem na 2 dny navrch.**
+⚠️ **Historie:** první dvě verze byly moc zkrácené na hesla bez vysvětlení (Tessa jim nerozuměla) → třetí verze byla plný `VYPISKY-KOMPLET` beze změny (175 str., moc dlouhé na 2 dny) → čtvrtá bez "Doptají se" (159 str., pořád moc) → Tessa chtěla Doptají se zpátky ALE max 80 stran. **Finální řešení:** u každé otázky ponechána jen 1 nejdůležitější tabulka (u otázek s 2+ tabulkami je druhá jen v `VYPISKY-KOMPLET.md`) a jen 1 doptávací otázka místo 2–3 — jinak identický vysvětlující text jako plná verze, žádná věta nebyla přepisovaná ani zkracovaná uvnitř.
 
 ---
 
