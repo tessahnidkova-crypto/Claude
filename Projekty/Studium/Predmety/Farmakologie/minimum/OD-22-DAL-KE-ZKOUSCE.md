@@ -1378,3 +1378,105 @@
 ❓ *Za jak dlouho po sildenafilu se nesmí podat nitrát?* → Podstatné je, že **kombinace je kontraindikovaná** (u sildenafilu se uvádí odstup ≥ 24 h, u tadalafilu ≥ 48 h) — jinak hrozí smrtelná hypotenze.
 
 ---
+
+## 72 · Farmakoterapie srdečního selhání
+
+**O čem to je:** srdce nestíhá pumpovat, tělo to kompenzuje sympatikem a RAAS — jenže **právě tahle kompenzace srdce dál ničí**. Proto léčba z velké části znamená kompenzaci zablokovat, ne pumpu posilovat.
+
+- **Definice:** porucha srdeční funkce, při které srdce nepřečerpá tolik krve, kolik tkáně potřebují. Dělí se podle **ejekční frakce (EF)** — HFrEF (snížená, ≤ 40 %), HFmrEF (mírně snížená), HFpEF (zachovaná).
+- 🔑 **Adaptační mechanismy, ze kterých plyne celá léčba:** nízký výdej → **aktivace sympatiku** (přes α vazokonstrikce = ↑ dotížení, přes β1 ↑ frekvence a spotřeba kyslíku + ↑ renin) → **aktivace RAAS** (angiotenzin II a aldosteron → retence sodíku a vody, fibróza a **remodelace myokardu**). Krátkodobě to pomůže, dlouhodobě srdce zabíjí.
+
+| Cíl | Skupina | Zástupci a poznámka |
+|---|---|---|
+| **utlumit sympatikus** | **β-blokátory** | **bisoprolol, karvedilol, metoprolol ZOK, nebivolol** — ⚠️ **snižují mortalitu**; nasazovat **v malé dávce a pomalu titrovat**, nikdy při dekompenzaci |
+| **utlumit RAAS** | **ACE inhibitory** (nebo **sartany** při kašli) | ramipril, perindopril, enalapril — **snižují mortalitu** |
+| | **antagonisté aldosteronu** | **spironolakton, eplerenon** — snižují mortalitu; ⚠️ hlídat kalium |
+| | (moderně **ARNI** — sakubitril/valsartan a **glifloziny**) `[doplněno]` | dnes standard u HFrEF |
+| **odstranit městnání** | **diuretika** | **furosemid** (dušnost, otoky) — uleví od příznaků, ⚠️ **mortalitu nesnižují** |
+| **posílit stah** | **pozitivně inotropní látky** | **digoxin** (fibrilace síní, přetrvávající příznaky), **dobutamin/dopamin, levosimendan** jen krátkodobě u akutního selhání a kardiogenního šoku |
+| **zvládnout arytmie** | antiarytmika | **amiodaron** (ostatní třídy jsou u selhání rizikové), implantabilní defibrilátor |
+
+- ⚠️ **Léky, které u srdečního selhání škodí:** **verapamil a diltiazem** (negativně inotropní), **NSA** (retence sodíku a vody, ↓ účinek diuretik a ACEI), glitazony, ⚠️ **β-blokátor nasazený při akutní dekompenzaci**.
+- **Pravostranné selhání a plicní hypertenze:** **antagonisté endotelinu (bosentan)**, **inhibitory PDE5 (sildenafil)**, **prostacyklinová analoga (iloprost)**; při plicní embolii **antikoagulancia a trombolýza**; kyslík, diuretika.
+
+🔑 **β-blokátory a inhibitory RAAS srdce neposilují — blokují kompenzaci, která ho ničí; proto jako jediné (spolu s antagonisty aldosteronu) snižují mortalitu. Diuretika uleví, ale život neprodlouží.**
+
+❓ *Proč se β-blokátor u srdečního selhání nasazuje pomalu a v malé dávce?* → Na začátku sníží kontraktilitu a mohl by selhání akutně zhoršit; prospěch se projeví až po týdnech.
+
+---
+
+## 73 · Farmakoterapie ischemické choroby srdeční (ICHS)
+
+**O čem to je:** myokard nedostává dost kyslíku, protože jsou zúžené věnčité tepny. Léčba se **liší podle formy** — stabilní vs. nestabilní.
+
+- **ICHS** = nedostatečné okysličení myokardu, typicky aterosklerózou koronárních tepen. **Angina pectoris** = svíravá bolest za hrudní kostí, vystřeluje do krku, čelisti a levé paže. **Formy:** stabilní (námahová, ustupuje v klidu a po nitrátu), **Prinzmetalova/vazospastická** (klidová, ze spazmu), **nestabilní** a **akutní koronární syndrom**.
+- **Princip léčby stabilní formy: snížit spotřebu kyslíku a zlepšit jeho dodávku.**
+
+| Skupina | Jak pomáhá |
+|---|---|
+| **Nitráty** | venodilatace → ↓ předtížení a spotřeba kyslíku; sublingválně **lék volby na záchvat**, dlouhodobě profylakticky (s nitrátovým intervalem) |
+| **β-blokátory** | ↓ frekvence a kontraktilita → ↓ spotřeba kyslíku, ⚠️ **prodloužená diastola zlepší plnění věnčitých tepen**; **základ dlouhodobé léčby**, snižují mortalitu po infarktu |
+| **Blokátory kalciových kanálů** | vazodilatace koronárních tepen — ⚠️ **lék volby u Prinzmetalovy (vazospastické) anginy**; verapamil/diltiazem tam, kde nelze β-blokátor |
+| **Ivabradin** `[doplněno]` | zpomaluje SA uzel bez vlivu na kontraktilitu — když β-blokátor nestačí nebo nelze |
+| **Prognostická léčba (u všech!)** | **kyselina acetylsalicylová** (antiagregace), **statin**, **ACE inhibitor** |
+
+- **Nestabilní angina a akutní koronární syndrom:** ⚠️ **těžiště je v protisrážlivé léčbě, ne v úlevě od bolesti** — **duální antiagregace (ASA + klopidogrel/tikagrelor)**, **antikoagulace (LMWH nebo heparin)**, β-blokátor, statin, nitrát; **morfin na bolest**; kyslík při hypoxii.
+- **Infarkt myokardu:** **ruptura aterosklerotického plátu → nasedající trombus → uzávěr tepny**. ⚠️ **K nekróze celé tloušťky stěny dojde asi do 6 hodin** — proto se musí co nejdřív obnovit průtok: **primární PCI (katetrizace)**, případně **trombolýza**. Následně trvale ASA + P2Y12 inhibitor, β-blokátor, ACEI, statin.
+
+🔑 **Stabilní AP = snižuj spotřebu kyslíku (nitráty, β-blokátory, BKK) + prognostická trojice ASA, statin, ACEI. Nestabilní AP a infarkt = rozpusť/odstraň trombus, čas je sval.**
+
+❓ *Proč β-blokátor zlepší prokrvení srdce, i když cévy nerozšiřuje?* → Zpomalí tep → **prodlouží diastolu**, a věnčité tepny se plní právě v diastole.
+
+---
+
+## 74 · Antihypertenziva
+
+**O čem to je:** u 95 % pacientů se příčina nezná — léčba proto **není kauzální**, ale brání poškození cév, srdce, mozku a ledvin.
+
+- **Hypertenze** = opakovaně naměřený tlak **≥ 140/90 mm Hg**. **Primární (esenciální) v 95 %** — bez zjevné příčiny; **sekundární** — renální, renovaskulární, endokrinní (hyperaldosteronismus, feochromocytom), polékové.
+- ⚠️ **Bludný kruh s aterosklerózou:** hypertenze poškodí endotel → chybí NO a prostacyklin, převáží vazokonstrikce → tlak dál stoupá; vysoký tlak navíc trhá aterosklerotické pláty.
+- **Metabolický syndrom** = hypertenze + centrální obezita + porucha glukózové tolerance / diabetes 2. typu + dyslipidemie. **Základ léčby je nefarmakologický:** omezení soli a živočišných tuků, redukce hmotnosti, pohyb, nekouřit, omezit alkohol.
+- **Tři mechanismy, kterými antihypertenziva fungují:** ① **vazodilatace** ② **↓ srdeční výdej** (frekvence a kontraktilita) ③ **odstranění sodíku a vody**.
+
+| Skupina (první volba) | Podstatné | NÚ / KI |
+|---|---|---|
+| **ACE inhibitory / sartany** | ↓ angiotenzin II a aldosteron, **renoprotektivní** — volba u diabetika a nefropatie | kašel (ACEI), hyperkalemie, angioedém · ⚠️ **KI gravidita, stenóza renálních tepen** |
+| **Blokátory kalciových kanálů** | vazodilatace; volba u seniorů a **v graviditě** (nifedipin) | otoky kotníků, návaly, zácpa (verapamil) · KI AV blok (verapamil) |
+| **Thiazidová diuretika** | ↓ objem, po 2 týdnech ↓ periferní odpor | hypokalemie, hyperurikemie, hyperglykemie · KI dna |
+| **β-blokátory** | ↓ výdej a renin; volba při **ICHS, po infarktu, u srdečního selhání a tachyarytmií** | únava, studené končetiny, bronchospasmus, maskování hypoglykemie · ⚠️ KI **astma, AV blok, bradykardie** |
+
+- **Druhá a další volba:** **antagonisté aldosteronu (spironolakton)** — lék volby u **rezistentní hypertenze**; **α1-blokátory** (doxazosin, výhodné při hyperplazii prostaty); **centrálně působící α2-agonisté** — ⚠️ **methyldopa je volba v graviditě**, dále moxonidin, rilmenidin; přímá vazodilatancia (hydralazin, minoxidil).
+- ⚠️ **Přes 70 % pacientů potřebuje kombinaci dvou a víc léků** — kombinují se skupiny s odlišným mechanismem (typicky ACEI/sartan + BKK + thiazid), a nikdy ACEI se sartanem.
+- **Hypertenzní krize:** i.v. léčba (nitroglycerin, urapidil, labetalol) — tlak se snižuje **postupně**, prudký pokles hrozí mozkovou ischemií.
+
+❓ *Které antihypertenzivum zvolíš u těhotné?* → **Methyldopa**, alternativně nifedipin nebo labetalol; **ACEI a sartany jsou kontraindikované**.
+
+---
+
+## 75 · Farmakoterapie aterosklerózy, hyperlipidemie
+
+**O čem to je:** vysoký cholesterol nebolí, ale tiše ničí cévy — léčí se **preventivně**. Standardem jsou statiny.
+
+- **Hyperlipidemie** = zvýšená koncentrace lipidů a lipoproteinů v krvi · **dyslipidemie** = porušený **poměr** mezi nimi (i při normálním celkovém množství). Následek: **ateroskleróza** (ICHS, CMP, ischemie končetin) a při vysokých triglyceridech **akutní pankreatitida**.
+
+| Lipid | Cílová hranice |
+|---|---|
+| celkový cholesterol | **do 5,2 mmol/l** |
+| **LDL** („zlý") | **do 3 mmol/l** (u vysoce rizikových výrazně méně) |
+| **triacylglyceroly** | **do 1,7 mmol/l** |
+
+- **Základ je nefarmakologický:** dieta s omezením živočišných tuků, redukce hmotnosti, pohyb, nekouřit, omezit alkohol.
+
+| Skupina | Mechanismus, indikace, NÚ |
+|---|---|
+| **Statiny** (atorvastatin, rosuvastatin, simvastatin) | ⚠️ **lék první volby**: blokují **HMG-CoA reduktázu**, klíčový enzym syntézy cholesterolu v játrech → játra si **zvýší počet LDL receptorů** → z krve zmizí LDL. Snižují i triglyceridy a mají protizánětlivý („pleiotropní") efekt — **stabilizují plát**. **NÚ: myalgie, ↑ jaterní testy, vzácně rabdomyolýza** (riziko roste s fibráty a s inhibitory CYP3A4 — ⚠️ **grapefruit**). **KI: gravidita, aktivní jaterní onemocnění** |
+| **Ezetimib** | blokuje **transportér cholesterolu v kartáčovém lemu střeva** → méně cholesterolu do jater → opět ↑ LDL receptory. Kombinace se statinem nebo při jeho nesnášenlivosti |
+| **Inhibitory PCSK9** (alirokumab, evolokumab) | **monoklonální protilátky** — brání degradaci LDL receptorů → jater vychytají víc LDL; podkožní injekce à 2–4 týdny; **familiární hypercholesterolemie a velmi vysoké riziko**. NÚ: reakce v místě vpichu |
+| **Fibráty** (fenofibrát) | agonisté **PPAR-α** → ↑ lipoproteinová lipáza → ⚠️ **hlavně snižují triglyceridy** a zvyšují HDL. Indikace: výrazná hypertriglyceridemie. NÚ: myopatie (⚠️ zvlášť se statinem), žlučové kameny |
+| **Pryskyřice** (cholestyramin, kolesevelam) | vážou **žlučové kyseliny** ve střevě a přeruší jejich enterohepatální oběh → játra je tvoří z cholesterolu → ↑ LDL receptory. Nevstřebávají se. **NÚ: zácpa, nadýmání, ⚠️ vážou i vitaminy A, D, E, K a jiné léky** (podávat s odstupem) |
+
+🔑 **Statiny = blokují výrobu cholesterolu · ezetimib = blokuje jeho vstřebávání · pryskyřice = přeruší jeho koloběh · fibráty = na triglyceridy. Všechny „nestatiny" nakonec fungují přes zvýšení počtu LDL receptorů v játrech.**
+
+❓ *Proč je kombinace statinu s fibrátem riziková?* → Sčítá se **myotoxicita** → riziko rabdomyolýzy a selhání ledvin z myoglobinu.
+
+---
