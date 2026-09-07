@@ -1776,3 +1776,102 @@
 
 # ČÁST 3 — SPECIÁLNÍ FARMAKOLOGIE II (89–136)
 
+## 89 · Chemoterapeutika močových a střevních infekcí
+
+**O čem to je:** léky, které působí **jen tam, kde mají** — buď se koncentrují v moči, nebo se ze střeva vůbec nevstřebají.
+
+- **Nitrofurantoin** — ⚠️ **lék první volby u nekomplikované infekce močových cest**: poškozuje bakteriální DNA a enzymy. **Nerozšiřuje se systémově — terapeutické hladiny má jen v moči**, proto se hodí i k profylaxi a proto u *E. coli* skoro nevzniká rezistence. **NÚ:** GIT nesnášenlivost, dlouhodobě plicní fibróza a neuropatie. **KI: renální insuficience, gravidita v termínu, děti do 3 měsíců.**
+- **Fosfomycin** — blokuje **první krok syntézy buněčné stěny**, baktericidní, širokospektrý (enterobakterie, stafylokoky, enterokoky); **jednorázová dávka u nekomplikované cystitidy**, dnes i u multirezistentních kmenů.
+- **Ko-trimoxazol** (sulfamethoxazol + trimetoprim) — blokáda **folátové dráhy ve dvou krocích**; močové infekce, ⚠️ **pneumocystová pneumonie**. NÚ: alergie a **kožní reakce až Stevensův-Johnsonův syndrom**, útlum krvetvorby, hyperkalemie.
+- **Pivmecilinam** — perorální betalaktam určený pro močové infekce.
+- **Střevní:** **rifaximin** — ⚠️ **nevstřebává se z GIT, působí jen ve střevě**: bakteriální průjmy, cestovatelský průjem, **jaterní encefalopatie** (potlačí bakterie tvořící amoniak) · **nifuroxazid, cloroxin** — nespecifické průjmy · ⚠️ **fidaxomicin a vankomycin p.o. — infekce *Clostridioides difficile***.
+
+🔑 **Nitrofurantoin působí jen v moči, rifaximin jen ve střevě — obojí proto, že se „nedostanou nikam jinam".**
+
+❓ *Proč se rifaximin používá u jaterní encefalopatie?* → Nevstřebá se, ale ve střevě potlačí bakterie produkující **amoniak**, který mozek u jaterního selhání otravuje.
+
+---
+
+## 90 · Antiparazitika
+
+**O čem to je:** léčba parazitů je těžší než léčba bakterií, protože ⚠️ **paraziti jsou eukaryota jako my** — co škodí jim, snadno škodí i našim buňkám.
+
+- **Zásady:** léčí se **cíleně až po parazitologickém průkazu**; látky jsou často toxické; léčbu komplikuje **chronický průběh a různá vývojová stadia parazita**. V ČR je parazitóz málo → řada léků není registrována a musí se dovážet (viz pravidla pro neregistrované přípravky, O2).
+- **Antihelmintika (červi):** **mebendazol, albendazol** (benzimidazoly — blokují tvorbu mikrotubulů a příjem glukózy; ⚠️ **v ČR registrovaný mebendazol na střevní hlísty — roupy, škrkavky**) · **pyrantel** (depolarizující blokáda ploténky červa → spastická obrna a vypuzení; roupi, škrkavky) · **praziquantel** (motolice a tasemnice) · **ivermektin** (filárie, svrab).
+- **Antiprotozoika (prvoci):** **chlorochin, chinin, artemisinin** (malárie) · **pyrimethamin + sulfadiazin** (toxoplazmóza — blokáda folátové dráhy) · ⚠️ **metronidazol** (amébiáza, giardiáza, trichomoniáza — v anaerobním prostředí se aktivuje a poškodí DNA parazita; ⚠️ **s alkoholem disulfiramová reakce**) · **spiramycin** (toxoplazmóza v graviditě) · antimon a melarsoprol (leishmanióza, trypanosomiáza — těžké kovy, vysoce toxické).
+- **NÚ obecně:** GIT potíže, hepatotoxicita, útlum krvetvorby, neurotoxicita; většina je **kontraindikována v graviditě** (hlavně v I. trimestru).
+
+❓ *Proč je antiparazitární léčba toxičtější než antibakteriální?* → Parazit je **eukaryotická buňka podobná lidské** — je málo cílů, které má jen on a my ne.
+
+---
+
+## 91 · Antituberkulotika a antileprotika
+
+**O čem to je:** TBC se léčí **vždy kombinací několika léků a dlouho** — jinak si mykobakterie okamžitě vypěstují rezistenci.
+
+- ⚠️ **Zásady:** léčba je **dlouhodobá (6+ měsíců) a vždy kombinovaná** — úvodní fáze 4–5 léků, pokračovací 2–3. Důvod: zasáhnout **všechny růstové fáze** mykobakterií (rychle se množící, pomalu se množící, dormantní) a **předejít rezistenci**. Léčbu vede pneumolog, je **kontrolovaná a ze zákona povinná**.
+
+| Léčivo | Podstatné a NÚ |
+|---|---|
+| **Izoniazid** | **proléčivo, které aktivuje sama mykobakterie** (kataláza); blokuje syntézu kyseliny mykolové ve stěně. ⚠️ **NÚ: hepatotoxicita a periferní neuropatie** — proto se přidává **pyridoxin (vit. B6)**; rychlost odbourání závisí na **acetylátorském fenotypu** (viz O26) |
+| **Rifampicin** | blokuje bakteriální RNA-polymerázu; baktericidní, proniká i do kaveren a abscesů. ⚠️ **Silný induktor CYP450** → snižuje účinek **kontraceptiv, warfarinu, antiretrovirotik**; ⚠️ barví moč, slzy a pot **do oranžova** |
+| **Pyrazinamid** | proléčivo, účinné v kyselém prostředí makrofágů. NÚ: **hepatotoxicita, hyperurikemie (dna)** |
+| **Etambutol** | blokuje syntézu stěny, bakteriostatický. ⚠️ **NÚ: retrobulbární neuritida — porucha barvocitu a ostrosti vidění** (nutné oční kontroly) |
+| **Streptomycin** | aminoglykosid i.m.; **oto- a nefrotoxický** |
+
+🔑 **Rezistence ve čtyřech stupních:** monorezistentní (1 lék) · polyrezistentní (víc léků, **ale ne izoniazid + rifampicin zároveň**) · **MDR = rezistence na izoniazid I rifampicin současně** · **XDR = navíc na léky druhé řady** (fluorochinolony, injekční). **Hranicí mezi poly- a multirezistencí je právě dvojice izoniazid + rifampicin.**
+
+- **Antileprotika:** *Mycobacterium leprae* — základ je **dapson (blokuje folátovou dráhu) + rifampicin**, u multibacilární formy navíc **klofazimin**. Dapson je **hematotoxický** (hemolýza, hlavně při deficitu G6PD).
+
+❓ *Proč se k izoniazidu přidává vitamin B6?* → Izoniazid zvyšuje ztráty pyridoxinu → hrozí **periferní neuropatie**, pyridoxin jí předchází.
+
+---
+
+## 92 · Antimykotika
+
+**O čem to je:** cílem je **ergosterol** — látka v membráně hub, kterou lidská buňka nemá (má cholesterol).
+
+- **Proč mykóz přibývá:** širokospektrá antibiotika zlikvidují bakteriální konkurenci hub, a imunosupresiva, kortikoidy a cytostatika oslabí obranu.
+- **Čtyři mechanismy:** ① **blokáda syntézy ergosterolu** (azoly, terbinafin) ② **přímá vazba na ergosterol → děravá membrána** (polyeny) ③ **blokáda syntézy β-glukanu buněčné stěny** (echinokandiny) ④ blokáda syntézy nukleových kyselin (flucytosin).
+
+| Skupina | Zástupci, indikace, NÚ |
+|---|---|
+| **Polyeny** | **amfotericin B** — nejširší spektrum (kvasinky i plísně), i.v.; **mukormykóza, kryptokoková meningitida, těžké aspergilózy**. ⚠️ **NÚ: nefrotoxicita, horečka a třesavka při infuzi, hypokalemie** (lipozomální forma je šetrnější). **Nystatin** — jen lokálně, ⚠️ **pouze na kandidy** (orální soor) |
+| **Azoly** | **flukonazol** (kandidózy, kryptokoková meningitida — proniká do CNS; ⚠️ **teratogenní**), **itrakonazol** (dermatofyta, profylaxe), ⚠️ **vorikonazol — lék volby u invazivní aspergilózy** (NÚ: poruchy vidění). ⚠️ **Všechny azoly silně inhibují CYP3A4** → hodně interakcí (statiny, warfarin, imunosupresiva); hepatotoxicita, prodloužení QT |
+| **Echinokandiny** | **kaspofungin, anidulafungin, mikafungin** — i.v., ⚠️ **lék volby u invazivní kandidózy**; velmi dobře snášené. ⚠️ **Nepronikají do CNS** ani nepůsobí na kryptokoky |
+| **Lokální** | klotrimazol, ekonazol, mikonazol (kůže, sliznice, vaginálně), **terbinafin** (dermatofyta, onychomykóza), amorolfin a cyklopirox v laku na nehty |
+
+❓ *Proč amfotericin B poškozuje ledviny?* → Váže se i na **cholesterol** v lidských membránách (podobný ergosterolu) — hlavně v tubulech ledviny.
+
+---
+
+## 93 · Antivirotika
+
+**O čem to je:** léčí se jen zlomek virových infekcí — většina se u zdravého člověka vyléčí sama.
+
+- ⚠️ **Vždy léčíme: HIV, hepatitidu B a C.** **Podle klinického a imunitního stavu:** CMV, HSV-1 a 2, VZV, EBV, chřipka A, RSV, covid-19. Řada infekcí je u imunokompetentních **samoúzdravná**.
+- **Antiherpetika:** **aciklovir** — proléčivo, které aktivuje až **virová thymidinkináza** (proto je selektivní pro infikované buňky), pak blokuje virovou DNA-polymerázu. ⚠️ **Perorální dostupnost jen 10–30 % → podává se jako valaciklovir (dostupnost ~70 %)** — učebnicový příklad proléčiva. **Indikace:** HSV-1 a 2, **VZV (pásový opar — čím dřív, tím lépe)**; ⚠️ **na CMV nefunguje — tam ganciklovir nebo foskarnet** (NÚ: útlum dřeně, nefrotoxicita). NÚ acikloviru: nefrotoxicita při rychlém i.v. podání (dostatečná hydratace!).
+- **Chřipka — inhibitory neuraminidázy:** **oseltamivir** (p.o.) a **zanamivir** (inhalačně, ⚠️ **KI astma a CHOPN**). Neuraminidáza uvolňuje nové viriony z buňky — blokáda zkrátí příznaky, ⚠️ **jen když se podá do 48 h od začátku**.
+- **Hepatitida C** (RNA virus) — bez léčby fibróza, cirhóza, hepatocelulární karcinom. ⚠️ **Přímo působící antivirotika (sofosbuvir + velpatasvir) vyléčí přes 97 % pacientů.**
+- **Hepatitida B** (DNA virus, integruje se do genomu, ~10 % chronicita) — cílem je **trvale potlačit replikaci**, ne eradikace: **tenofovir**, entekavir, lamivudin, pegylovaný interferon α.
+- **Ribavirin** — analog guanosinu; RSV, hemoragické horečky, dřív hepatitida C. ⚠️ **Teratogenní a mutagenní**, NÚ **hemolytická anemie**.
+- **Očkování je nejúčinnější prevence:** povinné spalničky, příušnice, zarděnky, obrna, **hepatitida B**; doporučené klíšťová encefalitida, chřipka, **HPV**, hepatitida A, plané neštovice, covid-19.
+
+❓ *Proč aciklovir nepoškozuje zdravé buňky?* → Aktivovat ho umí jen **virová thymidinkináza** — v neinfikované buňce zůstane neúčinný.
+
+---
+
+## 94 · Antiretrovirotika
+
+**O čem to je:** léky proti HIV virus **nevyléčí** — jen zastaví jeho množení, proto se berou doživotně.
+
+- **HIV** je **retrovirus**, který infikuje **CD4+ T-lymfocyty** a postupně je ničí → imunodeficit → oportunní infekce a nádory (AIDS).
+- ⚠️ **Cíl léčby: potlačit replikaci viru na nedetekovatelnou hladinu — nikoli eradikace.** Virus přetrvává v latentních rezervoárech.
+- **Mechanismy a skupiny:** **nukleosidové inhibitory reverzní transkriptázy (NRTI)** — tenofovir, emtricitabin, abakavir · **nenukleosidové (NNRTI)** — efavirenz · **inhibitory proteázy (-navir)** — brání sestavení funkčních virionů, ⚠️ **silné interakce přes CYP3A4** · **inhibitory integrázy (-tegravir)** — dolutegravir, dnes základ léčby · **inhibitory vstupu** — maravirok.
+- ⚠️ **Léčí se vždy kombinací nejméně tří léků** (kombinovaná antiretrovirová terapie) — jinak virus rychle mutuje a stane se rezistentním.
+- **NÚ:** lipodystrofie a metabolický syndrom (inhibitory proteázy), nefrotoxicita a úbytek kostní hmoty (tenofovir), hypersenzitivita na abakavir (HLA-B*5701), neuropsychické NÚ (efavirenz).
+- **Zahájení léčby:** ⚠️ **zdroj uvádí pokles CD4 pod 350/mm³**; `[doplněno]` dnešní doporučení jsou **léčit každého HIV pozitivního bez ohledu na CD4** — u zkoušky uveď hodnotu ze skript a doplň, že současný trend je „treat all".
+
+❓ *Proč se HIV léčí vždy kombinací tří léků?* → Při monoterapii virus **rychle zmutuje** a lék přestane fungovat; trojkombinace to znemožní.
+
+---
