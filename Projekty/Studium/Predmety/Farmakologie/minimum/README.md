@@ -4,9 +4,11 @@
 
 ---
 
-## 🚨 KRIZOVÝ REŽIM (2026-09-07, zbývají 2 dny) — `ZAKLAD-KE-ZKOUSCE.pdf`
+## 🚨 KRIZOVÝ REŽIM (2026-09-07, zbývají 2 dny) — `ZAKLAD-KE-ZKOUSCE.pdf` = TOP SOUBOR
 
-**Když fakt nestíháš, sáhni po tomhle.** Je to zkrácená verze `VYPISKY-KOMPLET` — u každé ze 136 otázek jen to, co musí zaznít (mechanismus, klíčová čísla a léky, jedna past), bez rozšiřujících příkladů a bez "Doptají se". Pořád vysvětlené (ne holá hesla), ale na přečtení celé za 2 dny.
+**Tohle je JEDINÝ soubor, který stačí otevřít.** Je to plná vysvětlená vrstva (stejný text jako `VYPISKY-KOMPLET`, jen bez doplňkových "Doptají se" otázek) — u každé ze 136 otázek **O čem to je** (lidsky) → vysvětlený odborný text (žádná tabulka bez vysvětlení) → 🔑 → ⚠️. **159 stran.**
+
+⚠️ **Historie:** první dvě verze tohoto souboru byly moc zkrácené na hesla/fakta bez vysvětlení — Tessa řekla, že jim po přečtení nerozumí. Zkracování na sílu ztrácelo přesně to, co dělá text pochopitelným. Řešení: nekrátit dál, ale vzít rovnou plně vysvětlenou vrstvu (`VYPISKY-KOMPLET`) a jen z ní vynechat nadstavbové "Doptají se". Delší soubor, ale skutečně srozumitelný napoprvé.
 
 ---
 
