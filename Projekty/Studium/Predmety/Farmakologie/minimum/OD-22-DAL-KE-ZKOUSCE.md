@@ -1480,3 +1480,111 @@
 ❓ *Proč je kombinace statinu s fibrátem riziková?* → Sčítá se **myotoxicita** → riziko rabdomyolýzy a selhání ledvin z myoglobinu.
 
 ---
+
+## 76 · Parenterální antikoagulancia
+
+**O čem to je:** injekční léky proti srážení — posilují **přirozenou brzdu srážení (antitrombin III)**, místo aby faktory blokovaly přímo.
+
+- **Hemostáza ve třech fázích** (řekni na úvod O76 i O77): ① **cévní** — okamžitá vazokonstrikce, rovnováha mezi TXA₂ a serotoninem (stah) a PGI₂ z endotelu (dilatace) ② **destičková** — adheze a agregace destiček → **bílý trombus** ③ **koagulační** — tkáňový faktor spustí kaskádu → trombin → fibrin → **červený trombus** (fibrin + erytrocyty). Srážení drží v mezích **antitrombin III, protein C a S**; velikost trombu koriguje **fibrinolýza** (plazminogen → plazmin).
+- **Dělení antitrombotik:** **antiagregancia → tepenný trombus** · **antikoagulancia → žilní trombus** · **trombolytika → rozpuštění už vzniklého trombu**.
+- **Nefrakcionovaný heparin (UFH)**
+  - **Mechanismus:** sám nic neblokuje — **naváže se na antitrombin III a zvýší jeho účinnost až 1000×**; komplex pak inaktivuje **trombin (IIa) a faktory Xa, IXa, XIIa**.
+  - **Kinetika:** i.v. (nebo s.c.), **nástup okamžitý**, účinek 12–18 h, zůstává v cévním řečišti. ⚠️ **Neprochází placentou ani do mléka → antikoagulans volby v graviditě.**
+  - ⚠️ **Nutná monitorace APTT** (norma 35–45 s, cíl **1,5–2,5násobek**).
+  - **Indikace:** akutní tromboembolická nemoc, akutní koronární syndrom, **mimotělní oběh a hemodialýza**, nesrážlivá krev pro laboratoř.
+  - **NÚ:** **krvácení** (⚠️ **antidotum protamin sulfát**), ⚠️ **heparinem indukovaná trombocytopenie (HIT)** — typ I benigní neimunitní, **typ II imunitní, paradoxně trombotický a nebezpečný**, dlouhodobě **osteoporóza**, hypoaldosteronismus s hyperkalemií.
+  - **Rezistence:** vrozený **deficit antitrombinu III** (~1 % populace), vysoký faktor VIII.
+- **Nízkomolekulární hepariny (LMWH) — enoxaparin, nadroparin, dalteparin, bemiparin**
+  - Působí přes ATIII hlavně proti **faktoru Xa**; **s.c. 1–2× denně**, ⚠️ **předvídatelný účinek → nemusí se monitorovat** (jen u renální insuficience, obezity a v graviditě se měří **anti-Xa aktivita**); nižší riziko HIT a osteoporózy. Vylučují se **ledvinami** → ⚠️ pozor při renálním selhání. Antidotum protamin jen **částečně** účinný.
+  - **Indikace:** profylaxe i léčba hluboké žilní trombózy a plicní embolie, akutní koronární syndrom, **antikoagulace v graviditě**.
+- **Fondaparinux** — syntetický pentasacharid, přes ATIII inhibuje **výhradně faktor Xa**; s.c., **nevyvolává HIT**, antidotum nemá. *(Proč zrovna Xa: sbíhá se v něm vnitřní i zevní cesta — Xa dělá z protrombinu trombin.)*
+
+🔑 **Heparin = okamžitý účinek, monitorace APTT, antidotum protamin. LMWH = předvídatelný, bez monitorace, s.c. Oba jsou bezpečné v graviditě, protože neprocházejí placentou.**
+
+❓ *Co je HIT typu II a proč je nebezpečná?* → Imunitní reakce proti komplexu heparin-destičkový faktor 4 → destičky ubývají, ale zároveň se **aktivují** → **trombózy** i při nízkých destičkách; heparin se musí okamžitě vysadit.
+
+---
+
+## 77 · Perorální antikoagulancia
+
+**O čem to je:** protisrážlivé léky ústy — buď **přímé (DOAC)**, nebo klasický **warfarin**, který působí oklikou přes vitamin K.
+
+| DOAC | Mechanismus a antidotum |
+|---|---|
+| **Dabigatran** (gatran) | **přímý inhibitor trombinu**; ⚠️ **antidotum idarucizumab** (monoklonální protilátka) |
+| **Rivaroxaban, apixaban, edoxaban** (xabany) | **přímé inhibitory faktoru Xa**; ⚠️ **antidotum andexanet alfa** (návnadová forma faktoru Xa bez aktivity) |
+
+- **Výhody DOAC:** rychlý nástup, fixní dávka, **bez rutinní monitorace**, málo potravinových interakcí. **Indikace: prevence CMP u nevalvulární fibrilace síní, léčba a profylaxe hluboké žilní trombózy a plicní embolie, profylaxe po velkých ortopedických operacích.** ⚠️ **KI: mechanická chlopenní náhrada a těžká mitrální stenóza** (tam jen warfarin), těžká renální insuficience, gravidita.
+- **Warfarin**
+  - 🔑 **Mechanismus:** faktory **II, VII, IX, X a proteiny C a S** musí být **karboxylovány** (γ-glutamylkarboxylázou), a k tomu je potřeba **redukovaný vitamin K**. Warfarin blokuje **vitamin K-reduktázu**, která vitamin K regeneruje → do krve jdou jen **nefunkční prekurzory**, které neumí vázat vápník. ⚠️ **Proto účinkuje jen in vivo — ve zkumavce srážení neovlivní.**
+  - ⚠️ **Proč se na začátku kombinuje s LMWH:** **protein C a S mají nejkratší poločas**, takže klesnou jako první — **první dny je pacient paradoxně v hyperkoagulačním stavu** (odtud i **kumarinová kožní nekróza**). Plný účinek nastupuje za 3–5 dní.
+  - **Monitorace: protrombinový čas jako INR** (obvykle cíl 2–3). Kinetika: dobře se vstřebává, silně se váže na albumin, metabolizuje se **CYP2C9** (⚠️ polymorfismus, viz O26). ⚠️ **Prochází placentou a je teratogenní (fetální warfarinový syndrom)**, do mléka ale neprochází.
+  - ⚠️ **Interakce — nejčastější zdroj problémů:** potraviny bohaté na **vitamin K** (listová zelenina) účinek **snižují**; **antibiotika** (vyhubí střevní flóru produkující vitamin K), **amiodaron, metronidazol, azolová antimykotika, ASA a NSA** účinek **zesilují** → krvácení; **rifampicin, karbamazepin, třezalka** ho **oslabují**.
+  - **Antidotum: vitamin K** (fytomenadion), při život ohrožujícím krvácení **koncentrát protrombinového komplexu nebo čerstvě mražená plazma**.
+
+| Antidotum | Proti čemu |
+|---|---|
+| **protamin sulfát** | heparin (LMWH jen částečně) |
+| **vitamin K + protrombinový komplex** | warfarin |
+| **idarucizumab** | dabigatran |
+| **andexanet alfa** | xabany |
+
+⚠️ **Pro tebe jako zubařku:** u pacienta na warfarinu se před extrakcí rozhoduje **podle aktuálního INR** (běžná extrakce se při terapeutickém INR obvykle nevysazuje, doplní se lokální hemostáza — oxycelulóza, tranexamová kyselina k výplachu), u DOAC podle **času od poslední dávky**. Konkrétní protokol je věc tvého pracoviště. `[obecné znalosti]`
+
+❓ *Proč warfarin nefunguje ve zkumavce?* → Nezasahuje do kaskády přímo — blokuje **jaterní regeneraci vitaminu K**, tedy tvorbu faktorů; bez živého metabolismu nemá kde působit.
+
+---
+
+## 78 · Fibrinolytika, trombolytika, hemostatika
+
+**O čem to je:** dva opačné cíle v jedné otázce — **rozpustit trombus, který už vznikl** (trombolytika) a **zastavit krvácení** (hemostatika, včetně těch, které budeš používat po extrakci).
+
+- **Fibrinolytika (trombolytika)** — **mechanismus:** aktivují přeměnu **plazminogenu na plazmin**, a ten štěpí **fibrin** na degradační produkty → trombus se rozpustí.
+  - **Zástupci: altepláza** (rekombinantní tkáňový aktivátor plazminogenu, rt-PA), **retepláza, tenektepláza** (rychlejší nástup, delší účinek, jednorázový bolus), historicky streptokináza a urokináza.
+  - **Indikace:** ⚠️ **akutní ischemická cévní mozková příhoda (do 4,5 h)**, akutní infarkt myokardu tam, kde není dostupná katetrizace, **masivní plicní embolie**, uzávěr tepny končetiny, ucpaný centrální žilní katétr.
+  - **NÚ a KI:** ⚠️ **krvácení, hlavně intrakraniální**; KI: čerstvé krvácení, stav po CMP, nedávná operace či úraz, těžká nekorigovaná hypertenze, aneuryzma, jaterní selhání.
+- **Antifibrinolytika** — opak: brání přeměně plazminogenu na plazmin (**kyselina tranexamová**, kyselina aminokapronová) nebo blokují už vzniklý plazmin (aprotinin). **Indikace:** krvácení při hyperfibrinolýze, krvácení po trombolýze, silná menstruace, ⚠️ **výplach nebo tampon po stomatologickém výkonu u antikoagulovaného pacienta** (kyselina tranexamová).
+- **Hemostatika pro místní účinek** — ⚠️ **tenhle odstavec je pro tvou praxi klíčový:**
+  - **oxycelulóza** — v kontaktu s krví nabobtná, vytvoří mechanickou zátku a urychlí adhezi destiček; **standard po extrakci zubu**,
+  - **kolagenová houbička** (i s gentamicinem), **fibrinové a trombinové lepidlo** (fibrinogen + trombin ± aprotinin) — vytvoří sraženinu přímo v ráně,
+  - **adsorbenty** — rostlinné polysacharidy (škroby), v krvi zgelovatí a zkoncentrují krevní buňky a faktory,
+  - **vazokonstrikční látky** — ⚠️ **felypresin** (analog vazopresinu) je vazokonstrikční přísada v **prilokainovém dentálním anestetiku**, alternativa adrenalinu u srdečního pacienta,
+  - **etamsylát** — zlepšuje adhezi destiček a odolnost kapilár, i.v./i.m./perorálně u kapilárního krvácení.
+- **Hemostatika pro systémový účinek:**
+  - **koagulační faktory** — ⚠️ **hemofilie A = vrozený deficit faktoru VIII**, **hemofilie B = vrozený deficit faktoru IX** (Christmasův); projev: **krvácení do velkých kloubů a svalů**, otok, bolest, porucha hybnosti. Dnes rekombinantní faktory s prodlouženým poločasem (dřív plazma → vysoké riziko infekcí),
+  - **fibrinogen**, **koncentrát protrombinového komplexu** (rychlá náprava účinku warfarinu),
+  - **vitamin K** — nutný pro faktory II, VII, IX, X; ⚠️ **antagonista warfarinu**; podává se novorozencům jako prevence krvácivé nemoci, dále při malabsorpci tuků (ke vstřebání potřebuje žlučové kyseliny),
+  - **antidota antikoagulancií** — protamin, idarucizumab, andexanet alfa.
+
+⚠️ **Hemofilie je VROZENÁ (dědičná, X-vázaná) porucha** — některé studentské materiály ji chybně uvádějí jako získanou. Získaná porucha srážlivosti je např. ta po warfarinu nebo při jaterním selhání.
+
+❓ *Jaká hemostatika použiješ po extrakci zubu?* → **Oxycelulóza nebo kolagenová houbička** do lůžka, komprese, u antikoagulovaného navíc **kyselina tranexamová** k výplachu.
+
+---
+
+## 79 · Antiagregancia
+
+**O čem to je:** protidestičkové léky brání trombóze **v tepnách** (antikoagulancia řeší žíly). Nejznámější je aspirin v nízké dávce.
+
+- **Arteriální trombóza** vzniká **rupturou aterosklerotického plátu** → destičkový (bílý) trombus → infarkt, CMP, ischemie končetiny. **Venózní tromboembolismus** vzniká ze stázy a hyperkoagulace → fibrinový (červený) trombus → hluboká žilní trombóza a plicní embolie.
+- **Kyselina acetylsalicylová (ASA)**
+  - 🔑 **Mechanismus — vysvětli jako rovnováhu:** destičky tvoří **TXA₂** (agregace + vazokonstrikce), endotel **PGI₂** (opak). ASA **ireverzibilně acetyluje COX-1**; ⚠️ **destička nemá jádro, novou COX-1 si nevyrobí → efekt trvá celou její životnost (~7–10 dní, klinicky ~5 dní)**, zatímco endotel si enzym obnoví. Proto **nízká dávka (75–100 mg) působí selektivně antiagregačně**.
+  - **Indikace:** sekundární prevence po infarktu, CMP a stentu, ischemická choroba dolních končetin.
+  - **NÚ a KI:** krvácení do GIT, vředy, aspirinem indukované astma; ⚠️ **před invazivním výkonem se u kardiaka obvykle NEVYSAZUJE** — riziko trombózy převáží nad krvácením z extrakce.
+  - ⚠️ **Interakce: ibuprofen soutěží o stejné vazebné místo na COX-1 a ruší antiagregační efekt ASA** — proto se ASA bere alespoň 2 h před ibuprofenem.
+- **Blokátory receptoru P2Y12 (ADP receptoru):**
+
+| Léčivo | Podstatné |
+|---|---|
+| **Klopidogrel** | **proléčivo — aktivuje se přes CYP2C19**, ⚠️ u pomalých metabolizátorů a při současném omeprazolu nezabere; ireverzibilní, nástup hodiny |
+| **Prasugrel** | také proléčivo, rychlejší a spolehlivější, ale vyšší riziko krvácení |
+| **Tikagrelor, kangrelor** | **reverzibilní**, aktivují se přímo (bez jater), nástup v minutách |
+
+- **Duální antiagregace (ASA + P2Y12 inhibitor)** — po akutním koronárním syndromu a implantaci stentu, obvykle **12 měsíců**; ⚠️ elektivní výkony se v téhle době odkládají.
+- **Ostatní:** **inhibitory GP IIb/IIIa** (abciximab, eptifibatid) — i.v. při katetrizaci, nejsilnější antiagregace; **dipyridamol** (↑ cAMP), **epoprostenol** (PGI₂) při hemodialýze, když nelze heparin.
+
+🔑 **Aspirin blokuje COX-1 nevratně → jedna dávka vyřadí destičku natrvalo. Klopidogrel je proléčivo — potřebuje CYP2C19, jinak nefunguje.**
+
+❓ *Proč ruší ibuprofen účinek aspirinu?* → Obsadí stejné místo na COX-1 reverzibilně a **zabrání aspirinu, aby enzym trvale acetyloval**.
+
+---
