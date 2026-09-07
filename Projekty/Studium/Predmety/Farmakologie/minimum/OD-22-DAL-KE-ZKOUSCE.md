@@ -849,3 +849,106 @@
 ❓ *Proč mají benzodiazepiny širší terapeutické okno než barbituráty?* → Bez GABA nic neudělají; barbituráty kanál ve vysoké dávce otevřou samy → zástava dechu.
 
 ---
+
+## 53 · Antiepileptika
+
+**O čem to je:** léky proti záchvatům, kdy neurony vystřelí naráz a nekontrolovaně. Jádro otázky = **tři mechanismy** + konkrétní léky s typickými nežádoucími účinky.
+
+- **Epileptický záchvat** = přechodný projev abnormální, nadměrné neuronální aktivity (ložiskové nebo generalizované). **Epilepsie** = ① ≥ 2 nevyprovokované záchvaty s odstupem > 24 h, nebo ② jeden záchvat s vysokým rizikem dalšího, nebo ③ diagnóza epileptického syndromu. Postihuje **0,5–1 % populace**.
+- **Klasifikace ve dvou krocích:** typ **záchvatu** (fokální / generalizovaný / neznámý začátek) → typ **epilepsie**. Příčiny: genetická, strukturální (nádor, úraz, CMP), imunitní, zánětlivá, metabolická, neznámá. Diagnostika EEG, MR, PET.
+
+**Tři mechanismy účinku (řekni je v tomhle pořadí):**
+- ① **Snížení excitability a výdeje přenašečů** — blokáda **Na⁺ kanálů** (fenytoin, karbamazepin, lamotrigin), blokáda **Ca²⁺ kanálů** (etosuximid, gabapentin, pregabalin), vazba na **synaptický vezikulární protein** (levetiracetam).
+- ② **Posílení tlumivého GABA systému** — alosterická aktivace GABA_A (**benzodiazepiny, barbituráty**) nebo blokáda odbourávání GABA (**valproát, vigabatrin**).
+- ③ **Potlačení excitační glutamátové transmise** — ↓ výdej glutamátu (gabapentin), blokáda glutamátových receptorů (**topiramát**).
+
+🔑 **Status epilepticus: záchvat trvající > 5 minut bez návratu vědomí → lék volby diazepam (i.v./rektálně) nebo midazolam bukálně. Trvá-li i po adekvátní dávce > 30 minut → rozvinutý status: i.v. fenytoin, valproát nebo levetiracetam; při selhání navozené kóma s monitorací EEG.**
+
+- **Zásady léčby:** začíná se **monoterapií** v nízké dávce a titruje se; kombinace až při selhání (víc NÚ a interakcí). Kontrola dynamická (počet záchvatů, EEG, jaterní testy, krevní obraz) i kinetická (**TDM** — účinek koreluje s hladinou lépe než s dávkou). ⚠️ **Vysazovat jen postupně — náhlé vysazení vyvolá status epilepticus.**
+- **Nežádoucí účinky:** **typ A (na dávce)** — ospalost, zpomalení, poruchy paměti, **ataxie**, dvojité vidění, třes, změny hmotnosti, **hyperplazie dásní**, polyneuropatie, megaloblastická anemie (porucha metabolismu kyseliny listové), osteoporóza · **typ B** — alergie, **poškození jater, útlum krvetvorby** (vyžadují okamžité vysazení) · **typ C** — **teratogenita, defekty neurální trubice**. ⚠️ **Intoxikace nemá antidotum**, léčí se symptomaticky.
+- ⚠️ **Hyperplazie dásní u pacienta na fenytoinu je učebnicový zubařský nález** — na tohle se tě u zkoušky ze zubního lékařství ptát budou.
+
+| Klasické antiepileptikum | Mechanismus, indikace, NÚ |
+|---|---|
+| **Fenobarbital** (a **primidon**, který se na něj mění) | alostericky GABA_A, prodlouží otevření Cl⁻ kanálu; generalizované tonicko-klonické záchvaty. NÚ: sedace, poruchy paměti, deprese, **silná indukce jaterních enzymů** |
+| **Fenytoin** | prodlužuje inaktivaci **Na⁺ kanálů**; fokální i generalizované záchvaty, i.v. u status epilepticus. ⚠️ **Kinetika 0. řádu** — nad určitou dávkou koncentrace prudce vyskočí (saturační kinetika, viz O12). NÚ: **nystagmus, diplopie, ataxie, hyperplazie dásní, hirsutismus, zhrubnutí rysů**, hepatotoxicita, indukce CYP |
+| **Karbamazepin** | prodlužuje inaktivaci Na⁺ kanálů; **fokální záchvaty**, **neuralgie trigeminu** (!), antimanický efekt. NÚ: závratě, hyponatremie (SIADH), hepatotoxicita, **útlum krvetvorby**, kožní reakce; **indukuje enzymy** |
+| **Valproát** | blokuje odbourávání GABA + Na⁺ kanály → **širokospektrý** (fokální i generalizované, absence). NÚ: **přírůstek hmotnosti, hepatotoxicita, trombocytopenie, hyperamonemická encefalopatie**, syndrom polycystických ovarií. ⚠️ **Nejsilnější teratogen mezi antiepileptiky — u žen ve fertilním věku se nepoužívá** |
+| **Etosuximid** | blokáda T-typu Ca²⁺ kanálů v thalamu — **lék volby u absencí** |
+
+| Nové antiepileptikum | Podstatné |
+|---|---|
+| **Lamotrigin** | Na⁺ kanály + ↓ glutamát; **první volba u fokálních i generalizovaných záchvatů, vhodný v graviditě**. ⚠️ NÚ: **kožní vyrážka až Stevensův-Johnsonův syndrom / toxická epidermální nekrolýza** → nasazuje se velmi pomalou titrací |
+| **Levetiracetam** | vazba na vezikulární protein SV2A; **první volba**, minimum interakcí (nemetabolizuje se v játrech). NÚ: podrážděnost, deprese, vzácně cytopenie |
+| **Gabapentin, pregabalin** | blokáda Ca²⁺ kanálů; epilepsie a hlavně **neuropatická bolest**, pregabalin i **generalizovaná úzkostná porucha**. NÚ: závratě, otoky, přírůstek hmotnosti; vylučují se ledvinami beze změny |
+| **Benzodiazepiny** (klonazepam, klobazam, diazepam, midazolam) | akutní léčba záchvatu a status epilepticus; **ne na dlouhodobou léčbu** (tolerance) |
+
+- **Nová antiepileptika mají kinetickou výhodu:** minimální vazba na bílkoviny, nemetabolizují se přes CYP → **málo lékových interakcí**.
+- **Gravidita:** ⚠️ **léčbu NEVYSAZOVAT** (záchvat ohrožuje plod víc než lék) — přejít na **monoterapii, ideálně lamotrigin nebo levetiracetam**, valproátu se vyhnout, přidat **kyselinu listovou**. Kojení není kontraindikací.
+
+❓ *Jaký nález na dásních spojíš s antiepileptikem?* → **Hyperplazie dásní u fenytoinu** (a zhoršuje ji špatná ústní hygiena).
+
+---
+
+## 54 · Antiparkinsonika
+
+**O čem to je:** ubývají dopaminové neurony, chybí „brzda" pohybu a převládne cholinergní „plyn" — proto třes a ztuhlost. Léky buď dopamin doplní, nebo utlumí přebývající cholinergní stranu.
+
+- **Patofyziologie (uměj vysvětlit plynule):** zaniká dopaminergní dráha ze **substantia nigra do striata**. Zpočátku zbylé neurony kompenzují, takže nemoc je němá. Jak dopaminu ubývá, klesá jeho **tlumivý vliv na striatum**, kde jsou excitační **cholinergní** neurony → **relativní převaha cholinergního systému** → třes a rigidita. ⚠️ **Klinicky se nemoc projeví, až když ve striatu chybí 80 % dopaminu.**
+- **Příznaky:** klidový třes, svalová rigidita, **bradykineze** (zpomalení pohybu), posturální nestabilita a porucha chůze; k tomu deprese, poruchy spánku, zácpa, později demence. Podobný obraz umí vyvolat i **antipsychotika** (blokádou D2 ve striatu — polékový parkinsonský syndrom).
+- ⚠️ **Léčba je pouze symptomatická — postup nemoci nezastaví.** Cílem je obnovit rovnováhu mezi chybějícím dopaminem a převažujícím acetylcholinem.
+
+🔑 **L-DOPA + karbidopa — nejelegantnější myšlenka otázky.** Dopamin sám **neprojde hematoencefalickou bariérou**, proto se podává jeho prekurzor **levodopa (L-DOPA)**, který projde. Jenže L-DOPA se z 95 % dekarboxyluje na dopamin **už ve střevě a v periferii** — do mozku nedojde a v těle způsobí nauzeu, zvracení a ortostatickou hypotenzi. **Karbidopa (nebo benserazid) je inhibitor dekarboxylázy, který sám do mozku neprojde** → zablokuje přeměnu jen v periferii, takže se L-DOPA dostane až do mozku a teprve tam se změní na dopamin.
+
+- **L-DOPA** je **nejúčinnější** lék (odpověď u ~80 %), ale ⚠️ **po ~2–5 letech vzniká „wearing-off"** (zkracující se doba účinku), **dyskineze** závislé na dávce, fenomén **on-off** a psychiatrické NÚ (zmatenost, halucinace). Proto se u mladších pacientů začíná spíš agonisty.
+
+| Skupina | Léčiva a mechanismus |
+|---|---|
+| **Inhibitory COMT** | **entakapon, tolkapon** — brání periferní degradaci L-DOPA → prodlouží její účinek; jen jako **doplněk k L-DOPA**. NÚ: průjem, oranžová moč, tolkapon hepatotoxický |
+| **Inhibitory MAO-B** | **selegilin, rasagilin** — chrání dopamin ve striatu před odbouráním; monoterapie v časné fázi nebo doplněk. ⚠️ Kombinace s SSRI/opioidy → riziko **serotoninového syndromu** |
+| **Agonisté D2 receptorů** | **pramipexol, ropinirol, rotigotin** (náplast), **apomorfin** (podkožně při „off" stavech) — účinek 8–12 h, méně dyskinezí → **preferují se u mladších pacientů**. NÚ: ⚠️ **impulzivní chování (patologické hráčství, nakupování, hypersexualita)**, náhlé usnutí, halucinace, otoky |
+| **Uvolňovače dopaminu** | **amantadin** — navíc **antagonista NMDA** → tlumí dyskineze po L-DOPA; méně účinný, ale dobře snášený, vzniká tolerance |
+| **Anticholinergika** | **biperiden, procyklidin** — blokáda muskarinových receptorů ve striatu; hlavně na **třes** a u polékového parkinsonismu. ⚠️ **Nevhodné u seniorů** (zmatenost, poruchy paměti, retence moči, glaukom) |
+
+❓ *Proč se levodopa nepodává samotná?* → Dekarboxyluje se na dopamin už v periferii — do mozku se nedostane a působí nauzeu a hypotenzi; karbidopa tuhle přeměnu mimo mozek zablokuje.
+
+---
+
+## 55 · Neuroleptika (antipsychotika)
+
+**O čem to je:** léky na psychózu (halucinace = vjemy bez podnětu, bludy = nevyvratitelné mylné přesvědčení). Fungují blokádou **dopaminových receptorů** — a z toho plynou i skoro všechny jejich nežádoucí účinky.
+
+- **Mechanismus:** antagonismus na **D2 receptorech**, u atypických navíc silná blokáda **5-HT2**. Antipsychotický efekt nastupuje **až po týdnech**, sedace hned.
+
+🔑 **Čtyři dopaminergní dráhy — z nich plyne všechno:** **mezolimbická** → blokáda = **žádoucí antipsychotický efekt** · **nigrostriatální** → blokáda = **extrapyramidové příznaky** · **tuberoinfundibulární** → blokáda = **hyperprolaktinemie** (galaktorea, amenorea, gynekomastie, sexuální dysfunkce) · **area postrema (CTZ)** → blokáda = **antiemetický efekt**.
+
+| Další blokovaný receptor | Nežádoucí účinek |
+|---|---|
+| **α1** | ortostatická hypotenze, závratě, ucpaný nos, sexuální dysfunkce |
+| **muskarinový** | **sucho v ústech**, zácpa, retence moči, mydriáza, tachykardie, zhoršení paměti |
+| **H1** | sedace, **přírůstek hmotnosti** |
+
+- **Typická (1. generace)** — silná blokáda D2, hodně extrapyramidových účinků, působí hlavně na **pozitivní** příznaky:
+  - **sedativní** — **chlorpromazin** (vůbec první antipsychotikum, původně antihistaminikum), levomepromazin,
+  - **incizivní** — **haloperidol** (nejpoužívanější, levný, i.m. i i.v.), flufenazin (depotní i.m. à 4 týdny), perfenazin, droperidol.
+- **Atypická (2. generace)** — vyšší poměr blokády 5-HT2 : D2 → **výrazně méně extrapyramidových příznaků** a působí i na **negativní příznaky** (apatie, oploštění emocí, sociální stažení, hypobulie):
+
+| Skupina | Zástupci a zvláštnosti |
+|---|---|
+| **selektivní D2 antagonisté** | **sulpirid, amisulprid** (⚠️ nejvyšší **hyperprolaktinemie**), **tiaprid** (neklid a agrese u seniorů a dětí, odvykací stavy) |
+| **SDA** (serotonin-dopaminoví antagonisté) | **risperidon, paliperidon** — akutní i udržovací léčba schizofrenie; ve vyšší dávce zase extrapyramidové NÚ |
+| **MARTA** (multireceptoroví) | **klozapin, olanzapin, kvetiapin** — silná blokáda H1 → **sedace a nárůst hmotnosti, metabolický syndrom**; ⚠️ **klozapin: agranulocytóza (nutné pravidelné kontroly krevního obrazu), ale nejúčinnější u farmakorezistentní schizofrenie** |
+| **parciální agonisté** | **aripiprazol** — „stabilizátor dopaminu": při nadbytku působí jako antagonista, při nedostatku jako agonista; málo sedace i prolaktinu |
+
+- **Indikace:** schizofrenie a schizoafektivní porucha, manická epizoda, těžká agitovanost a agrese, psychotická deprese; mimo psychiatrii **antiemetikum** (haloperidol, tiaprid), součást neuroleptanalgezie, delirium.
+- **Nežádoucí účinky — jádro doplňujících otázek:**
+  - **extrapyramidové:** **akutní dystonie** (křeč svalů krku a očí, hodiny až dny — léčba **biperiden**) → **akatizie** (neklid, nemůže vydržet sedět) → **polékový parkinsonismus** (týdny) → ⚠️ **tardivní dyskineze** (po měsících až letech, mimovolní pohyby úst a jazyka, **často ireverzibilní**),
+  - **metabolické:** přírůstek hmotnosti, diabetes, dyslipidemie (hlavně olanzapin, klozapin),
+  - **kardiální:** **prodloužení QT intervalu** → riziko torsade de pointes,
+  - **hematologické:** **agranulocytóza u klozapinu**,
+  - ⚠️ **maligní neuroleptický syndrom** — vzácný, život ohrožující: **horečka, svalová rigidita, porucha vědomí, nestabilita oběhu, vysoká CK**. **Léčba: okamžitě vysadit neuroleptikum + dantrolen a bromokriptin, chlazení, hydratace.**
+- **Kontraindikace:** kóma a útlum CNS, Parkinsonova nemoc (kromě kvetiapinu a klozapinu), prodloužené QT, u klozapinu porucha krvetvorby; opatrně u demence (↑ mortalita).
+
+❓ *Jaký je rozdíl mezi typickými a atypickými antipsychotiky?* → Atypika blokují víc 5-HT2 než D2 → méně extrapyramidových NÚ a účinek i na **negativní** příznaky; platí za to metabolickými NÚ.
+
+---
