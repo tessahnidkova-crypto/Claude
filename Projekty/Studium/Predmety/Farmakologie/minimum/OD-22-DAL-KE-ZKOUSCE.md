@@ -537,3 +537,156 @@
 ❓ *Proč se katecholaminy nepodávají ústy?* → Rozloží je MAO a COMT ve stěně střeva a v játrech dřív, než se dostanou do oběhu.
 
 ---
+
+## 42 · Sympatomimetika alfa
+
+**O čem to je:** selektivní stimulace **jen α receptorů** — buď na zúžení cév (dekongestanty, hypotenze), nebo paradoxně na **snížení** tlaku (α2).
+
+- **Selektivní α1-agonisté — mechanismus:** stah hladké svaloviny cév → ↑ periferní odpor a tlak, mydriáza, snížení překrvení sliznic.
+
+| Léčivo | Podstatné |
+|---|---|
+| **Fenylefrin** | mydriatikum a dekongestant; **odolný vůči COMT → mnohem delší účinek** než katecholaminy; ↑ tlak. **KI v těhotenství** |
+| **Midodrin** | **ortostatická hypotenze**, stresová inkontinence |
+| **Nafazolin, xylometazolin, oxymetazolin, tetryzolin** | lokální dekongestanty do nosu a očí (alergická rýma, konjunktivitida) |
+
+- ⚠️ **Nosní dekongestanty nepoužívat souvisle déle než ~7 dní** — vzniká **rhinitis medicamentosa** (rebound otok sliznice a návyk).
+- **NÚ α1-agonistů:** hypertenze, **reflexní bradykardie**, bolest hlavy, retence moči; lokálně pálení a poškození sliznice. **KI:** hypertenze, ischemická choroba srdeční, tachyarytmie, glaukom s úzkým úhlem.
+- **Selektivní α2-agonisté — paradox:** α2 sedí **presynapticky**, jeho aktivace je zpětnovazebná **brzda výdeje noradrenalinu** → klesá tonus sympatiku i tlak.
+  - **klonidin** (u nás nedostupný), **moxonidin a rilmenidin** (centrálně působící antihypertenziva), **brimonidin** (oční kapky — ↓ tvorba nitrooční tekutiny → **glaukom**), **dexmedetomidin** (sedace na JIP).
+  - **NÚ:** sedace, sucho v ústech, bradykardie, **rebound hypertenze při náhlém vysazení**.
+- ⚠️ **L-methyldopa** — proléčivo, v CNS se mění na α-metylnoradrenalin, přes α2 sníží tonus sympatiku. **Antihypertenzivum volby u těhotných** — tohle chtějí slyšet.
+
+❓ *Jaké antihypertenzivum se volí v graviditě?* → **Methyldopa** (centrální α2-agonista).
+
+---
+
+## 43 · Sympatomimetika beta
+
+**O čem to je:** selektivní stimulace β receptorů — každý podtyp má jiné využití: **β1 srdce, β2 průdušky, β3 měchýř**.
+
+- **Selektivní β1 — dobutamin:** derivát dopaminu bez vlivu na periferní D receptory; **pozitivně inotropní** (zesílí stah), ↑ srdeční výdej, ↓ tlak v plicnici. **Indikace: kardiogenní šok, těžké srdeční selhání, po kardiochirurgii.** Podává se **jen i.v.** (nástup do 2 min). NÚ: tachyarytmie, ↑ spotřeba kyslíku myokardem.
+- **Selektivní β2 — mechanismus:** aktivace β2 → ↑ cAMP v hladkém svalu bronchů → **bronchodilatace**; navíc tokolytický efekt (uvolní dělohu — dnes se ale prakticky nepoužívá).
+
+| Skupina | Charakteristika | Zástupci |
+|---|---|---|
+| **SABA** krátkodobá | nástup v minutách, účinek 4–6 h — **úlevová léčba astmatického záchvatu** | **salbutamol**, fenoterol, terbutalin, clenbuterol |
+| **RABA** rychle nastupující | rychlý nástup | **formoterol** |
+| **LABA** dlouhodobá | účinek ~12 h — **udržovací** léčba, vždy s inhalačním kortikoidem | **salmeterol**, formoterol, vilanterol |
+| **uLABA** ultradlouhá | 24 h, hlavně **CHOPN** | indakaterol, olodaterol |
+
+- ⚠️ **Formoterol je zároveň RABA i LABA** — proto se hodí do kombinace IKS + formoterol jako **úlevová i udržovací** léčba zároveň (viz otázka 96). ⚠️ **LABA se nikdy nepodává samostatně bez kortikoidu** — zvyšuje mortalitu na astma.
+- **NÚ β2-agonistů:** **třes**, palpitace a tachyarytmie, **hypokalemie** (draslík se přesouvá do buněk), bolest hlavy, neklid, nespavost, hyperglykemie. **KI:** tachyarytmie, hypertrofická kardiomyopatie, neléčená hypertyreóza.
+- **Selektivní β3 — mirabegron:** uvolní stěnu měchýře a zvětší jeho kapacitu → **hyperaktivní močový měchýř** (alternativa k anticholinergikům, nezpůsobuje sucho v ústech). NÚ: hypertenze, tachykardie.
+
+🔑 **β1 = srdce · β2 = průdušky a cévy svalů · β3 = močový měchýř.**
+
+❓ *Proč se LABA nesmí podávat v monoterapii?* → Uleví od příznaků, ale neléčí zánět — astma se pod ní zhoršuje a roste riziko úmrtí na těžký záchvat.
+
+---
+
+## 44 · Nepřímá sympatomimetika
+
+**O čem to je:** nesedají na receptor, ale **zvyšují množství vlastního noradrenalinu** ve štěrbině.
+
+**Tři mechanismy:** ① ↑ uvolňování přenašeče z vezikul ② ↓ jeho odbourávání (inhibice MAO) ③ **blokáda zpětného vychytávání (uptake 1)**.
+
+| Léčivo | Podstatné |
+|---|---|
+| **Efedrin** | alkaloid chvojníku; působí **přímo i nepřímo**; ↑ tlak a srdeční činnost, centrálně stimuluje; dekongestant. ⚠️ **Prekurzor pro nelegální výrobu metamfetaminu** — proto omezený výdej |
+| **Pseudoefedrin** | izomer efedrinu, méně centrálních účinků; dekongestant v přípravcích na nachlazení |
+| **Amfetamin** | silně centrálně stimulační, dobře prochází HEB, **není odbouráván MAO**; jinde ve světě u ADHD, u nás droga |
+| **Metylfenidát** | blokuje zpětné vychytávání NA a dopaminu → **léčba ADHD** |
+| **Modafinil** | podobný mechanismus → **narkolepsie** |
+| **Fentermin** | anorektikum — blokuje vychytávání NA, serotoninu i dopaminu → ↓ chuť k jídlu; NÚ hypertenze, nespavost, neklid, psychózy |
+
+- **NÚ skupiny:** hypertenze, tachykardie a arytmie, nespavost, neklid, závislost, **tachyfylaxe** (vyčerpání zásob NA, viz O27). **KI:** hypertenze, ICHS, hypertyreóza, glaukom, současná léčba IMAO.
+
+⚠️ **Tyraminová („sýrová") reakce — nejčastěji zkoušená interakce.** Tyramin vzniká kvašením bílkovinných potravin (**zrající sýry, červené víno, uzeniny**) a normálně ho rozloží MAO ve střevě a játrech. **Při léčbě inhibitory MAO se nerozloží, vstřebá se, vytěsní noradrenalin z vezikul → hypertenzní krize.**
+
+❓ *Proč nesmí pacient na IMAO jíst zrající sýr?* → Nerozložený tyramin vytěsní noradrenalin → prudký vzestup tlaku až hypertenzní krize.
+
+---
+
+## 45 · Sympatolytika alfa
+
+**O čem to je:** blokáda α receptorů — buď obou podtypů (diagnostika feochromocytomu), nebo selektivně α1 (dvě různé indikace: **tlak** a **prostata**).
+
+- **Neselektivní α1+α2 — fenoxybenzamin (ireverzibilní), fentolamin (reverzibilní):** vazodilatace → ↓ periferní odpor a tlak. **Indikace: příprava k operaci a krátkodobá léčba feochromocytomu** (nádor chromafinních buněk dřeně nadledvin, nekontrolovaně vylučující katecholaminy). **NÚ: ortostatická hypotenze, výrazná reflexní tachykardie** (blokáda presynaptických α2 uvolní výdej NA na srdce), ucpaný nos.
+- **Selektivní α1-blokátory — mechanismus:** blokáda α1 na cévách → vazodilatace; blokáda α1 v hrdle měchýře a prostatě → **uvolnění hladkého svalu a lepší odtok moči**.
+
+| Léčiva | Indikace |
+|---|---|
+| **Prazosin, doxazosin, terazosin** | **hypertenze** — ale **ne lék první volby** (rezerva, nebo když je současně BHP) |
+| **Tamsulosin, alfuzosin, silodosin** | **benigní hyperplazie prostaty** — uroselektivní (α1A), tlak ovlivňují méně |
+
+- **NÚ:** **hypotenze po první dávce** (proto se začíná malou dávkou na noc), závratě, ortostáza, reflexní tachykardie, retrográdní ejakulace (tamsulosin), ucpaný nos. **KI:** ortostatická hypotenze, těžká aortální stenóza; opatrně před operací šedého zákalu (**floppy iris syndrom**).
+- **α2-blokátor yohimbin** — dříve u erektilní dysfunkce, **dnes se nepoužívá**.
+
+🔑 **Prazosinová skupina = tlak · tamsulosinová skupina = prostata. Obojí jsou α1-blokátory, liší se převažujícím místem účinku.**
+
+❓ *Na co slouží fenoxybenzamin a fentolamin?* → Diagnostika a předoperační příprava u **feochromocytomu**.
+
+---
+
+## 46 · Sympatolytika beta (β-blokátory)
+
+**O čem to je:** jedny z nejpoužívanějších léků na srdce a tlak — blokádou β receptorů srdce bije **pomaleji a slaběji** a hůř reaguje na stres a zátěž.
+
+- **Mechanismus:** kompetitivní blokáda β receptorů. Tlak klesá dvěma cestami — **↓ minutový srdeční výdej** (β1 na srdci) a **↓ uvolňování reninu** v ledvinách (β1) → menší aktivace systému renin-angiotenzin. Při dlouhodobém podávání klesá i periferní odpor. Dále: **antiarytmický** efekt, **prodloužení diastoly** (lepší plnění věnčitých tepen → antiischemický efekt), snížení spotřeby kyslíku myokardem.
+- ⚠️ **Účinky se projeví hlavně při zvýšené aktivitě sympatiku** (zátěž, stres) — v klidu je efekt menší.
+
+| Generace | Charakteristika | Zástupci |
+|---|---|---|
+| **1.** | neselektivní (β1 i β2) | **propranolol**, pindolol, timolol (oční kapky) |
+| **2.** | **β1-selektivní** („kardioselektivní") | **metoprolol, bisoprolol, atenolol, esmolol** (ultrakrátký, i.v.) |
+| **3.** | neselektivní **s vazodilatací** (blokují i α1) | **karvedilol, labetalol** |
+| **3.** | β1-selektivní s vazodilatací (přes NO) | **nebivolol**, betaxolol, celiprolol |
+
+- **Farmakokinetika — proč záleží na rozpustnosti:** **lipofilní** (propranolol, metoprolol, karvedilol) mají výrazný **first-pass efekt** a **pronikají do CNS** (únava, noční můry, deprese) · **hydrofilní** (atenolol, sotalol) se vylučují **ledvinami v nezměněné podobě** → při renálním selhání se poločas prodlužuje a hrozí kumulace.
+- **Indikace:** **hypertenze** · **angina pectoris** · **stav po infarktu** (snižují mortalitu a riziko reinfarktu) · **chronické srdeční selhání** (jen bisoprolol, karvedilol, metoprolol ZOK, nebivolol — a nasazují se **pomalou titrací od malé dávky**) · **supraventrikulární i komorové tachyarytmie** · **hypertyreóza a tyreotoxická krize** (tlumí příznaky ze sympatiku) · **glaukom** (timolol) · esenciální tremor, profylaxe migrény, trémafobie.
+- **Nežádoucí účinky:** **bradykardie a AV blokáda**, zhoršení srdečního selhání při rychlé titraci, **bronchospasmus** (blokáda β2), studené končetiny a zhoršení klaudikací, únava, deprese, noční můry, ↓ HDL a ↑ triglyceridů, erektilní dysfunkce.
+- ⚠️ **U diabetika: maskují varovné příznaky hypoglykemie** (třes, palpitace — zůstává jen pocení) a zpomalují zotavení z ní → nejsou lékem první volby u hypertenze u diabetika.
+- **Kontraindikace:** **astma** (u CHOPN lze kardioselektivní opatrně), **sinusová bradykardie, AV blok II.–III. stupně**, dekompenzované srdeční selhání, těžká hypotenze, současné podání verapamilu/diltiazemu i.v. V graviditě nejsou teratogenní, ale mohou způsobit bradykardii a hypoglykemii plodu.
+
+🔑 **Rebound fenomén: dlouhodobá blokáda up-reguluje β-receptory, náhlé vysazení proto vyvolá tachykardii, vzestup tlaku, anginózní bolest až infarkt — β-blokátory se vysazují VŽDY postupně.**
+
+❓ *Proč nejsou β-blokátory první volbou u diabetika?* → Maskují hypoglykemii a zpomalují zotavení z ní.
+
+---
+
+## 47 · Myorelaxancia
+
+**O čem to je:** léky na uvolnění svalu — buď mírné (bolestivý spazmus zad, **centrální**), nebo úplné ochrnutí k operaci (**periferní, nervosvalová blokáda**).
+
+**Centrální myorelaxancia**
+- **Mechanismus:** tlumí **polysynaptický reflexní oblouk** v míše a mozkovém kmeni, který udržuje patologicky zvýšené bolestivé napětí svalu → ↓ svalový tonus + analgetický efekt.
+- **Zástupci:** **tolperison**, mefenoxalon, guaifenesin; **baklofen** (agonista GABA_B → otevření K⁺ kanálu, hyperpolarizace) a **benzodiazepiny/diazepam** (GABA_A), **tizanidin** (α2-agonista).
+- **Indikace:** vertebrogenní bolestivý spazmus, myalgie po úraze, **spasticita** po CMP, u roztroušené sklerózy a míšních lézí (baklofen). **NÚ:** sedace, závratě, svalová slabost, sucho v ústech; u baklofenu ⚠️ **náhlé vysazení → křeče a halucinace**.
+
+**Periferní myorelaxancia**
+- **Presynapticky** (↓ výdej ACh): **botulotoxin**, **aminoglykosidová antibiotika** (tam je to nechtěný, potenciálně nebezpečný vedlejší účinek — pozor u pacienta s myasthenií).
+- **Postsynapticky na N receptoru ploténky** — dvě protikladné strategie:
+
+| | **Nedepolarizující** (kompetitivní) | **Depolarizující** |
+|---|---|---|
+| Vztah k ACh | **antagonisté** — obsadí receptor a brání depolarizaci | **agonista** — receptor aktivuje a drží **trvale depolarizovaný** |
+| Zástupci | d-tubokurarin (historicky), **pankuronium, vekuronium, rokuronium, atrakurium** | **sukcinylcholin (suxamethonium)** |
+| Nástup/trvání | minuty / desítky minut | **sekundy / ~5 minut** |
+| **Antidotum** | **inhibitory AChE — neostigmin, edrofonium** (↑ ACh vytěsní blokátor); u rokuronia **sugammadex** | **antidotum neexistuje** — jen ventilace, dokud efekt neodezní |
+
+- *(⚠️ Tvůj zdroj uvádí mezi zástupci „arkuronium" — správně **alkuronium**; dnes se stejně používají pankuronium, vekuronium, rokuronium, atrakurium.)*
+
+🔑 **Pořadí ochrnutí (klasická otázka): ① oční svaly a víčka → ② žvýkací svaly → ③ svaly hlavy, krku a končetin → ④ mezižeberní a břišní svaly → ⑤ bránice (zástava dechu). Zotavení jde v opačném pořadí — bránice se obnoví jako první.**
+
+⚠️ **Myorelaxans neovlivňuje vědomí ani vnímání bolesti** — pacient musí mít současně celkovou anestezii a **zajištěnou ventilaci**, jinak je při vědomí a ochrnutý.
+
+- **Sukcinylcholin:** nejdřív **svalové záškuby (fascikulace)** na hrudníku a břiše, pak úplná paralýza; **ultrakrátký účinek**, protože ho rychle štěpí **pseudocholinesteráza**. ⚠️ Při **genetickém deficitu tohoto enzymu** (idiosynkrazie, viz O30) trvá apnoe hodiny. Další NÚ: **hyperkalemie** (riziko zástavy u popálenin a polytraumat), ↑ nitrooční tlak, svalové bolesti po výkonu.
+- **Další NÚ skupiny:** uvolnění **histaminu** (hypotenze, bronchospasmus — hlavně u starších kurarimimetik), vliv na gangliové N receptory (nedepolarizující → bradykardie a hypotenze; sukcinylcholin → tachykardie a hypertenze).
+- **Indikace:** doplněk celkové anestezie, **endotracheální intubace**, laryngoskopie a endoskopie, ochrana před úrazem při elektrokonvulzivní léčbě.
+
+⚠️ **Maligní hypertermie** — vzácná, život ohrožující reakce na **sukcinylcholin a inhalační anestetika (halotan)**. Příčina: mutace **ryanodinového receptoru** → sarkoplazmatické retikulum nekontrolovaně vypouští Ca²⁺ a neumí ho vychytat zpět → trvalá kontrakce, prudce zrychlený metabolismus → **horečka, svalová rigidita, metabolická acidóza, hyperkalemie**. Bez léčby **umírá přes 60 %**. **Léčba: okamžitě dantrolen i.v.** (blokuje uvolňování Ca²⁺ z retikula) + chlazení a korekce acidózy. Dantrolen se používá i u **maligního neuroleptického syndromu**.
+
+❓ *Jak se léčí maligní hypertermie?* → **Dantrolen i.v.**, okamžitě, ve stoupajících dávkách; současně chladit a korigovat acidózu.
+
+---
