@@ -1065,3 +1065,113 @@
 ❓ *Proč mají kognitiva GIT nežádoucí účinky a bradykardii?* → Zvyšují acetylcholin **všude**, nejen v mozku — tedy i parasympatické účinky na srdce a střevo.
 
 ---
+
+## 60 · Opium a jeho alkaloidy
+
+**O čem to je:** nejsilnější analgetika, jaká máme — z opia (zaschlé šťávy z nezralých makovic). Otázka = receptory, balík účinků a morfin jako referenční lék.
+
+- **Bolest:** **nociceptivní** (poškození tkáně) · **neuropatická** (poškození nervu) · **fantomová** (podnět už neexistuje). ⚠️ **Farmakoterapie bolesti je vždy symptomatická.**
+- **Mechanismus:** agonisté **opioidních receptorů spřažených s G-proteinem** → ↓ vstup Ca²⁺ presynapticky (méně přenašeče) a ↑ výstup K⁺ postsynapticky (hyperpolarizace) → přeruší se vedení bolesti v míše a mění se její vnímání v mozku.
+
+| Receptor | Účinky |
+|---|---|
+| **μ (mí)** | **analgezie, útlum dechu, euforie, sedace, mióza, zácpa, fyzická závislost** |
+| **δ (delta)** | analgezie hlavně na periferii |
+| **κ (kappa)** | míšní analgezie, sedace, **dysforie** |
+
+- **Podle vztahu k receptoru:** **plní agonisté** (morfin, kodein, fentanyl, sufentanil, metadon, pethidin) · **parciální / smíšení agonisté-antagonisté** (buprenorfin, nalbufin, pentazocin) · **antagonisté** (naloxon, naltrexon, nalmefen).
+- **Sedm účinků, které odříkej:** ① **analgezie** (μ) ② **euforie a potlačení úzkosti** ③ **útlum dechu** — sníží citlivost dechového centra k CO₂ (**hlavní příčina smrti při předávkování**, ruší se naloxonem) ④ **antitusický** (nejvíc kodein) ⑤ **GIT a močové cesty** — **zácpa**, spazmus Oddiho svěrače a ↑ tlak ve žlučových cestách, retence moči, nauzea a zvracení ⑥ **mióza** („špendlíkové zorničky") ⑦ **uvolnění histaminu** — svědění, kopřivka v místě vpichu, hypotenze, bronchokonstrikce.
+- ⚠️ **Tolerance vzniká na analgezii i na většinu NÚ — S VÝJIMKOU ZÁCPY A MIÓZY**, ty přetrvávají navždy. Klasická chytačka.
+- **Indikace:** silná akutní bolest (trauma, pooperační, **infarkt**), **chronická nádorová bolest**, dušnost u terminálního srdečního selhání, kašel (kodein), průjem (loperamid periferně).
+- **Kontraindikace a interakce:** útlum dechu a CHOPN, akutní břicho, ⚠️ **kombinace s tlumivými látkami (benzodiazepiny, alkohol, hypnotika) — sčítá se útlum dechu**; **tramadol/pethidin + SSRI či IMAO → serotoninový syndrom**.
+- **Endogenní opioidy:** endorfiny, enkefaliny, dynorfiny — tělu vlastní ligandy stejných receptorů.
+- **Morfin — referenční lék:** agonista μ a κ; i.v. u akutní bolesti, perorálně s postupným uvolňováním u chronické. **Kinetika:** silný **first-pass efekt**, metabolizuje se glukuronidací na **morfin-6-glukuronid, který je aktivní a má delší poločas** → ⚠️ **kumuluje se při renálním selhání**. Prochází placentou (útlum dechu novorozence). **Předepisuje se na recept s modrým pruhem (tabulka I).**
+- **Intoxikace opioidy — trias:** **kóma + mióza + útlum dechu**; k tomu hypotenze, bradykardie. **Léčba: naloxon i.v.** + zajištění ventilace.
+- **Heroin (diacetylmorfin)** — lipofilnější než morfin, rychle přes HEB → intenzivní „rush". Po podání naloxonu se okamžitě rozvine **abstinenční syndrom**: slzení, rýma, ⚠️ **mydriáza**, husí kůže, tachykardie, křeče v břiše, průjem, neklid.
+
+🔑 **Intoxikace = zúžená zornice (mióza) · abstinence = rozšířená zornice (mydriáza).** Plete se to nejčastěji.
+
+❓ *Na které dva účinky opioidů se tolerance nevyvíjí?* → **Zácpa a mióza.**
+
+---
+
+## 61 · Deriváty a náhražky morfinu
+
+**O čem to je:** syntetičtí „příbuzní" morfinu — buď rychlejší/silnější, nebo s menším rizikem závislosti, nebo rovnou jako antidotum.
+
+| Silné syntetické opioidy | Podstatné |
+|---|---|
+| **Fentanyl** | ~100× silnější než morfin; **náplast u chronické nádorové bolesti**, i.v. v anestezii, slizniční formy na **průlomovou bolest** |
+| **Sufentanil** | nejsilnější, velmi rychlý nástup — anesteziologie |
+| **Pethidin** | kratší účinek (4 h), rychlejší nástup. ⚠️ **Nevhodný pro dlouhodobou léčbu** — kumuluje se neurotoxický metabolit norpethidin (křeče) |
+| **Metadon** | dlouhý poločas → **substituční léčba závislosti na opioidech** (potlačí abstinenční příznaky bez euforie). ⚠️ prodlužuje QT |
+| **Oxykodon** | perorálně s postupným uvolňováním; vhodný i **při renální insuficienci** |
+
+| Slabé opioidy | Podstatné |
+|---|---|
+| **Kodein** | **proléčivo** — ~10 % se mění na morfin přes **CYP2D6** (proto u pomalých metabolizátorů nezabere, viz O26); antitusikum, analgetikum v kombinacích |
+| **Dihydrokodein** | asi 1/6 účinku morfinu, v kombinacích |
+| **Tramadol** | atypický: slabý μ-agonista + **blokuje zpětné vychytávání NA a serotoninu**; ~6× slabší než morfin, ale **méně zácpy a útlumu dechu**. ⚠️ Riziko **serotoninového syndromu** a snížení prahu pro křeče |
+
+- ⚠️ **Stropový efekt** (u slabých opioidů a parciálních agonistů): po dosažení určité dávky **se analgezie dál nezvyšuje, přibývají jen nežádoucí účinky** — proto se musí přejít na silný opioid, ne dál navyšovat.
+
+| Antagonisté | Podstatné |
+|---|---|
+| **Naloxon** | kompetitivní antagonista všech opioidních receptorů; kvůli first-pass efektu **jen i.v./i.m./intranazálně**; **antidotum útlumu dechu při intoxikaci opioidy**. ⚠️ Krátký poločas — po odeznění se útlum může vrátit, pacient patří na monitoraci |
+| **Naltrexon** | perorálně, dlouhodobě — **udržovací léčba závislosti na opioidech i alkoholu** |
+| **Metylnaltrexon** | působí **jen na periferní μ receptory** (neprojde HEB) → zruší **zácpu, ale ne analgezii** |
+
+⚠️ **Chyba ve zdroji:** tvůj materiál uvádí naloxon jako antidotum i u barbiturátů, benzodiazepinů a alkoholu — **to není pravda**. Naloxon ruší **jen opioidy**; u benzodiazepinů je antidotem **flumazenil**, u barbiturátů a alkoholu **antidotum neexistuje** (jen podpůrná léčba).
+
+- **Parciální agonisté a smíšení agonisté-antagonisté** — vznikli ve snaze o analgezii bez závislosti; působí hlavně přes **κ** (míšní analgezie), na μ minimálně nebo antagonisticky → nižší riziko závislosti, ale **stropový efekt** a psychomimetické NÚ:
+  - **Buprenorfin** — parciální agonista μ, antagonista κ; transdermálně nebo sublingválně (velký first-pass efekt); chronická bolest a substituční léčba závislosti. ⚠️ Vytěsní jiný opioid z receptoru → může vyvolat abstinenční příznaky.
+  - **Nalbufin** — agonista κ, antagonista μ; minimální riziko závislosti, málo ovlivňuje GIT.
+  - **Pentazocin** — agonista κ; ⚠️ **dysforie a halucinace** (přes κ, ne přes δ, jak uvádí zdroj), ↑ tlak v plicnici.
+
+🔑 **Naloxon = akutní antidotum, jen injekčně · naltrexon = dlouhodobá léčba závislosti, perorálně.**
+
+❓ *Proč se metylnaltrexon nedá použít jako antidotum?* → Neprojde přes hematoencefalickou bariéru — zruší jen periferní zácpu, ne útlum dechu.
+
+---
+
+## 62 · Eikosanoidy
+
+**O čem to je:** lokální „tkáňové hormony" z kyseliny arachidonové, které řídí zánět, srážení, tonus cév a stahy dělohy. Aspirin, kortikoidy i antiastmatika zasahují právě sem.
+
+🔑 **Kaskáda, kterou musíš odříkat jako první:** fosfolipidy membrány → **fosfolipáza A₂** → **kyselina arachidonová** → dvě větve: **cyklooxygenáza (COX)** → prostaglandiny, prostacyklin, tromboxany · **lipoxygenáza (LOX)** → **leukotrieny**. ⚠️ **Kortikoidy indukují lipokortin, který blokuje fosfolipázu A₂ → vypnou celou kaskádu na začátku** (obě větve). **NSA blokují jen COX** — leukotrienová větev jim zůstane (proto aspirinem indukované astma).
+
+| Skupina | Účinky a léčiva |
+|---|---|
+| **PGE** | vazodilatace, bronchodilatace, ↓ tvorba žaludeční kyseliny a **ochrana sliznice**, stahy dělohy. **Alprostadil (PGE1)** — udržuje otevřenou **tepennou dučej** u novorozence s vrozenou srdeční vadou, vazodilatans. **Dinoproston (PGE2)** — gel na **zrání děložního hrdla před porodem**. **Misoprostol** — prevence vředů z NSA |
+| **PGF** | konstrikce průdušek a plicních cév, stahy dělohy. **Dinoprost, karboprost** — indukce porodu, poporodní atonie dělohy. **Latanoprost, travoprost** — oční kapky u **glaukomu** (zlepší odtok nitrooční tekutiny) |
+| **Prostacyklin (PGI₂)** | tvoří **cévní endotel** — **vazodilatace + brzdí agregaci destiček** (protipól tromboxanu). **Iloprost** u plicní hypertenze a ischemie končetin |
+| **Tromboxan (TXA₂)** | tvoří **destičky** — **agregace destiček + vazokonstrikce**. ⚠️ **Kyselina acetylsalicylová ireverzibilně acetyluje COX-1 v destičce → antiagregační efekt na celou dobu jejího života (7–10 dní)** |
+| **Leukotrieny** | mediátory zánětu a alergie — **bronchokonstrikce, otok, hlen**, chemotaxe. **Montelukast, zafirlukast** — antagonisté cysteinyl-leukotrienových receptorů (astma, alergická rýma) |
+
+- **Prozánětlivé cytokiny** (IL-1, IL-6, **TNF-α**) — bílkovinné mediátory z makrofágů a T-lymfocytů: aktivují endotel, adhezivní molekuly, jsou **endogenní pyrogeny** a spouštějí bílkoviny akutní fáze.
+- **Inhibitory cytokinů (biologická léčba):** anti-TNF-α **infliximab, adalimumab, etanercept, golimumab** (revmatoidní a psoriatická artritida, Crohnova choroba, psoriáza) · anti-IL-1 **anakinra, kanakinumab** (dna) · anti-IL-6 **tocilizumab**. ⚠️ Před nasazením **screening TBC a hepatitid** (viz O35).
+- **Imunosupresiva a jejich tři cesty:** blokáda tvorby **IL-2** (cyklosporin, takrolimus, sirolimus) · blokáda exprese cytokinových genů (**kortikoidy**) · blokáda syntézy purinů/pyrimidinů (azathioprin, mykofenolát).
+
+❓ *Jak se liší zásah kortikoidů a NSA do téhle kaskády?* → Kortikoidy blokují **fosfolipázu A₂** (vypnou obě větve), NSA jen **COX** — leukotrieny se tvoří dál.
+
+---
+
+## 63 · Analgetika-antipyretika
+
+**O čem to je:** léky na **bolest a horečku bez protizánětlivého účinku** — hlavně paracetamol, který je běžně dostupný, ale při předávkování těžce poškodí játra.
+
+- ⚠️ **Klíčový rozdíl proti NSA: analgetika-antipyretika NEMAJÍ protizánětlivý ani protidestičkový efekt** — jen analgetický a antipyretický.
+- **Paracetamol**
+  - **Mechanismus:** není zcela objasněn — nejspíš inhibice **cyklooxygenázy centrálně (v CNS a hypotalamu)**, kde je nízká koncentrace peroxidů; v periferní zanícené tkáni proto nefunguje.
+  - **Indikace:** horečka, bolest hlavy, zubů, kloubů, chřipkové stavy. **Lék první volby u dětí, těhotných a seniorů** — nedráždí žaludek, nezvyšuje krvácivost, nehrozí Reyeův syndrom.
+  - **Dávkování:** jednotlivá **~1 g**, maximálně **4 g/den** (u rizikových pacientů méně).
+  - ⚠️ **Hepatotoxicita — jádro otázky:** malá část paracetamolu se přes **CYP2E1** mění na toxický metabolit **NAPQI**, který normálně zneškodní **glutathion**. Při předávkování (od ~10–15 g) glutathion dojde → NAPQI ničí hepatocyty → **jaterní nekróza a selhání**. **Alkohol indukuje CYP2E1 a vyčerpává glutathion** → chronický alkoholik se otráví i nižší dávkou. **Antidotum: N-acetylcystein** (prekurzor glutathionu) — čím dřív, tím lépe (ideálně do 8–10 h).
+- **Pyrazolové deriváty — metamizol, propyfenazon**
+  - **Účinek:** silná analgezie + **spasmolytický** efekt na hladký sval → **žlučová a ledvinná kolika**, spasmoanalgezie u instrumentálních vyšetření, silná akutní bolest; nedráždí žaludek jako NSA.
+  - ⚠️ **NÚ: agranulocytóza** (vzácná, ale závažná), hypotenze při rychlém i.v. podání, anafylaktoidní reakce — **nepodávat astmatikům**; podezření na kancerogenitu a nefrotoxicitu.
+
+🔑 **Paracetamol je v terapeutické dávce nejbezpečnější analgetikum, v předávkování jeden z nejnebezpečnějších léků vůbec. Antidotum: N-acetylcystein.**
+
+❓ *Proč je kombinace paracetamolu s alkoholem nebezpečná?* → Alkohol indukuje CYP2E1 (víc toxického NAPQI) a zároveň vyčerpává glutathion, který ho má neutralizovat.
+
+---
