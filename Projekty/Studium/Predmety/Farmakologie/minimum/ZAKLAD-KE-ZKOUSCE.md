@@ -351,3 +351,198 @@ Blokují 50S ribozom. Atypičtí patogeni (chlamydie, mykoplazma, legionella), a
 
 # ČÁST 3 — SPECIÁLNÍ FARMAKOLOGIE II (89–136)
 
+## 89 · Chemoterapeutika močových a střevních infekcí
+
+**Nitrofurantoin** — 1. volba u nekomplikované IMC, jen v moči (na profylaxi). **Rifaximin** — nevstřebává se, jen ve střevě, i jaterní encefalopatie. Chloramfenikol — riziko aplastické anemie.
+
+## 90 · Antiparazitika
+
+Paraciti = eukaryota (podobná lidským buňkám) → léčba často toxická i pro pacienta. Antihelmintika (mebendazol — hlísti v ČR), antiprotozoika (chlorochin — malárie, sulfonamidy — toxoplazmóza).
+
+## 91 · Antituberkulotika a antileprotika
+
+Vždy **kombinovaná** léčba (4-5 léků), dlouhodobá. 5 základních: streptomycin, izoniazid, **rifampicin** (induktor CYP450), etambutol, pyrazinamid. **MDR** = rezistence na izoniazid + rifampicin současně. Leprosa: dapson + rifampicin.
+
+## 92 · Antimykotika
+
+4 mechanismy přes ergosterol/β-glukan. **Amfotericin B** — zlatý standard aspergilózy, nefrotoxický. Azoly (flukonazol — teratogenní; **vorikonazol = lék volby u aspergilózy**). Echinokandiny — neproniknou HEB, nepůsobí na kryptokoky.
+
+## 93 · Antivirotika
+
+Vždy léčíme: HIV, hepatitida B, hepatitida C. Hep C: sofosbuvir+velpatasvir >97% vyléčení. Aciklovir → nízká dostupnost p.o. → proléčivo **valaciklovir**. Chřipka: oseltamivir/zanamivir (inhibitory neuraminidázy).
+
+## 94 · Antiretrovirotika
+
+HIV infikuje **CD4 T-lymfocyty**. Antiretrovirotika **nevyléčí** (jen potlačí replikaci) — blokují reverzní transkriptázu a proteázu. Léčba se zahajuje při CD4 < 350/mm³.
+
+## 95 · Antitusika, mukolytika, expektorancia
+
+Suchý kašel → antitusika (**kodein** — opioidní μ-receptory, metabolizuje se na morfin). Vlhký kašel → mukolytika (N-acetylcystein — i antidotum paracetamolu!) / expektorancia. ⚠️ Kodein NIKDY s mukolytiky.
+
+## 96 · Antiastmatika
+
+Úlevová (bronchodilatancia) × kontrolující (kortikoidy) léčba — pacient musí mít vždy úlevovou u sebe. β2-agonisté (SABA/LABA), anticholinergika, xantiny. **IKS = lék 1. volby u astmatu**, ale nezastaví akutní záchvat. Montelukast (antileukotrien), omalizumab (anti-IgE).
+
+## 97 · Antihistaminika
+
+H1 blokáda = inverzní agonismus. **I. generace** (prometazin) — prochází HEB, sedativní, neselektivní. **II. generace** (cetirizin) — neprochází HEB, nesedativní, selektivní.
+
+## 98 · Laxativa, antidiaroika
+
+Zácpa: základ je životospráva, ne léky. **Laktulóza** — osmotické projímadlo I léčba jaterní encefalopatie. Průjem: **obstipancia (loperamid) NIKDY u infekčního průjmu** (zadrží patogen).
+
+## 99 · Farmakoterapie vředové choroby a GERD
+
+**Žaludeční vřed bolí PO jídle, duodenální NALAČNO.** *H. pylori* = karcinogen. Trojkombinace: PPI + amoxicilin + klaritromycin, 14 dní.
+
+## 100 · Prokinetika, antiemetika, emetika
+
+Prokinetika (metoklopramid, domperidon — D2 antagonisté) nejvíc účinkují na jícnový svěrač. Dvě centra zvracení: area postrema (toxiny v krvi) + centrum ve kmeni. **Setrony** (ondansetron) — nejúčinnější antiemetika, u chemoterapie. Cisplatina = nejsilnější emetogen.
+
+## 101 · Farmakoterapie nespecifických střevních zánětů
+
+Crohn (celý GIT, celá stěna, skip léze) × ulcerózní kolitida (jen sliznice, jen tlusté střevo/rektum). Aminosalicyláty (mesalazin) = dlouhodobé držení, kortikoidy = rychlá remise, imunosupresiva = udržení remise.
+
+## 102 · Spasmolytika
+
+Neurotropní (parasympatolytika — atropin) × muskulotropní (drotaverin — i cévy). Všechny NÚ plynou z anticholinergního efektu.
+
+## 103 · Hepatoprotektiva, cholagoga
+
+Hepatoprotektiva mají slabě doložený efekt (řekni to nahlas). Laktulóza v léčbě jaterní encefalopatie (viz O98). Kyselina ursodeoxycholová — litolytický efekt.
+
+## 104 · Farmaka v očním lékařství
+
+Až 80 % oční kapky jde do celotělového oběhu (mimo first-pass!). **Glaukom**: analoga prostaglandinů/pilokarpin (↑odtok) × betablokátory/inhibitory karboanhydrázy (↓tvorba).
+
+## 105 · Drogová (léková) závislost
+
+**Dopamin v nucleus accumbens** = jádro mechanismu. "Cues" (podmíněné podněty) samy vyplaví dopamin → relaps i po dlouhé abstinenci. Antidepresiva nevyvolávají závislost.
+
+## 106 · Ethylalkohol, methylalkohol
+
+Otrava metanolem → metabolizuje se na **kyselinu mravenčí** (slepota) → léčba **ethanol i.v.** (soutěží o stejný enzym) + hemodialýza. Chronický alkoholismus: Korsakovova psychóza, kardiomyopatie, fetální alkoholový syndrom.
+
+## 107 · Konopí, kanabinoidy
+
+THC zvyšuje riziko psychózy (zhoršuje prognózu psychiatrických nemocí). Lipofilní → detekovatelné dlouho po užití.
+
+## 108 · Halucinogeny (psychomimetika)
+
+Na rozdíl od jiných drog NEvyvolávají poruchu vědomí ani amnézii. **LSD nemá stanovenou LD50** — nedá se jím předávkovat smrtelně.
+
+## 109 · Stimulancia `[doplněno]`
+
+Všechna zvyšují monoaminy (dopamin/NA/serotonin) — amfetaminy uvolňováním, kokain blokádou vychytávání. Intoxikace kokainem: mióza→ne, naopak mydriáza, křeče, infarkt. Typ závislosti na amfetaminech: mírná fyzická, silná psychická.
+
+## 110 · Nikotin
+
+Agonista nikotinových receptorů. **Kotinin** = marker kouření. Z cigarety se vstřebá 1,5 mg, smrtelná dávka 40 mg. **CHOPN vzniká prakticky jen u kuřáků.** Nádory dutiny ústní — tvoje obor.
+
+## 111 · Metylxantiny
+
+Kofein/teofylin — blokáda fosfodiesterázy + adenosinových receptorů. Sildenafil — blokáda PDE5, **nikdy s nitráty** (smrtelný pokles tlaku).
+
+## 112 · Antirevmatika
+
+NSA jen tlumí příznaky. **DMARD** (metotrexát, sulfasalazin) zpomalují postup nemoci, pomalý nástup. Anti-TNF-α (infliximab) — revmatoidní artritida.
+
+## 113 · Antiuratika
+
+**Alopurinol jen na dlouhodobou prevenci dny, NIKDY na akutní záchvat** (ten: NSA, kolchicin, kortikoidy).
+
+## 114 · Imunosupresiva, imunostimulancia
+
+Cyklosporin/takrolimus — úzké terapeutické okno, nutné TDM (přes CYP3A4). Glukokortikoidy, azathioprin — po transplantaci.
+
+## 115 · Hormony hypothalamu a hypofýzy
+
+**GnRH pulzně = stimuluje** gonadotropiny, **kontinuálně = tlumí** (biochemická kastrace — karcinom prostaty). Oxytocin (kontrakce dělohy) × ADH/vazopresin (V1 cévy, V2 voda v ledvinách). Desmopresin = selektivní V2.
+
+## 116 · Farmakoterapie onemocnění štítné žlázy
+
+T4 (pomalý, dlouhý poločas) × T3 (rychlý, jen urgentní stavy). Hypertyreóza: thyreostatika+betablokátory/radiojod/operace. Hypotyreóza: substituce hormonem (levothyroxin).
+
+## 117 · Glukokortikoidy, mineralokortikoidy
+
+**Bezpečná dlouhodobá dávka prednisonu = 2,5 mg/den.** Náhlé vysazení = riziko rebound (nedostatečná vlastní tvorba). Spironolakton — blokátor aldosteronu, snižuje mortalitu u srdečního selhání.
+
+## 118 · Farmakoterapie obezity
+
+Orlistat (blokuje lipázu → steatorea). GLP-1 analoga (liraglutid, semaglutid) — nejmodernější, i na diabetes.
+
+## 119 · Androgeny, anabolické steroidy
+
+Testosteron aktivní přímo ve svalu/játrech, jinde potřebuje přeměnu na DHT (5-α-reduktáza). Vysoké dávky u mužů → **feminizace** (testosteron = prekurzor estrogenu).
+
+## 120 · Estrogeny, gestageny
+
+Estrogeny: chrání cévy a kost, ale **zvyšují srážlivost** — z toho plynou indikace i KI. Progesteron snižuje počet estrogenových receptorů (prevence nádorů endometria).
+
+## 121 · Kontraceptiva
+
+Estrogen tlumí FSH, gestagen tlumí LH + zahušťuje hlen. Pearlův index 0,1–0,4. Pozitiva: méně PMS, méně cyst, méně mimoděložních těhotenství. Gestagenní samostatná — vhodná pro kuřačky/kojící; ⚠️ acetylcystein ruší její efekt (ředí hlen).
+
+## 122 · Farmakoterapie benigní hyperplazie prostaty
+
+α-blokátory (tamsulosin) — rychlá úleva uvolněním svalu. Inhibitory 5-α-reduktázy (finasterid) — pomalu zmenší žlázu, NÚ sexuální dysfunkce (i příklad noceba).
+
+## 123 · Cytostatika
+
+6 skupin: alkylující (DNA), antimetabolity (blokují syntézu NK), rostlinné alkaloidy (mitotické vřeténko), antibiotika (**antracykliny = kardiotoxické**), hormony, ostatní. **Cisplatina** = nejsilnější emetogen + nefrotoxická.
+
+## 124 · Farmakoterapie anemií
+
+Vitamin B12 potřebuje kyselé prostředí (PPI/omeprazol ho zhoršují). Transfuze při Hb pod 80 g/l.
+
+## 125 · Rentgenkontrastní látky
+
+Síran barnatý nerozpustný → i přes toxicitu barya bezpečný. Jódové látky — riziko anafylaxe a ovlivnění štítné žlázy.
+
+## 126 · Léčiva pro místní účinek na kůži a dezinficiencia
+
+Kyselina salicylová a močovina — účinek závisí čistě na **koncentraci** (nízká = hydratace, vysoká = keratolýza/leptání). Dezinficiencia (na předměty) × antiseptika (na živou tkáň).
+
+## 127 · Infuzní terapie
+
+🔑 Iontové poruchy (hlavně Na⁺) se **nikdy nekorigují příliš rychle** — riziko centrální pontinní myelinolýzy. **Refeeding syndrom** — pokles P, Mg, Na po obnovení jídla u podvyživeného pacienta.
+
+## 128 · Vitaminy rozpustné v tucích (A, D, E, K)
+
+Jediné, kde reálně hrozí předávkování. Vitamin K jako antidotum warfarinu — pomalý (12–24 h), ne okamžitý (musí se resyntetizovat faktory).
+
+## 129 · Vitaminy rozpustné ve vodě (B, C)
+
+Člověk (jako primáti/morčata) si neumí sám vyrobit vitamin C. B9 a B12 souvisí s anemií, jejich vstřebávání ruší PPI/antiepileptika.
+
+## 130 · Farmakoterapie osteoporózy
+
+T-skóre pod −2,5 SD = osteoporóza. Fluor buduje zubní sklovinu, ale na osteoporózu se nepoužívá (malý efekt). Teriparatid krátkodobě staví kost, dlouhodobý nadbytek vlastního PTH ji boří.
+
+## 131 · Fytoterapie
+
+"Přírodní" ≠ bezpečné. Hlavní riziko: lékař o fytofarmaku často neví → nepředvídané interakce (třezalka indukuje CYP450, grapefruit blokuje).
+
+## 132 · Obecná toxikologie
+
+Paracelsův princip: vše je jed, záleží na dávce. NOAEL = nejvyšší dávka bez efektu. Hormeze — škodí i nedostatek i nadbytek (vitaminy).
+
+## 133 · Terapie otrav a předávkování
+
+Tabulka antidot: opioidy→naloxon, BZP→flumazenil, paracetamol→acetylcystein, warfarin→vitamin K, heparin→protamin. **Kyanid NEZPŮSOBUJE cyanózu** (kyslík proudí, buňky ho nevyužijí) — antidota: hydroxykobalamin, dusitany, thiosíran.
+
+## 134 · Toxikologie rostlin a hub
+
+**Muchomůrka zelená** — amanitin blokuje proteosyntézu, enterohepatální koloběh → léčba **aktivním uhlím**. Oměj šalamounek = nejtoxičtější naše rostlina (LD50 0,028 mg/kg).
+
+## 135 · Toxikologie živočišných jedů
+
+Většina mořských toxinů blokuje Na⁺ kanály. Naše **zmije obecná** bolí, ale nevzniká nekróza a obvykle nezabíjí.
+
+## 136 · Intoxikace rtutí, arzenem a olovem
+
+**Rtuť** → gingivostomatitida + tremor (Minamata). **Olovo** → tmavý lem na dásni + "malířská ruka" + 90 % uloženo v kosti jako depo (příznaky i po letech). **Arzen** = nejtoxičtější ze tří. Terapie: cheláty (dimerkaprol, DMSA, EDTA).
+
+---
+
+*Tohle je zkrácená nouzová vrstva na poslední 2 dny. Plný, vysvětlený materiál je v `VYPISKY-KOMPLET.md` — když bude čas, vrať se k němu na otázky, které ti nesednou.*
