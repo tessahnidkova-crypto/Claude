@@ -2585,3 +2585,138 @@
 ❓ *Proč se ptáš pacienta na byliny a doplňky stravy stejně jako na léky?* → Kvůli **interakcím** — typicky třezalka (snižuje účinnost antikoncepce a warfarinu) a ginkgo či česnek (krvácivost).
 
 ---
+## 132 · Obecná toxikologie
+
+**O čem to je:** ⚠️ **Paracelsus: „Všechny látky jsou jedy, záleží jen na dávce."** Touhle větou otázku otevři.
+
+- **Toxikologie** = obor o nepříznivých účincích **xenobiotik** (cizorodých látek). **Toxicita** = schopnost látky poškodit organismus; závisí na chemických (reaktivita), fyzikálních (skupenství, rozpustnost) a biologických vlastnostech. ⚠️ **Nebezpečnost je širší pojem než toxicita** (patří sem i hořlavost a výbušnost). **Jed** = látka, která už v malé dávce způsobí těžké poškození nebo smrt.
+- 🔑 **Rovnice, kterou musíš umět: NEBEZPEČNOST + EXPOZICE = RIZIKO.** Expozice = vystavení organismu látce, při kterém pronikne dovnitř („branami vstupu").
+- **Toxikokinetika (obdoba ADME):** **absorpce** — GIT (rozhoduje lipofilita), plíce (plyny, páry, aerosoly, prach), **kůže** (lipofilní látky — nervové plyny, insekticidy) · **distribuce** — lipofilní látky se ukládají v tuku (**DDT, PCB**), jiné v **kosti (olovo, fluor, stroncium)** → vznikají depa · **metabolismus** — biotransformace může vést k **detoxikaci, ale i k BIOAKTIVACI** (vznikne toxičtější metabolit — methanol, paracetamol) · **exkrece** — moč, stolice, plíce, pot, **mateřské mléko**.
+- **Šest mechanismů toxického účinku:** ① **přímý toxický** (nekróza buněk) ② **biochemický** (blokáda enzymu — kyanid, organofosfáty) ③ **imunotoxický** (imunosuprese nebo alergie) ④ **mutagenní** ⑤ **karcinogenní** ⑥ **teratogenní**.
+- **Vztah dávka–účinek:** ⚠️ **NOAEL** = nejvyšší dávka **bez pozorovaného nepříznivého účinku** · **LOAEL** = nejnižší dávka, kde se účinek už projeví (prahová dávka) · **LD50** = dávka usmrcující 50 % pokusných zvířat do 24 h. ⚠️ **Hormeze** = vztah, kdy škodí **nedostatek i nadbytek** (typicky vitaminy a stopové prvky).
+- **Řízení rizika:** zabránit kontaktu (ochranné pomůcky), **zkrátit expozici** (střídání záchranářů), **dekontaminace a odmoření**, znalost nebezpečnosti. Značení: **H-věty** (nebezpečnost) a **P-věty** (pokyny pro bezpečné zacházení).
+
+❓ *Co znamená, že látka prošla bioaktivací?* → Metabolismem z ní vznikl **toxičtější** produkt než byla výchozí látka (methanol → kyselina mravenčí, paracetamol → NAPQI).
+
+---
+
+## 133 · Terapie otrav a předávkování
+
+**O čem to je:** **pět obecných postupů** + modelová otrava kyanidem s klíčovým paradoxem.
+
+- ⚠️ **Nejjedovatější látky vůbec: botulotoxin, tetrodotoxin, nikotin.**
+- **Pět přístupů k léčbě akutní otravy:**
+  - ① **snížit vstřebávání** — **aktivní uhlí** (nejúčinnější do 1 h), výplach žaludku; ⚠️ **zvracení NIKDY nevyvolávat po požití kyselin, louhů a uhlovodíků** (poleptání a aspirace),
+  - ② **urychlit vylučování** — **forsírovaná diuréza**, ovlivnění pH moči (alkalizace bikarbonátem u salicylátů — iontová past, viz O20),
+  - ③ **eliminační metody** — **hemodialýza** (jen látky s malým distribučním objemem a nízkou vazbou — methanol, lithium, salicyláty), hemoperfuze,
+  - ④ **symptomatická podpůrná léčba** — zajištění dýchání a oběhu (⚠️ **to je u většiny otrav to hlavní**),
+  - ⑤ **antidota** — existují jen pro málo látek.
+
+| Toxin | **Antidotum** |
+|---|---|
+| **opioidy** | **naloxon** |
+| **benzodiazepiny** | **flumazenil** |
+| **paracetamol** | **N-acetylcystein** |
+| **methanol, etylenglykol** | **ethanol, fomepizol** |
+| **organofosfáty** | **atropin + pralidoxim/obidoxim** |
+| **anticholinergika (atropin)** | **fyzostigmin** |
+| **kyanidy** | **hydroxykobalamin, dusitany, thiosíran sodný** |
+| **digoxin** | **protilátky (Fab fragmenty)** |
+| **warfarin / heparin** | **vitamin K / protamin sulfát** |
+| **olovo / arzen, rtuť / měď / železo** | **EDTA / dimerkaprol, DMSA / penicilamin / deferoxamin** |
+
+- ⚠️ **Otrava kyanidem — modelová:** kyanidový aniont má vysokou afinitu k **Fe³⁺ v cytochromoxidáze** → **zablokuje dýchací řetězec v mitochondriích** → buňka nemůže využít kyslík a netvoří ATP (tzv. **vnitřní dušení**). 🔑 **Klíčový paradox: kyslík se do tkání dostává normálně, proto NENÍ cyanóza** — kůže bývá růžová, žilní krev jasně červená; typický je **zápach po hořkých mandlích** a rychlý rozvoj bezvědomí, křečí a **metabolické acidózy s vysokým laktátem**. Superakutní forma zabíjí **do 2–3 minut**.
+- **Léčba kyanidové otravy:** okamžitě **kyslík a ventilace** (⚠️ ne dýchání z úst do úst) · **hydroxykobalamin** (naváže CN⁻ na neškodný kyanokobalamin) · **dusitany** (vytvoří **methemoglobin**, který kyanid odtáhne z cytochromoxidázy) · **thiosíran sodný** (převede kyanid na netoxický thiokyanát).
+
+❓ *Proč u otravy kyanidem chybí cyanóza?* → Tkáně mají kyslíku dost — jen ho **nedokážou využít**, protože je zablokovaný dýchací řetězec.
+
+---
+
+## 134 · Toxikologie rostlin a hub
+
+**O čem to je:** ⚠️ **nejdůležitější je muchomůrka zelená** — nejčastější příčina smrtelných otrav houbami.
+
+- **Tropanové alkaloidy — jedna skupina, tři rostliny:** **rulík zlomocný, durman obecný, blín černý** obsahují **hyoscyamin, atropin, skopolamin** → ⚠️ **anticholinergní syndrom**: horká suchá zarudlá kůže, **mydriáza**, sucho v ústech, tachykardie, retence moči, halucinace a delirium. **Antidotum: fyzostigmin.**
+
+| Rostlina | Toxin a mechanismus |
+|---|---|
+| **Oměj šalamounek** | **akonitin** — trvalá aktivace Na⁺ kanálů; mravenčení, bradykardie, arytmie → selhání srdce. ⚠️ **LD50 0,028 mg/kg — nejtoxičtější naše rostlina** |
+| **Bolehlav plamatý** | **koniin** — blokáda nikotinových receptorů ploténky → vzestupná paralýza (Sokratova smrt) |
+| **Tis červený** | **taxiny** — blokáda Na⁺ a Ca²⁺ kanálů srdce, kardiotoxický |
+| **Skočec obecný** | **ricin** — blokuje proteosyntézu (ribozom) |
+| **Náprstník, konvalinka, vraní oko** | **srdeční glykosidy** (viz otázka 66) |
+
+- ⚠️ **Muchomůrka zelená — nejdůležitější otrava:** toxiny **amanitin a faloidin**, stačí **1–3 plodnice**. **Amanitin blokuje RNA-polymerázu II → zastaví proteosyntézu → centrilobulární nekróza jater.** Průběh je zrádný: latence **6–24 h**, pak prudká gastroenteritida, zdánlivé zlepšení a za 2–4 dny **jaterní selhání**. ⚠️ **Léčba: opakovaně aktivní uhlí** (amanitin má **enterohepatální oběh** — vylučuje se žlučí a znovu se vstřebává, uhlí ten kruh přeruší), **N-acetylcystein**, **silibinin (ostropestřec)**, vysoké dávky penicilinu, podpora jater, případně **transplantace**.
+
+| Houba | Toxin a projevy |
+|---|---|
+| **Vláknice, strmělky** | ⚠️ **muskarin** — cholinergní syndrom už za 15–30 min: slinění, slzení, pocení, **mióza, bradykardie, bronchospasmus**, průjem. **Antidotum atropin** |
+| **Muchomůrka červená** | **kyselina ibotenová** (agonista NMDA) a **muscimol** (agonista GABA) — zmatenost, euforie, halucinace, ataxie, delirium |
+| **Pavučinec plyšový** | **orelanin** — ⚠️ **nefrotoxický, latence i 2–3 týdny** → selhání ledvin |
+| **Ucháč obecný** | **gyromitrin** — snižuje tvorbu GABA (křeče), hepatotoxický a karcinogenní |
+| **Hřib satan, žlučník** | dráždí GIT — nevolnost, koliky, průjem; zotavení do 2 dnů |
+
+- **Paličkovice nachová (námel)** — **ergotamin, ergometrin**: agonisté serotoninových, adrenergních a dopaminových receptorů → **vazokonstrikce a stahy dělohy**; historicky **ergotismus** („oheň sv. Antonína" — ischemické nekrózy končetin). Odvozená léčiva: **ergotamin u migrény** (otázka 65), **bromokriptin** (otázka 115).
+
+❓ *Proč se u otravy muchomůrkou zelenou podává aktivní uhlí opakovaně i po vstřebání toxinu?* → Amanitin má **enterohepatální oběh** — uhlí ho ve střevě zachytí a přeruší jeho návrat do krve.
+
+---
+
+## 135 · Toxikologie živočišných jedů
+
+**O čem to je:** ⚠️ **skoro všechny mořské toxiny míří na sodíkové kanály**; naše **zmije** bolí, ale prakticky nezabíjí.
+
+- **Rozdělení:** **fanerotoxičtí** mají jedový orgán × **kryptotoxičtí** ne; **aktivní toxicita** = zvíře jed vpraví „sdělným aparátem" (had, včela) × **pasivní** = jed je jen v kůži (mloci, pralesničky).
+
+| Mořský toxin | Zdroj a mechanismus | Projevy |
+|---|---|---|
+| **Ciguatoxin** | obrněnky → hromadí se ve svalovině ryb; **snižuje práh otevření Na⁺ kanálů**. ⚠️ **Nezničí ho vaření a nemění chuť ani vzhled ryby** | GIT potíže, pak znecitlivění rtů a končetin, ⚠️ **obrácené vnímání tepla a chladu**, paralýza |
+| **Saxitoxin** | obrněnky, koncentruje se v **měkkýších**; **blokuje Na⁺ kanály** | „paralytic shellfish poisoning" — vzestupná paralýza, útlum dechu |
+| **Tetrodotoxin** | ryby **čtverzubci (fugu)**, termostabilní; **blokuje Na⁺ kanály** | brnění rtů, ztráta hlasu, křeče, hypotenze, **selhání dýchání** |
+
+- **Žahavci a měkkýši:** **měchýřovka portugalská** (bolestivé šlehance, otok hrtanu) · **čtyřhranka („mořská vosa")** — narušení membrán → **hyperkalemie a selhání oběhu za 2–5 minut** · **homolice** — **konotoxin** blokuje nikotinový receptor a Ca²⁺ kanály; ⚠️ **odvozený zikonotid se používá proti bolesti — je 1000× účinnější než morfin** · **pijavka** — **hirudin, přímý inhibitor trombinu** (odvozené léky lepirudin, bivalirudin).
+- **Členovci:** **včely, vosy, sršni** — **apitoxin** (melitin narušuje membrány a uvolňuje histamin, fosfolipáza A, hyaluronidáza) → ⚠️ **hlavní nebezpečí není toxicita, ale anafylaxe a otok hrtanu**; léčba **adrenalin, antihistaminika, kortikoidy** · **koutník** (sfingomyelináza D — kožní nekróza) · **štíři a palovčík** (blokáda Na⁺ a Ca²⁺ kanálů; existují antiséra) · **puchýřník („španělská muška")** — **kantharidin**, silně dráždivý, LD50 0,5 mg/kg.
+- **Obojživelníci a ryby:** **batrachotoxin** (pralesničky, šípový jed) — ⚠️ **trvale otevře Na⁺ kanály, nemá antidotum**; **bufotoxiny** ropuch mají kardiotonický (digitalisový) efekt. **Skombrotoxická otrava** — v nesprávně skladovaném masu makrelovitých ryb se **histidin bakteriálně mění na histamin** → kopřivka, otok, průjem; ⚠️ **léčba antihistaminiky**.
+- **Hadí jedy** — směsi enzymů a peptidů: **α-neurotoxiny** (blokáda nikotinových receptorů → chabá paralýza) · **β-neurotoxiny** (fosfolipáza A2 → porucha výdeje ACh) · **dendrotoxiny** (blokáda K⁺ kanálů) · **fascikuliny** (blokáda AChE → tetanie) · **cytotoxiny, hemotoxiny a myotoxiny** (nekróza, hemolýza, poruchy srážení, ⚠️ **rhabdomyolýza → selhání ledvin**).
+- ⚠️ **Zmije obecná — jediný náš jedovatý had:** vstříkne asi **3 mg**, letální dávka pro člověka je kolem **15 mg** → **uštknutí obvykle není smrtelné**. Projevy: bolest, **šířící se otok**, petechie, nauzea, hypotenze až šok; ⚠️ **nevzniká nekróza**. **Léčba: znehybnit končetinu, analgezie, antihistaminika a kortikoidy, doplnění objemu, observace ≥ 24 h (hlavně u dětí)**; **antisérum jen při šoku, rychlém šíření otoku, otoku sliznic, neurologických příznacích nebo poruchách srážlivosti** — podává se **v i.v. infuzi** (i.m. je neúčinné), riziko sérové nemoci.
+
+❓ *Kdy u uštknutí zmijí podáš antisérum?* → Jen při **závažném průběhu** — šok, rychle se šířící otok, otok sliznic, neurologické příznaky, hemolýza nebo porucha srážlivosti.
+
+---
+
+## 136 · Intoxikace sloučeninami rtuti, arzenu a olova
+
+**O čem to je:** tři těžké kovy — každý s jiným cílovým orgánem, ale ⚠️ **stejným principem léčby: přerušit expozici a podat chelátor**. **Rtuť i olovo se přitom projeví v dutině ústní — to je tvoje téma.**
+
+- **Cheláty:** molekuly s několika elektronegativními skupinami (**−SH, −OH, −NH**), které kov pevně naváží a vyloučí močí, a tím mu zabrání vázat se na stejné skupiny v enzymech. ⚠️ **Nejsou selektivní — vážou i potřebné prvky (zinek, měď).**
+
+| Chelátor | Použití |
+|---|---|
+| **Dimerkaprol** (BAL) | arzen, rtuť, olovo; jen i.m., bolestivý. ⚠️ **Nevhodný u chronické otravy** — může přesunout kov do CNS |
+| **DMSA (sukcimer)** | ve vodě rozpustný, perorálně, dobře snášen — olovo, rtuť, arzen |
+| **CaNa₂EDTA** | ⚠️ **otrava olovem**; i.v.; ztráty zinku |
+| **Penicilamin** | měď, **Wilsonova choroba**; pozor na alergii na penicilin |
+| **Deferoxamin** | ⚠️ **železo** (i přetížení po transfuzích); barví moč do červena |
+| **Pruská modř** | thalium, cesium |
+
+- **Rtuť** — ⚠️ **kovová rtuť po požití je prakticky netoxická** (nevstřebá se); toxické jsou **páry kovové rtuti** a **rozpustné anorganické a organické sloučeniny**. Zdroje: dentální amalgámy, zářivky, průmysl; **methylrtuť se biokumuluje v rybách**.
+  - **Kinetika:** vstřebává se hlavně **plícemi**, hromadí se v **ledvinách**; **methylrtuť** prochází do CNS a placentou; váže se na **−SH skupiny v keratinu (vlasy, nehty)** → důkaz expozice.
+  - **Akutně:** vdechnutí par → chemická pneumonitida; požití solí → **korozivní gastroenteritida a selhání ledvin**.
+  - ⚠️ **Chronicky — triáda: tremor + neuropsychické změny (erethismus, „kloboučnická nemoc") + GINGIVOSTOMATITIDA** (zánět dásní a ústní sliznice). Hromadná otrava methylrtutí = **nemoc Minamata** (postižení CNS, zraku, sluchu, poškození plodu). **Léčba: DMSA, penicilamin, DMPS.**
+- **Arzen** — ⚠️ **často označovaný za nejtoxičtější kov**; **arsenik = oxid arsenitý**. Vstřebává se plícemi a GIT; **váže se na −SH skupiny, blokuje enzymy a nahrazuje fosfát**; ⚠️ **karcinogenní — nádory kůže, plic a močového měchýře**.
+  - **Akutně:** ⚠️ **náhlá gastroenteritida + hypotenze + metabolická acidóza** (a zápach po česneku), poškození srdce, pancytopenie, encefalopatie a neuropatie.
+  - **Chronicky:** slabost, hubnutí, anemie, **hyperpigmentace a hyperkeratóza kůže**, ⚠️ **Meesovy proužky na nehtech**, polyneuropatie. Diagnóza z **moči** (⚠️ **před odběrem nejíst ryby — falešně zvýší hodnoty**). **Léčba: dimerkaprol, DMSA.** **Arsenovodík** — hemolytický plyn s česnekovým zápachem → hemoglobinurie a selhání ledvin.
+- **Olovo** — zdroje: staré nátěry, potrubí, průmysl, dříve benzin. ⚠️ **90 % se ukládá do kosti jako depo — při přestavbě kosti se uvolňuje zpět a příznaky se mohou objevit dlouho po expozici.** Mechanismus: blokuje enzymy (mimo jiné syntézu **hemu**) a interferuje s vápníkem, železem a zinkem.
+  - **Neurotoxicita:** únava, nechutenství, poruchy spánku, ⚠️ **periferní neuropatie s obrnou extenzorů — „malířská ruka"**; u dětí **encefalopatie a trvalé kognitivní poškození** (⚠️ škodí i v nízkých koncentracích).
+  - **Hematotoxicita:** ⚠️ **mikrocytární hypochromní anemie s bazofilním tečkováním erytrocytů**, vzestup volného protoporfyrinu.
+  - **Nefrotoxicita:** tubulární postižení, fibróza, hypertenze, ⚠️ **„saturninská dna"** (olovo snižuje vylučování kyseliny močové).
+  - **GIT a ústa:** ⚠️ **olověná kolika**, zácpa, kovová chuť a ⚠️ **tmavý lem na dásni (Burtonova linie)** u těžce exponovaných se špatnou hygienou.
+  - **Léčba:** přerušit expozici, podpůrná léčba (u encefalopatie manitol, antikonvulziva), **CaNa₂EDTA i.v. a DMSA perorálně**.
+
+🔑 **Rtuť = tremor + erethismus + gingivostomatitida (Minamata). Olovo = tmavý lem na dásni + „malířská ruka" + anemie + depo v kosti. Arzen = gastroenteritida s hypotenzí, Meesovy proužky, karcinogen.**
+
+❓ *Které dva těžké kovy uvidíš jako zubařka nejdřív v ústech?* → **Rtuť** (gingivostomatitida) a **olovo** (tmavá Burtonova linie na dásni).
+
+---
+
+*Tím je pokryto všech 114 zbývajících otázek (O23–O35, 36–88, 89–136). Hodně štěstí zítra.*
