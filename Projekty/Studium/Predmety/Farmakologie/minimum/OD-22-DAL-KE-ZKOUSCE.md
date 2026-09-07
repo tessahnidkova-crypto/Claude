@@ -2116,3 +2116,122 @@
 ❓ *Proč se u alkoholika podává thiamin před glukózou?* → Glukóza spotřebuje zbytek thiaminu a může **spustit Wernickeovu encefalopatii**.
 
 ---
+## 107 · Konopí, kanabinoidy
+
+**O čem to je:** konopí a jeho psychoaktivní **THC**; tělo má i vlastní **endokanabinoidní systém**, který pomáhá zvládat stres.
+
+- **Zdroj:** *Cannabis sativa* a *indica*. **Marihuana** = usušená rostlinná drť · **hašiš** = pryskyřice ze žláznatých chlupů, **vyšší obsah THC**. Účinné látky: **THC** (psychoaktivní) a **CBD** (kanabidiol, bez euforie).
+- **Mechanismus:** agonismus na **kanabinoidních receptorech CB1 (CNS) a CB2 (imunitní systém)**; endogenní ligandy = **endokanabinoidy, nejznámější anandamid**. Užívá se kouřením, vaporizací, perorálně.
+- **Účinky:** euforie, uvolnění, změněné vnímání času, ⚠️ **zhoršení krátkodobé paměti, koordinace a reakčního času** (dopravní nehody), zvýšená chuť k jídlu, tachykardie, injikované spojivky, **bronchodilatace, ale spazmus koronárních tepen**.
+- ⚠️ **Rizika:** **zvyšuje riziko a urychluje nástup psychózy** a zhoršuje prognózu psychiatrických onemocnění, ovlivňuje spermie a ovariální cyklus, v graviditě prochází placentou (nízká porodní hmotnost); **kanabinoidní hyperemetický syndrom** u dlouhodobých uživatelů (opakované zvracení, ulevuje horká sprcha). Závislost je hlavně **psychická**.
+- ⚠️ **THC je vysoce lipofilní a hromadí se v tukové tkáni** — proto je v moči prokazatelné i týdny po užití.
+- **Léčebné konopí** (upraveno předpisy): chronická bolest, spasticita u roztroušené sklerózy, nauzea při chemoterapii, nechutenství; **nabilon, dronabinol**.
+
+❓ *Proč je marihuana prokazatelná dlouho po užití?* → **Lipofilní THC se ukládá v tuku** a pomalu se uvolňuje zpět.
+
+---
+
+## 108 · Halucinogeny (psychomimetika)
+
+**O čem to je:** mění vnímání, myšlení a náladu, ale ⚠️ **nevyvolávají poruchu vědomí ani amnézii** — tím se liší od ostatních látek působících na CNS.
+
+- **LSD (dietylamid kyseliny lysergové)** — nejsilnější halucinogen; **agonista serotoninových 5-HT2A receptorů**. Podává se na savém papíru („tripy"). **Účinky:** sympatomimetické (mydriáza, tachykardie, hypertenze, pocení, husí kůže, třes) a psychické — euforie, „spirituální osvícení", **synestezie** (zvuky vnímané barevně), změněné vnímání času; nebo naopak ⚠️ **„bad trip"** (úzkost, paranoia). Účinek 8–12 h. ⚠️ **Nemá stanovenou smrtelnou dávku (LD50) — nedá se jím smrtelně předávkovat**, ale hrozí úrazy a psychóza. Pozdní NÚ: **flashbacky** a přetrvávající porucha vnímání.
+- **MDMA („extáze")** — ⚠️ zároveň **halucinogen i stimulant**: masivně vyplaví **serotonin, noradrenalin i dopamin**. Účinky: euforie, pocit sounáležitosti a empatie, výdrž. ⚠️ **NÚ: hypertermie a dehydratace (taneční prostředí), rhabdomyolýza, hyponatremie z nadměrného pití, arytmie, jaterní selhání, neurotoxicita**; po odeznění deprese („úterní deprese"). **Léčba intoxikace: klidné prostředí, chlazení, benzodiazepiny, úprava iontů.**
+- **Ostatní:** **psilocybin** (lysohlávky — účinek jako LSD, ⚠️ riziko záměny s jedovatou houbou) · **atropin a skopolamin** (lilkovité — delirantní stav se suchou horkou kůží a mydriázou) · **fencyklidin (PCP)** — ⚠️ **antagonista NMDA**: pocit nadlidské síly, necitlivost k bolesti, zuřivost, psychóza, amnézie · vysoké dávky **THC**.
+- **Studuje se** terapeutické využití mikrodávek psychedelik (deprese, úzkost, OCD, závislosti).
+
+❓ *Čím se halucinogeny liší od jiných látek působících na CNS?* → **Nevyvolávají poruchu vědomí ani amnézii** — člověk si stav pamatuje.
+
+---
+
+## 109 · Stimulancia `[doplněno — v podrobné Specce II chybí]`
+
+**O čem to je:** ⚠️ **společný jmenovatel: všechna stimulancia zvyšují monoaminy (dopamin, noradrenalin, serotonin) v synapsi** — buď jejich uvolněním (amfetaminy, MDMA), nebo blokádou zpětného vychytávání (kokain). Z toho plynou všechny účinky i NÚ.
+
+- **Kokain** — **hydrochlorid** (prášek, šňupání, i.v.) × **volná báze „crack"** (kouření, nejrychlejší nástup → ⚠️ **nejrychlejší vznik závislosti**).
+  - **Mechanismus — tři složky:** ① **blokáda zpětného vychytávání dopaminu a noradrenalinu** (euforie) ② **blokáda Na⁺ kanálů** (lokálně anestetický efekt) ③ agonismus σ-receptorů. Odtud i výrazná **vazokonstrikce**.
+  - ⚠️ **Komplikace:** hypertenze, **spazmus koronárních tepen → angina pectoris a infarkt i u mladého člověka**, komorové arytmie, **hemoragická CMP**, hypertermie, křeče, **formikace** (pocit hmyzu pod kůží), paranoidní psychóza. Chronicky ⚠️ **atrofie nosní sliznice, ztráta čichu, perforace nosní přepážky**. V graviditě potraty a malformace.
+  - ⚠️ **U kokainové intoxikace se nepodávají β-blokátory samotné** — nezablokovaná α-stimulace by tlak ještě zvedla; podávají se benzodiazepiny a vazodilatancia. `[doplněno]`
+- **Amfetaminy (a metamfetamin/pervitin)** — nepřímá sympatomimetika: **vytěsňují monoaminy z vezikul a blokují jejich vychytávání**. Účinky: euforie, sebedůvěra, pocit síly, nespavost, nechutenství; ⚠️ **amfetaminová psychóza připomíná paranoidní schizofrenii** (dopaminová teorie psychóz), hypertenze, arytmie, hypertermie, rhabdomyolýza a selhání ledvin, **neurotoxicita**.
+  - ⚠️ **Typ závislosti, který chtějí slyšet: mírná fyzická, ale silná psychická.** Odvykací stav je zrcadlem účinku: **dysforie, únava, spavost, hlad, deprese, bažení**.
+  - **Terapeuticky:** **metylfenidát** (ADHD), **modafinil** (narkolepsie), amfetamin (ADHD v zahraničí); ⚠️ **efedrin a pseudoefedrin jsou prekurzory pro výrobu pervitinu**.
+- ⚠️ **Pro tvou praxi:** stimulancia (hlavně **pervitin a MDMA**) způsobují **bruxismus, trismus a xerostomii** → typický obraz „**meth mouth**" — rychlá destrukce chrupu mnohočetnými kazy. `[obecné znalosti]`
+
+❓ *Proč amfetaminová psychóza připomíná schizofrenii?* → Obě stojí na **nadměrné dopaminergní aktivitě** v mezolimbické dráze.
+
+---
+
+## 110 · Nikotin
+
+**O čem to je:** alkaloid tabáku, **agonista nikotinových receptorů** — proto působí naráz v mozku, v gangliích i na ploténce.
+
+- **Mechanismus:** agonista **nikotinových (N) cholinergních receptorů** v CNS, v sympatických i parasympatických gangliích, ve dřeni nadledvin a na nervosvalové ploténce. ⚠️ **Receptory umí i desenzibilizovat („vyčerpat")** — proto jsou účinky smíšené a nepředvídatelné.
+- **Účinky:** tachykardie, ↑ tlak, vazokonstrikce, ↑ motilita GIT, ↑ sliny a bronchiální sekrece, výlev **adrenalinu** z nadledvin a **ADH** z hypofýzy, nauzea. **Nízká dávka na CNS:** euforie, bdělost, lepší pozornost a učení, potlačení chuti k jídlu. **Vysoká dávka:** ⚠️ **křeče, zvracení, zástava dechu.**
+- ⚠️ **Proč se musí „šlukovat":** kouř je **kyselý**, nikotin je v něm ionizovaný a ústní sliznicí se nevstřebá — musí se vdechnout do plic (kde je velká plocha a jiné pH). *(Naopak žvýkací tabák s alkalickým pH se vstřebává v ústech.)*
+- **Kinetika a závislost:** z cigarety se vstřebá **~1,5 mg**, smrtelná dávka **~40 mg**. Metabolit **kotinin** je spolehlivý **marker kouření**. Vzniká **fyzická i psychická závislost**; odvykací příznaky: podrážděnost, agresivita, nespavost, ↑ chuť k jídlu, bažení.
+- **Odvykání:** psychoterapie + **nikotinová substituce** (náplasti, žvýkačky, pastilky) · ⚠️ **vareniklin** — parciální agonista α4β2 receptoru (NÚ: nauzea, poruchy nálady) · **bupropion** (antidepresivum) · cytisin.
+- ⚠️ **Následky kouření:** přes 60 karcinogenů v kouři; **nádory plic, DUTINY ÚSTNÍ, hrtanu, slinivky a močového měchýře**; ateroskleróza (infarkt, CMP, ischemie končetin); ⚠️ **CHOPN vzniká prakticky jen u kuřáků**; vředová choroba; šedý zákal; neplodnost; **v ústech parodontitida, zpomalené hojení po extrakci (suché lůžko) a leukoplakie** `[doplněno]`. Kuřák žije v průměru **o 10 let kratší dobu**.
+
+❓ *Jaký marker prokáže kouření objektivně?* → **Kotinin** — metabolit nikotinu s dlouhým poločasem.
+
+---
+
+## 111 · Metylxantiny a jejich deriváty
+
+**O čem to je:** kofein a příbuzní — **dva mechanismy** vysvětlí naráz účinek na mozek, průdušky i ledviny.
+
+- 🔑 **Dva mechanismy:** ① **blokáda fosfodiesterázy → ↑ cAMP** ② **neselektivní antagonismus adenosinových receptorů**.
+- **Účinky:** **CNS** — potlačení únavy, ↑ soustředění (blokáda adenosinu, který normálně tlumí) · **průdušky** — **bronchodilatace** · **ledviny** — dilatace *vas afferens* a konstrikce *vas efferens* → ↑ filtrace, a blokádou adenosinu ↓ zpětné vstřebávání sodíku → **diuretický efekt** (na který ale rychle vzniká tolerance) · **srdce** — pozitivně inotropní a chronotropní.
+
+| Látka | Použití |
+|---|---|
+| **Kofein** | káva, čaj; stimulans, součást analgetických kombinací, apnoe nedonošených |
+| **Teofylin, aminofylin** | ⚠️ **bronchodilatancia u astmatu a CHOPN**; úzké terapeutické okno |
+| **Pentoxifylin** | zlepšuje tekutost krve — ischemická choroba dolních končetin |
+| **Etofylin** | poruchy prokrvení mozku |
+
+- ⚠️ **NÚ teofylinu (úzké terapeutické okno, nutné TDM):** nauzea, zvracení, **reflux** (uvolní jícnový svěrač), nespavost, třes, **tachyarytmie a křeče** při předávkování; hladinu zvyšují makrolidy, chinolony a jaterní selhání, snižuje ji kouření (indukce CYP1A2).
+- **Sildenafil, tadalafil (inhibitory PDE5)** — patří sem mechanismem: při vzrušení uvolněný **NO → ↑ cGMP**, a blokáda PDE5 brání jeho odbourání → **vazodilatace v kavernózních tělesech**. **Indikace: erektilní dysfunkce, plicní arteriální hypertenze.** NÚ: bolest hlavy, zrudnutí, poruchy barvocitu. ⚠️ **KI: nitráty (smrtelná hypotenze, viz otázka 71)**, těžká ICHS.
+
+❓ *Proč kofein „probouzí"?* → Blokuje **adenosinové receptory** — adenosin normálně během dne narůstá a útlumem neuronů navozuje únavu.
+
+---
+
+## 112 · Antirevmatika
+
+**O čem to je:** ⚠️ **NSA jen tlumí příznaky, DMARD zpomalují postup nemoci** — to je jádro otázky.
+
+- **Nesteroidní antirevmatika (NSA)** — analgetický, antipyretický a protizánětlivý efekt (viz otázka 64); ⚠️ **nemění průběh nemoci**, jen kloub „umlčí".
+- **DMARD** (*disease modifying antirheumatic drugs*) — tři definiční věty: ⓵ mechanismus často není přesně znám ⓶ ⚠️ **účinek nastupuje pomalu (týdny až měsíce), ale dlouhodobě přetrvává** ⓷ **zasahují do imunopatologického děje a zpomalují destrukci kloubu**.
+
+| Léčivo | Mechanismus a NÚ |
+|---|---|
+| ⚠️ **Metotrexát** | **lék první volby u revmatoidní artritidy** — antagonista kyseliny listové (v nízké dávce imunomodulační). NÚ: **hepatotoxicita, útlum dřeně, stomatitida a ulcerace v ústech**, plicní fibróza; ⚠️ **KI gravidita**; přidává se **kyselina listová** |
+| **Sulfasalazin** | sulfonamid + salicylát, uvolní se až v tlustém střevě; RA i střevní záněty. NÚ: GIT potíže, leukopenie, oligospermie |
+| **Leflunomid** | blokuje syntézu pyrimidinů v lymfocytech; dlouhý poločas, hepatotoxicita, teratogenita |
+| **Antimalarika** (hydroxychlorochin) | mírná forma RA a **systémový lupus**. ⚠️ NÚ: **retinopatie** (oční kontroly) |
+| **Soli zlata** (aurothiomalát), **penicilamin** | dnes historické — ⚠️ **nástup až po měsících**, toxické (dřeň, ledviny, kůže, **stomatitida**) |
+| **Glukokortikoidy** | rychlé zklidnění zánětu jako „most", než zaberou DMARD; ⚠️ ne dlouhodobě |
+
+- **Biologické DMARD (viz O35 a 62):** ⚠️ **anti-TNF-α — infliximab, adalimumab, etanercept, golimumab** (RA, psoriatická artritida, Bechtěrev, Crohn) · **anti-IL-1 anakinra, kanakinumab** · **anti-IL-6 tocilizumab** · **anti-CD20 rituximab** · **abatacept**. ⚠️ **Před nasazením screening TBC a hepatitid, živé vakcíny kontraindikované.** Novější **inhibitory JAK** (tofacitinib) — perorální „cílené" DMARD.
+- **Koncovky protilátek:** **-ximab** chimérická · **-zumab** humanizovaná · **-mumab** plně humánní (viz O35).
+- **Derivancia** — lokální přípravky s kafrem a mentolem: hyperemizují, urychlí vstřebání otoku; jen doplněk.
+
+❓ *Proč se u revmatoidní artritidy nasazuje DMARD hned, i když bolest tlumí NSA?* → NSA **nezabrání destrukci kloubu** — poškození postupuje dál, DMARD ho zpomalí.
+
+---
+
+## 113 · Antiuratika
+
+**O čem to je:** dna — ⚠️ **klíčové je nezaměnit léčbu akutního záchvatu a dlouhodobou prevenci**.
+
+- **Hyperurikemie** vzniká ① genetickou poruchou metabolismu purinů ② **nadměrným rozpadem nukleotidů** (nádory, cytostatika — syndrom nádorového rozpadu) ③ **sníženým vylučováním ledvinami** (diuretika, alkohol, renální insuficience). Urát krystalizuje v kloubu → prudký zánět (**typicky palec u nohy**), dlouhodobě tofy a poškození ledvin.
+- **Cíle léčby:** ① zvládnout akutní záchvat ② předejít dalším atakám ③ upravit hyperurikemii mezi atakami ④ ⚠️ **udržet kyselinu močovou pod 360 μmol/l**.
+- **Akutní záchvat:** **NSA** (první volba; ⚠️ **ne kyselina acetylsalicylová — v nízké dávce urikemii zvyšuje**) · ⚠️ **kolchicin** — **mitotický jed, blokuje tvorbu mikrotubulů → zabrání migraci leukocytů do kloubu**; NÚ **profuzní průjmy**, ve vysoké dávce dřeňový útlum · **glukokortikoidy** systémově nebo do kloubu, když nelze NSA.
+- **Dlouhodobá léčba (mezi záchvaty):** ⚠️ **alopurinol — inhibitor xantinoxidázy** (enzymu měnícího puriny na kyselinu močovou); **febuxostat** tamtéž. NÚ alopurinolu: vyrážka až ⚠️ **závažné kožní reakce (SJS/TEN)**, interakce s **azathioprinem** (jeho hladina prudce stoupne). **Urikosurika: probenecid** — blokuje zpětné vstřebávání urátu v tubulu (⚠️ tentýž probenecid prodlužuje hladiny penicilinu), **lesinurad** (blokátor URAT1) v kombinaci s alopurinolem.
+- ⚠️ **Klasická past: alopurinol se NIKDY nenasazuje během akutního záchvatu** — prudká změna urikemie záchvat zhorší a prodlouží; nasazuje se až po odeznění, pod clonou kolchicinu nebo NSA. Pokud ho pacient už bere, **nevysazuje se**.
+- **Režim:** omezit puriny (vnitřnosti, uzeniny, mořské plody), **alkohol (hlavně pivo)** a fruktózu, redukovat hmotnost, dostatek tekutin.
+
+❓ *Proč se alopurinol nesmí nasadit v akutním záchvatu?* → Náhlý pokles urikemie **rozpustí krystaly a záchvat zhorší** — začíná se až po odeznění, s profylaxí kolchicinem.
+
+---
