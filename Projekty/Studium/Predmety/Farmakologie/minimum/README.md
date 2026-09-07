@@ -6,9 +6,9 @@
 
 ## 🚨 KRIZOVÝ REŽIM (2026-09-07, zbývají 2 dny) — `ZAKLAD-KE-ZKOUSCE.pdf` = TOP SOUBOR
 
-**Tohle je JEDINÝ soubor, který stačí otevřít.** Je to plná vysvětlená vrstva (stejný text jako `VYPISKY-KOMPLET`, jen bez doplňkových "Doptají se" otázek) — u každé ze 136 otázek **O čem to je** (lidsky) → vysvětlený odborný text (žádná tabulka bez vysvětlení) → 🔑 → ⚠️. **159 stran.**
+**Tohle je JEDINÝ soubor, který stačí otevřít.** Je to plná vysvětlená vrstva, obsahově totožná s `VYPISKY-KOMPLET` — u každé ze 136 otázek **O čem to je** (lidsky) → vysvětlený odborný text (žádná tabulka bez vysvětlení) → 🔑 → ⚠️ → ❓ **Doptají se**. **175 stran.**
 
-⚠️ **Historie:** první dvě verze tohoto souboru byly moc zkrácené na hesla/fakta bez vysvětlení — Tessa řekla, že jim po přečtení nerozumí. Zkracování na sílu ztrácelo přesně to, co dělá text pochopitelným. Řešení: nekrátit dál, ale vzít rovnou plně vysvětlenou vrstvu (`VYPISKY-KOMPLET`) a jen z ní vynechat nadstavbové "Doptají se". Delší soubor, ale skutečně srozumitelný napoprvé.
+⚠️ **Historie:** první dvě verze tohoto souboru byly moc zkrácené na hesla/fakta bez vysvětlení — Tessa řekla, že jim po přečtení nerozumí. Zkracování na sílu ztrácelo přesně to, co dělá text pochopitelným. Třetí verze vypustila "Doptají se" pro úsporu místa (159 str.) — Tessa řekla, ať to tam nechám. **Finální verze = plný `VYPISKY-KOMPLET` beze změny, jen přejmenovaný a se zaváděcím plánem na 2 dny navrch.**
 
 ---
 

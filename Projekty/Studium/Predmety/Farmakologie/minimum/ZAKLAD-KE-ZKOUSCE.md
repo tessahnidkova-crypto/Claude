@@ -1,15 +1,15 @@
 # FARMAKOLOGIE — TOP SOUBOR KE ZKOUŠCE (9. 9. 2026)
 
-**Tohle je JEDINÝ soubor, který k učení potřebuješ.** Je to tvá plná, ověřená vrstva (dřív `VYPISKY-KOMPLET`) — u každé ze 136 otázek nejdřív **O čem to je** (lidsky, bez žargonu), pak vysvětlený odborný text (žádná tabulka není bez vysvětlení, žádný výčet bez důvodu), 🔑 věta k zapamatování, ⚠️ past, na kterou se nejčastěji chytají. Nic nemusíš dohledávat jinde.
+**Tohle je JEDINÝ soubor, který k učení potřebuješ.** Je to tvá plná, ověřená vrstva (dřív `VYPISKY-KOMPLET`) — u každé ze 136 otázek nejdřív **O čem to je** (lidsky, bez žargonu), pak vysvětlený odborný text (žádná tabulka není bez vysvětlení, žádný výčet bez důvodu), 🔑 věta k zapamatování, ⚠️ past, na kterou se nejčastěji chytají, a ❓ **Doptají se** — typické navazující otázky zkoušejícího i s odpověďmi. Nic nemusíš dohledávat jinde.
 
-**Realita:** má to 136 stran hutného textu — tolik potřebuje 136 samostatných otázek, aby ses po přečtení každé cítila, že tomu rozumíš, ne že sis jen podtrhla fakta. Kratší verze tohle nedokázala splnit, tak jsem se k ní vrátila.
+**Realita:** má to přes 170 stran hutného textu — tolik potřebuje 136 samostatných otázek se vším, aby ses po přečtení každé cítila, že tomu rozumíš, ne že sis jen podtrhla fakta.
 
 **Jak to zvládnout za 2 dny (dnes + zítra):**
 - **Dnes:** Část 1 (Obecná, O1–O35) + Část 2 (Speciální I, 36–88) — začni tam, kde jsi teď (byla jsi u otázky 22, takže O1–O22 bude z větší části opakování, půjde rychleji).
-- **Zítra:** Část 3 (Speciální II, 89–136) dopoledne, odpoledne/večer **rychlé druhé projetí celého souboru** — čti jen 🔑 a ⚠️ u otázek, které sis dopředu označila jako nejisté.
-- **Ke každé otázce:** přečti **O čem to je** + odborný text, zavři oči, zkus to **nahlas vysvětlit vlastními slovy** (Feynmanova technika) — teprve pak dál. Nečti to jako plynulý text na jedno posezení, dělej si po částech pauzy.
+- **Zítra:** Část 3 (Speciální II, 89–136) dopoledne, odpoledne/večer **rychlé druhé projetí celého souboru** — čti jen 🔑, ⚠️ a ❓ Doptají se u otázek, které sis dopředu označila jako nejisté.
+- **Ke každé otázce:** přečti **O čem to je** + odborný text, zavři oči, zkus to **nahlas vysvětlit vlastními slovy** (Feynmanova technika) — teprve pak se podívej na ❓ Doptají se a zkontroluj, co by tě u zkoušky ještě dostihlo. Nečti to jako plynulý text na jedno posezení, dělej si po částech pauzy.
 
-🔑 = věta k zapamatování · ⚠️ = past, na kterou se nejčastěji chytají
+🔑 = věta k zapamatování · ⚠️ = past, na kterou se nejčastěji chytají · ❓ = doptají se
 
 ---
 
@@ -110,6 +110,12 @@ Podle vztahu k lékopisu se léčiva dělí na:
 - **syntetická** — vyrobená chemickou syntézou (aspirin),
 - **biotechnologická** — vyrobená pomocí živých organismů/buněčných kultur (inzulin, monoklonální protilátky) — dnes rostoucí a stále významnější skupina.
 
+❓ **Doptají se:**
+- *Co je ve tabulce II a proč se značí jinak než tabulka III?* → Venena (tab. II) jsou **vysoce toxické** látky (černý štítek, bílé písmo, uzamčená skříň), separanda (tab. III) jsou jen **silně účinné/žíravé** (bílý štítek, červené písmo, oddělené skladování) — tabulka II je přísnější.
+- *Čím se liší generikum od originálu?* → Stejná látka, množství, forma i účinnost — liší se **jen pomocnými látkami**; stačí prokázat bioekvivalenci.
+- *Je off-label použití legální?* → Ano, není to non-lege-artis postup, jen se s tím musí pacient seznámit.
+- *Co je farmakovigilance?* → Sledování nežádoucích účinků léčiv **po** jejich uvedení na trh.
+
 ---
 
 ## O2 · Legislativa, doplňky stravy, zdravotnické prostředky, regulační orgány
@@ -147,6 +153,12 @@ Naopak reklama **musí**:
 - **SÚKL** (Státní ústav pro kontrolu léčiv, ČR) — stanovuje ceny a úhrady léčiv, registruje léčivé přípravky, spravuje centrální úložiště eReceptů, sleduje bezpečnost léčiv (farmakovigilance), dozoruje pohyb léčiv na trhu a má informační/publikační činnost.
 - **EMA** (European Medicines Agency) — evropská léková agentura; vznikla, aby usnadnila a zlevnila schvalování léčiv napříč EU a zabránila tomu, aby jednotlivé státy zvýhodňovaly vlastní firmy (protekcionismus). Hodnotí žádosti o registraci, sleduje bezpečnost a informuje zdravotníky i pacienty napříč celou unií.
 - **FDA** (Food and Drug Administration) — vládní agentura **USA**; zodpovídá za kontrolu a regulaci léčiv, potravin, kosmetiky i lékařských přístrojů ve Spojených státech. *(Není evropský ani český orgán — u zkoušky se to plete s EMA/SÚKL.)*
+
+❓ **Doptají se:**
+- *Smí se dělat reklama na antibiotikum vázané na předpis?* → **Ne**, směrem k veřejnosti je to zakázáno, jen léky bez předpisu (OTC) se smí propagovat.
+- *Může doplněk stravy tvrdit, že "posiluje imunitu"?* → Ano (schválené zdravotní tvrzení), ale **nesmí tvrdit, že léčí konkrétní nemoc**.
+- *Co dělá zdravotnický prostředek jinak než lék?* → **Působí fyzikálně**, ne farmakologicky/imunologicky/metabolicky.
+- *Kdo spravuje eRecept v ČR?* → **SÚKL.**
 
 ---
 
@@ -193,6 +205,11 @@ Naopak reklama **musí**:
 **Pomocné nástroje k předepisování** *(stručně, spíš pro přehled)*: **AISLP** je databáze všech LP registrovaných v ČR/SR s SPC, PIL a cenami; **BREVÍŘ** jsou zkrácené informace o LP řazené abecedně; **lékový záznam** eviduje všechny předepsané a vydané eRecepty pacienta (lékař vidí 5 let zpět, farmaceut 1 rok), aby se předešlo duplicitní medikaci a nežádoucím kombinacím — je to **opt-out systém** (pacient z něj musí aktivně vystoupit, pokud nechce, aby existoval).
 
 ⚠️ **Recepty na omamné a psychotropní látky (modrý pruh) se nikdy nesmí opakovat** — na rozdíl od běžného opakovacího receptu.
+
+❓ **Doptají se:**
+- *Co je Rp.?* → zkratka latinského *recipe* = "vezmi" — proto se položky na receptu píšou ve 4. pádě.
+- *Kolik smí trvat platnost běžného eReceptu?* → **14 dní**, není-li určeno jinak, max. 1 rok.
+- *Kdy se ještě smí použít listinný recept?* → u rodinných příslušníků lékaře, v klinickém hodnocení, v zahraničí, u záchranky, při výpadku systému — **nikdy pro konopí**.
 
 ---
 
@@ -243,6 +260,12 @@ Po registraci léčiva SÚKL posoudí dokumentaci o bezpečnosti, účinnosti a 
 - **Informovaný souhlas** — dobrovolný souhlas účastníka po vysvětlení všech aspektů studie včetně odškodnění při poškození zdraví.
 - **Etická komise** — nezávislá na státu, zařízení i zadavateli; tvořená zdravotníky i laiky; **nehodnotí odbornou správnost dat**, jen etickou stránku (poměr přínosu a rizika). Vychází z **Helsinské deklarace**.
 
+❓ **Doptají se:**
+- *Co je LD50 a ED50?* → LD50 usmrtí polovinu zvířat, ED50 vyvolá žádaný účinek u poloviny jedinců — z jejich poměru se počítá terapeutický index.
+- *Kdy se poprvé hodnotí účinnost léku, ne jen bezpečnost?* → Až ve **fázi II** — fáze I zkoumá jen bezpečnost a snášenlivost.
+- *Co znamená dvojitě zaslepená studie?* → Ani pacient, ani hodnotící lékař neví, do jaké skupiny (lék/placebo) byl pacient zařazen.
+- *Kdo schvaluje klinické hodnocení v ČR?* → **SÚKL** spolu s **etickou komisí**.
+
 ---
 
 ## O5 · Způsoby aplikace léčiv, výhody a nevýhody
@@ -273,6 +296,11 @@ Výhody prodlouženého uvolňování: **menší výkyvy hladiny léku v krvi** 
 - **plynné** — inhalanda.
 
 🔑 **Čím vyšší generace, tím "chytřejší" cílení — I. generace zaplaví celé tělo najednou, III. generace míří přímo na receptor.**
+
+❓ **Doptají se:**
+- *Proč se retardety nesmí drtit?* → Rozdrcením se zničí membrána/matrice, která řídí uvolňování — celá dávka by se uvolnila najednou a hrozilo by předávkování.
+- *Jaký je rozdíl mezi pasivním a aktivním targetingem?* → Pasivní využívá přirozeného hromadění látky v tkáni (cytostatika), aktivní cíleně najde konkrétní receptor (monoklonální protilátky).
+- *Co znamená bílá/červená signatura na receptu?* → Bílá = vnitřní užití, červená = vnější užití.
 
 ---
 
@@ -325,6 +353,10 @@ Hodí se hlavně pro pacienty se špatným polykáním, děti do 6 let (flexibil
 
 🔑 **Sublingvální/mukoadhezivní podání obchází first-pass efekt stejně jako injekce — proto nitroglycerin nikdy nepolykáš, dáváš si ho pod jazyk.**
 
+❓ **Doptají se:**
+- *Proč se enterosolventní tableta nesmí rozkousat?* → Ztratila by ochranu proti žaludeční kyselině a léčivo by se zničilo/dráždilo žaludek dřív, než mělo.
+- *Jak funguje sublingvální podání u nitroglycerinu?* → Vstřebá se přímo sliznicí do krve, **obejde játra i first-pass efekt** → rychlý nástup.
+
 ---
 
 ## O7 · Lékové formy — parenterální a dermatologika
@@ -371,6 +403,11 @@ Volba typu přípravku se řídí **stavem kůže**: na **mokvající** místa p
 - **Výhody:** snadná aplikace, obchází first-pass efekt, stabilní hladina v krvi, možnost rychle přerušit (sundáním).
 - **Nevýhody:** nehodí se pro léčiva vyžadující vysokou hladinu, různá přilnavost ke kůži, může dráždit/senzibilizovat, cena.
 
+❓ **Doptají se:**
+- *Proč se suspenze nikdy nepodává i.v.?* → Hrozí ucpání/embolizace cévy pevnými částicemi — i.v. smí jen čirý roztok.
+- *Kdy zvolíš i.m. místo i.v.?* → Když je i.v. nebezpečné (adrenalin u anafylaxe) nebo technicky nemožné (agresivní pacient, křeče).
+- *Kdy se u transdermální náplasti smí stříhat?* → Jen když to výslovně dovolí SPC — jinak nikdy.
+
 ---
 
 ## O8 · Lékové formy — oční, ušní, nosní, rektalia, vaginalia a inhalanda
@@ -404,6 +441,11 @@ Kvalitativní požadavky: sterilita, izotonicita, **pH kolem 7–9** (bezbolestn
 - **Medicinální plyny** — v tlakových lahvích, barevně značené: **bílá = kyslík, světle modrá = oxid dusný (rajský plyn), hnědá = helium.**
 
 🔑 **Každá "díra" v těle má svá pravidla:** oko potřebuje izotonii a pH blízké slzám, nos má jen 20 minut, než ho řasinky vyčistí, rektum obchází first-pass jen zpola.
+
+❓ **Doptají se:**
+- *Proč se po nakapání oční kapky tlačí koutek oka?* → Aby kapka neodtekla slzným kanálkem a nevstřebala se zbytečně jinde — zůstane déle v oku.
+- *Jakou barvu má lahev s kyslíkem?* → **Bílou.**
+- *Kolik z rektálně podaného léčiva obejde first-pass efekt?* → Přibližně **50 %**.
 
 ---
 
@@ -439,6 +481,11 @@ Kvalitativní požadavky: sterilita, izotonicita, **pH kolem 7–9** (bezbolestn
 
 ⚠️ Placebo/nocebo efekt **není "jen v hlavě" v tom smyslu, že by nebyl skutečný** — měřitelně mění fyziologii (vnímání bolesti, hladinu stresových hormonů). To je důvod, proč se ve studiích musí srovnávat proti placebu, ne jen sledovat, jestli se pacientovi "zdá" lépe.
 
+❓ **Doptají se:**
+- *Proč se dnes preferuje slovo adherence před compliance?* → Zdůrazňuje aktivní roli a spoluzodpovědnost pacienta, ne jen poslušnost.
+- *Funguje placebo u všech nemocí stejně?* → Ne — dobře u subjektivních potíží (bolest, deprese), málo tam, kde je objektivně nízká šance na zlepšení.
+- *Co je nocebo v širším smyslu?* → I situace, kdy očekávaný účinek léku nenastane a místo toho se objeví nežádoucí účinky.
+
 ---
 
 ## O10 · Přechod látek biologickými membránami — pasivní a specializovaný
@@ -473,6 +520,11 @@ Kvalitativní požadavky: sterilita, izotonicita, **pH kolem 7–9** (bezbolestn
 - **Vnitřní bariéry s "bariérovou funkcí"** — těsné mezibuněčné spoje bez pórů: **hematoencefalická, hematolikvorová, placentární a testikulární bariéra**. Tady projdou polární látky jen s pomocí přenašečů, makromolekuly vezikulárním transportem, a **snadno projdou jen lipofilní léčiva**.
 - **Cytoplazmatická membrána buňky** — velmi malé póry (< 1 nm), difuzí projdou jen drobné hydrofilní molekuly (voda, etanol, lithium); větší nebo nabité látky potřebují transportér.
 
+❓ **Doptají se:**
+- *Který transportní mechanismus jako jediný jde proti koncentračnímu spádu?* → **Aktivní transport** (potřebuje ATP).
+- *Proč lék dobře rozpustný ve vodě špatně proniká do mozku?* → Hematoencefalická bariéra má těsné spoje bez pórů — projdou hlavně **lipofilní** látky, hydrofilní potřebují přenašeč.
+- *Co znamená, že difuze "není saturovatelná"?* → I při vysoké koncentraci se rychlost přestupu dál úměrně zvyšuje — na rozdíl od transportu přenašečem, který se dá "zahltit".
+
 ---
 
 ## O11 · Základní farmakokinetické parametry a procesy
@@ -496,6 +548,10 @@ Rychlost a rozsah těchto dějů závisí na vlastnostech biologických membrán
 | volná frakce léčiva v plazmě | **fu** | bezrozměrná | kolik léčiva NENÍ navázané na bílkoviny (jen volná frakce je účinná) |
 
 🔑 **Prakticky se pro výpočet dávkování stačí měřit koncentrace léčiva v krevní plazmě** — koncentrace v krvi je v rovnováze s koncentrací ve tkáních, a její změny v čase odrážejí souhrnný výsledek všech čtyř ADME dějů najednou.
+
+❓ **Doptají se:**
+- *Co znamená Vd?* → Zdánlivý (ne skutečný fyzický) objem, do kterého by se muselo léčivo rozpustit, aby vysvětlilo naměřenou koncentraci v krvi — velké Vd znamená, že léčivo je hlavně ve tkáních, ne v krvi.
+- *Co je clearance?* → Objem plazmy (nebo krve), který se za jednotku času "vyčistí" od léčiva úplně.
 
 ---
 
@@ -526,6 +582,11 @@ Rychlost a rozsah těchto dějů závisí na vlastnostech biologických membrán
 ⚠️ **Léčiva, u kterých se v terapeutických dávkách reálně objevuje kinetika 0. řádu:** **salicyláty (kyselina acetylsalicylová), teofylin, omeprazol, etanol.** Tahle čtyři jména se ptají skoro vždy.
 
 **Saturační (Michaelis–Mentenová) kinetika** — spojuje obojí: je to jev omezený na malý okruh látek (právě těch čtyř výše), kde existuje **maximální rychlost eliminace (vmax)** — po vyčerpání (saturaci) enzymů se přidáním dalšího substrátu rychlost eliminace už nezvýší. **Při nízké koncentraci v plazmě se látka chová podle kinetiky 1. řádu, při vysoké koncentraci (blízko vmax) přechází na kinetiku 0. řádu.** Právě tahle změna chování je nebezpečná — malý nárůst dávky u vysoké výchozí koncentrace vede k neúměrnému skoku hladiny v krvi.
+
+❓ **Doptají se:**
+- *Proč je nebezpečné předávkování etanolem nebo teofylinem?* → Mají kinetiku 0. řádu (respektive Michaelisovu-Mentenovou blízko saturaci) — malé zvýšení dávky vede k neúměrně velkému nárůstu koncentrace v krvi.
+- *Kolik procent léčiva zbývá po 3 poločasech?* → **12,5 %.**
+- *Co znamená, že je enzym "saturovaný"?* → Je vyčerpaný (obsazený) substrátem natolik, že další přidaný substrát se už neodbourá rychleji — rychlost eliminace dosáhla svého stropu (vmax).
 
 ---
 
@@ -589,6 +650,11 @@ Popisuje **časový průběh koncentrace léčiva v plazmě po mimožilním (ext
 
 🔑 **F = 1 jen u i.v.** Všechny ostatní cesty ztrácejí část dávky absorpcí a/nebo first-pass efektem — proto se stejný lék podává perorálně ve vyšší dávce než nitrožilně.
 
+❓ **Doptají se:**
+- *Proč se slabé kyseliny lépe vstřebávají v žaludku a slabé zásady ve střevě?* → V kyselém prostředí žaludku kyseliny nedisociují (jsou v neionizované, vstřebatelné formě), zásady tam naopak disociují; ve střevě je to obráceně.
+- *Co znamená, že AUC se u vyššího Vd nemění?* → Vd ovlivňuje jen to, jak rychle koncentrace klesá a jak vysoký je vrchol — ne celkové množství léčiva, které se do těla dostalo.
+- *Která cesta má nejrychlejší nástup účinku?* → **Inhalační a i.v.** (sekundy až ~2 minuty), sublingvální těsně za nimi.
+
 ---
 
 ## O14 · Distribuce léčiv, distribuční objem, vazba léčiv na plazmatické bílkoviny, bariéry v organismu
@@ -650,6 +716,11 @@ Důležitá hlavně pro **lipofilní, ve vodě špatně rozpustné** látky. Vaz
 - **prodloužená eliminace** — ledviny filtrují jen volnou frakci (vázaná se do primární moči nedostane); jaterní eliminace je vazbou ovlivněná méně, ale liší se lék od léku (propranolol má volnou frakci jen 10 %, ale játra ho přesto eliminují z > 90 % — vazba mu eliminaci neomezuje; u **warfarinu** je to naopak — jeho pomalá jaterní eliminace přesně odpovídá jeho velmi nízké volné frakci, jen 1 %),
 - **lékové interakce vytěsněním** — dvě léčiva soupeří o stejné vazebné místo; klasický a nebezpečný příklad: **salicyláty nebo sulfonamidy vytěsní warfarin** z vazby na albumin → prudký nárůst volného (účinného) warfarinu → **riziko krvácení**.
 
+❓ **Doptají se:**
+- *Proč je vysoké Vd problém při otravě?* → Léčivo je hlavně ve tkáních, ne v krvi — hemodialýza (čistí jen krev) na něj nezabírá.
+- *Co se stane, když vytěsníš warfarin z vazby na albumin?* → Prudce stoupne volná (účinná) frakce → riziko krvácení.
+- *Proč se propustnost HEB při zánětu zvyšuje?* → Poškodí se těsné spoje endotelu — využívá se to terapeuticky u meningitidy (cefalosporiny se dostanou líp do mozku).
+
 ---
 
 ## O15 · Eliminace, poločas eliminace (fáze α a β), eliminační konstanta, clearance
@@ -686,6 +757,10 @@ Pro eliminaci ze systémového oběhu jsou rozhodující **jaterní clearance (C
 
 **Využití biologického poločasu:** umožňuje odhadnout, za jak dlouho se léčivo z těla vyloučí (nebo klesne na nižší koncentraci po vysazení), a taky za jak dlouho se při pravidelném podávání ustálí **steady state** koncentrace v plazmě. 🔑 **Čas do dosažení steady state závisí JEN na t½ — ne na cestě podání ani rychlosti podávání.** Za 5 poločasů dosáhne koncentrace 97 % ustálené hodnoty. Platí i obráceně: **čím delší t½ a čím kratší interval mezi dávkami, tím větší kumulace léčiva.**
 
+❓ **Doptají se:**
+- *Co znamená, že clearance je nižší než průtok krve orgánem?* → Orgán neodstraní léčivo ze 100 % krve, která jím proteče, jen z její části.
+- *Na čem závisí, za jak dlouho se ustálí steady state?* → **Pouze na biologickém poločasu (t½)**, ne na dávce, cestě podání ani rychlosti infuze.
+
 ---
 
 ## O16 · Dávkovací režim, plynulé a intermitentní podávání léčiv, kumulace léčiv, kumulační index
@@ -719,6 +794,11 @@ Poměr mezi dávkovacím intervalem (τ) a poločasem (t½) předpovídá míru 
 **Při kinetice 1. řádu** (většina léčiv) se s růstem koncentrace úměrně zvyšuje i rychlost eliminace, takže se v intervalu mezi dávkami vyeliminuje čím dál větší část podané dávky — až se ustálí stav, kdy se **za jeden interval vyeliminuje přesně tolik, kolik se podá jednou dávkou**. V ustáleném stavu pak koncentrace pravidelně kolísá mezi **vrcholovou (maximální)** a **údolní (minimální)** hodnotou.
 
 **Při kinetice 0. řádu** (saturační — viz O12) je situace nebezpečnější: ustálená koncentrace **není přímo úměrná** rychlosti dávkování, protože rychlost eliminace se po saturaci enzymů dál nezvyšuje. Konstanta **Km** určuje, při jaké koncentraci saturace nastane (je individuálně proměnlivá), a existuje **maximální rychlost eliminace (Vmax)**, která se mezi pacienty výrazně liší. ⚠️ **Rychlost dávkování nesmí překročit Vmax** — jinak se koncentrace bude neustále zvyšovat bez ustálení a dojde k **intoxikaci**.
+
+❓ **Doptají se:**
+- *Kdy hrozí u opakovaného podávání nejvíc kumulace?* → Když je interval mezi dávkami **kratší** než biologický poločas léčiva.
+- *Proč je nebezpečné dávkovat léčivo s kinetikou 0. řádu (např. teofylin) rychleji, než stíhá eliminace?* → Rychlost eliminace má strop (Vmax) — po jeho překročení koncentrace neustále roste a nikdy se neustálí → intoxikace.
+- *Na čem závisí ustálená koncentrace při kontinuální infuzi?* → Css = Rinf / CL (rychlost infuze dělená clearance).
 
 ---
 
@@ -776,6 +856,10 @@ Spojení (konjugace) léčiva nebo jeho metabolitu s endogenní (tělu vlastní)
 
 🔑 **Fáze I = úprava molekuly (často oxidace). Fáze II = "přilepení" vodorozpustné skupiny, aby šlo léčivo ven.** Léčivo nemusí projít oběma fázemi — někdy jen jednou, někdy ani jednou (viz lithium).
 
+❓ **Doptají se:**
+- *Co je proléčivo a jaký je klasický příklad?* → Léčivo, které je samo neúčinné a účinným se stává až po metabolizaci; příklad kodein → morfin.
+- *Proč je paracetamol nebezpečný ve vysoké dávce?* → Jeho toxický metabolit se váže na bílkoviny (v ledvinách/játrech) — nefro/hepatotoxicita.
+
 ---
 
 ## O18 · Úloha jater v eliminaci léčiv, first-pass efekt
@@ -794,6 +878,10 @@ Transport probíhá pasivní difuzí (u lipofilních látek) i aktivním transpo
 - **Transport přes žlučový pól** — látky se dostanou do žlučovodů, vrátí se do duodena a tenkého střeva — odtud se mohou vracet zpět **enterohepatální cirkulací** (viz O20).
 
 🔑 **First-pass efekt je důvod, proč se stejná látka podává perorálně v mnohem vyšší dávce než nitrožilně** — velká část se ztratí hned při prvním průchodu játry.
+
+❓ **Doptají se:**
+- *Proč se nitroglycerin dává pod jazyk, ne polyká?* → Má vysoký first-pass efekt — sublingválně obchází játra a jde přímo do krve.
+- *Co je morfin-6-glukuronid a proč je nebezpečný u selhání ledvin?* → Aktivní metabolit morfinu vylučovaný ledvinami — při jejich selhání se kumuluje a prodlužuje útlum dýchání.
 
 ---
 
@@ -830,6 +918,11 @@ Jedno léčivo **zvýší aktivitu** enzymu, který metabolizuje i léčivo druh
 🔑 **Inhibice zvedá hladinu (riziko toxicity), indukce ji snižuje (riziko selhání léčby)** — obojí je nebezpečné, jen jinak.
 
 **Co ovlivňuje biotransformaci obecně:** genetická predispozice, věk, onemocnění eliminačních orgánů.
+
+❓ **Doptají se:**
+- *Proč je nebezpečná kombinace statinu s grapefruitovou šťávou nebo itrakonazolem?* → Oba inhibují CYP3A4 → prudce stoupne hladina statinu → riziko rabdomyolýzy.
+- *Proč třezalka snižuje účinek antikoncepce a warfarinu?* → Indukuje jaterní enzymy (CYP3A4/2C19), které tato léčiva odbourávají rychleji.
+- *Co je autoindukce?* → Léčivo indukuje enzym, který metabolizuje samo sebe — vede to k toleranci (klesajícímu účinku stejné dávky v čase).
 
 ---
 
@@ -873,6 +966,11 @@ Látka přejde z krve přes sinusoidální a luminální membránu hepatocytu a 
 **Enterohepatální cirkulaci lze cíleně přerušit aktivním uhlím** podaným do střeva — klasický a důležitý příklad: **aktivní uhlí přeruší enterohepatální cirkulaci α-amanitinu (toxin z muchomůrky zelené)** a tím sníží jeho toxicitu.
 
 🔑 **Kyselá moč zadrží zásadité léky, alkalická moč zadrží kyselé léky** — proto se u otravy salicyláty (kyselina) moč zalkalizuje, aby se rychleji vyloučily.
+
+❓ **Doptají se:**
+- *Jak se urychlí vyloučení salicylátů při otravě?* → **Alkalizací moči** (hydrogenuhličitanem) — kyselina se v alkalické moči ionizuje a nereabsorbuje se zpět.
+- *Co dělá aktivní uhlí u otravy muchomůrkou zelenou?* → Přerušuje enterohepatální cirkulaci toxinu (α-amanitinu), takže se nevstřebává znovu a rychleji se z těla vyloučí.
+- *Proč léčivo vázané na plazmatické bílkoviny neprojde glomerulární filtrací?* → Komplex léčivo-bílkovina je moc velký na to, aby prošel filtračními póry.
 
 ---
 
@@ -923,6 +1021,10 @@ Látka přejde z krve přes sinusoidální a luminální membránu hepatocytu a 
 
 🔑 **Receptor je normálně tam pro endogenní (tělu vlastní) ligand — léčivo (xenobiotikum) jen "napodobí" tuto vazbu a vyvolá stejnou nebo blokovanou odpověď.**
 
+❓ **Doptají se:**
+- *Jaký je rozdíl mezi kompetitivním a nekompetitivním antagonistou?* → Kompetitivní jde přemoct vyšší dávkou agonisty (soutěží o stejné místo), nekompetitivní ne (jiné místo nebo nevratná vazba).
+- *Co je excitace a čím se liší od stimulace?* → Excitace je zvýšení funkce **nad** fyziologické meze, stimulace jen **v rámci** nich.
+
 ---
 
 ## O22 · Specifický účinek léčiv — cílové struktury, receptorová teorie, typy receptorů
@@ -969,6 +1071,12 @@ Látka přejde z krve přes sinusoidální a luminální membránu hepatocytu a 
 **Transportní proteiny** jako cíl — léčivo inhibuje přenašeč a tím sníží transport endogenní látky: antidepresiva/antipsychotika (inhibice zpětného vychytávání katecholaminů), **kardioglykosidy** (blokují Na⁺/K⁺-ATPázu v srdci), **thiazidy** (Na⁺/Cl⁻ kotransportér), **kličková diuretika** (Na⁺/K⁺/2Cl⁻ kotransportér).
 
 **Receptorová heterogenita** — receptory se dělí na typy, podtypy a izoformy; jejich variabilita se dál zvyšuje skládáním do dimerů/oligomerů a genovými mutacemi — to může být i příčinou některých nemocí.
+
+❓ **Doptají se:**
+- *Jaký typ receptoru má nejrychlejší nástup účinku a proč?* → **Ionotropní** — receptor JE zároveň iontový kanál, žádný mezikrok navíc.
+- *Proč nitroglycerin rozšiřuje cévy?* → Uvolňuje NO, který aktivuje guanylátcyklázu → cGMP → myorelaxace hladkého svalu cévy.
+- *Proč sarin nejde léčit "vypláchnutím" enzymu?* → Váže se ireverzibilně (kovalentně) na acetylcholinesterázu; po stabilizaci vazby ("zestárnutí") ji nejde obnovit ani antidotem.
+- *Proč kortikoidy nezaberou okamžitě?* → Jsou to ligandy jaderných receptorů řídících transkripci — účinek závisí na syntéze nových bílkovin, trvá hodiny až dny.
 
 ---
 
@@ -1018,6 +1126,11 @@ Ze stejného principu se dá získat kvantální křivka i pro **toxický** úč
 
 **Agonisté podle vztahu k receptoru** (doplnění k O21–22): plný/parciální agonista posouvá rovnováhu receptoru ve prospěch **aktivní konformace (R\*)** a zvyšuje účinek nad bazální úroveň; **inverzní agonista** se váže na **neaktivní konformaci (R)** a účinek naopak **sníží pod** bazální úroveň; **neutrální antagonista** se váže rovnocenně na obě formy a bazální účinek nemění vůbec (jen blokuje ostatní ligandy).
 
+❓ **Doptají se:**
+- *Co znamená vysoký terapeutický index?* → Velký rozestup mezi účinnou a toxickou dávkou — lék je bezpečnější.
+- *Proč je nebezpečná strmá křivka koncentrace-účinek?* → Malá změna dávky vyvolá velkou změnu účinku — snáz dojde k předávkování.
+- *Co dělá inverzní agonista jinak než antagonista?* → Antagonista jen blokuje, inverzní agonista aktivně **sníží** účinek pod klidovou úroveň.
+
 ---
 
 ## O24 · Vlivy působící na kinetiku a dynamiku léčiv
@@ -1041,6 +1154,10 @@ Ze stejného principu se dá získat kvantální křivka i pro **toxický** úč
 **Onemocnění jater** — také ovlivní celé ADME, ne jen metabolismus. U léčiv s **vysokou jaterní extrakcí** dojde ke **zvýšení biologické dostupnosti** (first-pass efekt se výrazně sníží, protože nemocná játra léčivo nezachytí tak účinně) a klesá jaterní clearance kvůli snížené funkční kapacitě — opět nutná úprava dávky nebo změna terapie.
 
 🔑 **Nejčastěji zkoušené dvojice:** děti a senioři mají sníženou/odlišnou eliminaci → nižší dávky; selhání jater paradoxně **zvyšuje** dostupnost léčiv s vysokým first-pass efektem (méně se jich "ztratí" cestou).
+
+❓ **Doptají se:**
+- *Proč je u novorozenců riziko toxicity léčiv působících na CNS vyšší?* → Nedovyvinutá hematoencefalická bariéra — léky se snáz dostanou do mozku.
+- *Co se stane s biologickou dostupností léčiva s vysokým first-pass efektem u jaterní cirhózy?* → **Stoupne** — nemocná játra ho při prvním průchodu nezachytí tak účinně jako zdravá.
 
 ---
 
@@ -1071,6 +1188,11 @@ Významné jsou i interakce na úrovni **renální exkrece** (změna tubulární
 - **potrava a nápoje** mohou způsobit závažné interakce — typicky **flavonoidy a polyfenoly v grapefruitové šťávě inhibují CYP3A4**.
 
 🔑 **Farmaceutická interakce = ještě před vstřebáním (chemie v žaludku/lékovce). Farmakokinetická = cestou tělem (ADME). Farmakodynamická = až na cíli (receptor).**
+
+❓ **Doptají se:**
+- *Proč se tetracykliny nemají zapíjet mlékem?* → Farmaceutická interakce — vápník z mléka vytvoří s tetracyklinem nevstřebatelný komplex.
+- *Jak ovlivňuje kyselina acetylsalicylová účinek warfarinu?* → Zesiluje ho (farmakodynamicky) — riziko krvácení.
+- *Co znamená interakce typu F?* → **Selhání léčby** (failure), ne klasický nežádoucí účinek.
 
 ---
 
@@ -1110,6 +1232,11 @@ Výsledný fenotyp se může projevit selháním účinku, zvýšeným rizikem n
 
 🔑 **Nejčastěji zkoušená dvojice: PM u CYP2D6 → kodein nezabírá (chybí aktivace na morfin). PM u CYP2C9 → warfarin se hromadí (riziko krvácení).**
 
+❓ **Doptají se:**
+- *Proč kodein u některých pacientů vůbec netlumí bolest?* → Jsou pomalí metabolizátoři CYP2D6 — nevytvoří dost aktivního metabolitu (morfinu).
+- *Proč je izoniazid nebezpečný u části kavkazské populace?* → Vysoké procento pomalých acetylátorů/metabolizátorů → hromadění léčiva → hepatotoxicita a neuropatie.
+- *Jaký je rozdíl mezi zárodečnou a somatickou mutací?* → Zárodečná se dědí na potomky, somatická vzniká během života a nedědí se (ale může založit nádor).
+
 ---
 
 ## O27 · Tolerance, tachyfylaxe, rezistence
@@ -1137,6 +1264,10 @@ Po zahájení farmakoterapie může opakované/kontinuální podávání vést k
 - **funkční kumulace** — účinek roste, protože se postupně mění citlivost cílové tkáně, přestože dávka i koncentrace zůstávají stejné.
 
 🔑 **Tachyfylaxe = minuty. Tolerance = dny až týdny. Rezistence = týká se nádoru/mikroba, ne pacienta jako celku.** Desenzitizace a senzitizace jsou dva směry téhož mechanismu (změna počtu/citlivosti receptorů).
+
+❓ **Doptají se:**
+- *Proč je nebezpečné náhle vysadit β-blokátor po dlouhé léčbě?* → Receptory jsou up-regulované (senzitizace) — náhlá absence blokády vyvolá rebound tachykardii a vzestup tlaku.
+- *Jaký je rozdíl mezi tolerancí a rezistencí?* → Tolerance je změna odpovědi organismu pacienta, rezistence je vlastnost nádoru/mikroba, který se lék naučí "obejít".
 
 ---
 
@@ -1173,6 +1304,10 @@ Po zahájení farmakoterapie může opakované/kontinuální podávání vést k
 **Jak riziko polypragmazie omezit:** pravidelně přehodnocovat medikaci a rušit zbytečné léky, individualizovat dávkování podle jaterních/renálních funkcí, používat software na detekci interakcí, a vzdělávat pacienty.
 
 🔑 **Klíčová dvojice k zapamatování: hypoalbuminemie zvyšuje volnou (toxickou) frakci warfarinu/fenytoinu. Hypokalemie zvyšuje toxicitu digoxinu.**
+
+❓ **Doptají se:**
+- *Proč je nebezpečná kombinace ACE inhibitoru a NSA?* → Obě snižují prokrvení ledvin — společně zvyšují riziko nefrotoxicity/akutního poškození ledvin.
+- *Jak hypoalbuminemie zvyšuje riziko toxicity warfarinu?* → Méně bílkoviny na vazbu → stoupne volná (účinná) frakce léčiva.
 
 ---
 
@@ -1224,6 +1359,11 @@ Systematický dozor nad bezpečností léčiv: sledování užívání v klinick
 
 🔑 **Typ A = časté, předvídatelné, závislé na dávce (řeší se úpravou dávky). Typ B = vzácné, nepředvídatelné, nezávislé na dávce (řeší se vysazením, ne úpravou dávky).**
 
+❓ **Doptají se:**
+- *Proč se typ A nedá vysvětlit jako "chyba" léku?* → Je to zesílení jeho ZNÁMÉHO farmakologického účinku, ne náhodná reakce — dá se předvídat a řešit úpravou dávky.
+- *Co je hapten?* → Malá molekula (léčivo), která se naváže na velkou bílkovinu a teprve tak vyvolá imunitní/alergickou odpověď.
+- *Kdo všechno smí nahlásit nežádoucí účinek?* → I samotný **pacient**, ne jen lékař.
+
 ---
 
 ## O30 · Léková alergie a idiosynkrazie
@@ -1258,6 +1398,11 @@ Systematický dozor nad bezpečností léčiv: sledování užívání v klinick
 
 **Příklady stažených léků** (dobré pro doplňující otázky): **thalidomid** (sedativum/hypnotikum proti těhotenské nevolnosti — silný teratogen a karcinogen), **rimonabant** (anorektikum, inverzní agonista kanabinoidních receptorů — staženo pro psychiatrické NÚ), **sibutramin** (potlačení chuti k jídlu), **tetrazepam** (centrální myorelaxans — stažen pro závažné kožní reakce).
 
+❓ **Doptají se:**
+- *Kolik případů anafylaktického šoku způsobují peniciliny?* → **75 %.**
+- *Proč idiosynkratická reakce nevyžaduje předchozí kontakt s lékem?* → Je to vrozená genetická odchylka metabolismu, ne naučená imunitní reakce.
+- *Jaký je lék první volby u anafylaktického šoku?* → **Adrenalin.**
+
 ---
 
 ## O31 · Karcinogenní a mutagenní účinky
@@ -1284,6 +1429,10 @@ Systematický dozor nad bezpečností léčiv: sledování užívání v klinick
 | **3** | nehodnotitelný pro nedostatek důkazů | aciklovir, ampicilin, disulfiram, káva, čaj |
 
 🔑 **I samotná léčiva mohou být klasifikovaným karcinogenem** — cyklosporin (imunosupresivum) je ve skupině 1 stejně jako azbest.
+
+❓ **Doptají se:**
+- *Jak funguje Amesův test?* → Sleduje, jestli testovaná látka vyvolá zpětnou mutaci u bakterie, která díky mutaci ztratila schopnost syntetizovat histidin.
+- *Do jaké IARC skupiny patří cyklosporin?* → Skupina **1** — dostatečně prokázaný lidský karcinogen.
 
 ---
 
@@ -1358,6 +1507,11 @@ Většina léčiv je v mateřském mléce **detekovatelná** — vždy je třeba
 
 🔑 **Nejnebezpečnější období pro teratogenitu je organogeneze (15.–90. den) — a to je přesně doba, kdy žena často ještě neví, že je těhotná.**
 
+❓ **Doptají se:**
+- *Co je fetální hydantoinový syndrom a čím je způsobený?* → Fenytoinem — rozštěpy obličeje, mikrocefalie, vady končetin a srdce.
+- *Proč je nebezpečné podávat NSA ve třetím trimestru?* → Předčasně uzavírají Botallovu dučej u plodu.
+- *Kdy je nejlepší užít lék, aby co nejméně ovlivnil kojené dítě?* → Těsně po kojení / 3–4 h před dalším kojením, ideálně před nejdelším spánkem dítěte.
+
 ---
 
 ## O33 · Farmakoterapie v dětství
@@ -1401,6 +1555,11 @@ Většina léčiv je v mateřském mléce **detekovatelná** — vždy je třeba
 
 🔑 **Tři jména, tři syndromy: aspirin → Reye, chloramfenikol → gray baby, tetracyklin → zuby a kosti.**
 
+❓ **Doptají se:**
+- *Proč se kyselina acetylsalicylová nepodává dětem s virózou?* → Riziko Reyeova syndromu (jaterní encefalopatie).
+- *Proč je chloramfenikol nebezpečný u nedonošenců?* → Nezralá konjugace v játrech → kumulace → gray baby syndrom.
+- *Kdy dosáhne dětská glomerulární filtrace hodnot dospělého?* → Kolem **poloviny 2. roku** života.
+
 ---
 
 ## O34 · Farmakoterapie ve stáří, polypragmazie
@@ -1434,6 +1593,11 @@ Zvážit, jestli je medikace vůbec nutná; hledat vhodnější alternativy; sna
 - **STOPP kritéria** (*Screening Tool of Older People's Prescriptions*) — identifikují nevhodná léčiva nebo jejich nevhodné kombinace.
 
 🔑 **START hledá chybějící potřebnou léčbu, STOPP hledá zbytečnou/škodlivou léčbu — jsou to doplňkové nástroje, ne totéž.**
+
+❓ **Doptají se:**
+- *Proč může mít senior sníženou funkci ledvin i s normálním kreatininem?* → Nižší svalová hmota tvoří míň kreatininu — hodnota vypadá normálně, i když GF klesla.
+- *Jaký je rozdíl mezi Beersovými a STOPP/START kritérii?* → Beersova kritéria jsou obecný seznam nevhodných léčiv; STOPP/START jsou párový nástroj — STOPP najde nevhodné léky, START najde chybějící potřebné léky.
+- *Proč mají senioři delší poločas benzodiazepinů?* → Vyšší podíl tělesného tuku zvyšuje distribuční objem lipofilních látek.
 
 ---
 
@@ -1504,6 +1668,10 @@ Vysoká cílová specificita (méně "vedlejších" zásahů), účinnost tam, k
 
 **Před zahájením biologické léčby vždy:** screening latentní TBC (IGRA/Mantoux + RTG), screening hepatitid B/C a HIV, vyloučit aktivní infekci; **živé vakcíny jsou během biologické léčby kontraindikované.**
 
+❓ **Doptají se:**
+- *Proč se biosimilar neregistruje jako generikum?* → Biologikum je velká, strukturně proměnlivá molekula z živých buněk — nejde vyrobit chemicky identickou kopii, jen vysoce podobnou.
+- *Co je nutné vyšetřit před zahájením anti-TNF terapie?* → Latentní tuberkulózu a hepatitidu B (riziko reaktivace).
+
 ---
 
 # ČÁST 2 — SPECIÁLNÍ FARMAKOLOGIE I (36–88)
@@ -1547,6 +1715,10 @@ Sympatikus a parasympatikus se dají snadno splést, tak je porovnání v tabulc
 
 🔑 **Nikotinové receptory = rychlý iontový kanál, muskarinové = pomalejší G-protein.** Sympatikus a parasympatikus se přepojují v gangliu vždycky přes acetylcholin — teprve za gangliem se sympatikus přepne na noradrenalin.
 
+❓ **Doptají se:**
+- *Kde je ve sympatiku výjimka a používá se acetylcholin místo noradrenalinu?* → postgangliová vlákna k **potním žlázám**.
+- *Jaký je rozdíl mezi N a M receptorem mechanismem?* → N = iontový kanál (rychle), M = G-protein a druhý posel (pomaleji).
+
 ---
 
 ## 37 · Přímá cholinomimetika
@@ -1584,6 +1756,11 @@ Efekt acetylcholinu záleží na dávce:
 
 🔑 **NÚ cholinomimetik jednou větou:** sliny, pot, slzy, mióza, časté nucení na moč, průjem, víc žaludeční kyseliny a pohybu, stažené průdušky a dušnost, nízký tlak, pomalé srdce.
 
+❓ **Doptají se:**
+- *Proč se čistý acetylcholin nepoužívá jako lék?* → Okamžitě ho rozloží AChE, účinek by trval vteřiny.
+- *Co je antidotum otravy muskarinem?* → Atropin.
+- *Jaké léky z téhle otázky použiješ jako zubařka?* → Cevimelin a pilokarpin na xerostomii.
+
 ---
 
 ## 38 · Nepřímá cholinomimetika
@@ -1607,6 +1784,10 @@ Efekt acetylcholinu záleží na dávce:
 **Ireverzibilní inhibitory — organofosfáty.** Navážou se na AChE fosforylací a natrvalo ji vyřadí. Po pár hodinách dochází k "zestárnutí" komplexu — chemická změna, po které už není reaktivace možná, takže se s léčbou musí spěchat. Použití: insekticidy (paraoxon), bojové látky (soman, sarin — rychle se vstřebávají kůží), echotiofát na glaukom.
 
 > 🔑 **Léčba otravy organofosfáty — tři kroky v pořadí:** ① atropin i.v. ② reaktivátory cholinesterázy (fungují jen dokud komplex "nezestárl") ③ do budoucna rekombinantní lidská butyrylcholinesteráza.
+
+❓ **Doptají se:**
+- *Jak se diagnostikuje myasthenia gravis?* → Podáním edrofoninu — pokud se svalová síla krátkodobě zlepší, potvrzuje to diagnózu.
+- *Proč se u organofosfátové otravy musí spěchat s reaktivátory?* → Protože po "zestárnutí" komplexu s AChE už reaktivace nefunguje.
 
 ---
 
@@ -1637,6 +1818,10 @@ Podle chemické struktury se dělí na neselektivní s terciárním dusíkem, ne
 
 > **Botulotoxin** — neurotoxin bakterie *Clostridium botulinum*, zabrání splynutí váčků s ACh s presynaptickou membránou, takže se ACh vůbec neuvolní. Působí na hladké svaly, žlázy i kosterní svaly. Klinicky: blefarospazmus, hemifaciální spazmy, šilhání, anální křeče, **hypersalivace, hyperaktivní močový měchýř**, kosmeticky vrásky.
 
+❓ **Doptají se:**
+- *Co je první příznak atropinového účinku?* → Sucho v ústech (žlázy jsou nejcitlivější).
+- *Proč je atropin kontraindikován u glaukomu?* → Rozšiřuje zornici, což může zhoršit odtok nitrooční tekutiny.
+
 ---
 
 ## 40 · Adrenergní přenos vzruchu
@@ -1660,6 +1845,9 @@ Receptorů je pět typů, každý s jiným umístěním a účinkem — proto je
 - **Sympatolytika** (tlumí sympatikus) — přímá (antagonisté receptorů) a nepřímá, která se v praxi nepoužívají (reserpin blokuje uložení NA do vezikul, guanetidin blokuje splynutí vezikul s membránou — používá se jen jako miotikum v oftalmologii).
 
 🔑 **α1 a β1 = "zapni/posil", α2 = brzda sympatiku samotného, β2 = rozšiř cévy a průdušky.**
+
+❓ **Doptají se:**
+- *Proč agonista α2 receptoru sníží krevní tlak, když ostatní α receptory tlak zvyšují?* → α2 je presynaptický — jeho aktivace tlumí vlastní uvolňování noradrenalinu.
 
 ---
 
@@ -1707,6 +1895,10 @@ Poločas jen asi 2,5 minuty (rychle ho rozloží MAO a COMT), účinek se prodlo
 > **nad 20 μg/kg/min:** α převáží nad D → prokrvení ledvin naopak KLESÁ (obrátí se efekt)
 > Použití: léčba šoku a těžké hypotenze.
 
+❓ **Doptají se:**
+- *Proč se katecholaminy nepodávají ústy?* → Rychle je odbourávají enzymy v GIT a při first-pass efektu, ke správnému účinku by se nedostaly.
+- *Co se stane s prokrvením ledvin při vysoké dávce dopaminu (nad 20 μg/kg/min)?* → Klesne — α efekt (vazokonstrikce) přebije D efekt (vazodilatace).
+
 ---
 
 ## 42 · Sympatomimetika alfa
@@ -1728,6 +1920,10 @@ Poločas jen asi 2,5 minuty (rychle ho rozloží MAO a COMT), účinek se prodlo
 Klonidin (u nás není k dispozici), brimonidin (oční kapky, sníží tvorbu nitrooční tekutiny, léčba glaukomu), rilmenidin a moxonidin (antihypertenziva), dexmedetomidin (sedace).
 
 ⚠️ **L-methyldopa** — v mozku se přemění na α-metylnoradrenalin, přes α2 receptory sníží tonus sympatiku i tlak. **Antihypertenzivum volby u těhotných** — na tohle se ptají.
+
+❓ **Doptají se:**
+- *Proč α2 agonista snižuje tlak, když je to přece stimulace sympatického receptoru?* → Protože α2 sedí presynapticky a jeho aktivace je zpětnovazební brzda — tlumí další uvolňování NA.
+- *Jaké antihypertenzivum se volí u těhotných?* → Methyldopa.
 
 ---
 
@@ -1752,6 +1948,9 @@ Klonidin (u nás není k dispozici), brimonidin (oční kapky, sníží tvorbu n
 
 🔑 **β1 = srdce, β2 = průdušky a cévy svalů, β3 = močový měchýř.**
 
+❓ **Doptají se:**
+- *Který lék patří do dvou skupin zároveň a proč je to výhoda?* → Formoterol (RABA i LABA) — rychlý nástup i dlouhé trvání, hodí se jako úlevová i udržovací léčba zároveň.
+
 ---
 
 ## 44 · Nepřímá sympatomimetika
@@ -1773,6 +1972,9 @@ Klonidin (u nás není k dispozici), brimonidin (oční kapky, sníží tvorbu n
 
 > ⚠️ **Tyramin — interakce, na kterou se ptají nejčastěji.** Tyramin vzniká rozkladem tyrozinu při kvašení bílkovinných potravin (zralé sýry, víno). Normálně ho odbourává jaterní MAO. **Při léčbě inhibitory MAO se tyramin nerozloží, vstřebá se a zvýší uvolňování přenašečů → hypertenzní krize ("sýrový efekt").**
 
+❓ **Doptají se:**
+- *Proč je nebezpečné jíst zralý sýr při léčbě IMAO?* → Tyramin ze sýra se normálně rozloží MAO; při zablokovaném enzymu se vstřebá a spustí uvolnění přenašečů → prudký vzestup tlaku.
+
 ---
 
 ## 45 · Sympatolytika alfa
@@ -1793,6 +1995,9 @@ Klonidin (u nás není k dispozici), brimonidin (oční kapky, sníží tvorbu n
 **Selektivní α2-sympatolytikum: yohimbin** — blokuje i MAO a ovlivňuje serotoninový systém; dřív se používal u erektilní dysfunkce, **dnes se nepoužívá**.
 
 🔑 **Prazosinová skupina = tlak, tamsulosinová skupina = prostata** — obě jsou α1-blokátory, liší se jen tím, kde v těle převažuje efekt.
+
+❓ **Doptají se:**
+- *Na co se používají neselektivní α-blokátory fenoxybenzamin a fentolamin?* → Diagnostika a krátkodobá léčba feochromocytomu.
 
 ---
 
@@ -1832,6 +2037,10 @@ Klonidin (u nás není k dispozici), brimonidin (oční kapky, sníží tvorbu n
 
 Další NÚ: pomalý sinusový rytmus, AV blok, zhoršení funkce levé komory, astmatický záchvat, pokles HDL a vzestup triglyceridů, deprese. KI: astma, CHOPN, sinusová bradykardie, AV blok, dekompenzované srdeční selhání. V těhotenství procházejí k plodu, nejsou považovány za teratogenní, ale mohou způsobit bradykardii a hypoglykemii u plodu.
 
+❓ **Doptají se:**
+- *Proč se betablokátor nikdy nevysazuje naráz?* → Rebound fenomén — tělo si zvyklo mít víc receptorů, náhlé vysazení vede k přehnané reakci na vlastní katecholaminy.
+- *Proč jsou betablokátory rizikové u diabetika?* → Maskují varovné příznaky hypoglykemie a zpomalují zotavení z ní.
+
 ---
 
 ## 47 · Myorelaxancia
@@ -1867,6 +2076,10 @@ Použití: doplněk celkové anestezie, snazší přístup při operaci, endotra
 > ⚠️ **Maligní hypertermie — nejvděčnější část otázky.** Vzácná reakce na myorelaxancia nebo celková anestetika (halotan). Příčina: vrozený defekt schopnosti sarkoplazmatického retikula vychytávat vápník, kvůli mutaci ryanodinového receptoru (ten normálně řídí uvolňování Ca²⁺). Následek: prudký nárůst Ca²⁺ v myocytech → zrychlený aerobní i anaerobní metabolismus → horečka a metabolická acidóza. **Bez léčby umírá přes 60 %.** Léčba: co nejrychleji dantrolen i.v. ve stoupajících dávkách — blokuje uvolňování Ca²⁺ ze sarkoplazmatického retikula. Další indikace dantrolenu: maligní neuroleptický syndrom.
 
 Botulotoxin A (viz i O39) — navíc kosmetické použití na vrásky a inkontinenci.
+
+❓ **Doptají se:**
+- *Proč pacient s myorelaxans potřebuje i celkovou anestezii?* → Myorelaxans nezasahuje vědomí ani vnímání bolesti, jen ochromí svaly.
+- *Jak se léčí maligní hypertermie?* → Dantrolen i.v.
 
 ---
 
@@ -1915,6 +2128,11 @@ Systémová toxicita — z místa vpichu se anestetikum vstřebává do krve, č
 ⚠️ **Chyba ve zdroji, kterou neopakuj:** kokain jako lokální anestetikum a psychostimulancia obecně jsou dvě různé věci — indikace narkolepsie/ADHD patří **modafinilu a atomoxetinu**, ne kokainu. Kokainu naopak patří trofická perforace nosní přepážky při šňupání a jeho vlastní vazokonstrikční efekt.
 
 🔑 **Amidy = toxicita a hepatální odbourání, estery = alergie a rychlý plazmatický rozklad.**
+
+❓ **Doptají se:**
+- *Proč se do lokálního anestetika přidává adrenalin?* → Zpomalí vstřebávání (vazokonstrikce), prodlouží účinek a sníží riziko systémové toxicity.
+- *Který anestetikum je nejvíc kardiotoxické?* → Bupivakain.
+- *Co způsobuje prilokain specificky ve stomatologii?* → Methemoglobinemii.
 
 ---
 
@@ -1972,6 +2190,11 @@ Po skončení anestezie se látka částečně vydýchá beze změny, částečn
 
 ⚠️ **Naloxon je ANTAGONISTA opioidů, ne agonista** — pozor, ve starších studentských materiálech se objevuje opačně, což je věcná chyba.
 
+❓ **Doptají se:**
+- *Co znamená MAC?* → Koncentrace, při které 50 % pacientů nereaguje pohybem na řez.
+- *Proč je oxid dusný relevantní pro zubaře?* → V nízké koncentraci navozuje analgezii — inhalační sedace ve stomatologii.
+- *Čím zrušíš účinek opioidů po operaci?* → Naloxonem.
+
 ---
 
 ## 50 · Celková anestetika — intravenózní
@@ -2004,6 +2227,10 @@ Po skončení anestezie se látka částečně vydýchá beze změny, částečn
 | Po operaci | opioidy a NSA na bolest |
 
 🔑 **Thiopental = úvod, propofol = udržování, ketamin = výjimka co stimuluje srdce.**
+
+❓ **Doptají se:**
+- *Proč je ketamin výjimečný mezi anestetiky?* → Je jediný, který kardiovaskulární systém stimuluje místo tlumí, a nezpůsobí ztrátu vědomí ani reflexů (disociovaná anestezie).
+- *Co je klasická kombinace u neuroleptanalgezie?* → Fentanyl + droperidol.
 
 ---
 
@@ -2044,6 +2271,10 @@ Dnes se jako hypnotika **nepoužívají** (potlačují REM spánek), zůstávaj�
 
 🔑 **Barbituráty = nebezpečné, bez antidota, potlačují REM. Z-látky = dnešní volba, nepotlačují REM.**
 
+❓ **Doptají se:**
+- *Proč se barbituráty dnes jako hypnotika nepoužívají?* → Vysoká toxicita, žádné antidotum, potlačují REM spánek, riziko závislosti.
+- *Co je typický nežádoucí účinek zopiklonu, na který si stěžují pacienti?* → Kovová hořká chuť v ústech.
+
 ---
 
 ## 52 · Benzodiazepiny
@@ -2069,6 +2300,10 @@ V léčbě nespavosti prodlužují dobu spánku, snižují počet probuzení, al
 **Farmakokinetika:** po podání ústy se vstřebávají téměř kompletně (dostupnost skoro 100 %), vážou se na plazmatické bílkoviny, jsou lipofilní a snadno procházejí HEB, metabolizují se v játrech. **Při akutní intoxikaci se používá flumazenil** jako antidotum.
 
 🔑 **Krátký poločas = na spaní, dlouhý poločas = na úzkost.** Antidotum: flumazenil.
+
+❓ **Doptají se:**
+- *Jaký je rozdíl v mechanismu benzodiazepinů oproti barbiturátům?* → Benzodiazepiny se váží na vlastní místo oddělené od GABA a působí alostericky (nepřímo); barbituráty mají svoje vlastní místo a přímo otevírají chloridový kanál.
+- *Co je antidotum benzodiazepinů?* → Flumazenil.
 
 ---
 
@@ -2128,6 +2363,11 @@ Antiepileptika tedy upravují transport iontů přes membránu neuronu tak, aby 
 | Levetiracetam | váže se na synaptický vezikulární protein, není výrazně metabolizován. NÚ: pancytopenie. **Lék 1. volby u fokálních i generalizovaných tonicko-klonických záchvatů** |
 | Benzodiazepiny (klonazepam, klobazam, diazepam, midazolam) | alostericky na GABA receptor, snižují dráždivost neuronu. Rektální diazepam nebo bukální midazolam účinkují během minut, i.m. diazepam se vstřebává pomaleji. Nejsou lékem první volby na dlouhodobou léčbu, ale **diazepam je lékem volby u hrozícího status epilepticus** |
 
+❓ **Doptají se:**
+- *Jaký nález na dásních spojíš s antiepileptikem a s jakým?* → Hyperplazie dásní u fenytoinu.
+- *Co uděláš, pokud otěhotní žena na antiepileptikách?* → Léčbu nevysazuješ (riziko záchvatu > riziko léku), přejdeš na monoterapii, valproát se nepoužívá.
+- *Jaký lék je volbou u hrozícího status epilepticus?* → Diazepam.
+
 ---
 
 ## 54 · Antiparkinsonika
@@ -2157,6 +2397,10 @@ Cílem léčby je obnovit rovnováhu mezi excitační (cholinergní) a chybějí
 | Anticholinergika | biperiden, procyklidin — syntetická parasympatolytika, antagonisté muskarinových receptorů (nepůsobí na nikotinové); tlumí extrapyramidové příznaky |
 
 🔑 **Karbidopa sama dopamin nedodává — jen chrání L-DOPA, aby se nepřeměnila předčasně mimo mozek.**
+
+❓ **Doptají se:**
+- *Proč se L-DOPA nepodává samotná?* → Přemění se na dopamin už ve střevě, ten neprojde HEB a navíc vyvolá periferní NÚ (nauzea, hypotenze) — karbidopa tomu zabrání mimo mozek.
+- *Kolik procent dopaminu musí ve striatu chybět, aby se nemoc klinicky projevila?* → 80 %.
 
 ---
 
@@ -2210,6 +2454,10 @@ Klinicky se používají jak v psychiatrii (schizofrenie, agitovanost, agrese, �
 
 🔑 **Mezolimbická dráha = žádoucí efekt, nigrostriatální = nechtěný extrapyramidový efekt.**
 
+❓ **Doptají se:**
+- *Proč mají typická antipsychotika víc extrapyramidových příznaků než atypická?* → Silněji blokují nigrostriatální dráhu.
+- *Co znamená, že atypika léčí i negativní příznaky schizofrenie?* → Kromě halucinací a bludů zlepšují i apatii, oploštělé emoce, sociální stažení.
+
 ---
 
 ## 56 · Antidepresiva — tricyklická (TCA), inhibitory MAO
@@ -2251,6 +2499,10 @@ V praxi se využívají jen minimálně. Dřív ireverzibilní neselektivní (tr
 
 🔑 **TCA = kardiotoxická, nebezpečná při předávkování. IMAO = nebezpečné interakce se sýrem a serotoninergními léky.**
 
+❓ **Doptají se:**
+- *Proč se IMAO dnes skoro nepoužívají?* → Riziko hypertenzní krize při jídle bohatém na tyramin a serotoninového syndromu při kombinaci s jinými serotoninergními léky.
+- *Jaký je hlavní bezpečnostní problém TCA?* → Kardiotoxicita, vysoká letalita při předávkování.
+
 ---
 
 ## 57 · Antidepresiva — SSRI, SNRI a atypická
@@ -2281,6 +2533,10 @@ Zástupci: fluoxetin, sertralin, citalopram, fluvoxamin, paroxetin.
 | Mirtazapin | antagonista adrenergních α2 a serotoninových receptorů; antidepresivní, sedativní i anxiolytický efekt, **rychlá odpověď** — hodí se pro těžší deprese spojené s úzkostí. NÚ: sexuální dysfunkce, přibírání na váze |
 
 🔑 **SSRI = dnešní lék volby, bezpečný při předávkování. TCA/IMAO = starší, účinná, ale riziková.**
+
+❓ **Doptají se:**
+- *Co znamená zkratka FINISH?* → Syndrom z vysazení SSRI: flu-like příznaky, insomnie, nauzea, nerovnováha, senzorické poruchy, hyperarousal.
+- *Jaký lék z atypických antidepresiv se používá na odvykání kouření?* → Bupropion.
 
 ---
 
@@ -2328,6 +2584,10 @@ Pacienti přicházejí k lékaři často se somatickými potížemi — poruchy 
 
 🔑 **Fobie = víš, že je to nepřiměřené, ale přesto se bojíš. Úzkost obecně = nevíš proč se bojíš.**
 
+❓ **Doptají se:**
+- *Jaký je rozdíl mezi bipolární poruchou typu I a II?* → Typ I má plně vyjádřenou manickou epizodu, typ II jen mírnější hypomanickou.
+- *Proč je nebezpečná kombinace thiazidových diuretik s lithiem?* → Zvyšují jeho hladinu v krvi až k toxicitě.
+
 ---
 
 ## 59 · Farmakoterapie Alzheimerovy choroby, nootropika
@@ -2353,6 +2613,10 @@ Pacienti přicházejí k lékaři často se somatickými potížemi — poruchy 
 **Nootropika** = chemicky různorodá skupina léčiv, o kterých se soudí, že na buněčné úrovni zvyšují obrat kyslíku a glukózy v mozku a ruší místní spasmy. Klinicky mají příznivě ovlivňovat poruchy vědomí, pozornosti a paměti, **ale jejich účinek dodnes nebyl prokázán randomizovanou studií**. Zástupci: vinpocetin, piracetam; mezi nootropika se řadí i vazodilatační léky (flunarizin, cinnarizin, pentoxifylin). Jejich dřívější časté použití dnes nahradily AChE-inhibitory.
 
 🔑 **Beta-amyloid = strukturální problém, cholinergní deficit = funkční problém, který léčíme.**
+
+❓ **Doptají se:**
+- *Co je hlavní patofyziologický nález u Alzheimerovy choroby?* → Extracelulární plaky beta-amyloidu a ztráta cholinergních neuronů.
+- *Prokázal se přínos Ginkgo biloba?* → Ne, v kontrolovaných studiích ne.
 
 ---
 
@@ -2397,6 +2661,10 @@ Intoxikace: účinek vrcholí za 2–3 h; euforie, mióza, pokles tlaku, bradyka
 
 🔑 **Intoxikace = zúžená zornice. Abstinenční syndrom = rozšířená zornice.** Snadno se to plete, je to opak.
 
+❓ **Doptají se:**
+- *Na které dva nežádoucí účinky opioidů se tolerance nevyvíjí?* → Zácpa a mióza.
+- *Jaký je rozdíl v zornici mezi intoxikací a abstinencí opioidy?* → Intoxikace = mióza (zúžená), abstinence = mydriáza (rozšířená).
+
 ---
 
 ## 61 · Deriváty a náhražky morfinu
@@ -2439,6 +2707,10 @@ Intoxikace: účinek vrcholí za 2–3 h; euforie, mióza, pokles tlaku, bradyka
 
 🔑 **Naloxon = antidotum (i.v. jen), naltrexon = udržovací léčba závislosti (ústy).**
 
+❓ **Doptají se:**
+- *Proč se metylnaltrexon nepoužívá jako obecné antidotum?* → Působí jen na periferní μ-receptory (nedostane se přes HEB), zruší jen zácpu, ne analgezii ani útlum dechu.
+- *Co znamená stropový efekt?* → Po dosažení maximální dávky se analgetický efekt dál nezvyšuje, jen přibývají NÚ.
+
 ---
 
 ## 62 · Eikosanoidy
@@ -2465,6 +2737,10 @@ Intoxikace: účinek vrcholí za 2–3 h; euforie, mióza, pokles tlaku, bradyka
 
 🔑 **COX → prostaglandiny/tromboxany/prostacyklin. LOX → leukotrieny.** Aspirin blokuje COX nevratně.
 
+❓ **Doptají se:**
+- *Jak kortikoidy tlumí zánět na úrovni eikosanoidů?* → Přes lipokortin blokují fosfolipázu A2, takže se vůbec neuvolní kyselina arachidonová — zablokují celou kaskádu na začátku, ne jen jednu větev.
+- *Co znamená koncovka -zumab?* → Humanizovaná monoklonální protilátka, jen 10 % myší složky.
+
 ---
 
 ## 63 · Analgetika-antipyretika
@@ -2482,6 +2758,11 @@ Indikace: horečka, bolest hlavy, kloubů, chřipkové onemocnění. Obchodní n
 **Pyrazolové deriváty — metamizol, propyfenazon.** Indikovány jen pro akutní bolest, bez rizika pro GIT (na rozdíl od NSA). Vhodné na bolest ze spazmu hladkého svalu — žlučová a ledvinová kolika, na spasmoanalgezii před/po instrumentálních vyšetřeních. NÚ: žaludeční/dvanáctníkové vředy, jsou karcinogenní a nefrotoxické, mohou vyvolat těžkou anafylaktoidní reakci — **nepodávat u astmatu**.
 
 🔑 **Paracetamol = bezpečný v terapeutické dávce, ale nebezpečně hepatotoxický při předávkování. Antidotum: acetylcystein.**
+
+❓ **Doptají se:**
+- *Čím se liší paracetamol od NSA?* → Nemá protizánětlivý ani protidestičkový efekt, jen analgetický a antipyretický.
+- *Co je antidotum při předávkování paracetamolem?* → Acetylcystein.
+- *Proč je nebezpečné kombinovat paracetamol s alkoholem?* → Alkohol indukuje CYP2E1, který tvoří toxický metabolit NAPQI — zvyšuje se riziko poškození jater.
 
 ---
 
@@ -2525,6 +2806,11 @@ Další NÚ salicylátů: záněty žaludeční sliznice, riziko krvácení. Int
 
 🔑 **COX-1 = "hodný", chrání žaludek a ledviny. COX-2 = "zlý", dělá zánět. Aspirin = jediné NSA s nevratnou blokádou.**
 
+❓ **Doptají se:**
+- *Proč se aspirin nedává dětem?* → Riziko Reyeova syndromu (encefalopatie + jaterní postižení).
+- *Které NSA je nejšetrnější k žaludku a proč je kontraindikováno v těhotenství?* → Ibuprofen; kvůli riziku předčasného uzávěru tepenné dučeje plodu.
+- *Jaký je hlavní rozdíl mezi koxiby a klasickými NSA?* → Koxiby selektivně blokují COX-2, proto mají méně žaludečních NÚ, ale podobné kardiovaskulární riziko.
+
 ---
 
 ## 65 · Farmakoterapie migrény
@@ -2551,6 +2837,10 @@ Další NÚ salicylátů: záněty žaludeční sliznice, riziko krvácení. Int
 **Profylaxe:** úprava životního stylu, betablokátory (metoprolol), blokátory kalciových kanálů (verapamil), antiepileptika (valproát). Cíle preventivní léčby: snížit frekvenci, závažnost a trvání záchvatů, zlepšit odpověď na akutní léčbu (a umožnit nižší dávku akutního léku), zlepšit kvalitu života.
 
 🔑 **Triptany = akutní léčba (stažení cév), betablokátory/BKK/valproát = profylaxe.**
+
+❓ **Doptají se:**
+- *Proč jsou triptany kontraindikovány u ischemické choroby srdeční?* → Způsobují vazokonstrikci, která by mohla zhoršit prokrvení srdce.
+- *Hodí se triptany na prevenci migrény?* → Ne, jen na akutní záchvat.
 
 ---
 
@@ -2585,6 +2875,10 @@ Příbuzné látky: digitoxin — nezávislý na funkci ledvin, delší poločas
 | Inhibitory fosfodiesterázy 3 | amrinon, milrinon — riziko závažných arytmií a náhlé smrti |
 
 🔑 **Selhávající srdce: digoxin zvýší výdej. Zdravé srdce: digoxin výdej sníží.**
+
+❓ **Doptají se:**
+- *Proč digoxin zpomaluje srdeční frekvenci?* → Aktivuje n. vagus (negativně chronotropní efekt).
+- *Co zvyšuje riziko toxicity digoxinu?* → Nízký draslík, vysoký vápník, ischemie, hypotyreóza.
 
 ---
 
@@ -2632,6 +2926,10 @@ D-sotalol — selektivně na K⁺ kanály, podobný amiodaronu. Dronedaron — p
 
 🔑 **Ia prodlužuje AP, Ib zkracuje, Ic neovlivňuje. Reentry = vzruch obíhá dokola místo aby doběhl.**
 
+❓ **Doptají se:**
+- *Co je reentry mechanismus?* → Vzruch je v jednom směru blokovaný ischemickým ohniskem, může se ale šířit opačným směrem a "obíhat dokola", což udržuje arytmii.
+- *Jaké jsou typické NÚ amiodaronu?* → Poruchy štítné žlázy, zabarvení kůže a rohovky, plicní fibróza, hepatitida.
+
 ---
 
 ## 68 · ACE inhibitory a antagonisté angiotenzinu
@@ -2657,6 +2955,10 @@ NÚ: pokles tlaku u dehydratovaných pacientů, **kašel, kopřivka, angioedém*
 Kinetika: losartan je proléčivo, biologická dostupnost 20–60 %, eliminace beze změny, dobře snášené, málo interakcí. Riziko vysokého draslíku při kombinaci s blokátory mineralokortikoidních receptorů. **Nekombinovat s ACE inhibitory** (dvojitá blokáda RAAS). Indikace: nahrazují ACEI u pacientů, kteří na ně reagují nežádoucím způsobem (typicky kašlem), a dále všude, kde je dlouhodobě aktivovaný RAAS — hypertenze, prevence cévních a srdečních příhod, srdeční selhání, nefropatie s únikem bílkoviny.
 
 🔑 **ACEI = kašel (bradykinin), sartany = žádný kašel (selektivně jen AT1).**
+
+❓ **Doptají se:**
+- *Proč ACE inhibitory způsobují kašel a sartany ne?* → ACEI blokují i odbourávání bradykininu (nadbytek dráždí dýchací cesty), sartany blokují jen receptor pro angiotenzin II, bradykinin neovlivňují.
+- *Proč jsou ACEI kontraindikované v těhotenství?* → Fetotoxicita a malformace plodu.
 
 ---
 
@@ -2690,6 +2992,10 @@ Kinetika: losartan je proléčivo, biologická dostupnost 20–60 %, eliminace b
 
 🔑 **Kličková = nejsilnější, ztrácí Ca²⁺. Thiazidová = šetří Ca²⁺, ale ztrácí K⁺. Draslík šetřící = přesně naopak než obě předchozí.**
 
+❓ **Doptají se:**
+- *Jaký je rozdíl v účinku na vápník mezi kličkovými a thiazidovými diuretiky?* → Kličková zvyšují vylučování vápníku, thiazidy naopak zvyšují jeho zpětné vstřebávání.
+- *Proč se kličková diuretika kombinují s opatrností s aminoglykosidy?* → Zvyšuje se riziko ototoxicity (obě skupiny jsou ototoxické samy o sobě).
+
 ---
 
 ## 70 · Blokátory kalciových kanálů (BKK)
@@ -2714,6 +3020,10 @@ Farmakokinetika: biologická dostupnost 10–30 %. **Nástup musí být pomalý,
 
 🔑 **Dihydropyridiny = cévy, verapamil = srdce, diltiazem = obojí.** Verapamil/diltiazem + betablokátor = nikdy nekombinovat (riziko bradykardie a AV blokády).
 
+❓ **Doptají se:**
+- *Proč se verapamil nekombinuje s betablokátory?* → Oba tlumí srdce (kontraktilitu i vedení) — kombinace hrozí těžkou bradykardií a AV blokádou.
+- *Který BKK má minimální vliv na srdce?* → Dihydropyridiny (nifedipin, amlodipin...) — působí selektivně na cévy.
+
 ---
 
 ## 71 · Nitrity a nitráty
@@ -2731,6 +3041,10 @@ Zástupci: nitroglycerin, izosorbid dinitrát. Biologická dostupnost ústy jen 
 Indikace: **nitroglycerin je lék první volby při atace anginy pectoris**, prevence záchvatů, rychlé zvládnutí bolesti (stenokardie).
 
 🔑 **Nitráty = dárci NO. Nikdy nekombinovat se sildenafilem/tadalafilem — smrtelný pokles tlaku.**
+
+❓ **Doptají se:**
+- *Proč je kombinace nitrátů se sildenafilem nebezpečná?* → Oba zvyšují množství cGMP (nitráty jeho tvorbu, sildenafil brání jeho odbourání) → extrémní, neztlumitelný pokles tlaku.
+- *Jaký je nejrychlejší způsob podání nitroglycerinu při záchvatu?* → Sublingválně (pod jazyk).
 
 ---
 
@@ -2769,6 +3083,9 @@ Klasifikace se provádí podle ejekční frakce (EF) — podíl krve, který srd
 
 🔑 **Betablokátory a RAAS-inhibitory neposilují srdce — blokují škodlivou kompenzaci, která ho ničí.**
 
+❓ **Doptají se:**
+- *Proč se u srdečního selhání podávají betablokátory, když srdce už tak nezvládá pumpovat?* → Blokují škodlivou hyperaktivaci sympatiku, která dlouhodobě myokard poškozuje víc, než krátkodobě pomáhá.
+
 ---
 
 ## 73 · Farmakoterapie ischemické choroby srdeční (ICHS)
@@ -2796,6 +3113,10 @@ Dál se přidává protidestičková léčba.
 **Infarkt myokardu — patogeneze v jedné větě:** ruptura aterosklerotického plátu → vznik trombu → uzávěr postižené věnčité tepny. **K nekróze celé tloušťky srdečního svalu dochází přibližně do 6 hodin od vzniku uzávěru** — z toho vyplývá časové okno pro reperfuzní léčbu (zprůchodnění tepny). Bezprostředním úkolem je úleva od bolesti — opiáty.
 
 🔑 **Stabilní AP = antianginózní léčiva (nitráty/BKK/betablokátory). Nestabilní AP = protisrážlivá léčba (heparin, protidestičkové léky).**
+
+❓ **Doptají se:**
+- *Proč je časové okno u infarktu 6 hodin?* → Po této době dochází k nekróze srdečního svalu v celé tloušťce stěny — reperfuzní léčba (zprůchodnění tepny) po tomto čase už nezachrání tkáň.
+- *Jaký je hlavní rozdíl v léčbě stabilní vs. nestabilní anginy pectoris?* → Stabilní = antianginózní léčiva (uleví bolesti), nestabilní = protisrážlivá léčba (řeší hrozící trombózu a infarkt).
 
 ---
 
@@ -2829,6 +3150,10 @@ Farmakologická léčba hypertenze **není kauzální** — jejím smyslem je od
 **Centrálně působící antihypertenziva:** klonidin a α-metyldopa, rilmenidin a moxonidin. Indikace: **metyldopa — hypertenze v těhotenství**, hypertenze s psychickým napětím, obtížně léčitelná hypertenze.
 
 🔑 **95 % hypertenze je bez zjevné příčiny — léčba je preventivní, ne kauzální.**
+
+❓ **Doptají se:**
+- *Který lék je volbou u hypertenze v těhotenství?* → Metyldopa.
+- *Proč se u většiny pacientů kombinuje víc léků?* → Jeden mechanismus samotný obvykle nestačí, kombinace cílí na víc mechanismů zvyšování tlaku najednou.
 
 ---
 
@@ -2867,6 +3192,10 @@ Nefarmakologická léčba: pohyb, žádné kouření, dieta s omezením kalorií
 
 🔑 **Statiny = blokují VÝROBU cholesterolu v játrech. Pryskyřice/ezetimib = blokují jeho VSTŘEBÁVÁNÍ nebo koloběh ve střevě.**
 
+❓ **Doptají se:**
+- *Jaký je nejzávažnější svalový NÚ statinů?* → Rabdomyolýza.
+- *Jaký je mechanismus ezetimibu?* → Blokuje transportér cholesterolu ve střevní sliznici, sníží tak jeho vstřebávání.
+
 ---
 
 ## 76 · Parenterální antikoagulancia
@@ -2900,6 +3229,11 @@ NÚ: krvácení — **antidotum protamin sulfát**; **heparinem indukovaná trom
 **Fondaparinux** — synteticky vyrobený pentasacharid; aktivuje antitrombin, ale inhibuje **jen faktor Xa**. Proč zrovna Xa: spojuje obě cesty aktivace srážení (vnitřní se spouští kontaktem s poškozenou cévní stěnou, zevní poškozením tkáně) — faktor Xa pak přemění protrombin na trombin a ten fibrinogen na fibrin.
 
 🔑 **Heparin = nepřímo přes ATIII, potřebuje monitoring (APTT). LMWH = předvídatelnější, bez nutné monitorace.**
+
+❓ **Doptají se:**
+- *Proč je heparin lékem volby v těhotenství?* → Neprochází placentou ani do mateřského mléka.
+- *Co je antidotum heparinu?* → Protamin sulfát.
+- *Proč se LMWH nemusí laboratorně monitorovat, ale klasický heparin ano?* → LMWH má předvídatelnější farmakokinetiku a odpověď na dávku.
 
 ---
 
@@ -2935,6 +3269,11 @@ NÚ: krvácení — **antidotum protamin sulfát**; **heparinem indukovaná trom
 ⚠️ **Pro tebe jako zubařku:** u pacienta na warfarinu se před extrakcí zubu postupuje podle INR, u DOAC podle času od poslední dávky — konkrétní postup je ale věc tvých supervizorů, ne přímo farmakologie. `[obecné znalosti]`
 
 🔑 **Warfarin = oklika přes vitamin K, funguje jen in vivo, na začátku paradoxně hyperkoagulační. DOAC = přímá blokáda konkrétního faktoru, rychlejší nástup, vlastní antidota.**
+
+❓ **Doptají se:**
+- *Proč warfarin nefunguje ve zkumavce?* → Blokuje regeneraci vitaminu K v organismu, ne přímo srážecí kaskádu — bez živého metabolismu nemá na co působit.
+- *Proč se na začátku léčby warfarinem přidává LMWH?* → Protože nejdřív klesají antikoagulační faktory (kratší poločas) a hrozí přechodný hyperkoagulační stav.
+- *Co je antidotum dabigatranu?* → Idarucizumab.
 
 ---
 
@@ -2981,6 +3320,11 @@ NÚ: krvácení — **antidotum protamin sulfát**; **heparinem indukovaná trom
 
 🔑 **Fibrinolytika rozpouštějí trombus, hemostatika ho naopak podporují — dva zcela opačné cíle v jedné otázce.**
 
+❓ **Doptají se:**
+- *Jaká hemostatika používáš po extrakci zubu?* → Oxycelulóza, kolagenová houbička.
+- *Co je felypresin a k čemu ho použiješ?* → Vazokonstrikční přísada v dentálním anestetiku, alternativa adrenalinu.
+- *Je hemofilie vrozená nebo získaná?* → Vrozená (dědičná).
+
 ---
 
 ## 79 · Antiagregancia
@@ -3012,6 +3356,10 @@ Indikace: prevence trombózy po infarktu a při dalším kardiovaskulárním riz
 
 🔑 **Aspirin = nevratný, efekt na celou dobu života destičky (~5 dní). P2Y12 blokátory = reverzibilní nebo nevratné podle látky.**
 
+❓ **Doptají se:**
+- *Proč trvá antiagregační efekt aspirinu tak dlouho (5 dní)?* → Nevratně acetyluje COX-1 a destička bez jádra si ji nedokáže znovu vyrobit — musí se nahradit novými destičkami.
+- *Proč se ibuprofen nekombinuje s aspirinem kvůli antiagregačnímu efektu?* → Kompetuje o stejné vazebné místo na COX, takže ruší nevratnou vazbu aspirinu.
+
 ---
 
 ## 80 · Inzulin, jeho analoga a glukagon
@@ -3042,6 +3390,10 @@ NÚ: hypoglykemie, lokální reakce, vzácně lipodystrofie (změny tukové tká
 
 🔑 **Inzulin = snižuje cukr, potřebuje injekci. Glukagon = zvyšuje cukr, léčba hypoglykemie, i.m. i laikem.**
 
+❓ **Doptají se:**
+- *Proč se inzulin nedá podat ústy?* → Je to bílkovina, GIT by ji rozložil trávicími enzymy dřív, než by se stihla vstřebat.
+- *Proč se glukagon nedá při hypoglykemii z alkoholu nebo hladovění?* → Chybí zásoby jaterního glykogenu, ze kterého by glukagon uvolnil glukózu.
+
 ---
 
 ## 81 · Perorální antidiabetika (PAD)
@@ -3067,6 +3419,11 @@ NÚ: hypoglykemie, lokální reakce, vzácně lipodystrofie (změny tukové tká
 Fixní kombinace: s metforminem (metformin + sulfonylurea, metformin + pioglitazon), s inkretinovými léky (gliptin + metformin, lixisenatid + inzulin glargin).
 
 🔑 **Metformin = lék první volby, riziko laktátové acidózy hlavně při selhání ledvin. Gliptiny/glifloziny = nízké riziko hypoglykemie, protože závisí na aktuální glykemii.**
+
+❓ **Doptají se:**
+- *Proč je metformin lékem první volby?* → Prokazatelně snižuje mortalitu a morbiditu, nezpůsobuje hypoglykemii ani přibírání na váze.
+- *Jaké je nejzávažnější riziko metforminu a kdy hrozí nejvíc?* → Laktátová acidóza, hlavně při nerespektování kontraindikace (selhávání ledvin).
+- *Proč u gliptinů a gliflozinů prakticky nehrozí hypoglykemie?* → Jejich účinek závisí na aktuální hladině glukózy — při normální/nízké glykemii se neprojeví.
 
 ---
 
@@ -3098,6 +3455,9 @@ Dělení podle: mechanismu účinku, antibakteriálního spektra, farmakokinetik
 Zásady léčby: správná indikace, správná volba (podle diagnózy, klinických příznaků, mikrobiologického vyšetření), správná délka léčby, správná dávka/interval/cesta podání, správná kombinace, u ATB s úzkým terapeutickým oknem nutné monitorování.
 
 🔑 **Bakteriostatická = zastaví množení, potřebují funkční imunitu. Baktericidní = přímo zabíjí.**
+
+❓ **Doptají se:**
+- *Jaký je rozdíl mezi primární a sekundární rezistencí?* → Primární je vrozená (necitlivost bez předchozího kontaktu s ATB), sekundární vzniká až v průběhu léčby.
 
 ---
 
@@ -3133,6 +3493,10 @@ NÚ penicilinů: alergie; **Hoigného syndrom** — dechová tíseň a kolaps po
 
 🔑 **Penicilin V = lék volby na infekce v ústní dutině. Hoigného syndrom = vypadá jako anafylaxe, ale je to technická chyba podání, ne alergie.**
 
+❓ **Doptají se:**
+- *Jaké je tvoje antibiotikum jako budoucí zubařky?* → Penicilin V — lék první volby na infekce ústní dutiny.
+- *Je Hoigného syndrom alergická reakce?* → Ne, je to reakce na technicky chybné (příliš rychlé) i.m. podání penicilinové suspenze.
+
 ---
 
 ## 84 · Cefalosporiny, karbapenemy, monobaktamy
@@ -3158,6 +3522,10 @@ NÚ penicilinů: alergie; **Hoigného syndrom** — dechová tíseň a kolaps po
 **Monobaktamy** účinkují na G− mikroby včetně pseudomonády a *Serratia*. **Lék první volby na plicní infekce Pseudomonas aeruginosa u pacientů s cystickou fibrózou.** Aztreonam, podává se i.v.
 
 🔑 **Cefalosporiny 1.–2. gen. = spíš G+ a alternativa při alergii na PNC. 3.–5. gen. = spíš G− a těžké infekce.**
+
+❓ **Doptají se:**
+- *Proč se 1. generace cefalosporinů nepoužívá u meningitidy?* → Nedostává se přes HEB do mozkomíšního moku.
+- *Proč se imipenem kombinuje s cilastatinem?* → Cilastatin blokuje enzym v ledvinách, který by imipenem jinak rychle rozložil.
 
 ---
 
@@ -3188,6 +3556,10 @@ Spektrum gentamicinu a tobramycinu: G− tyčinky (enterobakterie), pseudomonád
 
 🔑 **Aminoglykosidy = oto- a nefrotoxicita, poškozují VIII. nerv. Chinolony = blokují topoizomerázy DNA, KI u dětí a těhotných.**
 
+❓ **Doptají se:**
+- *Který nerv poškozují aminoglykosidy?* → VIII. hlavový nerv (sluchový/vestibulární).
+- *Jaký je mechanismus chinolonů?* → Blokují bakteriální topoizomerázy (DNA gyrázu u G−, topoizomerázu IV u G+), takže se nemůže replikovat bakteriální DNA.
+
 ---
 
 ## 86 · Linkosamidy, glykopeptidy, polymyxiny
@@ -3210,6 +3582,10 @@ Teikoplanin — méně nefrotoxický, výhodnější farmakokinetika; léčba en
 
 🔑 **Klindamycin = tvoje ATB pro zubní infekce (proniká do kosti). Vankomycin = MRSA a C. difficile. Red man syndrom ≠ alergie.**
 
+❓ **Doptají se:**
+- *Proč je klindamycin vhodný na zubní infekce?* → Dobře proniká do kosti a účinkuje na anaeroby a streptokoky, typické u odontogenních infekcí.
+- *Je red man syndrom alergická reakce?* → Ne, je způsobený nespecifickým uvolněním histaminu při rychlém podání — stačí zpomalit infuzi.
+
 ---
 
 ## 87 · Tetracykliny, amfenikoly
@@ -3225,6 +3601,11 @@ Teikoplanin — méně nefrotoxický, výhodnější farmakokinetika; léčba en
 **Amfenikoly — chloramfenikol.** Bakteriostatický, na úrovni ribozomů; široké spektrum: G+, G−, anaeroby; výborná farmakokinetika. **Indikace jsou dnes výrazně omezeny kvůli závažnému nežádoucímu účinku — nevratné aplastické anemii** (útlum kostní dřeně, kdy přestane tvořit krevní buňky). Léčba: tyfus, meningitidy, mozkové abscesy — dnes už většinou nahraditelný jinými léky.
 
 🔑 **Tetracykliny = blokují ribozom (ne buněčnou stěnu!), vážou vápník → poškození zubů a kostí u dětí. Chloramfenikol = aplastická anemie.**
+
+❓ **Doptají se:**
+- *Proč jsou tetracykliny kontraindikované u dětí do 12 let?* → Vážou se na vápník v zubech a kostech → nevratná diskolorace zubů, poškození skloviny, zpomalený růst kostí.
+- *Jaký je nejzávažnější NÚ chloramfenikolu?* → Nevratná aplastická anemie.
+- *Na jaké úrovni blokují tetracykliny bakterie — buněčná stěna, nebo ribozom?* → Ribozom (proteosyntéza), NE buněčná stěna.
 
 ---
 
@@ -3263,6 +3644,10 @@ Chemicky jde o makrocyklický laktonový kruh s navázanými cukry, dělí se po
 
 🔑 **Azithromycin = jediný z běžně používaných bez významné blokády CYP3A4 — proto je bezpečnější u pacientů na statinech/warfarinu.**
 
+❓ **Doptají se:**
+- *Proč jsou makrolidy častou volbou u alergie na penicilin?* → Účinná alternativa na respirační a streptokokové infekce s jiným mechanismem, netýká se jí zkřížená alergie s betalaktamy.
+- *Který makrolid nejméně interaguje s ostatními léky přes CYP3A4?* → Azithromycin.
+
 ---
 
 *(Tím je Speciální farmakologie I (36–88) kompletní. Pokračuje Speciální farmakologie II.)*
@@ -3294,6 +3679,9 @@ Chemicky jde o makrocyklický laktonový kruh s navázanými cukry, dělí se po
 **Střevní antiinfektiva** je nadřazený pojem pro antiseptika a dezinficiencia; v širším smyslu sem patří i ATB použitá u střevních infekcí bez znalosti konkrétního původce: fluorochinolony (*E. coli*, salmonely, shigely, kampylobaktery, yersinie), ko-trimoxazol (často nepůsobí na *Campylobacter jejuni*), makrolidy (*H. pylori* a *Campylobacter jejuni*).
 
 🔑 **Nitrofurantoin = jen v moči (na profylaxi IMC). Rifaximin = jen ve střevě (nevstřebává se).**
+
+❓ **Doptají se:**
+- *Proč je nitrofurantoin vhodný na profylaxi IMC?* → Nerozšiřuje se systémově, dosahuje terapeutických hladin jen v moči.
 
 ---
 
@@ -3331,6 +3719,9 @@ Kdo je ohrožen: v rozvinutých zemích hlavně imunosuprimovaní; v rozvojovýc
 
 🔑 **Paraziti jsou eukaryota jako my — proto je antiparazitární léčba často toxičtější než antibakteriální.**
 
+❓ **Doptají se:**
+- *Proč je léčba parazitů obtížnější než léčba bakterií?* → Paraziti jsou eukaryota, biologicky podobnější lidským buňkám, takže je těžší najít látku, která poškodí je a ne pacienta.
+
 ---
 
 ## 91 · Antituberkulotika a antileprotika
@@ -3363,6 +3754,10 @@ Náhradní léčba při rezistenci nebo selhání: klaritromycin, amikacin, kana
 🔑 **Hranicí mezi poly- a multirezistencí je dvojice izoniazid + rifampicin.**
 
 **Antileprotika.** Lepru vyvolává *Mycobacterium leprae*. Léčí se látkami příbuznými sulfonamidům — hlavně **dapson v kombinaci s rifampicinem**. Dapson je hematotoxický a zasahuje do metabolismu kyseliny listové. U rezistentních kmenů se indikuje klofazimin.
+
+❓ **Doptají se:**
+- *Co znamená MDR tuberkulóza?* → Rezistence současně na izoniazid a rifampicin.
+- *Proč se tuberkulóza vždy léčí kombinací léků?* → Aby se zasáhly všechny růstové fáze mykobakterií a předešlo se vzniku rezistence.
 
 ---
 
@@ -3400,6 +3795,10 @@ Antimykotika jsou účinná proti houbám a plísním, zasahují buněčnou stě
 
 🔑 **Polyeny = vazba na ergosterol. Azoly = blokují jeho syntézu. Echinokandiny = blokují buněčnou stěnu, neproniknou do mozku.**
 
+❓ **Doptají se:**
+- *Který antimykotický lék je volbou u aspergilové infekce?* → Vorikonazol.
+- *Proč nejsou echinokandiny vhodné na plísňovou meningitidu?* → Neproniknou přes HEB.
+
 ---
 
 ## 93 · Antivirotika
@@ -3430,6 +3829,10 @@ Povinné očkování: spalničky, příušnice, zarděnky, dětská obrna, **hep
 
 🔑 **Vždy léčíme: HIV, hepatitida B, hepatitida C. Ostatní jen podle stavu pacienta.**
 
+❓ **Doptají se:**
+- *Proč se aciklovir podává jako valaciklovir?* → Aciklovir má nízkou biologickou dostupnost ústy (10–30 %), valaciklovir jako proléčivo ji zvýší na 70 %.
+- *Jaké virové infekce se léčí vždy, bez ohledu na stav pacienta?* → HIV, hepatitida B, hepatitida C.
+
 ---
 
 ## 94 · Antiretrovirotika
@@ -3445,6 +3848,10 @@ Povinné očkování: spalničky, příušnice, zarděnky, dětská obrna, **hep
 ⚠️ **Léčba se zahajuje při poklesu CD4 buněk pod 350/mm³.**
 
 🔑 **Antiretrovirotika HIV nevyléčí, jen zastaví jeho množení — léčba je doživotní.**
+
+❓ **Doptají se:**
+- *Vyléčí antiretrovirotika HIV infekci?* → Ne, jen potlačí replikaci viru, k eradikaci nevedou.
+- *Při jaké hodnotě CD4 se zahajuje léčba?* → Pod 350/mm³.
 
 ---
 
@@ -3489,6 +3896,10 @@ Povinné očkování: spalničky, příušnice, zarděnky, dětská obrna, **hep
 Guaifenesin se podává ústy; navíc má antitusický, myorelaxační a anxiolytický efekt.
 
 🔑 **Suchý kašel = antitusika (tlumí ho). Vlhký kašel = mukolytika/expektorancia (podporují vykašlávání). Nikdy nekombinovat kodein s mukolytiky.**
+
+❓ **Doptají se:**
+- *Proč se nesmí kombinovat kodein s mukolytikem?* → Kodein potlačuje kašlací reflex, mukolytikum naopak zvyšuje tvorbu hlenu, který by se pak nedal vykašlat.
+- *Jaký lék je zároveň mukolytikum i antidotum při otravě paracetamolem?* → N-acetylcystein.
 
 ---
 
@@ -3559,6 +3970,10 @@ NÚ (anticholinergní): sucho v ústech, poruchy chuti, zhoršení glaukomu, zá
 
 🔑 **Úlevová léčba = otevře průdušky HNED. Kontrolující léčba = tlumí zánět DLOUHODOBĚ, sama záchvat nezastaví.**
 
+❓ **Doptají se:**
+- *Proč musí mít astmatik vždy u sebe úlevovou medikaci, i když bere pravidelně kontrolující léčbu?* → Kontrolující léčba (kortikosteroidy) tlumí zánět dlouhodobě, ale akutní bronchospasmus nezastaví — na to je potřeba rychle působící bronchodilatans.
+- *Co bys doporučila pacientovi na inhalačních kortikoidech kvůli riziku orofaryngeální kandidózy?* → Vyplachovat ústa po každé inhalaci.
+
 ---
 
 ## 97 · Antihistaminika
@@ -3590,6 +4005,9 @@ Indikace: prevence alergické rinosinusitidy, léčba alergické konjunktivitidy
 NÚ I. generace: sedace, horší soustředění, antimuskarinový efekt → vysušení sliznic a zahuštění hlenu, potíže s močením, impotence, zácpa.
 
 🔑 **I. generace = prochází HEB, ospalá, neselektivní. II. generace = neprochází HEB, nesedativní, selektivní.**
+
+❓ **Doptají se:**
+- *Proč se antihistaminikum I. generace kombinuje s adrenalinem při anafylaxi?* → Adrenalin je lék první volby (řeší oběh a dýchání okamžitě), antihistaminikum blokuje receptor pro histamin a doplňuje léčbu.
 
 ---
 
@@ -3623,6 +4041,10 @@ Terapie: pravidelné doplňování tekutin, hlenová dieta (rýže, mrkev), a fa
 
 🔑 **Laxativa = léčba zácpy je hlavně životospráva. Obstipancia = nikdy u podezření na infekční průjem.**
 
+❓ **Doptají se:**
+- *Proč se loperamid nepodává u podezření na infekční průjem?* → Zpomalí průchod střevem a zadrží patogen uvnitř, kde způsobí víc škody.
+- *Jaké dvojí využití má laktulóza?* → Osmotické projímadlo a léčba jaterní encefalopatie.
+
 ---
 
 ## 99 · Farmakoterapie vředové choroby gastroduodena a GERD
@@ -3651,6 +4073,10 @@ Komplikace: krvácení, perforace, penetrace do střeva nebo slinivky, zúžení
 **Antibiotika k eradikaci *H. pylori*:** amoxicilin + klaritromycin, 14 dní, účinnost asi 80 %.
 
 🔑 **Žaludeční vřed = bolí PO jídle. Duodenální vřed = bolí NALAČNO.**
+
+❓ **Doptají se:**
+- *Jak rozlišíš žaludeční a duodenální vřed podle bolesti?* → Žaludeční bolí po jídle, duodenální nalačno a po jídle se uleví.
+- *Z čeho se skládá standardní léčba H. pylori?* → Amoxicilin + klaritromycin + inhibitor protonové pumpy, 14 dní.
 
 ---
 
@@ -3700,6 +4126,10 @@ NÚ: ospalost, vysoký prolaktin, průjmy, slinění, poruchy srdečního rytmu.
 
 🔑 **Setrony (5-HT3 antagonisté) = nejúčinnější antiemetika, hlavně proti chemoterapii.**
 
+❓ **Doptají se:**
+- *Proč je cisplatina nejsilnější emetogen?* → Uvolní serotonin ze sliznice tenkého střeva, který přes parasympatikus aktivuje centra zvracení.
+- *Kde v mozku roste efekt prokinetik nejméně?* → Efekt klesá aborálně — nejsilnější je na horním konci trávicí trubice (jícnový svěrač).
+
 ---
 
 ## 101 · Farmakoterapie nespecifických střevních zánětů
@@ -3728,6 +4158,10 @@ Cílem léčby je potlačit zánětlivý proces. Antibiotika se podávají jen p
 
 🔑 **Logika léčby v jedné větě: aminosalicyláty na dlouhodobé držení, kortikoidy na rychlé navození remise, imunosupresiva na její udržení.**
 
+❓ **Doptají se:**
+- *Jaký je hlavní rozdíl v rozsahu postižení mezi Crohnovou nemocí a ulcerózní kolitidou?* → Crohn postihuje celý GIT a celou tloušťku stěny (i s "přeskakujícími" úseky), ulcerózní kolitida jen sliznici tlustého střeva a konečníku.
+- *Proč se kortikosteroidy nepoužívají dlouhodobě?* → Vysoký výskyt NÚ, hodí se jen na rychlé navození remise.
+
 ---
 
 ## 102 · Spasmolytika
@@ -3749,6 +4183,10 @@ Indikace: tišení bolesti a tlumení spazmů trávicího a urogenitálního ús
 KI: glaukom, atonie střev, zvětšená prostata, tachykardie, retence moči. NÚ: nejvíc jich způsobují parasympatolytika — retence moči, tachykardie a tachyarytmie, zvýšení nitroočního tlaku, neklid, poruchy zaostřování oka, toxické megakolon, paralytický ileus.
 
 🔑 **KI i NÚ vycházejí z jediné věci — z parasympatolytického efektu.** Když si to odvodíš, nemusíš je memorovat.
+
+❓ **Doptají se:**
+- *Ovlivňují spasmolytika cévy a průdušky?* → Ne (kromě muskulotropních, viz níže), působí jen na duté orgány trávicího a urogenitálního ústrojí.
+- *Proč mají neurotropní spasmolytika tolik NÚ?* → Všechny plynou z jejich parasympatolytického (anticholinergního) účinku.
 
 ---
 
@@ -3782,6 +4220,10 @@ Indikace: po odstranění žlučníku, po operaci žlučových cest, při biliá
 **Rozpouštění žlučových kamenů:** kameny vznikají při přesycení žluči cholesterolem a volným bilirubinem; terapeuticky se snižuje tvorba cholesterolu — deriváty žlučových kyselin s nerozpustnými pryskyřicemi.
 
 🔑 **Hepatoprotektiva = slabě doložený efekt, řekni to nahlas. Laktulóza = léčba jaterní encefalopatie přes vazbu amoniaku.**
+
+❓ **Doptají se:**
+- *Jak funguje laktulóza v léčbě jaterní encefalopatie?* → Okyselí obsah tlustého střeva a přemění amoniak na NH₄⁺, který se nevstřebá do krve.
+- *Jaký je vědecký konsenzus o účinnosti hepatoprotektiv?* → Nízká, minimální doložený přínos — je to dobré nahlas přiznat.
 
 ---
 
@@ -3829,6 +4271,9 @@ Aplikace kapek: záklon hlavy, pohled vzhůru, odtažené dolní víčko → po 
 **E) Ostatní:** fluorescein — do žíly, barvivo pro diagnostiku (fluorescenční angiografie); guajazulen — protizánětlivý, antiseptický, adstringentní, podporuje hojení, preventivně u pacientů v kómatu proti vyschnutí oka; okriplazmin — do sklivce k léčbě vitreomakulární trakce.
 
 🔑 **80 % oční kapky jde do celotělového oběhu, mimo first-pass efekt — pozor na systémové NÚ i u lokálního léku.**
+
+❓ **Doptají se:**
+- *Proč je nebezpečné podceňovat systémové účinky očních kapek?* → Až 80 % dávky se vstřebá do celotělového oběhu a navíc obejde first-pass efekt v játrech.
 
 ---
 
@@ -3880,6 +4325,10 @@ Dělení drog: "měkké" — nezpůsobují fyzickou závislost, menší rizika (
 Závislost na opiátech: prevence odvykacího syndromu benzodiazepiny, haloperidol a tiaprid; metadon při dlouhodobé závislosti; anticravingová léčba: metadon, buprenorfin + naloxon.
 
 🔑 **Dopamin v nucleus accumbens = jádro celého mechanismu závislosti. "Cues" po čase samy spustí dopamin → relaps.**
+
+❓ **Doptají se:**
+- *Proč hrozí relaps i po dlouhé abstinenci?* → Podmíněné podněty ("cues") spojené s drogou samy o sobě vyplaví dopamin, i bez samotné látky.
+- *Jaké léky nevyvolávají závislost?* → Antidepresiva.
 
 ---
 
@@ -3936,6 +4385,10 @@ Léčba intoxikace: stanovit koncentraci metanolu v krvi, **podat 10% roztok eth
 
 🔑 **Léčba otravy metanolem = ethanol i.v. (soutěží o stejný enzym). Vnitřní podání ethanolu jako léku má jen tuhle jedinou indikaci.**
 
+❓ **Doptají se:**
+- *Proč se otrava metanolem léčí podáním ethanolu?* → Ethanol soutěží se stejnou alkoholdehydrogenázou, čímž zpomalí vznik toxického formaldehydu a kyseliny mravenčí.
+- *Jaký je mechanismus disulfiramu?* → Blokuje aldehyddehydrogenázu, takže se při požití alkoholu hromadí toxický acetaldehyd a vyvolá nepříjemné příznaky.
+
 ---
 
 ## 107 · Konopí, kanabinoidy
@@ -3968,6 +4421,9 @@ Užívá se kouřením, vaporizací, ústy. Pryskyřice obsahuje THC (psychogenn
 
 🔑 **THC zvyšuje riziko psychózy — zvlášť rizikové u lidí s psychiatrickou zátěží.**
 
+❓ **Doptají se:**
+- *Proč je marihuana prokazatelná v testech ještě dlouho po užití?* → THC je lipofilní a hromadí se v tukové tkáni.
+
 ---
 
 ## 108 · Halucinogeny (psychomimetika)
@@ -3992,6 +4448,10 @@ Fyzické účinky: rozšířené zornice, snížená chuť k jídlu, husí kůž
 | Fencyklidin | syntetický halucinogen, antagonista NMDA receptorů; halucinace, pocit nadlidské síly a nesmrtelnosti, necítí bolest, psychóza, zuřivost, amnézie, sebevraždy |
 
 🔑 **LSD = nemá stanovenou LD50, nedá se jím předávkovat smrtelně. Halucinogeny obecně = na rozdíl od jiných drog nevyvolávají amnézii ani poruchu vědomí.**
+
+❓ **Doptají se:**
+- *Dá se předávkovat LSD?* → Ne, nemá stanovenou smrtelnou dávku (LD50).
+- *Čím se halucinogeny odlišují od jiných látek působících na CNS?* → Nevyvolávají poruchu vědomí ani amnézii.
 
 ---
 
@@ -4050,6 +4510,10 @@ Prochází placentou — spontánní potraty, předčasné porody, malformace (s
 
 🔑 **Všechna stimulancia zvyšují monoaminy — amfetaminy uvolňováním, kokain blokádou vychytávání. Amfetamin/metylfenidát/modafinil jsou zároveň legální léky.**
 
+❓ **Doptají se:**
+- *Jaký je typ závislosti na amfetaminech?* → Mírná fyzická, ale silná psychická.
+- *Proč amfetaminová psychóza připomíná schizofrenii?* → Obě souvisí s nadměrnou dopaminovou aktivitou (dopaminová teorie psychóz).
+
 ---
 
 ## 110 · Nikotin
@@ -4087,6 +4551,10 @@ Otrava nikotinem: zvracení, křeče, zmatenost, tachykardie, respirační selh�
 
 🔑 **Kotinin = marker kouření. CHOPN vzniká téměř výhradně u kuřáků.**
 
+❓ **Doptají se:**
+- *Proč se cigareta musí "šlukovat" a nestačí kouř jen držet v ústech?* → Kyselé pH kouře brání vstřebávání nikotinu ústní sliznicí — musí se dostat do plic.
+- *Jaký je spolehlivý marker kouření?* → Kotinin, metabolit nikotinu.
+
 ---
 
 ## 111 · Metylxantiny a jejich deriváty
@@ -4118,6 +4586,10 @@ Jde o purinové sloučeniny. **Dva mechanismy:**
 ⚠️ **NÚ: prudký pokles tlaku; u pacientů s ischemickou chorobou srdeční popsány i fatální infarkty; riziko kardiovaskulárních příhod v kombinaci s nitráty** (viz O71).
 
 🔑 **Metylxantiny = dva mechanismy: blokáda fosfodiesterázy + blokáda adenosinových receptorů. Sildenafil = blokáda PDE5, nikdy nekombinovat s nitráty.**
+
+❓ **Doptají se:**
+- *Jaké jsou dva mechanismy účinku metylxantinů?* → Blokáda fosfodiesterázy (víc cAMP) a blokáda adenosinových receptorů.
+- *Proč je nebezpečné kombinovat sildenafil s nitráty?* → Oba zvyšují cGMP stejnou cestou → extrémní, nebezpečný pokles tlaku.
 
 ---
 
@@ -4154,6 +4626,10 @@ Nesteroidní antirevmatika (= nesteroidní antiflogistika) mají protizánětliv
 
 🔑 **NSA = jen tlumí příznaky. DMARD = zasahují imunopatologický proces, zpomalují postup nemoci, ale pomalý nástup.**
 
+❓ **Doptají se:**
+- *Jaký je hlavní rozdíl mezi NSA a DMARD?* → NSA jen tlumí příznaky, DMARD zpomalují samotný postup nemoci, ale nastupují pomalu.
+- *Který lék ze sloučenin zlata má nejpomalejší nástup?* → Efekt nastupuje až po 4 měsících u obou (aurothiomalát, auranofin).
+
 ---
 
 ## 113 · Antiuratika
@@ -4186,6 +4662,10 @@ Může vést k degenerativním kloubním procesům.
 K prevenci je důležitá životospráva: omezení jídel bohatých na puriny, omezení alkoholu, redukce nadváhy.
 
 🔑 **Alopurinol = jen dlouhodobá prevence, NIKDY na akutní záchvat. Akutní záchvat = NSA, kolchicin, kortikoidy.**
+
+❓ **Doptají se:**
+- *Můžeš nasadit alopurinol při akutním záchvatu dny?* → Ne, je jen pro dlouhodobou léčbu; akutní záchvat se řeší NSA, kolchicinem nebo kortikoidy.
+- *Jak funguje kolchicin?* → Mitotický jed, brání tvorbě mikrotubulů, čímž zablokuje migraci leukocytů do postiženého kloubu.
 
 ---
 
@@ -4220,6 +4700,9 @@ Přírodní látky: echinacea s vitaminem C, hlíva ústřičná s rakytníkový
 | Vakcíny | NÚ: bolest v místě vpichu, alergické reakce, lehké příznaky nemoci, proti které je vakcína namířena | |
 
 🔑 **Cyklosporin/takrolimus = úzké terapeutické okno, nutné TDM. Isoprinosin = zvyšuje NK buňky, na recidivující herpes.**
+
+❓ **Doptají se:**
+- *Proč je nutné monitorovat hladiny cyklosporinu?* → Má úzké terapeutické okno a metabolizuje se přes CYP3A4 s rizikem toxicity (nefro-, neurotoxicita).
 
 ---
 
@@ -4275,6 +4758,10 @@ Diagnosticky se pomocí GnRH odliší hypogonadotropní hypogonadismus (nedostat
 
 🔑 **GnRH pulzně = stimuluje. GnRH kontinuálně = tlumí (biochemická kastrace).** Desmopresin = jen V2 (voda), terlipresin = jen V1 (cévy).
 
+❓ **Doptají se:**
+- *Jaký je zásadní rozdíl mezi pulzním a kontinuálním podáním GnRH?* → Pulzní stimuluje uvolnění gonadotropinů, kontinuální ho naopak potlačí (biochemická kastrace).
+- *Proč se vazopresin sám nehodí pro léčbu?* → Poločas jen 10 minut a neselektivní efekt (V1 i V2 zároveň).
+
 ---
 
 ## 116 · Farmakoterapie onemocnění štítné žlázy
@@ -4323,6 +4810,10 @@ NÚ: v nadbytku aktivace autoimunity štítné žlázy, hypotyreóza (při dosta
 
 🔑 **T4 = pomalý, dlouhý poločas. T3 = rychlý, silnější, jen na urgentní stavy.**
 
+❓ **Doptají se:**
+- *Proč se liothyronin (T3) nehodí na dlouhodobou léčbu?* → Rychlý nástup a krátký poločas — vyhrazen jen pro urgentní stavy (myxedémové kóma).
+- *Jaký je hlavní enzymový přenašeč T3/T4 v krvi?* → TBG (thyroxin-binding protein).
+
 ---
 
 ## 117 · Glukokortikoidy, mineralokortikoidy
@@ -4368,6 +4859,10 @@ Nadměrná sekrece (Connův syndrom): zadržování sodíku a vody, nízký dras
 
 🔑 **Bezpečná dlouhodobá dávka prednisonu = 2,5 mg/den. Nad to riziko osteoporózy roste.**
 
+❓ **Doptají se:**
+- *Proč se glukokortikoidy nevysazují náhle?* → Riziko rebound fenoménu — tělo dočasně nemá dost vlastní produkce hormonů, aby reagovalo na stres.
+- *Co zajišťuje selektivitu mineralokortikoidních receptorů vůči glukokortikoidům?* → Enzym 11-β-hydroxysteroiddehydrogenáza, který glukokortikoidy v cílové buňce inaktivuje.
+
 ---
 
 ## 118 · Farmakoterapie obezity
@@ -4390,6 +4885,10 @@ Nadměrná sekrece (Connův syndrom): zadržování sodíku a vody, nízký dras
 | Bupropion + naltrexon (fixní kombinace) | bupropion — antidepresivum NDRI, anticravingová léčba závislosti na jídle, nikotinu i alkoholu; naltrexon — antagonista μ-opioidních receptorů, snižuje euforizující efekt jídla |
 
 🔑 **GLP-1 analoga = dnešní nejmodernější přístup, napodobují hormon sytosti, fungují i na diabetes.**
+
+❓ **Doptají se:**
+- *Jak funguje orlistat a jaký má typický NÚ?* → Blokuje pankreatickou lipázu, sníží vstřebávání tuků → mastná, obtížně předvídatelná stolice (steatorea).
+- *Proč se GLP-1 analoga používají i u diabetu?* → Kromě potlačení chuti k jídlu potencují sekreci inzulinu.
 
 ---
 
@@ -4426,6 +4925,10 @@ Význam: vývoj primárních a sekundárních pohlavních znaků, plodnost a lib
 > **Feminizace u mužů po anabolikách zní jako paradox — a právě proto se na ni ptají.** Vysvětlení v jedné větě: testosteron je prekurzorem estrogenu, takže jeho nadbytek znamená i nadbytek estrogenu.
 
 🔑 **Testosteron = přímo aktivní ve svalu a játrech. Jinde potřebuje přeměnu na DHT (5-α-reduktáza).**
+
+❓ **Doptají se:**
+- *Proč vysoké dávky anabolik u mužů vedou k feminizaci?* → Testosteron je prekurzorem estrogenu, jeho nadbytek se z části přemění na estrogen.
+- *Proč anabolika u dětí zastaví růst?* → Předčasně uzavřou růstové ploténky kostí.
 
 ---
 
@@ -4480,6 +4983,10 @@ NÚ: bolest hlavy, deprese, přírůstek hmotnosti, změna libida, zvýšení tl
 
 🔑 **Estrogeny = chrání cévy a kost, ale zvyšují srážlivost. Progesteron = snižuje počet estrogenových receptorů.**
 
+❓ **Doptají se:**
+- *Proč mají ženy do menopauzy nižší riziko cévních nemocí?* → Estrogeny zvyšují HDL a mají obecně ochranný vliv na cévy.
+- *Jak progesteron chrání endometrium před nádory?* → Snižuje počet estrogenových receptorů, čímž tlumí proliferační efekt estrogenů.
+
 ---
 
 ## 121 · Kontraceptiva
@@ -4518,6 +5025,10 @@ Nevýhody: poruchy menstruačního cyklu, nepravidelné krvácení, napětí v p
 
 🔑 **Kombinovaná = estrogen tlumí FSH, gestagen tlumí LH + zahušťuje hlen. Gestagenní samostatná = jen hustota hlenu + narušení ovulace, vhodná pro kuřačky a kojící.**
 
+❓ **Doptají se:**
+- *Proč se acetylcystein nekombinuje s gestagenní antikoncepcí?* → Ředí hlen děložního hrdla, což ruší hlavní mechanismus účinku (zahuštění hlenu jako bariéra pro spermie).
+- *Jaké pozitivní účinky má kombinovaná antikoncepce mimo prevenci těhotenství?* → Úprava cyklu, méně krvácení, méně PMS, méně funkčních cyst, méně mimoděložních těhotenství, zlepšení akné.
+
 ---
 
 ## 122 · Farmakoterapie benigní hyperplazie prostaty
@@ -4554,6 +5065,10 @@ Dřív bez léčby vznikal zbytek moči v měchýři, jeho zbytnění až poško
 > **Propojení:** finasterid je zároveň učebnicový příklad **noceba** z obecné otázky O9 — informovaní pacienti hlásí erektilní dysfunkci výrazně častěji než neinformovaní.
 
 🔑 **α-blokátory = rychlá úleva (uvolní sval). 5-α-reduktáza inhibitory = pomalu zmenší samotnou žlázu.**
+
+❓ **Doptají se:**
+- *Proč inhibitory 5-α-reduktázy nesníží svalovou hmotu, i když blokují přeměnu na DHT?* → Sval je aktivní přímo testosteronem, DHT nepotřebuje.
+- *Jaký je typický vedlejší účinek inhibitorů 5-α-reduktázy?* → Sexuální dysfunkce (horší libido, poruchy erekce), a je to i klasický příklad noceba efektu.
 
 ---
 
@@ -4594,6 +5109,10 @@ Co ovlivňuje úspěšnost: racionální volba cytostatika, eskalace dávek, kom
 
 🔑 **Antracykliny = kardiotoxické. Cisplatina = nejsilnější emetogen a nefrotoxická.**
 
+❓ **Doptají se:**
+- *Proč jsou antimetabolity toxické i pro zdravé buňky?* → Blokují enzymy syntézy nukleových kyselin obecně, což postihne všechny rychle se dělící buňky, ne jen nádorové.
+- *Proč se u léčby cisplatinou vždy dávají setrony?* → Je to nejsilnější emetogen, uvolňuje serotonin ze sliznice tenkého střeva.
+
 ---
 
 ## 124 · Farmakoterapie anemií
@@ -4623,6 +5142,10 @@ Příznaky: zvýšená unavitelnost, celková slabost, bledost, závratě, boles
 **Krevní transfuze** — erytrocytární koncentráty, plně kompatibilní s krví pacienta, virologicky testované na HIV, hepatitidy, CMV a syfilis. **Indikace: hemoglobin pod 80 g/l.** NÚ: potransfuzní reakce z protilátek, přetížení oběhu, tvorba protilátek, přetížení organismu železem.
 
 🔑 **Vitamin B12 potřebuje kyselé prostředí žaludku, proto ho zhoršují PPI a omeprazol.**
+
+❓ **Doptají se:**
+- *Proč omeprazol snižuje vstřebávání vitaminu B12?* → Sníží kyselost žaludku, která je nutná k jeho uvolnění a vstřebání.
+- *Při jaké hladině hemoglobinu je indikovaná transfuze?* → Pod 80 g/l.
 
 ---
 
@@ -4656,6 +5179,10 @@ Kontrastní látky se používají pro lepší a detailnější zobrazení sledo
 **Negativně kontrastní látky** — plyny (vzduch, oxid uhličitý), voda, roztoky cukerných alkoholů (manitol, sorbitol); v RTG se využívají vzácně, častěji v CT.
 
 🔑 **Nerozpustný síran barnatý = i přes toxicitu barya samotného bezpečný. Jódové látky = riziko anafylaxe a ovlivnění štítné žlázy.**
+
+❓ **Doptají se:**
+- *Proč se síran barnatý používá i přes toxicitu barya?* → Je nerozpustný, takže se nevstřebává a k otravě nevede.
+- *Jak nadbytek jódu z kontrastní látky ovlivní štítnou žlázu podle toho, kolik jódu pacient normálně přijímá?* → U pacienta s dostatkem jódu vyvolá hypotyreózu, u pacienta s nedostatkem naopak hypertyreózu.
 
 ---
 
@@ -4704,6 +5231,10 @@ Nejčastěji používaná antiseptika: ethanol 60–70 %, jodofory, chlorhexidin
 **Dělení podle chemické struktury:** alkoholy — působí na bakteriální membrány a denaturují bílkoviny: ethanol 60–70 %, isopropanol 70 %; fenoly — denaturace bílkovin, oxidační účinky: chlorhexidin; aldehydy — denaturace bílkovin: formaldehyd.
 
 🔑 **Kyselina salicylová a močovina — jejich efekt je čistě otázkou koncentrace, ne odlišné látky.**
+
+❓ **Doptají se:**
+- *Jaký je rozdíl mezi dezinficienciem a antiseptikem?* → Dezinficiens se používá na neživé předměty (usmrtí mikroby), antiseptikum na živou tkáň (v koncentraci, která ji nepoškodí).
+- *Jaká koncentrace kyseliny salicylové je keratolytická?* → 5–10 %.
 
 ---
 
@@ -4764,6 +5295,10 @@ Typy: parenterální plná × doplňková; enterální (nasogastrická nebo naso
 
 🔑 **Iontové poruchy — nikdy je nekoriguj příliš rychle. Refeeding syndrom = klesá fosfor, hořčík, sodík po znovunasazení jídla u podvyživeného pacienta.**
 
+❓ **Doptají se:**
+- *Co hrozí při příliš rychlé korekci hyponatremie?* → Syndrom centrální pontinní myelinolýzy — poškození nervového systému až kvadruplegie.
+- *Co je refeeding syndrom a kdy hrozí?* → Metabolické abnormality (pokles fosforu, hořčíku, sodíku) po obnovení příjmu jídla u podvyživeného/hladovějícího pacienta.
+
 ---
 
 ## 128 · Vitaminy rozpustné v tucích
@@ -4814,6 +5349,10 @@ Předávkování: nevolnost, zvracení, nechutenství, zácpa, slabost, úbytek 
 
 🔑 **Vitamin A a D = jediné, kde reálně hrozí předávkování. Vitamin K jako antidotum warfarinu = pomalý (12–24 h), ne okamžitý.**
 
+❓ **Doptají se:**
+- *Proč nefunguje vitamin K jako okamžité antidotum warfarinu?* → Musí nejdřív dojít k resyntéze koagulačních faktorů, což trvá 12–24 hodin.
+- *Jaká je nebezpečná interakce vitaminu A?* → S tetracyklinovými antibiotiky — riziko nitrolební hypertenze.
+
 ---
 
 ## 129 · Vitaminy rozpustné ve vodě
@@ -4854,6 +5393,10 @@ Interakce: vitamin C může ovlivnit užívání paracetamolu, antacid s hliník
 **Dva vitaminy skupiny B, které musíš umět i farmakologicky: B9 a B12** — jejich nedostatek je jednou z příčin anemie (viz O124). Interakce: fenytoin, karbamazepin a barbituráty ovlivňují hladiny kyseliny listové i B12; omeprazol a metformin snižují vstřebávání B12. **B6 a B9 jsou tepelně nestabilní** — tepelnou úpravou jejich obsah v jídle výrazně klesá.
 
 🔑 **Vitamin C si člověk (na rozdíl od většiny zvířat) neumí sám vyrobit. B9 a B12 = spojka na anemii, jejich vstřebávání ruší PPI/metformin/antiepileptika.**
+
+❓ **Doptají se:**
+- *Proč lidé potřebují přijímat vitamin C v potravě, na rozdíl od většiny zvířat?* → Neumí si ho sami syntetizovat (spolu s primáty a morčaty).
+- *Jaké dva vitaminy B souvisí s anemií?* → B9 (kyselina listová) a B12.
 
 ---
 
@@ -4909,6 +5452,11 @@ Vitamin D (viz O128); vitamin K2 (menachinon) — součást léčby osteoporózy
 
 🔑 **Fluor sice buduje zubní sklovinu (kalciumfluoroapatit), ale na osteoporózu se kvůli malému efektu nepoužívá. Teriparatid krátkodobě = staví kost. Nadbytek vlastního PTH dlouhodobě = boří kost.**
 
+❓ **Doptají se:**
+- *Kdy je T-skóre diagnostické pro osteoporózu?* → Pod −2,5 SD.
+- *Proč se fluor u osteoporózy nepoužívá, i když se zabudovává do kosti?* → Efekt na kostní denzitu je malý.
+- *Jak vysvětlíš paradox, že PTH kost jednou staví a jednou boří?* → Krátkodobý pulzní fragment (teriparatid) stimuluje osteoblasty, dlouhodobá trvalá hypersekrece celého PTH vede k převaze odbourávání.
+
 ---
 
 ## 131 · Fytoterapie
@@ -4934,6 +5482,10 @@ Vitamin D (viz O128); vitamin K2 (menachinon) — součást léčby osteoporózy
 Rostlinné přípravky vznikají zpracováním rostlinných látek různými metodami. Některé jsou registrovány stejně jako léčivé přípravky, tedy s klinickými zkouškami (např. Detralex), ale většina je registrována zjednodušeným postupem jako tradiční rostlinné léčivé přípravky.
 
 🔑 **"Přírodní" neznamená "bezpečné" — hlavní riziko je, že lékař o fytofarmaku často neví a nemůže tak předejít interakci.**
+
+❓ **Doptají se:**
+- *Proč je fytoterapie riziková, i když se jedná o "přírodní" léčbu?* → Aktivní látky mohou být stejně toxické jako syntetické léky, málo se testují a lékař o nich často neví.
+- *Jaké jsou tři důvody, proč se medicína odklonila od rostlinných přípravků k syntetickým lékům?* → Specifita účinku, přesnost dávkování, možnost parenterálního podání.
 
 ---
 
@@ -4993,6 +5545,10 @@ Klasifikace látek: syntetické × přirozené (rostlinné, živočišné, bakte
 
 🔑 **Paracelsův princip: neexistuje "netoxická" látka, jen otázka dávky. Nebezpečnost + expozice = riziko.**
 
+❓ **Doptají se:**
+- *Co znamená NOAEL?* → Nejvyšší dávka, při které nebyl pozorován žádný nepříznivý účinek.
+- *Co je hormeze?* → Vztah dávka-účinek, kdy škodí jak nedostatek, tak nadbytek látky (např. vitaminy).
+
 ---
 
 ## 133 · Terapie otrav a předávkování
@@ -5048,6 +5604,11 @@ Klasifikace látek: syntetické × přirozené (rostlinné, živočišné, bakte
 
 🔑 **Kyanidová otrava = kyslík proudí do tkání, ale buňky ho nemohou využít — proto NENÍ cyanóza, na rozdíl od jiných otrav s hypoxií.**
 
+❓ **Doptají se:**
+- *Proč otrava kyanidem nezpůsobí cyanózu?* → Kyslík se do tkání dostává normálně, jen ho buňky nemohou využít (blokáda cytochromoxidázy).
+- *Jaké je antidotum otravy kyanidem?* → Hydroxykobalamin, dusitany (methemoglobin), thiosíran sodný.
+- *Co nikdy neděláš při snaze snížit vstřebávání jedu po požití kyselin/louhů?* → Nevyvoláváš zvracení.
+
 ---
 
 ## 134 · Toxikologie rostlin a hub
@@ -5084,6 +5645,10 @@ Klasifikace látek: syntetické × přirozené (rostlinné, živočišné, bakte
 Obecné zásady u otrav: odstranění agens, podpůrná opatření, urychlení vylučování, antidota.
 
 🔑 **Muchomůrka zelená = amanitin blokuje proteosyntézu, koloběh přes žluč → léčba aktivním uhlím.**
+
+❓ **Doptají se:**
+- *Proč se u otravy muchomůrkou zelenou podává aktivní uhlí, když toxin je už vstřebaný?* → Amanitin se vylučuje do žluči/střeva a znovu se vstřebává (enterohepatální koloběh) — aktivní uhlí ho v střevě zachytí a přeruší tento cyklus.
+- *Která rostlina je z našich nejtoxičtější podle LD50?* → Oměj šalamounek (akonitin, LD50 = 0,028 mg/kg).
 
 ---
 
@@ -5139,6 +5704,10 @@ Kdy podat antisérum: hypotenze a šok, protrahovaná těžká GIT symptomatolog
 **Černá mamba** — neléčené uštknutí má 100% úmrtnost, léčené 14 %; smrt z paralýzy dýchacích svalů za méně než 10 minut od rozvoje příznaků. **Taipan velký** — považován za nejjedovatějšího hada — jeden had má dost jedu na 59 dospělých lidí; taicatoxin; smrt do 3–6 h, při léčbě úmrtnost 4,3 %.
 
 🔑 **Naše zmije = bolí, ale nekrotizuje ani obvykle nezabíjí. Mořské toxiny = skoro všechny blokují Na⁺ kanály.**
+
+❓ **Doptají se:**
+- *Vzniká po uštknutí naší zmijí obecnou nekróza?* → Ne, na rozdíl od jiných hadích jedů typicky nevzniká.
+- *Jaký je společný mechanismus většiny mořských toxinů?* → Ovlivňují napěťově řízené sodíkové kanály.
 
 ---
 
@@ -5199,6 +5768,11 @@ Terapie: přerušení expozice a dekontaminace, podpůrná léčba (u encefalopa
 
 🔑 **Rtuť = gingivostomatitida + tremor + Minamata. Olovo = tmavý lem na dásni + "malířská ruka" + 90 % uloženo v kosti jako depo.**
 
+❓ **Doptají se:**
+- *Jaký nález na dásních uvidíš u chronické otravy olovem a u rtuti?* → Olovo: tmavý lem na dásni. Rtuť: gingivostomatitida (zánět dásní a sliznice úst).
+- *Proč mohou příznaky otravy olovem propuknout i dlouho po skončení expozice?* → 90 % olova je uloženo jako zásoba v kosti a při její přestavbě se olovo uvolňuje zpět do krve.
+- *Který ze tří kovů je popisován jako nejtoxičtější?* → Arzen.
+
 ---
 
-*Tím je dokončena celá Obecná farmakologie (O1–O35), Speciální farmakologie I (36–88) i Speciální farmakologie II (89–136), všech 136 oficiálních otázek. Detailnější verze s doplňujícími otázkami "Doptají se" je v `VYPISKY-KOMPLET.md`, kdyby u některé otázky zbyl čas jít ještě hlouběji.*
+*Tím je dokončena celá Obecná farmakologie (O1–O35), Speciální farmakologie I (36–88) i Speciální farmakologie II (89–136), všech 136 oficiálních otázek.*
