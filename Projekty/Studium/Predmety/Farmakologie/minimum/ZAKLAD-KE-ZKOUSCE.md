@@ -55,9 +55,9 @@ Perorální/orální = nejfyziologičtější cesta, ale s **pomalejším nástu
 
 **Oční kapky** — do oka nakonec pronikne jen asi **1 % dávky** (zbytek spláchnou slzy); po nakápnutí **tlačit vnitřní koutek ~1 minutu**, aby kapka neodtekla slzným kanálkem. **Nosní sliznice** — přípravek tam vydrží jen asi **20 minut**, pak ho odstraní řasinky; systémové podání obchází first-pass (příklad: Bagsimi/glukagon u hypoglykemie). **Ušní kapky** — vždy jen lokálně, zahřát na tělesnou teplotu před aplikací (studené bolí). **Rektální podání** — obchází first-pass jen asi z **50 %**, hodí se když nejde p.o. (zvracení, bezvědomí); čípky se rozpouští při tělesné teplotě. **Inhalační** — rychlý nástup, obrovská plocha plic (~100 m²), vysoká lokální koncentrace při nízké celkové dávce → méně systémových NÚ. 🔑 Barva kyslíkové lahve = **bílá**.
 
-## O9 · Compliance, adherence, placebo a nocebo efekt
+## O9 · Komunikace s pacientem, compliance, adherence, placebo a nocebo efekt
 
-**Compliance** = jak pacient dodržuje předepsanou léčbu, **adherence** = širší pojem (aktivní spolupráce pacienta na plánu). Faktory: složitost režimu, počet dávek denně, NÚ, důvěra v lékaře, chronicita nemoci bez příznaků (nejhorší compliance). **Placebo efekt** = zlepšení stavu bez farmakologicky účinné látky, díky očekávání. **Nocebo efekt** = zhoršení/NÚ z očekávání negativního účinku. ⚠️ Klasický příklad: u finasteridu hlásili informovaní pacienti erektilní dysfunkci mnohem častěji (44 % vs. 15 %) než neinformovaní — čistě z očekávání.
+Při předepsání musí lékař vysvětlit **lékovou formu podle pacienta**, dávkování, možné **lékové interakce** a případný doplatek. **Compliance** = jak pacient dodržuje předepsanou léčbu, **adherence** = dnes preferovaný pojem, zdůrazňuje **aktivní spoluzodpovědnost** pacienta (ne jen poslušnost). Na compliance má vliv: složitost režimu, počet denních dávek, NÚ, důvěra v lékaře, a hlavně **chronicita nemoci bez příznaků** (nejhorší compliance — pacient necítí, že je nemocný). Zlepší se jednoduchým režimem a vysvětlováním. **Placebo efekt** = měřitelné zlepšení stavu bez účinné látky, díky očekávání (používá se jako srovnávací rameno ve fázi III studií, O4); funguje dobře u bolesti/deprese, málo u objektivně těžkých nemocí. **Nocebo efekt** = zhoršení/NÚ z očekávání negativního účinku. ⚠️ Klasický doložený příklad: u finasteridu hlásili informovaní pacienti erektilní dysfunkci mnohem častěji (44 % vs. 15 %) než neinformovaní — čistě z očekávání.
 
 ## O10 · Mechanismy transportu léčiv přes membrány
 
@@ -81,7 +81,7 @@ Farmakokinetika popisuje osud léčiva v těle = **ADME** (Absorpce, Distribuce,
 
 ## O15 · Eliminace, poločas eliminace, eliminační konstanta, clearance
 
-**Clearance (CL)** = objem plazmy zcela očištěný od léčiva za jednotku času; **ke = CL/Vd**. Pravidlo 5 poločasů platí i tady (po 5 t½ zbývá ~3 %). 🔑 **Čas do dosažení steady state (ustáleného stavu) závisí JEN na biologickém poločasu (t½)** — ne na dávce, cestě podání ani rychlosti infuze; za 5 poločasů je koncentrace na 97 % ustálené hodnoty.
+Eliminace probíhá dvěma cestami: **exkrece nezměněné molekuly** (jen malá část léčiv) nebo **metabolismus + exkrece metabolitu** (většina léčiv). **Clearance (CL)** = objem plazmy zcela očištěný od léčiva za jednotku času; rozhodující jsou **jaterní clearance (CLh)** a **renální clearance (CLr)** — jejich poměr určuje, kdy je nutné upravit dávkování při selhání jater vs. ledvin. **ke = CL/Vd**. Pravidlo 5 poločasů platí i tady (po 5 t½ zbývá ~3 %). 🔑 **Čas do dosažení steady state (ustáleného stavu) závisí JEN na biologickém poločasu (t½)** — ne na dávce, cestě podání ani rychlosti infuze; za 5 poločasů je koncentrace na 97 % ustálené hodnoty.
 
 ## O16 · Dávkovací režim, kumulace léčiv
 
@@ -93,7 +93,7 @@ Cíl: přeměnit léčivo na formu lépe rozpustnou ve vodě, aby se dalo vylou�
 
 ## O18 · Úloha jater v eliminaci léčiv, first-pass efekt
 
-**First-pass efekt** = přeměna léku při prvním průchodu portálním (jaterním) řečištěm, hned po vstřebání ze střeva — u některých léků (morfin, nitroglycerin, verapamil) se tak ztratí velká část dávky. 🔑 Proto se nitroglycerin dává **pod jazyk, nikdy nepolyká** — sublingválně first-pass efekt obchází.
+**Presystémová eliminace** = léčivo se přemění na neúčinné metabolity ještě předtím, než se dostane do systémového oběhu (podílí se na tom enzymy střevní sliznice i jater). **First-pass efekt** = konkrétně přeměna léku při prvním průchodu portálním (jaterním) řečištěm, hned po vstřebání ze střeva — popsán u **morfinu, petidinu, nitroglycerinu, verapamilu**. Hepatocyt má dva póly: **sinusoidální** (metabolity jdou do krve → ledviny) a **žlučový** (metabolity jdou do žluči → střevo, možná enterohepatální cirkulace, O20). Příklad: morfin se v játrech mění na **morfin-6-glukuronid** (aktivní metabolit vylučovaný ledvinami) — při selhání ledvin se kumuluje a prodlužuje útlum dechu. 🔑 First-pass efekt je důvod, proč se nitroglycerin dává **pod jazyk, nikdy nepolyká** — sublingválně ho obchází.
 
 ## O19 · Inhibice a indukce enzymů léčivy, klinický význam
 
@@ -177,216 +177,215 @@ Senior = nad 65 let. Absorpce: vyšší žaludeční pH, horší motilita. Distr
 
 ## 36 · Cholinergní přenos vzruchu
 
-VNS = sympatikus (thorakolumbální, "fight or flight") + parasympatikus (kraniosakrální, "rest and digest"). Cesta: mícha/kmen → pregangliové vlákno → ganglion → postgangliové vlákno → orgán, vždy přes **acetylcholin (ACh)** v gangliu. Acetylcholin je i na nervosvalové ploténce, v postgangliových vláknech parasympatiku, a ⚠️ výjimečně i v postgangliových sympatických vláknech k **potním žlázám**. Receptory: **nikotinové (N)** = iontový kanál, rychlý; **muskarinové (M)** = G-protein, pomalejší, podtypy M1–M5 (M2 srdce zpomaluje, M3 zužuje zornici/stahuje průdušky/zvyšuje sekreci).
+VNS = sympatikus (thorakolumbální, "fight or flight" — zátěž, mobilizace energie) + parasympatikus (kraniosakrální, "rest and digest" — klid, trávení). Cesta signálu vždy: mícha/kmen → **pregangliové vlákno** → ganglion → **postgangliové vlákno** → orgán. V gangliu se přepojuje vždy přes **acetylcholin (ACh)**, u obou větví. ACh je navíc na nervosvalové ploténce, na všech postgangliových vláknech parasympatiku, a ⚠️ výjimečně i na postgangliových sympatických vláknech k **potním žlázám** (jinak sympatikus postgangliově používá noradrenalin). Dva typy receptorů: **nikotinové (N)** = přímo iontový kanál, rychlý (ganglia, ploténka); **muskarinové (M)** = přes G-protein, pomalejší, podtypy M1–M5 — **M2 v srdci zpomaluje frekvenci a stah**, **M3 v hladkých svalech zužuje zornici, stahuje průdušky, zvyšuje sekreci žláz a GIT motilitu**.
 
 ## 37 · Přímá cholinomimetika
 
-Agonisté vážící se přímo na M/N receptory jako ACh — účinek jako aktivovaný parasympatikus (mióza, bradykardie, bronchokonstrikce, víc sekrece a peristaltiky). Samotný ACh se klinicky nepoužívá (rychle rozložen AChE) — místo něj karbachol/pilokarpin (glaukom), **cevimelin, pilokarpin** (xerostomie — tvoje obor!). Muskarin (otrava houbami) — antidotum **atropin**. Nikotin — nízká dávka stimuluje CNS, vysoká křeče/zástava dechu; smrtelná dávka 40 mg.
+Agonisté vázající se přímo na M i N receptory jako ACh — efekt jako aktivovaný parasympatikus: **mióza, bradykardie, bronchokonstrikce, víc slin/potu, zrychlená peristaltika**. Samotný ACh se klinicky nepoužívá (okamžitě rozložen AChE) — používají se odolnější estery a alkaloidy: **karbachol, pilokarpin** (glaukom — sníží nitrooční tlak), **cevimelin a pilokarpin** na **xerostomii** (tvoje obor — Sjögrenův syndrom). **Muskarin** (otrava houbami, hlavně vláknice) — do 15 minut sliny/pot/průjem/bradykardie, **antidotum atropin**. **Nikotin** — nízká dávka stimuluje CNS (pozornost), vysoká vyvolá křeče a zástavu dechu; z cigarety se vstřebá ~1,5 mg, smrtelná dávka **40 mg**.
 
 ## 38 · Nepřímá cholinomimetika
 
-= inhibitory cholinesterázy → hromadí se vlastní ACh. **Reverzibilní** (neostigmin, edrofonium — diagnostika myasthenia gravis, rivastigmin u Alzheimera) × **ireverzibilní** (organofosfáty — insekticidy, bojové látky sarin/soman). 🔑 Léčba otravy organofosfáty: ① atropin i.v. ② reaktivátory cholinesterázy (fungují jen než "zestárne" komplex).
+= inhibitory acetylcholinesterázy (AChE) → hromadí se vlastní ACh na M i N receptorech. **Reverzibilní** — neostigmin (pooperační atonie střev, retence moči), **edrofonium** (diagnostika myasthenia gravis — krátce zlepší svalovou sílu), rivastigmin (Alzheimer). **Ireverzibilní — organofosfáty** (insekticidy, bojové látky sarin/soman/tabun) — fosforylují AChE trvale, po pár hodinách komplex "zestárne" a stane se nezvratným. 🔑 Léčba otravy organofosfáty, v pořadí: ① **atropin i.v.** (blokuje M receptory, řeší příznaky) ② **reaktivátory cholinesterázy** (fungují jen než komplex "zestárne" — proto se spěchá).
 
 ## 39 · Parasympatolytika
 
-Blokují M receptory = "vypnutý parasympatikus": sucho v ústech (nejcitlivější žlázy), tachykardie, mydriáza. **Atropin** — mydriáza (vyšetření očí), premedikace, antidotum otravy AChE-inhibitory, KI: glaukom, hyperplazie prostaty. Deriváty: ipratropium/tiotropium (CHOPN), biperiden (Parkinson), butylskopolamin (spasmolytikum). **Botulotoxin** — blokuje uvolnění ACh presynapticky (blefarospazmus, hypersalivace, kosmeticky).
+Blokují M receptory = "vypnutý parasympatikus": **sucho v ústech je první příznak** (žlázy nejcitlivější), tachykardie, mydriáza, méně citlivé jsou žaludeční buňky tvořící kyselinu. **Atropin** — mydriáza/cykloplegie (vyšetření oka), premedikace před anestezií, **antidotum otravy AChE-inhibitory a organofosfáty**, antiarytmikum při bradykardii; KI: **glaukom, hyperplazie prostaty** (retence moči). Deriváty: ipratropium/tiotropium (CHOPN inhalačně), biperiden (Parkinson), butylskopolamin/oxybutynin (spasmolytika GIT/urogenitál). **Botulotoxin** — blokuje presynaptické uvolnění ACh (ne receptor) → blefarospazmus, hypersalivace, hyperaktivní měchýř, kosmeticky vrásky.
 
 ## 40 · Adrenergní přenos vzruchu
 
-Přenašeč sympatiku = **noradrenalin**, receptory α1/α2/β1/β2/β3 (G-protein). α1 = stažení cév/mydriáza. α2 = presynaptická brzda (méně NA). β1 = srdce (↑frekvence/síla). β2 = rozšíření cév svalů a průdušek. β3 = tuk, měchýř.
+Hlavní přenašeč sympatiku (postgangliově) = **noradrenalin**, receptory α1/α2/β1/β2/β3, všechny přes G-protein. **α1** (postsynaptické) — stažení cév, mydriáza, kontrakce svěračů, tvorba glukózy. **α2** (presynaptické) — brzda vlastního uvolňování NA (proto agonista SNIŽUJE tonus sympatiku). **β1** (hlavně srdce) — ↑frekvence, ↑síla stahu, ↑vedení, ↑sekrece reninu. **β2** — rozšíření cév ve svalech a průdušek, uvolnění dělohy a měchýře. **β3** — tuková tkáň, měchýř.
 
 ## 41 · Neselektivní sympatomimetika (katecholaminy)
 
-**Adrenalin** — největší afinita k α, i.v. rychle odbouráván (poločas ~2,5 min) → resuscitace, anafylaxe, **vazokonstrikční přísada v lokálních anestetikách** (tvoje obor). **Noradrenalin** — hlavně α1/β1, ne β2 (žádná bronchodilatace) → šokové stavy. **Dopamin** — dávkově závislý: nízká dávka D-receptory (ledviny), střední β (srdce), vysoká α (vazokonstrikce).
+Katecholaminy mají -OH skupiny na benzenovém jádře, rychle je odbourávají enzymy MAO a COMT, neúčinkují p.o. **Adrenalin** — hlavně α i β, i.v. rychle odbouráván (poločas ~2,5 min); použití: resuscitace, **anafylaktický šok** (lék 1. volby), **vazokonstrikční přísada v lokálních anestetikách** (tvoje obor — prodlouží účinek, sníží krvácení). **Noradrenalin** — hlavně α1/β1, **ne β2 → žádná bronchodilatace**, na šokové stavy s nízkým tlakem. **Dopamin** — účinek striktně dávkově závislý: **nízká dávka** → D receptory (rozšíří cévy ledvin), **střední** → β1 (posílí srdce), **vysoká** → α (stáhne periferní cévy).
 
 ## 42 · Sympatomimetika alfa
 
-**Selektivní α1** — fenylefrin, dekongestanty do nosu (ne déle než týden — riziko poškození sliznice). **Selektivní α2** — paradoxně SNIŽUJE tlak (presynaptická brzda) — **methyldopa = antihypertenzivum volby v těhotenství**.
+**Selektivní α1** — fenylefrin a dekongestanty do nosu/očí (stáhnou cévy sliznice), **nepoužívat déle než týden** (riziko poškození sliznice, návyk). **Selektivní α2** — paradoxně **SNIŽUJE tlak** (presynaptická brzda tlumí vlastní uvolňování NA) — **methyldopa = antihypertenzivum volby v těhotenství** (v mozku se přemění na aktivní metabolit).
 
 ## 43 · Sympatomimetika beta
 
-**β1 — dobutamin** (kardiogenní šok, i.v.). **β2 — SABA/LABA** (salbutamol/salmeterol, astma); formoterol je unikátně v obou skupinách (rychlý nástup i dlouhé trvání). **β3 — mirabegron** (hyperaktivní močový měchýř).
+**Selektivní β1 — dobutamin** — i.v., posílí srdeční stah, na kardiogenní šok a těžké srdeční selhání. **Selektivní β2 — SABA** (salbutamol, rychlý nástup, na akutní záchvat astmatu) a **LABA** (salmeterol, dlouhodobě); **formoterol je unikátně v obou skupinách** (rychlý nástup i dlouhé trvání). NÚ β2: třes, tachykardie, nízký draslík. **Selektivní β3 — mirabegron** — uvolní sval močového měchýře, na hyperaktivní měchýř.
 
 ## 44 · Nepřímá sympatomimetika
 
-Zvyšují NA ve štěrbině (uvolnění/blokáda vychytávání): efedrin (dekongestant, prekurzor pervitinu), metylfenidát (ADHD), modafinil (narkolepsie). ⚠️ **Tyramin + IMAO = hypertenzní krize** ("sýrový efekt" — zralé sýry, víno).
+Zvyšují množství NA ve štěrbině třemi cestami: víc uvolňování, pomalejší odbourávání, blokáda zpětného vychytávání. **Efedrin** — přímé i nepřímé sympatomimetikum, dekongestant, ale zneužívaný jako **prekurzor pervitinu (metamfetaminu)**. **Metylfenidát** (ADHD), **modafinil** (narkolepsie) — blokují zpětné vychytávání NA/dopaminu. ⚠️ **Tyramin (zralé sýry, víno) + IMAO = hypertenzní krize** ("sýrový efekt") — tyramin se normálně rozloží jaterní MAO, při jejím zablokování se vstřebá a spustí masivní uvolnění katecholaminů.
 
 ## 45 · Sympatolytika alfa
 
-Neselektivní (fenoxybenzamin) — diagnostika **feochromocytomu**. Selektivní α1: prazosinová skupina = hypertenze (ne 1. volba), tamsulosinová skupina = **benigní hyperplazie prostaty**.
+**Neselektivní** (fenoxybenzamin, fentolamin) — diagnostika a krátkodobá léčba **feochromocytomu** (nádor dřeně nadledvin). **Selektivní α1** — dvě odlišné indikace podle typu: prazosin/doxazosin/terazosin = **hypertenze** (ne lék 1. volby), tamsulosin/silodosin/alfuzosin = **benigní hyperplazie prostaty** (uvolní hladký sval prostaty). **Selektivní α2 (yohimbin)** — dřív erektilní dysfunkce, dnes se nepoužívá.
 
 ## 46 · Sympatolytika beta (betablokátory)
 
-Tři generace: 1. neselektivní (propranolol), 2. β1 selektivní (metoprolol, atenolol), 3. s přídavnými účinky (karvedilol, nebivolol). Efekt jen při zátěži sympatiku. **KI: astma/CHOPN, bradykardie/AV blok**; ⚠️ maskují hypoglykemii u diabetiků. 🔑 **Rebound fenomén** — nikdy nevysazovat náhle (up-regulace receptorů). Lék volby u anginy pectoris.
+Tři generace: **1.** neselektivní (propranolol), **2.** β1 selektivní (metoprolol, atenolol), **3.** s přídavnými účinky (karvedilol, nebivolol). Efekt se projeví hlavně **při zátěži sympatiku**. Mechanismus antihypertenzního účinku: pokles srdečního výdeje (β1) + potlačení sekrece reninu (β1). Indikace: **hypertenze, arytmie, angina pectoris (lék 1. volby), po infarktu (prevence reinfarktu)**, hypertyreóza, glaukom. **KI: astma/CHOPN (bronchokonstrikce), bradykardie/AV blok, dekompenzované srdeční selhání**; ⚠️ **maskují příznaky hypoglykemie u diabetiků** (třes, tachykardie) a zpomalují zotavení z ní — nejsou lék 1. volby u hypertenze u diabetiků. 🔑 **Rebound fenomén** — nikdy nevysazovat náhle, receptory jsou up-regulované, vysazují se postupně.
 
 ## 47 · Myorelaxancia
 
-**Centrální** (baklofen, diazepam — GABA) — svalový spazmus. **Periferní** — na nervosvalové ploténce: **nedepolarizující** (kompetitivní antagonisté, pankuronium — antidotum neostigmin) × **depolarizující** (sukcinylcholin, agonista, ultrakrátký, BEZ antidota). ⚠️ Vědomí a bolest zůstávají zachovány — nutná i anestezie. **Maligní hypertermie** — defekt ryanodinového receptoru, léčba **dantrolen**.
+**Centrální** (baklofen, diazepam — agonisté GABA, tolperison) — na bolestivý svalový spazmus (úraz, vertebrogenní potíže). **Periferní**, na nervosvalové ploténce: **nedepolarizující** = kompetitivní antagonisté ACh (pankuronium, rokuronium — **antidotum neostigmin**, uvolňuje histamin) × **depolarizující** = agonisté (**sukcinylcholin** — ultrakrátký účinek díky rychlému rozkladu pseudocholinesterázou, **BEZ antidota**, jen podpora dýchání). ⚠️ Vědomí a vnímání bolesti zůstávají zachovány — nutná je i celková anestezie. Sled ochrnutí: oční svaly → žvýkací → trup/končetiny → bránice (zástava dechu); zotavení v opačném pořadí. **Maligní hypertermie** — vzácná reakce (defekt ryanodinového receptoru, vrozený) na myorelaxancia/halotan, přes 60% mortalita neléčená, **léčba dantrolen i.v.**
 
 ## 48 · Lokální anestetika
 
-Blokují Na⁺ kanály senzitivních nervů. **Estery** (kokain, prokain — rychlý rozklad plazmatickou cholinesterázou, vyšší riziko ALERGIE) × **amidy** (lidokain, bupivakain — jaterní CYP450, vyšší riziko TOXICITY). Přidává se **adrenalin** (prodlouží účinek, zpomalí vstřebávání) — nikdy i.v.! Systémová toxicita: nejdřív CNS stimulace (křeče), pak útlum; **bupivakain nejvíc kardiotoxický**. **Prilokain → methemoglobinemie** (stomatologie!). Alergie hlavně po esterech.
+Blokují napěťově řízené Na⁺ kanály senzitivních nervů (nejcitlivější tenká myelinizovaná vlákna). **Estery** (kokain, prokain, tetrakain) — rychlý rozklad plazmatickou pseudocholinesterázou, kratší účinek, **vyšší riziko ALERGIE**. **Amidy** (lidokain, bupivakain, trimekain) — odbourání v játrech (CYP450), delší účinek, **vyšší riziko systémové TOXICITY**. Přidává se **adrenalin** (zpomalí vstřebávání, prodlouží účinek, méně krvácení) — anestetikum se **nikdy nepodává i.v.** Systémová toxicita: nejdřív CNS **stimulace** (neklid, křeče — léčba diazepam), pak útlum dechu; **bupivakain nejvíc kardiotoxický**. **Prilokain → methemoglobinemie** (typicky stomatologie, léčba toluidinová modř). Alergie hlavně po esterových anestetikách. Typy anestezie: povrchová, infiltrační, svodná (i **dentální nervy** — tvoje obor), spinální, epidurální.
 
 ## 49 · Celková anestetika — inhalační
 
-4 stadia: analgezie → excitace (riziko bronchospasmu/zvracení) → chirurgická tolerance (tady se operuje) → míšní paralýza (smrtelná). **MAC** = koncentrace bránící pohybu u 50 % pacientů při řezu. **N₂O** — analgezie v nízké koncentraci = **inhalační sedace ve stomatologii**. **Izofluran** nejpoužívanější, **halotan** dnes nepoužíván (hepatotoxicita, maligní hypertermie). Antidota: naloxon (opioidy), flumazenil (BZP), neostigmin (myorelaxancia).
+Cíl: reverzibilní bezvědomí bez bolesti se svalovou relaxací. **Čtyři stadia**: ① analgezie (při vědomí, ztráta bolesti) → ② excitace/vagové stadium (bezvědomí, neklid, riziko bronchospasmu/zvracení/zástavy srdce) → ③ chirurgická tolerance (pravidelné dýchání, mizí reflexy — **tady se operuje**) → ④ míšní paralýza (útlum dechu a oběhu, smrtelné, pokud se dál podává). **MAC** = koncentrace, při které 50 % pacientů nereaguje pohybem na řez; **klesá při kombinaci s N₂O**. **N₂O (oxid dusný)** — v nízké koncentraci navozuje analgezii = **inhalační sedace ve stomatologii** (tvoje obor); nad 6 h expozice tlumí kostní dřeň. **Izofluran** — dnes nejpoužívanější. **Halotan** — dnes se nepoužívá (hepatotoxicita, maligní hypertermie). **Xenon** — nejrychlejší nástup/odeznění, drahý. Antidota: naloxon (opioidy), flumazenil (BZP), neostigmin (myorelaxancia), dantrolen (maligní hypertermie).
 
 ## 50 · Celková anestetika — intravenózní
 
-**Thiopental** — rychlý úvod. **Propofol** — udržovací, nízké NÚ. **Ketamin** — jediné stimulující srdce, disociovaná anestezie (vědomí+amnézie+bez bolesti), u dětí. **Neuroleptanalgezie** = fentanyl + droperidol (ne bezvědomí, jen sedace+analgezie).
+Slouží hlavně k rychlému úvodu do anestezie nebo krátkým výkonům, nástup ~1 minuta. **Thiopental** (barbiturát) — rychlý úvod (do 2 min), "pobarbiturátová kocovina" z redistribuce do tuku. **Propofol** — pro udržovací (dlouhodobou) anestezii, rychlý nástup i odeznění, nízké riziko nevolnosti. **Etomidát** — nižší kardiovaskulární rizika, ale tlumí tvorbu kortikosteroidů. 🔑 **Ketamin** — jediné anestetikum, které **stimuluje** srdce místo tlumení; **disociovaná anestezie** (vědomí + amnézie + bez bolesti, ale bez ztráty reflexů); použití u dětí a v medicíně katastrof; nevýhoda halucinace/dysforie. **Neuroleptanalgezie** = fentanyl + droperidol — sedace a analgezie, **ne bezvědomí**, pacient spolupracuje.
 
 ## 51 · Hypnotika
 
-**Barbituráty** (1. generace) — dnes se jako hypnotika nepoužívají (vysoká toxicita, bez antidota, potlačují REM). **Z-látky** (zolpidem, zopiklon — dnešní lék volby) — nepotlačují REM, méně rizik. Zopiklon → kovová chuť v ústech.
+Insomnie: obtížné usínání (>30 min) nebo přerušovaný spánek; akutní (<3 měsíce, léčí se farmakoterapií jako prevence chronicity) × chronická (nedoporučuje se dlouhodobě léčit léky). **Barbituráty** (1. generace) — dnes se jako hypnotika **nepoužívají**: vysoká toxicita, **žádné antidotum**, potlačují REM spánek, snadná tolerance a závislost. **Z-látky** (zolpidem, zopiklon — dnešní **lék 1. volby**) — селективní na GABA podjednotku, **nepotlačují REM**, nižší riziko rebound i interakcí; zopiklon → kovová chuť v ústech.
 
 ## 52 · Benzodiazepiny
 
-Alostericky posilují GABA receptor (jiné místo než barbituráty). 5 účinků: anxiolytický, sedativní, hypnotický, myorelaxační, antikonvulzivní. Krátký poločas → na spaní, dlouhý → na úzkost. Zkracují REM (na rozdíl od Z-látek). Antidotum: **flumazenil**.
+Alostericky posilují GABA receptor na jiném místě než barbituráty (nepřímo, ne přímo neotevírají kanál). **Pět účinků**: anxiolytický, sedativní, hypnotický, myorelaxační, antikonvulzivní. 🔑 **Krátký poločas → na spaní** (midazolam), **dlouhý poločas → na úzkost** (diazepam). Na rozdíl od Z-látek **zkracují REM spánek**. NÚ: ranní útlum, anterográdní amnézie, horší psychomotorika (KI řízení s alkoholem), rebound nespavost po vysazení. Antidotum při intoxikaci: **flumazenil**.
 
 ## 53 · Antiepileptika
 
-**Status epilepticus** = záchvat > 5 min → **diazepam**. Tři mechanismy: blokáda Na⁺/Ca²⁺ kanálů, posílení GABA, tlumení glutamátu. Klasická: fenobarbital, **fenytoin** (⚠️ **hyperplazie dásní** — tvoje obor!, kinetika 0. řádu), karbamazepin, valproát (teratogenní, nepoužívat u žen). Nová: lamotrigin (vhodný pro těhotné, riziko Stevens-Johnsonova syndromu), levetiracetam (1. volba). Náhlé vysazení → riziko status epilepticus.
+**Status epilepticus** = záchvat trvá >5 min bez probrání → **léčba diazepam**; rozvinutý (>30 min i po diazepamu) → i.v. fenytoin/valproát/levetiracetam. Tři mechanismy: ① blokáda Na⁺/Ca²⁺ kanálů ② posílení GABA (barbituráty, benzodiazepiny, valproát) ③ tlumení glutamátu. Zásada: začíná se **monoterapií**, nízkou dávkou; **náhlé vysazení může vyvolat status epilepticus**. Klasická: fenobarbital, **fenytoin** (kinetika 0. řádu, ⚠️ **hyperplazie dásní** — tvoje obor!), karbamazepin (fokální záchvaty), **valproát** (širokospektré, ale **teratogenní — nepoužívat u žen ve fertilním věku**). Nová: **lamotrigin** (lék 1. volby, **vhodný pro těhotné**, riziko Stevens-Johnsonova syndromu), **levetiracetam** (lék 1. volby u fokálních i generalizovaných). NÚ typu A (dávkově závislé — hyperplazie dásní, megaloblastická anemie), B (alergie — okamžité vysazení), C (teratogenní — rozštěp páteře).
 
 ## 54 · Antiparkinsonika
 
-Úbytek dopaminu v substantia nigra → relativní převaha cholinergní aktivity → třes/ztuhlost. Projeví se při ztrátě 80 % dopaminu. **L-DOPA + karbidopa** (karbidopa brání předčasné přeměně mimo mozek, jen 1 % L-DOPA se jinak dostane do mozku). Inhibitory MAO-B (selegilin), COMT (entakapon), agonisté D2 (pramipexol — mladší pacienti), amantadin, anticholinergika (biperiden).
+Parkinsonova nemoc = úbytek dopaminových neuronů v substantia nigra → relativní **převaha cholinergní aktivity** ve striatu → třes, ztuhlost, zpomalení pohybu. Klinicky se projeví až při **ztrátě 80 % dopaminu**. Léčba jen symptomatická, neovlivní postup nemoci. 🔑 **L-DOPA + karbidopa** — L-DOPA (prekurzor dopaminu) se jinak přemění na dopamin už ve střevě dřív, než projde HEB (dopamin sám HEB neprojde) — jen 1 % se dostane do mozku; **karbidopa** blokuje tuto předčasnou přeměnu mimo mozek. Po ~2 letech vzniká tolerance. Inhibitory MAO-B (selegilin — chrání dopamin před odbouráním), COMT (entakapon — doplněk k L-DOPA), agonisté D2 (pramipexol, ropinirol — preferováni u mladších pacientů), amantadin (antagonista NMDA, méně účinný ale lépe snášený), anticholinergika (biperiden — tlumí přebývající cholinergní aktivitu).
 
 ## 55 · Neuroleptika
 
-Antagonisté dopaminových receptorů. 4 dráhy: mezolimbická (žádoucí antipsychotický efekt), nigrostriatální (extrapyramidové NÚ), area postrema (antiemetický), tuberoinfundibulární (hyperprolaktinemie). **Typická** (haloperidol — nejpoužívanější) — víc extrapyramidových NÚ. **Atypická** (klozapin, olanzapin, risperidon, aripiprazol) — léčí i negativní příznaky, míň extrapyramidových NÚ.
+Antagonisté dopaminových receptorů. **Čtyři dráhy**: mezolimbická (blokáda = žádoucí antipsychotický efekt), **nigrostriatální** (blokáda = extrapyramidové NÚ), area postrema (antiemetický efekt), tuberoinfundibulární (hyperprolaktinemie). Blokují i další receptory → další NÚ: α1 (hypotenze), M (sucho v ústech), H1 (sedace, váha). **Typická (1. generace)** — haloperidol (nejpoužívanější, levný), chlorpromazin (první antipsychotikum); víc extrapyramidových NÚ a hyperprolaktinemie, efekt až po týdnech. **Atypická (2. generace)** — klozapin, olanzapin, risperidon, **aripiprazol** (parciální D2 agonista, i antidepresivní efekt); léčí i **negativní příznaky** (apatie, oploštění), míň extrapyramidových NÚ, ale sedace a váhový přírůstek (MARTA skupina).
 
 ## 56 · Antidepresiva — TCA, IMAO
 
-**TCA** (amitriptylin) — blokují zpětné vychytávání NA+serotoninu; **kardiotoxická**, nebezpečná při předávkování. **IMAO** — dnes skoro nepoužívané: riziko hypertenzní krize (tyramin) a serotoninového syndromu; jen moklobemid (reverzibilní).
+Deprese = deplece monoaminů (serotonin, NA, dopamin). **TCA** (amitriptylin, imipramin) — blokují zpětné vychytávání NA i serotoninu; NÚ podle blokovaného receptoru (M → sucho/zácpa, α → hypotenze, H1 → sedace/váha); ⚠️ **kardiotoxická, vysoká letalita při předávkování**; nástup 2–4 týdny. **IMAO** — dnes skoro nepoužívané kvůli **riziku hypertenzní krize** (tyramin ze sýra) a **serotoninového syndromu**; jediný dnes používaný je reverzibilní **moklobemid**.
 
 ## 57 · Antidepresiva — SSRI, SNRI, atypická
 
-**SSRI** (fluoxetin, sertralin) — dnešní lék volby, bezpečné při předávkování, efekt až za 3 týdny. Syndrom z vysazení = FINISH. SNRI (venlafaxin, duloxetin) — i na bolest. Bupropion — i na odvykání kouření. Mirtazapin — rychlý nástup, na těžší depresi s úzkostí.
+**SSRI** (fluoxetin, sertralin, citalopram) — **dnešní lék 1. volby**, blokují zpětné vychytávání jen serotoninu, bezpečné při předávkování, nezvyšují váhu, efekt až za ~3 týdny; NÚ: nevolnost, sexuální dysfunkce, krvácivost GIT. Syndrom z vysazení = **FINISH** (Flu-like, Insomnia, Nausea, Imbalance, Sensory, Hyperarousal). **SNRI** (venlafaxin, duloxetin) — i noradrenalin, i na chronickou bolest. **Bupropion** — NDRI, i na odvykání kouření. **Mirtazapin** — rychlejší nástup, na těžší depresi s úzkostí, NÚ váha.
 
 ## 58 · Anxiolytika, stabilizátory nálady
 
-**Lithium** — snižuje riziko sebevraždy, mechanismus neznámý, nebezpečná interakce s thiazidy. Bipolární I (plná mánie, 1 %) vs. II (hypomanie, 5 %). Fobie = víš, že strach je nepřiměřený, ale máš ho i tak. Benzodiazepiny (riziko závislosti) × SSRI (lepší poměr přínos/riziko, ne u specifických fobií).
+Bipolární porucha: typ I (1 %, plná mánie) vs. typ II (5 %, jen hypomanie). **Lithium** — snižuje riziko sebevraždy, mechanismus neznámý, NÚ třes/polyurie/hypotyreóza, ⚠️ **nebezpečná interakce s thiazidovými diuretiky** (zvýší toxicitu lithia). Fobie = pacient ví, že strach je nepřiměřený, ale přesto mu podléhá (na rozdíl od generalizované úzkosti). Anxiolytika: **benzodiazepiny** (rychlé, ale riziko závislosti a rebound po vysazení) × **SSRI** (lepší poměr přínos/riziko, účinná u všech úzkostných poruch **kromě specifických fobií**).
 
 ## 59 · Farmakoterapie Alzheimerovy choroby
 
-Beta-amyloidové plaky + ztráta cholinergních neuronů. **Inhibitory AChE** (rivastigmin, donepezil) — u počínající formy. **Memantin** — antagonista NMDA, u středně těžkých forem. Ginkgo biloba a vitamin E — účinek NEprokázán.
+Patologie: **extracelulární plaky beta-amyloidu** + ztráta cholinergních neuronů (nejvýznamnější, z toho plyne léčba). **Inhibitory AChE** (rivastigmin — blokuje i BuChE, donepezil, galantamin) — účinnější u počínající formy. **Memantin** — antagonista NMDA receptorů, u středně těžkých forem, kombinace s AChE-inhibitorem má aditivní efekt. ⚠️ Vitamin E a Ginkgo biloba — účinek **NEprokázán** v kontrolovaných studiích (typická doplňující otázka).
 
 ## 60 · Opium a jeho alkaloidy
 
-3 receptory: μ (analgezie, útlum dechu, euforie), δ, κ. 7 účinků opioidů: analgezie, euforie, útlum dechu (snížením citlivosti na CO₂), antitusický (kodein), zácpa, **mióza**, uvolnění histaminu. ⚠️ Tolerance na vše KROMĚ zácpy a mázy. **Morfin** = referenční lék, recept s modrým pruhem. Intoxikace = mióza; abstinence = **mydriáza** (opak!).
+Tři receptory (G-protein): **μ** (analgezie, útlum dechu, euforie, závislost), **δ** (periferní analgezie), **κ** (spinální analgezie, dysforie). Sedm účinků opioidů: analgezie, euforie, útlum dechu (sníženou citlivostí na CO₂), antitusický (kodein), zácpa, **mióza**, uvolnění histaminu. 🔑 **Tolerance vzniká na všechno KROMĚ zácpy a miózy** — klasická chytačka. **Morfin** = referenční lék, recept s modrým pruhem, metabolizuje se na aktivní morfin-6-glukuronid (kumuluje se při selhání ledvin). Intoxikace = mióza + útlum dechu, **léčba naloxon**; abstinenční příznaky = **mydriáza** (přesný opak intoxikace!), slzení, třes, křeče.
 
 ## 61 · Deriváty a náhražky morfinu
 
-Silné: pethidin (krátký), metadon (substituce), fentanyl, sufentanil. Slabé: kodein, tramadol (nezpůsobuje zácpu ani útlum dechu). **Stropový efekt** u slabých opioidů. Antagonisté: **naloxon** (i.v. jen, lék 1. volby při intoxikaci), naltrexon (p.o., udržovací). Parciální agonisté: buprenorfin.
+**Silné opioidy** (na akutní silnou / chronickou nádorovou bolest): pethidin (krátký účinek, toxický metabolit), metadon (substituce závislosti), fentanyl (silnější než morfin, i.v./transdermálně), sufentanil (anesteziologie). **Slabé opioidy** (chronická nenádorová bolest): kodein (10 % se mění na morfin), tramadol (**nezpůsobuje zácpu ani neutlumí dech** — atypický, i neopioidní mechanismus). 🔑 **Stropový efekt** u slabých opioidů — nad určitou dávku se analgezie dál nezvyšuje. Antagonisté: **naloxon** (jen i.v., lék 1. volby při intoxikaci opioidy/BZP/alkoholem), naltrexon (p.o., udržovací léčba závislosti). Parciální agonisté: **buprenorfin** (agonista μ + antagonista κ, nižší riziko závislosti).
 
 ## 62 · Eikosanoidy
 
-Kys. arachidonová → (COX) prostaglandiny/tromboxan/prostacyklin, nebo (LOX) leukotrieny. **Aspirin nevratně blokuje COX-1 → antiagregace přes tromboxan.** Kortikoidy blokují fosfolipázu A2 (přes lipokortin) → zablokují celou kaskádu na začátku. Monoklonální protilátky proti TNF-α (infliximab), IL-1, IL-6 — revmatoidní artritida aj.
+Kyselina arachidonová z buněčné membrány (uvolní ji fosfolipáza A2, kterou blokují **kortikoidy** přes lipokortin — proto blokují celou kaskádu na začátku) → cestou **COX** vzniknou prostaglandiny/tromboxan/prostacyklin, cestou **LOX** leukotrieny. **Tromboxan** — proagregační, vazokonstrikční; **prostacyklin** (z endotelu) — antiagregační, vazodilatační. 🔑 **Aspirin nevratně blokuje COX-1 destiček → chybí tromboxan → antiagregační efekt na ~5 dní** (celý život destičky). Leukotrieny — mediátory zánětu/astmatu, blokuje je montelukast. Monoklonální protilátky proti prozánětlivým cytokinům: **anti-TNF-α** (infliximab, adalimumab — revmatoidní artritida, Crohn, psoriáza), anti-IL-1 (anakinra), anti-IL-6 (tocilizumab).
 
 ## 63 · Analgetika-antipyretika
 
-Nemají protizánětlivý ani protidestičkový efekt (na rozdíl od NSA). **Paracetamol** — bezpečný v terapeutické dávce (max 4 g/den), ale hepatotoxický při předávkování (metabolit **NAPQI**, alkohol riziko zvyšuje) — **antidotum acetylcystein**.
+Na rozdíl od NSA **nemají protizánětlivý ani protidestičkový efekt** — jen analgetický a antipyretický. **Paracetamol** — mechanismus přesně neznámý (asi centrální COX v hypotalamu); bezpečný v terapeutické dávce (max **4 g/den**, jednotlivá dávka ~1 g) — lék volby u seniorů, těhotných, kojenců; ⚠️ hepatotoxický při předávkování — toxický metabolit **NAPQI** (vzniká přes CYP2E1, alkohol riziko zvyšuje indukcí tohoto enzymu) — **antidotum acetylcystein** (doplňuje glutathion). Pyrazolové deriváty (metamizol) — na spazmodickou bolest (žlučová/ledvinová kolika), bez rizika pro GIT, ale nepodávat u astmatu (anafylaktoidní reakce).
 
 ## 64 · Nesteroidní antiflogistika (NSA)
 
-**COX-1** (chrání žaludek/ledviny) × **COX-2** (dělá zánět). Klasická NSA blokují oba, koxiby jen COX-2 (méně žaludečních NÚ). **Aspirin** nevratně, dětem KI (Reyeův syndrom). Ibuprofen nejšetrnější k žaludku, ale KI v těhotenství (uzávěr Botallovy dučeje).
+**COX-1** — v naprosté většině tkání, chrání žaludek a ledviny (homeostáza). **COX-2** — vzniká navíc při zánětu, dělá bolest/otok/horečku. Klasická NSA blokují **oba neselektivně** → NÚ v GIT (vředy, krvácení) a ledvinách; **koxiby blokují jen COX-2** → méně žaludečních NÚ, ale podobné kardiovaskulární riziko. **Aspirin** — jediné NSA s **nevratnou** blokádou; dětem **KI kvůli Reyeovu syndromu** (encefalopatie+hepatopatie po viróze, mortalita až 40 %) — nahrazuje se paracetamolem/ibuprofenem. **Ibuprofen** — nejšetrnější k žaludku ze všech NSA, ale **KI v těhotenství** (předčasný uzávěr Botallovy dučeje plodu). **Salicylismus** (chronické vyšší dávky) — tinnitus, závratě, ztráta sluchu.
 
 ## 65 · Farmakoterapie migrény
 
-3 stadia: vazokonstrikce → bolest (vazodilatace) → edém. **Triptany** (sumatriptan) — akutní léčba, agonisté 5-HT1, KI u ICHS. Profylaxe: betablokátory, BKK, valproát.
+Tři stadia záchvatu: vazokonstrikce → **bolest (vazodilatace)** → edém (zvýšená propustnost cév). Mechanismus: aktivace trigeminovaskulárního systému + serotoninergní spouštěcí zóna. **Triptany** (sumatriptan) — **lék 1. volby na akutní záchvat**, agonisté 5-HT1 receptorů → stažení nitrolebních cév; **KI u ischemické choroby srdeční** (vazokonstrikce by zhoršila prokrvení srdce); **nehodí se na profylaxi**. Profylaxe (při časté migréně): betablokátory (metoprolol), blokátory Ca²⁺ kanálů (verapamil), antiepileptika (valproát).
 
 ## 66 · Léčiva s pozitivně inotropním účinkem, digoxin
 
-Blokáda Na⁺/K⁺ pumpy → víc Ca²⁺ → silnější stah + aktivace n. vagus (zpomalí srdce). 🔑 Selhávající srdce: digoxin ZVÝŠÍ výdej. Zdravé srdce: SNÍŽÍ. Citlivost roste při nízkém draslíku, vysokém vápníku, hypoxii.
+Digoxin (srdeční glykosid) blokuje Na⁺/K⁺ pumpu v srdečních buňkách → hromadí se Na⁺, přechodně i Ca²⁺ → **posílí se stah**; zároveň aktivuje n. vagus → **zpomalí frekvenci a AV vedení**. 🔑 U **selhávajícího** srdce digoxin **ZVÝŠÍ** minutový výdej; u **zdravého** srdce ho naopak **SNÍŽÍ**. Citlivost myokardu na digoxin roste při nízkém draslíku, vysokém vápníku, hypoxii, hypotyreóze — tam hrozí toxicita snáz. Indikace: fibrilace síní, chronické srdeční selhání. KI: bradykardie, AV blok, poruchy draslíku. Jediný p.o. pozitivně inotropní lék vhodný pro dlouhodobou léčbu — zlatý standard. Ostatní pozitivně inotropní látky (dobutamin, dopamin, levosimendan) jsou jen na akutní stavy — dlouhodobě spojené s vyšší mortalitou.
 
 ## 67 · Antiarytmika
 
-Vaughan-Williams: I (blokáda Na⁺ — Ia prodlužuje AP/chinidin, Ib zkracuje/lidokain, Ic neovlivňuje/propafenon), II (betablokátory), III (prodlužují repolarizaci — **amiodaron** = lék volby u tachyarytmií, NÚ: štítná žláza, kůže, plíce), IV (verapamil/diltiazem). **Reentry** = vzruch obíhá dokola kvůli jednosměrné blokádě.
+Klasifikace podle Vaughana-Williamse: **I** — blokáda Na⁺ kanálu (Ia prodlužuje AP, chinidin; Ib zkracuje, lidokain — akutní IM; Ic neovlivňuje, propafenon/flekainid — bez strukturálního onemocnění srdce). **II** — betablokátory (tlumí arytmogenní efekt katecholaminů). **III** — prodlužují repolarizaci/QT: **amiodaron** — lék 1. volby u supraventrikulárních i komorových tachyarytmií, NÚ: štítná žláza (obsahuje jód), zabarvení kůže, plicní fibróza. **IV** — verapamil/diltiazem (Ca²⁺ kanály). Nezařazené: adenozin (paroxysmální supraventrikulární tachyarytmie), digoxin. 🔑 **Reentry** = hlavní mechanismus arytmií — vzruch je jednosměrně blokovaný ischemickým ohniskem a obíhá dokola místo aby zanikl.
 
 ## 68 · ACE inhibitory a antagonisté angiotenzinu
 
-RAAS: renin → angiotenzin I → (ACE) → angiotenzin II (vazokonstrikce). ACE odbourává i bradykinin → jeho nadbytek = **kašel** (typický NÚ ACEI). **Sartany** blokují jen receptor, bradykinin neovlivní → **žádný kašel**. Obojí KI v těhotenství.
+RAAS: renin (ledviny) → angiotenzinogen → **angiotenzin I** → (ACE, hlavně v plicích) → **angiotenzin II** (silný vazokonstriktor, stimuluje aldosteron). **ACE odbourává i bradykinin** — jeho nadbytek při zablokovaném ACE = **kašel a angioedém** (typický NÚ ACEI). ACEI (kaptopril, enalapril, ramipril) — jediná vazodilatancia BEZ reflexní aktivace sympatiku, renoprotektivní (i u diabetu 1. typu), KI těhotenství (fetotoxicita). **Sartany** (losartan, valsartan) — blokují jen receptor AT1, **neovlivňují bradykinin → žádný kašel** — náhrada za ACEI při jeho nesnášenlivosti.
 
 ## 69 · Diuretika
 
-**Kličková** (furosemid) — nejsilnější, ztrácí Ca²⁺, riziko ototoxicity. **Thiazidová** — šetří Ca²⁺, ztrácí K⁺, KI dna/DM. **Draslík šetřící** (amilorid, spironolakton) — opak předchozích. **Osmotická** (manitol) — edém mozku.
+**Kličková** (furosemid, Henleova klička) — **nejsilnější**, blokují Na-K-2Cl pumpu, ztrácí se Ca²⁺, riziko ototoxicity (zvlášť s aminoglykosidy) a hypokalemie; na plicní edém, srdeční/renální selhání. **Thiazidová** (hydrochlorothiazid, distální tubulus) — **naopak šetří Ca²⁺** (zvyšují reabsorpci), ztrácí K⁺, KI dna a diabetes (inzulinová rezistence); na hypertenzi. **Draslík šetřící** (amilorid, spironolakton — blokáda aldosteronu) — zadržují K⁺, kombinují se s předchozími dvěma proti hypokalemii; spironolakton navíc snižuje mortalitu u srdečního selhání. **Osmotická** (manitol) — u edému mozku, akutního selhání ledvin. Inhibitory karboanhydrázy (acetazolamid) — dnes hlavně glaukom, ne jako diuretika.
 
 ## 70 · Blokátory kalciových kanálů (BKK)
 
-**Dihydropyridiny** (nifedipin, amlodipin) — cévy. **Verapamil** — myokard, KI kombinace s betablokátory (bradykardie/AV blok). **Diltiazem** — obojí.
+Blokují L-typ Ca²⁺ kanálů → relaxace hladkého svalu. **Dihydropyridiny** (nifedipin, amlodipin) — selektivně na cévy, minimální vliv na srdce, na hypertenzi. **Verapamil** — hlavně na myokard (sníží kontraktilitu i frekvenci), lék volby při KI betablokátorů (astma/CHOPN); ⚠️ **kombinace s betablokátorem absolutně KI** (riziko bradykardie/AV blokády). **Diltiazem** — obojí (cévy i srdce), dlouhodobá profylaxe anginy pectoris. Typický NÚ celé skupiny: otoky kotníků (dihydropyridiny), zácpa (verapamil).
 
 ## 71 · Nitrity a nitráty
 
-Donory NO → cGMP → vazodilatace. Nitroglycerin = lék 1. volby při anginózním záchvatu (sublingválně). ⚠️ **Nikdy s sildenafilem/tadalafilem** — smrtelný pokles tlaku.
+Donory NO → aktivace guanylátcyklázy → víc cGMP → **vazodilatace** hladkého svalu cév. **Nitroglycerin** = lék 1. volby při anginózním záchvatu, podává se **sublingválně** (rychlý nástup, obchází first-pass). NÚ: bolest hlavy, hypotenze při vstávání. ⚠️ **Nikdy s inhibitory PDE5 (sildenafil, tadalafil)** — obě zesilují stejnou cestu (cGMP) → smrtelný pokles tlaku.
 
 ## 72 · Farmakoterapie srdečního selhání
 
-Betablokátory a ACEI/sartany blokují škodlivou kompenzaci (sympatikus, RAAS), ne posilují srdce. Diuretika na retenci, digoxin/dobutamin na kontraktilitu.
+Srdce nezvládá přečerpat dost krve → tělo kompenzuje sympatikem a RAAS, ale tahle kompenzace srdce dál poškozuje. 🔑 **Betablokátory a ACEI/sartany neposilují srdce — blokují škodlivou kompenzaci.** Léčba se zahajuje betablokátory + ACEI, spolu s diuretiky (na retenci tekutin). Pozitivně inotropní léky (digoxin, dobutamin) jen když je potřeba přímo posílit kontraktilitu. Spironolakton (blokáda aldosteronu) prokazatelně snižuje mortalitu.
 
 ## 73 · Farmakoterapie ischemické choroby srdeční
 
-Stabilní/Prinzmetalova AP → nitráty/BKK/betablokátory. **Nestabilní AP → heparin + protidestičkové** (riziko infarktu). Infarkt: nekróza do 6 h od uzávěru, okamžitě opiáty na bolest.
+Angina pectoris = bolest z nedostatečného zásobení myokardu kyslíkem, typicky námahová (zúžení věnčitých tepen aterosklerotickým plátem). 🔑 **Stabilní/Prinzmetalova AP → antianginózní léčiva** (nitráty, betablokátory, blokátory Ca²⁺ kanálů — sníží spotřebu kyslíku/rozšíří cévy). **Nestabilní AP → heparin + protidestičková léčba** (hrozí trombóza a infarkt, ne jen bolest). Infarkt: ruptura plátu → trombus → uzávěr tepny; nekróza celé stěny do ~6 hodin (časové okno pro zprůchodnění); okamžitě opiáty na bolest.
 
 ## 74 · Antihypertenziva
 
-95 % primární hypertenze (bez příčiny) — léčba jen preventivní. 1. volba: ACEI, sartany, BKK, diuretika, betablokátory. Kombinace nutná u 70 % pacientů. Methyldopa v těhotenství.
+95 % hypertenze je primární (bez zjevné příčiny) — léčba je jen preventivní (oddálí poškození orgánů), ne kauzální. Tři mechanismy snížení TK: vazodilatace, snížení kontraktility/frekvence srdce, deplece sodíku. **1. volba**: ACEI, sartany, blokátory Ca²⁺ kanálů, diuretika, betablokátory — kombinace nutná u **>70 %** pacientů. **Methyldopa** = lék volby v těhotenství (viz O42). NÚ podle skupiny: ACEI (kašel, hyperkalemie), BKK (otoky), betablokátory (únava, maskují hypoglykemii), diuretika (dehydratace, hypokalemie).
 
 ## 75 · Farmakoterapie aterosklerózy, hyperlipidemie
 
-LDL do 3 mmol/l. **Statiny** = lék 1. volby (blokují 3-HMG-CoA reduktázu), NÚ: rabdomyolýza. Ezetimib (blokuje vstřebávání cholesterolu), fibráty (TAG), pryskyřice.
+Cílové hodnoty: LDL do 3 mmol/l, celkový cholesterol do 5,2, TAG do 1,7 mmol/l. **Statiny = lék 1. volby** — blokují 3-HMG-CoA reduktázu (klíčový enzym syntézy cholesterolu v játrech), snižují i TAG; ⚠️ NÚ: bolest svalů až **rabdomyolýza** (zvlášť v kombinaci s CYP3A4 inhibitory jako itrakonazol, viz O19). **Ezetimib** — blokuje vstřebávání cholesterolu ve střevě, kombinace se statiny. **Fibráty** — hlavně na TAG (zvyšují lipoproteinovou lipázu). **Pryskyřice** (cholestyramin) — vážou žlučové kyseliny ve střevě, přeruší jejich koloběh.
 
 ## 76 · Parenterální antikoagulancia
 
-3 fáze hemostázy: cévní/destičková/koagulační. **Heparin** — nepřímo přes antitrombin III, monitoruje se APTT, antidotum protamin sulfát, bezpečný v těhotenství (neprochází placentou). **LMWH** — bez nutnosti monitorace, méně HIT.
+Tři fáze hemostázy: cévní (vazokonstrikce) → destičková (adheze+agregace) → koagulační (kaskáda k trombinu a fibrinu). **Heparin** — nepřímý inhibitor, **1000× zesílí antitrombin III**, který inaktivuje trombin a další faktory; monitoruje se **APTT**; **antidotum protamin sulfát**; NÚ: krvácení, **heparinem indukovaná trombocytopenie (HIT)**, osteoporóza při dlouhém podávání; **bezpečný v těhotenství** (neprochází placentou). **LMWH** (enoxaparin) — používá se častěji, bez nutnosti laboratorní monitorace, míň HIT, s.c.
 
 ## 77 · Perorální antikoagulancia
 
-**Warfarin** — blokuje vitamin K-reduktázu, funguje jen in vivo, monitoruje se INR, na začátku hrozí paradoxně hyperkoagulace (proto + LMWH). **DOAC**: gatrany (dabigatran, antidotum idarucizumab) a xabany (rivaroxaban, antidotum andexanet alfa) — bez nutnosti monitorace.
+**Warfarin** — blokuje vitamin K-reduktázu → chybí redukovaný vitamin K → nevzniknou funkční koagulační faktory II/VII/IX/X; funguje jen **in vivo**; monitoruje se **INR**; ⚠️ na začátku léčby paradoxně **hyperkoagulační stav** (protein C/S mají kratší poločas než prokoagulační faktory) — proto se první dny kombinuje s **LMWH**; je **teratogenní**. **DOAC** — bez nutnosti monitorace: **gatrany** (dabigatran — blokuje trombin, antidotum **idarucizumab**), **xabany** (rivaroxaban, apixaban — blokují faktor Xa, antidotum **andexanet alfa**).
 
 ## 78 · Fibrinolytika, hemostatika
 
-**Trombolytika** (altepláza) rozpouští už vzniklý trombus — časná CMP. Hemostatika: lokální (oxycelulóza, kolagen — po extrakci zubu!, felypresin v prilokainovém anestetiku), systémová (koagulační faktory u hemofilie — VROZENÁ, ne získaná porucha).
+**Trombolytika** (altepláza — rekombinantní tPA) — rozpouští **už vzniklý** trombus aktivací plazminogenu na plazmin; indikace: časná ischemická CMP. Hemostatika **lokální** — oxycelulóza, kolagenová houbička (standard **po extrakci zubu**, tvoje obor!), felypresin (vazokonstriktor v prilokainovém dentálním anestetiku, alternativa adrenalinu). Hemostatika **systémová** — substituce koagulačních faktorů u hemofilie (chybí faktor VIII/A nebo IX/B — ⚠️ je to **VROZENÝ**, ne získaný defekt); vitamin K a čerstvě mražená plazma proti krvácení z warfarinu.
 
 ## 79 · Antiagregancia
 
-**Aspirin** — nevratně acetyluje COX-1 destiček, efekt trvá ~5 dní (celý život destičky). Klopidogrel/prasugrel — blokátory P2Y12, proléčiva. KI kombinace aspirinu s ibuprofenem (kompetice o vazbu).
+**Aspirin** — nevratně acetyluje destičkovou COX-1 → chybí tromboxan A2 → antiagregační efekt trvá **~5 dní** (celý život destičky, nemá jádro na obnovu enzymu); KI kombinace s ibuprofenem (kompetice o vazebné místo na COX ruší nevratnou vazbu aspirinu); NÚ: krvácení při invazivních výkonech. **Klopidogrel, prasugrel** — blokátory P2Y12 receptoru, proléčiva (aktivace v játrech), kombinují se s aspirinem. **Tikagrelor** — reverzibilní, bez nutnosti bioaktivace.
 
 ## 80 · Inzulin, jeho analoga a glukagon
 
-Inzulin otevírá GLUT4 (glukóza do buňky). Posouvá draslík dovnitř buněk → glukóza+inzulin i.v. na **hyperkalemii**. Podává se jen s.c./i.v. (bílkovina, GIT by ji rozložil). Glukagon — opak, léčba hypoglykemie i.m. (i laikem), nefunguje při vyčerpaných zásobách glykogenu.
+Inzulin (β-buňky slinivky) otevírá GLUT4 transportéry → glukóza vstupuje do svalu/tuku/jater. Nejsilnější podnět k sekreci = glukóza. 🔑 Posouvá **draslík dovnitř buněk** → glukóza+inzulin i.v. se používá k akutní léčbě **hyperkalemie**. Podává se jen s.c./i.v. (je to bílkovina, GIT by ji rozložil). Typy: krátkodobý/dlouhodobý/premixovaný, dnes se preferují **analoga** před humánním inzulinem (lepší farmakokinetika); režim **bazál-bolus**. NÚ: hypoglykemie, lipodystrofie. **Glukagon** (α-buňky) — opačný efekt (rozklad glykogenu), **léčba těžké hypoglykemie i.m. (i laikem)**; nefunguje, když jsou vyčerpané zásoby glykogenu (hladovění, alkohol).
 
 ## 81 · Perorální antidiabetika
 
-**Metformin** = lék 1. volby (nezpůsobuje hypoglykemii ani přírůstek váhy), riziko laktátové acidózy hlavně při selhání ledvin. Deriváty sulfonylurey — riziko hypoglykemie. Gliptiny/glifloziny — nízké riziko hypoglykemie (závisí na aktuální glykemii), glifloziny i osmotická diuréza.
+Dva fenotypy DM2: inzulinová rezistence (vysoká glykemie nalačno) × selhávající sekrece (vysoká glykemie po jídle). **Metformin = lék 1. volby** — nezpůsobuje hypoglykemii ani přírůstek váhy, zpomaluje vstřebávání glukózy ve střevě, zvyšuje citlivost k inzulinu; ⚠️ riziko **laktátové acidózy** hlavně při **selhání ledvin** (KI), mortalita otravy ~50 %. Deriváty sulfonylurey — stimulují sekreci inzulinu, riziko hypoglykemie a přírůstku váhy. **Gliptiny** (inhibitory DPP-4) a **glifloziny** (inhibitory SGLT-2, glykosurie) — nízké riziko hypoglykemie, protože účinek závisí na aktuální glykemii; glifloziny navíc jako "osmotická diuretika" (снижují váhu i TK), riziko genitálních mykóz.
 
 ## 82 · Principy antibiotické terapie
 
-Bakteriostatická (zastaví množení) × baktericidní (zabíjí). MIC = minimální inhibiční koncentrace. Primární (vrozená) × sekundární (získaná) rezistence.
+**Bakteriostatická** — reverzibilně zastaví množení (efekt vidět za 3–4 dny, po vysazení se bakterie mohou znovu množit). **Baktericidní** — přímo zabíjí, rychle a nevratně. **MIC** = minimální koncentrace, která ještě zastaví růst mikroba. Rezistence: **primární** (vrozená necitlivost, bez předchozího kontaktu) × **sekundární** (vzniklá až léčbou, mutací nebo plazmidem). Pět otázek před nasazením ATB: je to bakteriální infekce? odebrán materiál na kultivaci? jaký mikrob je pravděpodobný? které ATB je nejvýhodnější (spektrum/kinetika/cena)? existují omezení u pacienta (alergie, těhotenství)?
 
 ## 83 · Peniciliny, inhibitory betalaktamáz
 
-**Penicilin V = lék 1. volby na infekce ústní dutiny** (tvoje obor!). Penicilin G — streptokoky/meningitida. Amoxicilin (širokospektré), Amoksiklav = amoxicilin+klavulanát. **Hoigného syndrom** ≠ alergie (technická chyba podání).
+Betalaktamový kruh = nositel účinku (blokuje syntézu buněčné stěny). **Penicilin G** — streptokoky/pneumokoky/meningokoky, lék volby u meningitidy a streptokokové endokarditidy. 🔑 **Penicilin V = lék 1. volby na infekce ústní dutiny a ve stomatologické praxi** (tvoje obor!) — odolný vůči žaludeční kyselině, podává se p.o. **Amoxicilin** — širší spektrum (i G−), **Amoksiklav = amoxicilin + kyselina klavulanová** (chrání před betalaktamázami). Oxacilin — antistafylokokový. NÚ: alergie (typ I); ⚠️ **Hoigného syndrom NENÍ alergie** — je to technicky chybné (příliš rychlé) i.m. podání penicilinové suspenze.
 
 ## 84 · Cefalosporiny, karbapenemy, monobaktamy
 
-5 generací — 1.–2. gen. spíš G+/alternativa při alergii na PNC, 3.–5. gen. spíš G−/těžké infekce (ceftriaxon, cefepim). Karbapenemy (imipenem+cilastatin) — nejširší spektrum, rezervní.
+Pět generací: **1.–2.** — spíš G+, používají se jako **alternativa při alergii na peniciliny** (1. generace neprochází HEB → nehodí se na meningitidu); **3.–5.** — spíš G−, těžké infekce, **ceftriaxon/cefotaxim** proniknou do CNS (meningitida), **cefepim** (febrilní neutropenie), **ceftarolin** (MRSA). **Karbapenemy** (imipenem — kombinuje se s **cilastatinem**, který brání jeho rozkladu v ledvinách) — nejširší spektrum, rezervní na multirezistentní G− kmeny; zkřížená alergie s peniciliny. **Monobaktamy** (aztreonam) — lék volby na plicní pseudomonádové infekce u cystické fibrózy.
 
 ## 85 · Aminoglykosidy, chinolony
 
-Aminoglykosidy (gentamicin) — oto- a nefrotoxicita (VIII. nerv). Chinolony — blokují topoizomerázy (gyráza G−, topo IV G+), KI u dětí a těhotných (vážou vápník).
+**Aminoglykosidy** (gentamicin, amikacin) — baktericidní, na G− tyčinky; ⚠️ **oto- a nefrotoxicita** (poškozují VIII. hlavový nerv — sluch/rovnováha), nevstřebávají se z GIT (jen parenterálně/lokálně), riziko roste u starších a při selhání ledvin. **Chinolony** (ciprofloxacin, levofloxacin, moxifloxacin) — baktericidní, blokují **bakteriální topoizomerázy** (DNA gyráza u G−, topoizomeráza IV u G+) → zastaví replikaci DNA; **KI u dětí a těhotných** (vážou vápník podobně jako tetracykliny), riziko poškození šlach.
 
 ## 86 · Linkosamidy, glykopeptidy, polymyxiny
 
-**Klindamycin** — proniká do kosti → **standardní ATB pro zubní infekce** (tvoje obor!). Vankomycin — MRSA, C. difficile p.o.; **red man syndrom ≠ alergie**.
+🔑 **Klindamycin** — dobře proniká do **kosti**, účinný na anaeroby a streptokoky → **standardní ATB pro odontogenní infekce a osteomyelitidu čelisti** (tvoje obor!), hlavně při alergii na peniciliny. **Vankomycin** (glykopeptid) — na G+ včetně **MRSA**, p.o. na pseudomembranózní kolitidu (*C. difficile*, nevstřebává se); nefrotoxický; ⚠️ **red man syndrom (zarudnutí při rychlém podání) NENÍ alergie**, jen histaminová reakce — stačí zpomalit infuzi. **Kolistin** (polymyxin) — rezervní ATB na multirezistentní G− (Pseudomonas, Klebsiella), nefro/neurotoxický.
 
 ## 87 · Tetracykliny, amfenikoly
 
-Tetracykliny — blokují **ribozom** (ne buněčnou stěnu!), KI do 12 let (vážou vápník → **poškození zubů a kostí**, tvoje obor!). Chloramfenikol — riziko aplastické anemie.
+**Tetracykliny** (doxycyklin) — bakteriostatické, blokují **ribozom (30S), proteosyntézu** (⚠️ NE buněčnou stěnu — častá chyba). Široké spektrum včetně chlamydií/mykoplazmat/borelií. 🔑 **KI do 12 let a v těhotenství/kojení** — vážou se na vápník v mineralizující se tkáni → **nevratné zbarvení zubů, poškození skloviny, zpomalený růst kostí** (tvoje obor!). **Chloramfenikol** — široké spektrum, ale riziko **nevratné aplastické anemie** → dnes jen výjimečně (tyfus, meningitida, mozkové abscesy).
 
 ## 88 · Makrolidy `[doplněno]`
 
-Blokují 50S ribozom. Atypičtí patogeni (chlamydie, mykoplazma, legionella), alternativa při alergii na penicilin. **Erythromycin/klarithromycin blokují CYP3A4** (riziko rabdomyolýzy se statiny) — **azithromycin ne**, proto bezpečnější u pacientů na statinech/warfarinu.
-
+Blokují **50S ribozom** (proteosyntéza) — stejné místo jako linkosamidy (zkřížená rezistence). Doména: **atypičtí patogeni** (mykoplazma, chlamydie, legionella), + streptokoky/pneumokoky — **hlavní role: alternativa při alergii na peniciliny** u respiračních a streptokokových infekcí. Erythromycin (nejstarší, citlivý na kyselinu), klarithromycin (*H. pylori*), azithromycin (dlouhý poločas, 1× denně krátká kúra), spiramycin (toxoplazmóza v těhotenství). 🔑 **Erythromycin a klarithromycin silně blokují CYP3A4** (riziko rabdomyolýzy se statiny, krvácení s warfarinem) — **azithromycin prakticky ne**, proto bezpečnější u pacientů na těchto lécích. NÚ: prodloužení QT, GIT potíže.
 ---
 
 # ČÁST 3 — SPECIÁLNÍ FARMAKOLOGIE II (89–136)
