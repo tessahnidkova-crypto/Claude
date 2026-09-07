@@ -2317,3 +2317,89 @@
 ❓ *Proč se dávka kortikoidu zvyšuje před zubním zákrokem u pacienta na substituci?* → Utlumená nadledvina nedokáže zvýšit vlastní produkci při stresu → hrozí **addisonská krize** (hypotenze, kolaps).
 
 ---
+## 118 · Farmakoterapie obezity
+
+**O čem to je:** tři cesty — **zabránit vstřebání tuku, utlumit chuť k jídlu, nebo napodobit hormon sytosti**.
+
+- **Obezita = BMI ≥ 30 kg/m²**; rizikový faktor diabetu 2. typu, aterotrombózy, nádorů a artrózy; jádro **metabolického syndromu**. ⚠️ **Základem léčby zůstává dieta a pohyb — farmakoterapie je doplněk.**
+- **Orlistat** — blokuje **pankreatickou a žaludeční lipázu** → triglyceridy se nerozštěpí a nevstřebají (asi 30 % tuku odejde stolicí). ⚠️ **NÚ: steatorea (mastná, nepředvídatelná stolice), nadýmání, urgence; snižuje vstřebávání vitaminů A, D, E, K** — podává se ke každému jídlu s tukem.
+- **Anorektika:** **fentermin** — blokuje zpětné vychytávání NA, dopaminu a serotoninu → tlumí centrum hladu v hypothalamu. ⚠️ **NÚ: hypertenze, nespavost, neklid, tachyarytmie, psychózy**; jen krátkodobě. **Bupropion + naltrexon** — kombinace tlumící „odměnu z jídla" (bupropion NDRI + blokáda μ-opioidních receptorů).
+- ⚠️ **Analoga GLP-1 — liraglutid, semaglutid** (s.c. pero): napodobí **inkretin** → **↑ pocit sytosti, zpomalí vyprazdňování žaludku, ↓ chuť k jídlu**, a zároveň ↑ sekreci inzulinu → **fungují i u diabetu 2. typu a snižují kardiovaskulární riziko**. NÚ: nauzea, zvracení, ⚠️ riziko pankreatitidy, KI medulární karcinom štítné žlázy.
+- **Historie, kterou je dobré zmínit:** **sibutramin a rimonabant byly staženy z trhu** (kardiovaskulární a psychiatrické NÚ, viz O30).
+
+❓ *Proč orlistat vyžaduje doplnění vitaminů?* → Zabraňuje vstřebávání tuku, a s ním i **vitaminů rozpustných v tucích (A, D, E, K)**.
+
+---
+
+## 119 · Androgeny, anabolické steroidy
+
+**O čem to je:** testosteron a jeho aktivní metabolit **DHT**; u anabolik je klíčový paradox — **feminizace u mužů**.
+
+- **Fyziologie:** **testosteron** z **Leydigových buněk** varlete (řízeno LH; FSH řídí spermatogenezi), menší množství z ovarií a nadledvin. ⚠️ **Mechanismus: váže se na nitrobuněčný jaderný receptor; ve svalu a v játrech je aktivní přímo, v ostatních tkáních (prostata, kůže, vlasový folikul) se musí enzymem 5-α-reduktázou přeměnit na DHT.** *(Odtud účinek finasteridu u prostaty — viz otázka 122.)*
+- **Účinky:** vývoj pohlavních znaků, libido a spermatogeneze, **↑ svalová hmota a síla, ↑ erytropoéza, udržení kostní hustoty**.
+- **Indikace:** ⚠️ **substituce u hypogonadismu** — **primárního** (defekt varlete) nebo **sekundárního** (hypothalamus/hypofýza); estery testosteronu i.m. nebo transdermálně (gel, náplast) — perorálně se testosteron rychle odbourá first-pass efektem.
+- ⚠️ **Nežádoucí účinky:** **u mužů — feminizace: gynekomastie, atrofie varlat, neplodnost, akné** *(vysvětlení, na které se ptají: **testosteron je prekurzorem estrogenu** — aromatáza z jeho nadbytku vytvoří estrogen, a prsní tkáň má jen estrogenové receptory)* · **u žen — hirsutismus, zhrubnutí hlasu, akné, poruchy cyklu, alopecie** · **u obou — agresivita a změny nálady, dyslipidemie (↓ HDL), hepatotoxicita až hepatocelulární karcinom** (hlavně 17-alkylované perorální formy) · ⚠️ **u dětí předčasný uzávěr růstových plotének → definitivní zastavení růstu**.
+- **KI:** karcinom prostaty a prsu, gravidita, těžké jaterní postižení.
+- **Antiandrogeny:** ⚠️ **analoga GnRH (goserelin, leuprorelin) kontinuálně** → biochemická kastrace u karcinomu prostaty (viz otázka 115) · **antagonisté androgenního receptoru — flutamid, bikalutamid** · **inhibitory 5-α-reduktázy** (finasterid) · **cyproteron-acetát** (i u těžkého akné a hirsutismu). **Danazol** — slabý androgen s antiestrogenním účinkem, u endometriózy.
+- **Anabolické steroidy** nemají v běžné medicíně schválené indikace — zneužívají se ke zvýšení svalové hmoty, se všemi NÚ výše.
+
+❓ *Proč kulturista na anabolikách dostane gynekomastii?* → Nadbytek testosteronu se **aromatázou převede na estrogen**, a prsní tkáň reaguje jen na estrogen.
+
+---
+
+## 120 · Estrogeny, gestageny
+
+**O čem to je:** ⚠️ **estrogeny chrání cévy a kost, ale zvyšují srážlivost** — z téhle jedné dvojice plyne skoro celá otázka.
+
+- **Estrogeny:** **estradiol** (nejsilnější, hlavní před menopauzou), **estron** (hlavní po menopauze), **estriol** (placenta, gravidita). ⚠️ **Přirozené estrogeny se v léčbě nepoužívají — příliš rychle se odbourávají**; používá se **ethinylestradiol** (odolný, perorálně účinný, základ antikoncepce) a estradiol-valerát či estradiol transdermálně.
+- **Mechanismus:** vazba na **nitrobuněčný receptor → transkripce genů**; receptory v pohlavních orgánech, prsu, hypothalamu a hypofýze (zpětná vazba), játrech, kosti, cévách.
+- **Účinky:** proliferační fáze cyklu a vývoj sekundárních pohlavních znaků · ⚠️ **↑ HDL a ochrana cév** (proto mají ženy před menopauzou nižší kardiovaskulární riziko) · ⚠️ **↑ srážecí faktory II, VII, IX, X a ↓ antitrombin III → protrombotický stav** · retence tekutin a otoky · ⚠️ **udržují kostní hustotu** (po menopauze proto osteoporóza).
+- **Indikace:** **hormonální antikoncepce**, **hormonální substituční terapie** (návaly, urogenitální atrofie), hypogonadismus, prevence postmenopauzální osteoporózy.
+- **NÚ:** ⚠️ **tromboembolická nemoc**, napětí v prsou, nauzea, otoky, hyperpigmentace, bolest hlavy a **zhoršení migrény**, mírně ⚠️ **vyšší riziko karcinomu prsu a endometria** (proto se u ženy s dělohou vždy kombinuje s gestagenem), naopak **nižší riziko karcinomu ovaria a kolorekta**.
+- **KI:** ⚠️ **hormonálně dependentní nádory, tromboembolie v anamnéze nebo trombofilie (Leidenská mutace), těžké jaterní postižení, krvácení nejasného původu, kuřačky nad 35 let, migréna s aurou**.
+- **Gestageny:** prototyp **progesteron** (žluté tělísko, v graviditě placenta). **Účinky:** sekreční přeměna endometria, příprava prsu, ⚠️ **tlumí ovulaci**, **zahušťuje cervikální hlen**, termogenní efekt; ⚠️ **snižuje počet estrogenových receptorů → chrání endometrium před proliferací a karcinomem**.
+- **Syntetické gestageny:** **levonorgestrel** (nejčastější v antikoncepci), desogestrel, medroxyprogesteron-acetát; **atypické: drospirenon** (antimineralokortikoidní — proti otokům), **cyproteron-acetát** (antiandrogenní — akné, hirsutismus), **tibolon** (proti úbytku kostní hmoty). **NÚ:** přírůstek hmotnosti, napětí v prsou, deprese a změny libida, ⚠️ **↓ HDL** (opak estrogenů).
+
+❓ *Proč se u ženy s dělohou nepodává estrogen samotný?* → Nekrytá estrogenní stimulace endometria zvyšuje riziko **hyperplazie a karcinomu** — přidává se gestagen.
+
+---
+
+## 121 · Kontraceptiva
+
+**O čem to je:** ⚠️ **estrogen tlumí FSH, gestagen tlumí LH a zahušťuje hlen** — dvě složky, dva mechanismy.
+
+- **Mechanismus kombinované antikoncepce:** exogenní **estrogen** negativní zpětnou vazbou tlumí **FSH** (nedozraje folikul), **gestagen** tlumí vrchol **LH** (⚠️ **nedojde k ovulaci**), navíc **zahustí cervikální hlen** (neprostupný pro spermie), **zpomalí motilitu vejcovodů** a **znemožní přípravu endometria k nidaci**.
+- **Spolehlivost: Pearlův index 0,1–0,4** (počet těhotenství na 100 žen za rok užívání).
+- **Formy:** **jednofázová** (konstantní dávky, 21 tablet ± 7 placeba) · **dvoufázová** · **třífázová** (napodobuje přirozený cyklus) · **transdermální náplast** (⚠️ **méně účinná nad 90 kg**) · **vaginální kroužek** (3 týdny).
+- ⚠️ **NÚ a rizika:** **tromboembolická nemoc** (riziko násobí **kouření, věk nad 35 let, obezita, trombofilie, imobilizace**), hypertenze, infarkt a CMP, hepatopatie a žlučové kameny, napětí v prsou, mírně vyšší riziko **karcinomu prsu a děložního hrdla**.
+- **KI:** tromboembolie nebo trombofilie, ⚠️ **kuřačky nad 35 let**, migréna s aurou, nekontrolovaná hypertenze, jaterní onemocnění, hormonálně dependentní nádor, gravidita, kojení v prvních týdnech.
+- ⚠️ **Nezapomeň na pozitivní účinky (otázka není jen o rizicích):** úprava cyklu, **méně silné a bolestivé menstruace a méně anemie**, mírnější PMS, méně funkčních ovariálních cyst a mimoděložních těhotenství, zlepšení akné, ⚠️ **snížení rizika karcinomu ovaria a endometria**.
+- **Gestagenní (jednosložková) antikoncepce** — kontinuální progestin (tableta, injekce, implantát, nitroděložní systém s levonorgestrelem): zahušťuje hlen, potlačuje ovulaci, mění endometrium. ⚠️ **Vhodná pro kuřačky nad 35 let, kojící ženy a ženy s kontraindikací estrogenů**; ⚠️ **absolutní KI: karcinom prsu**. NÚ: nepravidelné krvácení, přírůstek hmotnosti, změny nálady a libida.
+- ⚠️ **Interakce, které zdroj zdůrazňuje:** **mukolytika (acetylcystein) ředí cervikální hlen** a tím ruší jeden z mechanismů; ⚠️ **induktory jaterních enzymů (rifampicin, karbamazepin, fenytoin, třezalka) snižují účinnost hormonální antikoncepce** — nutná záložní metoda; antibiotika obecně tím, že naruší enterohepatální oběh.
+- **Postkoitální antikoncepce:** **levonorgestrel** (do 72 h) nebo **ulipristal-acetát** (do 120 h) — oddálí ovulaci.
+
+❓ *Co poradíš pacientce, které nasazuješ rifampicin nebo antiepileptikum?* → Indukce jaterních enzymů **snižuje účinnost hormonální antikoncepce** — po dobu léčby (a ještě po ní) je nutná další metoda.
+
+---
+
+## 122 · Farmakoterapie benigní hyperplazie prostaty
+
+**O čem to je:** zvětšená prostata tlačí na uretru **dvěma způsoby — mechanicky a dynamicky** — a na každý cílí jiný lék.
+
+- **Podstata:** nezhoubné zmnožení stromálních a epitelových buněk prostaty; ⚠️ **s věkem relativně přibývá estrogenů, které zvyšují počet receptorů pro DHT → růst prostaty**. V 60 letech má příznaky asi 60 % mužů.
+- **Dva typy obstrukce:** **mechanická** (pasivní útlak uretry tkání) a ⚠️ **dynamická** (napětí hladkého svalu prostaty a hrdla měchýře přes α1A receptory).
+- **Příznaky (prostatismus):** **iritační** — časté a naléhavé nucení, **nykturie**, urgentní inkontinence · **obstrukční** — opožděný start, slabý a přerušovaný proud, nutnost tlačit, reziduum v měchýři. Neléčené → zbytnění měchýře, infekce, **hydronefróza a poškození ledvin**.
+
+| Skupina | Mechanismus, efekt, NÚ |
+|---|---|
+| ⚠️ **α1-blokátory** (tamsulosin, alfuzosin, silodosin) | uvolní **hladký sval prostaty (α1A/D)** → ⚠️ **rychlá úleva během dnů**, ale **žlázu nezmenší**. NÚ: ortostatická hypotenze, závratě, **retrográdní ejakulace**, ⚠️ **peroperační floppy iris syndrom** (upozornit očního lékaře) |
+| ⚠️ **Inhibitory 5-α-reduktázy** (finasterid, dutasterid) | blokují přeměnu **testosteronu na DHT** → ⚠️ **prostatu skutečně zmenší (o ~20–25 %), ale efekt až za 3–6 měsíců**; snižují riziko retence a operace. Také u **androgenní alopecie**. NÚ: **pokles libida, erektilní dysfunkce, gynekomastie**; ⚠️ **snižují PSA přibližně na polovinu** — nutno zohlednit při screeningu karcinomu |
+| **Inhibitory PDE5** (tadalafil) | uleví od příznaků a současně řeší erektilní dysfunkci; ⚠️ **KI s nitráty** |
+| **Anticholinergika** (solifenacin) | u převažujících **iritačních** příznaků a hyperaktivního měchýře; ⚠️ **pozor na retenci moči** |
+| **Fytoterapie** | extrakt z palmy trpasličí, kopřivy — slabý, doplňkový efekt |
+
+- ⚠️ **Proč inhibitory 5-α-reduktázy neubírají svalovou hmotu:** sval je stimulován **přímo testosteronem**, DHT nepotřebuje. Kombinace α1-blokátor + inhibitor 5-α-reduktázy je u velké prostaty účinnější než monoterapie.
+
+❓ *Proč je u pacienta na finasteridu důležité znát dávku při hodnocení PSA?* → Finasterid **PSA přibližně půlí** — „normální" hodnota může maskovat karcinom, výsledek se musí zdvojnásobit.
+
+---
