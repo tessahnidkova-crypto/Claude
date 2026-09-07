@@ -2500,3 +2500,88 @@
 ❓ *Proč se hyponatremie nesmí upravovat rychle?* → Prudký vzestup osmolality vyvolá **centrální pontinní myelinolýzu** s trvalým neurologickým postižením.
 
 ---
+## 128 · Vitaminy rozpustné v tucích
+
+**O čem to je:** A, D, E, K se **hromadí v těle** — proto u nich (na rozdíl od ve vodě rozpustných) hrozí i **předávkování**.
+
+- ⚠️ **Základní rozdíl:** ve vodě rozpustné vitaminy se při nadbytku vyloučí močí, **v tucích rozpustné se ukládají v játrech a tuku → riziko hypervitaminózy (hlavně A a D)**. Ke vstřebání potřebují **tuk a žlučové kyseliny** — proto při **malabsorpci tuků, cholestáze, po orlistatu nebo pryskyřicích** hrozí jejich deficit.
+- **Vitamin A (retinol):** antioxidant, součást zrakového pigmentu **rodopsinu**, řídí **diferenciaci epitelů** a embryonální vývoj. Zdroje: játra, žloutek, máslo; provitamin **betakaroten** (mrkev, dýně). **Deficit: šeroslepost**, xeroftalmie, rohovatění epitelů. ⚠️ **Hypervitaminóza: bolest hlavy, nitrolební hypertenze, hepatotoxicita, ⚠️ TERATOGENITA** (retinoidy jsou v graviditě absolutně kontraindikované). ⚠️ **Interakce, kterou zdroj zdůrazňuje: vitamin A + tetracykliny → riziko nitrolební hypertenze (pseudotumor cerebri).** Syntetické **retinoidy** (isotretinoin, acitretin) — akné, psoriáza.
+- **Vitamin D:** ⚠️ **je to vlastně steroidní hormon** (D2 ergokalciferol, D3 cholekalciferol; aktivuje se v játrech a ledvinách na **kalcitriol**). ↑ vstřebávání **vápníku a fosfátu**, mineralizace kosti; ⚠️ **receptor VDR je i na imunitních buňkách** (viz otázka 114). **Deficit: křivice u dětí, osteomalacie a osteoporóza u dospělých.** ⚠️ **Předávkování: hyperkalcemie** — nauzea, zvracení, zácpa, zmatenost, arytmie, **nefrokalcinóza a selhání ledvin**.
+- **Vitamin E (tokoferol):** hlavní **antioxidant chránící lipidy membrán**; deficit vzácný (hemolýza, neuropatie). Ve vysokých dávkách ⚠️ **zvyšuje riziko krvácení** (potencuje warfarin).
+- **Vitamin K:** **K1 fylochinon** (zelenina — **srážení krve**), **K2 menachinon** (⚠️ **tvoří ho střevní bakterie** — kostní metabolismus), K3 menadion (syntetický). Nutný pro **karboxylaci faktorů II, VII, IX, X a proteinů C a S** (viz otázka 77). **Deficit:** krvácivost — u novorozenců (⚠️ **proto se podává po porodu**), při malabsorpci tuků, po dlouhodobých ATB. ⚠️ **Toxicita nebyla pozorována.**
+- ⚠️ **Vitamin K jako antidotum warfarinu není okamžité — účinek nastupuje až za 12–24 h**, protože se musí znovu vytvořit koagulační faktory; při život ohrožujícím krvácení proto **protrombinový komplex nebo plazma**.
+
+❓ *Proč hrozí deficit vitaminů A, D, E, K po orlistatu nebo při cholestáze?* → Ke vstřebání potřebují **tuk a žlučové kyseliny** — bez nich odejdou stolicí.
+
+---
+
+## 129 · Vitaminy rozpustné ve vodě
+
+**O čem to je:** vitaminy B a C — **nehromadí se**, takže hlavní problém je **nedostatek**, ne předávkování.
+
+- **Vitamin C (kyselina askorbová):** antioxidant, ⚠️ **kofaktor hydroxylace prolinu a lysinu → nezbytný pro syntézu KOLAGENU**, podporuje ⚠️ **vstřebávání železa** (viz otázka 124) a funkci imunity. ⚠️ **Detail, kterým otázku ozdobíš: člověk, primáti a morče si ho jako jediní neumí syntetizovat.** Denní potřeba ~60–80 mg; ⚠️ **varem se ztrácí až 60 %**.
+  - **Deficit:** únava, zhoršené hojení, ⚠️ **krvácení dásní** → **skorbut (kurděje)**: krvácivost, ⚠️ **zduřelé krvácející dásně a vypadávání zubů**, petechie, bolesti kloubů, anemie, špatné hojení ran — **přímo tvoje zubařské téma**. **Předávkování** je vzácné, nad 2 g/den průjem a ⚠️ **oxalátové ledvinné kameny**.
+- **Vitaminy skupiny B — co u kterého musí zaznít:**
+
+| Vitamin | Funkce a deficit |
+|---|---|
+| **B1 thiamin** | koenzym metabolismu sacharidů. ⚠️ **Deficit: beri-beri, u alkoholiků Wernickeova encefalopatie a Korsakovova psychóza** — podává se **před glukózou** (viz otázka 106) |
+| **B2 riboflavin** | flaviny FAD/FMN. Deficit: ⚠️ **angulární cheilitida (koutkové ragády), glositida, seboroická dermatitida** |
+| **B3 niacin** | NAD/NADP. ⚠️ **Deficit: pelagra — dermatitida, průjem, demence** |
+| **B5 kyselina pantothenová** | koenzym A; deficit vzácný |
+| **B6 pyridoxin** | metabolismus aminokyselin; ⚠️ **podává se s izoniazidem jako prevence neuropatie** (otázka 91); tepelně nestabilní |
+| **B7 biotin** | karboxylační reakce; kůže, vlasy, nehty |
+| **B9 kyselina listová** | syntéza DNA; ⚠️ **deficit = makrocytární anemie**, v graviditě ⚠️ **prevence rozštěpu neurální trubice**; hladinu snižují **metotrexát, fenytoin, karbamazepin, sulfonamidy** |
+| **B12 kobalamin** | syntéza DNA a myelinu; ⚠️ **ke vstřebání potřebuje vnitřní faktor a kyselé prostředí** — deficit u perniciózní anemie, po gastrektomii, u vegan, ⚠️ **po omeprazolu a metforminu**. Projev: **makrocytární anemie + neurologické postižení (funikulární myelóza)** |
+
+- ⚠️ **B9 a B12 jsou spojkou na otázku 124 (anemie)** — a platí: **kyselina listová podaná samotná upraví krevní obraz, ale neurologické postižení z deficitu B12 nechá postupovat**.
+
+❓ *Které vitaminy B musíš znát i „farmakologicky", ne jen jako výživu?* → **B1** (alkoholik, před glukózou), **B6** (s izoniazidem), **B9 a B12** (anemie, gravidita, interakce s PPI a antiepileptiky).
+
+---
+
+## 130 · Farmakoterapie osteoporózy
+
+**O čem to je:** kost se **odbourává rychleji, než se tvoří**. Léčba jde dvěma směry: ⚠️ **utlumit odbourávání (antiresorpční), nebo podpořit novotvorbu (osteoanabolická)**.
+
+- **Osteoporóza** = úbytek kostní hmoty a porucha mikroarchitektury → **vyšší lomivost** (typicky obratle, krček stehenní kosti, distální radius). Diagnóza: **denzitometrie (BMD)** + vyloučení sekundárních příčin.
+
+| Nález | **T-skóre** |
+|---|---|
+| normální | nad **−1,0 SD** |
+| **osteopenie** | −1,0 až **−2,5 SD** |
+| **osteoporóza** | pod **−2,5 SD** |
+| těžká osteoporóza | pod −2,5 SD **+ zlomenina** |
+
+- **Základ vždy:** ⚠️ **vápník (~1000–1200 mg/den) + vitamin D** — bez nich žádná další léčba nefunguje; pohyb, nekouřit, omezit alkohol, prevence pádů. **Hořčík** je kofaktorem hydroxyláz tvořících kalcitriol — při jeho deficitu vitamin D „nezabírá". **Vitamin K2** podporuje karboxylaci osteokalcinu.
+- ⚠️ **Fluor — tvůj odstavec:** fluoridový iont nahradí hydroxylovou skupinu v hydroxyapatitu → vznikne **kalciumfluoroapatit**, který je **chemicky stabilnější a odolnější vůči kyselinám** → **prevence zubního kazu** (DDD 0,3–0,5 mg). ⚠️ **U osteoporózy se ale nepoužívá — nově vzniklá kost je sice hustší, ale nekvalitní, a riziko zlomenin neklesá.**
+
+| Skupina | Mechanismus, NÚ, KI |
+|---|---|
+| ⚠️ **Bisfosfonáty** (alendronát, risedronát, kys. zoledronová) | **lék první volby**: vazbou P-C-P se pevně naváží na hydroxyapatit a **utlumí osteoklasty (antiresorpční efekt)**. ⚠️ **Užívat nalačno, zapít vodou, zůstat 30 min vzpřímeně** — jinak **erozivní ezofagitida**. ⚠️ **NÚ, který musíš znát: OSTEONEKRÓZA ČELISTI — proto se invazivní stomatologické výkony (extrakce) plánují ideálně PŘED zahájením léčby a dbá se na perfektní ústní hygienu**; dále atypické zlomeniny femuru, chřipkové příznaky po i.v. podání |
+| ⚠️ **Denosumab** | **monoklonální protilátka proti RANKL** → osteoklasty nevznikají a nepřežívají; s.c. à 6 měsíců. ⚠️ **Také riziko osteonekrózy čelisti**; po vysazení hrozí rychlý úbytek kosti a zlomeniny obratlů |
+| **SERM** (raloxifen, bazedoxifen) | ⚠️ **agonisté estrogenových receptorů v KOSTI, ale antagonisté v PRSU a děloze** — výhoda estrogenu bez rizika karcinomu prsu. NÚ: **návaly, riziko žilní trombózy** |
+| **Hormonální terapie** (estradiol, testosteron) | brzdí resorpci; u předčasné menopauzy a mužského hypogonadismu. NÚ a KI viz otázka 120 |
+| ⚠️ **Teriparatid** (fragment PTH 1-34) | **jediný výrazně osteoanabolický** — s.c. denně, u těžké osteoporózy. ⚠️ **KI: nádory kosti, předchozí ozáření skeletu** |
+| **Stroncium-ranelát** | duální efekt (↑ novotvorba, ↓ resorpce); ⚠️ KI kardiovaskulární onemocnění |
+| **Kalcitonin** | tlumí osteoklasty; dnes okrajově (Sudeckův syndrom, hyperkalcemie) |
+
+- 🔑 **Nejelegantnější myšlenka otázky: krátkodobě pulzně podaný fragment PTH (teriparatid) kost STAVÍ, zatímco dlouhodobá hypersekrece celého PTH (hyperparatyreóza) kost BOŘÍ.**
+
+❓ *Na co se musíš zeptat pacientky před extrakcí zubu?* → Zda bere **bisfosfonáty nebo denosumab** — hrozí **osteonekróza čelisti**; výkon se plánuje ve spolupráci s ošetřujícím lékařem.
+
+---
+
+## 131 · Fytoterapie
+
+**O čem to je:** ⚠️ **„přírodní" neznamená „bezpečné"** — a hlavní riziko je, že lékař o užívání bylin často vůbec neví.
+
+- **Fytoterapie** = léčba přípravky z léčivých rostlin. **Droga** = usušená rostlinná surovina k léčebnému využití nebo výrobě léčiv.
+- ⚠️ **Čtyři problémy fytofarmak:** ① **nejsou rozsáhle klinicky testována** ② jsou volně dostupná mimo lékařský předpis ③ ⚠️ **lékař o jejich užívání často neví → nemůže předvídat interakce** ④ dovoz z Asie — nálezy **příměsi kortikoidů a těžkých kovů**.
+- ⚠️ **Interakce, které musíš umět jmenovat** (spojka na O25): **třezalka tečkovaná indukuje CYP3A4 a P-glykoprotein → snižuje účinnost hormonální antikoncepce, warfarinu, imunosupresiv a antiretrovirotik** · **grapefruit naopak CYP3A4 inhibuje** → prudce zvyšuje hladiny statinů a blokátorů kalciových kanálů · **česnek, zázvor a ginkgo zvyšují riziko krvácení** s antikoagulancii · lékořice → hyperaldosteronismus (viz otázka 117).
+- **Historie a proč se od rostlin ustoupilo:** léčivé účinky rostlin byly objeveny empiricky (Egypt, Dálný východ), v 18. století přišla botanická klasifikace, v 19. **izolace čistých látek — morfin, atropin, kokain, digoxin**. ⚠️ **Tři důvody odklonu: přesnost dávkování, specifita účinku a možnost parenterálního podání** — rostlina obsahuje směs látek s kolísavým obsahem.
+- **Registrace:** část přípravků prochází běžnou registrací s klinickými zkouškami, většina jen zjednodušeným postupem jako **tradiční rostlinné léčivé přípravky** (účinnost je doložena dlouhodobým používáním, ne studiemi) — a řada se prodává jen jako **doplňky stravy**, tedy bez záruky obsahu.
+
+❓ *Proč se ptáš pacienta na byliny a doplňky stravy stejně jako na léky?* → Kvůli **interakcím** — typicky třezalka (snižuje účinnost antikoncepce a warfarinu) a ginkgo či česnek (krvácivost).
+
+---
