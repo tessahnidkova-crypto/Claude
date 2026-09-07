@@ -1288,3 +1288,93 @@
 ❓ *Co je reentry?* → Vzruch narazí na jednosměrnou blokádu, vrátí se oklikou zpět a obíhá dokola — tím arytmii udržuje.
 
 ---
+
+## 68 · ACE inhibitory a antagonisté angiotenzinu
+
+**O čem to je:** základní léky na hypertenzi a srdeční selhání — blokují systém **RAAS**. Jejich typický nežádoucí účinek (suchý kašel) vysvětluje celou otázku.
+
+🔑 **Kaskáda RAAS, odříkej ji plynule:** **angiotenzinogen** (z jater) → **renin** (z juxtaglomerulárního aparátu ledvin, uvolňuje se při nízkém tlaku, nízkém Na⁺ a stimulaci β1) → **angiotenzin I** (sám neúčinný) → **ACE** (na endotelu, hlavně v plicích) → **angiotenzin II** = **silný vazokonstriktor**. ⚠️ **Stejný enzym ACE odbourává i bradykinin** — proto jeho blokáda znamená nadbytek bradykininu → **suchý dráždivý kašel a angioedém**.
+
+- **Angiotenzin II dělá:** vazokonstrikci, ↑ výdej **noradrenalinu** ze sympatiku, ↑ **aldosteron** (zadržení Na⁺ a vody, ztráta K⁺), stah vas efferens s ↑ nitroglomerulárního tlaku, dlouhodobě **remodelaci srdce a cév**.
+- **ACE inhibitory — kaptopril, enalapril, ramipril, perindopril, lisinopril** (koncovka **-pril**):
+  - **Účinky:** ↓ tlak bez reflexní tachykardie (⚠️ **jediná vazodilatancia, která neaktivují sympatikus**), ↓ aldosteron, **regrese hypertrofie levé komory**, zpomalení remodelace po infarktu, ↑ citlivost na inzulin, ⚠️ **renoprotekce** — snižují únik bílkovin do moči (sníží tlak v glomerulu dilatací vas efferens).
+  - **Indikace:** **hypertenze**, **chronické srdeční selhání se sníženou ejekční frakcí**, **stav po infarktu**, **diabetická a proteinurická nefropatie**.
+  - **NÚ:** ⚠️ **suchý kašel (až 10–20 %)**, **angioedém** (vzácný, ale život ohrožující — otok jazyka a hrtanu), **hyperkalemie**, hypotenze po první dávce (u dehydratovaných a na diureticích), vzestup kreatininu, poruchy chuti (kaptopril).
+  - **Kontraindikace:** ⚠️ **gravidita** (fetotoxicita, malformace, oligohydramnion), **oboustranná stenóza renálních tepen** (ledvina závisí na angiotenzinu II — hrozí akutní selhání), hyperkalemie, angioedém v anamnéze.
+- **Sartany (blokátory AT1 receptoru) — losartan, valsartan, telmisartan, kandesartan** (koncovka **-sartan**):
+  - **Mechanismus:** blokáda **receptoru AT1** — účinky angiotenzinu II se nedostanou k cíli, ⚠️ **ale bradykinin se odbourává normálně → nezpůsobují kašel**. To je jádro rozdílu.
+  - **Indikace:** stejné jako ACEI; **nasazují se hlavně tam, kde pacient ACEI netoleruje** (kašel, angioedém).
+  - **NÚ a KI:** hyperkalemie, hypotenze, **gravidita**, stenóza renálních tepen. ⚠️ **ACEI a sartan se nikdy nekombinují** (dvojitá blokáda RAAS = renální selhání a hyperkalemie bez přínosu).
+
+❓ *Proč ACE inhibitory kašlou a sartany ne?* → ACEI blokují i odbourávání **bradykininu**, který dráždí dýchací cesty; sartany blokují jen receptor pro angiotenzin II.
+
+---
+
+## 69 · Diuretika
+
+**O čem to je:** léky na odvodnění a na tlak — liší se **místem zásahu v nefronu**. Čím dřív v nefronu působí a čím větší podíl sodíku se tam vstřebává, tím jsou silnější.
+
+| Skupina | Místo v nefronu | Mechanismus, zástupci, indikace |
+|---|---|---|
+| **Osmotická** | proximální tubulus + sestupné raménko | **manitol** — filtruje se, ale **nevstřebává se zpět** → strhává s sebou vodu. **Indikace: otok mozku, zvýšený nitrolební a nitrooční tlak, forsírovaná diuréza při intoxikaci.** ⚠️ KI: srdeční selhání (přechodně ↑ objem krve) |
+| **Inhibitory karboanhydrázy** | proximální tubulus | **acetazolamid, dorzolamid, brinzolamid** — ↓ zpětné vstřebání HCO₃⁻ a Na⁺. Jako diuretika se dnes **nepoužívají**; indikace **glaukom** (↓ tvorba nitrooční tekutiny), horská nemoc, některé dětské epilepsie. NÚ: **metabolická acidóza**, hypokalemie |
+| **Kličková** | vzestupné raménko Henleovy kličky | **furosemid** — blokáda **Na⁺/K⁺/2Cl⁻ kotransportéru**; ⚠️ **nejsilnější diuretika** (tady se vstřebává až 25 % sodíku) |
+| **Thiazidová** | distální tubulus | **hydrochlorothiazid, chlorthalidon, indapamid** — blokáda **Na⁺/Cl⁻ kotransportéru** |
+| **Kalium šetřící** | sběrný kanál | **amilorid** (blokáda ENaC kanálu), **spironolakton, eplerenon** (antagonisté **aldosteronu**) |
+| **Aquaretika** | sběrný kanál | **tolvaptan** — blokáda vazopresinových V2 receptorů → vylučuje se **čistá voda**; indikace hyponatremie a SIADH |
+
+- **Kličková diuretika (furosemid) — detaily, na které se ptají:**
+  - **Extrarenální efekt:** rozšiřují **žíly** → ⚠️ **při plicním edému uleví dřív, než vůbec začne diuréza**.
+  - **Kinetika:** i.v. účinek do 2–5 minut (trvá ~6 h), perorálně do hodiny (trvá ~8 h).
+  - **Indikace:** **akutní plicní edém**, srdeční selhání s retencí tekutin, otoky při renálním a jaterním selhání (ascites), hyperkalemie, hyperkalcemie, ⚠️ **fungují i při nízké glomerulární filtraci** (na rozdíl od thiazidů).
+  - **NÚ:** ⚠️ **hypokalemie** (arytmie, potencuje toxicitu digoxinu), hyponatremie, **hypokalcemie a hypomagnezemie**, dehydratace a hypotenze, hyperurikemie (dna), ⚠️ **ototoxicita** — zvlášť v kombinaci s **aminoglykosidy**.
+- **Thiazidová diuretika:**
+  - ⚠️ **Zvyšují zpětné vstřebávání vápníku** (opak kličkových) → proto se používají u **kalciové urolitiázy**; paradoxně pomáhají u **nefrogenního diabetu insipidus**.
+  - Antihypertenzní efekt je zpočátku z poklesu objemu, **po ~2 týdnech z poklesu periferního odporu**.
+  - **Indikace:** **hypertenze (základní lék)**, srdeční selhání, kalciové kameny.
+  - **NÚ:** **hypokalemie a hyponatremie**, **hyperurikemie (dna)**, **hyperglykemie a inzulinová rezistence**, hyperlipidemie, **hyperkalcemie**, fotosenzitivita. ⚠️ **Nefungují při GFR < 30 ml/min.**
+- **Kalium šetřící:** **spironolakton** — antagonista aldosteronu; indikace **srdeční selhání (snižuje mortalitu), jaterní cirhóza s ascitem, primární hyperaldosteronismus, rezistentní hypertenze**. NÚ: ⚠️ **hyperkalemie**, **gynekomastie a poruchy menstruace** (steroidní struktura — eplerenon je nemá). ⚠️ **Nekombinovat s ACEI/sartanem bez kontroly kalia.**
+
+🔑 **Kličková = nejsilnější, ztrácejí vápník, fungují i při selhání ledvin · thiazidy = šetří vápník, na hypertenzi, nefungují při nízké GFR · kalium šetřící = jediné, která draslík zadržují.**
+
+❓ *Proč furosemid pomůže u plicního edému dřív, než začne močit?* → Rozšíří žíly → klesne předtížení a tlak v plicním řečišti.
+
+---
+
+## 70 · Blokátory kalciových kanálů (BKK)
+
+**O čem to je:** rozšiřují cévy blokádou vstupu vápníku do buňky — bez vápníku se sval nestáhne. **Tři podskupiny se zásadně liší** tím, jestli působí na cévy, nebo na srdce.
+
+- **Mechanismus (odříkej celý řetězec):** depolarizace otevře **kalciový kanál L-typu** → Ca²⁺ vstoupí do buňky a spustí uvolnění dalšího Ca²⁺ ze sarkoplazmatického retikula → **Ca²⁺ + kalmodulin** aktivují kinázu lehkých řetězců myozinu → kontrakce. **BKK vstup Ca²⁺ zablokují → hladký sval se uvolní**, na srdci klesne kontraktilita a automaticita.
+
+| Skupina | Kde působí | Zástupci a zvláštnosti |
+|---|---|---|
+| **Dihydropyridiny** (-dipin) | **selektivně cévy** | **amlodipin** (dlouhý účinek, 3. generace), felodipin, isradipin, **nifedipin** (1. generace — rychlý pokles tlaku → ⚠️ **reflexní tachykardie**, dnes jen retardovaně). **Minimální vliv na srdce** |
+| **Fenylalkylaminy** | **hlavně myokard** | **verapamil** — ↓ kontraktilita, ↓ frekvence, ↑ refrakterita AV uzlu; volba u pacienta, který nesmí β-blokátor (astma). Typický NÚ **úporná zácpa** |
+| **Benzothiazepiny** | **cévy i srdce** | **diltiazem** — mezi oběma skupinami; profylaxe anginy pectoris |
+
+- **Indikace:** **hypertenze** (i v graviditě — nifedipin, amlodipin), **angina pectoris** včetně vazospastické (Prinzmetalovy), **supraventrikulární tachyarytmie a kontrola frekvence u fibrilace síní** (verapamil, diltiazem), Raynaudův fenomén, profylaxe migrény (flunarizin).
+- **NÚ:** **otoky kolem kotníků** (dihydropyridiny — dilatace přívodných tepének), zrudnutí, bolest hlavy, reflexní tachykardie; u verapamilu/diltiazemu **bradykardie, AV blok, zácpa**, zhoršení srdečního selhání.
+- **Kontraindikace a interakce:** ⚠️ **verapamil nebo diltiazem + β-blokátor (zvlášť i.v.) je kontraindikovaná kombinace** — sčítá se negativně chronotropní a dromotropní efekt → těžká bradykardie, AV blok, asystolie. Dále AV blok, systolické srdeční selhání, WPW syndrom. ⚠️ Metabolizují se přes **CYP3A4** — **grapefruitová šťáva a inhibitory CYP3A4 zvyšují jejich hladinu**.
+
+🔑 **Dihydropyridiny = cévy · verapamil = srdce · diltiazem = obojí. Verapamil + β-blokátor = nikdy.**
+
+❓ *Který BKK zvolíš u hypertenzního astmatika s tachyarytmií?* → **Verapamil** — kontroluje frekvenci a β-blokátor by astma zhoršil.
+
+---
+
+## 71 · Nitrity a nitráty
+
+**O čem to je:** „dárci" oxidu dusnatého (NO) — látky, kterou si endotel vyrábí sám k rozšiřování cév. Nejdůležitější praktická věc je **smrtelná kombinace se sildenafilem**.
+
+- 🔑 **Mechanismus — přesná kaskáda:** nitrát uvolní **NO** → aktivuje **guanylátcyklázu** → ↑ **cGMP** → aktivace **proteinkinázy G** → defosforylace myozinu a pokles Ca²⁺ → **relaxace hladkého svalu**. ⚠️ **cGMP odbourává fosfodiesteráza 5 (PDE5)** — proto její inhibitor efekt několikanásobně zesílí.
+- **Hemodynamika:** převažuje **venodilatace** → ↓ návrat krve k srdci → **↓ předtížení a spotřeba kyslíku myokardem**; ve vyšší dávce i dilatace tepen a **věnčitých cév** (přerozdělení průtoku do ischemických oblastí). **Steal fenomén** = krev jde cestou nejmenšího odporu, tedy do zdravých cév, a ischemická oblast si pohorší.
+- **Zástupci a podání:** **nitroglycerin** — ⚠️ **sublingválně (sprej, tableta) je lék první volby při záchvatu anginy pectoris**, nástup do 1–2 minut (obchází first-pass efekt, perorální dostupnost je jen ~30 %); **izosorbid-dinitrát a mononitrát** — profylaxe, perorálně; nitroglycerin i.v. u akutního koronárního syndromu a plicního edému; náplasti pro dlouhodobou profylaxi.
+- **Indikace:** **akutní záchvat i profylaxe anginy pectoris**, akutní koronární syndrom, **akutní levostranné srdeční selhání a plicní edém**, hypertenzní krize.
+- **NÚ:** **pulzující bolest hlavy** (dilatace mozkových cév — nejčastější), zrudnutí, **ortostatická hypotenze a reflexní tachykardie**, závratě.
+- ⚠️ **Tolerance:** při nepřetržité expozici účinek během dní mizí → **nutný „nitrátový interval" 8–12 h denně bez léku** (náplast se na noc sundává).
+- ⚠️ **Kontraindikace — nejčastější zkušební otázka:** **inhibitory PDE5 (sildenafil, tadalafil, vardenafil)** — oba mechanismy se sčítají (nitrát cGMP tvoří, sildenafil brání jeho odbourání) → **neztlumitelná vazodilatace a smrtelný pokles tlaku**. Dále: **hypotenze, hypovolemie, aortální stenóza, hypertrofická kardiomyopatie, infarkt pravé komory**, zvýšený nitrolební tlak.
+
+❓ *Za jak dlouho po sildenafilu se nesmí podat nitrát?* → Podstatné je, že **kombinace je kontraindikovaná** (u sildenafilu se uvádí odstup ≥ 24 h, u tadalafilu ≥ 48 h) — jinak hrozí smrtelná hypotenze.
+
+---
