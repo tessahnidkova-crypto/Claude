@@ -690,3 +690,162 @@
 ❓ *Jak se léčí maligní hypertermie?* → **Dantrolen i.v.**, okamžitě, ve stoupajících dávkách; současně chladit a korigovat acidózu.
 
 ---
+
+## 48 · Lokální anestetika
+
+**O čem to je:** znecitliví jen část těla **bez ztráty vědomí** — přesně to, co budeš denně používat při ošetření zubu.
+
+- **Mechanismus:** reverzibilně blokují **napěťově řízené sodíkové kanály** zevnitř membrány → nevznikne akční potenciál → nervem se nešíří vzruch. Působí i na jiné vzrušivé tkáně (**srdce** — odtud kardiotoxicita a využití lidokainu jako antiarytmika).
+- **Pořadí blokády vláken** (proč pacient cítí dotek, ale ne bolest): nejdřív **tenká vlákna** — vegetativní B (vazodilatace, teplo), pak **Aδ a C** (bolest, teplota), pak dotek a tlak, **nakonec silná Aα** (motorika). *(⚠️ Zdroj to má popsané zmateně jako „tenká myelinizovaná vlákna A a C" — **C vlákna jsou nemyelinizovaná**; platí, že tenčí vlákno se blokuje dřív a myelinizované dřív než nemyelinizované stejné tloušťky.)*
+- **Chemicky jsou to slabé zásady** — v zaníceném (kyselém) prostředí se ionizují a hůř pronikají do nervu, **proto anestezie v zánětu často „nechytne"**.
+
+| | **Estery** | **Amidy** |
+|---|---|---|
+| Zástupci | kokain, **prokain**, tetrakain, benzokain | **lidokain, trimekain (mezokain), bupivakain, levobupivakain, ropivakain, artikain, prilokain** |
+| Odbourání | **plazmatická pseudocholinesteráza**, rychle | **v játrech přes CYP450**, pomaleji |
+| Hlavní riziko | **alergie** (metabolit kyselina para-aminobenzoová) | **systémová toxicita** |
+
+- **Vazokonstrikční přísada:** anestetika sama mírně **rozšiřují cévy** → rychle se odplaví. Přidaný **adrenalin** stáhne cévy → **prodlouží účinek, sníží krvácení v poli a sníží systémovou toxicitu** (látka se vstřebává pomaleji).
+- ⚠️ **Lokální anestetikum se nikdy nepodává nitrožilně** — výjimkou je lidokain jako antiarytmikum při resuscitaci.
+
+| Typ anestezie | Použití | Léčiva |
+|---|---|---|
+| **povrchová** | sliznice, rohovka, před vpichem | lidokain, tetrakain, benzokain |
+| **infiltrační** | vstřik do tkáně v místě výkonu | většina |
+| **svodná (blok)** | k nervu — paže, mezižeberní, **dentální nervy** | lidokain, artikain, mepivakain |
+| **spinální / epidurální** | operace břicha a pánve, porod | lidokain, bupivakain |
+
+- **Nežádoucí účinky — pro tebe nejdůležitější část.** ⚠️ **Aplikace v oblasti hlavy a krku má vyšší riziko** (bohaté prokrvení → rychlý vzestup hladiny, blízkost mozkových cév).
+  - **CNS:** **nejdřív stimulace** (neklid, brnění kolem úst, kovová chuť, třes, **křeče**), **teprve pak útlum** až zástava dechu. Léčba: kyslík, **diazepam na křeče**, zajištění dýchání.
+  - **Kardiovaskulárně:** ↓ dráždivost, vodivost i kontraktilita → bradykardie, hypotenze, zástava. ⚠️ **Nejvíc kardiotoxický je bupivakain.**
+  - ⚠️ **Methemoglobinemie — způsobuje ji prilokain** (a benzokain); metabolit oxiduje hemoglobin → tkáně nedostanou kyslík, cyanóza nereagující na kyslík. **Léčba: methylenová (toluidinová) modř + kyslík.** Ve stomatologii klasická past.
+  - **Alergie** — prakticky jen u **esterů**; od dermatitidy po anafylaxi (**lék volby adrenalin**).
+  - **Z vazokonstrikční přísady:** ischemie a nekróza v akrálních oblastech, tachykardie, palpitace, hypertenze. ⚠️ **Opatrně u pacientů na IMAO a tricyklických antidepresivech** (zesílí účinek adrenalinu) a u neselektivních β-blokátorů.
+- **Kontraindikace:** alergie na dané anestetikum, těžké poruchy vedení vzruchu, aplikace do infikované tkáně; adrenalinová přísada u nekompenzované hypertyreózy a těžké ICHS.
+
+🔑 **Estery = alergie, rychlý rozklad v plazmě · amidy = systémová toxicita, odbourání v játrech. Bupivakain = nejvíc kardiotoxický, prilokain = methemoglobinemie.**
+
+❓ *Proč anestezie často nezabere v zaníceném terénu?* → Kyselé pH ionizuje anestetikum (slabou zásadu) — v nabité formě neprojde membránou nervu.
+
+---
+
+## 49 · Celková anestetika — inhalační
+
+**O čem to je:** úplné, ale **vratné vypnutí vědomí a vnímání bolesti** kvůli operaci; inhalační anestetika se vdechují jako plyn nebo páry (patří sem i „rajský plyn", který znáš ze stomatologie).
+
+- **Mechanismus:** rozpouštějí se v lipidové části membrán neuronů a modulují iontové kanály (posilují **GABA_A**, tlumí NMDA) → útlum přenosu signálu. Účinnost roste s **rozpustností v tucích**.
+- **Nejcitlivější struktury v pořadí:** retikulární formace → thalamická jádra a jejich spoje s kůrou (ztráta hodnocení bolesti) → mozková kůra → mícha. **Amnézie** po výkonu se přičítá útlumu hipokampu.
+
+| Stadium | Co se děje |
+|---|---|
+| **1. analgezie** | pacient při vědomí, utlumený, mizí vnímání bolesti |
+| **2. excitace (vagové)** | ztráta vědomí, neklid, nepravidelné dýchání — ⚠️ **dráždění n. vagus: bronchospasmus, zvracení, riziko zástavy srdce**; tímto stadiem se má projít co nejrychleji |
+| **3. chirurgická tolerance** | pravidelné dýchání, mizí oční pohyby a rohovkový reflex, svalová relaxace — **tady se operuje** |
+| **4. míšní paralýza** | útlum center dechu a oběhu, ochabnutí svěračů, kóma a smrt — **předávkování** |
+
+**Dvě čísla, na která se ptají:**
+- **Dělicí koeficient krev/plyn** — **nízký = rychlý nástup i rychlé probuzení** (látka se nehromadí v krvi a rychle sytí mozek); vysoký = pomalý nástup i odeznění.
+- **MAC (minimální alveolární koncentrace)** = koncentrace, při které **50 % pacientů nereaguje pohybem na chirurgický řez** — míra účinnosti. **MAC klesá v kombinaci s N₂O**, v graviditě a ve stáří; roste u dětí a alkoholiků.
+
+| Látka | Podstatné |
+|---|---|
+| **Halotan** | první halogenové; vazodilatace a hypotenze, ↓ srdeční výdej. ⚠️ **Maligní hypertermie a pohalotanová hepatitida** → **dnes se nepoužívá** |
+| **Izofluran** | **dnes nejpoužívanější**; vazodilatace, riziko „**coronary steal**" — odklonění krve od ischemických oblastí myokardu |
+| **Desfluran** | nejrychlejší nástup i odeznění, ale **dráždí dýchací cesty** (kašel, laryngospasmus) |
+| **Sevofluran** | nedráždivý, příjemný — **úvod inhalací u dětí** |
+| **N₂O (oxid dusný)** | rychlá indukce i odeznění; **v nízké koncentraci analgezie → základ inhalační sedace ve stomatologii**; nosný plyn snižující MAC ostatních. ⚠️ **Expozice nad 6 h inaktivuje vitamin B12 → útlum kostní dřeně**; nevhodný u anemie, chronická profesní expozice se pojí s vyšším rizikem potratů a vad plodu |
+| **Xenon** | inertní, netoxický, nemetabolizuje se; **nejnižší rozpustnost v krvi → nejrychlejší nástup i probuzení**, neovlivňuje oběh (vhodný u kardiaků). Nevýhoda: cena |
+
+- **Nežádoucí účinky:** útlum dechového centra a oběhu, vazodilatace a hypotenze, arytmie, pooperační nevolnost, hepatotoxicita (halotan), **maligní hypertermie** (viz otázka 47).
+- **Interakce:** prohlubují a prodlužují blok nedepolarizujících myorelaxancií; s opioidy a benzodiazepiny se sčítá útlum dechu; **adrenalin při inhalační anestezii = riziko arytmií**.
+
+| Antagonista | Co ruší |
+|---|---|
+| **Naloxon, naltrexon, nalmefen** | **opioidy** (útlum dechu a sedaci) |
+| **Flumazenil** | benzodiazepiny |
+| **Neostigmin, sugammadex** | nedepolarizující myorelaxancia |
+| **Doxapram** | nespecifické dechové analeptikum (dráždí chemoreceptory) |
+| **Dantrolen** | maligní hypertermie |
+
+⚠️ **Naloxon je ANTAGONISTA opioidů** — starší studentské materiály ho někdy uvádějí jako agonistu, to je věcná chyba.
+
+❓ *Co znamená MAC a co ji snižuje?* → Koncentrace, při níž 50 % pacientů nereaguje na řez; snižuje ji N₂O, gravidita, vyšší věk a opioidy.
+
+---
+
+## 50 · Celková anestetika — intravenózní
+
+**O čem to je:** slouží hlavně k **rychlému a příjemnému úvodu** do anestezie (nástup ~1 minuta), případně ke krátkým výkonům.
+
+- **Mechanismus:** většina posiluje **GABA_A** receptor (thiopental, propofol, etomidát, midazolam) → hluboký útlum CNS. **Ketamin je výjimka — blokuje NMDA receptory.**
+- **Dělení:** **barbiturátová** (thiopental) a **nebarbiturátová** (propofol, etomidát, ketamin, midazolam).
+
+| Léčivo | Podstatné |
+|---|---|
+| **Thiopental** | vysoce lipofilní → anestezie do 2 min, trvá 5–10 min. Probuzení je dáno **redistribucí do tuku**, ne eliminací → přetrvává ospalost („pobarbiturátová kocovina"), při opakovaných dávkách kumulace. **NÚ: útlum dechu, hypotenze.** Indikace: **úvod do anestezie** |
+| **Propofol** | rychlý nástup i odeznění, minimum nevolnosti → **udržovací anestezie v infuzi a sedace na JIP**. NÚ: bolest při injekci, **hypotenze**, apnoe; ⚠️ dlouhodobě vysoké dávky → **propofolový infuzní syndrom** (metabolická acidóza, hyperkalemie, rhabdomyolýza, selhání oběhu) |
+| **Etomidát** | oběhově nejšetrnější → **volba u nestabilního pacienta**. ⚠️ **Potlačuje syntézu kortikosteroidů** v nadledvinách (proto ne v infuzi, spojováno s vyšší mortalitou) |
+| **Midazolam** | benzodiazepin — premedikace, sedace u endoskopie, anterográdní amnézie; antidotum **flumazenil** |
+| **Ketamin** | ⚠️ **jediné anestetikum, které oběh STIMULUJE** (↑ tlak i tep), netlumí dýchání ani reflexy; navodí **disociovanou anestezii** (analgezie a amnézie při zachovaném vědomí). NÚ: **dysforie a halucinace** → kombinuje se s benzodiazepinem; ↑ nitrolební a nitrooční tlak, hypersalivace. Indikace: **výkony u dětí, medicína katastrof, popáleniny, šokový pacient** (dá se i.m.) |
+
+- **Neuroleptanalgezie** — kombinace silného opioidu a neuroleptika, klasicky **fentanyl + droperidol**: sedace, analgezie a amnézie, ale ⚠️ **NE bezvědomí** — pacient je schopný spolupracovat (neurochirurgické výkony).
+- ⚠️ **Nepleť si droperidol (neuroleptikum) s domperidonem (prokinetikum/antiemetikum)** — tuhle záměnu má i studentský zdroj.
+- **Jak vypadá kombinovaná anestezie v praxi:** **premedikace** (atropin proti vagové bradykardii a salivaci + benzodiazepin) → **úvod** (thiopental nebo propofol) → **myorelaxace** (rokuronium/vekuronium) → **udržování** (inhalační anestetikum nebo propofol + opioid) → **antiemetikum** (ondansetron) → **pooperační analgezie** (opioidy, NSA).
+
+🔑 **Thiopental = úvod · propofol = udržování · etomidát = nestabilní oběh · ketamin = výjimka, která oběh stimuluje.**
+
+❓ *Proč se pacient po thiopentalu probudí za pár minut, i když se lék eliminuje hodiny?* → Kvůli **redistribuci** z mozku do svalů a tuku, ne kvůli odbourání.
+
+---
+
+## 51 · Hypnotika
+
+**O čem to je:** léky na spaní — tři generace od nebezpečných barbiturátů přes benzodiazepiny k dnešní volbě, **Z-látkám**.
+
+- **Insomnie** = usínání déle než 30 minut nebo přerušovaný spánek s časným probuzením; důsledkem je denní únava, poruchy pozornosti, chyby a nehody. **Akutní** < 3 měsíce (reakce na stres) · **chronická** ≥ 3 noci týdně po ≥ 3 měsíce · **primární** (bez organické příčiny) · **sekundární** (nemoc, léky, abúzus). ⚠️ Nespavost sama bývá **nežádoucím účinkem** psychostimulancií, antidepresiv, diuretik a β-blokátorů.
+- **Mechanismus:** bdělost udržuje mozkový kmen přes histamin, dopamin, noradrenalin, serotonin a acetylcholin. Hypnotika buď **posílí to, co spánek navozuje** (GABA, melatonin, adenosin), nebo **utlumí to, co bdělost udržuje** (histamin, noradrenalin, ACh).
+- **Zásady:** farmakoterapie hlavně u **akutní** insomnie (prevence přechodu do chronické), nejdřív **spánková hygiena a fytoterapie** (meduňka, heřmánek, chmel), pak nejnižší účinná dávka co nejkratší dobu; dlouhodobě hrozí tolerance, rebound nespavost a závislost.
+
+**Barbituráty (1. generace)** — váží se na **vlastní vazebné místo GABA_A receptoru** a **přímo prodlužují otevření chloridového kanálu** (ve vysoké dávce ho otevřou i bez GABA — proto ta toxicita).
+- Dělení: **krátkodobé** (thiopental, pentobarbital) · **střednědobé** (amobarbital) · **dlouhodobé** (**fenobarbital**, až 48 h).
+- **NÚ:** útlum dechového centra, zmatenost, poruchy paměti, deprese; rychle vzniká **tolerance a závislost**, abstinenční příznaky (halucinace, arytmie, křeče); **potlačují REM spánek**. ⚠️ Jsou **silné induktory jaterních enzymů** → snižují účinek warfarinu, kontraceptiv a dalších léků. ⚠️ **Nemají antidotum** (na rozdíl od benzodiazepinů).
+- Dnes už **ne jako hypnotika** — zůstávají jako antiepileptikum (fenobarbital) a anestetikum (thiopental).
+
+**Benzodiazepiny (2. generace)** — viz otázka 52; na spaní se používají ty s krátkým poločasem, nevýhodou je zkrácení REM fáze a závislost.
+
+**Z-látky (3. generace) — dnešní lék první volby.** Nebenzodiazepinoví **agonisté benzodiazepinového vazebného místa**, ale **selektivní pro podjednotku α1** → mají jen hypnotický efekt, **ne anxiolytický ani myorelaxační**; zkracují usínání, snižují počet probuzení a **nepotlačují REM spánek**; nižší riziko rebound fenoménu a interakcí.
+- **Zolpidem** — potíže s **usínáním** (krátký poločas). **Zopiklon** — noční a časné probouzení; NÚ **ranní útlum** a ⚠️ **vylučuje se do slin → kovově hořká chuť v ústech** (zubařsky užitečný detail, pacienti si na to stěžují).
+- **NÚ Z-látek:** bolest hlavy, ospalost, vzácně **parasomnie** (náměsíčnost, jídlo a řízení ve spánku), riziko pádů u seniorů. **KI:** myasthenia gravis, těžká respirační insuficience, spánková apnoe, těžké jaterní selhání.
+- **Ostatní možnosti:** **melatonin** (u poruch rytmu a u seniorů), sedativní antidepresiva (trazodon, mirtazapin), antihistaminika 1. generace, nízké dávky sedativních antipsychotik.
+
+🔑 **Barbituráty = toxické, bez antidota, potlačují REM, indukují enzymy. Z-látky = dnešní volba, REM nepotlačují.**
+
+❓ *Na co si stěžuje pacient po zopiklonu?* → Na **kovovou hořkou chuť** v ústech (vylučuje se do slin) a ranní útlum.
+
+---
+
+## 52 · Benzodiazepiny
+
+**O čem to je:** léky proti úzkosti a na spaní zároveň — od barbiturátů se liší mechanismem a hlavně tím, že **mají antidotum**.
+
+- **Mechanismus (přesná formulace):** vážou se na **benzodiazepinové místo GABA_A receptoru, oddělené od místa pro GABA**, a **alostericky** (změnou tvaru receptoru) zvyšují **frekvenci otevírání chloridového kanálu** — ale **jen v přítomnosti GABA**. Proto mají mnohem širší terapeutické okno než barbituráty, které kanál otevřou i bez GABA.
+- **Pět účinků:** **anxiolytický · sedativní · hypnotický · myorelaxační (centrálně) · antikonvulzivní.**
+
+| Délka účinku | Poločas | Zástupci | Typické využití |
+|---|---|---|---|
+| **krátkodobé** | < 6 h | midazolam, cinolazepam, medazepam | **usínání**, premedikace |
+| **střednědobé** | 6–24 h | **alprazolam**, bromazepam, oxazepam | úzkost, panická porucha |
+| **dlouhodobé** | > 24 h | **diazepam, klonazepam** | úzkostné stavy, křeče, spasticita, odvykací stavy |
+
+- ⚠️ **Z poločasu plyne indikace: krátký poločas → na spaní · dlouhý poločas → na úzkost.**
+- **Indikace:** úzkostné a panické poruchy, nespavost, **epileptický status (diazepam, midazolam i.v.)**, febrilní křeče, alkoholový odvykací stav a delirium tremens, svalové spazmy, premedikace před výkonem.
+- **Farmakokinetika:** perorální dostupnost blízká 100 %, silná vazba na bílkoviny, lipofilní → snadno přes HEB, metabolizace v játrech (**oxazepam a lorazepam se jen konjugují → bezpečnější u jaterního postižení a u seniorů**).
+- **Nežádoucí účinky:** denní útlum a spavost, zhoršená pozornost a psychomotorika (⚠️ **řízení, zvlášť s alkoholem**), **anterográdní amnézie**, závratě a pády u seniorů, **zkrácení REM spánku**, paradoxní reakce (neklid, agrese) u dětí a seniorů; **tolerance, fyzická i psychická závislost** a **rebound nespavost/úzkost** po vysazení (proto se vysazují postupně).
+- **Kontraindikace:** **myasthenia gravis**, těžká respirační insuficience a spánková apnoe, těžké jaterní selhání, akutní intoxikace alkoholem a tlumivými látkami, I. trimestr gravidity.
+- **Antidotum: flumazenil** (kompetitivní antagonista) — pozor, má krátký poločas (riziko návratu útlumu) a u epileptiků může vyvolat křeče.
+
+🔑 **Alostericky zvyšují frekvenci otevírání Cl⁻ kanálu, ale jen v přítomnosti GABA — proto jsou bezpečnější než barbituráty. Antidotum flumazenil.**
+
+❓ *Proč mají benzodiazepiny širší terapeutické okno než barbituráty?* → Bez GABA nic neudělají; barbituráty kanál ve vysoké dávce otevřou samy → zástava dechu.
+
+---
