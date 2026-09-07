@@ -4,7 +4,13 @@
 
 ---
 
-## ⭐⭐ ZAČNI TÍMHLE — `VYPISKY-KOMPLET.pdf` (2026-09-03, nahrazuje `VYCUC-FINAL`)
+## 🚨 KRIZOVÝ REŽIM (2026-09-07, zbývají 2 dny) — `ZAKLAD-KE-ZKOUSCE.pdf`
+
+**Když fakt nestíháš, sáhni po tomhle.** Je to zkrácená verze `VYPISKY-KOMPLET` — u každé ze 136 otázek jen to, co musí zaznít (mechanismus, klíčová čísla a léky, jedna past), bez rozšiřujících příkladů a bez "Doptají se". Pořád vysvětlené (ne holá hesla), ale na přečtení celé za 2 dny.
+
+---
+
+## ⭐⭐ ZAČNI TÍMHLE (když máš čas) — `VYPISKY-KOMPLET.pdf` (2026-09-03, nahrazuje `VYCUC-FINAL`)
 
 **Tohle je teď hlavní a nejúplnější soubor: `VYPISKY-KOMPLET.md` / `.pdf` / `.html` — 136/136 otázek (Obecná O1–O35 + Speciální I 36–88 + Speciální II 89–136), přepsané od nuly ve Feynmanově stylu.**
 
