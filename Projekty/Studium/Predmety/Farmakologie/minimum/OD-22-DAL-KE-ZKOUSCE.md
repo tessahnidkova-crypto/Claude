@@ -2235,3 +2235,85 @@
 ❓ *Proč se alopurinol nesmí nasadit v akutním záchvatu?* → Náhlý pokles urikemie **rozpustí krystaly a záchvat zhorší** — začíná se až po odeznění, s profylaxí kolchicinem.
 
 ---
+## 114 · Imunosupresiva, imunostimulancia
+
+**O čem to je:** ⚠️ **cílem je imunitu buď potlačit (transplantace, autoimunity), nebo povzbudit — a hranice mezi obojím je tenká** (potlačení jedné složky může jinou stimulovat). Touhle větou otázku otevři.
+
+| Skupina imunosupresiv | Mechanismus, indikace, NÚ |
+|---|---|
+| **Glukokortikoidy** | blokují **expresi genů pro cytokiny (IL-1, IL-2, IL-6)**, tlumí hlavně **buněčnou** imunitu; rejekce, autoimunity. NÚ viz otázka 117 |
+| **Kalcineurinové inhibitory — cyklosporin, takrolimus** | blokují **kalcineurin → nevznikne IL-2** (růstový faktor T-lymfocytů) → T-lymfocyty se nemnoží. ⚠️ **Úzké terapeutické okno, metabolismus přes CYP3A4 → nutné TDM**; NÚ **nefrotoxicita, hypertenze, neurotoxicita, hyperkalemie, u cyklosporinu hypertrofie dásní a hirsutismus** |
+| **Inhibitory mTOR — sirolimus, everolimus** | blokují signál za IL-2 receptorem; méně nefrotoxické, ale hyperlipidemie a špatné hojení ran |
+| **Antimetabolity — azathioprin, mykofenolát-mofetil** | proléčiva blokující **syntézu purinů** → tlumí množení lymfocytů. NÚ: **útlum dřeně, GIT potíže, infekce**; ⚠️ azathioprin + **alopurinol** = prudký vzestup toxicity |
+| **Biologika** | anti-IL2R **basiliximab** (prevence rejekce), anti-TNF, anti-CD20 rituximab (viz O35) |
+
+- ⚠️ **Společné riziko všech imunosupresiv: infekce (i oportunní a reaktivace latentních) a vyšší výskyt nádorů** — **cyklosporin je v IARC skupině 1 karcinogenů** (viz O31).
+- ⚠️ **Pro tebe jako zubařku: cyklosporin patří spolu s fenytoinem a blokátory kalciových kanálů (nifedipin) mezi léky vyvolávající hyperplazii dásní** — u pacienta po transplantaci na to počítej. `[obecné znalosti]`
+- **Imunostimulancia:** **isoprinosin** (purinový derivát — ↑ NK buňky a funkce T-lymfocytů; recidivující herpes, HPV, imunodeficity) · **imiquimod** krém (↑ tvorba interferonu α; **genitální bradavice, povrchový bazaliom**) · **bakteriální lyzáty** (profylaxe recidivujících respiračních infekcí — ↑ IgA a T-lymfocyty) · **vakcíny** · přírodní látky a vitaminy (echinacea, C, D — receptor pro vitamin D je i na imunitních buňkách).
+
+❓ *Proč se u cyklosporinu měří hladiny?* → **Úzké terapeutické okno** + metabolismus přes CYP3A4 (spousta interakcí) — poddávkování znamená rejekci, předávkování nefrotoxicitu.
+
+---
+
+## 115 · Hormony hypothalamu, hypofýzy, jejich analoga
+
+**O čem to je:** hypothalamus řídí hypofýzu přes **liberiny (spouštěče) a statiny (brzdy)**. ⚠️ **Klíčový paradox: GnRH pulzně stimuluje, kontinuálně naopak vypne.**
+
+| Hormon hypothalamu | Funkce a analoga |
+|---|---|
+| **GHRH** | ↑ růstový hormon; **sermorelin** — diagnostický test |
+| **Somatostatin** | brzdí **GH a TSH**, snižuje průtok splanchnikem. ⚠️ **Oktreotid, lanreotid** — **akromegalie, krvácení z jícnových varixů, neuroendokrinní nádory (VIPom, gastrinom)** |
+| **TRH** | ↑ TSH; protirelin — diagnostika |
+| **CRH** | ↑ ACTH; kortikorelin — diagnostika Cushingova syndromu |
+| **GnRH** | ↑ **LH a FSH**; analoga **leuprorelin, goserelin, buserelin** |
+| **Dopamin** | fyziologicky **brzdí prolaktin**; agonisté **bromokriptin, kabergolin** |
+
+- 🔑 **GnRH — nejvděčnější část:** **pulzní i.v. podání stimuluje** výdej gonadotropinů (léčba neplodnosti, opožděné puberty, umělé oplodnění), ⚠️ **kontinuální podání receptory desenzibilizuje a sekreci VYPNE = „biochemická kastrace"** — karcinom prostaty, endometrióza, myomy, předčasná puberta. Dlouhodobě hrozí **osteoporóza**.
+- ⚠️ **Prolaktinom je jediný nádor hypofýzy léčitelný konzervativně** — agonisté dopaminu (kabergolin) sníží prolaktin **a zmenší i samotný adenom**.
+- **Adenohypofýza:** **GH** působí nepřímo přes **IGF-1 (somatomediny) z jater** — nedostatek v dětství = **hypofyzární nanismus** (léčba **somatropinem** s.c.), nadbytek = **gigantismus u dětí, akromegalie u dospělých** (léčba analogy somatostatinu). **ACTH** vzniká z **proopiomelanokortinu** (spolu s MSH — ⚠️ proto je u Addisonovy choroby **hyperpigmentace**); **tetrakosaktid** = analog ACTH k odlišení primární a sekundární nedostatečnosti nadledvin.
+- **Neurohypofýza:** oxytocin a vazopresin vznikají v hypothalamu a do zadního laloku putují **přímo axony** (ne krví).
+  - **Oxytocin** — kontrakce dělohy (citlivost prudce stoupá na konci gravidity) a vypuzení mléka; poločas ~10 min. **Indikace: indukce porodu, poporodní atonie dělohy.** ⚠️ **KI: distres plodu, nepoměr velikosti, hrozící předčasný porod** — tam se naopak podává **atosiban** (antagonista).
+  - **Vazopresin (ADH)** — **V1** (cévy, Gq) → vazokonstrikce · **V2** (distální tubulus, Gs) → ⚠️ **vloží akvaporiny do membrány → zpětné vstřebání vody** · V3 (hypofýza) → ↑ ACTH. ⚠️ **Samotný vazopresin se nehodí** — krátký poločas a neselektivita. **Analoga: desmopresin** (selektivní **V2** — **centrální diabetes insipidus, noční pomočování, hemofilie A a von Willebrandova choroba**) · **terlipresin** (selektivní **V1** — **krvácení z jícnových varixů**). ⚠️ NÚ: hyponatremie („otrava vodou"), koronární spazmus.
+  - **SIADH** (nadměrná sekrece ADH, často paraneoplastická) → hyponatremie; léčba **tolvaptan** (aquaretikum), demeklocyklin, omezení tekutin.
+
+❓ *Proč kontinuální podání GnRH funguje jako kastrace?* → Trvalá stimulace receptory **desenzibilizuje a down-reguluje** — po počátečním vzestupu sekrece LH/FSH prudce klesne.
+
+---
+
+## 116 · Farmakoterapie onemocnění štítné žlázy
+
+**O čem to je:** hormony štítné žlázy řídí metabolismus — **nadbytek tělo zrychlí, nedostatek zpomalí**. Léčba je buď blokáda, nebo náhrada.
+
+- **Fyziologie:** folikulární buňky tvoří **T4 (thyroxin) a T3**, C-buňky **kalcitonin**. ⚠️ **T4 je vázán z 99,95 % na TBG, T3 z 99,5 %** → **T4 má ~3× delší poločas (~7 dní)**; v tkáních se T4 **dejodací mění na T3, který je asi 10× účinnější**. Řízení: **TRH → TSH**, zpětná vazba hormony štítné žlázy; nedostatek jódu → **struma**, nadbytek → útlum. Účinek: ↑ Na⁺/K⁺-ATPáza a bazální metabolismus, efekt připomínající sympatikus (tachykardie, třes, pocení, nervozita); ⚠️ **nezbytné pro vývoj CNS — nedostatek v dětství = kretenismus**.
+- **Hypertyreóza** (nejčastěji **Gravesova-Basedowova choroba**): tři možnosti — ① **thyreostatika + β-blokátor na příznaky** ② **radiojód** ③ **operace**.
+  - ⚠️ **Thyreostatika — thiamazol, propylthiouracil:** blokují **thyreoidální peroxidázu** (nemůže proběhnout oxidace jodidu a jodace tyrosinu); propylthiouracil navíc blokuje periferní konverzi T4 na T3 a je **volbou v I. trimestru gravidity**. **NÚ: vyrážka, hepatotoxicita, a hlavně ⚠️ agranulocytóza — při horečce a bolesti v krku okamžitě krevní obraz!**
+  - **β-blokátory** (propranolol) — potlačí příznaky ze sympatiku, propranolol i konverzi T4 na T3.
+  - ⚠️ **Tyreotoxická krize** — život ohrožující: i.v. **β-blokátor, thiamazol, jodid** (velká dávka jódu přechodně zablokuje uvolňování hormonů — **Wolffův-Chaikoffův efekt**, podává se **až po thyreostatiku**), **hydrokortizon**, chlazení.
+- **Hypotyreóza** (**Hashimotova tyreoiditida**, nedostatek jódu, po operaci či radiojódu, po **lithiu a amiodaronu**): ⚠️ **jedinou léčbou je substituce hormonů**.
+  - **Levothyroxin (T4)** — standard: dlouhý poločas, stabilní hladiny, ⚠️ **užívá se nalačno, 30 min před jídlem** (vápník, železo a kávou se vstřebávání zhorší); dávka se titruje podle **TSH**; u seniorů a kardiaků začínat nízkou dávkou (riziko anginy a arytmií).
+  - **Liothyronin (T3)** — rychlý nástup, ⚠️ **jen pro urgentní stavy (myxedémové kóma)**, ne dlouhodobě.
+  - **Supresivní léčba** (vyšší dávky potlačující TSH) — po operaci karcinomu štítné žlázy; riziko osteoporózy a arytmií.
+- **Jód:** **jodid draselný** k prevenci deficitu (gravidita, kojení); **Lugolův roztok** u tyreotoxické krize a předoperačně.
+- **Příštítná tělíska:** **PTH** ↑ vápník (kost, ledvina, střevo) a ↓ fosfát. **Hyperparatyreóza** — hyperkalcemie, ledvinné kameny, útlum CNS; léčba operace nebo ⚠️ **cinakalcet** (kalcimimetikum — zvýší citlivost receptoru pro vápník → klesne sekrece PTH). **Hypoparatyreóza** (typicky po operaci štítné žlázy) — hypokalcemie s tetanií; akutně **kalcium i.v.**, chronicky **vápník + vitamin D**, teriparatid. **Kalcitonin** — protipól PTH, klinicky slabý; lososí forma u akutní hyperkalcemie.
+
+❓ *Na co upozorníš pacienta, který začíná brát thiamazol?* → Při **horečce a bolesti v krku okamžitě k lékaři na krevní obraz** — hrozí **agranulocytóza**.
+
+---
+
+## 117 · Glukokortikoidy, mineralokortikoidy
+
+**O čem to je:** nejsilnější protizánětlivé léky, které máme — a nejrizikovější při dlouhodobém užívání.
+
+- **Mechanismus:** jsou lipofilní → projdou membránou, naváží se na **nitrobuněčný receptor** a v jádře **mění expresi genů**: ⚠️ **indukují lipokortin → blokáda fosfolipázy A₂ → vypnou celou eikosanoidovou kaskádu** (viz otázka 62), tlumí **NF-κB** a tvorbu cytokinů (IL-1, IL-2, IL-6, TNF), snižují počet lymfocytů a eozinofilů. Efekt: **protizánětlivý, imunosupresivní, antialergický, protiotokový**.
+- **Zástupci podle síly a délky:** **hydrokortizon** (přirozený, krátký, výrazný mineralokortikoidní efekt) → **prednison** (proléčivo → prednisolon), **methylprednisolon** (střední) → **dexamethason, betamethason** (nejsilnější, dlouhý, prakticky bez mineralokortikoidního efektu).
+- **Tři způsoby použití:** ⓵ **substituční** (Addisonova choroba — hydrokortizon 2–3× denně, ⚠️ **největší dávka ráno podle cirkadiánního rytmu; v zátěži — infekce, operace, i STOMATOLOGICKÝ ZÁKROK — se dávka zvyšuje**) ⓶ **systémová protizánětlivá** (autoimunity, těžké alergie, astma, otok mozku, transplantace, hematoonkologie) ⓷ **lokální** (inhalačně u astmatu, intranazálně, oční kapky, masti, injekce do kloubu) — ⚠️ **lokální podání má výrazně méně systémových NÚ**.
+- ⚠️ **Nežádoucí účinky (nejdůležitější část otázky):** **iatrogenní Cushingův syndrom** (měsícovitý obličej, býčí šíje, centrální obezita, strie), **hyperglykemie až steroidní diabetes**, **osteoporóza a zlomeniny**, **svalová atrofie (myopatie)**, ⚠️ **útlum hojení ran a zvýšená náchylnost k infekcím i reaktivace latentních (TBC, herpes, kandidóza)**, **peptický vřed** (zvlášť s NSA), hypertenze, **hypokalemie**, glaukom a katarakta, psychické změny (euforie, nespavost, deprese), u dětí zpomalení růstu; lokálně atrofie kůže a ⚠️ **orofaryngeální kandidóza po inhalaci**.
+- ⚠️ **Nikdy nevysazovat náhle po delší léčbě** — kůra nadledvin je utlumená (sekundární insuficience) a pacient nezvládne stresovou zátěž → **addisonská krize**. Vysazuje se **postupným snižováním**.
+- **Pravidla:** **lokálně před systémovým · nejnižší účinná dávka · co nejkratší dobu · pomalé vysazování**; ⚠️ **léčba delší než ~3 měsíce už NÚ přináší, za relativně bezpečnou se považuje dávka do 2,5 mg prednisonu denně** (nad ni prokazatelně roste riziko osteoporózy) — při dlouhodobé léčbě se přidává **vápník, vitamin D, případně bisfosfonát**.
+- **Mineralokortikoidy:** **aldosteron** (*zona glomerulosa*) — v distálním tubulu ↑ zpětné vstřebání **sodíku a vody** a ↑ vylučování **draslíku a H⁺**. **Nadbytek = Connův syndrom** (hypertenze, hypokalemie, metabolická alkalóza), **nedostatek = Addisonova choroba** (ztráta sodíku a vody, **hyperkalemie**, hypotenze, hyperpigmentace).
+- ⚠️ **Elegantní detail:** ke stejnému receptoru mají afinitu i glukokortikoidy — selektivitu zajišťuje enzym **11-β-hydroxysteroiddehydrogenáza**, který je v cílové buňce inaktivuje. *(Proto lékořice, která tento enzym blokuje, vyvolá obraz hyperaldosteronismu.)*
+- **Antagonisté:** **spironolakton** (snižuje mortalitu u srdečního selhání; ⚠️ NÚ **gynekomastie a poruchy menstruace** z antiandrogenního efektu) a **eplerenon** (selektivnější, bez těchto NÚ). ⚠️ **Riziko hyperkalemie, zvlášť s ACEI/sartany a při renální insuficienci — kontrolovat sodík i draslík.** Substituce mineralokortikoidu u Addisonovy choroby: **fludrokortizon**.
+
+❓ *Proč se dávka kortikoidu zvyšuje před zubním zákrokem u pacienta na substituci?* → Utlumená nadledvina nedokáže zvýšit vlastní produkci při stresu → hrozí **addisonská krize** (hypotenze, kolaps).
+
+---
