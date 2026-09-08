@@ -89,15 +89,15 @@ SABLONA = """<!doctype html><html><head><meta charset="utf-8"><title>Kartičky</
 * {{ box-sizing: border-box; }}
 body {{ margin: 0; font-family: Calibri, Carlito, Arial, sans-serif; }}
 #mriz {{ display: flex; flex-wrap: wrap; width: {gw}mm; }}
-.karta {{ width: {w}mm; height: {h}mm; border: 0.25pt solid #9aa; padding: 1.4mm 1.6mm;
+.karta {{ width: {w}mm; height: {h}mm; border: 0.25pt solid #9aa; padding: 1.1mm 1.3mm;
           overflow: hidden; break-inside: avoid; }}
 .hl {{ font-size: {hpt}pt; font-weight: 700; color: #123; border-bottom: 0.25pt solid #bcc;
        height: {hlh}mm; margin-bottom: 0.5mm; display: flex; justify-content: space-between;
        gap: 1.5mm; line-height: 1.05; overflow: hidden; }}
 .hl .nz {{ flex: 1; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }}
 .hl .cis {{ white-space: nowrap; color: #667; font-weight: 600; }}
-.telo {{ font-size: {pt}pt; line-height: 1.16; height: calc(100% - {hh}mm); overflow: hidden; }}
-.telo p {{ margin: 0 0 0.5mm 0; }}
+.telo {{ font-size: {pt}pt; line-height: 1.13; height: calc(100% - {hh}mm); overflow: hidden; }}
+.telo p {{ margin: 0 0 0.4mm 0; }}
 .telo p.b0 {{ padding-left: 1.5mm; text-indent: -1.5mm; }}
 .telo p.b0::before {{ content: "▪ "; color: #789; }}
 .telo p.b1 {{ padding-left: 3.2mm; text-indent: -1.5mm; }}
@@ -152,6 +152,39 @@ function novaKarta(id, nazev) {{
   k.dataset.id = id; k.dataset.nazev = nazev;
   return k;
 }}
+
+const JEDNA = {jedna};
+const MINPT = {minpt}, MAXPT = {maxpt};
+
+function dopocitejPismo(telo) {{
+  let lo = MINPT, hi = MAXPT;
+  telo.style.fontSize = MAXPT + 'pt';
+  if (telo.scrollHeight <= telo.clientHeight) return MAXPT;
+  for (let i = 0; i < 14; i++) {{
+    const mid = (lo + hi) / 2;
+    telo.style.fontSize = mid + 'pt';
+    if (telo.scrollHeight <= telo.clientHeight) lo = mid; else hi = mid;
+  }}
+  telo.style.fontSize = lo.toFixed(2) + 'pt';
+  return lo;
+}}
+
+if (JEDNA) {{
+  let nejmensi = MAXPT, pretekle = 0; const zprava = [];
+  for (const q of KARTY) {{
+    const k = novaKarta(q.id, q.nazev), t = k.querySelector('.telo');
+    k.querySelector('.hl').remove();
+    t.style.height = '100%';
+    t.innerHTML = q.bloky.join('');
+    const pt = dopocitejPismo(t);
+    if (pt <= MINPT + 0.02 && t.scrollHeight > t.clientHeight) {{ pretekle++; k.style.outline = '1pt solid red'; }}
+    nejmensi = Math.min(nejmensi, pt); zprava.push([q.id, pt]);
+  }}
+  zprava.sort((a, b) => a[1] - b[1]);
+  document.title = 'Karet ' + mriz.children.length + ' · nejmenší ' + nejmensi.toFixed(2)
+    + ' pt · přeteklo ' + pretekle + ' · nejhustší: '
+    + zprava.slice(0, 12).map(x => x[0] + ':' + x[1].toFixed(1)).join(' ');
+}} else {{
 
 let vyrobene = [];
 for (const q of KARTY) {{
@@ -214,15 +247,18 @@ for (const q of KARTY) {{
   vyrobene.push(skupina.length);
 }}
 document.title = 'Kartičky — ' + mriz.children.length + ' karet';
+}}
 </script></body></html>"""
 
 
 def main():
-    a = sys.argv[1:]
+    a = [x for x in sys.argv[1:] if not x.startswith("--")]
     vstup, vystup = Path(a[0]), Path(a[1])
     pt = float(a[2]) if len(a) > 2 else 6.0
     w = float(a[3]) if len(a) > 3 else 55.0
     h = float(a[4]) if len(a) > 4 else 45.0
+    jedna = "--jedna" in sys.argv
+    minpt = 4.2
     import json as _json
 
     otazky = rozbor(vstup.read_text(encoding="utf-8"))
@@ -235,6 +271,7 @@ def main():
         json=_json.dumps(otazky, ensure_ascii=False), data="", w=w, h=h, gw=gw,
         mside=mside, mtop=mtop, pt=pt, hpt=round(pt * 1.0, 2),
         hlh=round(pt * 0.42, 2), hh=round(pt * 0.42 + 0.9, 2),
+        jedna="true" if jedna else "false", minpt=minpt, maxpt=pt,
     )
     docasne = vystup.with_suffix(".karty.html")
     docasne.write_text(stranka, encoding="utf-8")
