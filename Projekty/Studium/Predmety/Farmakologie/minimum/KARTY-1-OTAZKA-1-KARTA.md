@@ -1,3 +1,194 @@
+## O1 · Farmakologie, zdroje a názvy léčiv, lékopis
+
+- **Farmakologie** = věda o léčivech a jejich účincích, včetně **nežádoucích a toxických**; dělí se na **obecnou** a **speciální**.
+- **Podobory:** klinická farmakologie (⚠️ **není totéž co klinická farmacie**), farmakoepidemiologie, farmakoekonomika, farmakogenetika, toxikologie, **farmakovigilance**.
+- 🔑 ⚠️ **Farmakodynamika = co lék dělá TĚLU · farmakokinetika = co TĚLO dělá s lékem (ADME).**
+- **Farmakoterapie:** **kauzální** (ATB na bakterii) · **substituční** (inzulin) · **symptomatická** (ibuprofen na bolest) · **placebo**.
+- **Pojmy:** léčivá látka × pomocná × **léčivý přípravek** (látka + forma); ⚠️ **„lék" není legislativní pojem**. **HVLP** × **IPLP** (magistraliter). Výdej: recept → s omezením → **OTC** → vyhrazené.
+- **Generikum** = stejná látka, dávka i forma → stačí **bioekvivalence**. Názvy: chemický, **generický (INN)**, lékopisný, firemní. **ATC** třídí léčiva podle orgánového systému.
+- ⚠️ **Lékopis, tabulka I** omamné látky (**modrý pruh**) · **II venena** (bílé písmo na černém) · **III separanda** (červené na bílém) · IV a V dávky pro dospělé a děti. ⚠️ Správně je **oficinální** a **obsoletní**.
+
+## O2 · Legislativa, doplňky stravy, regulační orgány
+
+- **Zákon o léčivech** upravuje výzkum, výrobu, distribuci, **registraci**, předepisování a výdej.
+- ⚠️ **SÚKL** — registruje léčivé přípravky, stanovuje ceny a úhrady, spravuje **eRecept**, dohlíží na farmakovigilanci a reklamu · **EMA** — evropská agentura (centralizovaná registrace) · **FDA** — USA.
+- **Doplněk stravy** = potravina, ⚠️ **nesmí slibovat léčebný účinek** a neprochází registrací jako lék (jen ohlášení). **Zdravotnický prostředek** — působí fyzikálně, ne farmakologicky; má **CE značku**, ne registraci.
+- **Neregistrovaný přípravek** lze podat, když v ČR není srovnatelný LP, je registrovaný v zahraničí, použití je vědecky doložené a pacient je poučen; zvláštní případ = **specifický léčebný program** (MZ ČR, SÚKL).
+- ⚠️ **Off-label** = použití mimo SPC (jiná indikace, dávka, věk) — **není nezákonné**, běžné hlavně v pediatrii.
+- 🔑 ⚠️ **Reklama na léky vázané na recept je pro veřejnost zakázaná** a nikdy nesmí nahrazovat lékaře ani slibovat jistotu vyléčení.
+
+## O3 · Předepisování léčivých přípravků
+
+- **Recept musí obsahovat:** identifikaci pacienta a lékaře, **léčivý přípravek, sílu, lékovou formu, množství a dávkování**, datum a podpis; dnes hlavně **elektronicky (eRecept)**.
+- ⚠️ **Modrý pruh** — recept na **omamné a psychotropní látky** (tabulka I); vydává se ve dvou dílech, ⚠️ **nikdy se nesmí opakovat**.
+- **„Repetatur"** = opakovací recept s počtem opakování, platnost **6 měsíců**; ⚠️ **nelze u návykových látek**. Běžný recept platí 14 dní (antibiotika 5 dní).
+- **Poznámky:** **„nezaměňovat"** (⚠️ zakazuje generickou substituci), **„překročení"** (vědomé překročení lékopisné dávky, musí být vyznačeno), **„ad usum proprium"** (pro sebe či rodinu), **„ad manus medici / pro medico"** (lék podá lékař).
+- **Úhrada:** plně hradí pacient × základní úhrada × zvýšená úhrada u vybraných indikací.
+- 🔑 **Magistraliter recept** = individuálně připravovaný přípravek (IPLP) psaný **lékopisnými latinskými názvy**.
+
+## O4 · Preklinické a klinické hodnocení léčiv
+
+- **Preklinika:** **in silico** (počítač, hledání vedoucí molekuly) → **in vitro** (buňky, tkáně) → **in vivo** ⚠️ **na dvou druzích savců (hlodavec a nehlodavec)**.
+- **Zkoumá se:** **akutní toxicita → LD50**, chronická toxicita → **NOEL**, **reprodukční toxicita**, **kancerogenita** (potkani, 2 roky), **mutagenita (Amesův test)**, kinetika a dynamika → **ED50**.
+- 🔑 **LD50 = smrtelná dávka pro polovinu · ED50 = účinná pro polovinu** → jejich poměr je základ **terapeutického indexu**.
+
+| **I** | první podání člověku — **bezpečnost**, ⚠️ **neřeší se účinnost**; **zdraví dobrovolníci** |
+| **II** | **průkaz účinku a hledání dávky**; desítky až stovky **nemocných** |
+| **III** | **účinnost v reálné populaci**, velké multicentrické studie → registrace |
+| **IV** | **poregistrační sledování** — vzácné NÚ, interakce |
+
+- **Zadavatel** zodpovídá za studii, **protokol** schvaluje SÚKL i **etická komise** (⚠️ hodnotí etiku, ne odbornost dat); účastník podepisuje **informovaný souhlas**.
+
+## O5 · Způsoby aplikace léčiv
+
+- **Enterálně:** perorálně (nejběžnější, ⚠️ **first-pass efekt**, vliv jídla), **sublingválně a bukálně** (⚠️ **obchází first-pass**, rychlý nástup), rektálně (⚠️ jen část obejde játra; vhodné u zvracení a u dětí).
+- **Parenterálně:** **i.v.** (⚠️ **F = 100 %**, okamžitý účinek, ale nevratné a riziko infekce), **i.m.**, **s.c.** (pomalé a plynulé), intradermálně, intratekálně, intraartikulárně.
+- **Ostatní:** **inhalačně** (velká plocha alveolů, rychlost blízká i.v., obchází játra), **transdermálně** (plynulá hladina jako infuze, jen lipofilní látky), lokálně na kůži a sliznice.
+- **Volba cesty závisí na:** stavu pacienta (zvracení, bezvědomí), požadované rychlosti, vlastnostech léčiva a **first-pass efektu**.
+- 🔑 **Systémy s řízeným uvolňováním:** **rezervoárový** (jádro + membrána) × **matricový** (léčivo rozptýlené v matrici) — méně dávek denně a stabilnější hladina.
+
+## O6 · Lékové formy — perorální a orální
+
+- **Tekuté:** **roztok** (homogenní, rychlý účinek), **kapky** (malý objem, vysoká koncentrace), **sirup** (⚠️ nestabilní na teple a světle), **suspenze** (⚠️ nutno protřepat), **emulze**.
+- **Tuhé — tablety:** **konvenční** (rychlé uvolnění), **obalované/dražé**, ⚠️ **enterosolventní** (odolají žaludeční kyselině, rozpadnou se až ve střevě — ⚠️ **nikdy nedrtit**), **s řízeným uvolňováním**, **šumivé**, **dispergovatelné v ústech**.
+- **Tobolky (capsulae)** — tvrdé a měkké; prášky, granuláty.
+- **Orální přípravky s lokálním účinkem:** kloktadla, ústní spreje, pastilky, gely — ⚠️ **infekce dutiny ústní a xerostomie u onkologických pacientů**.
+- 🔑 ⚠️ **Sublingvální a mukoadhezivní podání obchází first-pass efekt stejně jako injekce** — proto se **nitroglycerin nepolyká, ale dává pod jazyk**; totéž opioidní analgetika na průlomovou bolest. **Léčivé žvýkací gumy:** nikotinová substituce, antihistaminikum na kinetózu.
+
+## O7 · Lékové formy — parenterální a dermatologika
+
+- **i.v.** — rychlý nástup, lze podat i dráždivé látky; ⚠️ riziko infekce a nevratnost. **i.m.** — roztoky i suspenze, volba když i.v. nelze (⚠️ **adrenalin u anafylaxe**). **s.c.** — pomalé a plynulé vstřebávání (**inzulin, heparin, vakcíny**), lze i implantát.
+- **Požadavky na injekční přípravky:** ⚠️ **sterilita, apyrogennost, izotonie a odpovídající pH**, bez mechanických nečistot.
+- **Dermatologika podle obsahu vody:** **mast** (max. 20 % vody, hydrofobní — chronické suché stavy) · **krém** (min. 20 % vody — akutnější stavy, hydratace) · **gel** (chladivý, vysychavý) · **pasta** (mast + 20–25 % prášku, adstringentní) · **zásyp** · **léčivá náplast**.
+- 🔑 **Transdermální náplast:** ⚠️ **obchází first-pass, drží stabilní hladinu a dá se rychle přerušit sundáním**; jen lipofilní léčiva s malou molekulou (fentanyl, nitráty, hormony, nikotin). Nevýhody: dráždění kůže, cena, nehodí se pro vysoké hladiny.
+
+## O8 · Lékové formy — oční, nosní, rektální, vaginální, inhalanda
+
+- **Oční:** **kapky** (⚠️ **sterilní, izotonické, pH blízké slzám**; jednodávkové bez konzervantu × vícedávkové max. 10 ml), oční vody k výplachu, **oculenta** (masti), oční injekce (pod spojivku, do sklivce), **inzerty** s dlouhodobým uvolňováním.
+- **Nosní:** kapky a spreje; ⚠️ **řasinky sliznici vyčistí asi za 20 minut** → krátká doba kontaktu.
+- **Ušní:** kapky a masti, obvykle ohřáté na tělesnou teplotu.
+- **Rektální: čípky** (dospělí 2–3 g, děti 1 g; základ kakaové máslo nebo makrogoly), klyzmata; ⚠️ **část dávky obchází first-pass efekt**.
+- **Vaginální:** globule, tablety, krémy — antiseptika, antimykotika, spermicidy.
+- **Inhalanda:** **MDI** (aerosolový dávkovač), **DPI** (prášek, nutný aktivní nádech), **nebulizátory**. ⚠️ **Medicinální plyny podle barvy lahve: bílá kyslík · modrá oxid dusný · hnědá helium.**
+
+## O9 · Komunikace s pacientem, adherence, placebo a nocebo
+
+- **Compliance** = míra dodržování léčby · 🔑 **adherence = totéž, ale s důrazem na to, že pacient je aktivní spolupracovník** · **konkordance** = shoda na léčbě po společném rozhodnutí.
+- **Adherenci zhoršují:** **polypragmazie a složité dávkování**, nežádoucí účinky, bezpříznakové nemoci (hypertenze), cena, obavy z léčby, špatné vysvětlení, deprese a kognitivní porucha.
+- **Jak ji zlepšit:** jednoduchý režim (⚠️ nejlépe 1× denně a fixní kombinace), srozumitelné vysvětlení účelu a délky léčby, upozornění na NÚ dopředu, kontroly, dávkovače.
+- **Placebo** = přípravek bez účinné látky, který působí přes **očekávání**; **nocebo** = tytéž mechanismy vyvolají negativní efekt (pacient hlásí NÚ, o kterých četl — ⚠️ klasický příklad **erektilní dysfunkce po finasteridu**).
+- 🔑 ⚠️ **Placebo a nocebo nejsou „jen v hlavě" — měřitelně mění fyziologii** (endorfiny, vnímání bolesti, stresové hormony). Placebo se používá jako **kontrola v klinických studiích**.
+
+## O10 · Přechod látek biologickými membránami
+
+- **Transport v těle:** unášení tělními tekutinami (krev, lymfa) → **difuze** ve vodném prostředí (Brownův pohyb) → **přechod přes membrány** (transcelulárně × paracelulárně).
+- 🔑 **Pasivní difuze** — po koncentračním spádu, ⚠️ **bez energie a bez přenašeče**, pro **lipofilní a neionizované** látky (většina léčiv). **Filtrace** — vodné póry, malé hydrofilní molekuly. **Facilitovaná difuze** — přenašeč, ale bez energie, saturovatelná. **Aktivní transport** — přenašeč **i energie**, proti spádu (⚠️ **P-glykoprotein pumpuje léčiva ven**). **Pinocytóza** — velké molekuly.
+- ⚠️ **Iontová past:** léčiva jsou slabé kyseliny nebo zásady — přes membránu projde jen **neionizovaná** forma; podle pH se na druhé straně ionizuje a **uvízne** (zásady se hromadí v kyselém prostředí a naopak).
+- **Bariéry:** epitely (kůže, sliznice), cévní endotel (⚠️ v játrech a slezině s velkými póry, v mozku ne) a ⚠️ **bariéry s těsnými spoji — hematoencefalická, hematolikvorová, placentární a testikulární**.
+
+## O11 · Základní farmakokinetické parametry
+
+- 🔑 ⚠️ **Měří se koncentrace v krevní plazmě** — je v rovnováze s koncentrací ve tkáních, a proto z ní lze odvodit dávkování.
+- **F — biologická dostupnost** (%): jaká část dávky se dostane do oběhu v účinné formě; ⚠️ **F = 100 % jen u i.v.**
+- **Vd — zdánlivý distribuční objem:** ⚠️ **není to skutečný objem** — je to objem, do kterého by se léčivo muselo rozpustit, aby vysvětlilo naměřenou koncentraci. **Velké Vd = léčivo je schované ve tkáních** (a špatně se dialyzuje).
+- **CL — clearance** (objem/čas): objem plazmy zcela očištěný za jednotku času; skládá se z **jaterní a renální clearance**.
+- **t½ — biologický poločas:** za jak dlouho klesne koncentrace na polovinu. **ke** — rychlostní konstanta eliminace, **ka** — absorpce.
+- **fu — volná frakce** léčiva v plazmě; ⚠️ **jen volná (nenavázaná) frakce je účinná**.
+
+## O12 · Kinetika 0. a 1. řádu, saturační kinetika
+
+- **Kinetika 1. řádu** (většina léčiv): za jednotku času se eliminuje **stálý PODÍL** (%) léčiva → rychlost eliminace je úměrná koncentraci, poločas je konstantní, křivka je exponenciála.
+- ⚠️ **Kinetika 0. řádu:** eliminuje se **stálé MNOŽSTVÍ** za čas, protože **enzymy jsou nasycené (saturované)** → poločas není konstantní a při dalším zvyšování dávky **koncentrace prudce vyskočí** (riziko intoxikace).
+- ⚠️ **Léčiva se saturační kinetikou už v terapeutických dávkách: fenytoin, salicyláty, teofylin, omeprazol, ethanol.**
+- 🔑 **Po 5 poločasech je léčivo prakticky pryč** (zbývá ~3 %) — stejný počet poločasů platí i pro dosažení **ustáleného stavu** při opakovaném podávání.
+- **Michaelisova-Mentenová kinetika** = přechod mezi oběma: při nízkých koncentracích 1. řád, po nasycení enzymu 0. řád.
+
+## O13 · Absorpce, biologická dostupnost, AUC
+
+- **Absorpce** má **rychlost** (určuje **nástup** účinku) a **rozsah** (určuje **intenzitu a délku**).
+- 🔑 ⚠️ **F = 1 (100 %) jen u i.v.**; ostatní cesty ztrácejí část absorpcí a **first-pass efektem**: i.m. ≈ 0,8 · s.c. ≈ 0,7 · **p.o. ≈ 0,5**. Obcházejí játra: **sublingválně, inhalačně, transdermálně, částečně rektálně**.
+- **Kde se vstřebává:** v **žaludku** (pH 1,5–3, plocha 1 m²) lépe **slabé kyseliny**; ⚠️ **hlavním místem je tenké střevo** (pH 6,5–8, plocha ~200 m²) — dobře i slabé zásady, navíc aktivní transport.
+- **Absorpci ovlivňuje:** léková forma a rozpad tablety, **jídlo**, prokrvení, motilita, pH, chelatace (⚠️ **vápník + tetracykliny**), P-glykoprotein.
+- **Batemanova funkce** = křivka plazmatické koncentrace po perorálním podání (vzestup absorpcí, pak pokles eliminací) — čte se z ní **cmax, tmax** a **AUC**.
+- **AUC** (plocha pod křivkou) = celková expozice organismu; ⚠️ **poměr AUC po p.o. a i.v. podání = absolutní biologická dostupnost**.
+
+## O14 · Distribuce, distribuční objem, vazba na bílkoviny
+
+- **Fáze α (distribuční)** — rychlý pokles koncentrace, protože se léčivo rozptyluje do tkání · **fáze β (eliminační)** — pomalejší pokles daný skutečnou eliminací.
+- 🔑 ⚠️ **Vysoké Vd = léčivo je „schované" ve tkáních, ne v krvi → hemodialýzou se nedá odstranit** (ta čistí jen krev); pro látky s nízkým Vd a hydrofilní je dialýza účinná (lithium, salicyláty).
+- **Vazba na plazmatické bílkoviny:** ⚠️ **albumin váže kyselá léčiva (warfarin, furosemid, NSA)** · **α1-kyselý glykoprotein bazická** (propranolol, TCA) · lipoproteiny velmi lipofilní (cyklosporin).
+- **Důsledky vazby:** pomalejší nástup a nižší intenzita (⚠️ **účinná je jen volná frakce**), prodloužená eliminace (ledviny filtrují jen volnou frakci) a ⚠️ **interakce vytěsněním** — salicyláty nebo sulfonamidy vytěsní warfarin → krvácení.
+- **Bariéry:** **hematoencefalická** (těsné spoje + astrocyty — projdou jen lipofilní a neionizované látky; ⚠️ **při zánětu se propustnost zvyšuje**), hematolikvorová, **placentární** (hlavně volná difuze), testikulární.
+
+## O15 · Eliminace, poločas, clearance
+
+- **Eliminace** = **exkrece nezměněné molekuly** (menšina léčiv) + **metabolismus a vyloučení metabolitu** (většina).
+- **Biologický poločas t½** — čas, za který koncentrace klesne na polovinu: po 1 poločase zbývá 50 %, po 2 25 %, po 3 12,5 %, po 4 6,25 %, ⚠️ **po 5 poločasech jen ~3 % → léčivo je prakticky pryč**.
+- **Eliminační konstanta ke** — podíl léčiva eliminovaný za jednotku času; ⚠️ **t½ = 0,693 / ke**.
+- **Clearance (CL)** = objem plazmy zcela očištěný za jednotku času; **CL = CL jaterní + CL renální**. ⚠️ **Nižší clearance = vyšší celková expozice (AUC) při stejné dávce.**
+- 🔑 ⚠️ **Doba do ustáleného stavu (steady state) závisí POUZE na poločasu** — ne na dávce, cestě podání ani rychlosti infuze (dávka určuje jen výšku hladiny, ne čas). **Css = rychlost infuze / clearance.**
+
+## O16 · Dávkovací režim, kumulace
+
+- **Kontinuální podávání** (i.v. infuze) × **intermitentní** (opakované dávky p.o., i.m., i.v.).
+- Po zahájení koncentrace stoupá a s ní i rychlost eliminace, až se obojí vyrovná = **ustálený stav (steady state)**; nastane po ⚠️ **~5 poločasech**.
+- **Nasycovací (úvodní) dávka** — urychlí dosažení terapeutické hladiny u léčiv s **dlouhým poločasem**; **udržovací dávka** pak jen nahrazuje to, co se eliminuje.
+- **Kumulace** = když **interval mezi dávkami nestačí k eliminaci** předchozí dávky (princip superpozice):
+
+| **τ = t½** | mírná kumulace (ustálená koncentrace ~2× vyšší než po první dávce) |
+| **τ < t½** | ⚠️ **významná kumulace** |
+| **τ > t½** | nízká kumulace |
+
+- 🔑 **Čím kratší interval vůči poločasu, tím větší kumulace** — proto se léčiva s dlouhým poločasem dávkují řidčeji. ⚠️ U léčiv s kinetikou 0. řádu (fenytoin, teofylin) hrozí prudký vzestup hladiny.
+
+## O17 · Biotransformace léčiv
+
+- **Smysl:** udělat z lipofilního léčiva **hydrofilní metabolit**, který se dá vyloučit močí nebo žlučí. Hlavní orgán jsou **játra** (dále střevo, plíce, ledviny, plazma).
+- **Fáze I — nesyntetická:** **oxidace (hlavně cytochrom P450), redukce, hydrolýza** → do molekuly se zavede nebo odkryje funkční skupina (−OH, −NH₂, −SH).
+- **Fáze II — konjugace:** na molekulu se „přilepí" polární zbytek — **glukuronidace** (nejčastější), sulfatace, acetylace, methylace, konjugace s glutathionem nebo glycinem → vzniká zpravidla neúčinný, dobře rozpustný konjugát.
+- 🔑 ⚠️ **Léčivo nemusí projít oběma fázemi** — některá jdou rovnou do fáze II, jiná se vyloučí nezměněná (**lithium, gentamicin**).
+- **Čtyři možné výsledky:** **bioaktivace proléčiva** (enalapril → enalaprilát, kodein → morfin, levodopa) · ⚠️ **vznik toxického metabolitu** (paracetamol → **NAPQI**, cyklofosfamid → akrolein) · vyloučení beze změny · ztráta účinnosti.
+
+## O18 · Úloha jater, first-pass efekt
+
+- **Hepatocyt má dva póly:** **sinusoidální** (oboustranně prostupný, směrem do krve) a **žlučový** (pro vodorozpustné látky jen jedním směrem — do žluči).
+- 🔑 ⚠️ **First-pass efekt:** léčivo vstřebané ze střeva jde **portální žílou nejdřív do jater**, kde se velká část zmetabolizuje ještě před vstupem do systémového oběhu → **perorální dávka musí být mnohem vyšší než nitrožilní** (nitroglycerin, morfin, propranolol, verapamil).
+- ⚠️ **Obcházejí ho:** sublingvální a bukální podání, inhalace, transdermální náplast a částečně rektální podání.
+- **Jaterní extrakce (E):** u léčiv s **vysokou extrakcí** závisí clearance hlavně na **průtoku krve játry**; ⚠️ **při cirhóze a srdečním selhání proto stoupá biologická dostupnost → riziko předávkování**.
+- ⚠️ **Enterohepatální oběh:** konjugát se vyloučí žlučí do střeva, bakterie ho rozštěpí a léčivo se **znovu vstřebá** → prodloužení účinku; ⚠️ **antibiotika tenhle cyklus přeruší** (proto může selhat hormonální antikoncepce). Využívá se opačně u otrav — **opakované aktivní uhlí**.
+
+## O19 · Inhibice a indukce enzymů
+
+- 🔑 ⚠️ **Inhibice zvedá hladinu druhého léku → toxicita; indukce ji snižuje → selhání léčby.** Obojí je nebezpečné, jen jinak.
+- **Inhibice** nastupuje **rychle (hodiny až dny)** — jde o kompetici o enzym; **indukce** vyžaduje **novou syntézu enzymu → dny až týdny**, a po vysazení induktoru stejně dlouho odeznívá.
+- **Významné inhibitory:** ⚠️ **azolová antimykotika (ketokonazol), makrolidy (klarithromycin, erythromycin), grapefruitová šťáva, ritonavir, amiodaron, fluoxetin, cimetidin**.
+- **Významné induktory:** ⚠️ **rifampicin, karbamazepin, fenytoin, fenobarbital, třezalka tečkovaná, cigaretový kouř (CYP1A2), chronicky alkohol (CYP2E1)**.
+- **Klinicky:** **CYP3A4** metabolizuje asi **polovinu všech léčiv** (statiny, BKK, imunosupresiva) · **CYP2D6** (β-blokátory, antidepresiva, kodein) · **CYP2C9** (warfarin, NSA).
+- ⚠️ Typické důsledky: rifampicin ruší **antikoncepci a warfarin**; klarithromycin + statin → **rabdomyolýza**.
+
+## O20 · Vylučování léčiv renální a extrarenální
+
+- **Tři renální děje:** **glomerulární filtrace** (⚠️ **jen volná, nenavázaná frakce**, molekuly do ~20 kDa) · **aktivní tubulární sekrece** (v proximálním tubulu, přenašeče pro kyseliny a zásady — ⚠️ **probenecid soutěží s penicilinem a prodlužuje jeho hladinu**) · **tubulární reabsorpce** (pasivně, pro lipofilní a neionizované látky).
+- 🔑 ⚠️ **pH moči rozhoduje o reabsorpci:** **kyselá moč zadrží zásadité léky, alkalická moč zadrží kyselé** → u **otravy salicyláty se moč alkalizuje bikarbonátem**, aby se vyloučily rychleji (iontová past, viz O10).
+- ⚠️ **Při renální insuficienci se musí upravit dávka** léčiv vylučovaných ledvinami (digoxin, aminoglykosidy, metformin, lithium) — podle **vypočtené clearance kreatininu**, ne podle samotného kreatininu.
+- **Extrarenální cesty:** **žlučí a stolicí** (velké molekuly a konjugáty, ⚠️ enterohepatální oběh), **plícemi** (inhalační anestetika, ethanol), **potem, slinami** (⚠️ zopiklon = kovová chuť), **mateřským mlékem** (viz O32) a vlasy či nehty (průkaz expozice).
+
+## O21 · Účinek léčiv, molekulární úroveň
+
+- **Typy ovlivnění funkce:** **stimulace** a **inhibice** (změna **ve** fyziologických mezích) × **excitace** a **paralýza** (**nad/pod** fyziologické meze).
+- **Nereceptorový účinek** — vazba na jinou strukturu než receptor: **enzym** (statiny, ACEI), **transportér** (SSRI, diuretika), **iontový kanál** (lokální anestetika), **protonová pumpa** (omeprazol), nebo čistě fyzikálně-chemický efekt (antacida, osmotická diuretika).
+- **Receptorový účinek** — ligand se váže na receptor a spouští děje za ním.
+- ⚠️ **Afinita** = jak pevně se látka váže · **vnitřní aktivita** = jak silnou odpověď vyvolá. **Agonista** má obojí, **antagonista** má jen afinitu.
+- 🔑 ⚠️ **Kompetitivní antagonista** soutěží o **stejné** vazebné místo → blokádu **lze přemoci vyšší dávkou agonisty** (atropin × acetylcholin) · **nekompetitivní** se váže **jinam** a blokádu vyšší dávkou přemoci nelze.
+- **Parciální agonista** má nižší vnitřní aktivitu (buprenorfin), **inverzní agonista** snižuje bazální aktivitu receptoru.
+
+## O22 · Cílové struktury, receptorová teorie, typy receptorů
+
+- 🔑 ⚠️ **Čtyři typy receptorů podle rychlosti:** **ionotropní** (receptor JE iontový kanál — **milisekundy**, nikotinový, GABA_A) → **metabotropní s G-proteinem** (**sekundy**, muskarinové, adrenergní, opioidní) → **s enzymovou (kinázovou) aktivitou** (**minuty až hodiny**, inzulinový) → **jaderné** (**hodiny až dny**, kortikoidy, hormony štítné žlázy — ⚠️ proto kortikoidy nezaberou hned).
+- **Druzí poslové:** **cAMP** (adenylátcykláza, aktivuje ji Gs, tlumí Gi; štěpí ho **fosfodiesteráza**) · **IP₃** (uvolní Ca²⁺ z retikula → **kalciový signál**, stah) · **DAG** (proteinkináza C) · ⚠️ **NO** (z argininu → guanylátcykláza → **cGMP** → vazodilatace — princip nitroglycerinu a sildenafilu).
+- **Regulace počtu receptorů:** ⚠️ **nadbytek mediátoru → down-regulace (internalizace) = tolerance** · **deficit nebo blokáda → up-regulace = rebound efekt po náhlém vysazení** · **desenzitizace** = dočasná ztráta schopnosti aktivace.
+- **Další cílové struktury:** enzymy (⚠️ **ireverzibilní inhibice — sarin na acetylcholinesterázu**), **falešné substráty** (methyldopa, 5-fluorouracil), transportéry a iontové kanály.
+
 ## O23 · Dávka a účinek, terapeutický index
 
 - **EC50** = poloviční účinek (afinita) · **Emax** = vnitřní aktivita · **strmý sklon křivky = snadné předávkování**.
