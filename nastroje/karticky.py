@@ -262,8 +262,8 @@ def main():
     import json as _json
 
     otazky = rozbor(vstup.read_text(encoding="utf-8"))
-    sloupcu = int(194 // w)
-    radku = int(281 // h)
+    sloupcu = int(200 // w)
+    radku = int(283 // h)
     gw = sloupcu * w
     mside = round((210 - gw) / 2, 2)
     mtop = round((297 - radku * h) / 2, 2)

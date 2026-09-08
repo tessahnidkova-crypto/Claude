@@ -1,12 +1,13 @@
-## O1 · Farmakologie, zdroje a názvy léčiv, lékopis
+## O1 · Farmakologie a odvětví, původ a zdroje léčiv, názvy, lékopis
 
-- **Farmakologie** = věda o léčivech a jejich účincích, včetně **nežádoucích a toxických**; dělí se na **obecnou** a **speciální**.
-- **Podobory:** klinická farmakologie (⚠️ **není totéž co klinická farmacie**), farmakoepidemiologie, farmakoekonomika, farmakogenetika, toxikologie, **farmakovigilance**.
+- **Farmakologie** = věda o léčivech a jejich účincích, i **nežádoucích a toxických**; **obecná** × **speciální**.
+- **Podobory:** klinická farmakologie (⚠️ **ne klinická farmacie**), farmakoepidemiologie, farmakoekonomika, farmakogenetika, toxikologie, **farmakovigilance**.
 - 🔑 ⚠️ **Farmakodynamika = co lék dělá TĚLU · farmakokinetika = co TĚLO dělá s lékem (ADME).**
-- **Farmakoterapie:** **kauzální** (ATB na bakterii) · **substituční** (inzulin) · **symptomatická** (ibuprofen na bolest) · **placebo**.
-- **Pojmy:** léčivá látka × pomocná × **léčivý přípravek** (látka + forma); ⚠️ **„lék" není legislativní pojem**. **HVLP** × **IPLP** (magistraliter). Výdej: recept → s omezením → **OTC** → vyhrazené.
-- **Generikum** = stejná látka, dávka i forma → stačí **bioekvivalence**. Názvy: chemický, **generický (INN)**, lékopisný, firemní. **ATC** třídí léčiva podle orgánového systému.
-- ⚠️ **Lékopis, tabulka I** omamné látky (**modrý pruh**) · **II venena** (bílé písmo na černém) · **III separanda** (červené na bílém) · IV a V dávky pro dospělé a děti. ⚠️ Správně je **oficinální** a **obsoletní**.
+- **Farmakoterapie: kauzální** (ATB) · **substituční** (inzulin) · **symptomatická** (ibuprofen) · **placebo**.
+- **Pojmy:** léčivá látka × pomocná × **léčivý přípravek** (látka + forma); ⚠️ **„lék" není legislativní pojem**. **HVLP** × **IPLP**. Výdej: recept → s omezením → **OTC** → vyhrazené.
+- ⚠️ **Původ a zdroje:** **přírodní** (rostlinné, živočišné, nerostné) · **polosyntetické** (kodein z morfinu) · **syntetické** (aspirin) · ⚠️ **biotechnologické** (živé buňky — inzulin, protilátky).
+- **Generikum** = stejná látka, dávka i forma → stačí **bioekvivalence**. **Čtyři názvy:** chemický, **generický (INN)**, lékopisný, firemní. **ATC** = třídění podle orgánového systému.
+- ⚠️ **Lékopis: I** omamné (**modrý pruh**) · **II venena** (bílé na černém) · **III separanda** (červené na bílém) · IV a V dávky pro dospělé a děti. ⚠️ Správně **oficinální** a **obsoletní**.
 
 ## O2 · Legislativa, doplňky stravy, regulační orgány
 
@@ -19,32 +20,35 @@
 
 ## O3 · Předepisování léčivých přípravků
 
-- **Recept musí obsahovat:** identifikaci pacienta a lékaře, **léčivý přípravek, sílu, lékovou formu, množství a dávkování**, datum a podpis; dnes hlavně **elektronicky (eRecept)**.
+- ⚠️ **Čtyři druhy lékařského předpisu:** **recept** · **žádanka** (pro zdravotnické zařízení) · **poukaz na zdravotnický prostředek** · **předpis s omezením**.
+- **Recept musí obsahovat:** identifikaci pacienta a lékaře, **přípravek, sílu, lékovou formu, množství a dávkování**, datum a podpis; dnes **eRecept**.
 - ⚠️ **Modrý pruh** — recept na **omamné a psychotropní látky** (tabulka I); vydává se ve dvou dílech, ⚠️ **nikdy se nesmí opakovat**.
-- **„Repetatur"** = opakovací recept s počtem opakování, platnost **6 měsíců**; ⚠️ **nelze u návykových látek**. Běžný recept platí 14 dní (antibiotika 5 dní).
-- **Poznámky:** **„nezaměňovat"** (⚠️ zakazuje generickou substituci), **„překročení"** (vědomé překročení lékopisné dávky, musí být vyznačeno), **„ad usum proprium"** (pro sebe či rodinu), **„ad manus medici / pro medico"** (lék podá lékař).
+- **„Repetatur"** = opakovací recept, platnost **6 měsíců**; ⚠️ **nelze u návykových látek**. Běžný recept platí 14 dní (ATB 5 dní).
+- **Poznámky: „nezaměňovat"** (⚠️ zákaz generické substituce) · **„překročení"** (vědomé překročení lékopisné dávky) · **„ad usum proprium"** (sobě/rodině) · **„ad manus medici"** (podá lékař).
 - **Úhrada:** plně hradí pacient × základní úhrada × zvýšená úhrada u vybraných indikací.
 - 🔑 **Magistraliter recept** = individuálně připravovaný přípravek (IPLP) psaný **lékopisnými latinskými názvy**.
 
 ## O4 · Preklinické a klinické hodnocení léčiv
 
-- **Preklinika:** **in silico** (počítač, hledání vedoucí molekuly) → **in vitro** (buňky, tkáně) → **in vivo** ⚠️ **na dvou druzích savců (hlodavec a nehlodavec)**.
+- **Preklinika: in silico** (počítač) → **in vitro** (buňky) → **in vivo** ⚠️ **na dvou druzích savců (hlodavec + nehlodavec)**.
 - **Zkoumá se:** **akutní toxicita → LD50**, chronická toxicita → **NOEL**, **reprodukční toxicita**, **kancerogenita** (potkani, 2 roky), **mutagenita (Amesův test)**, kinetika a dynamika → **ED50**.
-- 🔑 **LD50 = smrtelná dávka pro polovinu · ED50 = účinná pro polovinu** → jejich poměr je základ **terapeutického indexu**.
+- 🔑 **LD50 = smrtelná pro polovinu · ED50 = účinná pro polovinu** → poměr = **terapeutický index**.
 
 | **I** | první podání člověku — **bezpečnost**, ⚠️ **neřeší se účinnost**; **zdraví dobrovolníci** |
 | **II** | **průkaz účinku a hledání dávky**; desítky až stovky **nemocných** |
 | **III** | **účinnost v reálné populaci**, velké multicentrické studie → registrace |
 | **IV** | **poregistrační sledování** — vzácné NÚ, interakce |
 
-- **Zadavatel** zodpovídá za studii, **protokol** schvaluje SÚKL i **etická komise** (⚠️ hodnotí etiku, ne odbornost dat); účastník podepisuje **informovaný souhlas**.
+- **Zadavatel** ručí za studii, **protokol** schvaluje SÚKL i **etická komise** (⚠️ etiku, ne odbornost dat); nutný **informovaný souhlas**.
+- ⚠️ **Kvalitu studie určuje randomizace, placebo kontrola a dvojité zaslepení**; ⚠️ **u generika stačí bioekvivalence**. Vývoj trvá 10–15 let.
 
 ## O5 · Způsoby aplikace léčiv
 
 - **Enterálně:** perorálně (nejběžnější, ⚠️ **first-pass efekt**, vliv jídla), **sublingválně a bukálně** (⚠️ **obchází first-pass**, rychlý nástup), rektálně (⚠️ jen část obejde játra; vhodné u zvracení a u dětí).
-- **Parenterálně:** **i.v.** (⚠️ **F = 100 %**, okamžitý účinek, ale nevratné a riziko infekce), **i.m.**, **s.c.** (pomalé a plynulé), intradermálně, intratekálně, intraartikulárně.
+- **Parenterálně: i.v.** (⚠️ **F = 100 %**, okamžitě, ale nevratné), **i.m.**, **s.c.** (pomalé, plynulé), intradermálně, intratekálně, intraartikulárně.
 - **Ostatní:** **inhalačně** (velká plocha alveolů, rychlost blízká i.v., obchází játra), **transdermálně** (plynulá hladina jako infuze, jen lipofilní látky), lokálně na kůži a sliznice.
-- **Volba cesty závisí na:** stavu pacienta (zvracení, bezvědomí), požadované rychlosti, vlastnostech léčiva a **first-pass efektu**.
+- **Výhody/nevýhody:** p.o. pohodlné a bezpečné, ale pomalé a nespolehlivé · i.v. přesné a okamžité, ale **nevratné, invazivní, riziko infekce** · i.m./s.c. jednodušší, ale bolestivé a závislé na prokrvení · lokální podání = málo systémových NÚ.
+- **Lékové formy podle skupenství:** **pevné** (tablety, tobolky, čípky, prášky) · **polotuhé** (masti, gely, náplasti) · **kapalné** (roztoky, sirupy, kapky, injekce) · **plynné** (inhalanda, medicinální plyny).
 - 🔑 **Systémy s řízeným uvolňováním:** **rezervoárový** (jádro + membrána) × **matricový** (léčivo rozptýlené v matrici) — méně dávek denně a stabilnější hladina.
 
 ## O6 · Lékové formy — perorální a orální
@@ -58,7 +62,8 @@
 ## O7 · Lékové formy — parenterální a dermatologika
 
 - **i.v.** — rychlý nástup, lze podat i dráždivé látky; ⚠️ riziko infekce a nevratnost. **i.m.** — roztoky i suspenze, volba když i.v. nelze (⚠️ **adrenalin u anafylaxe**). **s.c.** — pomalé a plynulé vstřebávání (**inzulin, heparin, vakcíny**), lze i implantát.
-- **Požadavky na injekční přípravky:** ⚠️ **sterilita, apyrogennost, izotonie a odpovídající pH**, bez mechanických nečistot.
+- **Infuze** = velkoobjemové (nad 100 ml) sterilní roztoky i.v. — náhrada tekutin a iontů, výživa, nosič pro léčiva.
+- **Požadavky na injekční přípravky:** ⚠️ **sterilita, apyrogennost, izotonie a odpovídající pH**, bez nečistot.
 - **Dermatologika podle obsahu vody:** **mast** (max. 20 % vody, hydrofobní — chronické suché stavy) · **krém** (min. 20 % vody — akutnější stavy, hydratace) · **gel** (chladivý, vysychavý) · **pasta** (mast + 20–25 % prášku, adstringentní) · **zásyp** · **léčivá náplast**.
 - 🔑 **Transdermální náplast:** ⚠️ **obchází first-pass, drží stabilní hladinu a dá se rychle přerušit sundáním**; jen lipofilní léčiva s malou molekulou (fentanyl, nitráty, hormony, nikotin). Nevýhody: dráždění kůže, cena, nehodí se pro vysoké hladiny.
 
@@ -82,6 +87,7 @@
 ## O10 · Přechod látek biologickými membránami
 
 - **Transport v těle:** unášení tělními tekutinami (krev, lymfa) → **difuze** ve vodném prostředí (Brownův pohyb) → **přechod přes membrány** (transcelulárně × paracelulárně).
+- **Dělení: pasivní** (difuze, filtrace) × ⚠️ **specializovaný transport** (facilitovaná difuze, aktivní transport, pinocytóza).
 - 🔑 **Pasivní difuze** — po koncentračním spádu, ⚠️ **bez energie a bez přenašeče**, pro **lipofilní a neionizované** látky (většina léčiv). **Filtrace** — vodné póry, malé hydrofilní molekuly. **Facilitovaná difuze** — přenašeč, ale bez energie, saturovatelná. **Aktivní transport** — přenašeč **i energie**, proti spádu (⚠️ **P-glykoprotein pumpuje léčiva ven**). **Pinocytóza** — velké molekuly.
 - ⚠️ **Iontová past:** léčiva jsou slabé kyseliny nebo zásady — přes membránu projde jen **neionizovaná** forma; podle pH se na druhé straně ionizuje a **uvízne** (zásady se hromadí v kyselém prostředí a naopak).
 - **Bariéry:** epitely (kůže, sliznice), cévní endotel (⚠️ v játrech a slezině s velkými póry, v mozku ne) a ⚠️ **bariéry s těsnými spoji — hematoencefalická, hematolikvorová, placentární a testikulární**.
@@ -97,8 +103,8 @@
 
 ## O12 · Kinetika 0. a 1. řádu, saturační kinetika
 
-- **Kinetika 1. řádu** (většina léčiv): za jednotku času se eliminuje **stálý PODÍL** (%) léčiva → rychlost eliminace je úměrná koncentraci, poločas je konstantní, křivka je exponenciála.
-- ⚠️ **Kinetika 0. řádu:** eliminuje se **stálé MNOŽSTVÍ** za čas, protože **enzymy jsou nasycené (saturované)** → poločas není konstantní a při dalším zvyšování dávky **koncentrace prudce vyskočí** (riziko intoxikace).
+- **Kinetika prvního (1.) řádu** — většina léčiv: za jednotku času se eliminuje **stálý PODÍL** (%) léčiva → rychlost eliminace je úměrná koncentraci, poločas je konstantní, křivka je exponenciála.
+- ⚠️ **Kinetika nultého (0.) řádu:** eliminuje se **stálé MNOŽSTVÍ** za čas, protože **enzymy jsou nasycené (saturované)** → poločas není konstantní a při dalším zvyšování dávky **koncentrace prudce vyskočí** (riziko intoxikace).
 - ⚠️ **Léčiva se saturační kinetikou už v terapeutických dávkách: fenytoin, salicyláty, teofylin, omeprazol, ethanol.**
 - 🔑 **Po 5 poločasech je léčivo prakticky pryč** (zbývá ~3 %) — stejný počet poločasů platí i pro dosažení **ustáleného stavu** při opakovaném podávání.
 - **Michaelisova-Mentenová kinetika** = přechod mezi oběma: při nízkých koncentracích 1. řád, po nasycení enzymu 0. řád.
@@ -112,17 +118,19 @@
 - **Batemanova funkce** = křivka plazmatické koncentrace po perorálním podání (vzestup absorpcí, pak pokles eliminací) — čte se z ní **cmax, tmax** a **AUC**.
 - **AUC** (plocha pod křivkou) = celková expozice organismu; ⚠️ **poměr AUC po p.o. a i.v. podání = absolutní biologická dostupnost**.
 
-## O14 · Distribuce, distribuční objem, vazba na bílkoviny
+## O14 · Distribuce, distribuční objem, redistribuce, vazba, bariéry
 
-- **Fáze α (distribuční)** — rychlý pokles koncentrace, protože se léčivo rozptyluje do tkání · **fáze β (eliminační)** — pomalejší pokles daný skutečnou eliminací.
-- 🔑 ⚠️ **Vysoké Vd = léčivo je „schované" ve tkáních, ne v krvi → hemodialýzou se nedá odstranit** (ta čistí jen krev); pro látky s nízkým Vd a hydrofilní je dialýza účinná (lithium, salicyláty).
+- **Fáze α (distribuční)** — rychlý pokles koncentrace, léčivo se rozptyluje do tkání · **fáze β (eliminační)** — pomalejší pokles daný eliminací.
+- ⚠️ **Redistribuce** = léčivo se nejdřív dostane do **dobře prokrvených orgánů (mozek)** a pak se přesune do hůř prokrvených (sval, tuk) → **účinek skončí přesunem, ne eliminací** (thiopental!). Odtud i **hemoperfuze** u látek s velkým Vd.
+- 🔑 ⚠️ **Vysoké Vd = léčivo je „schované" ve tkáních → hemodialýza ho neodstraní**; dialýza účinkuje jen u hydrofilních látek s nízkým Vd (lithium, salicyláty).
 - **Vazba na plazmatické bílkoviny:** ⚠️ **albumin váže kyselá léčiva (warfarin, furosemid, NSA)** · **α1-kyselý glykoprotein bazická** (propranolol, TCA) · lipoproteiny velmi lipofilní (cyklosporin).
 - **Důsledky vazby:** pomalejší nástup a nižší intenzita (⚠️ **účinná je jen volná frakce**), prodloužená eliminace (ledviny filtrují jen volnou frakci) a ⚠️ **interakce vytěsněním** — salicyláty nebo sulfonamidy vytěsní warfarin → krvácení.
-- **Bariéry:** **hematoencefalická** (těsné spoje + astrocyty — projdou jen lipofilní a neionizované látky; ⚠️ **při zánětu se propustnost zvyšuje**), hematolikvorová, **placentární** (hlavně volná difuze), testikulární.
+- **Bariéry: hematoencefalická** (těsné spoje + astrocyty — projdou jen lipofilní neionizované látky; ⚠️ **při zánětu propustnost stoupá**), hematolikvorová, **placentární** (volná difuze), testikulární.
 
 ## O15 · Eliminace, poločas, clearance
 
-- **Eliminace** = **exkrece nezměněné molekuly** (menšina léčiv) + **metabolismus a vyloučení metabolitu** (většina).
+- **Eliminace** = **exkrece nezměněné molekuly** (menšina) + **metabolismus a vyloučení metabolitu** (většina).
+- **Dvě fáze poklesu:** ⚠️ **fáze α = distribuční** (rychlý pokles rozptýlením do tkání) · **fáze β = eliminační** (pomalejší, skutečné odstraňování) — poločas se počítá z fáze β.
 - **Biologický poločas t½** — čas, za který koncentrace klesne na polovinu: po 1 poločase zbývá 50 %, po 2 25 %, po 3 12,5 %, po 4 6,25 %, ⚠️ **po 5 poločasech jen ~3 % → léčivo je prakticky pryč**.
 - **Eliminační konstanta ke** — podíl léčiva eliminovaný za jednotku času; ⚠️ **t½ = 0,693 / ke**.
 - **Clearance (CL)** = objem plazmy zcela očištěný za jednotku času; **CL = CL jaterní + CL renální**. ⚠️ **Nižší clearance = vyšší celková expozice (AUC) při stejné dávce.**
@@ -130,16 +138,17 @@
 
 ## O16 · Dávkovací režim, kumulace
 
-- **Kontinuální podávání** (i.v. infuze) × **intermitentní** (opakované dávky p.o., i.m., i.v.).
-- Po zahájení koncentrace stoupá a s ní i rychlost eliminace, až se obojí vyrovná = **ustálený stav (steady state)**; nastane po ⚠️ **~5 poločasech**.
+- **Plynulé (kontinuální) podávání** — i.v. infuze × **intermitentní** — opakované dávky p.o., i.m., i.v.
+- Koncentrace stoupá, až se vyrovná s rychlostí eliminace = **ustálený stav**; nastane po ⚠️ **~5 poločasech**.
 - **Nasycovací (úvodní) dávka** — urychlí dosažení terapeutické hladiny u léčiv s **dlouhým poločasem**; **udržovací dávka** pak jen nahrazuje to, co se eliminuje.
 - **Kumulace** = když **interval mezi dávkami nestačí k eliminaci** předchozí dávky (princip superpozice):
 
-| **τ = t½** | mírná kumulace (ustálená koncentrace ~2× vyšší než po první dávce) |
+| **τ = t½** | mírná kumulace (~2× vyšší než po 1. dávce) |
 | **τ < t½** | ⚠️ **významná kumulace** |
 | **τ > t½** | nízká kumulace |
 
-- 🔑 **Čím kratší interval vůči poločasu, tím větší kumulace** — proto se léčiva s dlouhým poločasem dávkují řidčeji. ⚠️ U léčiv s kinetikou 0. řádu (fenytoin, teofylin) hrozí prudký vzestup hladiny.
+- ⚠️ **Kumulační index** = poměr koncentrace v ustáleném stavu ku koncentraci po 1. dávce.
+- 🔑 **Čím kratší interval vůči poločasu, tím větší kumulace** — léčiva s dlouhým poločasem se dávkují řidčeji. ⚠️ U kinetiky 0. řádu (fenytoin, teofylin) hrozí prudký vzestup hladiny.
 
 ## O17 · Biotransformace léčiv
 
@@ -151,9 +160,9 @@
 
 ## O18 · Úloha jater, first-pass efekt
 
-- **Hepatocyt má dva póly:** **sinusoidální** (oboustranně prostupný, směrem do krve) a **žlučový** (pro vodorozpustné látky jen jedním směrem — do žluči).
+- **Hepatocyt má dva póly: sinusoidální** (oboustranný, do krve) a **žlučový** (jednosměrný, do žluči).
 - 🔑 ⚠️ **First-pass efekt:** léčivo vstřebané ze střeva jde **portální žílou nejdřív do jater**, kde se velká část zmetabolizuje ještě před vstupem do systémového oběhu → **perorální dávka musí být mnohem vyšší než nitrožilní** (nitroglycerin, morfin, propranolol, verapamil).
-- ⚠️ **Obcházejí ho:** sublingvální a bukální podání, inhalace, transdermální náplast a částečně rektální podání.
+- ⚠️ **Presystémová eliminace** = souhrn ztrát ještě před vstupem do oběhu (ve střevní stěně i v játrech). **Obcházejí ji:** sublingválně, bukálně, inhalačně, transdermálně a částečně rektálně.
 - **Jaterní extrakce (E):** u léčiv s **vysokou extrakcí** závisí clearance hlavně na **průtoku krve játry**; ⚠️ **při cirhóze a srdečním selhání proto stoupá biologická dostupnost → riziko předávkování**.
 - ⚠️ **Enterohepatální oběh:** konjugát se vyloučí žlučí do střeva, bakterie ho rozštěpí a léčivo se **znovu vstřebá** → prodloužení účinku; ⚠️ **antibiotika tenhle cyklus přeruší** (proto může selhat hormonální antikoncepce). Využívá se opačně u otrav — **opakované aktivní uhlí**.
 
@@ -175,11 +184,11 @@
 
 ## O21 · Účinek léčiv, molekulární úroveň
 
-- **Typy ovlivnění funkce:** **stimulace** a **inhibice** (změna **ve** fyziologických mezích) × **excitace** a **paralýza** (**nad/pod** fyziologické meze).
-- **Nereceptorový účinek** — vazba na jinou strukturu než receptor: **enzym** (statiny, ACEI), **transportér** (SSRI, diuretika), **iontový kanál** (lokální anestetika), **protonová pumpa** (omeprazol), nebo čistě fyzikálně-chemický efekt (antacida, osmotická diuretika).
-- **Receptorový účinek** — ligand se váže na receptor a spouští děje za ním.
+- **Typy ovlivnění funkce:** **stimulace** a **inhibice** (změna **ve** fyziologických mezích) × **excitace** a **paralýza** (**nad/pod** meze).
+- ⚠️ **Dva typy mechanismu: NESPECIFICKÝ** — fyzikálně-chemický, bez receptoru (antacida, osmotická diuretika, celková anestetika) × **SPECIFICKÝ** — vazba na cílovou strukturu.
+- **Specifický je buď receptorový**, nebo **nereceptorový**: **enzym** (statiny, ACEI), **transportér** (SSRI, diuretika), **iontový kanál** (lokální anestetika), **protonová pumpa** (omeprazol).
 - ⚠️ **Afinita** = jak pevně se látka váže · **vnitřní aktivita** = jak silnou odpověď vyvolá. **Agonista** má obojí, **antagonista** má jen afinitu.
-- 🔑 ⚠️ **Kompetitivní antagonista** soutěží o **stejné** vazebné místo → blokádu **lze přemoci vyšší dávkou agonisty** (atropin × acetylcholin) · **nekompetitivní** se váže **jinam** a blokádu vyšší dávkou přemoci nelze.
+- 🔑 ⚠️ **Kompetitivní antagonista** soutěží o **stejné** místo → **lze přemoci vyšší dávkou agonisty** (atropin × ACh) · **nekompetitivní** se váže jinam a přemoci nelze.
 - **Parciální agonista** má nižší vnitřní aktivitu (buprenorfin), **inverzní agonista** snižuje bazální aktivitu receptoru.
 
 ## O22 · Cílové struktury, receptorová teorie, typy receptorů
@@ -229,6 +238,7 @@
 - **Tolerance** — **dny až týdny**; na účinek nežádoucí (benzodiazepiny), na NÚ vítaná (mizí tremor po β2-agonistech).
 - **Rezistence** — vlastnost **mikroba nebo nádoru**, ne pacienta (cytostatika: pumpa P-glykoprotein).
 - **Desenzitizace** — trvalý agonista → **down-regulace** (dny) nebo **internalizace** (minuty). **Senzitizace** = up-regulace.
+- **Kumulace účinku:** **humorální** (další dávka přijde dřív, než se předchozí eliminuje → roste koncentrace) × **funkční** (koncentrace stejná, ale roste citlivost tkáně).
 - 🔑 ⚠️ Náhlé vysazení **β-blokátoru** → up-regulované receptory → **rebound tachykardie, hypertenze, angina** → vysazovat postupně.
 
 ## O28 · Průvodní onemocnění, polypragmazie
@@ -272,7 +282,8 @@
 - ⚠️ **0.–14. den vše nebo nic · 15.–90. den organogeneze = malformace · pak funkční poruchy.**
 - **Teratogeny:** ACEI/sartany → oligohydramnion · NSA → **uzávěr Botallovy dučeje** · tetracykliny → zuby a kosti · **warfarin, fenytoin** → typické syndromy.
 - **Vhodné:** peniciliny, cefalosporiny, **LMWH**, **methyldopa**, paracetamol.
-- 🔑 **Neléčená nemoc je pro plod obvykle horší než léčba.** Kojení: lék užít **hned po kojení**.
+- **Kojení:** do mléka přejdou hlavně **lipofilní, neionizované látky málo vázané na bílkoviny**; ⚠️ **tvorbu mléka snižují estrogeny a bromokriptin, zvyšují metoklopramid a domperidon**.
+- 🔑 **Neléčená nemoc je pro plod obvykle horší než léčba** — monoterapie, nejnižší dávka; lék užít **hned po kojení**.
 
 ## O33 · Farmakoterapie v dětství
 
@@ -287,7 +298,7 @@
 - **Senior nad 65 let**, typicky **zvýšená vnímavost k benzodiazepinům**.
 - **Distribuce:** ↓ voda → ↑ hladiny **hydrofilních** (digoxin, ASA) · ↑ tuk → **delší poločas lipofilních** (benzodiazepiny) · hypoalbuminemie → ↑ volný warfarin.
 - ⚠️ **Po 75. roce klesá GF až o 50 % BEZ vzestupu kreatininu** (malá svalová hmota) → dávkuj podle vypočtené clearance.
-- **Zásady:** je lék nutný, nejnižší dávka, revize medikace, pátrání po NÚ.
+- ⚠️ **Polypragmazie** (5 a víc léků) je u seniorů pravidlem — násobí interakce, NÚ i non-adherenci. **Zásady:** je lék vůbec nutný, nejnižší dávka, pravidelná revize medikace, aktivní pátrání po NÚ.
 - 🔑 **Beers** = seznam nevhodných léčiv · **STOPP** = co přebývá · **START** = co chybí.
 
 ## O35 · Biologická léčba `[doplněno]`
@@ -296,7 +307,8 @@
 - **Koncovky:** **-mab** protilátky · **-cept** fúzní proteiny · **-áza** enzymy · **-stim** růstové faktory · **-poetin**.
 - **Podle původu:** **-xi-** chimérická · **-zu-** humanizovaná · **-u-** plně humánní (méně imunogenní).
 - **Biosimilar** = jen **vysoce podobný**, ne identický → nutné srovnávací studie včetně imunogenity.
-- **Rizika:** imunogenita, ⚠️ **reaktivace TBC a hepatitidy B**, infuzní reakce, cena.
+- **Terapeutické přínosy:** vysoká cílová specificita, účinnost tam, kde konvenční léčba selhala (revmatoidní artritida, IBD, psoriáza, onkologie), ovlivní **průběh nemoci**, dlouhý poločas.
+- **Rizika:** imunogenita, ⚠️ **reaktivace TBC a hepatitidy B**, infuzní reakce, cena a chladový řetězec.
 - 🔑 Před nasazením **screening TBC, hepatitid, HIV**; živé vakcíny zakázány. **-tinib = malá molekula, ne biologikum.**
 
 ## 36 · Cholinergní přenos vzruchu
@@ -313,6 +325,7 @@
 - **Zástupci:** **karbachol** a **pilokarpin** (glaukom, mióza) · **cevimelin, pilokarpin** ⚠️ **xerostomie u Sjögrena** · betanechol (atonie střev, retence moči) · arekolin v betelu (ničí sklovinu).
 - **Účinky = NÚ:** mióza, bradykardie, hypotenze, **bronchokonstrikce**, průjem, slinění, pocení, močení.
 - **KI:** **astma a CHOPN**, bradykardie a AV blok, vřed, obstrukce střev či močových cest.
+- **Nikotin** (alkaloid tabáku) — agonista **N receptorů** v gangliích, CNS i na ploténce: tachykardie, ↑ tlak, ↑ sekrece; ve vysoké dávce **křeče a zástava dechu**; receptory umí i desenzibilizovat → závislost.
 - 🔑 **Otrava muskarinem** (houby rodu vláknice): slinění, mióza, bradykardie, bronchospazmus → **antidotum atropin**.
 
 ## 38 · Nepřímá cholinomimetika
@@ -329,6 +342,7 @@
 - **Zástupci:** **atropin, skopolamin, hyoscyamin** (rulík, blín, durman); ipratropium a tiotropium, butylskopolamin, oxybutynin, biperiden.
 - **Indikace:** **mydriáza a cykloplegie**, **premedikace k anestezii**, **CHOPN** (inhalačně), **bradykardie a AV blok**, kinetóza (skopolamin), koliky, hyperaktivní měchýř, parkinsonismus.
 - **NÚ:** sucho v ústech, rozmazané vidění, tachykardie, zácpa, **retence moči**, ⚠️ **potlačené pocení → hypertermie**, u seniorů delirium. **KI: glaukom, hyperplazie prostaty.**
+- **Nepřímá cholinolytika:** ⚠️ **botulotoxin** brání splynutí vezikul s membránou → ACh se vůbec neuvolní (blefarospazmus, hypersalivace, hyperaktivní měchýř, vrásky); hemicholinium, vesamikol.
 - 🔑 Citlivost k atropinu: ① **žlázy** (sucho v ústech první) → ② hladké svaly a srdce → ③ **žaludeční sekrece nejméně**.
 
 ## 40 · Adrenergní přenos vzruchu
@@ -344,6 +358,7 @@
 
 - **Znaky:** −OH na 3. a 4. pozici, přímí agonisté α i β, rychle je štěpí **MAO a COMT**, ⚠️ **perorálně neúčinné**, polární.
 - **Adrenalin:** β1 ↑ srdce, α vazokonstrikce kůže, β2 bronchodilatace; poločas ~2,5 min. **Indikace: resuscitace, anafylaxe, těžké astma, přísada do lokálních anestetik.**
+- **Uptake:** ⚠️ **uptake 1** = zpětné vychytávání do zakončení, kde NA rozloží **MAO** · **uptake 2** = difuze do okolních buněk, kde ho rozloží **COMT**.
 - **Noradrenalin:** α1 + β1, ⚠️ **bez β2 → nebronchodilatuje**; **septický šok a hypotenze**.
 - **Dobutamin** (β1) — kardiogenní šok. **Isoprenalin** (β) — bradykardie, AV blok.
 - ⚠️ **Adrenalin + inhalační anestetika = arytmie; s neselektivním β-blokátorem hypertenzní krize.**
@@ -383,7 +398,7 @@
 - **NÚ:** ⚠️ **hypotenze po první dávce** (začínat malou dávkou na noc), závratě, retrográdní ejakulace, ucpaný nos, **floppy iris syndrom** při operaci šedého zákalu.
 - 🔑 Prazosinová skupina = tlak · tamsulosinová = prostata.
 
-## 46 · Betablokátory
+## 46 · Sympatolytika beta (β-blokátory)
 
 - **Mechanismus:** blokáda β1 → ↓ srdeční výdej a ↓ **renin**; dlouhodobě ↓ periferní odpor; **prodloužená diastola** zlepší plnění věnčitých tepen.
 - **Generace:** 1. neselektivní **propranolol, timolol** · 2. β1-selektivní **metoprolol, bisoprolol, atenolol, esmolol** · 3. s vazodilatací **karvedilol, labetalol, nebivolol**.
@@ -393,7 +408,8 @@
 
 ## 47 · Myorelaxancia
 
-- **Centrální:** tlumí polysynaptický reflex v míše — **tolperison, baklofen** (GABA_B), tizanidin, diazepam; bolestivé spazmy zad, spasticita. NÚ: sedace, slabost.
+- **Centrální:** tlumí polysynaptický reflex v míše — **tolperison, baklofen** (GABA_B), tizanidin, diazepam; spazmy zad, spasticita. NÚ: sedace, slabost.
+- **Periferní presynaptická** (↓ výdej ACh): ⚠️ **botulotoxin** a **aminoglykosidová antibiotika** (tam je to nechtěný, nebezpečný NÚ).
 - **Periferní nedepolarizující** (**rokuronium, vekuronium, pankuronium, atrakurium**) = kompetitivní antagonisté N receptoru; ⚠️ **antidotum neostigmin, u rokuronia sugammadex**.
 - **Depolarizující — sukcinylcholin:** agonista držící ploténku depolarizovanou; ultrakrátký (štěpí ho pseudocholinesteráza), ⚠️ **antidotum neexistuje**. NÚ: fascikulace, **hyperkalemie**, ↑ nitrooční tlak, u deficitu enzymu prodloužená apnoe.
 - ⚠️ **Myorelaxans netlumí vědomí ani bolest** — nutná anestezie a zajištěná ventilace.
@@ -466,7 +482,7 @@
 - **Atypická (2. gen.):** **risperidon**, **olanzapin, klozapin, kvetiapin** (MARTA — sedace, ⚠️ metabolický syndrom, **klozapin: agranulocytóza**, ale nejúčinnější u rezistentní schizofrenie), **amisulprid** (↑ prolaktin), **aripiprazol** (parciální agonista). Působí i na **negativní příznaky**.
 - **NÚ:** dystonie → akatizie → parkinsonismus → ⚠️ **tardivní dyskineze**; prodloužení QT, sedace, ⚠️ **maligní neuroleptický syndrom** (horečka, rigidita, ↑ CK → **dantrolen**).
 
-## 56 · Antidepresiva — TCA a IMAO
+## 56 · Antidepresiva — tricyklická (TCA), inhibitory MAO
 
 - **Princip:** ↑ nabídka monoaminů; ⚠️ **účinek až za 2–4 týdny** (nutná adaptace receptorů).
 - **TCA (amitriptylin, imipramin, klomipramin):** blokáda zpětného vychytávání **NA i serotoninu**.
@@ -507,6 +523,7 @@
 - ⚠️ **Tolerance vzniká na vše KROMĚ ZÁCPY A MIÓZY.**
 - **Morfin:** silný first-pass efekt, aktivní **morfin-6-glukuronid** ⚠️ **kumuluje se při renálním selhání**; recept s **modrým pruhem**.
 - **Intoxikace:** **kóma + mióza + útlum dechu** → **naloxon**. KI: útlum dechu, kombinace s tlumivými látkami.
+- **Heroin (diacetylmorfin)** — lipofilnější než morfin, rychle přes HEB → intenzivní „rush"; abstinenční syndrom: slzení, rýma, **mydriáza**, husí kůže, křeče v břiše, průjem.
 - 🔑 Intoxikace = **mióza**, abstinence = **mydriáza**.
 
 ## 61 · Deriváty a náhražky morfinu
@@ -524,7 +541,8 @@
 - **PGF:** stahy dělohy (dinoprost), ⚠️ **latanoprost = glaukom**.
 - **Prostacyklin (endotel):** vazodilatace + brzdí agregaci. **Tromboxan (destičky):** agregace + vazokonstrikce; ⚠️ **ASA ireverzibilně acetyluje COX-1 → efekt na celý život destičky (7–10 dní)**.
 - **Leukotrieny:** bronchokonstrikce, otok, hlen → **montelukast**.
-- Cytokiny IL-1, IL-6, **TNF-α** → biologika (infliximab, adalimumab, tocilizumab).
+- Prozánětlivé cytokiny **IL-1, IL-6, TNF-α** → biologika (infliximab, adalimumab, anakinra, tocilizumab).
+- **Imunosupresiva třemi cestami:** blokáda tvorby **IL-2** (cyklosporin, takrolimus, sirolimus) · blokáda exprese cytokinových genů (**kortikoidy**) · blokáda syntézy purinů (azathioprin, mykofenolát).
 
 ## 63 · Analgetika-antipyretika
 
@@ -551,7 +569,7 @@
 - **Lehčí záchvat:** ASA, ibuprofen, naproxen, paracetamol + **metoklopramid** (obnoví vyprazdňování žaludku).
 - 🔑 **Profylaxe:** β-blokátory (metoprolol), **verapamil**, **valproát, topiramát**, amitriptylin. ⚠️ Nadužívání akutních léků → **bolest hlavy z nadužívání**.
 
-## 66 · Kardiotonika, digoxin
+## 66 · Léčiva s pozitivně inotropním účinkem, digoxin
 
 - 🔑 **Mechanismus:** blokáda **Na⁺/K⁺-ATPázy** → ↑ Na⁺ v buňce → zpomalí výměník Na/Ca → **↑ Ca²⁺ → silnější stah**; zároveň **aktivace vagu** → ↓ frekvence a ↓ vedení AV (riziko blokády).
 - ⚠️ U **selhávajícího** srdce digoxin výdej **zvýší**, u **zdravého sníží**.
@@ -562,7 +580,7 @@
 
 ## 67 · Antiarytmika
 
-- **Vodivost:** v **SA a AV uzlu závislá na Ca²⁺**, jinde na **Na⁺** — proto verapamil působí na uzly a lidokain na komory.
+- **Tři vlastnosti nutné pro rytmus: automaticita** (tvorba vzruchu) · **dráždivost** (daná refrakterní fází) · **vodivost** — ⚠️ v **SA a AV uzlu závislá na Ca²⁺**, jinde na **Na⁺** (proto verapamil působí na uzly a lidokain na komory).
 - 🔑 **Reentry:** vzruch narazí na jednosměrnou blokádu, vrátí se oklikou a **obíhá dokola**.
 - **Ia** chinidin (prodlouží AP, ⚠️ torsade de pointes, cinchonismus) · **Ib lidokain** (zkracuje AP, komorové arytmie u infarktu, jen i.v.) · **Ic propafenon, flekainid** (⚠️ KI po infarktu a u ICHS).
 - **II β-blokátory** — kontrola frekvence, prevence náhlé smrti. **IV verapamil, diltiazem** — supraventrikulární arytmie; ⚠️ **nekombinovat s i.v. β-blokátorem**.
@@ -769,7 +787,7 @@
 
 ## 92 · Antimykotika
 
-- **Cíl = ergosterol**, který lidská buňka nemá (má cholesterol). Mykóz přibývá po širokospektrých ATB a při imunosupresi.
+- **Cíl = ergosterol**, který lidská buňka nemá (má cholesterol). ⚠️ **Čtyři mechanismy:** blokáda syntézy ergosterolu (azoly, terbinafin) · vazba na ergosterol (polyeny) · blokáda **β-glukanu** stěny (echinokandiny) · blokáda syntézy nukleových kyselin (**flucytosin**).
 - **Polyeny — amfotericin B:** váže se přímo na ergosterol → děravá membrána; nejširší spektrum, **mukormykóza, kryptokoková meningitida**. ⚠️ **NÚ: nefrotoxicita, horečka a třesavka při infuzi, hypokalemie.** **Nystatin** jen lokálně na **kandidy** (orální soor).
 - **Azoly** — blokují **syntézu ergosterolu**: **flukonazol** (kandidózy, ⚠️ proniká do CNS, teratogenní), **itrakonazol**, ⚠️ **vorikonazol — lék volby u invazivní aspergilózy**. ⚠️ **Všechny silně inhibují CYP3A4** (statiny, warfarin), hepatotoxicita, prodloužení QT.
 - **Echinokandiny (kaspofungin)** — blokáda **β-glukanu stěny**; ⚠️ **lék volby u invazivní kandidózy**, výborně snášené, ⚠️ **nepronikají do CNS**.
@@ -912,8 +930,9 @@
 ## 109 · Stimulancia `[doplněno]`
 
 - 🔑 **Společné: všechna zvyšují monoaminy v synapsi** — amfetaminy jejich **vyplavením**, kokain **blokádou zpětného vychytávání**.
-- **Kokain:** ① blokáda vychytávání dopaminu a NA ② **blokáda Na⁺ kanálů** (lokální anestetikum) ③ σ-receptory → silná **vazokonstrikce**. ⚠️ **Komplikace: spazmus věnčitých tepen → infarkt i u mladých**, hypertenze, arytmie, **hemoragická CMP**, hypertermie, **formikace**, paranoidní psychóza; chronicky ⚠️ **perforace nosní přepážky**. „Crack" = kouření, nejrychlejší závislost.
+- **Kokain:** ① blokáda vychytávání dopaminu a NA ② **blokáda Na⁺ kanálů** (lokální anestetikum) ③ σ-receptory → **vazokonstrikce**. ⚠️ **Spazmus věnčitých tepen → infarkt i u mladých**, hypertenze, arytmie, **hemoragická CMP**, hypertermie, **formikace**, psychóza; chronicky ⚠️ **perforace nosní přepážky**. „Crack" = kouření, nejrychlejší závislost.
 - **Amfetaminy a pervitin:** euforie, nespavost, nechutenství; ⚠️ **amfetaminová psychóza připomíná paranoidní schizofrenii**, hypertermie, rhabdomyolýza, neurotoxicita. ⚠️ **Závislost: mírná fyzická, silná psychická**; odvykací stav je zrcadlem účinku (únava, spavost, hlad, deprese).
+- **MDMA (extáze)** — entaktogen, vyplaví serotonin, NA i dopamin: euforie, empatie, výdrž; ⚠️ **hypertermie, dehydratace, hyponatremie, neurotoxicita**.
 - **Terapeuticky: metylfenidát** (ADHD), **modafinil** (narkolepsie). ⚠️ Ve stomatologii **bruxismus, xerostomie, „meth mouth"**.
 
 ## 110 · Nikotin
@@ -940,6 +959,7 @@
 - **Sulfasalazin** (i střevní záněty), **leflunomid**, ⚠️ **hydroxychlorochin** (lupus; NÚ **retinopatie** → oční kontroly), soli zlata a penicilamin (historické, toxické).
 - **Kortikoidy** jako „most", než zaberou DMARD.
 - **Biologika:** ⚠️ **anti-TNF (infliximab, adalimumab, etanercept)**, anti-IL1 (anakinra), anti-IL6 (tocilizumab), rituximab, inhibitory JAK. ⚠️ **Před nasazením screening TBC a hepatitid, živé vakcíny zakázány.**
+- **Derivancia** — lokální přípravky s **kafrem a mentolem**: hyperemizují a urychlí vstřebání otoku; jen doplněk.
 
 ## 113 · Antiuratika
 
@@ -973,7 +993,7 @@
 - **Hypertyreóza** (Gravesova-Basedowova choroba): ⚠️ **thyreostatika — thiamazol, propylthiouracil** blokují **thyreoidální peroxidázu** (propylthiouracil i konverzi T4→T3, ⚠️ **volba v I. trimestru**). ⚠️ **NÚ: AGRANULOCYTÓZA — při horečce a bolesti v krku okamžitě krevní obraz**; dále hepatotoxicita. Plus **β-blokátory** na příznaky, radiojód, operace.
 - ⚠️ **Tyreotoxická krize:** i.v. β-blokátor, thiamazol, **jodid až po thyreostatiku** (Wolffův-Chaikoffův efekt), hydrokortizon.
 - **Hypotyreóza** (Hashimoto, po operaci, ⚠️ po **lithiu a amiodaronu**): ⚠️ **levothyroxin nalačno 30 min před jídlem**, dávka podle **TSH**, u kardiaků začínat nízko; **liothyronin (T3) jen u myxedémového kómatu**.
-- **Příštítná tělíska:** hyperparatyreóza → **cinakalcet**; hypoparatyreóza (po operaci) → **kalcium + vitamin D**.
+- **Příštítná tělíska: PTH** ↑ vápník a ↓ fosfát — hyperparatyreóza → **cinakalcet** (kalcimimetikum), hypoparatyreóza (po operaci) → **kalcium + vitamin D**, teriparatid. **Kalcitonin** (C-buňky) je protipól PTH — klinicky slabý, u akutní hyperkalcemie.
 
 ## 117 · Glukokortikoidy, mineralokortikoidy
 
@@ -1046,7 +1066,7 @@
 - **Jódové látky** — mimobuněčná distribuce, vylučují se **ledvinami**; dnes standardem **nízkoosmolární** (johexol, jopromid).
 - ⚠️ **NÚ: anafylaktoidní (pseudoalergická) reakce** — prevence kortikoidy a antihistaminiky u rizikových · **kontrastem indukovaná nefropatie** — prevence **hydratací**, ⚠️ **vysadit metformin** · ⚠️ **ovlivnění štítné žlázy: u dostatku jódu spíš hypotyreóza, při deficitu hypertyreóza**; interferuje s léčbou radiojódem.
 
-## 126 · Léčiva na kůži a sliznice, dezinficiencia
+## 126 · Léčiva pro místní účinek na kůži a sliznicích, dezinficiencia
 
 - **Zevní léčba:** efekt = účinná látka + **vehikulum** + způsob aplikace; ⚠️ **na mokvající ložisko roztoky, obklady a zásypy · na suché masti a mastné krémy** (o/v na den, v/o na noc).
 - **Kortikoidy** — protizánětlivé, antiproliferativní; ⚠️ **NÚ atrofie kůže, strie, teleangiektázie, periorální dermatitida; KI infekce a otevřené rány**. **Kalcineurinové inhibitory** (takrolimus) u ekzému, **kalcipotriol** u psoriázy.
@@ -1082,8 +1102,9 @@
 
 - **T-skóre:** normální nad −1,0 · **osteopenie −1,0 až −2,5** · ⚠️ **osteoporóza pod −2,5 SD** · těžká = navíc zlomenina.
 - ⚠️ **Základ vždy: vápník 1000–1200 mg + vitamin D**, pohyb, prevence pádů.
-- ⚠️ **Bisfosfonáty (alendronát, zoledronát) — první volba:** vážou se na hydroxyapatit a **tlumí osteoklasty**. ⚠️ **Užívat nalačno, zapít vodou, 30 min zůstat vzpřímeně** (jinak ezofagitida). ⚠️ **NÚ: OSTEONEKRÓZA ČELISTI → invazivní stomatologické výkony plánovat PŘED zahájením léčby**, atypické zlomeniny femuru.
+- ⚠️ **Bisfosfonáty (alendronát, zoledronát) — první volba:** vážou se na hydroxyapatit a **tlumí osteoklasty**. ⚠️ **Nalačno, zapít vodou, 30 min vzpřímeně** (jinak ezofagitida). ⚠️ **NÚ: OSTEONEKRÓZA ČELISTI → invazivní výkony plánovat PŘED léčbou**, atypické zlomeniny femuru.
 - **Denosumab** — protilátka proti **RANKL**; ⚠️ také riziko osteonekrózy čelisti. **SERM raloxifen** — agonista v kosti, ⚠️ **antagonista v prsu**; NÚ trombózy. **Teriparatid** — jediný výrazně **osteoanabolický**.
+- **Hormonální terapie:** **estradiol** u předčasné menopauzy, **testosteron** u mužského hypogonadismu (⚠️ NÚ a KI viz otázky 119–120); **kalcitonin** tlumí osteoklasty — dnes okrajově.
 - 🔑 ⚠️ **Fluor tvoří odolnější kalciumfluoroapatit → prevence kazu, ale u osteoporózy se nepoužívá** (kost je hustší, ale nekvalitní). Krátký pulz PTH kost staví, trvalý nadbytek ji boří.
 
 ## 131 · Fytoterapie
@@ -1101,6 +1122,7 @@
 - **Toxikokinetika:** absorpce (GIT — lipofilita; plíce; **kůže — nervové plyny, insekticidy**), distribuce (**tuk: DDT, PCB · kost: olovo, fluor, stroncium**), metabolismus (detoxikace, ale i ⚠️ **bioaktivace** — methanol, paracetamol), exkrece.
 - **Šest mechanismů:** přímý toxický, **biochemický** (blokáda enzymu), imunotoxický, **mutagenní, karcinogenní, teratogenní**.
 - ⚠️ **NOAEL** = nejvyšší dávka bez pozorovaného účinku · **LOAEL** = nejnižší s účinkem · **LD50** = usmrtí 50 % zvířat. ⚠️ **Hormeze** = škodí nedostatek i nadbytek (vitaminy).
+- **Řízení rizika:** zabránit kontaktu (ochranné pomůcky), zkrátit expozici, **dekontaminace a odmoření**; značení **H-věty** (nebezpečnost) a **P-věty** (bezpečné zacházení).
 
 ## 133 · Terapie otrav a předávkování
 
@@ -1118,11 +1140,13 @@
 
 ## 135 · Toxikologie živočišných jedů
 
-- 🔑 ⚠️ **Mořské toxiny míří na sodíkové kanály:** **ciguatoxin** (ryby útesů; ⚠️ **nezničí ho vaření**, ⚠️ **obrácené vnímání tepla a chladu**) · **saxitoxin** (měkkýši, paralýza) · **tetrodotoxin** (**fugu**, termostabilní, selhání dýchání).
-- **Žahavci:** čtyřhranka — selhání oběhu za minuty; **homolice — konotoxin**, ⚠️ odvozený **zikonotid je 1000× účinnější než morfin**; pijavka — **hirudin**.
-- **Blanokřídlí (včely, vosy):** apitoxin s **melitinem**; ⚠️ **hlavní nebezpečí není toxicita, ale anafylaxe a otok hrtanu** → adrenalin.
+- 🔑 ⚠️ **Mořské toxiny míří na Na⁺ kanály: ciguatoxin** (ryby útesů, ⚠️ **nezničí ho vaření**, ⚠️ **obrácené vnímání tepla a chladu**) · **saxitoxin** (měkkýši) · **tetrodotoxin** (**fugu**, selhání dýchání).
+- **Žahavci a měkkýši:** čtyřhranka — selhání oběhu za minuty; **homolice — konotoxin** (⚠️ odvozený **zikonotid je 1000× silnější než morfin**); pijavka — **hirudin**.
+- **Členovci:** včely a vosy — apitoxin s **melitinem**, ⚠️ **hlavní riziko není toxicita, ale anafylaxe a otok hrtanu** → adrenalin; koutník (nekróza), štíři.
+- **Obojživelníci a ryby:** ⚠️ **batrachotoxin** (pralesničky) trvale otevře Na⁺ kanály, **nemá antidotum**; bufotoxiny ropuch působí digitalisově; **skombrotoxická otrava** = histamin z nesprávně skladovaných makrelovitých ryb → **antihistaminika**.
+- **Dělení: fanerotoxičtí** mají jedový orgán × **kryptotoxičtí** ne; **aktivní** toxicita (had) × **pasivní** (jed v kůži).
 - **Hadí jedy:** α-neurotoxiny (blokáda N receptorů), β-neurotoxiny (fosfolipáza A2), **myotoxiny → rhabdomyolýza**.
-- ⚠️ **Zmije obecná:** vstříkne ~3 mg, letální dávka ~15 mg → **obvykle není smrtelná**; otok, petechie, ⚠️ **nevzniká nekróza**. Léčba: znehybnit, analgezie, observace ≥ 24 h; **antisérum i.v. jen při šoku, rychlém šíření otoku nebo poruše srážlivosti**.
+- ⚠️ **Zmije obecná:** vstříkne ~3 mg, letální ~15 mg → **obvykle nezabíjí**; otok, petechie, ⚠️ **bez nekrózy**. Znehybnit, analgezie, observace ≥ 24 h; **antisérum i.v. jen při šoku, rychlém otoku či poruše srážlivosti**.
 
 ## 136 · Otravy rtutí, arzenem a olovem
 
