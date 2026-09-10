@@ -8,6 +8,16 @@ Tessa doučuje. Tenhle projekt drží přípravy na hodiny, materiály a zpětno
 |---|---|---|---|---|
 | **Rozárka** | angličtina | 5. třída ZŠ | online, Google Meet, sdílená obrazovka | 1× týdně, 30 minut |
 
+## ⚠️ Tessina angličtina
+
+**Tessa není v angličtině pokročilá.** Neví spolehlivě, jak co říct a jak to vyslovit. Z toho plyne:
+
+- **Ke každé hodině patří tahák pro učitele** s frázemi, které bude potřebovat, a **s výslovností** — zjednodušený český přepis v hranatých závorkách, VELKÁ PÍSMENA = přízvuk.
+- **Nikdy jí nedávej anglickou frázi bez výslovnosti.** Bez ní ji buď nepoužije, nebo ji vysloví špatně a Rozárka se to tak naučí.
+- **Nepředpokládej, že si frázi domyslí.** Co má říct, musí být napsané doslova — včetně pochval, oprav a přechodů mezi aktivitami.
+- **Piš jí i to, co dělat, když neví.** Legitimní odpověď je „řekni to česky" — u páté třídy je to normální a lepší než hádat.
+- **Přepis výslovnosti označuj jako přibližný.** Čeština nemá *th*, *w* ani nepřízvučné samohlásky. Neslibuj přesnost, kterou český přepis nemůže mít.
+
 ## Jak vypadá hodina s Rozárkou
 
 - **30 minut, online.** Tessa sdílí obrazovku a promítá jí soubor — příprava proto musí být **vizuální a klikací**, ne text ke čtení.
@@ -28,7 +38,11 @@ Tessa doučuje. Tenhle projekt drží přípravy na hodiny, materiály a zpětno
 
 ## Kam co
 
-- `Outputs/Rozarka/` — hotové hodiny: `…nazev.pdf` (to se promítá), `…nazev-ZDROJ.html` (z toho se PDF vyrábí), `…scenar-pro-ucitele.md` (klíč, nesdílet)
+- `Outputs/Rozarka/` — hotové hodiny:
+  - `…nazev.pdf` — pracovní list, tohle se promítá
+  - `…nazev-ZDROJ.html` — z toho se PDF vyrábí
+  - `…TAHAK-pro-ucitele.pdf` — fráze s výslovností pro Tessu, **nesdílet**
+  - `…scenar-pro-ucitele.md` — časování a klíč k odpovědím, **nesdílet**
 - `Process/` — rozpracované nápady, banky aktivit
 - `Feedback/Rozarka/` — jak hodina dopadla, co nefungovalo, co umí a co ne
 - `Inputs/` — co dodá rodič nebo škola (učebnice, zadání od učitelky)

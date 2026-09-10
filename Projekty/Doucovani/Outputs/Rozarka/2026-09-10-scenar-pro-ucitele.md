@@ -5,6 +5,8 @@ Rozárka do něj **může psát perem** — všechny linky, rámečky a hvězdy 
 
 Tenhle soubor je pro tebe. **Nesdílej ho** — jsou v něm odpovědi.
 
+👉 **Anglické fráze s výslovností máš v `2026-09-10-TAHAK-pro-ucitele.pdf`** — měj ho otevřený vedle sebe. Tenhle scénář říká *co dělat*, tahák *co říct*.
+
 ---
 
 ## Před hodinou
