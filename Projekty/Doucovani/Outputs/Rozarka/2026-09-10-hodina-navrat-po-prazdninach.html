@@ -1,0 +1,672 @@
+<title>Rozárka's Summer Postcard</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600;700&family=Nunito:ital,wght@0,400;0,600;0,800;1,400&family=Courier+Prime:wght@400;700&display=swap">
+<style>
+  :root{
+    --ground:#E3EFEC;
+    --paper:#FFFFFF;
+    --paper-warm:#F7FBF9;
+    --ink:#16323B;
+    --muted:#657F88;
+    --line:#C9DCD8;
+    --stamp:#E4572E;
+    --sea:#0F8B8D;
+    --sun:#F2B028;
+    --ok:#2E8B57;
+    --shadow:0 2px 0 rgba(22,50,59,.10), 0 10px 26px -14px rgba(22,50,59,.45);
+    --display:"Fredoka","Trebuchet MS",sans-serif;
+    --body:"Nunito","Segoe UI",system-ui,sans-serif;
+    --util:"Courier Prime","Courier New",monospace;
+  }
+  *{box-sizing:border-box}
+  [hidden]{display:none !important}
+  body{
+    margin:0;
+    background:var(--ground);
+    color:var(--ink);
+    font-family:var(--body);
+    font-size:17px;
+    line-height:1.5;
+  }
+  .wrap{max-width:1080px;margin:0 auto;padding-block:22px 60px;padding-left:18px;padding-right:18px}
+
+  /* ---------- postcard frame ---------- */
+  .card{
+    position:relative;
+    background:var(--paper);
+    border:1px solid var(--line);
+    border-radius:4px;
+    box-shadow:var(--shadow);
+  }
+  .airmail{
+    height:9px;
+    background:repeating-linear-gradient(-45deg,
+      var(--stamp) 0 10px, var(--paper) 10px 20px, var(--sea) 20px 30px, var(--paper) 30px 40px);
+  }
+
+  /* ---------- header ---------- */
+  header.card{padding:0 0 20px}
+  .tape{
+    position:absolute;top:-11px;left:50%;transform:translateX(-50%) rotate(-1.2deg);
+    width:190px;height:26px;background:rgba(242,176,40,.55);
+    border-left:2px dashed rgba(255,255,255,.6);border-right:2px dashed rgba(255,255,255,.6);
+  }
+  .head-inner{display:flex;flex-wrap:wrap;gap:18px;align-items:flex-end;justify-content:space-between;padding:26px 24px 0}
+  .eyebrow{font-family:var(--util);font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);margin:0 0 6px}
+  h1{font-family:var(--display);font-weight:700;font-size:clamp(30px,5.4vw,46px);line-height:1.03;margin:0;text-wrap:balance}
+  h1 em{font-style:normal;color:var(--sea)}
+  .postmark{
+    font-family:var(--util);font-size:11px;color:var(--stamp);
+    border:2px solid var(--stamp);border-radius:999px;padding:7px 13px;
+    transform:rotate(-7deg);opacity:.85;text-align:center;line-height:1.25;flex:0 0 auto
+  }
+
+  /* ---------- stars + timer ---------- */
+  .bar{display:flex;flex-wrap:wrap;gap:14px;align-items:center;justify-content:space-between;padding:16px 24px 0;margin-top:16px;border-top:1px dashed var(--line)}
+  .stars{display:flex;flex-wrap:wrap;gap:5px;align-items:center}
+  .stars .lbl{font-family:var(--util);font-size:12px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);margin-right:6px}
+  .star{
+    all:unset;cursor:pointer;font-size:25px;line-height:1;filter:grayscale(1);opacity:.3;
+    transition:transform .16s ease, opacity .16s ease, filter .16s ease;border-radius:6px
+  }
+  .star:hover{transform:scale(1.14)}
+  .star.on{filter:none;opacity:1;transform:scale(1.06)}
+  .star:focus-visible{outline:3px solid var(--sea);outline-offset:2px}
+  .timer{display:flex;gap:9px;align-items:center}
+  .clock{font-family:var(--util);font-weight:700;font-size:26px;font-variant-numeric:tabular-nums;min-width:82px;text-align:center;
+    background:var(--paper-warm);border:1px solid var(--line);border-radius:4px;padding:2px 8px}
+  .clock.over{color:var(--stamp);border-color:var(--stamp)}
+  .btn{
+    font-family:var(--body);font-weight:800;font-size:14px;cursor:pointer;
+    background:var(--ink);color:#fff;border:none;border-radius:999px;padding:9px 17px;
+    transition:transform .12s ease, background .12s ease
+  }
+  .btn:hover{transform:translateY(-1px)}
+  .btn:focus-visible{outline:3px solid var(--sun);outline-offset:2px}
+  .btn.ghost{background:transparent;color:var(--ink);border:2px solid var(--line)}
+  .btn.sea{background:var(--sea)}
+  .btn.stamp{background:var(--stamp)}
+  .btn.big{font-size:18px;padding:13px 26px}
+
+  /* ---------- stamp nav ---------- */
+  nav{display:flex;flex-wrap:wrap;gap:10px;margin:20px 0}
+  .pstamp{
+    position:relative;cursor:pointer;font-family:var(--body);text-align:left;
+    background:var(--paper);color:var(--ink);border:1px solid var(--line);border-radius:2px;
+    padding:11px 13px;min-width:132px;flex:1 1 132px;
+    transition:background .15s ease, color .15s ease
+  }
+  .pstamp::before,.pstamp::after{
+    content:"";position:absolute;left:-1px;right:-1px;height:9px;pointer-events:none;
+    background:radial-gradient(circle, var(--ground) 3.6px, transparent 3.9px) 0 50%/11px 11px repeat-x;
+  }
+  .pstamp::before{top:-5px}
+  .pstamp::after{bottom:-5px}
+  .pstamp .n{font-family:var(--util);font-size:11px;letter-spacing:.12em;color:var(--muted);display:block}
+  .pstamp .t{font-family:var(--display);font-weight:600;font-size:15px;display:block;line-height:1.2}
+  .pstamp .m{font-family:var(--util);font-size:11px;color:var(--muted)}
+  .pstamp:hover{background:var(--paper-warm)}
+  .pstamp[aria-current="true"]{background:var(--sea);color:#fff}
+  .pstamp[aria-current="true"] .n,.pstamp[aria-current="true"] .m{color:rgba(255,255,255,.8)}
+  .pstamp:focus-visible{outline:3px solid var(--sun);outline-offset:1px}
+  .pstamp.done .t::after{content:" ✓";color:var(--ok)}
+  .pstamp[aria-current="true"].done .t::after{color:#fff}
+
+  /* ---------- slides ---------- */
+  .slide{padding:26px 24px 30px}
+  .slide-head{display:flex;flex-wrap:wrap;gap:10px;align-items:baseline;justify-content:space-between;margin-bottom:4px}
+  h2{font-family:var(--display);font-weight:700;font-size:clamp(24px,4.2vw,34px);margin:0;text-wrap:balance}
+  .mins{font-family:var(--util);font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--stamp)}
+  .say{font-size:16px;color:var(--muted);margin:0 0 20px;max-width:62ch}
+
+  /* prompts */
+  .prompts{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:12px}
+  .prompt{
+    cursor:pointer;text-align:left;font-family:var(--display);font-weight:500;font-size:19px;
+    background:var(--paper-warm);color:var(--ink);border:1px solid var(--line);border-left:5px solid var(--sea);
+    border-radius:3px;padding:15px 16px;transition:transform .14s ease, background .14s ease
+  }
+  .prompt:hover{transform:translateY(-2px)}
+  .prompt:focus-visible{outline:3px solid var(--sun);outline-offset:2px}
+  .prompt.on{background:var(--sea);color:#fff;border-left-color:var(--sun)}
+  .prompt .hint{display:block;font-family:var(--util);font-size:12px;color:var(--muted);margin-top:6px}
+  .prompt.on .hint{color:rgba(255,255,255,.85)}
+
+  /* flashcards */
+  .tools{display:flex;flex-wrap:wrap;gap:9px;margin-bottom:16px}
+  .grid-cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:11px}
+  .fc{background:none;border:none;padding:0;cursor:pointer;perspective:700px;font:inherit}
+  .fc:focus-visible{outline:3px solid var(--sun);outline-offset:3px;border-radius:6px}
+  .fc-in{position:relative;transform-style:preserve-3d;transition:transform .45s cubic-bezier(.3,.9,.3,1.2);min-height:118px}
+  .fc.flip .fc-in{transform:rotateY(180deg)}
+  .fc-f,.fc-b{
+    position:absolute;inset:0;backface-visibility:hidden;-webkit-backface-visibility:hidden;
+    display:flex;flex-direction:column;align-items:center;justify-content:center;gap:3px;
+    border:1px solid var(--line);border-radius:5px;padding:9px
+  }
+  .fc-f{background:var(--paper-warm)}
+  .fc-b{background:var(--sun);transform:rotateY(180deg)}
+  .fc .emo{font-size:34px;line-height:1}
+  .fc .en{font-family:var(--display);font-weight:600;font-size:19px}
+  .fc .cz{font-family:var(--body);font-weight:800;font-size:20px;color:var(--ink)}
+  .fc .cz small{display:block;font-family:var(--util);font-weight:400;font-size:11px;color:rgba(22,50,59,.65)}
+
+  /* big fast-round card */
+  .fast{display:flex;flex-direction:column;align-items:center;gap:10px;background:var(--paper-warm);
+    border:2px dashed var(--line);border-radius:6px;padding:26px 16px;text-align:center}
+  .fast .emo{font-size:82px;line-height:1}
+  .fast .en{font-family:var(--display);font-weight:700;font-size:clamp(30px,7vw,52px);line-height:1.1}
+  .fast .cz{font-family:var(--util);font-size:17px;color:var(--muted);min-height:1.4em}
+  .fast .count{font-family:var(--util);font-size:12px;letter-spacing:.12em;color:var(--muted)}
+
+  /* sentence machine */
+  .machine{background:var(--paper-warm);border:1px solid var(--line);border-radius:6px;padding:22px 18px;text-align:center}
+  .sentence{font-family:var(--display);font-weight:600;font-size:clamp(26px,5.6vw,44px);line-height:1.2;
+    min-height:2.2em;display:flex;align-items:center;justify-content:center;text-wrap:balance}
+  .sentence .w{display:inline-block;animation:pop .32s cubic-bezier(.2,1.4,.4,1) both}
+  @keyframes pop{from{opacity:0;transform:translateY(9px) scale(.94)}to{opacity:1;transform:none}}
+  .tf{display:flex;gap:10px;justify-content:center;flex-wrap:wrap;margin-top:14px}
+
+  /* odd one out */
+  .rounds{display:flex;flex-direction:column;gap:12px}
+  .round{background:var(--paper-warm);border:1px solid var(--line);border-radius:5px;padding:12px 13px}
+  .round .q{font-family:var(--util);font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin-bottom:8px}
+  .opts{display:grid;grid-template-columns:repeat(auto-fit,minmax(118px,1fr));gap:9px}
+  .opt{cursor:pointer;font-family:var(--display);font-weight:500;font-size:19px;background:var(--paper);
+    color:var(--ink);border:2px solid var(--line);border-radius:4px;padding:12px 8px;transition:.14s ease}
+  .opt:hover{border-color:var(--sea)}
+  .opt:focus-visible{outline:3px solid var(--sun);outline-offset:2px}
+  .opt.right{background:var(--ok);border-color:var(--ok);color:#fff}
+  .opt.wrong{border-color:var(--stamp);color:var(--stamp);animation:shake .34s}
+  @keyframes shake{25%{transform:translateX(-6px)}75%{transform:translateX(6px)}}
+  .why{font-family:var(--body);font-style:italic;color:var(--sea);font-weight:600;margin-top:9px;font-size:15px}
+
+  /* spinner */
+  .spin{background:var(--ink);color:#fff;border-radius:6px;padding:26px 18px;text-align:center}
+  .spin .task{font-family:var(--display);font-weight:600;font-size:clamp(23px,5vw,38px);line-height:1.2;
+    min-height:2.4em;display:flex;align-items:center;justify-content:center;text-wrap:balance}
+  .spin .cz{font-family:var(--util);font-size:14px;color:#9FC4C5;min-height:1.4em;margin-bottom:14px}
+  .spin.rolling .task{opacity:.55}
+
+  /* homework */
+  .hw{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:14px}
+  .note{background:var(--paper-warm);border:1px solid var(--line);border-radius:5px;padding:16px}
+  .note h3{font-family:var(--display);font-weight:600;font-size:19px;margin:0 0 8px}
+  .note ul{margin:0;padding-left:20px}
+  .note li{margin-bottom:5px}
+  .bye{font-family:var(--display);font-weight:700;font-size:clamp(26px,5vw,40px);color:var(--sea);text-align:center;margin-top:22px}
+
+  /* teacher panel */
+  details.teacher{margin-top:18px;background:var(--paper);border:1px dashed var(--line);border-radius:5px}
+  details.teacher summary{cursor:pointer;font-family:var(--util);font-size:12px;letter-spacing:.12em;
+    text-transform:uppercase;color:var(--muted);padding:11px 14px;list-style:none}
+  details.teacher summary::-webkit-details-marker{display:none}
+  details.teacher summary::before{content:"▸ ";color:var(--stamp)}
+  details.teacher[open] summary::before{content:"▾ "}
+  details.teacher .tin{padding:0 16px 16px;font-size:15px;color:var(--muted)}
+  details.teacher .tin ol{padding-left:20px;margin:8px 0 0}
+  details.teacher .tin li{margin-bottom:6px}
+  details.teacher .tin b{color:var(--ink)}
+
+  .foot{font-family:var(--util);font-size:11px;color:var(--muted);text-align:center;margin-top:20px;letter-spacing:.06em}
+
+  @media (max-width:520px){
+    .head-inner{padding:22px 16px 0}.bar{padding:14px 16px 0}.slide{padding:20px 16px 24px}
+    .postmark{display:none}
+  }
+  @media (prefers-reduced-motion:reduce){
+    *{animation-duration:.01ms !important;transition-duration:.01ms !important}
+  }
+</style>
+
+<div class="wrap">
+
+  <header class="card">
+    <div class="airmail"></div>
+    <div class="tape"></div>
+    <div class="head-inner">
+      <div>
+        <p class="eyebrow">Lesson 1 · 10 / 09 / 2026 · 30 minutes</p>
+        <h1>Back from the <em>holidays</em></h1>
+      </div>
+      <div class="postmark">ENGLISH<br>ROZÁRKA<br>5th GRADE</div>
+    </div>
+
+    <div class="bar">
+      <div class="stars" id="stars"><span class="lbl">Stars</span></div>
+      <div class="timer">
+        <span class="clock" id="clock">03:00</span>
+        <button class="btn sea" id="tStart" type="button">Start</button>
+        <button class="btn ghost" id="tReset" type="button">Reset</button>
+      </div>
+    </div>
+  </header>
+
+  <nav id="nav" aria-label="Části hodiny"></nav>
+
+  <main class="card" id="main">
+
+    <!-- 1 -->
+    <section class="slide" id="s0" hidden>
+      <div class="slide-head"><h2>Hello again!</h2><span class="mins">3 min · warm-up</span></div>
+      <p class="say">Klikni na otázku — Rozárka odpovídá <b>celou větou</b>, ne jedním slovem.</p>
+      <div class="prompts" id="p1"></div>
+    </section>
+
+    <!-- 2 -->
+    <section class="slide" id="s1" hidden>
+      <div class="slide-head"><h2>Holiday words</h2><span class="mins">6 min · slovíčka</span></div>
+      <p class="say">Klik na kartu = otočí se. Nejdřív hádá, teprve pak otáčíme.</p>
+      <div class="tools">
+        <button class="btn sea" id="fastBtn" type="button">Rychlovka 🔥</button>
+        <button class="btn ghost" id="backAll" type="button">Otočit všechny zpět</button>
+      </div>
+      <div class="grid-cards" id="cards"></div>
+      <div class="fast" id="fastBox" hidden>
+        <span class="count" id="fastCount"></span>
+        <span class="emo" id="fastEmo">🏖️</span>
+        <span class="en" id="fastEn">beach</span>
+        <span class="cz" id="fastCz"></span>
+        <div class="tools" style="justify-content:center;margin:6px 0 0">
+          <button class="btn stamp big" id="fastNext" type="button">Umím → další</button>
+          <button class="btn ghost" id="fastShow" type="button">Nápověda</button>
+          <button class="btn ghost" id="fastExit" type="button">Zpět na karty</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- 3 -->
+    <section class="slide" id="s2" hidden>
+      <div class="slide-head"><h2>Sentence machine</h2><span class="mins">6 min · věty + mluvení</span></div>
+      <p class="say">Stroj vyrobí větu. Rozárka ji <b>nahlas přečte</b> a řekne <b>TRUE</b> nebo <b>FALSE</b> — a když FALSE, opraví ji na pravdivou.</p>
+      <div class="machine">
+        <div class="sentence" id="sentence">Zmáčkni tlačítko ↓</div>
+        <div class="tf">
+          <button class="btn big sea" id="make" type="button">Make a sentence!</button>
+        </div>
+        <div class="tf">
+          <button class="btn ghost" id="tTrue" type="button">TRUE ✓</button>
+          <button class="btn ghost" id="tFalse" type="button">FALSE ✗ → oprav ji</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- 4 -->
+    <section class="slide" id="s3" hidden>
+      <div class="slide-head"><h2>Odd one out</h2><span class="mins">6 min · logika + why</span></div>
+      <p class="say">Které slovo tam nepatří? Klikni — a pak řekni anglicky <b>proč</b>.</p>
+      <div class="rounds" id="odd"></div>
+    </section>
+
+    <!-- 5 -->
+    <section class="slide" id="s4" hidden>
+      <div class="slide-head"><h2>Star challenge</h2><span class="mins">6 min · hra</span></div>
+      <p class="say">Zatoč kolem. Splněný úkol = jedna hvězda nahoře.</p>
+      <div class="spin" id="spinBox">
+        <div class="task" id="task">Press SPIN 🎡</div>
+        <div class="cz" id="taskCz"></div>
+        <button class="btn stamp big" id="spinBtn" type="button">SPIN 🎡</button>
+      </div>
+    </section>
+
+    <!-- 6 -->
+    <section class="slide" id="s5" hidden>
+      <div class="slide-head"><h2>Homework &amp; bye</h2><span class="mins">3 min · zakončení</span></div>
+      <p class="say">Zopakuj úkol nahlas a nech ji ho zopakovat vlastními slovy.</p>
+      <div class="hw">
+        <div class="note">
+          <h3>1 · Nauč se 6 slovíček</h3>
+          <ul>
+            <li>suitcase — kufr</li>
+            <li>tent — stan</li>
+            <li>mountains — hory</li>
+            <li>castle — hrad</li>
+            <li>plane — letadlo</li>
+            <li>seaside — u moře</li>
+          </ul>
+        </div>
+        <div class="note">
+          <h3>2 · Napiš 3 věty</h3>
+          <p style="margin:0 0 8px">Do sešitu, začni takhle:</p>
+          <ul>
+            <li><b>In the summer I …</b></li>
+            <li><b>I can …</b></li>
+            <li><b>My favourite day was …</b></li>
+          </ul>
+        </div>
+        <div class="note">
+          <h3>3 · Bonus (nepovinný)</h3>
+          <p style="margin:0">Nakresli jednu věc z prázdnin a napiš k ní anglicky <b>tři slova</b>. Příště nám to ukážeš.</p>
+        </div>
+      </div>
+      <p class="bye">Great job! See you next week! 👋</p>
+    </section>
+
+  </main>
+
+  <details class="teacher">
+    <summary>Pro učitele — časování a tahák (nechávej zavřené při sdílení)</summary>
+    <div class="tin">
+      <ol>
+        <li><b>Hello again (3 min)</b> — cíl je rozmluvit ji, ne opravovat. Chyby si pamatuj, neopravuj hned.</li>
+        <li><b>Holiday words (6 min)</b> — nejdřív karty (hádá z emoji), pak Rychlovka na rychlost. Nová slova pro ni: <b>suitcase, tent, castle, seaside</b>.</li>
+        <li><b>Sentence machine (6 min)</b> — hlídej výslovnost <i>-s</i> u <i>likes / has got</i>. Když FALSE, musí říct pravdivou verzi.</li>
+        <li><b>Odd one out (6 min)</b> — "why" je to důležité. Stačí <i>Because it isn't a place / an animal / a verb.</i></li>
+        <li><b>Star challenge (6 min)</b> — tady se smí smát. Když úkol nezvládne, zatočte znovu.</li>
+        <li><b>Homework (3 min)</b> — nech ji úkol zopakovat vlastními slovy, ať víš, že rozumí.</li>
+      </ol>
+      <p style="margin:12px 0 0"><b>Když zbyde čas:</b> vrať se na Rychlovku a zkuste ji na čas. <b>Když čas dojde:</b> obětuj Odd one out, ne Homework.</p>
+    </div>
+  </details>
+
+  <p class="foot">Klikni na známku nahoře pro přeskok · hvězdičky se ukládají v prohlížeči</p>
+</div>
+
+<script>
+(function(){
+  "use strict";
+  var LS = {
+    get:function(k,d){ try{ var v=localStorage.getItem(k); return v===null?d:v; }catch(e){ return d; } },
+    set:function(k,v){ try{ localStorage.setItem(k,v); }catch(e){} }
+  };
+
+  /* ---------- data ---------- */
+  var SECTIONS = [
+    {t:"Hello again!",  m:"3 min"},
+    {t:"Holiday words", m:"6 min"},
+    {t:"Sentence machine", m:"6 min"},
+    {t:"Odd one out",   m:"6 min"},
+    {t:"Star challenge",m:"6 min"},
+    {t:"Homework & bye",m:"3 min"}
+  ];
+  var MINUTES = [3,6,6,6,6,3];
+
+  var PROMPTS = [
+    ["Hello! How are you today?", "Odpověz celou větou: I'm…"],
+    ["What's the weather like today?", "It's sunny / cloudy / rainy…"],
+    ["Summer in three words — go!", "Jen tři slova, rychle."],
+    ["Where were you in the summer?", "I was in / at…"],
+    ["Did you go swimming?", "Yes, I did. / No, I didn't."],
+    ["What was the best day? Why?", "Tady chci celou větu s BECAUSE."]
+  ];
+
+  var WORDS = [
+    {e:"🏖️",en:"beach",cz:"pláž"},
+    {e:"🌊",en:"sea",cz:"moře"},
+    {e:"🏊",en:"swim",cz:"plavat"},
+    {e:"🍦",en:"ice cream",cz:"zmrzlina"},
+    {e:"⛰️",en:"mountains",cz:"hory"},
+    {e:"🚲",en:"bike",cz:"kolo"},
+    {e:"☀️",en:"sun",cz:"slunce"},
+    {e:"⛺",en:"tent",cz:"stan"},
+    {e:"🧳",en:"suitcase",cz:"kufr"},
+    {e:"✈️",en:"plane",cz:"letadlo"},
+    {e:"🏰",en:"castle",cz:"hrad"},
+    {e:"🧒",en:"friend",cz:"kamarád"}
+  ];
+
+  var SUBJ = [
+    {s:"I", third:false},
+    {s:"My best friend", third:true},
+    {s:"My mum", third:true},
+    {s:"My teacher", third:true},
+    {s:"My dog", third:true}
+  ];
+  var VERBS = [
+    {base:"like", third:"likes", obj:["swimming","ice cream","football","summer","English","the seaside"]},
+    {base:"can",  third:"can",   obj:["swim","ride a bike","play tennis","sing","cook","speak English"]},
+    {base:"have got", third:"has got", obj:["a bike","a cat","a big suitcase","a tent","blue eyes","a red bag"]}
+  ];
+
+  var ODD = [
+    {w:["beach","sea","mountains","ice cream"], a:3, why:"Because you can't go to an ice cream — it isn't a place."},
+    {w:["swim","run","tent","ride"],            a:2, why:"Because a tent isn't something you do."},
+    {w:["plane","cat","dog","horse"],           a:0, why:"Because a plane isn't an animal."},
+    {w:["hot","sunny","cold","bike"],           a:3, why:"Because a bike isn't weather."},
+    {w:["Monday","Tuesday","July","Friday"],    a:2, why:"Because July is a month, not a day."},
+    {w:["suitcase","bag","backpack","swim"],    a:3, why:"Because you can't put things in 'swim'."}
+  ];
+
+  var TASKS = [
+    ["Name 5 animals — 15 seconds!","Pět zvířat, na čas."],
+    ["Spell BEACH out loud.","Vyhláskuj po písmenech."],
+    ["Say a sentence with SWIM.","Celá věta se slovem swim."],
+    ["Count from 20 down to 10.","Pozpátku, nahlas."],
+    ["Name 3 things you can eat.","Tři jídla anglicky."],
+    ["Say the days of the week — fast!","Všech sedm dní."],
+    ["Describe your room — 2 sentences.","Dvě věty o svém pokoji."],
+    ["Teacher says 3 Czech words — you say them in English!","Učitel řekne, ty překládáš."],
+    ["Name 4 colours you can see right now.","Rozhlédni se kolem sebe."],
+    ["Ask the teacher a question in English!","Jakoukoli otázku — ale anglicky."]
+  ];
+
+  function pick(a){ return a[Math.floor(Math.random()*a.length)]; }
+  function el(tag,cls,txt){ var n=document.createElement(tag); if(cls)n.className=cls; if(txt!=null)n.textContent=txt; return n; }
+
+  /* ---------- stars ---------- */
+  var starWrap = document.getElementById("stars");
+  var STAR_N = 10;
+  var starCount = parseInt(LS.get("roz_stars","0"),10) || 0;
+  var starBtns = [];
+  for(var i=0;i<STAR_N;i++){
+    (function(idx){
+      var b = el("button","star","★");
+      b.type="button";
+      b.setAttribute("aria-label","Hvězda "+(idx+1));
+      b.addEventListener("click",function(){
+        starCount = (starCount === idx+1) ? idx : idx+1;
+        paintStars();
+      });
+      starWrap.appendChild(b); starBtns.push(b);
+    })(i);
+  }
+  function paintStars(){
+    for(var i=0;i<STAR_N;i++) starBtns[i].classList.toggle("on", i < starCount);
+    LS.set("roz_stars", String(starCount));
+  }
+  paintStars();
+
+  /* ---------- nav + slides ---------- */
+  var nav = document.getElementById("nav");
+  var navBtns = [], slides = [], visited = {};
+  try{ visited = JSON.parse(LS.get("roz_visited","{}")) || {}; }catch(e){ visited = {}; }
+
+  SECTIONS.forEach(function(sec,i){
+    var b = el("button","pstamp"); b.type="button";
+    b.appendChild(el("span","n","No. "+(i+1)));
+    b.appendChild(el("span","t",sec.t));
+    b.appendChild(el("span","m",sec.m));
+    b.addEventListener("click",function(){ go(i); });
+    nav.appendChild(b); navBtns.push(b);
+    slides.push(document.getElementById("s"+i));
+  });
+
+  var cur = -1;
+  function go(i){
+    cur = i;
+    slides.forEach(function(s,j){ s.hidden = (j!==i); });
+    visited[i]=1; LS.set("roz_visited", JSON.stringify(visited));
+    navBtns.forEach(function(b,j){
+      b.setAttribute("aria-current", j===i ? "true":"false");
+      b.classList.toggle("done", !!visited[j] && j!==i);
+    });
+    LS.set("roz_cur", String(i));
+    resetTimer(MINUTES[i]*60);
+  }
+
+  /* ---------- timer ---------- */
+  var clock = document.getElementById("clock"),
+      tStart = document.getElementById("tStart"),
+      tReset = document.getElementById("tReset");
+  var left = 180, total = 180, tick = null;
+
+  function fmt(s){
+    var neg = s<0; if(neg) s=-s;
+    var m = Math.floor(s/60), r = s%60;
+    return (neg?"+":"") + (m<10?"0":"") + m + ":" + (r<10?"0":"") + r;
+  }
+  function paintClock(){
+    clock.textContent = fmt(left);
+    clock.classList.toggle("over", left<=0);
+  }
+  function stop(){ if(tick){ clearInterval(tick); tick=null; } tStart.textContent="Start"; }
+  function resetTimer(sec){ stop(); total=sec; left=sec; paintClock(); }
+  tStart.addEventListener("click",function(){
+    if(tick){ stop(); return; }
+    tStart.textContent="Pauza";
+    tick = setInterval(function(){ left--; paintClock(); },1000);
+  });
+  tReset.addEventListener("click",function(){ resetTimer(total); });
+
+  /* ---------- 1: prompts ---------- */
+  var p1 = document.getElementById("p1");
+  PROMPTS.forEach(function(p){
+    var b = el("button","prompt"); b.type="button";
+    b.appendChild(document.createTextNode(p[0]));
+    b.appendChild(el("span","hint",p[1]));
+    b.addEventListener("click",function(){ b.classList.toggle("on"); });
+    p1.appendChild(b);
+  });
+
+  /* ---------- 2: flashcards ---------- */
+  var cards = document.getElementById("cards");
+  WORDS.forEach(function(w){
+    var b = el("button","fc"); b.type="button";
+    b.setAttribute("aria-label", w.en + " — otočit");
+    var inn = el("div","fc-in");
+    var f = el("div","fc-f");
+    f.appendChild(el("span","emo",w.e));
+    f.appendChild(el("span","en",w.en));
+    var bk = el("div","fc-b");
+    var cz = el("span","cz",w.cz);
+    var sm = el("small",null,w.en);
+    cz.appendChild(sm);
+    bk.appendChild(cz);
+    inn.appendChild(f); inn.appendChild(bk); b.appendChild(inn);
+    b.addEventListener("click",function(){ b.classList.toggle("flip"); });
+    cards.appendChild(b);
+  });
+  document.getElementById("backAll").addEventListener("click",function(){
+    Array.prototype.forEach.call(cards.children,function(c){ c.classList.remove("flip"); });
+  });
+
+  /* fast round */
+  var fastBox = document.getElementById("fastBox"),
+      fastEmo = document.getElementById("fastEmo"),
+      fastEn  = document.getElementById("fastEn"),
+      fastCz  = document.getElementById("fastCz"),
+      fastCnt = document.getElementById("fastCount");
+  var order = [], fi = 0;
+
+  function shuffle(a){
+    a = a.slice();
+    for(var i=a.length-1;i>0;i--){ var j=Math.floor(Math.random()*(i+1)); var t=a[i]; a[i]=a[j]; a[j]=t; }
+    return a;
+  }
+  function showFast(){
+    var w = order[fi];
+    fastEmo.textContent = w.e;
+    fastEn.textContent  = w.en;
+    fastCz.textContent  = "";
+    fastCnt.textContent = (fi+1) + " / " + order.length;
+  }
+  document.getElementById("fastBtn").addEventListener("click",function(){
+    order = shuffle(WORDS); fi = 0; showFast();
+    fastBox.hidden = false; cards.hidden = true;
+  });
+  document.getElementById("fastNext").addEventListener("click",function(){
+    fi++;
+    if(fi >= order.length){ order = shuffle(WORDS); fi = 0; }
+    showFast();
+  });
+  document.getElementById("fastShow").addEventListener("click",function(){
+    fastCz.textContent = order[fi].cz;
+  });
+  document.getElementById("fastExit").addEventListener("click",function(){
+    fastBox.hidden = true; cards.hidden = false;
+  });
+
+  /* ---------- 3: sentence machine ---------- */
+  var sentence = document.getElementById("sentence");
+  function makeSentence(){
+    var s = pick(SUBJ), v = pick(VERBS), o = pick(v.obj);
+    var verb = s.third ? v.third : v.base;
+    var words = [s.s, verb, o];
+    var txt = words.join(" ") + ".";
+    sentence.textContent = "";
+    txt.split(" ").forEach(function(w,i){
+      if(i) sentence.appendChild(document.createTextNode(" "));
+      var span = el("span","w", w);
+      span.style.animationDelay = (i*0.09) + "s";
+      sentence.appendChild(span);
+    });
+  }
+  document.getElementById("make").addEventListener("click", makeSentence);
+  document.getElementById("tTrue").addEventListener("click", function(){ starCount = Math.min(STAR_N, starCount+1); paintStars(); });
+  document.getElementById("tFalse").addEventListener("click", function(){
+    if(sentence.querySelector(".nudge")) return;
+    var n = el("span","w nudge"," → Now say the TRUE one!");
+    n.style.color = "#0F8B8D";
+    sentence.appendChild(n);
+  });
+
+  /* ---------- 4: odd one out ---------- */
+  var odd = document.getElementById("odd");
+  ODD.forEach(function(r,ri){
+    var box = el("div","round");
+    box.appendChild(el("div","q","Round "+(ri+1)));
+    var opts = el("div","opts");
+    var whyEl = el("p","why"); whyEl.hidden = true;
+    r.w.forEach(function(word,wi){
+      var b = el("button","opt",word); b.type="button";
+      b.addEventListener("click",function(){
+        if(wi === r.a){
+          b.classList.add("right");
+          whyEl.textContent = "Why? " + r.why;
+          whyEl.hidden = false;
+        } else {
+          b.classList.remove("wrong");
+          void b.offsetWidth;
+          b.classList.add("wrong");
+        }
+      });
+      opts.appendChild(b);
+    });
+    box.appendChild(opts); box.appendChild(whyEl);
+    odd.appendChild(box);
+  });
+
+  /* ---------- 5: spinner ---------- */
+  var spinBox = document.getElementById("spinBox"),
+      taskEl  = document.getElementById("task"),
+      taskCz  = document.getElementById("taskCz"),
+      spinBtn = document.getElementById("spinBtn");
+  var spinning = false;
+  var reduce = false;
+  try{ reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches; }catch(e){}
+
+  spinBtn.addEventListener("click",function(){
+    if(spinning) return;
+    var final = pick(TASKS);
+    if(reduce){ taskEl.textContent = final[0]; taskCz.textContent = final[1]; return; }
+    spinning = true; spinBox.classList.add("rolling"); taskCz.textContent = "";
+    var n = 0, iv = setInterval(function(){
+      taskEl.textContent = pick(TASKS)[0];
+      if(++n > 11){
+        clearInterval(iv);
+        taskEl.textContent = final[0];
+        taskCz.textContent = final[1];
+        spinBox.classList.remove("rolling");
+        spinning = false;
+      }
+    }, 75);
+  });
+
+  /* ---------- boot ---------- */
+  var start = parseInt(LS.get("roz_cur","0"),10);
+  if(isNaN(start) || start<0 || start>=SECTIONS.length) start = 0;
+  go(start);
+  makeSentence();
+})();
+</script>
