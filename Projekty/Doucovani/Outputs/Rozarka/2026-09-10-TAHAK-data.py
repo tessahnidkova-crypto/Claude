@@ -146,3 +146,89 @@ ABECEDA = [("A","ej"),("B","bí"),("C","sí"),("D","dý"),("E","í"),("F","ef"),
  ("H","ejč"),("I","aj"),("J","džej"),("K","kej"),("L","el"),("M","em"),("N","en"),
  ("O","ou"),("P","pí"),("Q","kjú"),("R","ár"),("S","es"),("T","tí"),("U","jú"),
  ("V","ví"),("W","dabl jú"),("X","eks"),("Y","waj"),("Z","zed")]
+
+# ---------- ŘEŠENÍ ----------
+# otázka -> [(vzorová odpověď, výslovnost, česky)]
+RES_HELLO = [
+ ("How are you today?", [
+   ("I'm fine, thank you.", "ajm fajn, thenk jú", "Mám se dobře, děkuju."),
+   ("I'm tired.", "ajm tajrd", "Jsem unavená."),
+   ("I'm happy today.", "ajm hepy tudej", "Dneska jsem šťastná.")]),
+ ("What's the weather like today?", [
+   ("It's sunny.", "its sany", "Je slunečno."),
+   ("It's raining.", "its rejning", "Prší."),
+   ("It's cold and cloudy.", "its kould end klaudy", "Je zima a zataženo.")]),
+ ("Where were you in the summer?", [
+   ("I was at home.", "aj woz et houm", "Byla jsem doma."),
+   ("I was at my grandma's.", "aj woz et máj GREND-máz", "Byla jsem u babičky."),
+   ("I was in Italy.", "aj woz in ITEL-y", "Byla jsem v Itálii.")]),
+ ("Did you go swimming?", [
+   ("Yes, I did.", "jes, aj did", "Ano, byla."),
+   ("No, I didn't.", "nou, aj DIDNT", "Ne, nebyla."),
+   ("Yes, in the sea!", "jes, in ď sí", "Ano, v moři!")]),
+ ("What did you eat every day?", [
+   ("I ate ice cream.", "aj ejt ajs krím", "Jedla jsem zmrzlinu."),
+   ("I ate a lot of fruit.", "aj ejt e lot ov frút", "Jedla jsem hodně ovoce.")]),
+ ("What was the best day? Why?", [
+   ("The best day was Saturday.", "ď best dej woz SETR-dej", "Nejlepší byla sobota."),
+   ("Because it was fun.", "bikoz it woz fan", "Protože to byla zábava."),
+   ("Because I was with my friends.", "bikoz aj woz wid máj frendz", "Protože jsem byla s kamarády.")]),
+]
+
+RES_SENT_VETY = [
+ ("I like swimming.", "aj lajk SWI-ming", "Ráda plavu."),
+ ("I don't like football.", "aj dount lajk FUT-ból", "Nemám ráda fotbal."),
+ ("My mum likes ice cream.", "máj mam lajks ajs krím", "Máma má ráda zmrzlinu."),
+ ("My mum doesn't like dogs.", "máj mam DAZNT lajk dogz", "Máma nemá ráda psy."),
+ ("My dog likes the seaside.", "máj dog lajks ď SÍ-sajd", "Můj pes má rád moře."),
+ ("My teacher doesn't like cats.", "máj tíčr daznt lajk kets", "Moje učitelka nemá ráda kočky."),
+]
+
+RES_ODD = [
+ ("beach · sea · mountains · ICE CREAM", "ice cream",
+  "Because it isn't a place.", "bikoz it IZNT e plejs", "Protože to není místo."),
+ ("swim · run · TENT · ride", "tent",
+  "Because a tent is a thing.", "bikoz e tent iz e thing", "Protože stan je věc."),
+ ("PLANE · cat · dog · horse", "plane",
+  "Because it isn't an animal.", "bikoz it iznt en ENIML", "Protože to není zvíře."),
+ ("hot · sunny · cold · BIKE", "bike",
+  "Because it isn't weather.", "bikoz it iznt WEDR", "Protože to není počasí."),
+ ("Monday · Tuesday · JULY · Friday", "July",
+  "Because it isn't a day.", "bikoz it iznt e dej", "Protože to není den."),
+ ("suitcase · bag · backpack · SWIM", "swim",
+  "Because it isn't a bag.", "bikoz it iznt e beg", "Protože to není taška."),
+]
+
+RES_CHALLENGE = [
+ ("1", "Name 5 animals", "cat, dog, horse, fish, bird", "Zvířata máš dole na téhle straně."),
+ ("2", "Spell BEACH out loud", "bí &middot; í &middot; ej &middot; sí &middot; ejč", "Abecedu máš na straně 5."),
+ ("3", "Say a sentence with SWIM", "I can swim. / I like swimming.", "[aj ken swim] / [aj lajk SWI-ming]"),
+ ("4", "Count from 20 down to 10", "twenty, nineteen, eighteen…", "Celá řada je dole na téhle straně."),
+ ("5", "Name 3 things you can eat", "bread, cheese, an apple", "[bred] [číz] [en EPL]"),
+ ("6", "Say the days of the week", "Monday … Sunday", "⚠️ Wednesday = [WENZ-dej], první D se nevyslovuje."),
+ ("7", "Describe your room in 2 sentences", "My room is small. I have got a bed.", "[máj rúm iz smól] [aj hev got e bed]"),
+ ("8", "Name 4 colours you can see now", "red, blue, green, white", "[red] [blú] [grín] [wajt]"),
+ ("9", "Ask your teacher a question", "How are you? / Do you like ice cream?", "Nejtěžší úkol — schovej si ho na konec."),
+ ("10", "Say 3 things you can do", "I can swim. I can sing. I can cook.", "[aj ken sing] [aj ken kuk]"),
+]
+
+RES_HW = [
+ ("In the summer I …", [
+   ("In the summer I swim in the sea.", "in ď samr aj swim in ď sí", "V létě plavu v moři."),
+   ("In the summer I ride my bike.", "in ď samr aj rajd máj bajk", "V létě jezdím na kole.")]),
+ ("I can …", [
+   ("I can swim.", "aj ken swim", "Umím plavat."),
+   ("I can ride a bike.", "aj ken rajd e bajk", "Umím jezdit na kole.")]),
+ ("My best day was …", [
+   ("My best day was at the beach.", "máj best dej woz et ď bíč", "Nejlepší den byl na pláži."),
+   ("My best day was in the mountains.", "máj best dej woz in ď MAUN-tnz", "Nejlepší den byl na horách.")]),
+]
+
+ZASOBA = [
+ ("Zvířata", "cat [ket] kočka &middot; dog [dog] pes &middot; horse [hors] kůň &middot; fish [fiš] ryba &middot; bird [bérd] pták &middot; cow [kau] kráva &middot; pig [pig] prase &middot; rabbit [REBIT] králík"),
+ ("Jídlo", "bread [bred] chléb &middot; cheese [číz] sýr &middot; apple [EPL] jablko &middot; soup [súp] polévka &middot; chicken [ČIKN] kuře &middot; rice [rajs] rýže &middot; egg [eg] vejce"),
+ ("Barvy", "red [red] &middot; blue [blú] &middot; green [grín] &middot; yellow [JELOU] &middot; black [blek] &middot; white [wajt] &middot; orange [ORINDŽ] &middot; pink [pink] &middot; brown [braun]"),
+ ("Dny v týdnu", "Monday [MAN-dej] &middot; Tuesday [TJÚZ-dej] &middot; <b>Wednesday [WENZ-dej]</b> &middot; Thursday [THÉRZ-dej] &middot; Friday [FRAJ-dej] &middot; Saturday [SETR-dej] &middot; Sunday [SAN-dej]"),
+ ("Čísla 20 → 10", "twenty [TWENTY] &middot; nineteen [najn-TÝN] &middot; eighteen [ej-TÝN] &middot; seventeen [sevn-TÝN] &middot; sixteen [siks-TÝN] &middot; fifteen [fif-TÝN] &middot; fourteen [fór-TÝN] &middot; thirteen [thér-TÝN] &middot; twelve [twelv] &middot; eleven [i-LEVN] &middot; ten [ten]"),
+ ("Co umím (can)", "swim [swim] plavat &middot; sing [sing] zpívat &middot; cook [kuk] vařit &middot; dance [dáns] tancovat &middot; draw [dró] kreslit &middot; run [ran] běhat &middot; read [ríd] číst"),
+]

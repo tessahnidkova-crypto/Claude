@@ -5,7 +5,7 @@ Rozárka do něj **může psát perem** — všechny linky, rámečky a hvězdy 
 
 Tenhle soubor je pro tebe. **Nesdílej ho** — jsou v něm odpovědi.
 
-👉 **Anglické fráze s výslovností máš v `2026-09-10-TAHAK-pro-ucitele.pdf`** — měj ho otevřený vedle sebe. Tenhle scénář říká *co dělat*, tahák *co říct*.
+👉 **Anglické fráze s výslovností a řešení všech cvičení máš v `2026-09-10-TAHAK-pro-ucitele.pdf`** (8 stran) — měj ho otevřený vedle sebe. Tenhle scénář říká *co dělat*, tahák *co říct* a *co je správně*.
 
 ---
 
@@ -38,9 +38,11 @@ Klíč: beach = pláž · sea = moře · swim = plavat · ice cream = zmrzlina �
 ## Strana 4 · Sentence machine — 6 min
 **Cíl:** stavba věty + mluvení o sobě.
 Zakroužkuje jedno slovo z každého boxu → napíše větu na linku → přečte nahlas → zakroužkuje TRUE nebo FALSE.
-- Box „DOES / IS" má dvojice: **I like** ale **My mum likes**. Právě tohle se tu učí — hlídej koncové **-s**.
-- Stejně tak **I have got** vs. **My dog has got**.
+- Box „LIKES IT?" má dvojice: **I like** ale **My mum likes**. Právě tohle se tu učí — hlídej koncové **-s**.
+- Po **doesn't** už se **-s** nepřidává: *My mum doesn't likeS* je chyba.
 - Když jí to jde, přidej podmínku: k větě musí říct **because**.
+
+**Vzorové věty a celé pravidlo máš v taháku na straně 6.**
 
 ## Strana 5 · Odd one out — 6 min
 **Cíl:** logika + zdůvodnění anglicky. Zakroužkuje slovo, které tam nepatří, a na linku napíše *Because…*

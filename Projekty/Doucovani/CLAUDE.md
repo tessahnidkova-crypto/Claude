@@ -36,6 +36,12 @@ Tessa doučuje. Tenhle projekt drží přípravy na hodiny, materiály a zpětno
 - **Anglická slovíčka a fráze kontroluj.** Chybné slovíčko se dítě naučí jako správné. Když si nejsi jistá vazbou, ověř nebo ji nepoužij.
 - **Časovač je pomůcka, ne diktát.** Když blok baví, ať běží; obětuj vždycky prostřední aktivitu, ne závěr.
 
+## ⚠️ Gotchas — z reálných chyb
+
+- **⚠️ Generátor vět musí projít VŠECHNY kombinace, ne jen ukázkovou.** Když stavíš cvičení ze sloupců („vyber si z každého boxu"), projdi součin všech voleb a ověř, že každá věta dává smysl. *(2026-09-10: strana 4 měla `can` a `have got` v jednom boxu s podstatnými jmény ve druhém → vznikaly nesmysly „I can football", „I have got swimming". Opraveno na `like / don't like` + 3. osoba, kde funguje každá kombinace.)*
+- **⚠️ Řešení patří k listu od začátku, ne až na vyžádání.** Tessa potřebuje vědět nejen co říct, ale i co je správná odpověď — u každého cvičení. Vyrob klíč rovnou.
+- **⚠️ Při generování HTML skriptem zkontroluj, že vznikl uzavřený `</style>`.** Bez něj se celý dokument vykreslí jako CSS a PDF vyjde prázdné — a to na náhledu vypadá jako „bílá stránka", ne jako chyba. *(2026-09-10)*
+
 ## Kam co
 
 - `Outputs/Rozarka/` — hotové hodiny:
