@@ -12,21 +12,25 @@ Tessa doučuje. Tenhle projekt drží přípravy na hodiny, materiály a zpětno
 
 - **30 minut, online.** Tessa sdílí obrazovku a promítá jí soubor — příprava proto musí být **vizuální a klikací**, ne text ke čtení.
 - **Úroveň:** průměr páté třídy (≈ A1). Zvládne jednoduché věty, přítomný čas, základní slovní zásobu (rodina, škola, jídlo, zvířata). Minulý čas jen jako naučené fráze.
-- **Formát přípravy:** jedna HTML stránka publikovaná jako artifact → Tessa otevře odkaz v prohlížeči a promítá. Zdroj vždy commitnutý v `Outputs/Rozarka/`.
+- **Formát přípravy: PDF pro GoodNotes.** Tessa ho otevře v GoodNotes a sdílí okno — Rozárka do něj **píše perem**. Každá aktivita proto musí mít linku, rámeček nebo něco k zakroužkování.
+- **Vyrábí se z HTML přes headless Chromium** (postup: `nastroje/html-na-pdf.md`). Zdrojové HTML i PDF commitni do `Outputs/Rozarka/`.
+- **Formát: A4 na šířku, velké písmo** (otázky ≥ 20 pt) — čte se to přes videohovor na malé obrazovce.
 - **Struktura 30 minut:** 6 bloků po 3–6 minutách. Vždy začít rozmluvením, skončit úkolem a rozloučením. Uprostřed musí být aspoň jedna hra.
 - **Motivace:** hvězdičkové počítadlo na stránce. Sbírá hvězdy za splněné úkoly.
 
 ## Pravidla pro přípravy
 
 - **Ne prezentace, ale nástroj.** Každý blok má na obrazovce něco, na co se dá kliknout — karta, tlačítko, generátor.
-- **Poznámky pro učitele patří do sklápěcího panelu** (default zavřený) — Tessa sdílí obrazovku, Rozárka by je viděla.
+- **V listu není ani slovo pro učitele.** Žádné „Rozárka odpoví…", žádné české pokyny pro Tessu, žádné odpovědi. Rozárka to celé vidí. Instrukce v listu jsou anglicky a **oslovují ji** („Circle one word from each box").
+- **Scénář a klíč jsou vždy samostatný markdown**, který se nesdílí.
 - **Anglická slovíčka a fráze kontroluj.** Chybné slovíčko se dítě naučí jako správné. Když si nejsi jistá vazbou, ověř nebo ji nepoužij.
 - **Časovač je pomůcka, ne diktát.** Když blok baví, ať běží; obětuj vždycky prostřední aktivitu, ne závěr.
 
 ## Kam co
 
-- `Outputs/Rozarka/` — hotové hodiny (HTML zdroj, `RRRR-MM-DD-nazev.html`)
+- `Outputs/Rozarka/` — hotové hodiny: `…nazev.pdf` (to se promítá), `…nazev-ZDROJ.html` (z toho se PDF vyrábí), `…scenar-pro-ucitele.md` (klíč, nesdílet)
 - `Process/` — rozpracované nápady, banky aktivit
 - `Feedback/Rozarka/` — jak hodina dopadla, co nefungovalo, co umí a co ne
 - `Inputs/` — co dodá rodič nebo škola (učebnice, zadání od učitelky)
+- `nastroje/` — technické postupy (výroba PDF)
 - `LOG.md` — jedna řádka na hodinu
