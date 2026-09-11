@@ -2,6 +2,9 @@
 
 **Založeno:** 2026-09-11 · **Verze:** 1.0 · **Přepisuje se, nezakládá se nová**
 
+📄 **Zkrácená karta do posilovny (Google dokument):** https://docs.google.com/document/d/1m4OvjMFg-3sNbETqi4pIBS8Q2qoXKokbDfN4Qjkq_d8/edit
+> Karta je **export**, tenhle soubor je **zdroj**. Když se plán mění, edituje se tenhle markdown a karta se přegeneruje — ne naopak.
+
 > ⚠️ **Nejsem lékař.** Tohle je obecný tréninkový a výživový plán postavený na publikovaném výzkumu, ne zdravotní doporučení. Když se objeví bolest (ne svalovka), závrať, poruchy menstruačního cyklu nebo cokoli, co nesedí → lékař, ne tenhle soubor.
 >
 > 🏷️ **Značení zdrojů:** `[obecné znalosti]` = z mé paměti, opřeno o publikovaný výzkum, neověřeno proti konkrétnímu zdroji, který bys mi dala. `[⚠️ ověřit]` = nejistá věc. Žádné tvrzení tady není z tvých materiálů, protože žádné tréninkové materiály zatím ve vaultu nejsou.
