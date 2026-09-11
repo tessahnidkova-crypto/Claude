@@ -2,7 +2,8 @@
 
 **Založeno:** 2026-09-11 · **Verze:** 1.0 · **Přepisuje se, nezakládá se nová**
 
-📄 **Zkrácená karta do posilovny (Google dokument):** https://docs.google.com/document/d/1m4OvjMFg-3sNbETqi4pIBS8Q2qoXKokbDfN4Qjkq_d8/edit
+📄 **Karta do posilovny (Google dokument):** https://docs.google.com/document/d/1noLXF_ml1x9d7YwT8zyZ9NnlV1WZH1PC3qCoR40L_vM/edit
+🏋️ **Interaktivní artefakt:** https://claude.ai/code/artifact/2c7037b0-2645-4ea9-b02a-106042031e57 — zdroj: `Outputs/rekompozice-blok-I.html`
 > Karta je **export**, tenhle soubor je **zdroj**. Když se plán mění, edituje se tenhle markdown a karta se přegeneruje — ne naopak.
 
 > ⚠️ **Nejsem lékař.** Tohle je obecný tréninkový a výživový plán postavený na publikovaném výzkumu, ne zdravotní doporučení. Když se objeví bolest (ne svalovka), závrať, poruchy menstruačního cyklu nebo cokoli, co nesedí → lékař, ne tenhle soubor.
@@ -18,8 +19,8 @@
 | Tréninkových dní týdně | **5** (zvoleno 2026-09-11) |
 | Běh — současná úroveň | uběhne **3–5 km** |
 | Priorita | **hubnout, svaly udržet** |
-| Lokace do konce září | doma u rodičů — **klec (power rack)** |
-| Lokace od října | **Plzeň** — jednoručky 5 / 8 / 10 / 24 kg |
+| Lokace do konce září | doma u rodičů — **klec (power rack)** + jednoručky **2–40 kg** + jedna **15 kg** |
+| Lokace od října | **Plzeň** — jednoručky 5 / 8 / 10 / 24 kg **+ sada 2–40 kg, kterou si veze z domova** |
 
 ### ❌ K DOPLNĚNÍ — bez toho je výživová část neúplná
 
@@ -27,7 +28,9 @@
 - [ ] **Věk**
 - [ ] **Jak dlouho a jak těžce už trénuješ** — rozhoduje, jestli je růst svalů v deficitu reálný, nebo jen udržení
 - [ ] **Co přesně je „ta klec"** — je tam velká činka (osa) a kotouče? lavice? hrazda? Plán níž to předpokládá.
-- [ ] **Jednoručky v Plzni — jsou to páry, nebo kusy?** Zvlášť těch 24 kg. Mění to půlku plánu.
+- [ ] **Sada 2–40 kg — jsou to nakládací jednoručky s kotouči, nebo sada pevných?** A je 40 kg **na jednu ruku**, nebo dohromady? Plán níž předpokládá nakládací pár, max ~40 kg na ruku.
+- [ ] **Těch 15 kg u rodičů — jednoručka, nebo kettlebell?** Kettlebell umí věci navíc (švihy, nošení).
+- [ ] **Vezmeš celou sadu do Plzně, nebo jen část?** Nakládací sada s kotouči do 40 kg váží dost — stěhování není maličkost.
 - [ ] **Caroline Girvan FUEL + IRON** — tu zprávu nemám, nezachovala se. Pošli znovu (screenshot rozpisu stačí) a zapracuju to.
 
 **⚠️ Proč to zmizelo:** cokoli je jen v chatu, je pryč. Trvalé věci patří do tohohle repa. Proto tenhle soubor existuje.
@@ -146,20 +149,24 @@ Hip thrust 3×15 · boční rozpažky 3×20 · přítahy 3×12 · kliky 3× max 
 
 ---
 
-## 4. Rozpis B — PLZEŇ (jednoručky 5 / 8 / 10 / 24 kg)
+## 4. Rozpis B — PLZEŇ (sada 2–40 kg + jednoručky 5 / 8 / 10 / 24 kg)
 
-### ⚠️ Nejdřív ten problém
+### ✅ Sada 2–40 kg mění všechno
 
-10 kg → 24 kg je propast. Na horní část těla si s tím vystačíš dlouho. **Na nohy je 10 kg za 3–4 týdny nulová zátěž a 24 kg je pro leccos moc.** Bez řešení se dolní část těla zastaví.
+Původní verze tohohle plánu řešila, čím zaplnit díru mezi 10 a 24 kg. **Ta díra zmizela.** S nakládacími jednoručkami 2–40 kg máš v Plzni prakticky plnohodnotnou domácí posilovnu a rozpis B se může skoro krýt s rozpisem A.
 
-**Řešení, seřazená podle poměru cena/efekt:**
+**Co ti v Plzni oproti kleci pořád chybí — a co s tím:**
 
-| Řešení | Cena | Co to vyřeší |
+| Chybí | Dopad | Řešení |
 |---|---|---|
-| 🥇 **Sada odporových gum** (loop + dlouhé s rukojeťmi) | ~500–900 Kč | Zaplní mezeru 10–24 kg, přidá abdukce, tahy, ramena. **Největší efekt za nejmíň peněz.** |
-| 🥈 **Nastavitelná jednoručka** (2–24 kg) | ~2 500–5 000 Kč | Vyřeší to úplně a natrvalo. |
-| 🥉 **Batoh + knihy / lahve s vodou** | 0 Kč | Nouzovka, ale funguje na dřepy, výpady, hip thrust. |
-| **Studentská posilovna v Plzni** | ? | `[⚠️ ověřit]` — nevím, co konkrétně UK v Plzni nabízí. Zjisti na fakultě; studentská permanentka bývá levná a vyřešila by úplně všechno. |
+| **Hrazda** (svislé přítahy) | 🔴 Největší mezera. Shyby nenahradíš ničím úplně. | **Hrazda do zárubně, ~400–800 Kč.** Tohle je teď investice č. 1. |
+| **Úchop u těžkých tahů** | 🟠 Nad ~25 kg na ruku ti u RDL a přítahů povolí ruce dřív než záda a nohy. | **Trhačky (popruhy), ~200 Kč.** Investice č. 2 — levná a okamžitě znát. |
+| **Lavice** | 🟡 Bench press, šikmé tlaky. | Floor press na zemi + gauč na hip thrust a bulharské dřepy. Lavice až když zbudou peníze. |
+| **Velká činka** (těžký dřep, mrtvý tah) | 🟡 Jednoruční varianty mají strop v úchopu, ne ve svalu. | Jednostranné cviky + tempo. **Tohle doháníš o víkendech v kleci u rodičů.** |
+
+**⚠️ Praktická poznámka ke stěhování:** nakládací sada do 40 kg s kotouči váží desítky kilo. Když se nevejde všechno, ber **osy + střední kotouče** (1,25 / 2,5 / 5 kg) — právě ty dělají jemnou progresi. Pevné 5/8/10/24 kg už v Plzni jsou.
+
+**Odporové gumy** (dřív doporučení č. 1) jsou teď **volitelné** — hodí se na odnožování, face pully a rozcvičení, ne jako hlavní zátěž.
 
 ### Jak přetěžovat s pevnými váhami — 5 nástrojů
 
@@ -173,31 +180,61 @@ Když nemůžeš přidat kilo, přidáš tohle `[obecné znalosti]`:
 
 ### Dolní A — Plzeň
 
-| # | Cvik | Série × opak. | Váha |
+| # | Cvik | Série × opak. | RIR |
 |---|---|---|---|
-| 1 | Bulharský dřep (zadní noha na židli) | 4 × 8–12 / noha | 2× 10 kg nebo 24 kg goblet |
-| 2 | Goblet dřep, tempo 3-1-1 | 3 × 10–15 | 24 kg |
-| 3 | Rumunský mrtvý tah na jedné noze | 3 × 10–12 / noha | 10–24 kg |
-| 4 | Hip thrust zády o gauč, činka na klíně | 4 × 12–20 | 24 kg |
-| 5 | Výstupy na židli (step-up) | 3 × 10 / noha | 2× 8–10 kg |
-| 6 | Výpony na lýtka jednonož | 3 × 15–20 | 24 kg |
+| 1 | Bulharský dřep (zadní noha na gauči) | 4 × 8–12 / noha | 1–2 |
+| 2 | Goblet dřep nebo dřep s jednoručkami u ramen | 4 × 8–12 | 2 |
+| 3 | Rumunský mrtvý tah s jednoručkami | 3 × 8–12 | 2 |
+| 4 | Hip thrust zády o gauč | 4 × 10–15 | 1 |
+| 5 | Výstupy na židli | 3 × 10 / noha | 1 |
+| 6 | Výpony na lýtka jednonož | 3 × 15–20 | 0–1 |
 
 ### Dolní B — Plzeň
 
-Výpady chůzí 4×12/noha · Nordic curl o postel 3×5–10 · hip thrust jednonož 3×15/noha · dřep s pauzou 2 s dole 3×15 · hýžďový most s gumou 3×20 · side plank 3×45 s
+| # | Cvik | Série × opak. | RIR |
+|---|---|---|---|
+| 1 | Rumunský mrtvý tah, těžce (trhačky) | 4 × 6–10 | 2 |
+| 2 | Hip thrust zády o gauč, těžce | 4 × 8–12 | 1 |
+| 3 | Výpady chůzí | 3 × 10–12 / noha | 1 |
+| 4 | Nordic curl o postel (dopomoc) | 3 × 5–10 | 1 |
+| 5 | Dřep s pauzou 2 s dole | 3 × 12–15 | 1 |
+| 6 | Side plank / pallof press s gumou | 3 × 30–45 s | — |
 
-### Horní A / B — Plzeň
+### Horní A — Plzeň (tlaky)
 
-Horní partie fungují s jednoručkami skoro beze ztráty:
+| # | Cvik | Série × opak. | RIR |
+|---|---|---|---|
+| 1 | Floor press s jednoručkami | 4 × 6–10 | 2 |
+| 2 | Tlak jednoruček nad hlavu | 4 × 6–10 | 2 |
+| 3 | Přítahy jednoruč v předklonu | 3 × 8–12 / ruka | 1–2 |
+| 4 | Kliky (nohy na židli) | 3 × max | 0–1 |
+| 5 | Boční rozpažky | 3 × 12–20 | 0–1 |
+| 6 | Triceps — francouzský tlak vleže | 3 × 10–15 | 0–1 |
 
-- **Tlaky:** kliky (nohy nahoře / diamantové / s pauzou) · tlak jednoruček nad hlavu 2×10 kg · tlak na zemi (floor press) 24 kg jednoruč
-- **Tahy:** přítahy jednoruč 24 kg (tady je 24 kg akorát) · přítahy v předklonu 2×10 kg · přítahy pod stolem (inverted row) · přítahy s gumou
-- **Ramena:** boční rozpažky 5–8 kg (víc nepotřebuješ) · rozpažky v předklonu 5 kg
-- **Paže:** bicepsový zdvih 8–10 kg · francouzský tlak 10 kg · kliky mezi židlemi
+### Horní B — Plzeň (tahy)
 
-**⚠️ Na horní tělo ti 24 kg jednoruč vystačí dlouho — u přítahů a floor pressu je to poctivá váha. Problém je opravdu jen dolní tělo.**
+| # | Cvik | Série × opak. | RIR |
+|---|---|---|---|
+| 1 | Shyby na hrazdě do zárubně *(až ji koupíš)* nebo přítahy jednoruč těžce | 4 × 5–10 | 1–2 |
+| 2 | Tlak jednoruček nad hlavu, těžce | 4 × 6–8 | 2 |
+| 3 | Přítahy obouruč v předklonu | 3 × 8–12 | 1–2 |
+| 4 | Přítahy pod stolem (inverted row) | 3 × max | 1 |
+| 5 | Rozpažky v předklonu / face pull s gumou | 3 × 15–20 | 0–1 |
+| 6 | Biceps — zdvihy s jednoručkami | 3 × 10–15 | 0–1 |
 
----
+### Sobota — Plzeň, lehký (45 min)
+
+Hip thrust 3×15 · boční rozpažky 3×20 · přítahy jednoruč 3×12 · kliky 3× max · odnožování 3×20 · mrtvý brouk 3×
+
+### Kam která váha spadne (orientačně, ne předpis)
+
+| Rozsah | Typicky |
+|---|---|
+| **2–10 kg** | boční rozpažky, rozpažky v předklonu, rotátory |
+| **10–25 kg** | tlaky nad hlavu, bicepsy, tricepsy, goblet dřep |
+| **25–40 kg** | přítahy jednoruč, RDL, hip thrust, bulharský dřep, floor press |
+
+**⚠️ Nad ~25 kg na ruku ti u tahů povolí úchop dřív než sval.** To není slabost zad — je to limit prstů. Trhačky za 200 Kč to vyřeší a odemknou ti horní třetinu sady.
 
 ## 5. Běh a cardio
 
@@ -390,6 +427,6 @@ Co k tomu můžu říct poctivě `[obecné znalosti — obecná charakteristika 
 1. **Pošli mi váhu, výšku, věk** → doplním do sekce 6 konkrétní čísla místo vzorců.
 2. **Pošli Girvan FUEL + IRON** (screenshot) → zapracuju.
 3. **Odpověz, co je v té kleci** (osa? kotouče? lavice? hrazda?) → upravím rozpis A.
-4. **Objednej odporové gumy** do Plzně (~500–900 Kč). Nejlepší investice z celého plánu.
+4. **Objednej hrazdu do zárubně** (~400–800 Kč) **a trhačky** (~200 Kč) do Plzně. Dohromady pod tisícovku a vyřeší obě zbylé mezery.
 5. **Začni** — tenhle týden Dolní A, RIR 3, lehčí, než si myslíš, že zvládneš. Zapiš každou váhu.
 

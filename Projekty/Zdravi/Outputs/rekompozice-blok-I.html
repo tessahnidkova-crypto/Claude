@@ -1,0 +1,797 @@
+<title>Rekompozice I</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@75..125,400..800&family=IBM+Plex+Mono:wght@400;500;600&family=Source+Sans+3:ital,wght@0,400;0,600;0,700;1,400&display=swap">
+
+<style>
+:root{
+  --paper:#FAFCFB;
+  --surface:#EFF5F2;
+  --surface-2:#E4EDE8;
+  --ink:#14201D;
+  --ink-soft:#3B4D48;
+  --muted:#637973;
+  --line:#D4E1DC;
+  --line-strong:#B3C7C0;
+  --accent:#1B6B5F;
+  --accent-ink:#12534A;
+  --accent-wash:#DFEFEA;
+  --crit:#9C3628;
+  --crit-wash:#F8E9E6;
+  --rest:#7E8FA0;
+  --rest-wash:#E8ECF1;
+
+  --f-display:"Archivo","Helvetica Neue",Arial,sans-serif;
+  --f-body:"Source Sans 3","Segoe UI",system-ui,sans-serif;
+  --f-mono:"IBM Plex Mono",ui-monospace,"SFMono-Regular",Menlo,monospace;
+
+  --wrap:880px;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --paper:#0E1514;
+    --surface:#161F1D;
+    --surface-2:#1D2926;
+    --ink:#E8EFEC;
+    --ink-soft:#BDCCC7;
+    --muted:#8EA49E;
+    --line:#26332F;
+    --line-strong:#3A4C46;
+    --accent:#5CC6B0;
+    --accent-ink:#8FDCCA;
+    --accent-wash:#132E2A;
+    --crit:#E4907C;
+    --crit-wash:#2E1B17;
+    --rest:#8497A9;
+    --rest-wash:#1A2026;
+  }
+}
+:root[data-theme="dark"]{
+  --paper:#0E1514;
+  --surface:#161F1D;
+  --surface-2:#1D2926;
+  --ink:#E8EFEC;
+  --ink-soft:#BDCCC7;
+  --muted:#8EA49E;
+  --line:#26332F;
+  --line-strong:#3A4C46;
+  --accent:#5CC6B0;
+  --accent-ink:#8FDCCA;
+  --accent-wash:#132E2A;
+  --crit:#E4907C;
+  --crit-wash:#2E1B17;
+  --rest:#8497A9;
+  --rest-wash:#1A2026;
+}
+
+*{box-sizing:border-box}
+body{
+  background:var(--paper);
+  color:var(--ink);
+  font-family:var(--f-body);
+  font-size:16px;
+  line-height:1.55;
+  padding-inline:16px;
+  padding-block:0 64px;
+  -webkit-text-size-adjust:100%;
+}
+.wrap{max-width:var(--wrap);margin-inline:auto}
+
+/* ---------- typografie ---------- */
+h1,h2,h3{font-family:var(--f-display);text-wrap:balance;margin:0}
+h1{
+  font-size:clamp(2.4rem,9vw,4rem);
+  font-weight:800;
+  font-stretch:112%;
+  letter-spacing:-.02em;
+  line-height:.95;
+}
+h2{
+  font-size:clamp(1.3rem,4vw,1.7rem);
+  font-weight:700;
+  font-stretch:105%;
+  letter-spacing:-.01em;
+  line-height:1.15;
+}
+h3{
+  font-size:1.02rem;
+  font-weight:700;
+  font-stretch:100%;
+  letter-spacing:-.005em;
+}
+p{margin:0}
+a{color:var(--accent-ink)}
+
+.eyebrow{
+  font-family:var(--f-display);
+  font-size:.72rem;
+  font-weight:700;
+  font-stretch:122%;
+  letter-spacing:.14em;
+  text-transform:uppercase;
+  color:var(--muted);
+}
+.mono{font-family:var(--f-mono);font-variant-numeric:tabular-nums}
+
+/* ---------- hlavička ---------- */
+header{
+  padding-block:44px 30px;
+  border-bottom:2px solid var(--ink);
+  display:flex;
+  flex-direction:column;
+  gap:16px;
+}
+.lede{
+  font-size:1.12rem;
+  color:var(--ink-soft);
+  max-width:54ch;
+}
+.lede b{color:var(--ink)}
+.facts{
+  display:flex;
+  flex-wrap:wrap;
+  gap:0;
+  margin-top:6px;
+  border-top:1px solid var(--line);
+}
+.fact{
+  flex:1 1 116px;
+  padding:12px 14px 12px 0;
+  border-right:1px solid var(--line);
+  display:flex;
+  flex-direction:column;
+  gap:1px;
+}
+.fact:last-child{border-right:0}
+.fact dt{
+  font-family:var(--f-display);
+  font-size:.66rem;
+  font-weight:700;
+  font-stretch:120%;
+  letter-spacing:.12em;
+  text-transform:uppercase;
+  color:var(--muted);
+}
+.fact dd{
+  margin:0;
+  font-family:var(--f-mono);
+  font-size:1.15rem;
+  font-weight:600;
+  font-variant-numeric:tabular-nums;
+}
+
+/* ---------- sekce ---------- */
+section{padding-block:40px;border-bottom:1px solid var(--line)}
+section:last-of-type{border-bottom:0}
+.shead{display:flex;flex-direction:column;gap:6px;margin-bottom:22px}
+.shead p{color:var(--muted);max-width:62ch}
+
+/* ---------- týdenní pás ---------- */
+.week{display:grid;gap:1px;background:var(--line);border:1px solid var(--line)}
+.day{
+  background:var(--paper);
+  padding:11px 13px;
+  display:grid;
+  grid-template-columns:42px 1fr;
+  align-items:baseline;
+  gap:12px;
+}
+.day--rest{background:var(--surface)}
+.dcode{
+  font-family:var(--f-display);
+  font-weight:800;
+  font-stretch:118%;
+  font-size:.82rem;
+  letter-spacing:.08em;
+  text-transform:uppercase;
+  color:var(--accent-ink);
+}
+.day--rest .dcode{color:var(--rest)}
+.dname{font-weight:600;font-size:.96rem}
+.dsub{color:var(--muted);font-size:.86rem;display:block;font-weight:400}
+@media (min-width:640px){
+  .week{grid-template-columns:repeat(7,1fr)}
+  .day{grid-template-columns:1fr;gap:7px;min-height:108px;align-content:start}
+  .dname{font-size:.88rem;line-height:1.25}
+  .dsub{font-size:.78rem}
+}
+
+/* ---------- pravidla ---------- */
+.rules{list-style:none;padding:0;margin:0;counter-reset:r;display:flex;flex-direction:column}
+.rules li{
+  counter-increment:r;
+  display:grid;
+  grid-template-columns:38px 1fr;
+  gap:16px;
+  padding:16px 0;
+  border-top:1px solid var(--line);
+  align-items:start;
+}
+.rules li:last-child{border-bottom:1px solid var(--line)}
+.rules li::before{
+  content:counter(r);
+  font-family:var(--f-mono);
+  font-size:1.5rem;
+  font-weight:600;
+  color:var(--accent);
+  line-height:1.05;
+}
+.rules b{display:block;font-size:1.04rem}
+.rules span{color:var(--ink-soft);font-size:.95rem}
+
+/* ---------- přepínač místa ---------- */
+.tabs{display:flex;gap:0;border:1px solid var(--ink);margin-bottom:8px;width:fit-content;max-width:100%}
+.tab{
+  font-family:var(--f-display);
+  font-size:.8rem;
+  font-weight:700;
+  font-stretch:112%;
+  letter-spacing:.06em;
+  text-transform:uppercase;
+  padding:11px 18px;
+  background:transparent;
+  color:var(--ink);
+  border:0;
+  border-right:1px solid var(--ink);
+  cursor:pointer;
+  line-height:1.2;
+}
+.tab:last-child{border-right:0}
+.tab[aria-selected="true"]{background:var(--ink);color:var(--paper)}
+.tab:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.tabnote{color:var(--muted);font-size:.9rem;margin-bottom:26px;max-width:62ch}
+
+/* ---------- tréninkové bloky ---------- */
+.session{margin-top:32px}
+.shdr{
+  display:flex;
+  align-items:baseline;
+  gap:11px;
+  flex-wrap:wrap;
+  padding-bottom:9px;
+  border-bottom:2px solid var(--ink);
+}
+.chip{
+  font-family:var(--f-display);
+  font-size:.68rem;
+  font-weight:800;
+  font-stretch:122%;
+  letter-spacing:.1em;
+  text-transform:uppercase;
+  background:var(--accent-wash);
+  color:var(--accent-ink);
+  padding:3px 8px;
+}
+.shdr .focus{color:var(--muted);font-size:.88rem;margin-left:auto}
+
+.tscroll{overflow-x:auto}
+table{border-collapse:collapse;width:100%;min-width:340px}
+th,td{text-align:left;padding:9px 10px 9px 0;border-bottom:1px solid var(--line);vertical-align:baseline}
+th{
+  font-family:var(--f-display);
+  font-size:.66rem;
+  font-weight:700;
+  font-stretch:120%;
+  letter-spacing:.11em;
+  text-transform:uppercase;
+  color:var(--muted);
+  padding-top:11px;
+}
+td:first-child,th:first-child{width:100%}
+.num{
+  font-family:var(--f-mono);
+  font-variant-numeric:tabular-nums;
+  white-space:nowrap;
+  font-size:.9rem;
+}
+td.num{color:var(--ink-soft)}
+.hint{color:var(--muted);font-size:.86rem;margin-top:9px;font-style:italic}
+
+/* ---------- výstražné bloky ---------- */
+.note{
+  border-left:3px solid var(--accent);
+  background:var(--surface);
+  padding:14px 16px;
+  margin-top:22px;
+  font-size:.95rem;
+  color:var(--ink-soft);
+}
+.note b{color:var(--ink)}
+.note--crit{border-left-color:var(--crit);background:var(--crit-wash)}
+.note--crit b{color:var(--crit)}
+.note p + p{margin-top:9px}
+
+/* ---------- žebřík zátěže ---------- */
+.ladder{margin-top:26px}
+.ltrack{position:relative;height:8px;background:var(--surface-2);margin-block:34px 0}
+.lzone{position:absolute;top:0;height:8px}
+.lzone:nth-child(1){background:var(--line-strong)}
+.lzone:nth-child(2){background:var(--accent);opacity:.45}
+.lzone:nth-child(3){background:var(--accent)}
+.ltick{position:absolute;top:-26px;font-family:var(--f-mono);font-size:.76rem;font-weight:600;color:var(--ink-soft);white-space:nowrap}
+.ltick::after{content:"";position:absolute;left:0;top:20px;width:1px;height:8px;background:var(--line-strong)}
+.lkeys{display:flex;flex-direction:column;margin-top:18px;border-top:1px solid var(--line)}
+.lkey{display:grid;grid-template-columns:82px 1fr;gap:14px;padding:10px 0;border-bottom:1px solid var(--line);font-size:.93rem}
+.lkey b{font-family:var(--f-mono);font-variant-numeric:tabular-nums;font-size:.88rem;color:var(--accent-ink)}
+.lkey span{color:var(--ink-soft)}
+
+/* ---------- výpočet ---------- */
+.calc{
+  background:var(--surface);
+  border:1px solid var(--line);
+  padding:18px 18px 16px;
+  margin-top:20px;
+  display:flex;
+  flex-direction:column;
+  gap:14px;
+}
+.crow{display:flex;flex-direction:column;gap:5px}
+.clabel{
+  font-family:var(--f-display);
+  font-size:.66rem;font-weight:700;font-stretch:120%;
+  letter-spacing:.11em;text-transform:uppercase;color:var(--muted);
+}
+.cform{font-family:var(--f-mono);font-size:.92rem;color:var(--ink);overflow-x:auto;white-space:nowrap;padding-bottom:3px}
+
+/* ---------- 12týdenní blok ---------- */
+.phases{display:grid;grid-template-columns:repeat(12,1fr);gap:2px;margin-bottom:3px}
+.pw{
+  aspect-ratio:1/1.15;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  font-family:var(--f-mono);
+  font-size:.72rem;
+  font-weight:600;
+  font-variant-numeric:tabular-nums;
+}
+.pw--learn{background:var(--surface-2);color:var(--ink-soft)}
+.pw--prog{background:var(--accent);opacity:.5;color:var(--paper)}
+.pw--peak{background:var(--accent);color:var(--paper)}
+.pw--deload{background:var(--crit);color:#fff}
+.plegend{display:flex;flex-wrap:wrap;gap:8px 20px;margin-top:16px;font-size:.88rem;color:var(--ink-soft)}
+.plegend span{display:flex;align-items:center;gap:7px}
+.swatch{width:12px;height:12px;flex:none}
+
+/* ---------- chybějící údaje ---------- */
+.todo{list-style:none;padding:0;margin:0;display:flex;flex-direction:column}
+.todo li{
+  padding:13px 0 13px 26px;
+  border-bottom:1px solid var(--line);
+  position:relative;
+  font-size:.97rem;
+}
+.todo li:first-child{border-top:1px solid var(--line)}
+.todo li::before{
+  content:"";
+  position:absolute;left:0;top:18px;
+  width:11px;height:11px;
+  border:1.5px solid var(--crit);
+}
+.todo b{display:block}
+.todo span{color:var(--muted);font-size:.9rem}
+
+/* ---------- patička ---------- */
+footer{padding-block:36px 0;border-top:2px solid var(--ink);color:var(--muted);font-size:.88rem;display:flex;flex-direction:column;gap:14px}
+footer b{color:var(--ink-soft)}
+code{font-family:var(--f-mono);font-size:.86em;background:var(--surface-2);padding:1px 5px}
+
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+</style>
+
+<div class="wrap">
+
+<header>
+  <p class="eyebrow">Blok I · 12 týdnů · od 11. září 2026</p>
+  <h1>Rekompozice</h1>
+  <p class="lede">Hubnout, a přitom si <b>udržet sval</b> — pět silových tréninků a dva běhy týdně, ve dvou režimech podle toho, jestli jsi u rodičů v kleci, nebo v Plzni s činkami.</p>
+  <dl class="facts">
+    <div class="fact"><dt>Silových</dt><dd>5×</dd></div>
+    <div class="fact"><dt>Běhů</dt><dd>2×</dd></div>
+    <div class="fact"><dt>RIR</dt><dd>3 → 1</dd></div>
+    <div class="fact"><dt>Deload</dt><dd>7. týden</dd></div>
+    <div class="fact"><dt>Tempo úbytku</dt><dd>0,4–0,6 kg</dd></div>
+  </dl>
+</header>
+
+<section>
+  <div class="shead">
+    <p class="eyebrow">Páteř plánu</p>
+    <h2>Týden</h2>
+    <p>Každá partie dvakrát týdně. Intervaly ve středu, aby se nohy stihly zotavit na páteční trénink. Sobota je záměrně lehká — pátý den nesmí být pátý těžký den.</p>
+  </div>
+  <div class="week">
+    <div class="day"><span class="dcode">Po</span><span class="dname">Dolní A<span class="dsub">kvadricepsy</span></span></div>
+    <div class="day"><span class="dcode">Út</span><span class="dname">Horní A<span class="dsub">tlaky</span></span></div>
+    <div class="day day--rest"><span class="dcode">St</span><span class="dname">Intervaly<span class="dsub">běh + mobilita</span></span></div>
+    <div class="day"><span class="dcode">Čt</span><span class="dname">Horní B<span class="dsub">tahy</span></span></div>
+    <div class="day"><span class="dcode">Pá</span><span class="dname">Dolní B<span class="dsub">hamstringy, hýždě</span></span></div>
+    <div class="day"><span class="dcode">So</span><span class="dname">Doplňkový<span class="dsub">lehký + zóna 2</span></span></div>
+    <div class="day day--rest"><span class="dcode">Ne</span><span class="dname">Volno<span class="dsub">dlouhá chůze</span></span></div>
+  </div>
+  <div class="note">
+    <p><b>Až přijde zkouškové, tenhle rozpis padne.</b> Není to selhání, je to jistota — farmakologie, patofyziologie a patologie ti ho rozbijí. Nespadni ale na nulu: <b>2 celotělové tréninky týdně, 45 minut</b>, pět cviků — dřep, tlak, tah, hip thrust, core.</p>
+    <p>Dva tréninky týdně svalovou hmotu <b>udrží</b>. Nula ji za měsíc sundá. Rozdíl mezi 2 a 0 je větší než mezi 5 a 2.</p>
+  </div>
+</section>
+
+<section>
+  <div class="shead">
+    <p class="eyebrow">Seřazeno podle skutečné důležitosti</p>
+    <h2>Pět věcí, které se drží vždycky</h2>
+    <p>Když všechno ostatní padne, drží se tohle. Pořadí není náhodné — jednička rozhoduje nejvíc.</p>
+  </div>
+  <ol class="rules">
+    <li><div><b>Bílkoviny každý den</b><span>1,8–2,2 g na kilo váhy. Ne průměr za týden — každý den. Jediná věc, která v deficitu rozhoduje, jestli ubude tuk, nebo sval.</span></div></li>
+    <li><div><b>Zapiš každý trénink</b><span>Váha × opakování, sešit nebo poznámky v mobilu. Když nevíš, kolik jsi dala minule, nemůžeš přidat. Progrese bez záznamu je náhoda.</span></div></li>
+    <li><div><b>8–10 tisíc kroků denně</b><span>Větší páka na hubnutí než oba běhy dohromady. A v deficitu klesá sama od sebe — proto ji musíš hlídat vědomě.</span></div></li>
+    <li><div><b>Spánek 7–8 hodin</b><span>Při málo spánku jde větší podíl úbytku ze svalu místo z tuku. A u tebe navíc: hůř se učíš.</span></div></li>
+    <li><div><b>Nikdy nespadni na nulu</b><span>Ve zkouškovém dva celotělové tréninky. Nikdy nevynechej dvakrát za sebou.</span></div></li>
+  </ol>
+  <div class="note note--crit">
+    <p><b>Běh tě nezhubne.</b> Pořadí vlivu je: deficit → bílkoviny → silový trénink → kroky → spánek → <em>až pak cardio</em>. Kdo hubne během, přidá si únavu, ztratí sílu v posilovně a s ní i sval. Běh je tady kvůli srdci a kondici, ne kvůli spalování.</p>
+  </div>
+</section>
+
+<section>
+  <div class="shead">
+    <p class="eyebrow">Rozpisy</p>
+    <h2>Tréninky</h2>
+  </div>
+
+  <div class="tabs" role="tablist" aria-label="Místo tréninku">
+    <button class="tab" id="tab-doma" role="tab" aria-selected="true" aria-controls="p-doma" type="button">Doma · klec</button>
+    <button class="tab" id="tab-plzen" role="tab" aria-selected="false" aria-controls="p-plzen" type="button">Plzeň · činky</button>
+  </div>
+
+  <!-- ============ DOMA ============ -->
+  <div id="p-doma" role="tabpanel" aria-labelledby="tab-doma">
+    <p class="tabnote">Power rack, velká činka s kotouči, lavice, hrazda, jednoručky 2–40 kg a jedna 15 kg. <b>RIR</b> = kolik opakování ti ještě zbývalo do selhání.</p>
+
+    <div class="session">
+      <div class="shdr"><span class="chip">Po</span><h3>Dolní A</h3><span class="focus">kvadricepsy</span></div>
+      <div class="tscroll"><table>
+        <thead><tr><th>Cvik</th><th class="num">Série × opak.</th><th class="num">RIR</th><th class="num">Pauza</th></tr></thead>
+        <tbody>
+          <tr><td>Dřep s velkou činkou</td><td class="num">4 × 5–8</td><td class="num">2</td><td class="num">3 min</td></tr>
+          <tr><td>Rumunský mrtvý tah</td><td class="num">3 × 8–10</td><td class="num">2</td><td class="num">2–3 min</td></tr>
+          <tr><td>Bulharský dřep</td><td class="num">3 × 8–10 /n</td><td class="num">1–2</td><td class="num">90 s</td></tr>
+          <tr><td>Hip thrust s činkou</td><td class="num">3 × 8–12</td><td class="num">1–2</td><td class="num">2 min</td></tr>
+          <tr><td>Výpony na lýtka</td><td class="num">3 × 12–15</td><td class="num">0–1</td><td class="num">60 s</td></tr>
+          <tr><td>Zvedání kolen ve visu</td><td class="num">3 × 10–15</td><td class="num">1</td><td class="num">60 s</td></tr>
+        </tbody>
+      </table></div>
+      <p class="hint">/n = na každou nohu</p>
+    </div>
+
+    <div class="session">
+      <div class="shdr"><span class="chip">Út</span><h3>Horní A</h3><span class="focus">tlaky</span></div>
+      <div class="tscroll"><table>
+        <thead><tr><th>Cvik</th><th class="num">Série × opak.</th><th class="num">RIR</th><th class="num">Pauza</th></tr></thead>
+        <tbody>
+          <tr><td>Bench press</td><td class="num">4 × 6–8</td><td class="num">2</td><td class="num">3 min</td></tr>
+          <tr><td>Tlak nad hlavu ve stoje</td><td class="num">3 × 6–10</td><td class="num">2</td><td class="num">2–3 min</td></tr>
+          <tr><td>Přítahy velké činky v předklonu</td><td class="num">4 × 8–10</td><td class="num">2</td><td class="num">2 min</td></tr>
+          <tr><td>Shyby (dopomoc, negativní)</td><td class="num">3 × max</td><td class="num">1</td><td class="num">2 min</td></tr>
+          <tr><td>Boční rozpažky</td><td class="num">3 × 12–20</td><td class="num">0–1</td><td class="num">60 s</td></tr>
+          <tr><td>Francouzský tlak</td><td class="num">3 × 10–15</td><td class="num">0–1</td><td class="num">60 s</td></tr>
+        </tbody>
+      </table></div>
+    </div>
+
+    <div class="session">
+      <div class="shdr"><span class="chip">Čt</span><h3>Horní B</h3><span class="focus">tahy</span></div>
+      <div class="tscroll"><table>
+        <thead><tr><th>Cvik</th><th class="num">Série × opak.</th><th class="num">RIR</th><th class="num">Pauza</th></tr></thead>
+        <tbody>
+          <tr><td>Shyby</td><td class="num">4 × 5–8</td><td class="num">1–2</td><td class="num">3 min</td></tr>
+          <tr><td>Tlak nad hlavu</td><td class="num">4 × 6–8</td><td class="num">2</td><td class="num">3 min</td></tr>
+          <tr><td>Přítahy jednoruč v předklonu</td><td class="num">3 × 8–12 /r</td><td class="num">1–2</td><td class="num">90 s</td></tr>
+          <tr><td>Kliky, nohy nahoře</td><td class="num">3 × max</td><td class="num">0–1</td><td class="num">90 s</td></tr>
+          <tr><td>Rozpažky v předklonu</td><td class="num">3 × 15–20</td><td class="num">0–1</td><td class="num">60 s</td></tr>
+          <tr><td>Bicepsové zdvihy</td><td class="num">3 × 10–15</td><td class="num">0–1</td><td class="num">60 s</td></tr>
+        </tbody>
+      </table></div>
+      <p class="hint">/r = na každou ruku</p>
+    </div>
+
+    <div class="session">
+      <div class="shdr"><span class="chip">Pá</span><h3>Dolní B</h3><span class="focus">hamstringy, hýždě</span></div>
+      <div class="tscroll"><table>
+        <thead><tr><th>Cvik</th><th class="num">Série × opak.</th><th class="num">RIR</th><th class="num">Pauza</th></tr></thead>
+        <tbody>
+          <tr><td>Mrtvý tah konvenční</td><td class="num">3 × 4–6</td><td class="num">2–3</td><td class="num">3 min</td></tr>
+          <tr><td>Hip thrust s činkou</td><td class="num">4 × 8–12</td><td class="num">1</td><td class="num">2 min</td></tr>
+          <tr><td>Goblet nebo přední dřep</td><td class="num">3 × 8–12</td><td class="num">1–2</td><td class="num">2 min</td></tr>
+          <tr><td>Nordic curl s dopomocí</td><td class="num">3 × 6–10</td><td class="num">1</td><td class="num">90 s</td></tr>
+          <tr><td>Výpady chůzí</td><td class="num">3 × 10 /n</td><td class="num">0–1</td><td class="num">90 s</td></tr>
+          <tr><td>Pallof press, side plank</td><td class="num">3 × 30–45 s</td><td class="num">—</td><td class="num">45 s</td></tr>
+        </tbody>
+      </table></div>
+    </div>
+
+    <div class="session">
+      <div class="shdr"><span class="chip">So</span><h3>Doplňkový</h3><span class="focus">45 min, žádné selhání</span></div>
+      <p style="margin-top:14px;color:var(--ink-soft)">Hip thrust 3×15 · boční rozpažky 3×20 · přítahy 3×12 · kliky 3× max · odnožování s gumou 3×20 · mrtvý brouk 3×</p>
+    </div>
+  </div>
+
+  <!-- ============ PLZEŇ ============ -->
+  <div id="p-plzen" role="tabpanel" aria-labelledby="tab-plzen" hidden>
+    <p class="tabnote">Jednoručky 5 / 8 / 10 / 24 kg, které tam už jsou, <b>plus nakládací sada 2–40 kg z domova</b>. Tím zmizel strop, o který se plán původně opíral — rozpis se teď skoro kryje s tím domácím.</p>
+
+    <div class="session">
+      <div class="shdr"><span class="chip">Po</span><h3>Dolní A</h3><span class="focus">kvadricepsy</span></div>
+      <div class="tscroll"><table>
+        <thead><tr><th>Cvik</th><th class="num">Série × opak.</th><th class="num">RIR</th></tr></thead>
+        <tbody>
+          <tr><td>Bulharský dřep, zadní noha na gauči</td><td class="num">4 × 8–12 /n</td><td class="num">1–2</td></tr>
+          <tr><td>Goblet dřep nebo dřep s činkami u ramen</td><td class="num">4 × 8–12</td><td class="num">2</td></tr>
+          <tr><td>Rumunský mrtvý tah s jednoručkami</td><td class="num">3 × 8–12</td><td class="num">2</td></tr>
+          <tr><td>Hip thrust zády o gauč</td><td class="num">4 × 10–15</td><td class="num">1</td></tr>
+          <tr><td>Výstupy na židli</td><td class="num">3 × 10 /n</td><td class="num">1</td></tr>
+          <tr><td>Výpony na lýtka jednonož</td><td class="num">3 × 15–20</td><td class="num">0–1</td></tr>
+        </tbody>
+      </table></div>
+      <p class="hint">Pauzy: 2–3 min u prvních tří cviků, 60–90 s u zbytku.</p>
+    </div>
+
+    <div class="session">
+      <div class="shdr"><span class="chip">Út</span><h3>Horní A</h3><span class="focus">tlaky</span></div>
+      <div class="tscroll"><table>
+        <thead><tr><th>Cvik</th><th class="num">Série × opak.</th><th class="num">RIR</th></tr></thead>
+        <tbody>
+          <tr><td>Floor press s jednoručkami</td><td class="num">4 × 6–10</td><td class="num">2</td></tr>
+          <tr><td>Tlak jednoruček nad hlavu</td><td class="num">4 × 6–10</td><td class="num">2</td></tr>
+          <tr><td>Přítahy jednoruč v předklonu</td><td class="num">3 × 8–12 /r</td><td class="num">1–2</td></tr>
+          <tr><td>Kliky, nohy na židli</td><td class="num">3 × max</td><td class="num">0–1</td></tr>
+          <tr><td>Boční rozpažky</td><td class="num">3 × 12–20</td><td class="num">0–1</td></tr>
+          <tr><td>Francouzský tlak vleže</td><td class="num">3 × 10–15</td><td class="num">0–1</td></tr>
+        </tbody>
+      </table></div>
+    </div>
+
+    <div class="session">
+      <div class="shdr"><span class="chip">Čt</span><h3>Horní B</h3><span class="focus">tahy</span></div>
+      <div class="tscroll"><table>
+        <thead><tr><th>Cvik</th><th class="num">Série × opak.</th><th class="num">RIR</th></tr></thead>
+        <tbody>
+          <tr><td>Shyby na hrazdě <em>(až ji koupíš)</em>, jinak těžké přítahy jednoruč</td><td class="num">4 × 5–10</td><td class="num">1–2</td></tr>
+          <tr><td>Tlak jednoruček nad hlavu, těžce</td><td class="num">4 × 6–8</td><td class="num">2</td></tr>
+          <tr><td>Přítahy obouruč v předklonu</td><td class="num">3 × 8–12</td><td class="num">1–2</td></tr>
+          <tr><td>Přítahy pod stolem</td><td class="num">3 × max</td><td class="num">1</td></tr>
+          <tr><td>Rozpažky v předklonu, face pull</td><td class="num">3 × 15–20</td><td class="num">0–1</td></tr>
+          <tr><td>Bicepsové zdvihy</td><td class="num">3 × 10–15</td><td class="num">0–1</td></tr>
+        </tbody>
+      </table></div>
+    </div>
+
+    <div class="session">
+      <div class="shdr"><span class="chip">Pá</span><h3>Dolní B</h3><span class="focus">hamstringy, hýždě</span></div>
+      <div class="tscroll"><table>
+        <thead><tr><th>Cvik</th><th class="num">Série × opak.</th><th class="num">RIR</th></tr></thead>
+        <tbody>
+          <tr><td>Rumunský mrtvý tah těžce, s trhačkami</td><td class="num">4 × 6–10</td><td class="num">2</td></tr>
+          <tr><td>Hip thrust zády o gauč, těžce</td><td class="num">4 × 8–12</td><td class="num">1</td></tr>
+          <tr><td>Výpady chůzí</td><td class="num">3 × 10–12 /n</td><td class="num">1</td></tr>
+          <tr><td>Nordic curl o postel</td><td class="num">3 × 5–10</td><td class="num">1</td></tr>
+          <tr><td>Dřep s pauzou 2 s dole</td><td class="num">3 × 12–15</td><td class="num">1</td></tr>
+          <tr><td>Side plank, pallof press</td><td class="num">3 × 30–45 s</td><td class="num">—</td></tr>
+        </tbody>
+      </table></div>
+    </div>
+
+    <div class="session">
+      <div class="shdr"><span class="chip">So</span><h3>Doplňkový</h3><span class="focus">45 min, žádné selhání</span></div>
+      <p style="margin-top:14px;color:var(--ink-soft)">Hip thrust 3×15 · boční rozpažky 3×20 · přítahy jednoruč 3×12 · kliky 3× max · odnožování 3×20 · mrtvý brouk 3×</p>
+    </div>
+
+    <div class="ladder">
+      <div class="shdr" style="border-bottom-width:1px;margin-top:36px"><h3>Kam která váha spadne</h3><span class="focus">orientačně, ne předpis</span></div>
+      <div class="ltrack" role="img" aria-label="Rozsah jednoruček 2 až 40 kilogramů rozdělený na tři pásma: 2 až 10 kg izolované cviky, 10 až 25 kg tlaky a paže, 25 až 40 kg velké tahy a nohy.">
+        <div class="lzone" style="left:0;width:21.05%"></div>
+        <div class="lzone" style="left:21.05%;width:39.48%"></div>
+        <div class="lzone" style="left:60.53%;width:39.47%"></div>
+        <span class="ltick" style="left:0">2 kg</span>
+        <span class="ltick" style="left:21.05%">10</span>
+        <span class="ltick" style="left:60.53%">25</span>
+        <span class="ltick" style="left:100%;transform:translateX(-100%)">40 kg</span>
+      </div>
+      <div class="lkeys">
+        <div class="lkey"><b>2–10 kg</b><span>Boční rozpažky, rozpažky v předklonu, rotátory ramene</span></div>
+        <div class="lkey"><b>10–25 kg</b><span>Tlaky nad hlavu, bicepsy, tricepsy, goblet dřep</span></div>
+        <div class="lkey"><b>25–40 kg</b><span>Přítahy jednoruč, rumunský mrtvý tah, hip thrust, bulharský dřep, floor press</span></div>
+      </div>
+      <div class="note note--crit">
+        <p><b>Nad zhruba 25 kg na ruku ti u tahů povolí úchop dřív než sval.</b> To není slabost zad — je to limit prstů. <b>Trhačky za dvě stovky</b> ti odemknou horní třetinu sady a jsou po hrazdě druhá nejlepší koupě.</p>
+      </div>
+    </div>
+
+    <div class="note">
+      <p><b>Co ti v Plzni oproti kleci pořád chybí:</b> hrazda (svislé přítahy — <b>koupě č. 1, 400–800 Kč do zárubně</b>), úchop u těžkých tahů (trhačky), lavice (zatím floor press a gauč) a velká činka na těžký dřep a mrtvý tah — ty doháníš o víkendech doma.</p>
+      <p><b>Ke stěhování:</b> nakládací sada s kotouči váží desítky kilo. Když se nevejde všechno, ber osy a <b>střední kotouče 1,25 / 2,5 / 5 kg</b> — právě ty dělají jemnou progresi.</p>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="shead">
+    <p class="eyebrow">Dvakrát týdně</p>
+    <h2>Běh</h2>
+  </div>
+
+  <div class="session" style="margin-top:0">
+    <div class="shdr"><span class="chip">St</span><h3>Intervaly</h3><span class="focus">asi 30 min celkem</span></div>
+    <div class="tscroll"><table>
+      <thead><tr><th>Týden</th><th>Hlavní část</th></tr></thead>
+      <tbody>
+        <tr><td class="num">1–2</td><td>6 × (1 min svižně / 2 min volně)</td></tr>
+        <tr><td class="num">3–4</td><td>6 × (90 s svižně / 2 min volně)</td></tr>
+        <tr><td class="num">5–6</td><td>5 × (2 min svižně / 2 min volně)</td></tr>
+        <tr><td class="num">7</td><td>deload — jen klidný běh 20 min</td></tr>
+        <tr><td class="num">8+</td><td>4 × (3 min svižně / 2 min volně)</td></tr>
+      </tbody>
+    </table></div>
+    <p class="hint">10 min rozklusání před, 5 min výklus po. „Svižně" znamená tempo, které udržíš přesně tu dobu — ne sprint.</p>
+  </div>
+
+  <div class="session">
+    <div class="shdr"><span class="chip">So</span><h3>Zóna 2</h3><span class="focus">30–45 min</span></div>
+    <p style="margin-top:14px;color:var(--ink-soft)"><b>Jak ji poznáš bez hrudního pásu:</b> běžíš a přitom udržíš souvislou konverzaci. Když lapáš po dechu, je to moc rychle — většina lidí běhá zónu 2 zbytečně rychle.</p>
+  </div>
+
+  <div class="note">
+    <p><b>Konkrétní čísla tepů tady nejsou, protože je neznám.</b> Vzorce jako <span class="mono">220 − věk</span> mají u jednotlivce chybu klidně ±10–20 tepů. Konverzační test je pro tvůj účel spolehlivější než dopočítaná zóna.</p>
+  </div>
+  <div class="note note--crit">
+    <p><b>Týdenní objem nezvyšuj o víc než 10 %.</b> Nejčastější příčina zánětů holení a Achillovky je moc, moc brzo. Bolest kolen nebo holení → vynech běh, nahraď chůzí do kopce. Nerozbíhávej to.</p>
+  </div>
+</section>
+
+<section>
+  <div class="shead">
+    <p class="eyebrow">Priorita hubnutí</p>
+    <h2>Výživa</h2>
+    <p>Konkrétní kalorie tu nejsou, protože neznám tvou váhu, výšku a věk. Vymyslet je by bylo horší než je nenapsat — doplň si je do vzorce, nebo mi je pošli a dopočítám to.</p>
+  </div>
+
+  <div class="calc">
+    <div class="crow">
+      <span class="clabel">1 · Bazální metabolismus — Mifflin–St Jeor, ženy</span>
+      <span class="cform">BMR = (10 × váha kg) + (6,25 × výška cm) − (5 × věk) − 161</span>
+    </div>
+    <div class="crow">
+      <span class="clabel">2 · Udržovací kalorie</span>
+      <span class="cform">Udržovací = BMR × 1,55</span>
+    </div>
+    <div class="crow">
+      <span class="clabel">3 · Cíl</span>
+      <span class="cform">Cíl = Udržovací − 400 až 500 kcal</span>
+    </div>
+  </div>
+  <p class="hint">Koeficient 1,55 odpovídá pěti tréninkům a dvěma běhům při jinak sedavém studiu. Celý výpočet je <b>odhad, ne měření</b> — skutečnost se může lišit o 200–300 kcal. Po dvou třech týdnech ho uprav podle toho, co dělá váha.</p>
+
+  <div class="tscroll" style="margin-top:26px"><table>
+    <thead><tr><th>Živina</th><th class="num">Kolik</th><th>Proč</th></tr></thead>
+    <tbody>
+      <tr><td><b>Bílkoviny</b></td><td class="num">1,8–2,2 g/kg</td><td>Nejdůležitější číslo v plánu. Drží sval v deficitu.</td></tr>
+      <tr><td>Tuky</td><td class="num">min. 0,8 g/kg</td><td>Hormonální zdraví. Pod tuhle hranici nechoď.</td></tr>
+      <tr><td>Sacharidy</td><td class="num">zbytek</td><td>Palivo na trénink. Nejsou nepřítel.</td></tr>
+      <tr><td>Vláknina</td><td class="num">25–30 g</td><td>Sytost — rozhoduje, jestli to vydržíš.</td></tr>
+    </tbody>
+  </table></div>
+
+  <div class="note note--crit">
+    <p><b>Nikdy pod ~1 200 kcal a nikdy víc než 1 % tělesné hmotnosti týdně.</b> Při rychlejším hubnutí jde výrazně větší podíl úbytku ze svalu než z tuku. Rychleji znamená hůř vypadající výsledek — přesný opak toho, co chceš.</p>
+  </div>
+
+  <div class="note">
+    <p><b>Doplňky, které dávají smysl:</b> kreatin monohydrát 3–5 g denně (nejlépe podložený doplněk vůbec, bezpečný) a syrovátkový protein (praktický způsob, jak dorazit bílkoviny — jídlo, ne kouzlo).</p>
+    <p><b>Vyhozené peníze:</b> spalovače tuků, L-karnitin, CLA, detoxy.</p>
+  </div>
+</section>
+
+<section>
+  <div class="shead">
+    <p class="eyebrow">Zpětná vazba</p>
+    <h2>Jak poznáš, že to funguje</h2>
+  </div>
+  <div class="tscroll"><table>
+    <thead><tr><th>Co</th><th class="num">Jak často</th><th>Pozn.</th></tr></thead>
+    <tbody>
+      <tr><td>Váha</td><td class="num">denně ráno</td><td>Hodnotí se <b>týdenní průměr</b>. Jedno číslo neznamená nic — kolísá o 1–2 kg.</td></tr>
+      <tr><td>Obvod pasu</td><td class="num">1× týdně</td><td>Hýbe se, i když váha stojí.</td></tr>
+      <tr><td>Fotky</td><td class="num">1× měsíčně</td><td>Stejné světlo, stejná póza. Nejpoctivější ukazatel.</td></tr>
+      <tr><td><b>Váhy v tréninku</b></td><td class="num">každý trénink</td><td><b>Nejdůležitější.</b> Když v deficitu rostou, držíš sval.</td></tr>
+    </tbody>
+  </table></div>
+
+  <div class="note">
+    <p><b>Váha tři týdny stojí</b> → uber 200 kcal <em>nebo</em> přidej 1 000 kroků. Ne obojí naráz, jinak nepoznáš, co zabralo.</p>
+    <p><b>Váhy v posilovně tři týdny klesají</b> → deficit je moc velký nebo málo spíš. Přidej kalorie zpátky.</p>
+  </div>
+  <div class="note note--crit">
+    <p><b>Pořád hlad, únava, špatný spánek, vypadávání vlasů, nepravidelný cyklus</b> → deficit je moc agresivní, ukonči ho. Tohle nejsou známky, že to funguje. Patří to k lékaři, ne do tabulky.</p>
+  </div>
+</section>
+
+<section>
+  <div class="shead">
+    <p class="eyebrow">Dvanáct týdnů</p>
+    <h2>Blok</h2>
+    <p>Plán jede minimálně dvanáct týdnů beze změny. Skákání mezi programy je nejrychlejší cesta k nulovému výsledku.</p>
+  </div>
+
+  <div class="phases" role="img" aria-label="Dvanáctitýdenní blok: týdny 1 až 3 zaučení, 4 až 6 progrese, 7 deload, 8 až 11 intenzifikace, 12 deload a měření.">
+    <div class="pw pw--learn">1</div><div class="pw pw--learn">2</div><div class="pw pw--learn">3</div>
+    <div class="pw pw--prog">4</div><div class="pw pw--prog">5</div><div class="pw pw--prog">6</div>
+    <div class="pw pw--deload">7</div>
+    <div class="pw pw--peak">8</div><div class="pw pw--peak">9</div><div class="pw pw--peak">10</div><div class="pw pw--peak">11</div>
+    <div class="pw pw--deload">12</div>
+  </div>
+  <div class="plegend">
+    <span><i class="swatch" style="background:var(--surface-2)"></i>Zaučení · RIR 3</span>
+    <span><i class="swatch" style="background:var(--accent);opacity:.5"></i>Progrese · RIR 2</span>
+    <span><i class="swatch" style="background:var(--accent)"></i>Intenzifikace · RIR 1</span>
+    <span><i class="swatch" style="background:var(--crit)"></i>Deload · poloviční objem</span>
+  </div>
+
+  <div class="note note--crit">
+    <p><b>Týdny 1–3 nepodceň.</b> Nejčastější důvod, proč lidé skončí, je, že první dva týdny jedou naplno, chytnou zánět a je konec. Začni pod svými možnostmi — svalovka bude brutální, to je normální a přejde.</p>
+  </div>
+
+  <div class="note">
+    <p><b>Dvojitá progrese, jediné pravidlo, které musíš umět:</b> drž váhu a přidávej opakování až na horní hranici rozsahu. Jakmile dáš horní hranici ve všech sériích, přidej nejmenší možný krok na váze a spadni zpátky na spodní hranici. Opakuj donekonečna.</p>
+  </div>
+</section>
+
+<section>
+  <div class="shead">
+    <p class="eyebrow">Otevřené</p>
+    <h2>Co k plánu ještě chybí</h2>
+    <p>Bez těchhle údajů je část plánu odhad. Žádný z nich si nedomyslím.</p>
+  </div>
+  <ul class="todo">
+    <li><b>Váha, výška, věk</b><span>Bez nich jsou ve výživě jen vzorce místo čísel.</span></li>
+    <li><b>Jak dlouho a jak těžce už trénuješ</b><span>Rozhoduje, jestli je růst svalů v deficitu reálný, nebo jen udržení.</span></li>
+    <li><b>Je 40 kg na jednu ruku, nebo dohromady? Nakládací, nebo pevné?</b><span>Plzeňský rozpis předpokládá nakládací pár, max asi 40 kg na ruku.</span></li>
+    <li><b>Těch 15 kg u rodičů — jednoručka, nebo kettlebell?</b><span>Kettlebell umí věci navíc: švihy, nošení.</span></li>
+    <li><b>Co přesně je v kleci</b><span>Osa a kotouče? Lavice? Hrazda? Domácí rozpis to všechno předpokládá.</span></li>
+    <li><b>Caroline Girvan — FUEL a IRON</b><span>Ta zpráva se nezachovala a obsah jejích programů si nevymyslím. Pošli screenshot rozpisu a zapracuju ho.</span></li>
+  </ul>
+</section>
+
+<footer>
+  <p><b>Zdroj pravdy je repozitář, ne tahle stránka.</b> Plný plán s odůvodněním žije v <code>Projekty/Zdravi/trenink.md</code>. Když se plán mění, edituje se markdown a stránka se přegeneruje — ne naopak.</p>
+  <p><b>Nejsem lékař.</b> Tohle je obecný tréninkový a výživový plán postavený na publikovaném výzkumu, ne zdravotní doporučení. Bolest, která není svalovka, závrať nebo poruchy cyklu → lékař.</p>
+  <p>Tvrzení o objemu, frekvenci, pauzách, bílkovinách a tempu hubnutí vycházejí z publikovaných meta-analýz a doporučení <span class="mono">[obecné znalosti]</span> — nejsou ověřená proti konkrétnímu zdroji, který bys mi dala. Periodizace podle fází menstruačního cyklu v plánu záměrně není: evidence je zatím slabá a nekonzistentní.</p>
+  <p>Blok I · verze 1.1 · 11. září 2026</p>
+</footer>
+
+</div>
+
+<script>
+(function(){
+  var tabs = [
+    {btn: document.getElementById('tab-doma'),  panel: document.getElementById('p-doma'),  key: 'doma'},
+    {btn: document.getElementById('tab-plzen'), panel: document.getElementById('p-plzen'), key: 'plzen'}
+  ];
+
+  function select(key){
+    tabs.forEach(function(t){
+      var on = t.key === key;
+      t.btn.setAttribute('aria-selected', on ? 'true' : 'false');
+      t.panel.hidden = !on;
+    });
+    try { localStorage.setItem('rekompozice.misto', key); } catch (e) {}
+  }
+
+  tabs.forEach(function(t){
+    t.btn.addEventListener('click', function(){ select(t.key); });
+  });
+
+  var saved = null;
+  try { saved = localStorage.getItem('rekompozice.misto'); } catch (e) {}
+  if (saved === 'plzen' || saved === 'doma') select(saved);
+})();
+</script>

@@ -7,6 +7,8 @@ Zapisuje se přes `/session-close`. Živý rozpracovaný stav sem NEPATŘÍ — 
 
 ## 2026
 
+- 2026-09-11 — **OPRAVA vybavení:** u rodičů jsou činky **2–40 kg** (+ jedna 15 kg), vezme si je do Plzně — původní premisa „strop 5/8/10/24 kg" byla špatná. Rozpis B přepsán, doporučení č. 1 už nejsou gumy, ale **hrazda do zárubně + trhačky**
+- 2026-09-11 — Postaven artefakt `Outputs/rekompozice-blok-I.html` (v1.1) jako hlavní mobilní plocha; karta na Disku v1.0 přejmenována na ZASTARALÉ, vytvořena v1.1 (Disk MCP neumí měnit obsah, jen název)
 - 2026-09-11 — Založen `trenink.md` v1.0 (5 tréninků + 2 běhy, priorita hubnutí) — Tessa chtěla plán na doma; předchozí kontext o váze/cvičení a materiály Caroline Girvan FUEL+IRON se ztratily v chatu, nebyly commitnuté
 - 2026-09-11 — Rozhodnuto: 5 tréninků týdně (Tessina volba), priorita hubnutí před růstem svalů — do plánu zabudován „minimální týden" (2 celotělové) jako pojistka na zkouškové
 - 2026-09-11 — Zjištěn strop vybavení v Plzni: jednoručky 5/8/10/24 kg, mezi 10 a 24 díra → doporučeny odporové gumy jako nejlevnější řešení dolní části těla
