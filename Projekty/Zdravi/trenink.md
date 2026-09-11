@@ -1,6 +1,6 @@
 # Tréninkový plán — rekompozice s prioritou hubnutí
 
-**Založeno:** 2026-09-11 · **Verze:** 1.0 · **Přepisuje se, nezakládá se nová**
+**Založeno:** 2026-09-11 · **Verze:** 2.0 — hlavní plán je Girvan IRON + FUEL · **Přepisuje se, nezakládá se nová**
 
 📄 **Karta do posilovny (Google dokument):** https://docs.google.com/document/d/1noLXF_ml1x9d7YwT8zyZ9NnlV1WZH1PC3qCoR40L_vM/edit
 🏋️ **Interaktivní artefakt:** https://claude.ai/code/artifact/2c7037b0-2645-4ea9-b02a-106042031e57 — zdroj: `Outputs/rekompozice-blok-I.html`
@@ -62,7 +62,9 @@ Vytrvalostní trénink tlumí silové a hypertrofické adaptace, nejvíc na doln
 
 ---
 
-## 2. Týdenní struktura — 5 tréninků + 2 běhy
+## 2. ZÁLOŽNÍ týdenní struktura — 5 tréninků + 2 běhy
+
+> ℹ️ Hlavní rozvrh je Girvanin kalendář (sekce 11), kde jsou Rest dny pevně na dni 4 a 6. Tenhle rozvrh platí pro záložní rozpisy.
 
 | Den | Trénink | Cardio / kroky |
 |---|---|---|
@@ -93,7 +95,9 @@ Studuješ zubní lékařství a v roce 2026/27 tě čeká farmakologie, patofyzi
 
 ---
 
-## 3. Rozpis A — DOMA U RODIČŮ (klec, do konce září + víkendy)
+## 3. ZÁLOŽNÍ rozpis A — DOMA U RODIČŮ (klec)
+
+> ℹ️ **Tohle není hlavní plán.** Hlavní plán je Girvan IRON + FUEL (sekce 11). Tenhle rozpis si nech pro dny, kdy nemáš přístup k programu, nebo kdybys chtěla jet blok postavený na číslech místo na videích.
 
 > Předpoklad: power rack, velká činka s kotouči, lavice, hrazda. **Když něco z toho není, řekni a přepíšu to.**
 
@@ -149,7 +153,9 @@ Hip thrust 3×15 · boční rozpažky 3×20 · přítahy 3×12 · kliky 3× max 
 
 ---
 
-## 4. Rozpis B — PLZEŇ (sada 2–40 kg + jednoručky 5 / 8 / 10 / 24 kg)
+## 4. ZÁLOŽNÍ rozpis B — PLZEŇ (sada 2–40 kg + jednoručky 5 / 8 / 10 / 24 kg)
+
+> ℹ️ Stejně jako sekce 3 — záloha k hlavnímu plánu v sekci 11.
 
 ### ✅ Sada 2–40 kg mění všechno
 
@@ -237,6 +243,10 @@ Hip thrust 3×15 · boční rozpažky 3×20 · přítahy jednoruč 3×12 · klik
 **⚠️ Nad ~25 kg na ruku ti u tahů povolí úchop dřív než sval.** To není slabost zad — je to limit prstů. Trhačky za 200 Kč to vyřeší a odemknou ti horní třetinu sady.
 
 ## 5. Běh a cardio
+
+### ⚠️ Kdy intervaly VYNECHAT
+
+Girvanin kalendář má vlastní cardio/HIIT tréninky v týdnech **2, 4, 7, 8, 9, 10 a 12**. V těch týdnech **středeční intervaly vynech** a nech si jen sobotní zónu 2 — jinak máš tři až čtyři tvrdá cardia v jednom týdnu a v deficitu ti to sebere sílu. V týdnech 1, 3, 5, 6 a 11 jeď oba běhy.
 
 ### Středa — intervaly (~30 min celkem)
 
@@ -408,25 +418,102 @@ Tohle je odpověď na tvoji otázku. **Pět věcí. Když všechno ostatní padn
 
 ---
 
-## 11. Caroline Girvan FUEL + IRON
+## 11. ⭐ HLAVNÍ PLÁN — Caroline Girvan IRON + FUEL
 
-**Nemám ty materiály.** Nejsou v repu ani na Disku — poslala jsi je v chatu, který se nezachoval. **Jejich obsah si nevymyslím.**
+**Zdroj:** `Inputs/girvan-IRON-a-FUEL-kalendar.png` (screenshot, doručeno 2026-09-11)
 
-Co k tomu můžu říct poctivě `[obecné znalosti — obecná charakteristika jejích programů, ne konkrétní rozpisy]`:
+### 11.1 Co ten obrázek je a co není
 
-- Jsou to strukturované domácí programy s jednoručkami, typicky s vysokou hustotou práce a krátkými pauzami.
-- **Jedna věc, kterou u nich uprav:** pro maximální růst svalu jsou u velkých cviků lepší pauzy **2–3 min** než 60 s `[obecné znalosti, Schoenfeld 2016]`. Krátké pauzy jsou skvělé na kondici a časovou efektivitu, ale sníží počet opakování v dalších sériích, a tím i celkový podnět. U izolovaných cviků jsou krátké pauzy v pohodě.
-- **Druhá věc:** její programy počítají s určitou sadou jednoruček. S 5/8/10/24 kg nejspíš nepůjdou dojet přesně tak, jak jsou napsané.
+**Je to kalendář, ne program.** Dává mi názvy 60 tréninků rozložených do 12 týdnů. **Nedává mi cviky, série, opakování, pauzy ani progresi** — ty jsou uvnitř samotných programů IRON a FUEL, které nemám. Všechno, co k tomu níž říkám, se proto týká **struktury**, ne obsahu. Jestli je objem v jednotlivých trénincích správný, posoudit nedokážu.
 
-**➡️ Pošli mi ten rozpis znovu** (screenshot stačí), uložím ho do `Projekty/Zdravi/Inputs/` a zapracuju ho do tohohle plánu — hlavně jestli chceš jet její strukturu a použít můj rámec jen na kalorie, běh a progresi, nebo naopak.
+### 11.2 Kalendář, přepsaný
 
----
+Rest/Active dny jsou vždycky **Den 4 a Den 6** → **5 tréninků týdně**, přesně jak sis vybrala.
+
+| Týden | Den 1 | Den 2 | Den 3 | Den 5 | Den 7 |
+|---|---|---|---|---|---|
+| **1** | IRON 1 — Leg | FUEL 2 — Upper body circuits & clusters | IRON 3 — Glutes | FUEL 4 — Full body | IRON 5 — Arms & abs |
+| **2** | FUEL 1 — Giant leg day | IRON 2 — Upper body | FUEL 3 — Glutes & hamstrings superset | IRON 4 — Full body | FUEL 5 — Dumbbell cardio |
+| **3** | IRON 6 — Quads | FUEL 7 — Upper body complex | IRON 8 — Glutes & hamstrings | FUEL 9 — Full body circuits | IRON 10 — Back & biceps |
+| **4** | FUEL 6 — Quad focused legs | IRON 7 — Shoulders & triceps | FUEL 8 — Posterior chain circuit | IRON 9 — Full body dumbbell cardio | FUEL 10 — Hard & higher intensity |
+| **5** | IRON 11 — Leg | FUEL 12 — Antagonist upper body | IRON 13 — Posterior chain | FUEL 14 — Dumbbell full body | IRON 15 — Shoulders |
+| **6** | FUEL 11 — Leg cluster sets | IRON 12 — Upper body, chest & triceps | FUEL 13 — Glute & hamstring complex | IRON 14 — Unilateral full body | FUEL 15 — Dynamite dumbbells |
+| **7** | ⚠️ **IRON** 16 — Hamstring *(viz 11.3)* | FUEL 17 — Giant upper body | IRON 18 — Glute | FUEL 19 — Dumbbell cardio full body | IRON 20 — Supersets arms, abs & core |
+| **8** | FUEL 16 — Superset quads | IRON 17 — Upper body | FUEL 18 — Glutes & hamstring circuits | IRON 19 — Full body | FUEL 20 — Mega bodyweight HIIT |
+| **9** | IRON 21 — Leg | FUEL 22 — Upper body cluster sets | IRON 23 — Superset glutes & hamstrings | FUEL 24 — Dumbbell cardio full body | IRON 25 — Shoulders superset |
+| **10** | FUEL 21 — Leg circuits | IRON 22 — Chest & back | FUEL 23 — Glutes & hamstrings tempo | IRON 24 — Full body circuits | FUEL 25 — Dumbbell HIIT cardio |
+| **11** | IRON 26 — Leg circuits & step ups | FUEL 27 — Tempo shoulders, chest & triceps | IRON 28 — Glutes | FUEL 29 — No repeat full body | IRON 30 — Arms, abs & core |
+| **12** | FUEL 26 — Leg | IRON 27 — Upper body | FUEL 28 — Posterior chain | IRON 29 — Full body | FUEL 30 — No repeat dumbbell HIIT |
+
+### 11.3 ⚠️ Chyba ve zdroji — týden 7, den 1
+
+V obrázku je **„FUEL DAY 16 — hamstring"**. To je skoro jistě **překlep, má tam být IRON DAY 16.** Tři důvody:
+
+1. **Střídání programů.** Liché týdny jdou I–F–I–F–I, sudé F–I–F–I–F. Týden 7 je lichý, takže Den 1 má být IRON.
+2. **Duplicita.** „FUEL DAY 16" je v tabulce **dvakrát** — týden 7 den 1 a týden 8 den 1.
+3. **Díra.** **IRON DAY 16 v celé tabulce chybí**, přestože všechna ostatní čísla 1–30 jsou u obou programů použitá právě jednou.
+
+`[⚠️ ověřit]` — tohle je moje odvození ze vzorce, ne fakt z programu. **Zkontroluj to v původním rozpisu od Girvan**, než na to v 7. týdnu narazíš.
+
+### 11.4 Co ten kalendář dělá dobře
+
+| ✅ | Proč to sedí |
+|---|---|
+| **5 tréninků + 2 dny volna** | Přesně tvoje kapacita. Rest dny jsou pevně dané, ne „když zbude čas". |
+| **12 týdnů** | Správná délka bloku. Nemusí se vymýšlet, kdy skončit. |
+| **Dolní tělo 2× týdně + full body** | Každý týden **dva vyhrazené dny na nohy a hýždě** plus jeden celotělový → zhruba 2,5–3 expozice týdně. To je pro růst hýždí a vyrýsování nohou ideální frekvence. |
+| **Sedí na tvoje vybavení** | S nakládací sadou 2–40 kg odjedeš IRON i FUEL bez kompromisu. Tohle by před tvou zprávou o činkách neplatilo. |
+| **Nulová rozhodovací zátěž** | Ve zkouškovém pustíš video a cvičíš. To je víc, než se zdá — plán, který se nemusí vymýšlet, se dodrží. |
+
+### 11.5 ⚠️ Tři slabiny — a co s nimi
+
+#### 🔴 1. Progresivní přetížení tady nemá kam se opřít
+
+**Tohle je ta hlavní věc.** Skoro každý trénink je jiný — „no repeat full body", „dynamite dumbbells", „mega bodyweight HIIT". Když je každý trénink nový, **nemáš co překonávat.** A přitom přesně progresivní přetížení je ta věc, která v kalorickém deficitu drží sval `[obecné znalosti]`.
+
+**Oprava — zapisuj podle CVIKU, ne podle tréninku.** Velké cviky se napříč programem opakují (dřep, RDL, hip thrust, tlak, přítah). Veď si seznam podle cviků:
+
+```
+Hip thrust    2.10. 24kg × 12,12,10  |  16.10. 28kg × 10,10,9
+RDL           4.10. 2×20kg × 10,10,8
+```
+
+Když hip thrust přijde v 5. týdnu znovu, koukneš, co jsi dala minule, a přidáš. **Tím do Girvan doplníš přesně to, co jí chybí, a nic z ní neubereš.**
+
+#### 🟠 2. Žádný deload
+
+Dvanáct týdnů v kuse bez odlehčovacího týdne. **V deficitu je to recept na vyhoření kolem 7.–9. týdne** — regenerace je horší, únava se sčítá.
+
+**Oprava:** vlož odlehčovací týden **po 6. a po 12. týdnu**. Blok se tím natáhne na 13 týdnů, což nevadí. V deload týdnu buď jeď poloviční počet sérií, nebo prostě dej týden jen chůze a jeden lehký trénink.
+
+#### 🟡 3. Girvanina cardia + tvoje běhy = moc
+
+V kalendáři je **7 tréninků výslovně označených jako cardio nebo HIIT** — v týdnech **2, 4, 7, 8, 9, 10 a 12**. Když k nim přidáš dva běhy, máš v těch týdnech tři až čtyři tvrdá cardia. V deficitu to ubere sílu v posilovně, a tím i sval.
+
+**Oprava:** v těch sedmi týdnech **vynech středeční intervaly** a nech si jen sobotní zónu 2. V ostatních pěti týdnech (1, 3, 5, 6, 11) jeď oba běhy normálně.
+
+#### Ještě jedna věc, spíš postřeh než slabina
+
+**Horní tělo dostává o něco méně než dolní** — zhruba 1,5–2 vyhrazené dny týdně oproti 2 na nohy. Pro tvůj cíl („vyrýsovat postavu") to není chyba, ale kdybys chtěla víc ramena a záda, přidej na Rest/Active den 3 série bočních rozpažek a 3 série přítahů. Trvá to deset minut a neubere to na regeneraci.
+
+### 11.6 ⚖️ VERDIKT
+
+**Jeď IRON + FUEL. Nepřepisuj to.**
+
+Můj vlastní rozpis (sekce 3 a 4) je na papíře lépe postavený na progresi. **Ale program, který pustíš a odcvičíš, porazí program, který je teoreticky lepší a ty ho v listopadu ve zkouškovém opustíš.** Adherence je u tebe vzácnější surovina než optimalita.
+
+**Takže:** Girvan je motor. Ode mě si vezmi tři šrouby (zápis podle cviků, deload po 6. a 12. týdnu, ubrat běh v sedmi týdnech) — a **celou sekci 6 o výživě a sekci 9 o konzistenci**, protože ty na programu vůbec nezávisí. Bílkoviny, kroky, spánek a týdenní průměr váhy platí úplně stejně, ať cvičíš cokoli.
+
+### 11.7 Otázka k obrázku
+
+Máš tam žlutě zvýrazněný **IRON DAY 3 (týden 1, den 3)** a drobné značky u týdne 1 a 2. **Znamená to, že jsi právě tam?** Podle toho ti spočítám, na jaký týden vyjde deload a kdy vynechat intervaly.
 
 ## 12. Co dělat tenhle týden
 
 1. **Pošli mi váhu, výšku, věk** → doplním do sekce 6 konkrétní čísla místo vzorců.
-2. **Pošli Girvan FUEL + IRON** (screenshot) → zapracuju.
-3. **Odpověz, co je v té kleci** (osa? kotouče? lavice? hrazda?) → upravím rozpis A.
-4. **Objednej hrazdu do zárubně** (~400–800 Kč) **a trhačky** (~200 Kč) do Plzně. Dohromady pod tisícovku a vyřeší obě zbylé mezery.
-5. **Začni** — tenhle týden Dolní A, RIR 3, lehčí, než si myslíš, že zvládneš. Zapiš každou váhu.
+2. **Řekni, na kterém týdnu Girvan jsi** (v obrázku máš zvýrazněný IRON DAY 3) → spočítám, kdy vyjde deload a kdy vynechat intervaly.
+3. **Ověř týden 7, den 1** v původním rozpisu — podle mě tam má být IRON DAY 16, ne FUEL DAY 16 (viz 11.3).
+4. **Odpověz, co je v té kleci** (osa? kotouče? lavice? hrazda?) → upravím záložní rozpis A.
+5. **Objednej hrazdu do zárubně** (~400–800 Kč) **a trhačky** (~200 Kč) do Plzně. Dohromady pod tisícovku a vyřeší obě zbylé mezery.
+6. **Začni** — Girvan týden 1, den 1 (IRON 1 Leg). A **zapiš každou váhu u každého cviku.** To je ta jediná věc, kterou Girvan sama neudělá.
 
