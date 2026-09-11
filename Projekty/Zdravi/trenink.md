@@ -1,6 +1,6 @@
 # Tréninkový plán — rekompozice s prioritou hubnutí
 
-**Založeno:** 2026-09-11 · **Verze:** 2.0 — hlavní plán je Girvan IRON + FUEL · **Přepisuje se, nezakládá se nová**
+**Založeno:** 2026-09-11 · **Verze:** 2.1 — Girvan IRON + FUEL, výživa dopočítaná · **Přepisuje se, nezakládá se nová**
 
 📄 **Karta do posilovny (Google dokument):** https://docs.google.com/document/d/1noLXF_ml1x9d7YwT8zyZ9NnlV1WZH1PC3qCoR40L_vM/edit
 🏋️ **Interaktivní artefakt:** https://claude.ai/code/artifact/2c7037b0-2645-4ea9-b02a-106042031e57 — zdroj: `Outputs/rekompozice-blok-I.html`
@@ -19,13 +19,13 @@
 | Tréninkových dní týdně | **5** (zvoleno 2026-09-11) |
 | Běh — současná úroveň | uběhne **3–5 km** |
 | Priorita | **hubnout, svaly udržet** |
+| Váha / výška / věk | **82–83 kg · 175 cm · 28 let** (doplněno 2026-09-11) |
 | Lokace do konce září | doma u rodičů — **klec (power rack)** + jednoručky **2–40 kg** + jedna **15 kg** |
 | Lokace od října | **Plzeň** — jednoručky 5 / 8 / 10 / 24 kg **+ sada 2–40 kg, kterou si veze z domova** |
 
-### ❌ K DOPLNĚNÍ — bez toho je výživová část neúplná
+### ❌ K DOPLNĚNÍ
 
-- [ ] **Váha (kg)** a **výška (cm)** — bez nich nejde spočítat kalorie ani bílkoviny
-- [ ] **Věk**
+- [x] ~~Váha, výška, věk~~ — **doplněno 2026-09-11**, výživa je dopočítaná v sekci 6
 - [ ] **Jak dlouho a jak těžce už trénuješ** — rozhoduje, jestli je růst svalů v deficitu reálný, nebo jen udržení
 - [ ] **Co přesně je „ta klec"** — je tam velká činka (osa) a kotouče? lavice? hrazda? Plán níž to předpokládá.
 - [ ] **Sada 2–40 kg — jsou to nakládací jednoručky s kotouči, nebo sada pevných?** A je 40 kg **na jednu ruku**, nebo dohromady? Plán níž předpokládá nakládací pár, max ~40 kg na ruku.
@@ -274,59 +274,76 @@ Před tím 10 min rozklusání, po tom 5 min výklus. „Svižně" = tempo, kter
 
 ---
 
-## 6. Výživa — priorita hubnutí, svaly udržet
+## 6. Výživa — spočítáno na tvoje čísla
 
-> ⚠️ **Konkrétní čísla ti tady nenapíšu, protože neznám tvou váhu, výšku a věk.** Vymyslet je by bylo horší než je nenapsat. Níž je postup — doplň svoje čísla a máš to za 2 minuty. Až mi je pošleš, spočítám to a zapíšu sem natvrdo.
+**Vstup:** 82,5 kg · 175 cm · 28 let · žena · 5 tréninků + 2 běhy týdně, jinak sedavé studium
 
-### Krok 1 — bazální metabolismus (Mifflin–St Jeor, ženy) `[obecné znalosti]`
+> Rozdíl mezi 82 a 83 kg dělá v kalorickém cíli **asi 15 kcal** — zanedbatelné. Počítám se středem 82,5 kg.
 
-```
-BMR = (10 × váha v kg) + (6,25 × výška v cm) − (5 × věk) − 161
-```
+### 6.1 Výpočet — ať si ho můžeš zkontrolovat
 
-### Krok 2 — udržovací kalorie
-
-```
-Udržovací = BMR × koeficient aktivity
-```
-
-| Koeficient | Kdy |
-|---|---|
-| 1,375 | lehká aktivita — sedavé studium, 1–3 tréninky |
-| **1,55** | **středně aktivní — tohle je pravděpodobně tvůj případ (5 tréninků + 2 běhy)** |
-| 1,725 | vysoce aktivní — fyzická práce navíc |
-
-⚠️ Tenhle výpočet je **odhad, ne měření.** Skutečnost se může lišit i o 200–300 kcal. Bere se jako startovní bod, který se po 2–3 týdnech upraví podle reálného vývoje váhy.
-
-### Krok 3 — deficit
-
-```
-Cíl = udržovací − 400 až 500 kcal     (≈ 0,4–0,6 kg/týden)
-```
-
-**⚠️ Nikdy nejdi pod ~1 200 kcal a nikdy nemiř na víc než ~1 % tělesné hmotnosti týdně.** Při rychlejším hubnutí jde výrazně vyšší podíl úbytku ze svalu, ne z tuku `[obecné znalosti, Garthe 2011 — 0,7 % vs. 1,4 % týdně]`. Rychleji = hůř vypadající výsledek, přesný opak toho, co chceš.
-
-### Krok 4 — makroživiny
-
-| Živina | Kolik | Proč |
+| Krok | Vzorec | Výsledek |
 |---|---|---|
-| **Bílkoviny** | **1,8–2,2 g na kg váhy** | Nejdůležitější číslo v celém plánu. V deficitu drží sval. Když má být něco splněno na 100 %, je to tohle. `[obecné znalosti, Helms et al. 2014]` |
-| **Tuky** | min. **0,8 g na kg** | Hormonální zdraví. Pod tuhle hranici u žen nejdi — souvisí to i s menstruačním cyklem. |
-| **Sacharidy** | zbytek kalorií | Palivo na trénink. Nejsou nepřítel — v deficitu s 5 tréninky je potřebuješ. |
-| **Vláknina** | 25–30 g | Sytost. V deficitu rozhoduje o tom, jestli to vydržíš. |
+| **Bazální metabolismus** `[Mifflin–St Jeor, ženy]` | (10 × 82,5) + (6,25 × 175) − (5 × 28) − 161 | **1 618 kcal** |
+| **Udržovací** | 1 618 × 1,55 | **≈ 2 510 kcal** |
+| **Cíl (deficit ~450)** | 2 510 − 450 | **≈ 2 050 kcal** |
 
-**Praktický odhad bílkovin:** kuřecí prsa 100 g ≈ 23 g B · vejce ≈ 6 g · tvaroh 250 g ≈ 30 g B · řecký jogurt 150 g ≈ 15 g B · syrovátkový protein odměrka ≈ 20–25 g `[obecné znalosti, orientačně — čti etikety]`
+⚠️ **Tohle je odhad, ne měření.** Rovnice má u jednotlivce chybu klidně ±200–300 kcal, koeficient 1,55 taky. **Číslo 2 050 je startovní bod, ne pravda** — po 2–3 týdnech ho uprav podle toho, co reálně dělá váha (viz 6.4).
 
-### Doplňky — co má evidenci a co ne
+⚠️ Pozor na směr chyby: **když je tvoje skutečná udržovací vyšší, než počítám, je deficit menší a hubneš pomaleji. Když nižší, je deficit větší a agresivnější, než chci.** Proto se to po třech týdnech ověřuje, ne odhaduje.
+
+### 6.2 Denní cíl
+
+| Živina | Gramy | kcal | Proč |
+|---|---|---|---|
+| **Bílkoviny** | **165 g** *(rozsah 150–180)* | 660 | 2,0 g/kg. **Tohle je to jediné číslo, které se plní každý den bez výmluv.** Drží sval v deficitu. |
+| **Tuky** | **75 g** *(minimum 66)* | 675 | 0,9 g/kg. Pod 0,8 g/kg nechoď — hormonální zdraví. |
+| **Sacharidy** | **~180 g** | 715 | Zbytek. Palivo na Girvan. Nejsou nepřítel. |
+| **Celkem** | | **≈ 2 050 kcal** | |
+| Vláknina | 25–30 g | — | Sytost. Rozhoduje, jestli to vydržíš. |
+
+**⚠️ Bílkoviny jsou tvrdý cíl, ostatní jsou vodítko.** Když jeden den vyjdou sacharidy na 150 a druhý na 210, nic se neděje. Když vyjdou bílkoviny na 90, děje se hodně.
+
+### 6.3 Jak 165 g bílkovin reálně vypadá
+
+`[obecné znalosti — orientační hodnoty, čti etikety]`
+
+| Jídlo | Bílkoviny |
+|---|---|
+| Řecký jogurt 200 g + 2 vejce | ~32 g |
+| Kuřecí prsa 200 g | ~46 g |
+| Tvaroh 250 g | ~30 g |
+| Maso nebo ryba 150 g k večeři | ~35 g |
+| Odměrka syrovátkového proteinu | ~22 g |
+| **Celkem** | **≈ 165 g** |
+
+Tohle není jídelníček, je to **ukázka, že to jde**. 165 g není málo — bez plánování to nevyjde, ale s pěti zdroji denně to není dřina.
+
+### 6.4 Čekané tempo a kdy přepočítat
+
+| | |
+|---|---|
+| **Úbytek** | ~0,4–0,5 kg týdně *(deficit 450 kcal × 7 ÷ 7 700 kcal na kg tuku)* |
+| **Strop, který nepřekračovat** | 0,83 kg týdně = 1 % tělesné hmotnosti `[Garthe 2011]` |
+| **Za 12 týdnů Girvan bloku** | asi **−5 kg → ~77,5 kg** |
+| **Přepočítat kalorie** | **po každých 5 kg dolů.** Při 77,5 kg vychází udržovací ~2 430 a cíl **~1 980 kcal.** |
+
+⚠️ **Úbytek nebude lineární.** Číslo 7 700 kcal na kilo tuku je konvenční přiblížení; skutečné tempo se v čase zpomaluje (metabolická adaptace, méně tělesné hmoty k pohybu). Prvních pár týdnů může navíc spadnout víc kvůli vodě a glykogenu — **to není tuk a nevrať se z toho.**
+
+⚠️ **Tempo 0,4–0,5 kg je záměrně na spodní hranici.** Rychleji by šlo, ale jde ti o to sval udržet — a rychlejší hubnutí znamená větší podíl úbytku ze svalu.
+
+### 6.5 Ještě jedna otevřená věc
+
+**Pořád nevím, jak dlouho a jak těžce trénuješ.** Rozhoduje to o jedné konkrétní věci: jestli v deficitu můžeš svaly i **přibírat** (začátečnice nebo návrat po pauze — ano, docela dobře), nebo jen **udržet** (roky pravidelného těžkého tréninku — pak růst v deficitu prakticky nečekej). Napiš to a upřesním, co od bloku čekat.
+
+### 6.6 Doplňky
 
 | Doplněk | Verdikt |
 |---|---|
-| **Kreatin monohydrát 3–5 g denně** | ✅ Nejlépe podložený doplněk vůbec. Síla, svalová hmota, bezpečný pro ženy. Denně, jedno kdy. `[obecné znalosti]` |
-| **Syrovátkový protein** | ✅ Není „nutný", ale je to nejsnazší způsob, jak dorazit bílkoviny v hektickém dni. Jídlo, ne kouzlo. |
-| **Vitamín D** | ⚠️ V ČR je v zimě nedostatek běžný — ale dávkování si nech doporučit od lékaře, ne ode mě. |
+| **Kreatin monohydrát 3–5 g denně** | ✅ Nejlépe podložený doplněk vůbec. Síla, svalová hmota, bezpečný pro ženy. Denně, jedno kdy. |
+| **Syrovátkový protein** | ✅ Není nutný, ale při cíli 165 g je to nejsnazší způsob, jak to dorazit. Jídlo, ne kouzlo. |
+| **Vitamín D** | ⚠️ V ČR je v zimě nedostatek běžný — dávkování si ale nech doporučit od lékaře, ne ode mě. |
 | **Spalovače tuků, L-karnitin, CLA, detoxy** | ❌ Zanedbatelný nebo žádný efekt. Vyhozené peníze. |
-
----
 
 ## 7. Progresivní přetížení — jak konkrétně
 
@@ -510,7 +527,7 @@ Máš tam žlutě zvýrazněný **IRON DAY 3 (týden 1, den 3)** a drobné znač
 
 ## 12. Co dělat tenhle týden
 
-1. **Pošli mi váhu, výšku, věk** → doplním do sekce 6 konkrétní čísla místo vzorců.
+1. **Řekni, jak dlouho a jak těžce trénuješ** → jediná věc, která chybí, abych věděl, co od bloku čekat (viz 6.5).
 2. **Řekni, na kterém týdnu Girvan jsi** (v obrázku máš zvýrazněný IRON DAY 3) → spočítám, kdy vyjde deload a kdy vynechat intervaly.
 3. **Ověř týden 7, den 1** v původním rozpisu — podle mě tam má být IRON DAY 16, ne FUEL DAY 16 (viz 11.3).
 4. **Odpověz, co je v té kleci** (osa? kotouče? lavice? hrazda?) → upravím záložní rozpis A.

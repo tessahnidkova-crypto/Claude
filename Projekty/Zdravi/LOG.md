@@ -7,6 +7,8 @@ Zapisuje se přes `/session-close`. Živý rozpracovaný stav sem NEPATŘÍ — 
 
 ## 2026
 
+- 2026-09-11 — **Tělesné údaje doplněny:** 82–83 kg, 175 cm, 28 let → výživa dopočítaná (BMR 1618, udržovací ~2510, cíl ~2050 kcal, 165 g bílkovin, tempo ~0,45 kg/týden). Přepočítat po každých 5 kg dolů
+- 2026-09-11 — ⚠️ **Disk se rozpadá na verze** — konektor umí měnit jen název dokumentu, ne obsah, takže každá revize = nový soubor. Ve složce Trénink jsou 2 zastaralé karty. Návrh: Disk vyřadit a jet na artefaktu, nebo si nechat vyrobit finální kartu a staré smazat — **čeká na Tessino rozhodnutí**
 - 2026-09-11 — **Girvan IRON + FUEL doručen** (screenshot → `Inputs/girvan-IRON-a-FUEL-kalendar.png`) a povýšen na HLAVNÍ plán; můj vlastní rozpis degradován na zálohu — důvod: adherence > teoretická optimalita
 - 2026-09-11 — **Nalezena chyba ve zdroji:** týden 7 den 1 má „FUEL DAY 16", má tam být IRON DAY 16 (vzorec střídání I-F-I-F-I v lichých týdnech + FUEL 16 je v tabulce 2×, IRON 16 chybí). Označeno `[⚠️ ověřit]`, Tessa má zkontrolovat v originále
 - 2026-09-11 — Tři doplňky ke Girvan: (1) zápis podle CVIKU místo podle tréninku — program má „no repeat" workouty, takže nemá co překonávat; (2) deload po 6. a 12. týdnu, v programu žádný není; (3) vynechat intervaly v týdnech 2, 4, 7, 8, 9, 10, 12, kde Girvan sama má cardio/HIIT

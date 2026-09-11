@@ -242,6 +242,14 @@ td.num{color:var(--ink-soft)}
 .lkey b{font-family:var(--f-mono);font-variant-numeric:tabular-nums;font-size:.88rem;color:var(--accent-ink)}
 .lkey span{color:var(--ink-soft)}
 
+.targets{display:grid;grid-template-columns:repeat(auto-fit,minmax(132px,1fr));gap:1px;background:var(--line);border:1px solid var(--line);margin-top:4px}
+.tgt{background:var(--paper);padding:15px 15px 13px;display:flex;flex-direction:column;gap:2px}
+.tgt--hero{background:var(--accent-wash)}
+.tgt dt{font-family:var(--f-display);font-size:.64rem;font-weight:700;font-stretch:120%;letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
+.tgt--hero dt{color:var(--accent-ink)}
+.tgt dd{margin:0;font-family:var(--f-mono);font-size:1.55rem;font-weight:600;font-variant-numeric:tabular-nums;line-height:1.1}
+.tgt--hero dd{color:var(--accent-ink)}
+.tgt .sub{font-size:.8rem;color:var(--muted);font-family:var(--f-body)}
 .calc{background:var(--surface);border:1px solid var(--line);padding:18px;margin-top:20px;display:flex;flex-direction:column;gap:14px}
 .crow{display:flex;flex-direction:column;gap:5px}
 .clabel{font-family:var(--f-display);font-size:.66rem;font-weight:700;font-stretch:120%;letter-spacing:.11em;text-transform:uppercase;color:var(--muted)}
@@ -273,7 +281,8 @@ code{font-family:var(--f-mono);font-size:.86em;background:var(--surface-2);paddi
     <div class="fact"><dt>Volno</dt><dd>den 4, 6</dd></div>
     <div class="fact"><dt>Celkem</dt><dd>60</dd></div>
     <div class="fact"><dt>Deload</dt><dd>po 6. a 12.</dd></div>
-    <div class="fact"><dt>Tempo úbytku</dt><dd>0,4–0,6 kg</dd></div>
+    <div class="fact"><dt>Denní cíl</dt><dd>2 050 kcal</dd></div>
+    <div class="fact"><dt>Bílkoviny</dt><dd>165 g</dd></div>
   </dl>
 </header>
 
@@ -547,43 +556,76 @@ Tlak n. hlavu 3.10.  2× 10 kg ×  9,  8, 8</pre>
 
 <section>
   <div class="shead">
-    <p class="eyebrow">Priorita hubnutí</p>
+    <p class="eyebrow">82,5 kg · 175 cm · 28 let</p>
     <h2>Výživa</h2>
-    <p>Konkrétní kalorie tu nejsou, protože neznám tvou váhu, výšku a věk. Vymyslet je by bylo horší než je nenapsat — doplň si je do vzorce, nebo mi je pošli a dopočítám to.</p>
+    <p>Spočítané na tvoje čísla. Rozdíl mezi 82 a 83 kg dělá v cíli asi 15 kcal — zanedbatelné, počítám se středem.</p>
   </div>
 
+  <dl class="targets">
+    <div class="tgt tgt--hero"><dt>Denní cíl</dt><dd>2 050</dd><span class="sub">kcal</span></div>
+    <div class="tgt"><dt>Bílkoviny</dt><dd>165 g</dd><span class="sub">rozsah 150–180</span></div>
+    <div class="tgt"><dt>Tuky</dt><dd>75 g</dd><span class="sub">minimum 66</span></div>
+    <div class="tgt"><dt>Sacharidy</dt><dd>180 g</dd><span class="sub">zbytek kalorií</span></div>
+    <div class="tgt"><dt>Úbytek</dt><dd>0,45</dd><span class="sub">kg za týden</span></div>
+  </dl>
+
+  <div class="note note--crit">
+    <p><b>Bílkoviny jsou tvrdý cíl, ostatní jsou vodítko.</b> Když jeden den vyjdou sacharidy na 150 a druhý na 210, nic se neděje. Když vyjdou bílkoviny na 90, děje se hodně — to je ta jediná živina, která v deficitu rozhoduje, jestli ubude tuk, nebo sval.</p>
+  </div>
+
+  <h3 style="margin-top:34px">Jak jsem se k tomu dostal</h3>
   <div class="calc">
     <div class="crow">
       <span class="clabel">1 · Bazální metabolismus — Mifflin–St Jeor, ženy</span>
-      <span class="cform">BMR = (10 × váha kg) + (6,25 × výška cm) − (5 × věk) − 161</span>
+      <span class="cform">(10 × 82,5) + (6,25 × 175) − (5 × 28) − 161  =  1 618 kcal</span>
     </div>
     <div class="crow">
-      <span class="clabel">2 · Udržovací kalorie</span>
-      <span class="cform">Udržovací = BMR × 1,55</span>
+      <span class="clabel">2 · Udržovací — koeficient 1,55</span>
+      <span class="cform">1 618 × 1,55  ≈  2 510 kcal</span>
     </div>
     <div class="crow">
-      <span class="clabel">3 · Cíl</span>
-      <span class="cform">Cíl = Udržovací − 400 až 500 kcal</span>
+      <span class="clabel">3 · Cíl — deficit 450 kcal</span>
+      <span class="cform">2 510 − 450  ≈  2 050 kcal</span>
     </div>
   </div>
-  <p class="hint">Koeficient 1,55 odpovídá pěti tréninkům a dvěma běhům při jinak sedavém studiu. Celý výpočet je <b>odhad, ne měření</b> — skutečnost se může lišit o 200–300 kcal. Po dvou třech týdnech ho uprav podle toho, co dělá váha.</p>
+  <p class="hint">Koeficient 1,55 odpovídá pěti tréninkům a dvěma běhům při jinak sedavém studiu.</p>
 
-  <div class="tscroll" style="margin-top:26px"><table>
-    <thead><tr><th>Živina</th><th class="num">Kolik</th><th>Proč</th></tr></thead>
+  <div class="note note--crit">
+    <p><b>Číslo 2 050 je startovní bod, ne pravda.</b> Rovnice má u jednotlivce chybu klidně ±200–300 kcal a koeficient taky. Po dvou třech týdnech ho uprav podle toho, co reálně dělá váha.</p>
+    <p><b>Pozor na směr té chyby:</b> když je tvoje skutečná udržovací <em>vyšší</em>, než počítám, hubneš pomaleji, než čekáš. Když <em>nižší</em>, je deficit agresivnější, než ho chci mít. Proto se to po třech týdnech ověřuje, ne odhaduje.</p>
+  </div>
+
+  <h3 style="margin-top:34px">Jak 165 g bílkovin reálně vypadá</h3>
+  <div class="tscroll" style="margin-top:14px"><table>
+    <thead><tr><th>Jídlo</th><th class="num">Bílkoviny</th></tr></thead>
     <tbody>
-      <tr><td><b>Bílkoviny</b></td><td class="num">1,8–2,2 g/kg</td><td>Nejdůležitější číslo v plánu. Drží sval v deficitu.</td></tr>
-      <tr><td>Tuky</td><td class="num">min. 0,8 g/kg</td><td>Hormonální zdraví. Pod tuhle hranici nechoď.</td></tr>
-      <tr><td>Sacharidy</td><td class="num">zbytek</td><td>Palivo na trénink. Nejsou nepřítel.</td></tr>
-      <tr><td>Vláknina</td><td class="num">25–30 g</td><td>Sytost — rozhoduje, jestli to vydržíš.</td></tr>
+      <tr><td>Řecký jogurt 200 g + 2 vejce</td><td class="num">~32 g</td></tr>
+      <tr><td>Kuřecí prsa 200 g</td><td class="num">~46 g</td></tr>
+      <tr><td>Tvaroh 250 g</td><td class="num">~30 g</td></tr>
+      <tr><td>Maso nebo ryba 150 g k večeři</td><td class="num">~35 g</td></tr>
+      <tr><td>Odměrka syrovátkového proteinu</td><td class="num">~22 g</td></tr>
+      <tr><td><b>Celkem</b></td><td class="num"><b>≈ 165 g</b></td></tr>
+    </tbody>
+  </table></div>
+  <p class="hint">Orientační hodnoty, čti etikety. Tohle není jídelníček — je to ukázka, že to jde. 165 g není málo, ale s pěti zdroji denně to není dřina.</p>
+
+  <h3 style="margin-top:34px">Tempo a kdy přepočítat</h3>
+  <div class="tscroll" style="margin-top:14px"><table>
+    <tbody>
+      <tr><td>Čekaný úbytek</td><td class="num">0,4–0,5 kg / týden</td></tr>
+      <tr><td>Strop, který nepřekračovat</td><td class="num">0,83 kg / týden</td></tr>
+      <tr><td>Za 12 týdnů Girvan bloku</td><td class="num">−5 kg → ~77,5 kg</td></tr>
+      <tr><td><b>Přepočítat kalorie</b></td><td class="num"><b>po každých 5 kg dolů</b></td></tr>
+      <tr><td>Při 77,5 kg pak vychází</td><td class="num">udržovací 2 430 · cíl 1 980</td></tr>
     </tbody>
   </table></div>
 
-  <div class="note note--crit">
-    <p><b>Nikdy pod ~1 200 kcal a nikdy víc než 1 % tělesné hmotnosti týdně.</b> Při rychlejším hubnutí jde výrazně větší podíl úbytku ze svalu než z tuku. Rychleji znamená hůř vypadající výsledek — přesný opak toho, co chceš.</p>
+  <div class="note">
+    <p><b>Úbytek nebude lineární.</b> Prvních pár týdnů může spadnout víc kvůli vodě a glykogenu — <b>to není tuk a nevrať se z toho.</b> Později se tempo naopak zpomalí. Tempo 0,4–0,5 kg je záměrně na spodní hranici: rychleji by šlo, ale jde ti o to sval udržet.</p>
   </div>
 
   <div class="note">
-    <p><b>Doplňky, které dávají smysl:</b> kreatin monohydrát 3–5 g denně (nejlépe podložený doplněk vůbec, bezpečný) a syrovátkový protein (praktický způsob, jak dorazit bílkoviny — jídlo, ne kouzlo).</p>
+    <p><b>Doplňky, které dávají smysl:</b> kreatin monohydrát 3–5 g denně (nejlépe podložený doplněk vůbec, bezpečný) a syrovátkový protein — při cíli 165 g je to nejsnazší způsob, jak to dorazit.</p>
     <p><b>Vyhozené peníze:</b> spalovače tuků, L-karnitin, CLA, detoxy.</p>
   </div>
 </section>
@@ -787,10 +829,10 @@ Tlak n. hlavu 3.10.  2× 10 kg ×  9,  8, 8</pre>
   <ul class="todo">
     <li><b>Na kterém týdnu Girvan jsi?</b><span>V obrázku máš zvýrazněný IRON DAY 3, tedy týden 1 den 3. Znamená to, že jsi právě tam? Podle toho spočítám, kdy vyjde deload a kdy vynechat intervaly.</span></li>
     <li><b>Ověř týden 7, den 1</b><span>Podle mého odvození tam má být IRON DAY 16, ne FUEL DAY 16. Zkontroluj to v původním rozpisu.</span></li>
-    <li><b>Váha, výška, věk</b><span>Bez nich jsou ve výživě jen vzorce místo čísel.</span></li>
-    <li><b>Jak dlouho a jak těžce už trénuješ</b><span>Rozhoduje, jestli je růst svalů v deficitu reálný, nebo jen udržení.</span></li>
+    <li><b>Jak dlouho a jak těžce už trénuješ</b><span>Poslední chybějící věc. Začátečnice nebo návrat po pauze → svaly můžeš v deficitu i přibírat. Roky pravidelného těžkého tréninku → čekej udržení, ne růst.</span></li>
     <li><b>Je 40 kg na jednu ruku, nebo dohromady? Nakládací, nebo pevné?</b><span>Záložní rozpis předpokládá nakládací pár, max asi 40 kg na ruku.</span></li>
     <li><b>Těch 15 kg u rodičů — jednoručka, nebo kettlebell?</b><span>Kettlebell umí věci navíc: švihy, nošení.</span></li>
+    <li class="done"><b>Váha, výška, věk</b><span>82–83 kg · 175 cm · 28 let, doplněno 11. 9. 2026. Výživa je dopočítaná.</span></li>
     <li class="done"><b>Caroline Girvan IRON + FUEL</b><span>Doručeno 11. 9. 2026, uloženo v Inputs/girvan-IRON-a-FUEL-kalendar.png, rozebráno výš.</span></li>
   </ul>
 </section>
@@ -798,8 +840,8 @@ Tlak n. hlavu 3.10.  2× 10 kg ×  9,  8, 8</pre>
 <footer>
   <p><b>Zdroj pravdy je repozitář, ne tahle stránka.</b> Plný plán s odůvodněním žije v <code>Projekty/Zdravi/trenink.md</code>, originál kalendáře v <code>Projekty/Zdravi/Inputs/</code>. Když se plán mění, edituje se markdown a stránka se přegeneruje — ne naopak.</p>
   <p><b>Nejsem lékař.</b> Tohle je obecný tréninkový a výživový plán postavený na publikovaném výzkumu, ne zdravotní doporučení. Bolest, která není svalovka, závrať nebo poruchy cyklu → lékař.</p>
-  <p>Názvy tréninků jsou <b>přepsané z tvého screenshotu</b>. Obsah programů IRON a FUEL nemám — cviky, série, opakování ani pauzy odsud nečti, ty jsou u Girvan. Tvrzení o frekvenci, přetížení, deloadu, bílkovinách a tempu hubnutí vycházejí z publikovaných meta-analýz a doporučení <span class="mono">[obecné znalosti]</span>, neověřeno proti zdroji od tebe. Periodizace podle fází menstruačního cyklu v plánu záměrně není: evidence je zatím slabá a nekonzistentní.</p>
-  <p>Blok I · verze 2.0 · 11. září 2026</p>
+  <p>Názvy tréninků jsou <b>přepsané z tvého screenshotu</b>. Obsah programů IRON a FUEL nemám — cviky, série, opakování ani pauzy odsud nečti, ty jsou u Girvan. Tvrzení o frekvenci, přetížení, deloadu, bílkovinách a tempu hubnutí vycházejí z publikovaných meta-analýz a rovnic a doporučení <span class="mono">[obecné znalosti]</span>, neověřeno proti zdroji od tebe. Periodizace podle fází menstruačního cyklu v plánu záměrně není: evidence je zatím slabá a nekonzistentní.</p>
+  <p>Blok I · verze 2.1 · 11. září 2026</p>
 </footer>
 
 </div>
