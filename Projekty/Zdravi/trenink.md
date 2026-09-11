@@ -1,6 +1,6 @@
 # Tréninkový plán — rekompozice s prioritou hubnutí
 
-**Založeno:** 2026-09-11 · **Verze:** 2.1 — Girvan IRON + FUEL, výživa dopočítaná · **Přepisuje se, nezakládá se nová**
+**Založeno:** 2026-09-11 · **Verze:** 3.0 — Girvan IRON + FUEL, výživa a složení těla podložené InBody · **Přepisuje se, nezakládá se nová**
 
 📄 **Karta do posilovny (Google dokument):** https://docs.google.com/document/d/1noLXF_ml1x9d7YwT8zyZ9NnlV1WZH1PC3qCoR40L_vM/edit
 🏋️ **Interaktivní artefakt:** https://claude.ai/code/artifact/2c7037b0-2645-4ea9-b02a-106042031e57 — zdroj: `Outputs/rekompozice-blok-I.html`
@@ -19,7 +19,9 @@
 | Tréninkových dní týdně | **5** (zvoleno 2026-09-11) |
 | Běh — současná úroveň | uběhne **3–5 km** |
 | Priorita | **hubnout, svaly udržet** |
-| Váha / výška / věk | **82–83 kg · 175 cm · 28 let** (doplněno 2026-09-11) |
+| Váha / výška | **82–83 kg · 175 cm** (doplněno 2026-09-11) |
+| Věk | ⚠️ **rozpor** — Tessa uvedla 28, InBody uvádí 26 (nar. 12. 1. 2000). Počítám s **26**, viz 6.7 |
+| Složení těla | **InBody 21. 4. 2026** — `Inputs/inbody-2026-04-21.png`, rozbor v sekci 6a |
 | Lokace do konce září | doma u rodičů — **klec (power rack)** + jednoručky **2–40 kg** + jedna **15 kg** |
 | Lokace od října | **Plzeň** — jednoručky 5 / 8 / 10 / 24 kg **+ sada 2–40 kg, kterou si veze z domova** |
 
@@ -332,9 +334,15 @@ Tohle není jídelníček, je to **ukázka, že to jde**. 165 g není málo — 
 
 ⚠️ **Tempo 0,4–0,5 kg je záměrně na spodní hranici.** Rychleji by šlo, ale jde ti o to sval udržet — a rychlejší hubnutí znamená větší podíl úbytku ze svalu.
 
-### 6.5 Ještě jedna otevřená věc
+### 6.5 Co od bloku čekat — ZODPOVĚZENO InBody skenem
 
-**Pořád nevím, jak dlouho a jak těžce trénuješ.** Rozhoduje to o jedné konkrétní věci: jestli v deficitu můžeš svaly i **přibírat** (začátečnice nebo návrat po pauze — ano, docela dobře), nebo jen **udržet** (roky pravidelného těžkého tréninku — pak růst v deficitu prakticky nečekej). Napiš to a upřesním, co od bloku čekat.
+**Sval ti v deficitu poroste minimálně nebo vůbec, protože už ho máš.** Podrobně v sekci 6a.2. Čekej **udržení 31,9 kg svaloviny a úbytek tuku** — což je přesně to, co dá tu vyrýsovanou postavu, o kterou ti jde.
+
+### 6.7 ⚠️ Rozpor ve věku
+
+Napsala jsi **28 let**. InBody uvádí **26** a datum narození **12. 1. 2000** — k dnešku (11. 9. 2026) z toho vychází **26 let**.
+
+**Na plán to nemá vliv** — rozdíl dvou let dělá v BMR 10 kcal a hlavní výpočet stejně jedu přes naměřenou FFM, kde věk nefiguruje vůbec. Ale **ve vaultu má být správný fakt**, tak mi napiš, které číslo platí. Zatím počítám s 26.
 
 ### 6.6 Doplňky
 
@@ -344,6 +352,115 @@ Tohle není jídelníček, je to **ukázka, že to jde**. 165 g není málo — 
 | **Syrovátkový protein** | ✅ Není nutný, ale při cíli 165 g je to nejsnazší způsob, jak to dorazit. Jídlo, ne kouzlo. |
 | **Vitamín D** | ⚠️ V ČR je v zimě nedostatek běžný — dávkování si ale nech doporučit od lékaře, ne ode mě. |
 | **Spalovače tuků, L-karnitin, CLA, detoxy** | ❌ Zanedbatelný nebo žádný efekt. Vyhozené peníze. |
+
+## 6a. ⭐ InBody — co to mění
+
+**Zdroj:** `Inputs/inbody-2026-04-21.png` · InBody270S, Max Fitness Slovany, Plzeň · **21. 4. 2026** *(v chatu zmíněno jako „z května" — test je z dubna)*
+
+> 🔒 **Citlivá data.** Tenhle rozbor zůstává v privátním repu. Do artefaktu jsem dal jen tréninkový závěr — bez jména, ID, útrobního tuku a stupně obezity. Kdybys je tam chtěla taky, řekni.
+
+### 6a.1 Naměřeno
+
+| | Hodnota | Referenční rozsah | |
+|---|---|---|---|
+| Hmotnost | 80,3 kg | 54,7–73,9 | nad |
+| **Hmotnost kosterních svalů** | **31,9 kg** | — | **nad** |
+| **Hmota bez tuku (FFM)** | **57,1 kg** | 44,6–54,5 | **výrazně nad** |
+| Množství tělesného tuku | 23,2 kg | 12,9–20,6 | nad |
+| Procento tělesného tuku | 28,9 % | — | |
+| Bílkovina | 11,2 kg | 8,8–10,8 | nad |
+| Minerály | 4,18 kg | 3,03–3,71 | nad |
+| Celková tělesná voda | 41,7 L | 32,8–40,0 | nad |
+| BMI | 26,2 | — | |
+| **SMI** | **7,8 kg/m²** | — | vysoko nad průměrem |
+| Bazální metabolická míra | 1 603 kcal | 1 572–1 839 | |
+| Poměr pasu a hýždí | 0,93 | 0,75–0,85 | nad |
+| Cílová hmotnost dle přístroje | 74,2 kg | — | tuk −6,1 kg, **svaly 0,0 kg** |
+
+**Segmentálně — svalovina:** obě paže 120 %, trup 110 %, obě nohy 111 % oproti očekávání. **Všechny segmenty nad normou a symetrické** (rozdíl levá/pravá do 0,03 kg).
+
+**Segmentálně — tuk:** paže a nohy klasifikované jako normální, **trup 202,7 %** očekávané hodnoty.
+
+### 6a.2 ⭐ Hlavní závěr: **nejsi začátečnice a máš hodně svalu**
+
+Tohle zavírá otázku, kterou jsem v sekci 6.5 nechával otevřenou.
+
+- FFM **57,1 kg** proti hornímu okraji normy 54,5
+- SMI **7,8 kg/m²** — hranice pro nízkou svalovou hmotu u žen se pohybuje kolem 5,5–5,7 `[obecné znalosti]`, jsi vysoko nad
+- Bílkovina, minerály i voda nad normou — **to jsou všechno složky svalové tkáně, jdou nahoru společně**
+- Všechny čtyři končetiny nad 110 %
+- **Přístroj sám doporučuje „Kontrola svalová 0,0 kg"** — tedy žádný sval nepřidávat
+
+Pět nezávislých ukazatelů říká totéž. Na měřicí chybu BIA to je moc konzistentní.
+
+**Co z toho plyne pro tvoje zadání „aby mi rostly svaly":**
+
+> **Sval ti v deficitu poroste minimálně nebo vůbec — protože už ho máš.** Tvůj problém není nedostatek svalu, ale **23 kg tuku, ze kterého je 12,3 kg na trupu.** Ta vyrýsovaná postava, kterou chceš, je pod tím už hotová. Nestaví se, odkrývá se.
+
+To je dobrá zpráva převlečená za špatnou. Kdybys sval neměla, byl by to projekt na roky. Takhle je to projekt na měsíce.
+
+### 6a.3 InBody potvrdil můj výpočet kalorií
+
+| Metoda | BMR |
+|---|---|
+| Mifflin–St Jeor (82,5 kg, 26 let) | 1 628 kcal |
+| **Katch–McArdle z naměřené FFM** `370 + 21,6 × 57,1` | **1 603 kcal** |
+| **InBody uvádí** | **1 603 kcal** |
+
+Katch–McArdle sedí na jejich číslo přesně — **InBody počítá BMR z hmoty bez tuku**, proto je u tebe věrohodnější než Mifflin. Obě metody se ale shodují do 1,5 %.
+
+**→ Udržovací ≈ 2 485–2 525 kcal. Cíl ≈ 2 050 kcal zůstává. Nic neměním.**
+
+⚠️ **InBody doporučuje 1 939 kcal — já 2 050. Ten rozdíl je záměrný:** jejich číslo je obecné a neví, že děláš pět Girvan tréninků a dva běhy týdně. Moje s tím počítá. **Kdybys jela na 1 939 při téhle zátěži, je to zbytečně agresivní deficit** — a u tebe s 31,9 kg svalu je zbytečná agresivita tou nejdražší chybou, jakou můžeš udělat.
+
+### 6a.4 Bílkoviny — 165 g potvrzeno druhou metodou
+
+Doporučení pro sportovce v deficitu je **2,3–3,1 g na kg hmoty bez tuku** `[obecné znalosti, Helms et al. 2014]`.
+
+| Metoda | Rozsah | Kde leží 165 g |
+|---|---|---|
+| Podle tělesné hmotnosti (1,8–2,2 g/kg) | 148–182 g | 2,0 g/kg |
+| **Podle naměřené FFM (2,3–3,1 g/kg)** | **131–177 g** | **2,89 g/kg FFM** |
+
+**Obě metody se překrývají a 165 g leží uvnitř obou. Číslo zůstává.**
+
+### 6a.5 Realistický časový výhled
+
+InBody cílí na **74,2 kg** — to je tuk 17,1 kg a **23,0 % tělesného tuku při zachování všech 57,1 kg svaloviny.** Jejich cíl tedy předpokládá přesně to, co má tenhle plán zajistit.
+
+| | |
+|---|---|
+| Z 82,5 na 74,2 kg | **8,3 kg** |
+| Při tempu 0,45 kg/týden | **~18 týdnů čistého hubnutí** |
+| S deloady a udržovacími týdny | **realisticky 5–6 měsíců** |
+| Po 13týdenním Girvan bloku budeš zhruba | **77,5 kg** — asi 60 % cesty |
+
+⚠️ **Tohle není dvanáctitýdenní projekt.** Girvan blok je první třetina. Když to budeš čekat hotové v prosinci, v prosinci to vzdáš. **Čekej jaro.**
+
+### 6a.6 Nový nástroj měření — a proč je pro tebe zásadní
+
+Váha ti neřekne, jestli ubývá tuk, nebo sval. **InBody ano.** A máš ho v Plzni, kam se v říjnu stěhuješ.
+
+**Protokol:**
+1. **Nový sken hned na startu bloku** — ten dubnový je pět měsíců starý a jsi o 2 kg jinde
+2. **Pak po 12. týdnu** (druhý deload)
+3. **Vždy za stejných podmínek:** ráno, nalačno, před tréninkem, po záchodě, podobná hydratace
+
+⚠️ **BIA má reálnou měřicí chybu a reaguje na vodu, jídlo, trénink i denní dobu.** Čti **trend mezi skeny za stejných podmínek**, ne jednotlivé číslo na desetinu. Dva skeny ve stejný den umí dát jiný výsledek.
+
+**Co sledovat:** hmotnost dolů, **hmota bez tuku a hmotnost kosterních svalů co nejvíc nastejno**, tuk dolů. Když FFM klesá rychleji než o ~0,2–0,3 kg za sken, je deficit moc velký nebo málo bílkovin.
+
+### 6a.7 Obvod pasu teď dává dvojnásobný smysl
+
+Máš poměr pasu a hýždí **0,93** a tuk na trupu 202,7 % očekávané hodnoty — **tvůj tuk je soustředěný centrálně.** Proto je týdenní měření pasu u tebe informativnější než u většiny lidí: pas se bude hýbat jako první a nejvýrazněji.
+
+**Změř si pas hned teď a zapiš jako výchozí hodnotu.**
+
+### 6a.8 ⚠️ Co si nevykládám
+
+Sken uvádí **úroveň útrobního tuku 9** a **stupeň obezity 125 %**. **Zdravotní výklad těchhle čísel mi nepřísluší a dělat ho nebudu** — na to je lékař, ne tréninkový plán. Zmiňuju je jen proto, že v tom dokumentu jsou a ty je uvidíš.
+
+Co říct můžu: **centrální tuk na kalorický deficit reaguje dobře** `[obecné znalosti]`. Ten směr je správný, ať už si z těch čísel odnese lékař cokoli.
 
 ## 7. Progresivní přetížení — jak konkrétně
 

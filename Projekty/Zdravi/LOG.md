@@ -7,6 +7,13 @@ Zapisuje se přes `/session-close`. Živý rozpracovaný stav sem NEPATŘÍ — 
 
 ## 2026
 
+- 2026-09-11 — **InBody sken (21. 4. 2026) doručen** → `Inputs/inbody-2026-04-21.png`. ZÁSADNÍ ZJIŠTĚNÍ: FFM 57,1 kg (norma 44,6–54,5), SMI 7,8, svalovina nad normou na všech segmentech, přístroj sám doporučuje svalovou kontrolu 0,0 kg → **Tessa NENÍ začátečnice, růst svalů v deficitu nečekat.** Cíl bloku přerámován z „růst" na „ubránit sval při úbytku tuku"
+- 2026-09-11 — InBody **potvrdil výpočet kalorií**: Katch–McArdle z naměřené FFM dá 1603 kcal, přesně jejich číslo; Mifflin dal 1628. Udržovací ~2500, cíl 2050 kcal **beze změny**. Bílkoviny 165 g leží uvnitř rozsahu podle hmotnosti (148–182) i podle FFM (131–177)
+- 2026-09-11 — **Odmítnuto doporučení InBody na 1939 kcal** — je obecné a nepočítá s 5 tréninky + 2 běhy týdně; při její svalové hmotě je zbytečně agresivní deficit nejdražší chyba
+- 2026-09-11 — **Realistický výhled přepsán:** z 82,5 na cílových 74,2 kg je 8,3 kg ≈ 18 týdnů čistého hubnutí, s deloady 5–6 měsíců. Girvan blok = první třetina, ne celý projekt
+- 2026-09-11 — Přidán protokol opakovaného InBody (start + 12. týden, stejné podmínky, číst trend ne absolutní hodnotu); pas povýšen na klíčovou míru kvůli centrální distribuci tuku (WHR 0,93, trup 202,7 %)
+- 2026-09-11 — ⚠️ **Rozpor ve věku:** Tessa uvedla 28, InBody uvádí 26 (nar. 12. 1. 2000). Počítáno s 26, **čeká na potvrzení**
+- 2026-09-11 — Rozhodnuto: do artefaktu jde jen tréninkový závěr ze skenu, **jméno, ID, útrobní tuk a stupeň obezity zůstávají v privátním repu** (pravidlo o citlivých datech)
 - 2026-09-11 — **Tělesné údaje doplněny:** 82–83 kg, 175 cm, 28 let → výživa dopočítaná (BMR 1618, udržovací ~2510, cíl ~2050 kcal, 165 g bílkovin, tempo ~0,45 kg/týden). Přepočítat po každých 5 kg dolů
 - 2026-09-11 — ⚠️ **Disk se rozpadá na verze** — konektor umí měnit jen název dokumentu, ne obsah, takže každá revize = nový soubor. Ve složce Trénink jsou 2 zastaralé karty. Návrh: Disk vyřadit a jet na artefaktu, nebo si nechat vyrobit finální kartu a staré smazat — **čeká na Tessino rozhodnutí**
 - 2026-09-11 — **Girvan IRON + FUEL doručen** (screenshot → `Inputs/girvan-IRON-a-FUEL-kalendar.png`) a povýšen na HLAVNÍ plán; můj vlastní rozpis degradován na zálohu — důvod: adherence > teoretická optimalita
