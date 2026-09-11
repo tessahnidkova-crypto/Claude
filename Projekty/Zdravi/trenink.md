@@ -1,6 +1,6 @@
 # Tréninkový plán — rekompozice s prioritou hubnutí
 
-**Založeno:** 2026-09-11 · **Verze:** 3.0 — Girvan IRON + FUEL, výživa a složení těla podložené InBody · **Přepisuje se, nezakládá se nová**
+**Založeno:** 2026-09-11 · **Verze:** 4.0 — vlastní 40minutový plán na míru, Girvan jako varianta B · **Přepisuje se, nezakládá se nová**
 
 📄 **Karta do posilovny (Google dokument):** https://docs.google.com/document/d/1noLXF_ml1x9d7YwT8zyZ9NnlV1WZH1PC3qCoR40L_vM/edit
 🏋️ **Interaktivní artefakt:** https://claude.ai/code/artifact/2c7037b0-2645-4ea9-b02a-106042031e57 — zdroj: `Outputs/rekompozice-blok-I.html`
@@ -22,7 +22,9 @@
 | Váha / výška | **82–83 kg · 175 cm** (doplněno 2026-09-11) |
 | Věk | ⚠️ **rozpor** — Tessa uvedla 28, InBody uvádí 26 (nar. 12. 1. 2000). Počítám s **26**, viz 6.7 |
 | Složení těla | **InBody 21. 4. 2026** — `Inputs/inbody-2026-04-21.png`, rozbor v sekci 6a |
-| Lokace do konce září | doma u rodičů — **klec (power rack)** + jednoručky **2–40 kg** + jedna **15 kg** |
+| Lokace do konce září | doma u rodičů — **klec (power rack) s KLADKOU** + jednoručky **2–40 kg** + jedna **15 kg** |
+| Délka tréninku | **max 40 minut** (zadáno 2026-09-11) |
+| Priority | **paže · ramena · hýždě.** Kvadricepsy méně, **lýtka vůbec** |
 | Lokace od října | **Plzeň** — jednoručky 5 / 8 / 10 / 24 kg **+ sada 2–40 kg, kterou si veze z domova** |
 
 ### ❌ K DOPLNĚNÍ
@@ -64,185 +66,151 @@ Vytrvalostní trénink tlumí silové a hypertrofické adaptace, nejvíc na doln
 
 ---
 
-## 2. ZÁLOŽNÍ týdenní struktura — 5 tréninků + 2 běhy
+## 2. ⚠️ Proč Girvan přestala být hlavní plán
 
-> ℹ️ Hlavní rozvrh je Girvanin kalendář (sekce 11), kde jsou Rest dny pevně na dni 4 a 6. Tenhle rozvrh platí pro záložní rozpisy.
+**Tvoje nové zadání to rozhodlo za nás.** Chceš:
 
-| Den | Trénink | Cardio / kroky |
-|---|---|---|
-| **Po** | **Dolní A** — kvadricepsy důraz | chůze 8–10 k kroků |
-| **Út** | **Horní A** — tlaky důraz | chůze |
-| **St** | volno (posilovna) | **Intervalový běh** + mobilita 10 min |
-| **Čt** | **Horní B** — tahy důraz | chůze |
-| **Pá** | **Dolní B** — hamstringy + hýždě důraz | chůze |
-| **So** | **Doplňkový** — hýždě / ramena / core (lehký) | **Zóna 2 běh** 30–45 min |
-| **Ne** | volno | dlouhá chůze, protahování |
-
-**Proč zrovna takhle:**
-- Každá partie **2× týdně** (doplňkový den dělá z hýždí a ramen 3×). Frekvence 2× > 1× při stejném objemu `[obecné znalosti, Schoenfeld 2016 meta]`.
-- **Intervaly ve středu**, protože čtvrtek jsou horní partie — nohy se stihnou zotavit na páteční Dolní B.
-- **Sobota lehká** — v deficitu je regenerace horší. Pátý den nesmí být pátý těžký den, jinak to za měsíc zabalíš.
-
-### ⚠️ Minimální týden — pro zkouškové (tohle je ta nejdůležitější část celého plánu)
-
-Studuješ zubní lékařství a v roce 2026/27 tě čeká farmakologie, patofyziologie a patologie. Zkouškové ti tenhle rozpis **rozbije**. Není to selhání, je to jistota — počítej s tím dopředu.
-
-**Když nastane peklo, nesmíš spadnout na nulu. Spadneš sem:**
-
-- **2 celotělové tréninky týdně**, 45 minut, 5 cviků: dřep · tlak · tah · hip thrust · core
-- **Kroky** — chodit se dá i s kartičkami v ruce
-- **Bílkoviny** — tahle položka neklesá nikdy, ani ve zkouškovém
-
-2 tréninky týdně svalovou hmotu **udrží** `[obecné znalosti]`. Nula ji za měsíc sundá. Rozdíl mezi 2 a 0 je mnohem větší než mezi 5 a 2.
-
----
-
-## 3. ZÁLOŽNÍ rozpis A — DOMA U RODIČŮ (klec)
-
-> ℹ️ **Tohle není hlavní plán.** Hlavní plán je Girvan IRON + FUEL (sekce 11). Tenhle rozpis si nech pro dny, kdy nemáš přístup k programu, nebo kdybys chtěla jet blok postavený na číslech místo na videích.
-
-> Předpoklad: power rack, velká činka s kotouči, lavice, hrazda. **Když něco z toho není, řekni a přepíšu to.**
-
-**Zkratky:** `RIR` = reps in reserve, kolik opakování ti ještě zbývalo do selhání. `4×6–8` = 4 série po 6–8 opakováních.
-
-### Dolní A — kvadricepsy důraz
-
-| # | Cvik | Série × opak. | RIR | Pauza |
-|---|---|---|---|---|
-| 1 | Dřep s velkou činkou (back squat) | 4 × 5–8 | 2 | 3 min |
-| 2 | Rumunský mrtvý tah (RDL) | 3 × 8–10 | 2 | 2–3 min |
-| 3 | Bulharský dřep (zadní noha na lavici) | 3 × 8–10 / noha | 1–2 | 90 s |
-| 4 | Hip thrust s činkou | 3 × 8–12 | 1–2 | 2 min |
-| 5 | Výpony na lýtka | 3 × 12–15 | 0–1 | 60 s |
-| 6 | Zvedání kolen ve visu na hrazdě | 3 × 10–15 | 1 | 60 s |
-
-### Horní A — tlaky důraz
-
-| # | Cvik | Série × opak. | RIR | Pauza |
-|---|---|---|---|---|
-| 1 | Bench press (tlak na lavici) | 4 × 6–8 | 2 | 3 min |
-| 2 | Tlak nad hlavu ve stoje (OHP) | 3 × 6–10 | 2 | 2–3 min |
-| 3 | Přítahy velké činky v předklonu | 4 × 8–10 | 2 | 2 min |
-| 4 | Shyby (s dopomocí / negativní) | 3 × max | 1 | 2 min |
-| 5 | Boční rozpažky s jednoručkami | 3 × 12–20 | 0–1 | 60 s |
-| 6 | Triceps — francouzský tlak nebo kliky na hrazdě | 3 × 10–15 | 0–1 | 60 s |
-
-### Horní B — tahy důraz
-
-| # | Cvik | Série × opak. | RIR | Pauza |
-|---|---|---|---|---|
-| 1 | Shyby (nebo stahování kladky / gumy) | 4 × 5–8 | 1–2 | 3 min |
-| 2 | Tlak nad hlavu (OHP) | 4 × 6–8 | 2 | 3 min |
-| 3 | Přítahy jednoruč v předklonu | 3 × 8–12 / ruka | 1–2 | 90 s |
-| 4 | Kliky (nohy nahoře, když jsou lehké) | 3 × max | 0–1 | 90 s |
-| 5 | Rozpažky v předklonu / face pull s gumou | 3 × 15–20 | 0–1 | 60 s |
-| 6 | Biceps — zdvihy s velkou nebo jednoručkami | 3 × 10–15 | 0–1 | 60 s |
-
-### Dolní B — hamstringy + hýždě důraz
-
-| # | Cvik | Série × opak. | RIR | Pauza |
-|---|---|---|---|---|
-| 1 | Mrtvý tah (konvenční) | 3 × 4–6 | 2–3 | 3 min |
-| 2 | Hip thrust s činkou | 4 × 8–12 | 1 | 2 min |
-| 3 | Goblet dřep nebo přední dřep | 3 × 8–12 | 1–2 | 2 min |
-| 4 | Nordic curl (dopomoc) nebo hamstring curl s ručníkem | 3 × 6–10 | 1 | 90 s |
-| 5 | Výpady chůzí | 3 × 10 / noha | 0–1 | 90 s |
-| 6 | Pallof press / side plank | 3 × 30–45 s | — | 45 s |
-
-### Sobota — doplňkový, lehký (45 min, RIR 1–2, žádné selhání)
-
-Hip thrust 3×15 · boční rozpažky 3×20 · přítahy 3×12 · kliky 3× max · abdukce s gumou (odnožování) 3×20 · mrtvý brouk / plank 3×
-
----
-
-## 4. ZÁLOŽNÍ rozpis B — PLZEŇ (sada 2–40 kg + jednoručky 5 / 8 / 10 / 24 kg)
-
-> ℹ️ Stejně jako sekce 3 — záloha k hlavnímu plánu v sekci 11.
-
-### ✅ Sada 2–40 kg mění všechno
-
-Původní verze tohohle plánu řešila, čím zaplnit díru mezi 10 a 24 kg. **Ta díra zmizela.** S nakládacími jednoručkami 2–40 kg máš v Plzni prakticky plnohodnotnou domácí posilovnu a rozpis B se může skoro krýt s rozpisem A.
-
-**Co ti v Plzni oproti kleci pořád chybí — a co s tím:**
-
-| Chybí | Dopad | Řešení |
-|---|---|---|
-| **Hrazda** (svislé přítahy) | 🔴 Největší mezera. Shyby nenahradíš ničím úplně. | **Hrazda do zárubně, ~400–800 Kč.** Tohle je teď investice č. 1. |
-| **Úchop u těžkých tahů** | 🟠 Nad ~25 kg na ruku ti u RDL a přítahů povolí ruce dřív než záda a nohy. | **Trhačky (popruhy), ~200 Kč.** Investice č. 2 — levná a okamžitě znát. |
-| **Lavice** | 🟡 Bench press, šikmé tlaky. | Floor press na zemi + gauč na hip thrust a bulharské dřepy. Lavice až když zbudou peníze. |
-| **Velká činka** (těžký dřep, mrtvý tah) | 🟡 Jednoruční varianty mají strop v úchopu, ne ve svalu. | Jednostranné cviky + tempo. **Tohle doháníš o víkendech v kleci u rodičů.** |
-
-**⚠️ Praktická poznámka ke stěhování:** nakládací sada do 40 kg s kotouči váží desítky kilo. Když se nevejde všechno, ber **osy + střední kotouče** (1,25 / 2,5 / 5 kg) — právě ty dělají jemnou progresi. Pevné 5/8/10/24 kg už v Plzni jsou.
-
-**Odporové gumy** (dřív doporučení č. 1) jsou teď **volitelné** — hodí se na odnožování, face pully a rozcvičení, ne jako hlavní zátěž.
-
-### Jak přetěžovat s pevnými váhami — 5 nástrojů
-
-Když nemůžeš přidat kilo, přidáš tohle `[obecné znalosti]`:
-
-1. **Dvojitá progrese** — drž váhu, přidávej opakování až na horní hranici rozsahu (např. 8→12), pak teprve přidej váhu a spadni zpátky na 8. **Základní nástroj, používej vždycky.**
-2. **Jednostranně (unilaterálně)** — jedna noha = dvojnásobná zátěž na tu nohu. 24 kg na jedné noze je slušná dávka.
-3. **Tempo** — 3 s dolů, 1 s pauza dole, výbušně nahoru. Prodlouží čas pod napětím, sníží potřebnou váhu.
-4. **Rozsah pohybu** — hlubší dřep, výpad z vyvýšení, protažená pozice. Práce v protažení je pro růst nejcennější `[obecné znalosti, novější výzkum — silná evidence, ale ne uzavřená]`.
-5. **Blíž k selhání** — RIR 2 → RIR 0. Funguje, ale utahuje regeneraci, proto až jako poslední nástroj.
-
-### Dolní A — Plzeň
-
-| # | Cvik | Série × opak. | RIR |
-|---|---|---|---|
-| 1 | Bulharský dřep (zadní noha na gauči) | 4 × 8–12 / noha | 1–2 |
-| 2 | Goblet dřep nebo dřep s jednoručkami u ramen | 4 × 8–12 | 2 |
-| 3 | Rumunský mrtvý tah s jednoručkami | 3 × 8–12 | 2 |
-| 4 | Hip thrust zády o gauč | 4 × 10–15 | 1 |
-| 5 | Výstupy na židli | 3 × 10 / noha | 1 |
-| 6 | Výpony na lýtka jednonož | 3 × 15–20 | 0–1 |
-
-### Dolní B — Plzeň
-
-| # | Cvik | Série × opak. | RIR |
-|---|---|---|---|
-| 1 | Rumunský mrtvý tah, těžce (trhačky) | 4 × 6–10 | 2 |
-| 2 | Hip thrust zády o gauč, těžce | 4 × 8–12 | 1 |
-| 3 | Výpady chůzí | 3 × 10–12 / noha | 1 |
-| 4 | Nordic curl o postel (dopomoc) | 3 × 5–10 | 1 |
-| 5 | Dřep s pauzou 2 s dole | 3 × 12–15 | 1 |
-| 6 | Side plank / pallof press s gumou | 3 × 30–45 s | — |
-
-### Horní A — Plzeň (tlaky)
-
-| # | Cvik | Série × opak. | RIR |
-|---|---|---|---|
-| 1 | Floor press s jednoručkami | 4 × 6–10 | 2 |
-| 2 | Tlak jednoruček nad hlavu | 4 × 6–10 | 2 |
-| 3 | Přítahy jednoruč v předklonu | 3 × 8–12 / ruka | 1–2 |
-| 4 | Kliky (nohy na židli) | 3 × max | 0–1 |
-| 5 | Boční rozpažky | 3 × 12–20 | 0–1 |
-| 6 | Triceps — francouzský tlak vleže | 3 × 10–15 | 0–1 |
-
-### Horní B — Plzeň (tahy)
-
-| # | Cvik | Série × opak. | RIR |
-|---|---|---|---|
-| 1 | Shyby na hrazdě do zárubně *(až ji koupíš)* nebo přítahy jednoruč těžce | 4 × 5–10 | 1–2 |
-| 2 | Tlak jednoruček nad hlavu, těžce | 4 × 6–8 | 2 |
-| 3 | Přítahy obouruč v předklonu | 3 × 8–12 | 1–2 |
-| 4 | Přítahy pod stolem (inverted row) | 3 × max | 1 |
-| 5 | Rozpažky v předklonu / face pull s gumou | 3 × 15–20 | 0–1 |
-| 6 | Biceps — zdvihy s jednoručkami | 3 × 10–15 | 0–1 |
-
-### Sobota — Plzeň, lehký (45 min)
-
-Hip thrust 3×15 · boční rozpažky 3×20 · přítahy jednoruč 3×12 · kliky 3× max · odnožování 3×20 · mrtvý brouk 3×
-
-### Kam která váha spadne (orientačně, ne předpis)
-
-| Rozsah | Typicky |
+| Požadavek | Jde to v Girvan? |
 |---|---|
-| **2–10 kg** | boční rozpažky, rozpažky v předklonu, rotátory |
-| **10–25 kg** | tlaky nad hlavu, bicepsy, tricepsy, goblet dřep |
-| **25–40 kg** | přítahy jednoruč, RDL, hip thrust, bulharský dřep, floor press |
+| Max 40 minut | ❌ Délku videa nezkrátíš. Cvičí se, dokud běží. |
+| Vynechat lýtka | ❌ Nevíš dopředu, co v tréninku bude, a přeskakovat cviky v následovacím videu nejde rozumně. |
+| Přidat stah kladkou, tricepsy na kladce, face pully | ❌ Cviky si nevybíráš. |
+| Ubrat kvadricepsy, přidat hýždě | ❌ Rozložení objemu je dané. |
 
-**⚠️ Nad ~25 kg na ruku ti u tahů povolí úchop dřív než sval.** To není slabost zad — je to limit prstů. Trhačky za 200 Kč to vyřeší a odemknou ti horní třetinu sady.
+**Následovací program se z definice neupravuje.** Buď ho jedeš, jak je, nebo jedeš vlastní plán. Ty jsi právě popsala vlastní plán.
+
+> **Neměním názor, mění se zadání.** Minule jsem řekl „jeď Girvan", protože adherence poráží optimalitu. To platí pořád — ale platilo to pro plán bez omezení. **Plán, který nesmí přesáhnout 40 minut a má vynechat lýtka, Girvan poskytnout neumí.**
+
+**Girvan zůstává jako varianta B** (sekce 11) — na dny, kdy chceš jen pustit video a nemyslet, nebo jako blok do budoucna.
+
+---
+
+## 3. HLAVNÍ PLÁN — 5 tréninků, každý do 40 minut
+
+### 3.1 Jak je to postavené
+
+| Den | Trénink | Odhad |
+|---|---|---|
+| **Po** | **Hýždě, těžce** | ~38 min |
+| **Út** | **Ramena a tricepsy** | ~36 min |
+| **St** | volno — běh (viz sekce 5) | — |
+| **Čt** | **Záda a bicepsy** | ~36 min |
+| **Pá** | **Hýždě a nohy, jednostranně** | ~34 min |
+| **So** | **Ramena, paže, core — pumpa** | ~34 min |
+| **Ne** | volno | — |
+
+**Odhad času počítá:** 5 min rozehřátí · série ≈ 40 s · pauzy tak, jak jsou v tabulkách napsané.
+
+**ⓢ = superséria.** Uděláš cvik A, 30 s, cvik B, pak teprve pauza. **Tohle je ten trik, díky kterému se do 40 minut vejde objem, co by jinak trval hodinu.** Používá se jen u doplňkových cviků — u prvního těžkého cviku v tréninku pauza zůstává celá, tam se růst svalu vyhrává a zkracovat ji je špatná úspora.
+
+### 3.2 Týdenní objem — kam jde práce
+
+| Partie | Sérií/týden | |
+|---|---|---|
+| **Hýždě** | 18–21 | ⭐ priorita — záměrně na horní hranici |
+| **Triceps** | 11 | ⭐ priorita |
+| **Zadní delty** | 10 | ⭐ face pully, jak jsi chtěla |
+| **Boční delty** | 8 | ⭐ priorita |
+| **Kvadricepsy** | 9 | ↓ záměrně sníženo |
+| Záda | 7 + face pully | |
+| Biceps | 7 | ⭐ priorita |
+| Tlaky nad hlavu | 7 | |
+| Hamstringy | 5 + přenos | |
+| **Prsa** | 3 | ⚠️ viz 3.6 |
+| **Lýtka** | **0** | ✅ dle zadání |
+
+⚠️ **Hýždě na 18–21 sériích jsou hodně** — produktivní rozsah je 10–20 a v deficitu jsem ti radil spodní polovinu. Tady jdu vědomě nahoru, protože je to tvoje priorita. **Když se po třech týdnech nebudeš stíhat regenerovat** (pořád bolavá, váhy klesají), **ubereš dvě série abdukcí a jednu sérii výpadů.** Ne dřív.
+
+### 3.3 ⚠️ Jedna věc v zadání si odporuje
+
+Napsala jsi „**nohy zvlášť tolik nepotřebuju**" a zároveň „**chci vyrýsovat zadek**". To nejde úplně oddělit:
+
+- **Hip thrust a abdukce** jsou čistě hýžďové cviky ✅
+- Ale **rumunský mrtvý tah, bulharský dřep a výpady** — tedy nejlepší cviky na hýždě, co existují — **jsou nohové cviky.** Hýždě jsou sval, který natahuje kyčel. Nedostaneš ho do práce, aniž bys pracovala nohou.
+
+**Co jsem tedy udělal:** vyhodil jsem **kvadricepsovou** práci (těžký dřep s velkou činkou, hack dřep, předkopávání). Zůstal **jeden goblet dřep týdně**, aby se stehno nerozpadlo. **Kyčelní a jednonohou práci vyhodit nešlo** — to by nebylo ubrání nohou, to by bylo ubrání hýždí.
+
+Tvoje nohy navíc ukázaly na InBody **111 % očekávané svaloviny** — máš je. Není co stavět, proto je snížení objemu v pořádku.
+
+### 3.4 🏠 DOMA — klec s kladkou
+
+> Předpoklad: power rack, **kladka** (horní i dolní), velká činka, lavice, hrazda, jednoručky 2–40 kg.
+> ⚠️ **Má klec horní i dolní kladku, nebo jen horní?** Podle toho upravím bicepsy a abdukce.
+
+#### Po — HÝŽDĚ, těžce · ~38 min
+
+| Cvik | Série × opak. | RIR | Pauza |
+|---|---|---|---|
+| Hip thrust s velkou činkou | 4 × 6–10 | 1–2 | 2 min |
+| Rumunský mrtvý tah | 3 × 8–12 | 2 | 2 min |
+| Bulharský dřep | 3 × 8–12 / noha | 1 | 90 s |
+| ⓢ Abdukce na kladce + Pallof press | 2 × 20 · 2 × 30 s | 0–1 | 60 s |
+
+#### Út — RAMENA A TRICEPSY · ~36 min
+
+| Cvik | Série × opak. | RIR | Pauza |
+|---|---|---|---|
+| Tlak nad hlavu s velkou činkou | 4 × 6–10 | 2 | 2 min |
+| ⓢ Boční rozpažky + **Tricepsový stah kladkou** | 4 × 12–20 · 4 × 10–15 | 0–1 | 60 s |
+| ⓢ Rozpažky v předklonu + **Francouzský tlak kladkou nad hlavu** | 3 × 15–20 · 3 × 10–15 | 0–1 | 60 s |
+
+#### Čt — ZÁDA A BICEPSY · ~36 min
+
+| Cvik | Série × opak. | RIR | Pauza |
+|---|---|---|---|
+| **Stahování kladky k hrudi** | 4 × 8–12 | 1–2 | 2 min |
+| Přítahy velké činky v předklonu | 3 × 8–12 | 2 | 2 min |
+| ⓢ **Face pull kladkou** + Bicepsový zdvih | 4 × 15–20 · 4 × 10–15 | 0–1 | 60 s |
+
+#### Pá — HÝŽDĚ A NOHY, jednostranně · ~34 min
+
+| Cvik | Série × opak. | RIR | Pauza |
+|---|---|---|---|
+| Hip thrust s 2s výdrží nahoře | 4 × 10–15 | 1 | 90 s |
+| Výpady chůzí | 3 × 10–12 / noha | 1 | 90 s |
+| Goblet dřep *(jediná kvadricepsová práce v týdnu)* | 3 × 10–15 | 1–2 | 90 s |
+| ⓢ Nordic curl + Abdukce | 2 × 6–10 · 2 × 20 | 1 | 60 s |
+
+#### So — RAMENA, PAŽE, CORE · pumpa, ~34 min
+
+| Cvik | Série × opak. | RIR | Pauza |
+|---|---|---|---|
+| ⓢ Boční rozpažky + **Tricepsový stah kladkou** | 4 × 15–20 · 4 × 12–15 | 0–1 | 45 s |
+| ⓢ **Face pull** + **Biceps na kladce** | 3 × 20 · 3 × 12–15 | 0–1 | 45 s |
+| ⓢ Tlak jednoruček nad hlavu + Kliky | 3 × 10–12 · 3 × max | 0–1 | 60 s |
+| Mrtvý brouk / Pallof press | 2 × 12 · 2 × 30 s | — | 45 s |
+
+### 3.5 🏙️ PLZEŇ — bez kladky
+
+**⚠️ Tohle je nová komplikace.** Půlka cviků, které chceš, jede na kladce — a **kladku si do Plzně nevezmeš.** Proto se **odporové gumy vracejí mezi nutnosti**, ne mezi doplňky, jak jsem psal minule.
+
+| Cvik na kladce | Náhrada v Plzni |
+|---|---|
+| Stahování kladky k hrudi | **Shyby na hrazdě do zárubně** *(koupě č. 1)*, jinak těžké přítahy jednoruč |
+| Tricepsový stah | **Tricepsový stah s gumou** přes hrazdu nebo dveře |
+| Francouzský tlak kladkou | Francouzský tlak s jednoručkou vleže |
+| Face pull kladkou | **Face pull s gumou** — funguje skoro stejně dobře |
+| Abdukce na kladce | **Abdukce s loop gumou** kolem kolen |
+| Biceps na kladce | Bicepsové zdvihy s jednoručkami |
+| Hip thrust s velkou činkou | Hip thrust zády o gauč, jednoručka 40 kg na klíně |
+
+**Nákupní seznam do Plzně, přerovnaný podle tvého nového zadání:**
+
+| # | Co | Cena | Proč |
+|---|---|---|---|
+| 1 | **Hrazda do zárubně** | 400–800 Kč | Jediná náhrada stahování kladky. Bez ní ti chybí svislý tah úplně. |
+| 2 | **Sada gum s rukojeťmi + loop gumy** | 500–900 Kč | **Povýšeno z „volitelné" na nutné** — face pully, tricepsy a abdukce jinak neuděláš. |
+| 3 | Trhačky | ~200 Kč | Nad 25 kg na ruku ti u tahů povolí úchop dřív než sval. |
+
+Zbytek rozpisu (série, opakování, pauzy, pořadí) zůstává úplně stejný.
+
+### 3.6 ⚠️ Co jsem záměrně obětoval — abys to věděla
+
+- **Lýtka: nula sérií.** Dle zadání. Pro tvoje cíle to nemá žádný dopad, lýtka jsou čistě estetická partie a ty je nechceš.
+- **Prsa: 3 série týdně (jen kliky).** Neuvedla jsi je mezi prioritami, tak jsem jim nechal minimum na udržení. **Když je chceš zpátky, řekni** — vyměním kliky za bench press v úterý a doplním tam sérii navíc.
+- **Kvadricepsy: 9 sérií místo 12–14.** Vědomé snížení, viz 3.3.
+
+**Nic z toho není chyba v plánu. Jsou to rozhodnutí, která jsi udělala ty, a já je jen zapsal, aby byla vidět.**
 
 ## 5. Běh a cardio
 
@@ -552,7 +520,9 @@ Tohle je odpověď na tvoji otázku. **Pět věcí. Když všechno ostatní padn
 
 ---
 
-## 11. ⭐ HLAVNÍ PLÁN — Caroline Girvan IRON + FUEL
+## 11. VARIANTA B — Caroline Girvan IRON + FUEL
+
+> ℹ️ **Od 2026-09-11 to není hlavní plán** — nejde zkrátit na 40 minut ani z něj vyndat lýtka. Viz sekce 2. Nech si ji na dny, kdy chceš jen pustit video, nebo jako blok do budoucna.
 
 **Zdroj:** `Inputs/girvan-IRON-a-FUEL-kalendar.png` (screenshot, doručeno 2026-09-11)
 
@@ -630,9 +600,9 @@ V kalendáři je **7 tréninků výslovně označených jako cardio nebo HIIT** 
 
 **Horní tělo dostává o něco méně než dolní** — zhruba 1,5–2 vyhrazené dny týdně oproti 2 na nohy. Pro tvůj cíl („vyrýsovat postavu") to není chyba, ale kdybys chtěla víc ramena a záda, přidej na Rest/Active den 3 série bočních rozpažek a 3 série přítahů. Trvá to deset minut a neubere to na regeneraci.
 
-### 11.6 ⚖️ VERDIKT
+### 11.6 ⚖️ Původní verdikt (přebit 2026-09-11)
 
-**Jeď IRON + FUEL. Nepřepisuj to.**
+**~~Jeď IRON + FUEL. Nepřepisuj to.~~** Platilo, dokud nepřišel požadavek na 40 minut a vlastní výběr cviků. Viz sekce 2.
 
 Můj vlastní rozpis (sekce 3 a 4) je na papíře lépe postavený na progresi. **Ale program, který pustíš a odcvičíš, porazí program, který je teoreticky lepší a ty ho v listopadu ve zkouškovém opustíš.** Adherence je u tebe vzácnější surovina než optimalita.
 

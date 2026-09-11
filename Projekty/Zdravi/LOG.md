@@ -7,6 +7,11 @@ Zapisuje se přes `/session-close`. Živý rozpracovaný stav sem NEPATŘÍ — 
 
 ## 2026
 
+- 2026-09-11 — **Girvan degradována na variantu B, hlavní je vlastní 40min plán** — Tessa zadala max 40 min, vynechat lýtka, priority paže/ramena/hýždě a konkrétní cviky na kladce. Následovací program tyhle úpravy z definice neumožňuje. Není to změna názoru, je to změna zadání
+- 2026-09-11 — **Nová informace o vybavení: klec u rodičů MÁ KLADKU.** Rozpis doma postaven kolem ní (stah k hrudi, tricepsy, face pully, abdukce). ⚠️ Neví se, jestli horní i dolní — čeká na doplnění
+- 2026-09-11 — **Gumy zpět mezi nutnosti** (podruhé obrácené rozhodnutí): kladka nejede do Plzně, takže půlka nových cviků tam nemá náhradu. Nákupní pořadí: hrazda → gumy → trhačky
+- 2026-09-11 — Pojmenován rozpor v zadání: „nohy nepotřebuju" + „chci zadek" nejde oddělit, protože RDL/bulharské dřepy/výpady JSOU nohové cviky. Vyhozena jen kvadricepsová práce (9 sérií místo 12–14), kyčelní a jednonohá zůstala
+- 2026-09-11 — Do 40 min se objem vejde přes antagonistické superséria u doplňků; u prvního těžkého cviku pauza zůstává celá. Obětováno vědomě: lýtka 0 sérií, prsa 3 série (jen kliky) — obojí označeno v plánu, Tessa může vrátit
 - 2026-09-11 — **InBody sken (21. 4. 2026) doručen** → `Inputs/inbody-2026-04-21.png`. ZÁSADNÍ ZJIŠTĚNÍ: FFM 57,1 kg (norma 44,6–54,5), SMI 7,8, svalovina nad normou na všech segmentech, přístroj sám doporučuje svalovou kontrolu 0,0 kg → **Tessa NENÍ začátečnice, růst svalů v deficitu nečekat.** Cíl bloku přerámován z „růst" na „ubránit sval při úbytku tuku"
 - 2026-09-11 — InBody **potvrdil výpočet kalorií**: Katch–McArdle z naměřené FFM dá 1603 kcal, přesně jejich číslo; Mifflin dal 1628. Udržovací ~2500, cíl 2050 kcal **beze změny**. Bílkoviny 165 g leží uvnitř rozsahu podle hmotnosti (148–182) i podle FFM (131–177)
 - 2026-09-11 — **Odmítnuto doporučení InBody na 1939 kcal** — je obecné a nepočítá s 5 tréninky + 2 běhy týdně; při její svalové hmotě je zbytečně agresivní deficit nejdražší chyba
