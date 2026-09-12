@@ -7,6 +7,8 @@ Zapisuje se přes `/session-close`. Živý rozpracovaný stav sem NEPATŘÍ — 
 
 ## 2026
 
+- 2026-09-12 — Video dokument zrušen (Tessa ho nechtěla), zbyl jeden plán. Přepracován na **přehledný**: 14 → 9 stran, každý trénink se celý vejde na jednu stranu (kompaktní řádky cviků s odznakem váhy), aby maminka při cvičení nelistovala. — Poučení: u papíru, podle kterého se reálně cvičí, je **rozložení na stránku důležitější než úplnost**.
+
 - 2026-09-12 — **OPRAVA: doma NENÍ velká činka.** Jen jednoručky 2,5–40 kg + lavice + hrazda. V dotazníku byla omylem vybraná „velká činka" a já na tom postavila dvě verze plánu. — **Poučení: když odpověď v dotazníku odporuje tomu, co Tessa napsala vlastními slovy dřív, platí ta vlastní slova** (hned v prvním zadání psala „máme doma 2,5–40kg činky"). Ověřit, ne stavět.
 - 2026-09-12 — Plán doplněn o konkrétní váhy u každého cviku (start + cíl za 12 týdnů), test na výběr správné váhy a rozepsaný příklad progrese trénink po tréninku. Přidány 3 strany jídelníčku: náběh po týdnech (přidávat, ne nahrazovat), ukázkový den ~2900 kcal / ~130 g bílkovin [orientační], nákupní seznam a kontrola váhou.
 
