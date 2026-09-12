@@ -34,7 +34,7 @@ h1,h2,h3,h4,.serif{font-family:"Bitstream Charter","Charter","DejaVu Serif",Geor
 .jrow{display:flex; gap:5mm; align-items:baseline; padding:3.4mm 0; border-bottom:1px solid rgba(232,196,180,.28);}
 .jrow .jl{font-size:8.2pt; letter-spacing:.18em; text-transform:uppercase; color:var(--gold); font-weight:bold; min-width:42mm;}
 .jrow .jt{font-size:10.2pt; color:#D8E2E5;}
-.tempo{background:var(--ink); color:#D8E2E5; border-radius:3mm; padding:4mm 6mm; margin-bottom:6mm; font-size:9.4pt; line-height:1.45;}
+.tempo{background:var(--ink); color:#D8E2E5; border-radius:3mm; padding:3mm 5mm; margin-bottom:0; font-size:8.6pt; line-height:1.4;}
 .tempo b{color:var(--gold);}
 .cover .foot{margin-top:auto; padding-top:8mm; font-size:8pt; color:#8FA3A9; line-height:1.5;}
 
@@ -46,29 +46,29 @@ h1,h2,h3,h4,.serif{font-family:"Bitstream Charter","Charter","DejaVu Serif",Geor
 .pfoot{position:absolute; bottom:8mm; left:15mm; font-size:8pt; color:var(--mut); letter-spacing:.08em;}
 
 /* ---------- PRINCIPLE CARDS ---------- */
-.pcard{display:flex; gap:6mm; margin-bottom:6mm; background:var(--soft); border-radius:3mm; padding:6mm 7mm; page-break-inside:avoid;}
-.pcard .n{font-family:"Bitstream Charter",serif; font-size:30pt; color:var(--acc); line-height:.9; min-width:14mm;}
-.pcard h3{font-size:13pt; margin-bottom:1.5mm;}
-.pcard p{font-size:10pt;}
+.pcard{display:flex; gap:5mm; margin-bottom:3mm; background:var(--soft); border-radius:3mm; padding:3.4mm 6mm; page-break-inside:avoid;}
+.pcard .n{font-family:"Bitstream Charter",serif; font-size:23pt; color:var(--acc); line-height:.9; min-width:14mm;}
+.pcard h3{font-size:11.8pt; margin-bottom:1mm;}
+.pcard p{font-size:9.4pt; line-height:1.45;}
 
 /* ---------- WEEK STRIP ---------- */
 .week{display:flex; gap:2mm; margin:4mm 0 7mm;}
-.day{flex:1; text-align:center; border:1.5px solid var(--line); border-radius:2mm; padding:4mm 1mm; font-size:8.5pt; color:var(--mut);}
+.day{flex:1; text-align:center; border:1.5px solid var(--line); border-radius:2mm; padding:3mm 1mm; font-size:8.5pt; color:var(--mut);}
 .day b{display:block; font-size:9.5pt; color:var(--ink); letter-spacing:.08em;}
 .day.on{background:var(--ink); border-color:var(--ink); color:#C9D6DA;}
 .day.on b{color:var(--acc-l);}
 .day .m{display:block; margin-top:2mm; font-size:7.5pt; letter-spacing:.1em; text-transform:uppercase;}
 
 /* ---------- EXERCISE CARD ---------- */
-.ex{border:1.5px solid var(--line); border-radius:3mm; margin-bottom:5.5mm; page-break-inside:avoid; overflow:hidden;}
-.ex-h{display:flex; align-items:center; gap:5mm; background:var(--ink); color:#fff; padding:4mm 6mm;}
+.ex{border:1.5px solid var(--line); border-radius:3mm; margin-bottom:4.2mm; page-break-inside:avoid; overflow:hidden;}
+.ex-h{display:flex; align-items:center; gap:5mm; background:var(--ink); color:#fff; padding:3.2mm 6mm;}
 .ex-h .num{font-family:"Bitstream Charter",serif; font-size:20pt; color:var(--gold); line-height:1; min-width:9mm;}
 .ex-h h3{font-size:14pt; color:#fff; line-height:1.15;}
 .ex-h .what{font-size:8.2pt; color:#A9BEC4; letter-spacing:.06em; margin-top:.8mm;}
-.ex-b{padding:5mm 6mm 5mm;}
-.ex-b ol{margin:0 0 3.5mm 5mm; font-size:10pt;}
-.ex-b ol li{margin-bottom:1.3mm; padding-left:1mm;}
-.pozor{background:#FBF1EC; border-left:3.5px solid var(--acc); padding:3mm 4.5mm; border-radius:0 2mm 2mm 0; font-size:9.2pt; margin-bottom:3.5mm;}
+.ex-b{padding:3.8mm 6mm 4mm;}
+.ex-b ol{margin:0 0 2.8mm 5mm; font-size:9.6pt;}
+.ex-b ol li{margin-bottom:0.9mm; padding-left:1mm;}
+.pozor{background:#FBF1EC; border-left:3.5px solid var(--acc); padding:2.6mm 4.2mm; border-radius:0 2mm 2mm 0; font-size:8.8pt; line-height:1.45; margin-bottom:0;}
 .pozor b{color:var(--acc);}
 .dose{display:inline-block; background:var(--ink); color:var(--gold); font-weight:bold;
       font-size:10pt; letter-spacing:.06em; padding:2.5mm 5mm; border-radius:2mm;}
@@ -99,23 +99,22 @@ p{margin-bottom:2.5mm;}
 .log th{font-size:7.8pt;}
 </style></head><body>
 
-<!-- ===== 1. COVER ===== -->
+<!-- 1. COVER -->
 <div class="page cover"><div class="cover-in">
-  <div class="eyebrow">Tréninkový plán · 12 týdnů</div>
+  <div class="eyebrow">Full body · 2× týdně · silový trénink</div>
   <h1>Silnější<em>každý týden</em></h1>
   <div class="rule"></div>
-  <p class="lede">Budování svalové hmoty doma. Dvakrát týdně, dvacet minut, s činkami a klecí. Žádné skákání, žádné hubnutí — jenom síla, která se každý týden posune o kousek dál.</p>
+  <p class="lede">Dva tréninky týdně, dvě varianty A a B, každá na celé tělo. Základní cviky s činkami a klecí, tři pracovní série, každý týden o něco těžší. Nic navíc, nic na okrasu.</p>
   <div class="stats">
     <div class="stat"><b>2×</b><span>týdně</span></div>
-    <div class="stat"><b>20</b><span>minut</span></div>
-    <div class="stat"><b>12</b><span>týdnů</span></div>
+    <div class="stat"><b>40</b><span>minut</span></div>
+    <div class="stat"><b>6</b><span>cviků</span></div>
   </div>
   <div class="journey">
-    <div class="jrow"><div class="jl">Fáze 1 · týden 1–4</div><div class="jt">Naučit pohyb. Lehké váhy, pět cviků, dvacet minut.</div></div>
-    <div class="jrow"><div class="jl">Fáze 2 · týden 5–8</div><div class="jt">Přidat zátěž, třetí sérii a dva nové cviky.</div></div>
-    <div class="jrow"><div class="jl">Fáze 3 · týden 9–12</div><div class="jt">Plná zátěž, zapojení klece, rozhodnutí o třetím tréninku.</div></div>
+    <div class="jrow"><div class="jl">Trénink A</div><div class="jt">Dřep · tlak na lavici · přítah · rumunský mrtvý tah · biceps · prkno</div></div>
+    <div class="jrow"><div class="jl">Trénink B</div><div class="jt">Bulharský dřep · tlak nad hlavu · přítahy pod tyčí · hip thrust · triceps · farmářská chůze</div></div>
+    <div class="jrow"><div class="jl">Střídání</div><div class="jt">A, B, A, B… podle toho, který byl naposled. Nic se nepočítá podle týdnů.</div></div>
   </div>
-
   <div class="promise">
     <div class="t">Pravidlo celého plánu</div>
     <p>Sval neroste z toho, že cvičíš. Roste z toho, že je to pokaždé o kousíček těžší než minule.</p>
@@ -123,278 +122,326 @@ p{margin-bottom:2.5mm;}
   <p class="foot">Obecný tréninkový návod, nenahrazuje lékaře. Při vysokém tlaku, potížích se zády, s klouby nebo při závratích to nejdřív prober s praktickým lékařem.</p>
 </div></div>
 
-<!-- ===== 2. JAK TO FUNGUJE ===== -->
+<!-- 2. JAK TO FUNGUJE -->
 <div class="page cream">
-  <div class="ph"><h2>Jak to funguje</h2><div class="tag">Přečíst jednou, pak už jen cvičit</div></div>
+  <div class="ph"><h2>Čtyři věci, na kterých to stojí</h2><div class="tag">Přečíst jednou</div></div>
 
   <div class="pcard"><div class="n">1</div><div>
-    <h3>Jídlo dělá svaly. Trénink je jen signál.</h3>
-    <p>Cvičením řekneš tělu „potřebuju být silnější". Ale postavit nový sval umí tělo <b>jen z toho, co sníš</b>. Když jíš málo, tréninkem zesílíš — nervy se naučí líp zapojit, co už máš — ale objem nepřibude. Proto je vzadu celá stránka o jídle a <b>není to doplněk, je to půlka plánu</b>.</p>
+    <h3>Přitěžovat, ne odcvičit.</h3>
+    <p>Sval reaguje jen na to, co ho přesáhne. Když se váhy tři týdny nehnou, tělo nemá důvod nic stavět — a je jedno, jak poctivě se cvičí. <b>Cíl každého tréninku je překonat poslední zápis</b>, ne „si zacvičit".</p>
   </div></div>
 
   <div class="pcard"><div class="n">2</div><div>
-    <h3>Zapisovat, jinak se nedá přitěžovat.</h3>
-    <p>Za týden si nikdo nepamatuje, kolik zvedal a kolikrát. Bez záznamu se váhy zaseknou na jednom místě a plán se promění v rituál bez výsledku. Tabulka je na poslední straně — tužkou, hned po cvičení, třicet vteřin.</p>
+    <h3>Poslední opakování má být těžké.</h3>
+    <p>Sérii ukonči, když bys <b>ještě dvě opakování zvládla, ale třetí už ne</b>. Pět opakování v zásobě je rozcvička, rozsypaná technika je moc. Mezi tím je celý trénink.</p>
   </div></div>
 
   <div class="pcard"><div class="n">3</div><div>
-    <h3>První čtyři týdny mají být lehké.</h3>
-    <p>Nejsou o výkonu, ale o naučení pohybu. Bude to připadat, že se nic neděje — a přesně tak to má být. Tělo si staví techniku, na které pak unese skutečnou zátěž. Kdo tuhle fázi přeskočí, obvykle si za měsíc něco natáhne.</p>
+    <h3>Jídlo je materiál.</h3>
+    <p>Trénink řekne tělu, že má stavět. Postavit to umí <b>jen z toho, co sníš</b> — u hubeného člověka, který jí málo, je jídlo větší páka než cokoli v tomhle plánu. Stránka 9.</p>
   </div></div>
 
-  <h3 class="sub">Týdenní rytmus</h3>
-  <p>Dva tréninky, mezi nimi vždycky aspoň dva dny volna. Zvol si pevné dny a drž je — rozhoduje pravidelnost, ne dokonalost.</p>
+  <div class="pcard"><div class="n">4</div><div>
+    <h3>Zapisovat, jinak to nefunguje.</h3>
+    <p>Za týden si nikdo nepamatuje, kolik zvedal a kolikrát. Bez zápisu se nedá přitěžovat. Třicet vteřin tužkou, tabulky na stranách 10 a 11.</p>
+  </div></div>
+
+  <h3 class="sub">Týdenní rytmus <span class="small" style="font-family:'Liberation Sans',sans-serif;">— střídej A a B podle posledního odcvičeného, ne podle kalendáře</span></h3>
   <div class="week">
     <div class="day"><b>PO</b><span class="m">volno</span></div>
-    <div class="day on"><b>ÚT</b><span class="m">trénink</span></div>
+    <div class="day on"><b>ÚT</b><span class="m">trénink A</span></div>
     <div class="day"><b>ST</b><span class="m">volno</span></div>
     <div class="day"><b>ČT</b><span class="m">volno</span></div>
     <div class="day"><b>PÁ</b><span class="m">volno</span></div>
-    <div class="day on"><b>SO</b><span class="m">trénink</span></div>
+    <div class="day on"><b>SO</b><span class="m">trénink B</span></div>
     <div class="day"><b>NE</b><span class="m">volno</span></div>
   </div>
 
-  <h3 class="sub">Rozcvička — 3 minuty, vždycky</h3>
+  <h3 class="sub">Rozcvička — 5 minut</h3>
   <table>
     <tr><th style="width:72%">Co</th><th>Kolik</th></tr>
-    <tr><td>Kroužení rameny dozadu</td><td class="nw">10×</td></tr>
-    <tr><td>Chůze na místě, kolena vysoko</td><td class="nw">30 vteřin</td></tr>
-    <tr><td>Dřep k židli <b>bez činky</b></td><td class="nw">10×</td></tr>
-    <tr><td>Předklon a vzpřímení, ruce v bok, záda rovná</td><td class="nw">10×</td></tr>
+    <tr><td>Rotoped, svižná chůze nebo chůze na místě — jen se zahřát</td><td class="nw">3 minuty</td></tr>
+    <tr><td>Kroužení rameny dozadu · kroužení boky · dřepy bez zátěže</td><td class="nw">10× od každého</td></tr>
+    <tr><td><b>Zahřívací série prvního cviku</b> — poloviční váha, 8 opakování</td><td class="nw">1 série</td></tr>
   </table>
-
+  <div class="tempo">
+    <b>TEMPO, DECH, PAUZY.</b> Nahoru rázně, <b>dolů kontrolovaně na dvě vteřiny</b>. Výdech do námahy, nádech při návratu — nikdy nezadržovat dech. Pauza <b>90–120 vteřin u prvních čtyř cviků</b>, 60 vteřin u zbytku. Kratší pauza není poctivější trénink, jen menší váha.
+  </div>
   <div class="pfoot">Silnější každý týden</div><div class="pnum">2</div>
 </div>
 
-<!-- ===== CVIKY ===== -->
+<!-- 3. PŘEHLED A + B -->
 <div class="page">
-  <div class="ph"><h2>Fáze 1 · týden 1–4</h2><div class="tag">Cviky 1 a 2</div></div>
+  <div class="ph"><h2>Tréninky A a B</h2><div class="tag">Celý plán na jedné straně</div></div>
 
-  <div class="tempo">
-    <b>TEMPO A DECH — PLATÍ U VŠEHO.</b> Nahoru na jednu vteřinu, <b>dolů pomalu na dvě až tři</b> — ta pomalá cesta dolů dělá většinu práce. Výdech vždycky do námahy, nádech při návratu, nikdy nezadržovat dech. Mezi sériemi pauza 60–90 vteřin.
-  </div>
-
-  <div class="ex">
-    <div class="ex-h"><div class="num">1</div><div><h3>Dřep k židli</h3><div class="what">STEHNA A HÝŽDĚ · největší svaly v těle, proto jdou první</div></div></div>
-    <div class="ex-b">
-      <ol>
-        <li>Postav se zády k židli, chodidla na šířku ramen, špičky mírně ven.</li>
-        <li>Ruce natáhni před sebe pro rovnováhu.</li>
-        <li>Zadek posílej <b>dozadu</b>, jako by sis chtěla sednout. Hrudník drž nahoře.</li>
-        <li>Dosedni na židli — jen se jí lehce dotkni zadkem, nesedej si celou vahou.</li>
-        <li>Zatlač <b>patami</b> do země a vstaň.</li>
-      </ol>
-      <div class="pozor"><b>Pozor na:</b> kolena nesmí padat dovnitř k sobě — míří stejným směrem jako špičky · záda rovná, ne kulatá · paty zůstávají celou dobu na zemi.</div>
-      <div class="dose">2 série × 10 opakování <span>· bez činky</span></div>
-    </div>
-  </div>
-
-  <div class="ex">
-    <div class="ex-h"><div class="num">2</div><div><h3>Přítah jednoručky v předklonu</h3><div class="what">ZÁDA A BICEPSY · nejdůležitější cvik na držení těla</div></div></div>
-    <div class="ex-b">
-      <ol>
-        <li>Levé koleno a levou dlaň polož na sedák židle (nebo na lavici).</li>
-        <li>Pravou nohu nech stát na zemi. Trup nakloň dopředu tak, aby záda byla <b>rovná jako deska stolu</b>.</li>
-        <li>Do pravé ruky vezmi činku — ruka visí volně dolů.</li>
-        <li>Přitáhni činku k boku. Loket jede <b>těsně podél těla dozadu</b>, ne do strany.</li>
-        <li>Nahoře na vteřinu stáhni lopatku k páteři, pak činku <b>pomalu</b> spusť dolů.</li>
-      </ol>
-      <div class="pozor"><b>Pozor na:</b> trup se nesmí kroutit za činkou · rameno netahej k uchu · dívej se na podlahu kousek před sebe, ne dopředu.</div>
-      <div class="dose">2 × 10 na každou ruku <span>· začni na 3–4 kg</span></div>
-    </div>
-  </div>
-  <div class="pfoot">Fáze 1 · týden 1–4</div><div class="pnum">3</div>
-</div>
-
-<div class="page">
-  <div class="ph"><h2>Fáze 1 · pokračování</h2><div class="tag">Cviky 3 a 4</div></div>
-
-  <div class="ex">
-    <div class="ex-h"><div class="num">3</div><div><h3>Tlak s jednoručkami nad hlavu vsedě</h3><div class="what">RAMENA A TRICEPSY · vsedě, protože záda mají oporu</div></div></div>
-    <div class="ex-b">
-      <ol>
-        <li>Sedni si na židli nebo lavici, chodidla celá na zemi, zády se opři.</li>
-        <li>Činky drž ve výšce ramen, dlaně směřují dopředu, lokty pod zápěstími.</li>
-        <li>Vytlač činky nahoru nad hlavu, až jsou ruce <b>skoro</b> natažené — lokty naplno nepropínej.</li>
-        <li>Pomalu, na dvě až tři vteřiny, je spusť zpátky k ramenům.</li>
-      </ol>
-      <div class="pozor"><b>Pozor na:</b> bedra se nesmí prohnout dopředu — lehce zpevni břicho · když tlačí rameno, jdeš dolů moc nízko nebo je činka těžká.</div>
-      <div class="dose">2 série × 8 opakování <span>· začni na 2,5 kg do ruky</span></div>
-    </div>
-  </div>
-
-  <div class="ex">
-    <div class="ex-h"><div class="num">4</div><div><h3>Most na zemi</h3><div class="what">HÝŽDĚ, ZADNÍ STRANA STEHEN, SPODNÍ ZÁDA</div></div></div>
-    <div class="ex-b">
-      <ol>
-        <li>Lehni si na záda, kolena pokrč, chodidla celá na zemi na šířku boků, asi 20 cm od zadku.</li>
-        <li>Ruce polož podél těla dlaněmi dolů.</li>
-        <li>Zatlač <b>patami</b> do země a zvedej pánev nahoru, až jsou kolena, boky a ramena v jedné přímce.</li>
-        <li>Nahoře na vteřinu pořádně stáhni hýždě.</li>
-        <li>Pomalu spusť dolů — země se dotkni jen lehce a jeď znovu.</li>
-      </ol>
-      <div class="pozor"><b>Pozor na:</b> cíl je <b>rovná linka</b>, ne oblouk — neprohýbat se v bedrech přes tu přímku. Práce má být cítit v hýždích. Když to táhne v kříži, jdeš moc vysoko.</div>
-      <div class="dose">2 série × 12 opakování <span>· bez zátěže</span></div>
-    </div>
-  </div>
-  <div class="pfoot">Fáze 1 · týden 1–4</div><div class="pnum">4</div>
-</div>
-
-<div class="page">
-  <div class="ph"><h2>Fáze 1 · závěr</h2><div class="tag">Cvik 5 a protažení</div></div>
-
-  <div class="ex">
-    <div class="ex-h"><div class="num">5</div><div><h3>Mrtvý brouk</h3><div class="what">BŘICHO A HLUBOKÉ SVALY KOLEM PÁTEŘE</div></div></div>
-    <div class="ex-b">
-      <ol>
-        <li>Lehni na záda, obě ruce natáhni kolmo ke stropu.</li>
-        <li>Nohy zvedni tak, aby kolena byla nad boky a pokrčená do pravého úhlu.</li>
-        <li><b>Přitlač bedra k podložce</b> — pod zády nesmí zůstat škvíra. Tohle je celý cvik.</li>
-        <li>Pomalu spouštěj <b>pravou ruku za hlavu a levou nohu dolů zároveň</b> — jen tak nízko, aby se bedra neodlepila.</li>
-        <li>Vrať zpátky a vystřídej strany.</li>
-      </ol>
-      <div class="pozor"><b>Pozor na:</b> jakmile se bedra odlepí od země, jdeš moc nízko — zkrať pohyb. Malý rozsah správně je lepší než velký špatně. A proč tohle místo sedů-lehů: sedy-lehy přetěžují krk a bedra, tohle je posiluje.</div>
-      <div class="dose">2 × 6 na každou stranu <span>· pomalu</span></div>
-    </div>
-  </div>
-
-  <h3 class="sub">Protažení na závěr — 2 minuty</h3>
-  <ul class="tick">
-    <li>Vsedě předklon k natažené noze — 30 vteřin každá noha</li>
-    <li>Vleže přitáhnout koleno k hrudníku — 30 vteřin každá noha</li>
-    <li>Propnout ruce nad hlavu a protáhnout se do stran</li>
-  </ul>
-
-  <div class="note">
-    <h4>Jak vypadá celý trénink</h4>
-    Rozcvička 3 min → cvik 1 → cvik 2 → cvik 3 → cvik 4 → cvik 5 → protažení 2 min. Cviky jdou <b>po sobě, ne v kolečku</b>: dokončíš obě série jednoho cviku, teprve pak jdeš na další. Celkem kolem dvaceti minut.
-  </div>
-
-  <div class="note">
-    <h4>Když se cvik nedaří</h4>
-    Uber váhu, ne opakování. A když nejde ani s nejlehčí činkou, udělej ho úplně bez ní — pohyb naučený správně bez zátěže je pořád trénink. Vynechat cvik je až poslední možnost.
-  </div>
-  <div class="pfoot">Fáze 1 · týden 1–4</div><div class="pnum">5</div>
-</div>
-
-<!-- ===== 5. FÁZE 2 ===== -->
-<div class="page cream">
-  <div class="ph"><h2>Fáze 2 · týden 5–8</h2><div class="tag">3 série · 25 minut</div></div>
-  <p>Technika sedí a tělo je zvyklé. Přidávají se dva nové cviky a třetí série u těch velkých. Váhy v tabulce jsou startovní odhad — rozhoduje pravidlo přitěžování na straně 8.</p>
-
+  <h3 class="sub" style="margin-top:0;">Trénink A</h3>
   <table>
-    <tr><th style="width:6%">#</th><th>Cvik</th><th class="nw">Série × opakování</th><th class="nw">Zátěž</th></tr>
-    <tr><td class="c">1</td><td><b>Goblet dřep</b> — dřep k židli s činkou u hrudníku</td><td class="nw">3 × 10</td><td class="nw">5–8 kg</td></tr>
-    <tr><td class="c">2</td><td>Přítah jednoručky v předklonu</td><td class="nw">3 × 10 každá ruka</td><td class="nw">5–7 kg</td></tr>
-    <tr><td class="c">3</td><td>Tlak nad hlavu vsedě</td><td class="nw">3 × 8</td><td class="nw">3–5 kg do ruky</td></tr>
-    <tr><td class="c">4</td><td>Tlak s jednoručkami vleže na zemi <span class="new">NOVÝ</span></td><td class="nw">2 × 10</td><td class="nw">3–5 kg do ruky</td></tr>
-    <tr><td class="c">5</td><td>Most na zemi — s činkou položenou přes boky</td><td class="nw">2 × 12</td><td class="nw">5–10 kg</td></tr>
-    <tr><td class="c">6</td><td>Bicepsový zdvih <span class="new">NOVÝ</span></td><td class="nw">2 × 12</td><td class="nw">2,5–4 kg do ruky</td></tr>
-    <tr><td class="c">7</td><td>Mrtvý brouk</td><td class="nw">2 × 8 na stranu</td><td class="nw">—</td></tr>
+    <tr><th style="width:5%">#</th><th>Cvik</th><th class="nw" style="width:17%">Série × opak.</th><th class="nw" style="width:16%">Pauza</th><th style="width:22%">Kde začít</th></tr>
+    <tr><td class="c">1</td><td><b>Goblet dřep</b></td><td class="nw">3 × 8</td><td class="nw">120 s</td><td>8–12 kg, jedna činka</td></tr>
+    <tr><td class="c">2</td><td><b>Tlak s jednoručkami na lavici</b></td><td class="nw">3 × 8</td><td class="nw">120 s</td><td>5–7 kg do ruky</td></tr>
+    <tr><td class="c">3</td><td><b>Přítah jednoručky v předklonu</b></td><td class="nw">3 × 10 / ruka</td><td class="nw">90 s</td><td>7–10 kg</td></tr>
+    <tr><td class="c">4</td><td><b>Rumunský mrtvý tah</b></td><td class="nw">3 × 10</td><td class="nw">120 s</td><td>7–10 kg do ruky</td></tr>
+    <tr><td class="c">5</td><td>Bicepsový zdvih</td><td class="nw">2 × 12</td><td class="nw">60 s</td><td>4–6 kg do ruky</td></tr>
+    <tr><td class="c">6</td><td>Prkno</td><td class="nw">2 × 30–45 s</td><td class="nw">60 s</td><td>—</td></tr>
   </table>
 
-  <h3 class="sub">Goblet dřep</h3>
-  <p>Vezmi <b>jednu</b> činku a drž ji svisle oběma dlaněmi u hrudníku, lokty směřují dolů. Pak dřep k židli přesně jako ve fázi 1. Činka u hrudníku sama pomáhá držet rovná záda — proto je to nejlepší dřep se zátěží, se kterým se dá začít.</p>
+  <h3 class="sub">Trénink B</h3>
+  <table>
+    <tr><th style="width:5%">#</th><th>Cvik</th><th class="nw" style="width:17%">Série × opak.</th><th class="nw" style="width:16%">Pauza</th><th style="width:22%">Kde začít</th></tr>
+    <tr><td class="c">1</td><td><b>Bulharský dřep</b></td><td class="nw">3 × 8 / noha</td><td class="nw">120 s</td><td>bez činek, pak 2× 5 kg</td></tr>
+    <tr><td class="c">2</td><td><b>Tlak s jednoručkami nad hlavu vsedě</b></td><td class="nw">3 × 8</td><td class="nw">120 s</td><td>4–6 kg do ruky</td></tr>
+    <tr><td class="c">3</td><td><b>Australské přítahy pod tyčí</b> <span class="small">(klec)</span></td><td class="nw">3 × 8–10</td><td class="nw">90 s</td><td>tyč ve výšce pasu</td></tr>
+    <tr><td class="c">4</td><td><b>Hip thrust o lavici</b></td><td class="nw">3 × 10</td><td class="nw">90 s</td><td>15–20 kg přes boky</td></tr>
+    <tr><td class="c">5</td><td>Tlak s činkou za hlavou vsedě <span class="small">(triceps)</span></td><td class="nw">2 × 12</td><td class="nw">60 s</td><td>6–8 kg, jedna činka</td></tr>
+    <tr><td class="c">6</td><td>Farmářská chůze</td><td class="nw">2 × 40 metrů</td><td class="nw">90 s</td><td>12–15 kg do ruky</td></tr>
+  </table>
 
-  <h3 class="sub">Tlak s jednoručkami vleže na zemi</h3>
-  <p class="small" style="letter-spacing:.08em; text-transform:uppercase; margin-bottom:1.5mm;">Prsní svaly a tricepsy</p>
-  <ol style="margin-left:5mm; font-size:10pt;">
-    <li>Lehni na záda, kolena pokrčená, chodidla na zemi.</li>
-    <li>Činky drž nad hrudníkem, dlaně směřují k nohám.</li>
-    <li>Pomalu spouštěj dolů, dokud se <b>zadní strana paží nedotkne země</b>. Lokty svírají s tělem asi 45°, ne pravý úhel.</li>
-    <li>Vytlač zpátky nahoru.</li>
-  </ol>
-  <div class="pozor" style="margin-top:3mm;"><b>Proč na zemi:</b> země pohyb zastaví dřív, než se rameno dostane do nepříjemné polohy. Na lavici jde ruka hlouběji a rameno to u začátku nemusí unést.</div>
-
-  <h3 class="sub">Bicepsový zdvih</h3>
-  <ol style="margin-left:5mm; font-size:10pt;">
-    <li>Stoj rovně, činky podél těla, dlaně dopředu.</li>
-    <li>Lokty <b>přilep k bokům</b> a nehýbej jimi — ohýbá se jen předloktí.</li>
-    <li>Nahoru na vteřinu, dolů <b>pomalu na tři vteřiny</b>.</li>
-  </ol>
-  <div class="pozor" style="margin-top:3mm;"><b>Pozor na:</b> nehoupat trupem. Když musíš houpat, abys činku dostala nahoru, je moc těžká — a biceps z toho stejně nic nemá.</div>
-  <div class="pfoot">Fáze 2 · týden 5–8</div><div class="pnum">6</div>
-</div>
-
-<!-- ===== 6. FÁZE 3 + KLEC ===== -->
-<div class="page">
-  <div class="ph"><h2>Fáze 3 · týden 9–12</h2><div class="tag">Plná zátěž</div></div>
-  <ul class="tick">
-    <li>Všechny cviky na <b>3 série</b>.</li>
-    <li>U dřepu a přítahu nahoru na <b>12 opakování</b>.</li>
-    <li><b>Rozhodnutí o třetím tréninku.</b> Pokud to jde a baví to, třetí trénink v týdnu je pro růst svalů citelný rozdíl. Pokud práce vyčerpává, zůstaň na dvou. <b>Dva tréninky navždy jsou lepší než tři na měsíc.</b></li>
-  </ul>
-
-  <div class="ph" style="margin-top:9mm;"><h2>Až budeš chtít víc — klec</h2><div class="tag">Volitelné</div></div>
   <div class="flag">
-    <h4>Nevím, co přesně je ve vaší kleci</h4>
-    Hrazdu, velkou činku, lavici ani pojistné vzpěry jsem neviděla, takže tohle je <b>nabídka, ne příkaz</b>. Vyber si, co doma opravdu je. Základní plán funguje sám o sobě jenom s jednoručkami a židlí — klec je zrychlovač, ne podmínka.
+    <h4>„Kde začít" je odhad, ne předpis</h4>
+    První dva tréninky se váhy hledají: u každého cviku najdi takovou, u které je <b>poslední opakování těžké, ale technika drží</b>. Když jde osmé opakování lehce, příště víc. Netrefit se napoprvé je normální — proto se to zapisuje.
   </div>
 
-  <h3 class="sub">Australské přítahy pod tyčí <span class="small">— nejlepší využití klece</span></h3>
-  <p>Tyč nastav do klece asi do výšky pasu. Lehni si pod ni, chytni ji nadhmatem na šířku ramen, tělo narovnej do prkna od pat po ramena a přitáhni hrudník k tyči. <b>Čím výš je tyč, tím je cvik lehčí</b> — proto se dá nastavit úplně komukoli a pak se postupně snižuje. Na záda je to silnější než jednoručky.<br>
-  <span class="small">Kdy zařadit: od 5. týdne, místo jedné série přítahů. 2 × 8.</span></p>
-
-  <h3 class="sub">Výdrž ve visu na hrazdě</h3>
-  <p>Chytni hrazdu a prostě <b>viset</b>, nohy se smí dotýkat země. Buduje sílu úchopu a protahuje ramena zkroucená z práce. Začni na 10 vteřin, cíl 30.<br>
-  <span class="small">Kdy zařadit: kdykoli na konec tréninku, 2 pokusy.</span></p>
-
-  <h3 class="sub">Dřep s velkou činkou v kleci <span class="small">— až od fáze 3</span></h3>
-  <p>Jen pokud v kleci jsou <b>pojistné vzpěry</b> a umí se nastavit. Nastav je tak, aby zachytily činku v nejnižší pozici dřepu — pak se nemůže stát nic zlého, i kdyby síla došla. Začni s prázdnou osou a přidávej po nejmenších kotoučích.</p>
-  <div class="pozor"><b>Bezpečnostní pravidlo:</b> velká činka v kleci bez nastavených pojistek nepatří. Když se pojistky nedají nastavit, zůstaň u goblet dřepu — je skoro stejně účinný a nedá se s ním zranit.</div>
-
-  <h3 class="sub">Tlak na lavici v kleci</h3>
-  <p>Pokud je lavice i pojistky, může tlak vleže na zemi ve fázi 3 nahradit tlak na lavici. Výhoda je větší rozsah pohybu. Stejné pravidlo: <b>bez pojistek ne.</b></p>
-  <div class="pfoot">Fáze 3 · týden 9–12</div><div class="pnum">7</div>
+  <div class="note">
+    <h4>Krátká verze na blbý týden — 25 minut</h4>
+    Když je po šichtě a na čtyřicet minut to není, udělej <b>jen první čtyři cviky</b> a vynech poslední dva. Odcvičených 70 % je nekonečně víc než vynechaný trénink. Vynechává se odspoda, nikdy shora.
+  </div>
+  <div class="pfoot">Přehled tréninku</div><div class="pnum">3</div>
 </div>
 
-<!-- ===== 7. PŘITĚŽOVÁNÍ + SIGNÁLY ===== -->
+<!-- 4. TRÉNINK A — cviky 1-3 -->
+<div class="page">
+  <div class="ph"><h2>Trénink A</h2><div class="tag">Cviky 1–3</div></div>
+
+  <div class="ex">
+    <div class="ex-h"><div class="num">1</div><div><h3>Goblet dřep</h3><div class="what">STEHNA, HÝŽDĚ, STŘED TĚLA · 3 × 8 · pauza 120 s</div></div></div>
+    <div class="ex-b">
+      <ol>
+        <li>Jednu činku drž <b>svisle oběma dlaněmi u hrudníku</b>, lokty směřují dolů.</li>
+        <li>Chodidla na šířku ramen, špičky mírně ven, váha na celém chodidle.</li>
+        <li>Sedej <b>mezi paty</b>, kolena tlač ven ve směru špiček. Jdi tak hluboko, dokud drží rovná záda — cíl je stehna aspoň do vodorovné polohy.</li>
+        <li>Nahoru zatlač celým chodidlem do podlahy, nahoře stáhni hýždě.</li>
+      </ol>
+      <div class="pozor"><b>Chyby:</b> kolena padají dovnitř · paty se zvedají · záda se v dolní pozici zakulatí (pak jsi hlouběji, než máš pohyblivost — zastav se výš).<br>
+      <b>Varianta s klecí:</b> dřep s velkou činkou na zádech, <b>pojistné vzpěry nastavené do výšky nejnižší pozice</b>. Bez nastavených pojistek se velká činka nedřepuje.</div>
+    </div>
+  </div>
+
+  <div class="ex">
+    <div class="ex-h"><div class="num">2</div><div><h3>Tlak s jednoručkami na lavici</h3><div class="what">PRSA, RAMENA, TRICEPSY · 3 × 8 · pauza 120 s</div></div></div>
+    <div class="ex-b">
+      <ol>
+        <li>Lehni na lavici, chodidla pevně na zemi, <b>lopatky stáhni k sobě a dolů</b> — hrudník zůstane vysoko celou sérii.</li>
+        <li>Činky nad rameny, dlaně směřují k nohám.</li>
+        <li>Spouštěj dolů k hrudníku, <b>lokty svírají s tělem asi 45°</b>, ne pravý úhel. Dolů na dvě vteřiny.</li>
+        <li>Vytlač nahoru, lokty nahoře nepropínej naplno.</li>
+      </ol>
+      <div class="pozor"><b>Chyby:</b> lokty do stran do pravého úhlu (bolavá ramena) · odlepená bedra · sražení činek o sebe nahoře.<br>
+      <b>Bez lavice:</b> stejný cvik vleže na zemi — paže dosednou na zem a zastaví pohyb. Rozsah je menší, funguje to skoro stejně.</div>
+    </div>
+  </div>
+
+  <div class="ex">
+    <div class="ex-h"><div class="num">3</div><div><h3>Přítah jednoručky v předklonu</h3><div class="what">ŠIROKÝ SVAL ZÁDOVÝ, LOPATKY, BICEPSY · 3 × 10 na ruku · pauza 90 s</div></div></div>
+    <div class="ex-b">
+      <ol>
+        <li>Levé koleno a levou dlaň opři o lavici. Pravá noha stojí na zemi.</li>
+        <li>Trup nakloň tak, aby <b>záda byla rovná a vodorovná</b>. Hlava v prodloužení páteře.</li>
+        <li>Činka visí volně. Přitáhni ji <b>k boku</b> — loket jede těsně podél těla dozadu.</li>
+        <li>Nahoře stáhni lopatku k páteři, dolů pusť pomalu do plného natažení.</li>
+      </ol>
+      <div class="pozor"><b>Chyby:</b> kroucení trupem za činkou · tahání ramenem k uchu místo lopatkou · přitahování do strany místo k boku.</div>
+    </div>
+  </div>
+  <div class="pfoot">Trénink A</div><div class="pnum">4</div>
+</div>
+
+<!-- 5. TRÉNINK A — cviky 4-6 -->
+<div class="page">
+  <div class="ph"><h2>Trénink A</h2><div class="tag">Cviky 4–6</div></div>
+
+  <div class="ex">
+    <div class="ex-h"><div class="num">4</div><div><h3>Rumunský mrtvý tah</h3><div class="what">ZADNÍ STRANA STEHEN, HÝŽDĚ, VZPŘIMOVAČE · 3 × 10 · pauza 120 s</div></div></div>
+    <div class="ex-b">
+      <ol>
+        <li>Stoj vzpřímeně, činky před stehny, chodidla na šířku boků.</li>
+        <li>Kolena <b>lehce pokrč a už s nimi nehýbej</b>. Tohle není dřep.</li>
+        <li>Posílej <b>boky dozadu</b> a nech trup klesat dopředu. Činky se kloužou těsně podél stehen.</li>
+        <li>Jdi dolů jen tak hluboko, <b>dokud to táhne v zadní straně stehen a záda zůstávají rovná</b> — obvykle někam pod kolena.</li>
+        <li>Zpátky nahoru zatlačením boků dopředu, nahoře stáhni hýždě.</li>
+      </ol>
+      <div class="pozor"><b>Nejčastější chyba:</b> udělat z toho dřep. Kolena se skoro nehýbou, pohyb dělají boky.<br>
+      <b>Druhá chyba:</b> zakulacená záda. Ve chvíli, kdy se záda kulatí, je konec rozsahu — zastav se výš, ne níž.</div>
+    </div>
+  </div>
+
+  <div class="ex">
+    <div class="ex-h"><div class="num">5</div><div><h3>Bicepsový zdvih</h3><div class="what">BICEPSY · 2 × 12 · pauza 60 s</div></div></div>
+    <div class="ex-b">
+      <ol>
+        <li>Stoj rovně, činky podél těla, dlaně dopředu.</li>
+        <li>Lokty přilep k bokům a nehýbej jimi — ohýbá se jen předloktí.</li>
+        <li>Nahoru rázně, <b>dolů pomalu na tři vteřiny</b> do plného natažení.</li>
+      </ol>
+      <div class="pozor"><b>Chyba:</b> houpání trupem. Když se musí houpat, je činka moc těžká a biceps z toho stejně nic nemá.</div>
+    </div>
+  </div>
+
+  <div class="ex">
+    <div class="ex-h"><div class="num">6</div><div><h3>Prkno</h3><div class="what">STŘED TĚLA · 2 × 30–45 s · pauza 60 s</div></div></div>
+    <div class="ex-b">
+      <ol>
+        <li>Opři se o předloktí a špičky, lokty pod rameny.</li>
+        <li><b>Podsaď pánev</b> a stáhni hýždě — tělo je rovná linka od pat po temeno.</li>
+        <li>Drž, dýchej normálně. Až linka povolí, série končí.</li>
+      </ol>
+      <div class="pozor"><b>Chyba:</b> prohnutá bedra a zadek nahoře. Třicet vteřin v rovině je víc než dvě minuty v oblouku — a delší prkno nemá smysl, místo času přidej zátěž na záda.</div>
+    </div>
+  </div>
+  <div class="pfoot">Trénink A</div><div class="pnum">5</div>
+</div>
+
+<!-- 6. TRÉNINK B — cviky 1-3 -->
 <div class="page cream">
-  <div class="ph"><h2>Kdy přidat kila</h2><div class="tag">Motor celého plánu</div></div>
-  <p class="big">Když zvládneš všechny série na horní hranici opakování a u posledního opakování máš pocit, že bys dala ještě dvě navíc — příště přidej nejmenší možný krok.</p>
+  <div class="ph"><h2>Trénink B</h2><div class="tag">Cviky 1–3</div></div>
+
+  <div class="ex">
+    <div class="ex-h"><div class="num">1</div><div><h3>Bulharský dřep</h3><div class="what">STEHNA A HÝŽDĚ JEDNOSTRANNĚ · 3 × 8 na nohu · pauza 120 s</div></div></div>
+    <div class="ex-b">
+      <ol>
+        <li>Postav se zády k lavici, nárt zadní nohy polož na ni.</li>
+        <li>Přední noha asi <b>70 cm před lavicí</b> — čím dál, tím víc práce pro hýždě.</li>
+        <li>Spouštěj se <b>kolmo dolů</b>, dokud se zadní koleno skoro nedotkne země. Váha na patě přední nohy.</li>
+        <li>Zatlač přední patou a vrať se nahoru. Celou sérii stojíš na jedné noze.</li>
+      </ol>
+      <div class="pozor"><b>Začni bez činek</b> — samotná rovnováha je první dva tréninky dost. Pak jednoručky podél těla.<br>
+      <b>Když to rovnováha nedá:</b> výpady na místě, 3 × 10 na nohu. Stejný účel, jednodušší provedení.</div>
+    </div>
+  </div>
+
+  <div class="ex">
+    <div class="ex-h"><div class="num">2</div><div><h3>Tlak s jednoručkami nad hlavu vsedě</h3><div class="what">RAMENA, TRICEPSY · 3 × 8 · pauza 120 s</div></div></div>
+    <div class="ex-b">
+      <ol>
+        <li>Sedni na lavici s opěrkou, chodidla celá na zemi.</li>
+        <li>Činky ve výšce ramen, dlaně dopředu, lokty pod zápěstími.</li>
+        <li>Vytlač nad hlavu, nahoře lokty nepropínej naplno. Dolů na dvě vteřiny zpět k ramenům.</li>
+      </ol>
+      <div class="pozor"><b>Chyby:</b> prohnutá bedra (zpevni břicho, žebra dolů) · lokty zatlačené daleko za tělo · zadržený dech.</div>
+    </div>
+  </div>
+
+  <div class="ex">
+    <div class="ex-h"><div class="num">3</div><div><h3>Australské přítahy pod tyčí</h3><div class="what">ZÁDA, LOPATKY, BICEPSY · 3 × 8–10 · pauza 90 s</div></div></div>
+    <div class="ex-b">
+      <ol>
+        <li>Tyč v kleci nastav zhruba <b>do výšky pasu</b>.</li>
+        <li>Lehni si pod ni, chyť ji nadhmatem na šířku ramen, nohy natažené, paty na zemi.</li>
+        <li>Zpevni tělo do <b>rovného prkna od pat po ramena</b> a přitáhni hrudník k tyči.</li>
+        <li>Nahoře stáhni lopatky, dolů pomalu do plného natažení paží.</li>
+      </ol>
+      <div class="pozor"><b>Jak se to ladí:</b> čím je tyč <b>výš</b>, tím je cvik <b>lehčí</b>. Přitěžuje se tak, že se tyč postupně snižuje — proto je to jediný cvik v plánu, kde nepotřebuješ kotouče.<br>
+      <b>Bez hrazdy:</b> přítah obouruč v předklonu s jednoručkami, 3 × 10.</div>
+    </div>
+  </div>
+  <div class="pfoot">Trénink B</div><div class="pnum">6</div>
+</div>
+
+<!-- 7. TRÉNINK B — cviky 4-6 -->
+<div class="page cream">
+  <div class="ph"><h2>Trénink B</h2><div class="tag">Cviky 4–6</div></div>
+
+  <div class="ex">
+    <div class="ex-h"><div class="num">4</div><div><h3>Hip thrust o lavici</h3><div class="what">HÝŽDĚ · 3 × 10 · pauza 90 s</div></div></div>
+    <div class="ex-b">
+      <ol>
+        <li>Sedni si na zem zády k lavici, <b>lopatky opři o její hranu</b>.</li>
+        <li>Chodidla na šířku boků, kolena v pravém úhlu, když jsou boky nahoře.</li>
+        <li>Činku polož přes boky (podlož ji ručníkem) a drž ji rukama.</li>
+        <li>Zatlač <b>patami</b> a zvedni boky, až je tělo od kolen po ramena vodorovné. Nahoře stáhni hýždě na vteřinu.</li>
+      </ol>
+      <div class="pozor"><b>Chyba:</b> prohnutí v bedrech místo stažení hýždí — nahoře <b>podsaď pánev</b>, žebra drž dole. Když to táhne v kříži, jdeš výš, než máš.<br>
+      <b>Bez lavice:</b> most na zemi s činkou přes boky, 3 × 12.</div>
+    </div>
+  </div>
+
+  <div class="ex">
+    <div class="ex-h"><div class="num">5</div><div><h3>Tlak s činkou za hlavou vsedě</h3><div class="what">TRICEPSY · 2 × 12 · pauza 60 s</div></div></div>
+    <div class="ex-b">
+      <ol>
+        <li>Sedni vzpřímeně, jednu činku chyť <b>oběma dlaněmi za horní kotouč</b>.</li>
+        <li>Zvedni ji nad hlavu, pak spouštěj za hlavu ohnutím loktů.</li>
+        <li><b>Lokty drž u sebe a namířené nahoru</b> — nehýbou se, pracuje jen předloktí.</li>
+      </ol>
+      <div class="pozor"><b>Chyba:</b> rozjíždějící se lokty do stran. Radši lehčí činka a lokty u hlavy.</div>
+    </div>
+  </div>
+
+  <div class="ex">
+    <div class="ex-h"><div class="num">6</div><div><h3>Farmářská chůze</h3><div class="what">ÚCHOP, STŘED TĚLA, TRAPÉZY · 2 × 40 metrů · pauza 90 s</div></div></div>
+    <div class="ex-b">
+      <ol>
+        <li>Vezmi do každé ruky těžkou činku, ruce podél těla.</li>
+        <li>Ramena stáhni dozadu a dolů, hrudník nahoru, břicho zpevni.</li>
+        <li>Jdi normálním krokem, dokud drží držení těla. Pak polož.</li>
+      </ol>
+      <div class="pozor"><b>Proč to tam je:</b> je to jediný cvik v plánu, který přesně kopíruje práci — nosit těžké věci a nemít z toho zničená záda. Přitěžuje se váhou, ne vzdáleností.</div>
+    </div>
+  </div>
+  <div class="pfoot">Trénink B</div><div class="pnum">7</div>
+</div>
+
+<!-- 8. PŘITĚŽOVÁNÍ -->
+<div class="page">
+  <div class="ph"><h2>Jak přitěžovat</h2><div class="tag">Motor celého plánu</div></div>
+  <p class="big">Když odcvičíš všechny série na plný počet opakování a poslední opakování není na hraně — příště přidej nejmenší možný krok.</p>
+
+  <table>
+    <tr><th style="width:26%">Situace</th><th>Co udělat příště</th></tr>
+    <tr><td><b>Všechny série vyšly a šlo to</b></td><td>Přidej 1–2 kg do ruky (u dřepu 2,5–5 kg). Opakování spadnou dolů, to je správně.</td></tr>
+    <tr><td><b>Vyšlo 8, 8, 6</b></td><td>Zůstaň na stejné váze, dokud nevyjde 8, 8, 8. Teprve pak přidávej.</td></tr>
+    <tr><td><b>Technika se rozsypala</b></td><td>Váha dolů o jeden stupeň. Odcvičená série se špatnou technikou se nepočítá.</td></tr>
+    <tr><td><b>Cvik stojí tři tréninky</b></td><td>Uber 10 % váhy a vyjeď to znovu nahoru. Skoro vždycky to pak projede výš než předtím.</td></tr>
+  </table>
+
   <ul class="tick">
-    <li>Nejmenší krok je obvykle <b>1 až 2 kg</b>. Větší skok se skoro vždycky vrátí jako rozsypaná technika.</li>
-    <li><b>Nikdy nepřidávej váhu a opakování zároveň.</b> Nejdřív vyrosti v opakováních, pak přidej kila — opakování spadnou dolů a celé se to opakuje znovu.</li>
-    <li><b>Když se rozsype technika, váha je moc velká.</b> Vrátit se o krok zpět není prohra, je to jediná správná reakce.</li>
-    <li>Neposune se to každý týden u každého cviku. U dřepu to půjde rychle, u ramen pomalu. To je normální.</li>
+    <li><b>Nikdy nepřidávej váhu a opakování zároveň.</b> Nejdřív dorosteš v opakováních, pak přidáš kila.</li>
+    <li>U dřepu a mrtvého tahu to poroste rychle, u ramen pomalu. To je normální, ne selhání.</li>
+    <li><b>Australské přítahy</b> se přitěžují snížením tyče, ne kotouči.</li>
   </ul>
 
-  <div class="ph" style="margin-top:9mm;"><h2>Co je normální a co ne</h2><div class="tag">Kdy přestat</div></div>
+  <div class="ph" style="margin-top:8mm;"><h2>Kdy přestat</h2><div class="tag">Bolest vs. námaha</div></div>
   <table>
-    <tr><th style="width:50%">Normální</th><th>Není normální — přestat cvičit</th></tr>
-    <tr><td>Svalová bolest 1–2 dny po tréninku, hlavně v prvních týdnech</td><td>Ostrá bolest v kloubu nebo v zádech <b>během</b> cviku</td></tr>
-    <tr><td>Zadýchání a teplo</td><td>Závrať, píchání na hrudi, nevolnost</td></tr>
-    <tr><td>Pocit, že je to moc lehké (fáze 1 taková být má)</td><td>Bolest, která trvá déle než tři dny</td></tr>
-    <tr><td>Druhý den ztuhlost, která se rozcvičením zlepší</td><td>Brnění nebo vystřelování do ruky či nohy</td></tr>
+    <tr><th style="width:50%">Normální</th><th>Přestat cvičit</th></tr>
+    <tr><td>Svalová bolest 1–2 dny po tréninku</td><td>Ostrá bolest v kloubu nebo v zádech <b>během</b> cviku</td></tr>
+    <tr><td>Zadýchání, teplo, třes v poslední sérii</td><td>Závrať, píchání na hrudi, nevolnost</td></tr>
+    <tr><td>Ztuhlost, která se rozcvičením zlepší</td><td>Brnění nebo vystřelování do ruky či nohy</td></tr>
   </table>
-  <div class="flag"><h4>Cokoli z pravého sloupce</h4>Trénink ukončit a poradit se s lékařem. Nic z toho není „to se rozcvičí".</div>
-
   <div class="note">
     <h4>Když vypadne týden</h4>
-    Nemoc, dovolená, šichty navíc — stane se. <b>Nezačínáš od nuly.</b> Po týdnu pauzy pokračuj tam, kde jsi skončila. Po delší pauze uber jeden stupeň na váze a za dva tréninky jsi zpátky. Jediná chyba je nevrátit se vůbec.
+    Nezačínáš od nuly. Po týdnu pauzy pokračuj tam, kde jsi skončila. Po delší pauze uber jeden stupeň na váze — za dva tréninky jsi zpátky. Jediná chyba je nevrátit se vůbec.
   </div>
   <div class="pfoot">Přitěžování a bezpečnost</div><div class="pnum">8</div>
 </div>
 
-<!-- ===== 8. JÍDLO ===== -->
-<div class="page">
-  <div class="ph"><h2>Jídlo — půlka plánu</h2><div class="tag">Nejdůležitější stránka</div></div>
-  <p class="big">Kdo málo jí, svaly nepřibere, i kdyby cvičil dokonale. Trénink rozhoduje o tom, <i>jestli</i> tělo staví sval. Jídlo rozhoduje o tom, <i>jestli má z čeho</i>.</p>
+<!-- 9. JÍDLO -->
+<div class="page cream">
+  <div class="ph"><h2>Jídlo</h2><div class="tag">Bez tohohle plán nefunguje</div></div>
+  <p class="big">Trénink rozhoduje o tom, <i>jestli</i> tělo staví sval. Jídlo rozhoduje o tom, <i>jestli má z čeho</i>.</p>
 
   <h3 class="sub">Bílkovina u každého jídla</h3>
   <p>Porce velikosti dlaně: maso, ryba, vejce, tvaroh, skyr, cottage, sýr, luštěniny. Pro budování svalů se běžně uvádí zhruba <b>1,6 g bílkovin na kilogram váhy denně</b> — při 60 kg je to asi 95 g. <span class="small">(orientační číslo, obecné doporučení)</span></p>
 
   <h3 class="sub">Když není chuť, pij</h3>
-  <p>Přidávat kalorie <b>v tekuté formě</b>, ne větší talíře. Sklenice mléka, kefír, smoothie z ovesných vloček, banánu a lžíce ořechového másla. <b>Vypít se dá i to, co se nedá sníst</b> — a u malého jídelníčku je tohle obvykle jediná cesta, která zabere.</p>
+  <p>Přidávat kalorie <b>v tekuté formě</b>, ne větší talíře. Sklenice mléka, kefír, smoothie z ovesných vloček, banánu a lžíce ořechového másla. <b>Vypít se dá i to, co se nedá sníst</b> — u malého jídelníčku je tohle obvykle jediná cesta, která zabere.</p>
 
   <h3 class="sub">Častěji a míň</h3>
-  <p>Čtyři až pět jídel denně místo tří velkých porcí. Malému jídelníčku se přidává líp po kouskách než jedním velkým talířem, u kterého se pak nedojí. A nezapomínat na jídlo po směně — fyzicky náročná práce spálí hodně energie a večer už se to obvykle nedožene.</p>
+  <p>Čtyři až pět jídel denně místo tří velkých porcí. A nezapomínat na jídlo po směně — fyzicky náročná práce spálí hodně energie a večer už se to obvykle nedožene.</p>
 
   <h3 class="sub">Jak poznat, že to funguje</h3>
-  <p>Váha se pomalu plazí nahoru, zhruba <b>0,2 až 0,3 kg za týden</b>. Vážit se jednou týdně, ráno, nalačno, vždycky stejně — ne každý den, denní výkyvy nic neznamenají.</p>
-  <div class="flag" style="margin-top:4mm;">
+  <p>Váha se pomalu plazí nahoru, zhruba <b>0,2 až 0,3 kg za týden</b>. Vážit se jednou týdně, ráno, nalačno, vždycky stejně — denní výkyvy nic neznamenají.</p>
+  <div class="flag">
     <h4>Jediný spolehlivý ukazatel</h4>
-    Když se váha měsíc nehne, jíš málo. Je jedno, jak moc to nesedí s pocitem „vždyť jím pořád" — váha nelže a je to jediné místo, kde se to pozná dřív než po půl roce.
+    Když se váha měsíc nehne a váhy v tabulce taky ne, jí málo. Je jedno, jak moc to nesedí s pocitem „vždyť jím pořád" — je to jediné místo, kde se to pozná dřív než po půl roce.
   </div>
   <div class="note">
     <h4>Kdy to patří k lékaři</h4>
@@ -403,59 +450,51 @@ p{margin-bottom:2.5mm;}
   <div class="pfoot">Jídlo</div><div class="pnum">9</div>
 </div>
 
-<!-- ===== ZÁZNAM 1 ===== -->
-<div class="page cream">
-  <div class="ph"><h2>Záznam tréninků</h2><div class="tag">Týden 1–6</div></div>
-  <p>Zapisuj <b>váhu</b> a <b>počet opakování poslední série</b>. Trvá to třicet vteřin a je to jediný důvod, proč se váhy za dvanáct týdnů někam posunou.</p>
+<div class="page ">
+  <div class="ph"><h2>Záznam — trénink A</h2><div class="tag">12 tréninků</div></div>
   <table class="log">
-    <tr><th style="width:11%">Týden</th><th style="width:12%">Datum</th><th>Dřep</th><th>Přítah</th><th class="nw">Tlak nad hlavu</th><th>Most</th><th style="width:22%">Jak jsem se cítila</th></tr>
-    <tr><td>1 — a)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>1 — b)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>2 — a)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>2 — b)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>3 — a)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>3 — b)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>4 — a)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>4 — b)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>5 — a)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>5 — b)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>6 — a)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>6 — b)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><th style="width:9%">#</th><th style="width:13%">Datum</th><th>Goblet dřep</th><th>Tlak lavice</th><th>Přítah</th><th>Rum. mrtvý tah</th><th>Biceps</th></tr>
+    <tr><td>1.</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>2.</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>3.</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>4.</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>5.</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>6.</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>7.</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>8.</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>9.</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>10.</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>11.</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>12.</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   </table>
   <div class="note" style="margin-top:6mm;">
-    <h4>Co dělat s prázdným řádkem</h4>
-    Vynechaný trénink se nedopisuje a nedohání. Škrtni ho a jeď dál podle plánu — dva tréninky týdně jsou cíl, ne povinnost, a jeden vynechaný týden nic nezkazí. Co zkazí je přestat.
+    <h4>Co zapisovat</h4>
+    Ke každému cviku <b>váhu a počet opakování poslední série</b> — třeba „10 kg / 8". U australských přítahů místo váhy <b>číslo díry, ve které je tyč</b>. Nic víc se zapisovat nemusí.
   </div>
-  <div class="pfoot">Záznam · týden 1–6</div><div class="pnum">10</div>
+  <div class="pfoot">Záznam · trénink A</div><div class="pnum">10</div>
 </div>
-
-<!-- ===== ZÁZNAM 2 ===== -->
 <div class="page cream">
-  <div class="ph"><h2>Záznam tréninků</h2><div class="tag">Týden 7–12</div></div>
+  <div class="ph"><h2>Záznam — trénink B</h2><div class="tag">12 tréninků</div></div>
   <table class="log">
-    <tr><th style="width:11%">Týden</th><th style="width:12%">Datum</th><th>Dřep</th><th>Přítah</th><th class="nw">Tlak nad hlavu</th><th>Most</th><th style="width:22%">Jak jsem se cítila</th></tr>
-    <tr><td>7 — a)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>7 — b)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>8 — a)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>8 — b)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>9 — a)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>9 — b)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>10 — a)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>10 — b)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>11 — a)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>11 — b)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>12 — a)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>12 — b)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><th style="width:9%">#</th><th style="width:13%">Datum</th><th>Bulh. dřep</th><th>Tlak nad hlavu</th><th>Přítahy pod tyčí</th><th>Hip thrust</th><th>Triceps</th></tr>
+    <tr><td>1.</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>2.</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>3.</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>4.</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>5.</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>6.</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>7.</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>8.</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>9.</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>10.</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>11.</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>12.</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   </table>
   <div class="note" style="margin-top:6mm;">
     <h4>Po dvanácti týdnech</h4>
-    Porovnej první a poslední řádek téhle tabulky. To číslo je celý smysl plánu — a je to zároveň jediný podklad pro to, jak napsat plán na dalších dvanáct týdnů.
+    Porovnej první a poslední řádek obou tabulek. Ten rozdíl je celý smysl plánu — a zároveň jediný podklad pro to, jak napsat plán na dalších dvanáct týdnů. Cviky přitom zůstávají, mění se jen zátěž.
   </div>
-  <div class="flag">
-    <h4>A pak?</h4>
-    Cviky zůstávají, mění se jen zátěž a objem. Tenhle plán není dvanáctitýdenní kurz, po kterém se končí — je to způsob, jakým se trénuje dál. Dvanáct týdnů je jen první kontrolní bod.
-  </div>
-  <div class="pfoot">Záznam · týden 7–12</div><div class="pnum">11</div>
+  <div class="pfoot">Záznam · trénink B</div><div class="pnum">11</div>
 </div>
 
 </body></html>
