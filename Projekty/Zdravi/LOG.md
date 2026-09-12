@@ -7,6 +7,8 @@ Zapisuje se přes `/session-close`. Živý rozpracovaný stav sem NEPATŘÍ — 
 
 ## 2026
 
+- 2026-09-12 — Přidána strana „První tři tréninky" (2 série, prázdná osa, nepřidávat) + tabulka náhrad velká činka → jednoručky. — Tessa měla obavu, že klec není pro začátečníka. **Odpověď: riziko není nářadí, ale zátěž.** Velká činka je pro začátečníka snazší než jednoručky (obě ruce na jedné ose, daná dráha, přírůstky po 1,25 kg) — standardní začátečnické programy na ní stojí. Reálná úskalí jsou dvě: prázdná osa 20 kg může být na tlak nad hlavu moc, a trénink o samotě bez pojistek vylučuje těžký dřep a bench.
+
 - 2026-09-12 — Plán maminky zúžen na základní cviky: A = dřep, tlak na lavici, přítah velké činky, biceps, prkno · B = mrtvý tah, tlak nad hlavu, negativní shyby, výpady, triceps. Vyhozena farmářská chůze a australské přítahy (Tessa je nechtěla). — **Tah zůstal, jen v jiném provedení** — kategorie se nevyhazuje, jen konkrétní cvik, jinak se rozbije rovnováha tlak/tah.
 - 2026-09-12 — Výbava doma: hrazda, velká činka + kotouče, lavice, **BEZ pojistných vzpěr**. Proto dřep a bench jedou na jednoručky (u nich jediných hrozí zaklínění pod činkou), zbytek na osu. Až budou pojistky, přehodit na velkou činku.
 
