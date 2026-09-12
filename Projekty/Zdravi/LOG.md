@@ -7,6 +7,9 @@ Zapisuje se přes `/session-close`. Živý rozpracovaný stav sem NEPATŘÍ — 
 
 ## 2026
 
+- 2026-09-12 — **OPRAVA: doma NENÍ velká činka.** Jen jednoručky 2,5–40 kg + lavice + hrazda. V dotazníku byla omylem vybraná „velká činka" a já na tom postavila dvě verze plánu. — **Poučení: když odpověď v dotazníku odporuje tomu, co Tessa napsala vlastními slovy dřív, platí ta vlastní slova** (hned v prvním zadání psala „máme doma 2,5–40kg činky"). Ověřit, ne stavět.
+- 2026-09-12 — Plán doplněn o konkrétní váhy u každého cviku (start + cíl za 12 týdnů), test na výběr správné váhy a rozepsaný příklad progrese trénink po tréninku. Přidány 3 strany jídelníčku: náběh po týdnech (přidávat, ne nahrazovat), ukázkový den ~2900 kcal / ~130 g bílkovin [orientační], nákupní seznam a kontrola váhou.
+
 - 2026-09-12 — Přidána strana „První tři tréninky" (2 série, prázdná osa, nepřidávat) + tabulka náhrad velká činka → jednoručky. — Tessa měla obavu, že klec není pro začátečníka. **Odpověď: riziko není nářadí, ale zátěž.** Velká činka je pro začátečníka snazší než jednoručky (obě ruce na jedné ose, daná dráha, přírůstky po 1,25 kg) — standardní začátečnické programy na ní stojí. Reálná úskalí jsou dvě: prázdná osa 20 kg může být na tlak nad hlavu moc, a trénink o samotě bez pojistek vylučuje těžký dřep a bench.
 
 - 2026-09-12 — Plán maminky zúžen na základní cviky: A = dřep, tlak na lavici, přítah velké činky, biceps, prkno · B = mrtvý tah, tlak nad hlavu, negativní shyby, výpady, triceps. Vyhozena farmářská chůze a australské přítahy (Tessa je nechtěla). — **Tah zůstal, jen v jiném provedení** — kategorie se nevyhazuje, jen konkrétní cvik, jinak se rozbije rovnováha tlak/tah.
