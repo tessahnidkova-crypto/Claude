@@ -7,6 +7,8 @@ Zapisuje se přes `/session-close`. Živý rozpracovaný stav sem NEPATŘÍ — 
 
 ## 2026
 
+- 2026-09-12 — Trénink zkrácen ze 35 na **20 minut** pomocí **párů (supersérií)** místo ubírání cviků. — Tessa chtěla 20–25 min, což jsem u předchozích verzí přehlédla. Řešení: cviky ve dvojicích, 45 s mezi nimi, tři kola. Každý cvik má pořád ~2 min pauzu mezi svými sériemi, ale trénink trvá skoro o polovinu míň. **Objem ani váhy se nesnižovaly.** Biceps a triceps přesunuty na „volitelné, když zbyde čas" — to je jediné, co ubylo.
+
 - 2026-09-12 — Shyby (negativní opakování) nahrazeny **přítahem obouruč v předklonu**. — S jednoručkami neexistuje náhrada za svislý tah; nejefektivnější řešení je trénovat vodorovný tah 2× týdně ve dvou variantách (jednoruč s oporou v A, obouruč bez opory v B). Tah se z plánu vyhodit nedá — bez něj by zůstal jen tlak a rozbila by se rovnováha.
 - 2026-09-12 — Titulka plánu nově ukazuje **pokrytí těla** (nohy a hýždě / záda / prsa a ramena / paže) místo čísel stran — přímá odpověď na „chci, aby měla celé tělo". Přidána strana 10: **Váha a jídlo** — 12týdenní tabulka s váhou, rozdílem a sloupcem „smoothie, kolik dní ze 7".
 

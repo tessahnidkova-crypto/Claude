@@ -112,6 +112,16 @@ p{margin-bottom:2.5mm;}
 .bar{display:flex; gap:3mm; margin:0 0 3mm;}
 .bar div{flex:1; background:var(--soft); border-radius:2.5mm; padding:3.2mm 4mm; font-size:8.9pt; line-height:1.45;}
 .bar b{display:block; font-family:"Bitstream Charter",serif; font-size:10.5pt; margin-bottom:1mm;}
+
+.pair{border:1.6px solid var(--ink); border-radius:3mm; margin-bottom:4.2mm; overflow:hidden; page-break-inside:avoid;}
+.pair-h{background:var(--acc); color:#fff; padding:2.1mm 5mm; display:flex; justify-content:space-between; align-items:baseline;
+        font-size:8.6pt; letter-spacing:.14em; text-transform:uppercase; font-weight:bold;}
+.pair-h span:last-child{font-size:7.8pt; letter-spacing:.08em; color:#F6DCCD; text-transform:none;}
+.pair .xr{border:none; border-radius:0; margin:0;}
+.pair .xr + .xr{border-top:1.6px solid var(--line);}
+.pair-f{background:var(--soft); padding:2.4mm 5mm; font-size:8.6pt; border-top:1.6px solid var(--line);}
+.bonus{border:1.5px dashed var(--mut); border-radius:3mm; padding:3.4mm 5mm; margin-bottom:4mm; font-size:9.1pt;}
+.bonus b.t{display:block; font-family:"Bitstream Charter",serif; font-size:11pt; color:var(--ink); margin-bottom:1.2mm;}
 </style></head><body>
 
 <!-- 1. COVER -->
@@ -119,17 +129,17 @@ p{margin-bottom:2.5mm;}
   <div class="eyebrow">Full body · 2× týdně · jednoručky</div>
   <h1>Silnější<em>každý týden</em></h1>
   <div class="rule"></div>
-  <p class="lede">Dva tréninky, deset cviků, jednoručky a lavice. U každého cviku je napsané, s jakou vahou začít a kdy přidat. Plus jídlo — bez něj svaly nepřibydou.</p>
+  <p class="lede">Dva tréninky po dvaceti minutách. Cviky se dělají v párech, aby se stihlo celé tělo — u každého je napsané, s jakou vahou začít a kdy přidat. Plus jídlo, bez něj svaly nepřibydou.</p>
   <div class="stats">
     <div class="stat"><b>2×</b><span>týdně</span></div>
-    <div class="stat"><b>35</b><span>minut</span></div>
-    <div class="stat"><b>5</b><span>cviků</span></div>
+    <div class="stat"><b>20</b><span>minut</span></div>
+    <div class="stat"><b>4</b><span>cviky</span></div>
   </div>
   <div class="journey">
     <div class="jrow"><div class="jl">Nohy a hýždě</div><div class="jt">Dřep · výpady · rumunský mrtvý tah · hip thrust</div></div>
     <div class="jrow"><div class="jl">Záda</div><div class="jt">Přítah jednoručky · přítah obouruč</div></div>
     <div class="jrow"><div class="jl">Prsa a ramena</div><div class="jt">Tlak na lavici · tlak nad hlavu</div></div>
-    <div class="jrow"><div class="jl">Paže</div><div class="jt">Bicepsový zdvih · tricepsový tlak</div></div>
+    <div class="jrow"><div class="jl">Paže</div><div class="jt">Pracují při každém tlaku a tahu · navíc biceps a triceps, když zbyde čas</div></div>
   </div>
   <div class="promise">
     <div class="t">Pravidlo celého plánu</div>
@@ -149,7 +159,6 @@ p{margin-bottom:2.5mm;}
   </div>
 
   <h3 class="sub" style="margin-top:0;">Kdy cvičit</h3>
-  <p>Dva tréninky týdně, mezi nimi aspoň dva dny volna. Střídej A a B <b>podle posledního odcvičeného</b>, ne podle kalendáře.</p>
   <div class="week">
     <div class="day"><b>PO</b><span class="m">volno</span></div>
     <div class="day on"><b>ÚT</b><span class="m">trénink A</span></div>
@@ -161,128 +170,124 @@ p{margin-bottom:2.5mm;}
   </div>
 
   <h3 class="sub">Rozcvička — 5 minut, vždycky</h3>
-  <table>
-    <tr><th style="width:72%">Co</th><th>Kolik</th></tr>
-    <tr><td>Svižná chůze nebo chůze na místě — jen se zahřát</td><td class="nw">3 minuty</td></tr>
-    <tr><td>Kroužení rameny dozadu · kroužení boky · dřepy bez zátěže</td><td class="nw">10× od každého</td></tr>
-    <tr><td><b>Zahřívací série prvního cviku</b> — poloviční váha</td><td class="nw">1 série</td></tr>
-  </table>
+  <div class="tempo" style="margin-bottom:4mm;"><b>2 minuty</b> svižná chůze nebo chůze na místě, jen se zahřát &nbsp;·&nbsp; <b>10×</b> kroužení rameny dozadu, kroužení boky, dřepy bez zátěže &nbsp;·&nbsp; <b>1 zahřívací série</b> prvního cviku s poloviční vahou.</div>
 
   <h3 class="sub">Jak cvičit každou sérii</h3>
   <table>
-    <tr><th style="width:26%">Tempo</th><td>Nahoru rázně, <b>dolů kontrolovaně na dvě vteřiny</b>. Ta pomalá cesta dolů dělá většinu práce.</td></tr>
-    <tr><th>Dech</th><td>Výdech do námahy, nádech při návratu. <b>Nikdy nezadržovat dech.</b></td></tr>
+    <tr><th style="width:26%">Tempo a dech</th><td>Nahoru rázně, <b>dolů kontrolovaně na dvě vteřiny</b>. Výdech do námahy, nádech při návratu — <b>nikdy nezadržovat dech</b>.</td></tr>
     <tr><th>Kdy sérii ukončit</th><td>Když bys <b>ještě dvě opakování zvládla, ale třetí už ne</b>. Pět v zásobě je rozcvička, rozsypaná technika je moc.</td></tr>
-    <tr><th>Pauza mezi sériemi</th><td><b>2 minuty</b> u prvních tří cviků, 60 vteřin u posledních dvou. Kratší pauza není poctivější trénink, jen menší váha.</td></tr>
+    <tr><th>Pauza</th><td><b>45 vteřin</b> mezi cviky v páru. Víc netřeba — viz vysvětlení níž.</td></tr>
   </table>
 
+  <h3 class="sub">Proč se cvičí v párech</h3>
+  <p>Cviky nejdou jeden po druhém, ale <b>ve dvojicích</b>: série prvního, 45 vteřin pauza, série druhého, 45 vteřin pauza — a tohle celé <b>třikrát</b>. Teprve pak druhý pár. Ušetří to <b>skoro polovinu času</b> při stejném počtu sérií.</p>
+  <table>
+    <tr><th style="width:30%">Proč to stačí</th><td>Každý cvik má mezi svými sériemi pořád skoro <b>dvě minuty</b> na odpočinek — jen je místo čekání vyplněné druhým cvikem, který zatěžuje jinou část těla.</td></tr>
+    <tr><th>Když je to moc</th><td>Když se ze zadýchání rozpadá technika, dej si 90 vteřin. Trénink bude o pět minut delší a nic se neděje.</td></tr>
+  </table>
   <div class="flag">
     <h4>Kdy přestat cvičit</h4>
     <b>Přestat a poradit se s lékařem</b>, když přijde ostrá bolest v kloubu nebo v zádech <b>během</b> cviku · závrať, píchání na hrudi, nevolnost · brnění nebo vystřelování do ruky či nohy.<br>
-    <b>Normální naopak je:</b> svalová bolest 1–2 dny po tréninku · zadýchání a teplo · třes v poslední sérii · ztuhlost, která se rozcvičením zlepší.
+    <b>Normální naopak je:</b> svalová bolest 1–2 dny po tréninku, zadýchání, teplo a třes v poslední sérii.
   </div>
   <div class="pfoot">Silnější každý týden</div><div class="pnum">2</div>
 </div>
 
 <!-- 3. TRÉNINK A -->
 <div class="page">
-  <div class="ph"><h2>Trénink A</h2><div class="tag">Celý na jedné straně · ~35 minut</div></div>
+  <div class="ph"><h2>Trénink A</h2><div class="tag">20 minut · dva páry</div></div>
 
-  <div class="xr">
-    <div class="xr-top"><span class="xn">1</span><span class="xname">Goblet dřep</span><span class="xsets">3 × 8</span><span class="xw">10 kg</span><span class="xrest">pauza 2 min</span></div>
-    <div class="xb">
-      <div class="xhow"><b>Jednu</b> činku drž svisle oběma dlaněmi u hrudníku, lokty dolů · chodidla na šířku ramen, špičky mírně ven · sedej <b>mezi paty</b> a kolena tlač ven ve směru špiček · dolů aspoň tak, aby stehna byla vodorovně · nahoru zatlač celým chodidlem do podlahy.</div>
-      <div class="xerr"><b>Hlídej:</b> kolena nesmí padat dovnitř · paty zůstávají na zemi · dole se nesmí zakulatit záda.</div>
+  <div class="pair">
+    <div class="pair-h"><span>Pár 1 — třikrát dokola</span><span>dřep &nbsp;→&nbsp; 45 s &nbsp;→&nbsp; přítah &nbsp;→&nbsp; 45 s &nbsp;→&nbsp; znovu</span></div>
+    <div class="xr">
+      <div class="xr-top"><span class="xn">1</span><span class="xname">Goblet dřep</span><span class="xsets">3 × 8</span><span class="xw">10 kg</span></div>
+      <div class="xb">
+        <div class="xhow"><b>Jednu</b> činku drž svisle oběma dlaněmi u hrudníku, lokty dolů · chodidla na šířku ramen, špičky mírně ven · sedej <b>mezi paty</b> a kolena tlač ven ve směru špiček · dolů aspoň tak, aby stehna byla vodorovně · nahoru zatlač celým chodidlem do podlahy.</div>
+        <div class="xerr"><b>Hlídej:</b> kolena nesmí padat dovnitř · paty zůstávají na zemi · dole se nesmí zakulatit záda.</div>
+      </div>
+    </div>
+    <div class="xr">
+      <div class="xr-top"><span class="xn">2</span><span class="xname">Přítah jednoručky o lavici</span><span class="xsets">3 × 10 / ruka</span><span class="xw">7,5 kg</span></div>
+      <div class="xb">
+        <div class="xhow">Levé koleno a levou dlaň opři o lavici, pravá noha stojí na zemi · trup nakloň tak, aby <b>záda byla rovná a vodorovná</b> · činka visí volně · přitáhni ji <b>k boku</b>, loket jede těsně podél těla dozadu · nahoře stáhni lopatku, dolů pusť pomalu do plného natažení. Pak druhá ruka.</div>
+        <div class="xerr"><b>Hlídej:</b> trup se nesmí kroutit za činkou · netahat ramenem k uchu, ale lopatkou · obě ruce se dělají hned po sobě, teprve pak pauza.</div>
+      </div>
     </div>
   </div>
 
-  <div class="xr">
-    <div class="xr-top"><span class="xn">2</span><span class="xname">Tlak s jednoručkami na lavici</span><span class="xsets">3 × 8</span><span class="xw">5 kg do ruky</span><span class="xrest">pauza 2 min</span></div>
-    <div class="xb">
-      <div class="xhow">Lehni na lavici, chodidla pevně na zemi · <b>lopatky stáhni k sobě a dolů</b> a drž je tak celou sérii · činky nad rameny, dlaně k nohám · spouštěj k hrudníku na dvě vteřiny, <b>lokty 45° od těla</b> · vytlač nahoru, lokty nepropínej naplno.</div>
-      <div class="xerr"><b>Hlídej:</b> lokty nesmí do stran do pravého úhlu (bolavá ramena) · bedra zůstávají na lavici · nahoře nesrážet činky o sebe.</div>
+  <div class="pair">
+    <div class="pair-h"><span>Pár 2 — třikrát dokola</span><span>tlak &nbsp;→&nbsp; 45 s &nbsp;→&nbsp; mrtvý tah &nbsp;→&nbsp; 45 s &nbsp;→&nbsp; znovu</span></div>
+    <div class="xr">
+      <div class="xr-top"><span class="xn">3</span><span class="xname">Tlak s jednoručkami na lavici</span><span class="xsets">3 × 8</span><span class="xw">5 kg do ruky</span></div>
+      <div class="xb">
+        <div class="xhow">Lehni na lavici, chodidla pevně na zemi · <b>lopatky stáhni k sobě a dolů</b> a drž je tak celou sérii · činky nad rameny, dlaně k nohám · spouštěj k hrudníku na dvě vteřiny, <b>lokty 45° od těla</b> · vytlač nahoru, lokty nepropínej naplno.</div>
+        <div class="xerr"><b>Hlídej:</b> lokty nesmí do stran do pravého úhlu (bolavá ramena) · bedra zůstávají na lavici · nahoře nesrážet činky o sebe.</div>
+      </div>
+    </div>
+    <div class="xr">
+      <div class="xr-top"><span class="xn">4</span><span class="xname">Rumunský mrtvý tah</span><span class="xsets">3 × 10</span><span class="xw">7,5 kg do ruky</span></div>
+      <div class="xb">
+        <div class="xhow">Stoj vzpřímeně, činky před stehny · kolena <b>lehce pokrč a už s nimi nehýbej</b> — tohle není dřep · posílej <b>boky dozadu</b> a nech trup klesat, činky kloužou podél stehen · dolů jen dokud to táhne v zadní straně stehen a záda jsou rovná · nahoru zatlačením boků dopředu.</div>
+        <div class="xerr"><b>Hlídej:</b> nejčastější chyba je udělat z toho dřep — pohyb dělají boky, ne kolena · jakmile se záda kulatí, je konec rozsahu, zastav se výš.</div>
+      </div>
     </div>
   </div>
 
-  <div class="xr">
-    <div class="xr-top"><span class="xn">3</span><span class="xname">Přítah jednoručky v předklonu</span><span class="xsets">3 × 10 / ruka</span><span class="xw">7,5 kg</span><span class="xrest">pauza 2 min</span></div>
-    <div class="xb">
-      <div class="xhow">Levé koleno a levou dlaň opři o lavici, pravá noha stojí na zemi · trup nakloň tak, aby <b>záda byla rovná a vodorovná</b> · činka visí volně · přitáhni ji <b>k boku</b>, loket jede těsně podél těla dozadu · nahoře stáhni lopatku, dolů pusť pomalu do plného natažení.</div>
-      <div class="xerr"><b>Hlídej:</b> trup se nesmí kroutit za činkou · netahat ramenem k uchu, ale lopatkou · dívej se na podlahu kousek před sebe.</div>
-    </div>
+  <div class="bonus">
+    <b class="t">Navíc, jen když zbyde čas — bicepsový zdvih, 2 × 12, 5 kg do ruky</b>
+    Stoj rovně, činky podél těla, dlaně dopředu · lokty přilep k bokům a nehýbej jimi · nahoru rázně, dolů pomalu na tři vteřiny. <b>Není povinný.</b> Biceps pracuje při každém přítahu — tohle je jen třešnička.
   </div>
 
-  <div class="xr">
-    <div class="xr-top"><span class="xn">4</span><span class="xname">Rumunský mrtvý tah</span><span class="xsets">3 × 10</span><span class="xw">7,5 kg do ruky</span><span class="xrest">pauza 2 min</span></div>
-    <div class="xb">
-      <div class="xhow">Stoj vzpřímeně, činky před stehny · kolena <b>lehce pokrč a už s nimi nehýbej</b> — tohle není dřep · posílej <b>boky dozadu</b> a nech trup klesat, činky kloužou podél stehen · dolů jen dokud to táhne v zadní straně stehen a záda jsou rovná · nahoru zatlačením boků dopředu.</div>
-      <div class="xerr"><b>Hlídej:</b> nejčastější chyba je udělat z toho dřep — pohyb dělají boky, ne kolena · jakmile se záda kulatí, je konec rozsahu, zastav se výš.</div>
-    </div>
-  </div>
-
-  <div class="xr">
-    <div class="xr-top"><span class="xn">5</span><span class="xname">Bicepsový zdvih</span><span class="xsets">2 × 12</span><span class="xw">5 kg do ruky</span><span class="xrest">pauza 60 s</span></div>
-    <div class="xb">
-      <div class="xhow">Stoj rovně, činky podél těla, dlaně dopředu · lokty přilep k bokům a nehýbej jimi · nahoru rázně, <b>dolů pomalu na tři vteřiny</b> do plného natažení.</div>
-      <div class="xerr"><b>Hlídej:</b> nehoupat trupem. Když se musí houpat, je činka moc těžká.</div>
-    </div>
-  </div>
-
-  <div class="note" style="margin-top:4mm;">
-    <h4>Cviky jdou po sobě, ne v kolečku</h4>
-    Dokončíš všechny série jednoho cviku, teprve pak jdeš na další. Když je málo času, udělej <b>jen první tři</b> — ty nesou celý výsledek.
-  </div>
+  <div class="tempo" style="margin-bottom:0;"><b>ČASOVÝ ROZPOČET.</b> Rozcvička 3 min &nbsp;·&nbsp; pár 1 devět minut &nbsp;·&nbsp; pár 2 osm minut &nbsp;·&nbsp; <b>celkem 20 minut</b>, s bicepsem navíc 23.</div>
   <div class="pfoot">Trénink A</div><div class="pnum">3</div>
 </div>
 
 <!-- 4. TRÉNINK B -->
 <div class="page cream">
-  <div class="ph"><h2>Trénink B</h2><div class="tag">Celý na jedné straně · ~35 minut</div></div>
+  <div class="ph"><h2>Trénink B</h2><div class="tag">20 minut · dva páry</div></div>
 
-  <div class="xr">
-    <div class="xr-top"><span class="xn">1</span><span class="xname">Výpady s jednoručkami</span><span class="xsets">3 × 8 / noha</span><span class="xw">bez činek</span><span class="xrest">pauza 90 s</span></div>
-    <div class="xb">
-      <div class="xhow">Stoj vzpřímeně, činky podél těla · vykroč dopředu asi <b>70 cm</b> · spusť zadní koleno skoro k zemi, trup zůstává vzpřímený · zatlač <b>přední patou</b> a vrať se do stoje · dokonči celou sérii jednou nohou, pak druhou.</div>
-      <div class="xerr"><b>Hlídej:</b> krátký krok hodí všechno do předního kolena · trup se nenaklání dopředu. <b>První dva tréninky bez činek</b>, pak 5 kg do ruky.</div>
+  <div class="pair">
+    <div class="pair-h"><span>Pár 1 — třikrát dokola</span><span>výpady &nbsp;→&nbsp; 45 s &nbsp;→&nbsp; tlak &nbsp;→&nbsp; 45 s &nbsp;→&nbsp; znovu</span></div>
+    <div class="xr">
+      <div class="xr-top"><span class="xn">1</span><span class="xname">Výpady s jednoručkami</span><span class="xsets">3 × 8 / noha</span><span class="xw">bez činek</span></div>
+      <div class="xb">
+        <div class="xhow">Stoj vzpřímeně, činky podél těla · vykroč dopředu asi <b>70 cm</b> · spusť zadní koleno skoro k zemi, trup zůstává vzpřímený · zatlač <b>přední patou</b> a vrať se do stoje · dokonči sérii jednou nohou, hned pak druhou.</div>
+        <div class="xerr"><b>Hlídej:</b> krátký krok hodí všechno do předního kolena · trup se nenaklání dopředu. <b>První dva tréninky bez činek</b>, pak 5 kg do ruky.</div>
+      </div>
+    </div>
+    <div class="xr">
+      <div class="xr-top"><span class="xn">2</span><span class="xname">Tlak nad hlavu vsedě</span><span class="xsets">3 × 8</span><span class="xw">5 kg do ruky</span></div>
+      <div class="xb">
+        <div class="xhow">Sedni na lavici s opěrkou, chodidla celá na zemi · činky ve výšce ramen, dlaně dopředu, lokty pod zápěstími · vytlač nad hlavu, lokty nahoře nepropínej naplno · dolů na dvě vteřiny zpět k ramenům.</div>
+        <div class="xerr"><b>Hlídej:</b> bedra se nesmí prohnout — zpevni břicho · lokty netlačit daleko za tělo. <b>Tenhle cvik poroste nejpomaleji z celého plánu</b>, a to je normální.</div>
+      </div>
     </div>
   </div>
 
-  <div class="xr">
-    <div class="xr-top"><span class="xn">2</span><span class="xname">Tlak nad hlavu vsedě</span><span class="xsets">3 × 8</span><span class="xw">5 kg do ruky</span><span class="xrest">pauza 2 min</span></div>
-    <div class="xb">
-      <div class="xhow">Sedni na lavici s opěrkou, chodidla celá na zemi · činky ve výšce ramen, dlaně dopředu, lokty pod zápěstími · vytlač nad hlavu, lokty nahoře nepropínej naplno · dolů na dvě vteřiny zpět k ramenům.</div>
-      <div class="xerr"><b>Hlídej:</b> bedra se nesmí prohnout — zpevni břicho · lokty netlačit daleko za tělo. <b>Tenhle cvik poroste nejpomaleji z celého plánu</b>, a to je normální.</div>
+  <div class="pair">
+    <div class="pair-h"><span>Pár 2 — třikrát dokola</span><span>hip thrust &nbsp;→&nbsp; 45 s &nbsp;→&nbsp; přítah &nbsp;→&nbsp; 45 s &nbsp;→&nbsp; znovu</span></div>
+    <div class="xr">
+      <div class="xr-top"><span class="xn">3</span><span class="xname">Hip thrust o lavici</span><span class="xsets">3 × 10</span><span class="xw">12,5 kg</span></div>
+      <div class="xb">
+        <div class="xhow">Sedni na zem zády k lavici, <b>lopatky opři o její hranu</b> · chodidla na šířku boků · činku polož přes boky, podlož ručníkem a drž ji rukama · zatlač <b>patami</b> a zvedni boky, až je tělo od kolen po ramena vodorovné · nahoře stáhni hýždě na vteřinu.</div>
+        <div class="xerr"><b>Hlídej:</b> nahoře <b>podsaď pánev</b>, neprohýbat se v kříži. Když to táhne v kříži, jdeš výš, než máš. <b>Tenhle poroste nejrychleji</b> — neboj se přidávat po 5 kg.</div>
+      </div>
+    </div>
+    <div class="xr">
+      <div class="xr-top"><span class="xn">4</span><span class="xname">Přítah obouruč v předklonu</span><span class="xsets">3 × 10</span><span class="xw">7,5 kg do ruky</span></div>
+      <div class="xb">
+        <div class="xhow">Stoj s chodidly na šířku boků, činky v rukou před stehny · kolena lehce pokrč, <b>boky pošli dozadu</b> a trup nakloň, až jsou záda rovná a skoro vodorovná · přitáhni <b>obě naráz k bokům</b>, lokty jedou těsně podél těla dozadu · nahoře stáhni lopatky k sobě, dolů pusť pomalu.</div>
+        <div class="xerr"><b>Hlídej:</b> záda zůstávají rovná — jakmile se kulatí, je váha moc velká · trup se při tahu <b>nesmí narovnávat</b> nahoru. <b>Rozdíl proti přítahu v A:</b> tady se trup drží sám, takže makají i spodní záda.</div>
+      </div>
     </div>
   </div>
 
-  <div class="xr">
-    <div class="xr-top"><span class="xn">3</span><span class="xname">Přítah obouruč v předklonu</span><span class="xsets">3 × 10</span><span class="xw">7,5 kg do ruky</span><span class="xrest">pauza 2 min</span></div>
-    <div class="xb">
-      <div class="xhow">Stoj s chodidly na šířku boků, činky v rukou před stehny · kolena lehce pokrč, <b>boky pošli dozadu</b> a trup nakloň, až jsou záda rovná a skoro vodorovná · činky visí volně pod rameny · přitáhni <b>obě naráz k bokům</b>, lokty jedou těsně podél těla dozadu · nahoře stáhni lopatky k sobě, dolů pusť pomalu do plného natažení.</div>
-      <div class="xerr"><b>Hlídej:</b> záda zůstávají rovná — jakmile se kulatí, je váha moc velká · trup se při tahu <b>nesmí narovnávat</b> nahoru · nehoupat. <b>Rozdíl proti přítahu v A:</b> tady se trup drží sám, takže makají i spodní záda.</div>
-    </div>
+  <div class="bonus">
+    <b class="t">Navíc, jen když zbyde čas — tricepsový tlak za hlavou, 2 × 12, 5 kg</b>
+    Sedni vzpřímeně, jednu činku chyť oběma dlaněmi za horní kotouč · zvedni nad hlavu · spouštěj za hlavu ohnutím loktů, lokty drž u sebe a namířené nahoru. <b>Není povinný.</b> Triceps pracuje při obou tlacích.
   </div>
 
-  <div class="xr">
-    <div class="xr-top"><span class="xn">4</span><span class="xname">Hip thrust o lavici</span><span class="xsets">3 × 10</span><span class="xw">12,5 kg</span><span class="xrest">pauza 90 s</span></div>
-    <div class="xb">
-      <div class="xhow">Sedni na zem zády k lavici, <b>lopatky opři o její hranu</b> · chodidla na šířku boků · činku polož přes boky, podlož ručníkem a drž ji rukama · zatlač <b>patami</b> a zvedni boky, až je tělo od kolen po ramena vodorovné · nahoře stáhni hýždě na vteřinu.</div>
-      <div class="xerr"><b>Hlídej:</b> nahoře <b>podsaď pánev</b>, neprohýbat se v kříži. Když to táhne v kříži, jdeš výš, než máš. <b>Tenhle poroste nejrychleji</b> — neboj se přidávat po 5 kg.</div>
-    </div>
-  </div>
-
-  <div class="xr">
-    <div class="xr-top"><span class="xn">5</span><span class="xname">Tlak s činkou za hlavou</span><span class="xsets">2 × 12</span><span class="xw">5 kg</span><span class="xrest">pauza 60 s</span></div>
-    <div class="xb">
-      <div class="xhow">Sedni vzpřímeně, jednu činku chyť <b>oběma dlaněmi za horní kotouč</b> · zvedni ji nad hlavu · spouštěj za hlavu ohnutím loktů · <b>lokty drž u sebe a namířené nahoru</b>, pracuje jen předloktí.</div>
-      <div class="xerr"><b>Hlídej:</b> lokty se nesmí rozjíždět do stran. Radši lehčí činka a lokty u hlavy.</div>
-    </div>
-  </div>
-
-  <div class="note" style="margin-top:4mm;">
-    <h4>Když je málo času</h4>
-    Jen <b>první tři cviky</b>, poslední dva vynechat. Vynechává se odspoda, nikdy shora.
-  </div>
+  <div class="tempo" style="margin-bottom:0;"><b>ČASOVÝ ROZPOČET.</b> Rozcvička 3 min &nbsp;·&nbsp; pár 1 devět minut &nbsp;·&nbsp; pár 2 osm minut &nbsp;·&nbsp; <b>celkem 20 minut</b>, s tricepsem navíc 23.</div>
   <div class="pfoot">Trénink B</div><div class="pnum">4</div>
 </div>
 
