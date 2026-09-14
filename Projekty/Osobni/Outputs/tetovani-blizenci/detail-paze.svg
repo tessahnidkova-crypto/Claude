@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1560" height="1240" viewBox="0 0 1560 1240"><rect width="1560" height="1240" fill="#fbfaf8"/>
+<text x="780.0" y="54" text-anchor="middle" font-family="Georgia,serif" font-size="31" fill="#111" letter-spacing="3">VARIANTA 2 &#8212; na paži</text>
+<line x1="458.69" y1="130.00" x2="500.66" y2="245.88" stroke="#111" stroke-width="1.15" stroke-linecap="round" stroke-dasharray="1.6 4.4"/>
+<line x1="500.66" y1="245.88" x2="621.70" y2="270.40" stroke="#111" stroke-width="1.15" stroke-linecap="round" stroke-dasharray="1.6 4.4"/>
+<line x1="500.66" y1="245.88" x2="493.16" y2="423.24" stroke="#111" stroke-width="1.15" stroke-linecap="round" stroke-dasharray="1.6 4.4"/>
+<line x1="493.16" y1="423.24" x2="510.53" y2="542.15" stroke="#111" stroke-width="1.15" stroke-linecap="round" stroke-dasharray="1.6 4.4"/>
+<line x1="510.53" y1="542.15" x2="534.95" y2="574.81" stroke="#111" stroke-width="1.15" stroke-linecap="round" stroke-dasharray="1.6 4.4"/>
+<line x1="493.16" y1="423.24" x2="451.82" y2="548.56" stroke="#111" stroke-width="1.15" stroke-linecap="round" stroke-dasharray="1.6 4.4"/>
+<line x1="358.16" y1="138.05" x2="366.80" y2="190.92" stroke="#111" stroke-width="1.15" stroke-linecap="round" stroke-dasharray="1.6 4.4"/>
+<line x1="358.16" y1="138.05" x2="296.83" y2="189.56" stroke="#111" stroke-width="1.15" stroke-linecap="round" stroke-dasharray="1.6 4.4"/>
+<line x1="366.80" y1="190.92" x2="328.10" y2="319.55" stroke="#111" stroke-width="1.15" stroke-linecap="round" stroke-dasharray="1.6 4.4"/>
+<line x1="328.10" y1="319.55" x2="351.78" y2="402.69" stroke="#111" stroke-width="1.15" stroke-linecap="round" stroke-dasharray="1.6 4.4"/>
+<line x1="351.78" y1="402.69" x2="358.16" y2="563.93" stroke="#111" stroke-width="1.15" stroke-linecap="round" stroke-dasharray="1.6 4.4"/>
+<line x1="328.10" y1="319.55" x2="238.30" y2="399.70" stroke="#111" stroke-width="1.15" stroke-linecap="round" stroke-dasharray="1.6 4.4"/>
+<line x1="238.30" y1="399.70" x2="273.58" y2="580.00" stroke="#111" stroke-width="1.15" stroke-linecap="round" stroke-dasharray="1.6 4.4"/>
+<circle cx="458.69" cy="130.00" r="2.70" fill="#111"/>
+<circle cx="358.16" cy="138.05" r="3.03" fill="#111"/>
+<circle cx="358.16" cy="563.93" r="2.46" fill="#111"/>
+<circle cx="328.10" cy="319.55" r="1.37" fill="#111"/>
+<circle cx="493.16" cy="423.24" r="1.71" fill="#111"/>
+<circle cx="351.78" cy="402.69" r="1.23" fill="#111"/>
+<circle cx="510.53" cy="542.15" r="1.78" fill="#111"/>
+<circle cx="534.95" cy="574.81" r="1.52" fill="#111"/>
+<circle cx="296.83" cy="189.56" r="1.35" fill="#111"/>
+<circle cx="238.30" cy="399.70" r="1.34" fill="#111"/>
+<circle cx="621.70" cy="270.40" r="1.33" fill="#111"/>
+<circle cx="500.66" cy="245.88" r="0.93" fill="#111"/>
+<circle cx="413.40" cy="219.72" r="1.23" fill="#111"/>
+<circle cx="366.80" cy="190.92" r="1.09" fill="#111"/>
+<circle cx="451.82" cy="548.56" r="1.05" fill="#111"/>
+<circle cx="273.58" cy="580.00" r="1.48" fill="#111"/>
+<path d="M 434.0 940.0 Q 451.0 846.0 428.0 752.0" fill="none" stroke="#111" stroke-width="1.25" stroke-linecap="round"/>
+<path d="M 428.0 752.0 Q 373.0 688.0 362.0 624.0" fill="none" stroke="#111" stroke-width="1.1" stroke-linecap="round"/>
+<ellipse cx="362.00" cy="594.72" rx="10.56" ry="7.20" fill="none" stroke="#111" stroke-width="1.1" transform="rotate(-90.0 362.00 594.72)"/>
+<ellipse cx="376.15" cy="605.00" rx="10.56" ry="7.20" fill="none" stroke="#111" stroke-width="1.1" transform="rotate(-18.0 376.15 605.00)"/>
+<ellipse cx="370.75" cy="621.64" rx="10.56" ry="7.20" fill="none" stroke="#111" stroke-width="1.1" transform="rotate(54.0 370.75 621.64)"/>
+<ellipse cx="353.25" cy="621.64" rx="10.56" ry="7.20" fill="none" stroke="#111" stroke-width="1.1" transform="rotate(126.0 353.25 621.64)"/>
+<ellipse cx="347.85" cy="605.00" rx="10.56" ry="7.20" fill="none" stroke="#111" stroke-width="1.1" transform="rotate(198.0 347.85 605.00)"/>
+<circle cx="362.00" cy="609.60" r="2.40" fill="#111"/>
+<path d="M 428.0 752.0 Q 477.0 714.0 490.0 676.0" fill="none" stroke="#111" stroke-width="1.0625" stroke-linecap="round"/>
+<ellipse cx="494.24" cy="652.35" rx="8.80" ry="6.00" fill="none" stroke="#111" stroke-width="1.0625" transform="rotate(-70.0 494.24 652.35)"/>
+<ellipse cx="502.39" cy="664.43" rx="8.80" ry="6.00" fill="none" stroke="#111" stroke-width="1.0625" transform="rotate(2.0 502.39 664.43)"/>
+<ellipse cx="493.42" cy="675.92" rx="8.80" ry="6.00" fill="none" stroke="#111" stroke-width="1.0625" transform="rotate(74.0 493.42 675.92)"/>
+<ellipse cx="479.72" cy="670.93" rx="8.80" ry="6.00" fill="none" stroke="#111" stroke-width="1.0625" transform="rotate(146.0 479.72 670.93)"/>
+<ellipse cx="480.23" cy="656.37" rx="8.80" ry="6.00" fill="none" stroke="#111" stroke-width="1.0625" transform="rotate(218.0 480.23 656.37)"/>
+<circle cx="490.00" cy="664.00" r="2.00" fill="#111"/>
+<path d="M 429.00 857.28 Q 417.16 835.93 393.05 839.75 Q 404.89 861.10 429.00 857.28 Z" fill="none" stroke="#111" stroke-width="1.0625"/>
+<path d="M 437.00 793.36 Q 456.46 798.57 468.01 782.07 Q 448.55 776.86 437.00 793.36 Z" fill="none" stroke="#111" stroke-width="1.0625"/>
+<path d="M 300.50 587.60 C 295.85 604.10 293.65 621.10 295.00 637.60" fill="none" stroke="#111" stroke-width="1.45" stroke-linecap="round"/>
+<path d="M 329.80 589.60 C 318.35 599.10 306.90 608.60 298.85 614.10" fill="none" stroke="#111" stroke-width="1.45" stroke-linecap="round"/>
+<path d="M 300.50 612.60 C 310.90 618.60 322.00 627.60 331.00 637.60" fill="none" stroke="#111" stroke-width="1.45" stroke-linecap="round"/>
+<path d="M 542.40 645.00 C 553.67 645.00 561.25 656.51 559.95 669.50 C 558.64 682.63 549.10 694.00 537.50 694.00 C 525.90 694.00 518.62 682.76 519.95 669.50 C 521.29 656.10 531.24 645.00 542.40 645.00 C 548.42 644.75 552.80 645.00 554.63 646.72" fill="none" stroke="#111" stroke-width="1.45" stroke-linecap="round"/>
+<line x1="105" y1="191" x2="344.15731457455007" y2="132.0507706530726" stroke="#c6bfb1" stroke-width="0.9" stroke-dasharray="2 3"/><text x="96" y="196" text-anchor="start" font-family="Georgia,serif" font-size="17.5" fill="#6f6a61">Castor &amp; Pollux &#8212; dvojčata</text>
+<line x1="159" y1="807" x2="332" y2="618" stroke="#c6bfb1" stroke-width="0.9" stroke-dasharray="2 3"/><text x="150" y="812" text-anchor="start" font-family="Georgia,serif" font-size="17.5" fill="#6f6a61">K &#8212; Kačka</text>
+<line x1="751" y1="695" x2="548" y2="672" stroke="#c6bfb1" stroke-width="0.9" stroke-dasharray="2 3"/><text x="760" y="700" text-anchor="end" font-family="Georgia,serif" font-size="17.5" fill="#6f6a61">O &#8212; Ondra</text>
+<line x1="781" y1="1055" x2="444" y2="932" stroke="#c6bfb1" stroke-width="0.9" stroke-dasharray="2 3"/><text x="790" y="1060" text-anchor="end" font-family="Georgia,serif" font-size="17.5" fill="#6f6a61">jeden kořen &#8212; jedna rodina</text>
+<defs><linearGradient id="arm" x1="0" y1="0" x2="1" y2="0"><stop offset="0%"   stop-color="#cfa98e"/><stop offset="22%"  stop-color="#eed4bf"/><stop offset="48%"  stop-color="#f3e0d0"/><stop offset="80%"  stop-color="#e2c0a6"/><stop offset="100%" stop-color="#c9a087"/></linearGradient><linearGradient id="armtop" x1="0" y1="0" x2="0" y2="1"><stop offset="0%"   stop-color="#b8917a" stop-opacity="0.45"/><stop offset="12%"  stop-color="#b8917a" stop-opacity="0"/><stop offset="88%"  stop-color="#b8917a" stop-opacity="0"/><stop offset="100%" stop-color="#b8917a" stop-opacity="0.45"/></linearGradient></defs>
+<rect x="1000.0" y="100.0" width="380" height="1080" rx="112" fill="url(#arm)"/>
+<rect x="1000.0" y="100.0" width="380" height="1080" rx="112" fill="url(#armtop)"/>
+<g opacity="0.90" transform="rotate(2 1190 640)"><line x1="1215.12" y1="240.00" x2="1243.10" y2="317.25" stroke="#2a2320" stroke-width="1.15" stroke-linecap="round" stroke-dasharray="1.6 4.4"/>
+<line x1="1243.10" y1="317.25" x2="1323.80" y2="333.60" stroke="#2a2320" stroke-width="1.15" stroke-linecap="round" stroke-dasharray="1.6 4.4"/>
+<line x1="1243.10" y1="317.25" x2="1238.10" y2="435.49" stroke="#2a2320" stroke-width="1.15" stroke-linecap="round" stroke-dasharray="1.6 4.4"/>
+<line x1="1238.10" y1="435.49" x2="1249.69" y2="514.77" stroke="#2a2320" stroke-width="1.15" stroke-linecap="round" stroke-dasharray="1.6 4.4"/>
+<line x1="1249.69" y1="514.77" x2="1265.96" y2="536.54" stroke="#2a2320" stroke-width="1.15" stroke-linecap="round" stroke-dasharray="1.6 4.4"/>
+<line x1="1238.10" y1="435.49" x2="1210.55" y2="519.04" stroke="#2a2320" stroke-width="1.15" stroke-linecap="round" stroke-dasharray="1.6 4.4"/>
+<line x1="1148.10" y1="245.37" x2="1153.87" y2="280.61" stroke="#2a2320" stroke-width="1.15" stroke-linecap="round" stroke-dasharray="1.6 4.4"/>
+<line x1="1148.10" y1="245.37" x2="1107.22" y2="279.70" stroke="#2a2320" stroke-width="1.15" stroke-linecap="round" stroke-dasharray="1.6 4.4"/>
+<line x1="1153.87" y1="280.61" x2="1128.07" y2="366.37" stroke="#2a2320" stroke-width="1.15" stroke-linecap="round" stroke-dasharray="1.6 4.4"/>
+<line x1="1128.07" y1="366.37" x2="1143.86" y2="421.79" stroke="#2a2320" stroke-width="1.15" stroke-linecap="round" stroke-dasharray="1.6 4.4"/>
+<line x1="1143.86" y1="421.79" x2="1148.10" y2="529.28" stroke="#2a2320" stroke-width="1.15" stroke-linecap="round" stroke-dasharray="1.6 4.4"/>
+<line x1="1128.07" y1="366.37" x2="1068.20" y2="419.80" stroke="#2a2320" stroke-width="1.15" stroke-linecap="round" stroke-dasharray="1.6 4.4"/>
+<line x1="1068.20" y1="419.80" x2="1091.72" y2="540.00" stroke="#2a2320" stroke-width="1.15" stroke-linecap="round" stroke-dasharray="1.6 4.4"/>
+<circle cx="1215.12" cy="240.00" r="2.70" fill="#2a2320"/>
+<circle cx="1148.10" cy="245.37" r="3.03" fill="#2a2320"/>
+<circle cx="1148.10" cy="529.28" r="2.46" fill="#2a2320"/>
+<circle cx="1128.07" cy="366.37" r="1.37" fill="#2a2320"/>
+<circle cx="1238.10" cy="435.49" r="1.71" fill="#2a2320"/>
+<circle cx="1143.86" cy="421.79" r="1.23" fill="#2a2320"/>
+<circle cx="1249.69" cy="514.77" r="1.78" fill="#2a2320"/>
+<circle cx="1265.96" cy="536.54" r="1.52" fill="#2a2320"/>
+<circle cx="1107.22" cy="279.70" r="1.35" fill="#2a2320"/>
+<circle cx="1068.20" cy="419.80" r="1.34" fill="#2a2320"/>
+<circle cx="1323.80" cy="333.60" r="1.33" fill="#2a2320"/>
+<circle cx="1243.10" cy="317.25" r="0.93" fill="#2a2320"/>
+<circle cx="1184.94" cy="299.81" r="1.23" fill="#2a2320"/>
+<circle cx="1153.87" cy="280.61" r="1.09" fill="#2a2320"/>
+<circle cx="1210.55" cy="519.04" r="1.05" fill="#2a2320"/>
+<circle cx="1091.72" cy="540.00" r="1.48" fill="#2a2320"/>
+<path d="M 1200.0 900.0 Q 1217.0 806.0 1194.0 712.0" fill="none" stroke="#2a2320" stroke-width="1.25" stroke-linecap="round"/>
+<path d="M 1194.0 712.0 Q 1139.0 648.0 1128.0 584.0" fill="none" stroke="#2a2320" stroke-width="1.1" stroke-linecap="round"/>
+<ellipse cx="1128.00" cy="554.72" rx="10.56" ry="7.20" fill="none" stroke="#2a2320" stroke-width="1.1" transform="rotate(-90.0 1128.00 554.72)"/>
+<ellipse cx="1142.15" cy="565.00" rx="10.56" ry="7.20" fill="none" stroke="#2a2320" stroke-width="1.1" transform="rotate(-18.0 1142.15 565.00)"/>
+<ellipse cx="1136.75" cy="581.64" rx="10.56" ry="7.20" fill="none" stroke="#2a2320" stroke-width="1.1" transform="rotate(54.0 1136.75 581.64)"/>
+<ellipse cx="1119.25" cy="581.64" rx="10.56" ry="7.20" fill="none" stroke="#2a2320" stroke-width="1.1" transform="rotate(126.0 1119.25 581.64)"/>
+<ellipse cx="1113.85" cy="565.00" rx="10.56" ry="7.20" fill="none" stroke="#2a2320" stroke-width="1.1" transform="rotate(198.0 1113.85 565.00)"/>
+<circle cx="1128.00" cy="569.60" r="2.40" fill="#2a2320"/>
+<path d="M 1194.0 712.0 Q 1243.0 674.0 1256.0 636.0" fill="none" stroke="#2a2320" stroke-width="1.0625" stroke-linecap="round"/>
+<ellipse cx="1260.24" cy="612.35" rx="8.80" ry="6.00" fill="none" stroke="#2a2320" stroke-width="1.0625" transform="rotate(-70.0 1260.24 612.35)"/>
+<ellipse cx="1268.39" cy="624.43" rx="8.80" ry="6.00" fill="none" stroke="#2a2320" stroke-width="1.0625" transform="rotate(2.0 1268.39 624.43)"/>
+<ellipse cx="1259.42" cy="635.92" rx="8.80" ry="6.00" fill="none" stroke="#2a2320" stroke-width="1.0625" transform="rotate(74.0 1259.42 635.92)"/>
+<ellipse cx="1245.72" cy="630.93" rx="8.80" ry="6.00" fill="none" stroke="#2a2320" stroke-width="1.0625" transform="rotate(146.0 1245.72 630.93)"/>
+<ellipse cx="1246.23" cy="616.37" rx="8.80" ry="6.00" fill="none" stroke="#2a2320" stroke-width="1.0625" transform="rotate(218.0 1246.23 616.37)"/>
+<circle cx="1256.00" cy="624.00" r="2.00" fill="#2a2320"/>
+<path d="M 1195.00 817.28 Q 1183.16 795.93 1159.05 799.75 Q 1170.89 821.10 1195.00 817.28 Z" fill="none" stroke="#2a2320" stroke-width="1.0625"/>
+<path d="M 1203.00 753.36 Q 1222.46 758.57 1234.01 742.07 Q 1214.55 736.86 1203.00 753.36 Z" fill="none" stroke="#2a2320" stroke-width="1.0625"/>
+<path d="M 1066.50 547.60 C 1061.85 564.10 1059.65 581.10 1061.00 597.60" fill="none" stroke="#2a2320" stroke-width="1.45" stroke-linecap="round"/>
+<path d="M 1095.80 549.60 C 1084.35 559.10 1072.90 568.60 1064.85 574.10" fill="none" stroke="#2a2320" stroke-width="1.45" stroke-linecap="round"/>
+<path d="M 1066.50 572.60 C 1076.90 578.60 1088.00 587.60 1097.00 597.60" fill="none" stroke="#2a2320" stroke-width="1.45" stroke-linecap="round"/>
+<path d="M 1308.40 605.00 C 1319.67 605.00 1327.25 616.51 1325.95 629.50 C 1324.64 642.63 1315.10 654.00 1303.50 654.00 C 1291.90 654.00 1284.62 642.76 1285.95 629.50 C 1287.29 616.10 1297.24 605.00 1308.40 605.00 C 1314.42 604.75 1318.80 605.00 1320.63 606.72" fill="none" stroke="#2a2320" stroke-width="1.45" stroke-linecap="round"/></g>
+<text x="1190" y="1226.0" text-anchor="middle" font-family="Georgia,serif" font-size="17" fill="#8b8b8b" font-style="italic">orientační náhled &#183; skutečná výška cca 14&#8211;17 cm, šířka 6&#8211;7 cm</text></svg>

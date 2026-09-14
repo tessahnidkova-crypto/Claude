@@ -3,6 +3,74 @@
 Návrh párového tetování. Souhvězdí Blíženců (Gemini) jako čárová kresba, do níž jsou
 nenásilně zakomponované obě děti — **Kačka** a **Ondra**.
 
+
+---
+
+# ⚠️ AKTUÁLNÍ VERZE: na paži, se skutečnými písmeny
+
+*(2026-09-14 — Tessa upřesnila: tetování bude **na paži**, ne na lopatce, a děti mají být
+zakomponované jako **skutečná písmena K a O**, ne morseovkou. Varianty níže jsou platné;
+ty původní z první verze zůstávají jako záloha.)*
+
+## Co se změnilo
+
+- **Formát:** úzký a svislý místo čtvercového. Souhvězdí nahoře, květiny a písmena pod ním.
+- **Písmena:** K a O nakreslená jako **fine-line kaligrafie** (vlastní křivky, ne font) —
+  tenká, mírně nakloněná, bez patek. Sedí k jemné lince souhvězdí.
+- **Květy:** dva pětilisté květy z jednoho kořene = dvě děti z jedné rodiny.
+- **Morseovka je pryč** ze všech nových variant.
+
+## Varianty pro paži
+
+| | Kde jsou písmena | Poznámka |
+|---|---|---|
+| **1 · MEZI NIMI** | malá K a O uvnitř souhvězdí, v prostoru mezi oběma postavami | „děti mezi mámou a dcerou"; nejdiskrétnější |
+| **2 · KAŽDÝ SVŮJ KVĚT** | K u levého květu, O u pravého | **doporučeno** — jasné přiřazení, nejvyváženější |
+| **3 · PÍSMENA JAKO ZÁKLAD** | velká K a O dole pod kyticí | písmena jsou hlavní prvek, souhvězdí je doplněk |
+
+## Soubory — verze na paži
+
+| Soubor | K čemu |
+|---|---|
+| `paze-varianty.png` / `.svg` | přehled všech tří variant |
+| `detail-paze.png` / `.svg` | doporučená varianta 2 ve velkém + vysvětlivky + náhled na paži |
+| `paze-stencil-1/2/3.svg` | **pro tatéra** — čistá čerň na bílé, bez popisků, vektor |
+| `paze.py`, `stencil-paze.py`, `detail-paze.py` | zdroj k přegenerování |
+
+## Rozměry na paži
+
+- **Výška 14–17 cm, šířka 6–7 cm.** Vnější strana nadloktí nebo předloktí.
+- Souhvězdí samotné vyjde na cca **6–7 cm široké a 7–8 cm vysoké**.
+- **Písmena:** ve variantě 2 zhruba 1,5–2 cm vysoká, ve variantě 3 okolo 4–5 cm.
+
+## ⚠️ Na co upozornit tatérku
+
+- **Souhvězdí Blíženců je ze své podstaty široké** — jsou to dvě postavy vedle sebe.
+  Na úzké paži je to jediné skutečné omezení celého návrhu. Když bude tetování moc úzké,
+  souhvězdí se buď zmenší tak, že se tečky slijí, nebo se bude muset zdeformovat
+  (což už nebude souhvězdí). **Před tetováním si nech udělat zkušební obtisk** a podívej
+  se, jestli šířka sedí na konkrétní místo na paži.
+- **Tenká písmena stárnou hůř než tečky a čáry.** Fine-line kaligrafie se po letech
+  rozpíjí — hlavně v místech, kde se křivka láme. Nechat raději o něco silnější linku
+  u písmen než u souhvězdí, a nedělat písmena menší než ~1,5 cm.
+- **Písmena a květ se nesmí dotýkat.** Ve variantě 2 je K těsně u svého květu — nechat
+  mezi nimi viditelnou mezeru, jinak se to za pár let spojí do skvrny.
+
+## Co ještě rozhodnout
+
+- **Kde přesně na paži?** Vnější nadloktí (víc místa na šířku) vs. předloktí (užší, ale
+  víc na očích). Mění to maximální šířku souhvězdí.
+- **Mají mít máma i dcera písmena obě?** Kačka a Ondra jsou děti maminky — dcera by pak
+  měla na ruce iniciály svých sourozenců. Dává to smysl, ale stojí za to to pojmenovat
+  nahlas, než se to vytetuje.
+- **Velká, nebo malá písmena?** Varianty 1 a 3 jsou dva póly téhož; 2 je střed.
+
+---
+
+# Původní verze (na lopatku, s morseovkou)
+
+*Ponecháno jako záloha — kdyby se nakonec líbil ten skrytější přístup.*
+
 ---
 
 ## Proč zrovna Blíženci takhle

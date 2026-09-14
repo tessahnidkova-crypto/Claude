@@ -279,3 +279,67 @@ def constellation(m, w=0.9, dash="1.6 4.4", star_scale=1.0,
         else:
             out.append(dot(x, y, r*0.52))
     return "\n".join(out)
+
+
+# ================= kaligraficka pismena (vlastni krivky, fine-line) =================
+
+def _place(path_cmds, x, y, h, w_scale=1.0, slant=0.0):
+    """
+    Prevede normalizovane souradnice (0..1 sirka, 0..1 vyska) na platno.
+    x,y = levy horni roh glyfu, h = vyska glyfu, slant = naklon doprava (kurziva).
+    """
+    out = []
+    for cmd, pts in path_cmds:
+        s = cmd
+        for (px, py) in pts:
+            gx = x + (px * w_scale + (1.0 - py) * slant) * h
+            gy = y + py * h
+            s += f" {gx:.2f} {gy:.2f}"
+        out.append(s)
+    return " ".join(out)
+
+# K - psaci, tri tahy
+_K = [
+    [("M", [(0.15, 0.00)]), ("C", [(0.09, 0.33), (0.08, 0.67), (0.14, 1.00)])],
+    [("M", [(0.74, 0.04)]), ("C", [(0.53, 0.23), (0.32, 0.42), (0.17, 0.53)])],
+    [("M", [(0.20, 0.50)]), ("C", [(0.42, 0.62), (0.66, 0.80), (0.86, 1.00)])],
+]
+# O - psaci oval, sestaveny ze 4 Bezier segmentu s jemnou nepravidelnosti
+def _build_O():
+    import math as _m
+    cx, cy, rx, ry = 0.47, 0.51, 0.40, 0.49
+    k = 0.5523
+    # kotvy: horni, pravy, spodni, levy
+    A = [(cx, cy-ry), (cx+rx, cy), (cx, cy+ry), (cx-rx, cy)]
+    # rucni nepravidelnost - kazdy kvadrant trochu jinak
+    fudge = [(1.02, 0.96), (0.97, 1.05), (1.05, 0.98), (0.99, 1.01)]
+    segs = []
+    for i in range(4):
+        p0 = A[i]; p1 = A[(i+1) % 4]
+        f1, f2 = fudge[i]
+        if i == 0:    c1 = (p0[0] + rx*k*f1, p0[1]);            c2 = (p1[0], p1[1] - ry*k*f2)
+        elif i == 1:  c1 = (p0[0], p0[1] + ry*k*f1);            c2 = (p1[0] + rx*k*f2, p1[1])
+        elif i == 2:  c1 = (p0[0] - rx*k*f1, p0[1]);            c2 = (p1[0], p1[1] + ry*k*f2)
+        else:         c1 = (p0[0], p0[1] - ry*k*f1);            c2 = (p1[0] - rx*k*f2, p1[1])
+        segs.append(("C", [c1, c2, p1]))
+    # maly prekryv nahore, aby to vypadalo psane
+    segs.append(("C", [(cx + rx*0.30, cy - ry*1.01),
+                       (cx + rx*0.52, cy - ry*1.00),
+                       (cx + rx*0.62, cy - ry*0.93)]))
+    return [[("M", [A[0]])] + segs]
+
+_O = _build_O()
+
+def glyph(letter, x, y, h, w=1.6, slant=0.10, stroke="#111"):
+    """Vykresli pismeno K nebo O jako fine-line kaligrafii. x,y = levy horni roh."""
+    strokes = {"K": _K, "O": _O}[letter]
+    out = []
+    for st in strokes:
+        d = _place(st, x, y, h, w_scale=1.0, slant=slant)
+        out.append(f'<path d="{d}" fill="none" stroke="{stroke}" stroke-width="{w}" '
+                   f'stroke-linecap="round"/>')
+    return "\n".join(out)
+
+def glyph_width(letter, h, slant=0.10):
+    """priblizna sirka glyfu v px"""
+    return (0.78 + slant) * h
