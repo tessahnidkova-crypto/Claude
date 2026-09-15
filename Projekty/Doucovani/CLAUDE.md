@@ -40,6 +40,8 @@ Tessa doučuje. Tenhle projekt drží přípravy na hodiny, materiály a zpětno
 
 - **⚠️ Generátor vět musí projít VŠECHNY kombinace, ne jen ukázkovou.** Když stavíš cvičení ze sloupců („vyber si z každého boxu"), projdi součin všech voleb a ověř, že každá věta dává smysl. *(2026-09-10: strana 4 měla `can` a `have got` v jednom boxu s podstatnými jmény ve druhém → vznikaly nesmysly „I can football", „I have got swimming". Opraveno na `like / don't like` + 3. osoba, kde funguje každá kombinace.)*
 - **⚠️ Řešení patří k listu od začátku, ne až na vyžádání.** Tessa potřebuje vědět nejen co říct, ale i co je správná odpověď — u každého cvičení. Vyrob klíč rovnou.
+- **⚠️ Recyklovaná data z minulé hodiny nesou stará čísla stran.** Když přebíráš texty z předchozího taháku (nouzovky, odkazy „skoč na stranu X"), čísla se mezitím posunula — stará rada pak pošle Tessu na špatnou stranu uprostřed hodiny. Po každé změně počtu stran projdi odkazy: `grep -o "stran[aěuy] [0-9][^<.,;]*" soubor.html`. A piš vždy **„strana X listu"** nebo **„strana X taháku"**, nikdy jen „strana X" — jsou to dva různé dokumenty. *(2026-09-15: přidáním Word race a bonusu se posunulo 5 odkazů; dva byly v recyklovaných nouzovkách z hodiny 1.)*
+- **⚠️ Slovíčková hra na čas patří do každé hodiny.** Tessa si ji vyžádala sama — je to nejlevnější způsob, jak dostat do hodiny opakování ze starších hodin. Míchej nové s minulým a nech zapsat skóre; příští hodina má rekord k překonání.
 - **⚠️ Při generování HTML skriptem zkontroluj, že vznikl uzavřený `</style>`.** Bez něj se celý dokument vykreslí jako CSS a PDF vyjde prázdné — a to na náhledu vypadá jako „bílá stránka", ne jako chyba. *(2026-09-10)*
 
 ## Kam co

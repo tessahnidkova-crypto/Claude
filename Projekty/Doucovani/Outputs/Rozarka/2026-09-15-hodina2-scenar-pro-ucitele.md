@@ -1,63 +1,82 @@
 # Scénář hodiny 2 · 2026-09-15 — What can you do? (30 min)
 
-**Co promítat:** `2026-09-15-hodina2-what-can-you-do.pdf` (7 stran, A4 na šířku) — otevři v GoodNotes a sdílej okno.
-**Co mít vedle sebe:** `2026-09-15-hodina2-TAHAK-pro-ucitele.pdf` (7 stran) — fráze s výslovností, gramatika a řešení. **Nesdílej ho.**
+**Co promítat:** `2026-09-15-hodina2-what-can-you-do.pdf` (9 stran, A4 na šířku) — GoodNotes, sdílej okno.
+**Co mít vedle sebe:** `2026-09-15-hodina2-TAHAK-pro-ucitele.pdf` (8 stran). **Nesdílej ho.**
 
 ---
 
 ## Cíl hodiny — jedna věta
 
-Rozárka umí na konci hodiny říct **co umí a co neumí** (`I can / I can't`), **zeptat se na to** (`Can you…?`) a odpovědět krátce (`Yes, I can. / No, I can't.`).
+Rozárka umí na konci říct **co umí a co neumí** (`I can / I can't`), **zeptat se na to** (`Can you…?`) a odpovědět krátce.
 
-**Klíčová past celé hodiny:** minule se koncové **-s** přidávat MUSELO (*My mum likeS ice cream*), teď se NESMÍ (*My mum can swim*). Až to splete — a splete —, není to náhoda ani nepozornost. Je to přesně to, co se má naučit rozlišit.
+**Klíčová past:** minule se koncové **-s** přidávat MUSELO (*My mum likeS*), teď se NESMÍ (*My mum can swim*). Až to splete, není to nepozornost — je to přesně ta věc, kterou se má naučit rozlišit.
 
 ---
 
-## 1 · Hello again! + kontrola úkolu — 4 min · strana 2
+## Rozvržení 30 minut
 
-Vlevo tři rozehřívací otázky, vpravo **kontrola domácího úkolu** z minula.
+| Str. | Blok | Min |
+|---|---|---|
+| 2 | Hello again + kontrola úkolu | 3 |
+| 3 | Action words | 5 |
+| **4** | **Word race (na čas)** | **4** |
+| 5 | I can / I can't | 5 |
+| 6 | Can you…? (ptá se ONA) | 5 |
+| 7 | Secret action (hra) | 5 |
+| 8 | Homework | 3 |
+| **9** | **Bonus — jen když zbyde čas** | — |
 
-- Nech ji dopsat šest slovíček **zpaměti**, teprve pak napovídej. Klíč máš v taháku na straně 7.
-- Pak: *„Read me one sentence.“* — nech ji přečíst jednu ze tří vět ze sešitu.
-- **Když úkol nemá:** nedělej z toho scénu, projděte slovíčka ústně a jdi dál. Poznamenej si to do feedbacku.
+---
 
-## 2 · Action words — 6 min · strana 3
+## 1 · Hello again! + kontrola úkolu — 3 min · strana 2
 
-Dvanáct činností s obrázky. Ukaž obrázek → ona řekne anglicky → napíše český překlad.
+Tři rozehřívací otázky vlevo, **kontrola úkolu** vpravo.
+- Nech ji dopsat šest slovíček **zpaměti**, teprve pak napovídej. Klíč: tahák strana 8.
+- Pak *„Read me one sentence.“* — jednu ze tří vět ze sešitu.
+- **Když úkol nemá:** nedělej scénu, projděte slovíčka ústně, poznamenej do feedbacku.
 
-- **Výslovnost hlídej u:** *draw* [dró] (ne „drav“ — W se nevyslovuje), *dance* [dáns] (britsky dlouhé á), *sing* [sing] (nosové NG, ne „sink“).
-- **Past, kterou plete skoro každý:** *play **the** piano* (nástroj = the), ale *play football*, *play tennis* (sport = bez the).
-- Na *swim* a *ride a bike* si vzpomene z minula — pochval to.
+## 2 · Action words — 5 min · strana 3
 
-## 3 · I can / I can't — 5 min · strana 4
+Dvanáct činností. Ukaž → řekne anglicky → napíše česky.
+- **Výslovnost:** *draw* [dró] (W se nevyslovuje), *dance* [dáns], *sing* [sing] — nosové NG, ne „sink".
+- **Past:** *play **the** piano* (nástroj), ale *play football*, *play tennis* (sport, bez the).
 
-U osmi činností zakroužkuje `can` nebo `can't` **podle pravdy o sobě**. Pak tři věty na linky.
+## 3 · Word race — 4 min · strana 4 ⏱
 
-- Třetí věta je schválně **„My mum can …“** — tam se ukáže, jestli pochopila, že `can` se nemění.
-- Když napíše *My mum cans cook*, neopravuj slovy. Ukaž jí rámeček dole na **straně 5** listu — je tam ta správná a ta špatná věta vedle sebe.
+**Dvacet obrázků bez popisků.** Ukazuješ po řadách, ona co nejrychleji říká anglicky. Měříš **60 sekund**, počítáš správné.
 
-## 4 · Can you…? — 6 min · strana 5
+- Co nezvládne, **přeskoč** — běží čas, nezastavuj se.
+- Po kole zapiš skóre do políčka a jeď znovu: *„Can you beat it?“* [ken jú bít it]
+- **Tři kola.** Skoro vždycky se zlepší — o to jde. Nejlepší výsledek do žlutého rámečku; příští hodinu ho bude chtít překonat.
+- Prvních dvanáct obrázků je dnešní látka, **posledních osm je opakování z hodiny 1**. Klíč ke všem dvaceti: tahák strana 5.
 
-**Teď se ptá ona tebe.** Pět otázek, u každé zakroužkuje tvoji odpověď, pak o tobě napíše dvě věty.
+## 4 · I can / I can't — 5 min · strana 5
 
-- Odpovídej krátce a pravdivě: *Yes, I can.* / *No, I can't.* / *A little bit.* [e litl bit]
-- Tohle je nejdůležitějších šest minut hodiny — musí otázky **vyslovit**, ne jen přečíst.
-- Když jí to jde, přidej *„And why?“* a nech ji zkusit odpověď s **because**.
+Zakroužkuje `can` / `can't` **podle pravdy o sobě**, pak tři věty.
+- Třetí věta je schválně **„My mum can …“** — tam se ukáže, jestli pochopila, že se `can` nemění.
+- Když napíše *My mum cans cook*, neopravuj slovy — ukaž rámeček dole na **straně 6** listu.
 
-## 5 · Secret action — 5 min · strana 6
+## 5 · Can you…? — 5 min · strana 6
 
-Zakroužkuje si **tajně** jednu z dvanácti činností, ty hádáš otázkami *„Can you …?“*. Za každou otázku odškrtne kolečko — máš deset.
+**Teď se ptá ona tebe.** Pět otázek, kroužkuje tvoje odpovědi, pak o tobě napíše dvě věty.
+- Odpovídej krátce: *Yes, I can.* / *No, I can't.* / *A little bit.* [e litl bit]
+- Nejdůležitějších pět minut hodiny — musí otázky **vyslovit**, ne jen přečíst.
 
-- Ona odpovídá **jen** `Yes, I can.` / `No, I can't.`
-- **Pak si role vyměňte.** Ta druhá polovina je ta důležitá — tam musí otázky tvořit sama. Nech si na ni aspoň dvě minuty.
-- Když se zasekne na tvorbě otázky, ukaž na rámeček vedle mřížky a začni za ni: *„Can you…?“*
+## 6 · Secret action — 5 min · strana 7
 
-## 6 · Homework & bye — 4 min · strana 7
+Zakroužkuje si tajně jednu činnost, ty hádáš otázkami. Deset koleček na odškrtnutí.
+- Odpovídá **jen** `Yes, I can.` / `No, I can't.`
+- **Pak si role vyměňte** — ta polovina je důležitější, tam otázky tvoří sama. Nech si na ni dvě minuty.
 
-1. Šest slovíček (tentokrát jsou mezi nimi víceslovná: *ride a bike*, *play the piano*).
-2. Tři věty — třetí je zase **„My best friend can …“**, aby si to -s znovu ohlídala.
-3. Nakreslí sama sebe, jak něco dělá, a napíše k tomu větu s **can**.
-4. **Nech ji úkol zopakovat vlastními slovy** a spočítejte hvězdy.
+## 7 · Homework & bye — 3 min · strana 8
+
+Šest slovíček, tři věty (třetí zase s `can` ve třetí osobě), kresba.
+**Nech ji úkol zopakovat vlastními slovy** a spočítejte hvězdy.
+
+## ★ Bonus — strana 9, jen když zbyde čas
+
+**Piškvorky:** aby obsadila políčko, musí říct větu (*I can swim* / *I can't swim*). Tři v řadě vyhrávají. Hraj **naostro**, nenechávej ji vyhrát. Druhá mřížka je na odvetu.
+**Rychlé výzvy** vedle — když zbydou jen dvě minuty.
 
 ---
 
@@ -65,11 +84,11 @@ Zakroužkuje si **tajně** jednu z dvanácti činností, ty hádáš otázkami *
 
 | Situace | Co udělat |
 |---|---|
-| Zbývá 10 minut a jsi u strany 4 | Přeskoč stranu 5 rovnou na **hru** (strana 6) a pak úkol. Hra naučí to samé a zvládne se rychleji. |
-| Naopak zbyl čas | Vrať se na stranu 3 a ptej se *„Can you …?“* na každý z dvanácti obrázků. |
-| Plete si to s minulou hodinou (*cans*) | To je očekávané. Ukaž rámeček na straně 5 a jeď dál — na jednu hodinu to nespravíš. |
-| Nemluví, jen kýve | Přestaň se ptát ano/ne otázkami. Ukaž na obrázek: *„What is this?“* |
-| Je unavená | Skoč na hru (strana 6) a skonči tam. Lepší skončit v dobrém. |
+| Zbývá 10 minut a jsi u strany 5 | Přeskoč stranu 6 rovnou na **hru** (strana 7), pak úkol. Hra naučí totéž rychleji. |
+| Word race jí nejde, blokne se | Zkrať na 30 sekund a počítej jen první řadu. Cílem je zážitek zlepšení, ne výkon. |
+| Zbyl čas | Strana 9 — piškvorky. |
+| Plete si to s minulou hodinou (*cans*) | Očekávané. Ukaž rámeček na straně 6 a jeď dál — na jednu hodinu to nespravíš. |
+| Je unavená | Skoč na hru (strana 7) a skonči tam. |
 
 ## Po hodině
-Vyplň `Feedback/Rozarka/2026-09-15-jak-to-dopadlo.md` — z toho se staví třetí hodina.
+Vyplň `Feedback/Rozarka/2026-09-15-jak-to-dopadlo.md`. **Zapiš skóre z Word race** — příští hodinu z něj děláme rekord k překonání.

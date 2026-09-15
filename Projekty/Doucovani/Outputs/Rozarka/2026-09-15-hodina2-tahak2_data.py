@@ -7,37 +7,50 @@ STRANY = [
   ("Today: what can you do?","tudej: wot ken jú dú","Dneska: co všechno umíš?")]),
  ("2","Hello again! + úkol",[
   ("How are you today?","hau ár jú tudej","Jak se dneska máš?"),
-  ("What day is it today?","wot dej iz it tudej","Jaký je dnes den?"),
   ("Show me your homework.","šou mí jor HOUM-vérk","Ukaž mi domácí úkol."),
   ("Do you remember these words?","dú jú ri-MEMBR dýz vérdz","Pamatuješ si tahle slovíčka?"),
   ("Read me one sentence.","ríd mí wan SENTNS","Přečti mi jednu větu.")]),
  ("3","Action words",[
   ("What is he doing?","wot iz hí DÚ-ing","Co dělá? (u obrázku)"),
-  ("Say it in English.","sej it in INGLIŠ","Řekni to anglicky."),
   ("Repeat after me.","ri-PÍT áftr mí","Opakuj po mně."),
   ("Now write it in Czech.","nau rajt it in ček","Teď to napiš česky.")]),
- ("4","I can / I can't",[
+ ("4","Word race (na čas)",[
+  ("No words — just pictures!","nou vérdz — džast PIK-črz","Žádná slova — jenom obrázky!"),
+  ("Ready? Go!","redy? gou","Připravená? Teď!"),
+  ("Time's up!","tajmz ap","Čas vypršel!"),
+  ("How many?","hau MENY","Kolik jsi jich dala?"),
+  ("Can you beat it?","ken jú bít it","Zvládneš to překonat?")]),
+ ("5","I can / I can't",[
   ("Can you swim? Circle it.","ken jú swim? SÉRKL it","Umíš plavat? Zakroužkuj."),
   ("True for you!","trú for jú","Podle pravdy!"),
-  ("Now write three sentences.","nau rajt thrí SENTN-siz","Teď napiš tři věty."),
-  ("Read them out loud.","ríd dem aut laud","Přečti je nahlas.")]),
- ("5","Can you…? (ptá se TEBE)",[
+  ("Now write three sentences.","nau rajt thrí SENTN-siz","Teď napiš tři věty.")]),
+ ("6","Can you…? (ptá se TEBE)",[
   ("Now you ask ME!","nau jú ásk mí","Teď se ptáš ty mě!"),
-  ("Yes, I can.","jes, aj ken","Ano, umím."),
-  ("No, I can't.","nou, aj kánt","Ne, neumím."),
+  ("Yes, I can. / No, I can't.","jes aj ken / nou aj kánt","Ano, umím. / Ne, neumím."),
   ("A little bit.","e litl bit","Trochu."),
   ("Now tell me about me!","nau tel mí e-BAUT mí","Teď mi řekni něco o mně!")]),
- ("6","Secret action (hra)",[
+ ("7","Secret action (hra)",[
   ("Circle one — don't tell me!","sérkl wan — dount tel mí","Jednu zakroužkuj — neříkej mi to!"),
   ("Can you ride a bike?","ken jú rajd e bajk","Umíš jezdit na kole?"),
-  ("Is it a sport?","iz it e sport","Je to sport?"),
   ("I know! You can cook!","aj nou! jú ken kuk","Já vím! Ty umíš vařit!"),
   ("My turn! / Your turn!","máj térn / jor térn","Já jsem na řadě! / Ty jsi na řadě!")]),
- ("7","Homework",[
-  ("This is your homework.","dis iz jor HOUM-vérk","Tohle je tvůj domácí úkol."),
+ ("8","Homework",[
   ("Learn these six words.","lérn dýz siks vérdz","Nauč se těchhle šest slovíček."),
   ("Draw yourself.","dró jor-SELF","Nakresli sama sebe."),
   ("Can you tell me the homework?","ken jú tel mí ď HOUM-vérk","Můžeš mi říct, co máš za úkol?")]),
+ ("9","Bonus (když zbyde čas)",[
+  ("Choose a square.","čúz e skwér","Vyber si políčko."),
+  ("Say a sentence with CAN.","sej e SENTNS wid ken","Řekni větu se slovem CAN."),
+  ("It's yours!","ic jorz","Je tvoje!"),
+  ("Three in a row — you win!","thrí in e rou — jú win","Tři v řadě — vyhrálas!")]),
+]
+
+# 20 obrázků na straně 4 listu, po řadách zleva doprava
+RACE_KLIC = [
+ ["swim","ride a bike","run","sing","dance"],
+ ["cook","draw","play football","play tennis","play the piano"],
+ ["ski","skate","beach","sea","ice cream"],
+ ["mountains","sun","tent","suitcase","plane"],
 ]
 
 SLOVICKA = [
@@ -114,7 +127,7 @@ ZASOBA = [
  ("Jak pochválit odpověď u hry",
   "You got it! [jú got it] Uhodla jsi! &middot; That was quick! [det woz kwik] To bylo rychlé! &middot; "
   "One more! [wan mór] Ještě jednu!"),
- ("Kdyby došla slovíčka na str. 3",
-  "Vrať se k obrázkům a ptej se <b>„Can you …?“</b> na každý z nich. Dvanáct obrázků = dvanáct otázek, "
+ ("Kdyby zbyl čas po straně 3 listu",
+  "Vrať se na stranu 3 listu a ptej se <b>„Can you …?“</b> na každý obrázek. Dvanáct obrázků = dvanáct otázek, "
   "a procvičí se přesně to, co se dneska učí."),
 ]

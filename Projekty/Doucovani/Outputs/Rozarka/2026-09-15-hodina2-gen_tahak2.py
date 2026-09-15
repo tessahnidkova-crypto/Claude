@@ -3,7 +3,7 @@ import os, sys
 sp = os.path.dirname(os.path.abspath(__file__)); sys.path.insert(0, sp)
 import tahak1_data as T1, tahak2_data as T2
 
-fonts = open(os.path.join(sp,"fonts","embed.css"), encoding='utf-8').read()
+fonts = open(os.path.join(sp,"fonts_embed.css"), encoding='utf-8').read()
 base  = open(os.path.join(sp,"tahak_base.css"), encoding='utf-8').read()
 
 EXTRA = '''
@@ -24,6 +24,10 @@ EXTRA = '''
 .klic{display:grid;grid-template-columns:repeat(3,1fr);gap:2mm 6mm;margin-bottom:5mm}
 .klic div{font-size:9.5pt;font-weight:700;border-bottom:.3mm solid #C9DCD8;padding:1mm 0}
 .klic div span{color:#6E868D;font-weight:600}
+.rkey{display:grid;grid-template-columns:repeat(5,1fr);gap:2mm;margin-bottom:4mm}
+.rkey div{border:.4mm solid #C9DCD8;border-radius:1mm;background:#F4F9F8;padding:2mm 1.5mm;text-align:center;
+ font-family:'Fredoka',sans-serif;font-weight:600;font-size:10pt;line-height:1.15}
+.rkey .rn{background:#16323B;color:#fff;font-size:9pt;display:flex;align-items:center;justify-content:center}
 '''
 
 def rows(items, cls=""):
@@ -32,7 +36,7 @@ def rows(items, cls=""):
         o.append('<tr><td class="en">%s</td><td class="ph">[%s]</td><td class="cz">%s</td></tr>'%(en,ph,cz))
     o.append('</table>'); return "\n".join(o)
 
-TOT=7
+TOT=8
 def foot(n,lbl):
     return ('<div class="foot"><span>Tahák &middot; Rozárka &middot; hodina 2 &middot; 15. 9.</span>'
             '<span>%s</span><span>%d / %d</span></div>'%(lbl,n,TOT))
@@ -49,7 +53,7 @@ H=['<meta charset="utf-8">','<title>Tahák — hodina 2</title>','<style>',fonts
 
 # 1
 b='''<div class="note"><h3>Dneska se učí jedna jediná věc</h3>
-<p><b>CAN = umět.</b> A po <b>can</b> se <u>nikdy</u> nepřidává koncové <b>-s</b> — ani u <i>my mum</i>, ani u <i>she</i>. To je přesně naopak než minule u <i>likes</i>. Celé pravidlo máš na straně 5.</p>
+<p><b>CAN = umět.</b> A po <b>can</b> se <u>nikdy</u> nepřidává koncové <b>-s</b> — ani u <i>my mum</i>, ani u <i>she</i>. To je přesně naopak než minule u <i>likes</i>. Celé pravidlo máš na straně 6 tohohle taháku.</p>
 <p><b>Nemusíš mluvit anglicky celou hodinu.</b> Když nevíš, jak se něco řekne, řekni to česky — nikdy nehádej.</p>
 <p><b>Výslovnost v závorkách je berlička, ne přesný přepis.</b> VELKÁ PÍSMENA = přízvuk.</p></div>'''
 b+=sec("Na začátku")+sec("Pokyny během hodiny")
@@ -62,10 +66,19 @@ H.append(page("Pochvala, opravy, nejistota","Jak reagovat, ať ji to baví dál"
 
 # 3
 b=sec("Na konci")
+# ⚠️ recyklované nouzovky z hodiny 1 odkazují na tehdejší čísla stran — přemapovat
+FIX = {
+ "Přeskoč na stranu 6 (hra) a skonči tam. Lepší skončit v dobrém než dotáhnout plán.":
+   "Přeskoč na stranu 7 (hra) a skonči tam. Lepší skončit v dobrém než dotáhnout plán.",
+ "Rovnou na stranu 7. Domácí úkol nikdy nevynechávej.":
+   "Rovnou na stranu 8. Domácí úkol nikdy nevynechávej.",
+}
 b+='<h2 class="ink">Když se to zvrtne</h2><table class="em">'
-for w,a in T1.NOUZOVKY: b+='<tr><td class="w">%s</td><td class="a">%s</td></tr>'%(w,a)
+for w,a in T1.NOUZOVKY:
+    b+='<tr><td class="w">%s</td><td class="a">%s</td></tr>'%(w, FIX.get(a,a))
 b+='</table>'
-b+='''<div class="note"><h3>Jak vést hru na straně 6</h3>
+assert all(k in [a for _,a in T1.NOUZOVKY] for k in FIX), "nouzovka k přemapování se nenašla"
+b+='''<div class="note"><h3>Jak vést hru na straně 7 listu</h3>
 <p><b>Rozárka si tajně zakroužkuje jednu činnost.</b> Ty se ptáš <i>„Can you ski?“</i> a hádáš, kterou. Za každou otázku si odškrtne jedno kolečko — máš jich deset.</p>
 <p>Ona odpovídá jen <b>„Yes, I can.“</b> nebo <b>„No, I can't.“</b> Když odpoví česky, zopakuj otázku a ukaž jí odpovědi v rámečku vedle mřížky.</p>
 <p><b>Pak si role vyměňte</b> — to je ta důležitější polovina, protože tam musí otázky <i>tvořit</i>, ne jen odpovídat.</p></div>'''
@@ -78,7 +91,25 @@ for num,name,items in T2.STRANY:
 b+='</div>'
 H.append(page("Stranu po straně","Co říct u které aktivity v pracovním listu",b,4,"Podle stran listu"))
 
-# 5 — gramatika CAN
+# 5 — hry na čas
+b = '''<div class="note"><h3>Word race &mdash; jak ji vést</h3>
+<p><b>Na straně 4 listu je dvacet obrázků bez popisků.</b> Ukazuješ na ně po řadách, Rozárka co nejrychleji říká anglicky. Měříš <b>60 sekund</b> a počítáš správné odpovědi.</p>
+<p>Co nezvládne, <b>přeskoč</b> — nezastavuj se u toho, běží čas. Po kole doplň skóre do políčka a jeďte znovu: <i>„Can you beat it?“</i> [ken jú bít it]</p>
+<p><b>Tři kola stačí.</b> Skoro vždycky se zlepší &mdash; a to je celý smysl. Nejlepší výsledek zapiš do žlutého rámečku, příští hodinu ho bude chtít překonat.</p></div>'''
+b += '<h2 class="sea">Klíč &mdash; co je na kterém obrázku</h2><div class="rkey">'
+for ri,row in enumerate(T2.RACE_KLIC,1):
+    b += '<div class="rn">Řada %d</div>'%ri if False else ''
+    for w in row: b += '<div>%s</div>'%w
+b += '</div>'
+b += '''<p style="font-size:9pt;color:#6E868D;font-weight:600;margin:-2mm 0 5mm;line-height:1.45">
+Pořadí odpovídá listu: čte se po řadách zleva doprava. Prvních dvanáct je dnešní látka, posledních osm je opakování z hodiny 1.</p>'''
+b += '''<div class="note" style="border-left-color:#0F8B8D"><h3 style="color:#0F8B8D">Bonusová strana 9 &mdash; piškvorky</h3>
+<p><b>Aby obsadila políčko, musí říct větu</b> s tím slovem: <i>I can swim</i> nebo <i>I can't swim</i>. Když větu neřekne, políčko nedostane. Tři v řadě vyhrávají.</p>
+<p>Hraj proti ní <b>naostro</b> &mdash; nenechávej ji vyhrát. Druhá mřížka je na odvetu.</p>
+<p>Vedle jsou <b>rychlé výzvy</b>, kdyby zbyly dvě minuty a na piškvorky nebyl čas.</p></div>'''
+H.append(page("Hry na čas","Word race &middot; klíč k obrázkům &middot; piškvorky",b,5,"Hry"))
+
+# 6 — gramatika CAN
 b='''<div class="big"><div class="l1">CAN se nikdy nemění. Nikdy.</div>
 <div class="l2">I CAN &middot; SHE CAN &middot; MY MUM CAN &middot; THEY CAN</div></div>'''
 b+='<h2 class="sea">Celá tabulka &mdash; tohle je všechno, co v ní je</h2><table class="cantab">'
@@ -94,9 +125,9 @@ b+='<h2 class="stamp">Pět chyb, které udělá &mdash; a co na ně říct</h2><
 for bad,good,why in T2.CAN_CHYBY:
     b+='<tr><td class="bad">%s</td><td class="good">%s</td><td class="why">%s</td></tr>'%(bad,good,why)
 b+='</table>'
-H.append(page("Gramatika: CAN","Jádro hodiny &middot; tabulka &middot; časté chyby",b,5,"Gramatika"))
+H.append(page("Gramatika: CAN","Jádro hodiny &middot; tabulka &middot; časté chyby",b,6,"Gramatika"))
 
-# 6 — slovíčka + zásoba
+# 7 — slovíčka + zásoba
 b='<h2 class="sea">Dvanáct činností ze strany 3 &mdash; jak je předříkat</h2><table class="vc">'
 for en,ph,cz,tip in T2.SLOVICKA:
     b+='<tr><td class="en">%s</td><td class="ph">[%s]</td><td class="cz">%s</td><td class="tip">%s</td></tr>'%(en,ph,cz,tip)
@@ -107,20 +138,20 @@ b+='''<div class="note"><h3>Jedna past, kterou u nás plete skoro každý</h3>
 <b style="color:#2E7D4F">play football</b>, play tennis, play chess &mdash; <u>bez</u> the.</p></div>'''
 for h,txt in T2.ZASOBA:
     b+='<div class="zas"><h4>%s</h4><p>%s</p></div>'%(h,txt)
-H.append(page("Slovíčka a zásoba","Výslovnost &middot; past s THE &middot; co dělat, když zbyde čas",b,6,"Reference"))
+H.append(page("Slovíčka a zásoba","Výslovnost &middot; past s THE &middot; co dělat, když zbyde čas",b,7,"Reference"))
 
-# 7 — řešení
+# 8 — řešení
 b='<h2 class="ok">Kontrola úkolu z minula &mdash; klíč</h2><div class="klic">'
 for en,cz in T2.HW_KLIC:
     b+='<div>%s <span>= %s</span></div>'%(en,cz)
 b+='</div>'
-b+='<h2 class="ok">Strana 4 &mdash; jak mají vypadat její tři věty</h2>'+rows(T2.RES_STR4)
-b+='<h2 class="ok">Strana 5 &mdash; co má říct o tobě</h2>'+rows(T2.RES_STR5)
+b+='<h2 class="ok">Strana 5 listu &mdash; jak mají vypadat její tři věty</h2>'+rows(T2.RES_STR4)
+b+='<h2 class="ok">Strana 6 listu &mdash; co má říct o tobě</h2>'+rows(T2.RES_STR5)
 b+='''<p style="font-size:9.5pt;color:#6E868D;font-weight:600;margin:-2mm 0 5mm;line-height:1.45">
 Tady hlídej to <b style="color:#16323B">-s</b>: <b style="color:#E4572E">My teacher cans cook</b> je chyba.
-Kdyby ho přidala, ukaž jí rámeček dole na straně 5 listu.</p>'''
+Kdyby ho přidala, ukaž jí rámeček dole na straně 6 listu.</p>'''
 b+='<h2 class="ok">Domácí úkol &mdash; vzorové věty</h2>'+rows(T2.RES_HW)
-H.append(page("Řešení a vzorové odpovědi","Klíč k úkolu &middot; jak mají znít věty",b,7,"Řešení"))
+H.append(page("Řešení a vzorové odpovědi","Klíč k úkolu &middot; jak mají znít věty",b,8,"Řešení"))
 
 out=os.path.join(sp,"tahak2.html")
 open(out,"w",encoding='utf-8').write("\n".join(H))

@@ -125,7 +125,6 @@ h1 span{color:var(--sea)}
 .vrow .l{flex:1;border-bottom:.6mm dashed var(--line);height:11mm}
 .callout{border:.8mm solid var(--sea);border-radius:2mm;padding:3mm 4mm;background:var(--paper-warm);
  font-family:'Fredoka',sans-serif;font-weight:600;font-size:14pt;text-align:center;line-height:1.3}
-/* can / can't */
 .cans{flex:1;min-height:0;display:grid;grid-template-columns:repeat(4,1fr);grid-template-rows:repeat(2,1fr);gap:5mm}
 .canc{border:.6mm solid var(--line);border-radius:2mm;padding:3mm;display:flex;flex-direction:column;
  align-items:center;justify-content:center;gap:2mm}
@@ -134,9 +133,8 @@ h1 span{color:var(--sea)}
 .yn{display:flex;gap:4mm;margin-top:1mm}
 .yn span{font-family:'Fredoka',sans-serif;font-weight:600;font-size:13pt;border:.7mm solid var(--line);
  border-radius:50%;width:15mm;height:9mm;display:flex;align-items:center;justify-content:center}
-.yn .y{color:var(--ok,#2E8B57);border-color:#2E8B57}
+.yn .y{color:#2E8B57;border-color:#2E8B57}
 .yn .n{color:var(--stamp);border-color:var(--stamp)}
-/* interview */
 .iv{flex:1;display:flex;flex-direction:column;justify-content:space-between}
 .ivr{display:flex;align-items:center;gap:5mm;border-bottom:.6mm dashed var(--line);padding-bottom:2mm}
 .ivr .q{font-family:'Fredoka',sans-serif;font-weight:600;font-size:17pt;flex:1}
@@ -145,7 +143,6 @@ h1 span{color:var(--sea)}
  border:.8mm solid var(--line);border-radius:2mm;padding:3mm 4mm;margin-top:4mm}
 .rule div{font-family:'Fredoka',sans-serif;font-weight:600;font-size:15pt}
 .rule .ok{color:#2E8B57} .rule .bad{color:var(--stamp);text-decoration:line-through}
-/* secret */
 .sgrid{flex:1;min-height:0;display:grid;grid-template-columns:repeat(4,1fr);grid-template-rows:repeat(3,1fr);gap:4mm}
 .scell{border:.6mm solid var(--line);border-radius:2mm;display:flex;flex-direction:column;
  align-items:center;justify-content:center;gap:1mm;padding:2mm}
@@ -154,7 +151,30 @@ h1 span{color:var(--sea)}
 .side{display:flex;flex-direction:column;gap:4mm;justify-content:center}
 .dots{display:flex;flex-wrap:wrap;gap:3mm}
 .dots i{width:9mm;height:9mm;border:.7mm solid var(--line);border-radius:50%;display:block}
-.lbl{font-size:9.5pt;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--grey,#7A939B)}
+.lbl{font-size:9.5pt;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:#7A939B}
+/* --- word race --- */
+.race{flex:1;min-height:0;display:grid;grid-template-columns:repeat(5,1fr);grid-template-rows:repeat(4,1fr);gap:4mm}
+.rcell{border:.6mm solid var(--line);border-radius:2mm;display:flex;align-items:center;justify-content:center;padding:2mm}
+.rcell svg{width:23mm;height:23mm}
+.score{flex:0 0 auto;display:flex;gap:5mm;margin-top:5mm;align-items:stretch}
+.sbox{flex:1;border:.8mm solid var(--line);border-radius:2mm;padding:2.5mm 3mm;text-align:center;
+ display:flex;flex-direction:column;gap:1.5mm}
+.sbox .h{font-size:9.5pt;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:#7A939B}
+.sbox .l{border-bottom:.6mm solid var(--line);height:12mm}
+.sbox.rec{border-color:var(--sun);background:var(--paper-warm)}
+.sbox.rec .h{color:#C98A0E}
+/* --- bonus --- */
+.ttt{display:grid;grid-template-columns:repeat(3,1fr);grid-template-rows:repeat(3,1fr);gap:2.5mm;flex:1;min-height:0}
+.ttt div{border:.7mm solid var(--line);border-radius:1.5mm;display:flex;align-items:center;justify-content:center;
+ font-family:'Fredoka',sans-serif;font-weight:600;font-size:14pt;text-align:center;line-height:1.1;padding:2mm}
+.tttwrap{display:flex;flex-direction:column;min-height:0;flex:1;gap:2.5mm}
+.tttwrap .cap{font-size:9.5pt;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:#7A939B;text-align:center}
+.quick{flex:1;display:flex;flex-direction:column;justify-content:space-between}
+.qk{display:flex;align-items:center;gap:3.5mm;border-bottom:.6mm dashed var(--line);padding-bottom:2mm}
+.qk .n{font-family:'Fredoka',sans-serif;font-weight:600;font-size:13pt;color:#fff;background:var(--sea);
+ width:10mm;height:10mm;border-radius:50%;display:flex;align-items:center;justify-content:center;flex:0 0 auto}
+.qk .t{font-family:'Fredoka',sans-serif;font-weight:600;font-size:14.5pt;line-height:1.15;flex:1}
+.qk svg{width:10mm;height:10mm;flex:0 0 auto}
 
 </style>
 <svg width="0" height="0" style="position:absolute" aria-hidden="true"><defs><symbol id="i-swim" viewBox="0 0 100 100">
@@ -171,6 +191,54 @@ h1 span{color:var(--sea)}
   </symbol><symbol id="i-star" viewBox="0 0 100 100">
     <path d="M50 6 L62 38 L96 38 L69 58 L79 92 L50 72 L21 92 L31 58 L4 38 L38 38 Z"
           fill="none" stroke="#F2B028" stroke-width="6" stroke-linejoin="round"/>
+  </symbol><symbol id="i-beach" viewBox="0 0 100 100">
+    <path d="M18 52 A32 32 0 0 1 82 52 Z" fill="#E4572E"/>
+    <path d="M18 52 A32 32 0 0 1 82 52" fill="none" stroke="#16323B" stroke-width="4"/>
+    <line x1="50" y1="52" x2="50" y2="86" stroke="#16323B" stroke-width="6" stroke-linecap="round"/>
+    <path d="M8 88 q11 -10 22 0 t22 0 t22 0" fill="none" stroke="#0F8B8D" stroke-width="6" stroke-linecap="round"/>
+  </symbol><symbol id="i-sea" viewBox="0 0 100 100">
+    <g stroke="#0F8B8D" stroke-width="8" stroke-linecap="round" fill="none">
+      <path d="M8 34 q11 -13 22 0 t22 0 t22 0"/>
+      <path d="M8 56 q11 -13 22 0 t22 0 t22 0"/>
+      <path d="M8 78 q11 -13 22 0 t22 0 t22 0"/>
+    </g>
+  </symbol><symbol id="i-icecream" viewBox="0 0 100 100">
+    <circle cx="40" cy="36" r="15" fill="#E4572E"/><circle cx="60" cy="36" r="15" fill="#F2B028"/>
+    <path d="M30 48 L70 48 L50 92 Z" fill="#C98A4B"/>
+    <path d="M30 48 L70 48 L50 92 Z" fill="none" stroke="#16323B" stroke-width="4" stroke-linejoin="round"/>
+  </symbol><symbol id="i-mountains" viewBox="0 0 100 100">
+    <path d="M4 84 L34 30 L54 62 L70 36 L96 84 Z" fill="#0F8B8D"/>
+    <path d="M34 30 L24 48 L34 43 L43 51 Z" fill="#FFFFFF"/>
+    <path d="M70 36 L62 50 L70 46 L78 53 Z" fill="#FFFFFF"/>
+    <path d="M4 84 L34 30 L54 62 L70 36 L96 84 Z" fill="none" stroke="#16323B" stroke-width="4" stroke-linejoin="round"/>
+  </symbol><symbol id="i-sun" viewBox="0 0 100 100">
+    <circle cx="50" cy="50" r="19" fill="#F2B028"/>
+    <g stroke="#F2B028" stroke-width="7" stroke-linecap="round">
+      <line x1="50" y1="6" x2="50" y2="20"/><line x1="50" y1="80" x2="50" y2="94"/>
+      <line x1="6" y1="50" x2="20" y2="50"/><line x1="80" y1="50" x2="94" y2="50"/>
+      <line x1="19" y1="19" x2="29" y2="29"/><line x1="71" y1="71" x2="81" y2="81"/>
+      <line x1="81" y1="19" x2="71" y2="29"/><line x1="29" y1="71" x2="19" y2="81"/>
+    </g>
+  </symbol><symbol id="i-tent" viewBox="0 0 100 100">
+    <path d="M50 20 L90 84 L10 84 Z" fill="#0F8B8D"/>
+    <path d="M50 42 L66 84 L34 84 Z" fill="#FFFFFF"/>
+    <path d="M50 20 L90 84 L10 84 Z" fill="none" stroke="#16323B" stroke-width="4" stroke-linejoin="round"/>
+    <line x1="50" y1="12" x2="50" y2="22" stroke="#16323B" stroke-width="5" stroke-linecap="round"/>
+  </symbol><symbol id="i-suitcase" viewBox="0 0 100 100">
+    <path d="M38 36 v-9 h24 v9" fill="none" stroke="#16323B" stroke-width="6" stroke-linejoin="round"/>
+    <rect x="12" y="36" width="76" height="50" rx="6" fill="#E4572E" stroke="#16323B" stroke-width="4"/>
+    <line x1="12" y1="58" x2="88" y2="58" stroke="#16323B" stroke-width="4"/>
+    <rect x="44" y="52" width="12" height="12" rx="2" fill="#F2B028" stroke="#16323B" stroke-width="3"/>
+  </symbol><symbol id="i-plane" viewBox="0 0 100 100">
+    <path d="M50 6 q6 0 7 9 l2 30 34 18 v9 L59 62 l-2 20 11 9 v6 L50 90 32 97 v-6 l11-9 -2-20 -34 10 v-9 l34-18 2-30 q1-9 7-9 Z"
+          fill="#0F8B8D" stroke="#16323B" stroke-width="3.5" stroke-linejoin="round"/>
+  </symbol><symbol id="i-castle" viewBox="0 0 100 100">
+    <rect x="10" y="40" width="16" height="48" fill="#F2B028" stroke="#16323B" stroke-width="4"/>
+    <rect x="74" y="40" width="16" height="48" fill="#F2B028" stroke="#16323B" stroke-width="4"/>
+    <rect x="28" y="52" width="44" height="36" fill="#F2B028" stroke="#16323B" stroke-width="4"/>
+    <path d="M10 40 v-8 h5 v5 h6 v-5 h5 v8 M74 40 v-8 h5 v5 h6 v-5 h5 v8" fill="#F2B028" stroke="#16323B" stroke-width="3.5" stroke-linejoin="round"/>
+    <path d="M42 88 v-16 a8 8 0 0 1 16 0 v16 Z" fill="#16323B"/>
+    <path d="M16 26 l10 4 -10 4 Z" fill="#E4572E"/><line x1="16" y1="18" x2="16" y2="32" stroke="#16323B" stroke-width="3"/>
   </symbol><symbol id="i-run" viewBox="0 0 100 100">
   <circle cx="60" cy="18" r="10" fill="#16323B"/>
   <path d="M56 30 L44 52 L56 60 L52 84" fill="none" stroke="#16323B" stroke-width="8"
@@ -243,7 +311,7 @@ h1 span{color:var(--sea)}
 <h1>What <span>can</span><br>you do?</h1>
 <div class="namebox"><b>My name is</b><span class="l"></span></div>
 <div class="starrow"><span class="lbl">My stars today</span><svg><use href="#i-star"/></svg><svg><use href="#i-star"/></svg><svg><use href="#i-star"/></svg><svg><use href="#i-star"/></svg><svg><use href="#i-star"/></svg><svg><use href="#i-star"/></svg><svg><use href="#i-star"/></svg><svg><use href="#i-star"/></svg><svg><use href="#i-star"/></svg><svg><use href="#i-star"/></svg></div></div>
-<div class="plan"><div><span class="n">1</span><div class="t">Hello again!</div><span class="m">4 min</span></div><div><span class="n">2</span><div class="t">Action words</div><span class="m">6 min</span></div><div><span class="n">3</span><div class="t">I can / I can't</div><span class="m">5 min</span></div><div><span class="n">4</span><div class="t">Can you…?</div><span class="m">6 min</span></div><div><span class="n">5</span><div class="t">Secret action</div><span class="m">5 min</span></div><div><span class="n">6</span><div class="t">Homework</div><span class="m">4 min</span></div></div></div><div class="foot"><span>English &middot; 15 September</span><span>Lesson 2</span><span>1 / 7</span></div></div>
+<div class="plan"><div><span class="n">1</span><div class="t">Hello again!</div><span class="m">3 min</span></div><div><span class="n">2</span><div class="t">Action words</div><span class="m">5 min</span></div><div><span class="n">3</span><div class="t">Word race</div><span class="m">4 min</span></div><div><span class="n">4</span><div class="t">I can / I can't</div><span class="m">5 min</span></div><div><span class="n">5</span><div class="t">Can you…?</div><span class="m">5 min</span></div><div><span class="n">6</span><div class="t">Secret action</div><span class="m">5 min</span></div><div><span class="n">7</span><div class="t">Homework</div><span class="m">3 min</span></div></div></div><div class="foot"><span>English &middot; 15 September</span><span>Lesson 2</span><span>1 / 9</span></div></div>
 <div class="page"><div class="airmail"></div>
 <div class="ph"><div class="grp"><span class="no">1</span><h2>Hello again!</h2></div><span class="task">Answer in a full sentence. Then show me your homework!</span></div>
 <div class="two">
@@ -251,29 +319,37 @@ h1 span{color:var(--sea)}
  <section><div class="sub">Homework check &mdash; write it in Czech</div>
   <div class="qlist"><div class="vrow"><b>suitcase</b><span class="l"></span></div><div class="vrow"><b>tent</b><span class="l"></span></div><div class="vrow"><b>mountains</b><span class="l"></span></div><div class="vrow"><b>castle</b><span class="l"></span></div><div class="vrow"><b>plane</b><span class="l"></span></div><div class="vrow"><b>seaside</b><span class="l"></span></div>
   <div class="callout">Now read me <b>one sentence</b> from your notebook!</div></div></section>
-</div><div class="foot"><span>English &middot; 15 September</span><span>Warm-up</span><span>2 / 7</span></div></div>
+</div><div class="foot"><span>English &middot; 15 September</span><span>Warm-up</span><span>2 / 9</span></div></div>
 <div class="page"><div class="airmail"></div>
 <div class="ph"><div class="grp"><span class="no">2</span><h2>Action words</h2></div><span class="task">Say it in English. Then write it in Czech on the line.</span></div>
-<div class="wgrid"><div class="wcard"><svg><use href="#i-swim"/></svg><span class="en">swim</span><span class="l"></span></div><div class="wcard"><svg><use href="#i-bike"/></svg><span class="en">ride a bike</span><span class="l"></span></div><div class="wcard"><svg><use href="#i-run"/></svg><span class="en">run</span><span class="l"></span></div><div class="wcard"><svg><use href="#i-sing"/></svg><span class="en">sing</span><span class="l"></span></div><div class="wcard"><svg><use href="#i-dance"/></svg><span class="en">dance</span><span class="l"></span></div><div class="wcard"><svg><use href="#i-cook"/></svg><span class="en">cook</span><span class="l"></span></div><div class="wcard"><svg><use href="#i-draw"/></svg><span class="en">draw</span><span class="l"></span></div><div class="wcard"><svg><use href="#i-football"/></svg><span class="en">play football</span><span class="l"></span></div><div class="wcard"><svg><use href="#i-tennis"/></svg><span class="en">play tennis</span><span class="l"></span></div><div class="wcard"><svg><use href="#i-piano"/></svg><span class="en">play the piano</span><span class="l"></span></div><div class="wcard"><svg><use href="#i-ski"/></svg><span class="en">ski</span><span class="l"></span></div><div class="wcard"><svg><use href="#i-skate"/></svg><span class="en">skate</span><span class="l"></span></div></div><div class="foot"><span>English &middot; 15 September</span><span>Vocabulary</span><span>3 / 7</span></div></div>
+<div class="wgrid"><div class="wcard"><svg><use href="#i-swim"/></svg><span class="en">swim</span><span class="l"></span></div><div class="wcard"><svg><use href="#i-bike"/></svg><span class="en">ride a bike</span><span class="l"></span></div><div class="wcard"><svg><use href="#i-run"/></svg><span class="en">run</span><span class="l"></span></div><div class="wcard"><svg><use href="#i-sing"/></svg><span class="en">sing</span><span class="l"></span></div><div class="wcard"><svg><use href="#i-dance"/></svg><span class="en">dance</span><span class="l"></span></div><div class="wcard"><svg><use href="#i-cook"/></svg><span class="en">cook</span><span class="l"></span></div><div class="wcard"><svg><use href="#i-draw"/></svg><span class="en">draw</span><span class="l"></span></div><div class="wcard"><svg><use href="#i-football"/></svg><span class="en">play football</span><span class="l"></span></div><div class="wcard"><svg><use href="#i-tennis"/></svg><span class="en">play tennis</span><span class="l"></span></div><div class="wcard"><svg><use href="#i-piano"/></svg><span class="en">play the piano</span><span class="l"></span></div><div class="wcard"><svg><use href="#i-ski"/></svg><span class="en">ski</span><span class="l"></span></div><div class="wcard"><svg><use href="#i-skate"/></svg><span class="en">skate</span><span class="l"></span></div></div><div class="foot"><span>English &middot; 15 September</span><span>Vocabulary</span><span>3 / 9</span></div></div>
 <div class="page"><div class="airmail"></div>
-<div class="ph"><div class="grp"><span class="no">3</span><h2>I can / I can't</h2></div><span class="task">Circle <b>can</b> or <b>can't</b> for you. Then write three sentences.</span></div>
+<div class="ph"><div class="grp"><span class="no">3</span><h2>Word race</h2></div><span class="task">No words &mdash; just pictures! Say them all in English. Ready? GO!</span></div>
+<div class="race"><div class="rcell"><svg><use href="#i-swim"/></svg></div><div class="rcell"><svg><use href="#i-bike"/></svg></div><div class="rcell"><svg><use href="#i-run"/></svg></div><div class="rcell"><svg><use href="#i-sing"/></svg></div><div class="rcell"><svg><use href="#i-dance"/></svg></div><div class="rcell"><svg><use href="#i-cook"/></svg></div><div class="rcell"><svg><use href="#i-draw"/></svg></div><div class="rcell"><svg><use href="#i-football"/></svg></div><div class="rcell"><svg><use href="#i-tennis"/></svg></div><div class="rcell"><svg><use href="#i-piano"/></svg></div><div class="rcell"><svg><use href="#i-ski"/></svg></div><div class="rcell"><svg><use href="#i-skate"/></svg></div><div class="rcell"><svg><use href="#i-beach"/></svg></div><div class="rcell"><svg><use href="#i-sea"/></svg></div><div class="rcell"><svg><use href="#i-icecream"/></svg></div><div class="rcell"><svg><use href="#i-mountains"/></svg></div><div class="rcell"><svg><use href="#i-sun"/></svg></div><div class="rcell"><svg><use href="#i-tent"/></svg></div><div class="rcell"><svg><use href="#i-suitcase"/></svg></div><div class="rcell"><svg><use href="#i-plane"/></svg></div></div>
+<div class="score">
+ <div class="sbox"><span class="h">Round 1 &middot; 60 seconds</span><span class="l"></span></div>
+ <div class="sbox"><span class="h">Round 2 &middot; 60 seconds</span><span class="l"></span></div>
+ <div class="sbox"><span class="h">Round 3 &middot; 60 seconds</span><span class="l"></span></div>
+ <div class="sbox rec"><span class="h">&#9733; My best score</span><span class="l"></span></div>
+</div><div class="foot"><span>English &middot; 15 September</span><span>Speed game</span><span>4 / 9</span></div></div>
+<div class="page"><div class="airmail"></div>
+<div class="ph"><div class="grp"><span class="no">4</span><h2>I can / I can't</h2></div><span class="task">Circle <b>can</b> or <b>can't</b> for you. Then write three sentences.</span></div>
 <div class="cans"><div class="canc"><svg><use href="#i-swim"/></svg><span class="w">swim</span><div class="yn"><span class="y">can</span><span class="n">can't</span></div></div><div class="canc"><svg><use href="#i-cook"/></svg><span class="w">cook</span><div class="yn"><span class="y">can</span><span class="n">can't</span></div></div><div class="canc"><svg><use href="#i-ski"/></svg><span class="w">ski</span><div class="yn"><span class="y">can</span><span class="n">can't</span></div></div><div class="canc"><svg><use href="#i-sing"/></svg><span class="w">sing</span><div class="yn"><span class="y">can</span><span class="n">can't</span></div></div><div class="canc"><svg><use href="#i-draw"/></svg><span class="w">draw</span><div class="yn"><span class="y">can</span><span class="n">can't</span></div></div><div class="canc"><svg><use href="#i-bike"/></svg><span class="w">ride a bike</span><div class="yn"><span class="y">can</span><span class="n">can't</span></div></div><div class="canc"><svg><use href="#i-piano"/></svg><span class="w">play the piano</span><div class="yn"><span class="y">can</span><span class="n">can't</span></div></div><div class="canc"><svg><use href="#i-dance"/></svg><span class="w">dance</span><div class="yn"><span class="y">can</span><span class="n">can't</span></div></div></div>
 <div class="iv" style="flex:0 0 auto;margin-top:5mm;gap:2mm">
  <div class="vrow"><b>I can</b><span class="l"></span></div>
  <div class="vrow"><b>I can't</b><span class="l"></span></div>
  <div class="vrow"><b>My mum can</b><span class="l"></span></div>
-</div>
-<div class="foot"><span>English &middot; 15 September</span><span>Grammar</span><span>4 / 7</span></div></div>
+</div><div class="foot"><span>English &middot; 15 September</span><span>Grammar</span><span>5 / 9</span></div></div>
 <div class="page"><div class="airmail"></div>
-<div class="ph"><div class="grp"><span class="no">4</span><h2>Can you…?</h2></div><span class="task">Ask your teacher. Circle her answer. Then tell me about her.</span></div>
+<div class="ph"><div class="grp"><span class="no">5</span><h2>Can you…?</h2></div><span class="task">Ask your teacher. Circle her answer. Then tell me about her.</span></div>
 <div class="iv"><div class="ivr"><span class="q">Can you cook?</span><div class="yn"><span class="y">YES</span><span class="n">NO</span></div></div><div class="ivr"><span class="q">Can you ski?</span><div class="yn"><span class="y">YES</span><span class="n">NO</span></div></div><div class="ivr"><span class="q">Can you play the piano?</span><div class="yn"><span class="y">YES</span><span class="n">NO</span></div></div><div class="ivr"><span class="q">Can you dance?</span><div class="yn"><span class="y">YES</span><span class="n">NO</span></div></div><div class="ivr"><span class="q">Can you draw?</span><div class="yn"><span class="y">YES</span><span class="n">NO</span></div></div>
  <div class="vrow"><b>My teacher can</b><span class="l"></span></div>
  <div class="vrow"><b>My teacher can't</b><span class="l"></span></div>
 </div>
 <div class="rule"><div class="ok">My teacher <u>can</u> swim.</div><div class="bad">My teacher cans swim.</div></div>
-<div class="foot"><span>English &middot; 15 September</span><span>Speaking</span><span>5 / 7</span></div></div>
+<div class="foot"><span>English &middot; 15 September</span><span>Speaking</span><span>6 / 9</span></div></div>
 <div class="page"><div class="airmail"></div>
-<div class="ph"><div class="grp"><span class="no">5</span><h2>Secret action</h2></div><span class="task">Circle one &mdash; don't tell! Your teacher asks, you answer.</span></div>
+<div class="ph"><div class="grp"><span class="no">6</span><h2>Secret action</h2></div><span class="task">Circle one &mdash; don't tell! Your teacher asks, you answer.</span></div>
 <div class="two" style="grid-template-columns:2.4fr 1fr">
  <section><div class="sgrid"><div class="scell"><svg><use href="#i-swim"/></svg><span>swim</span></div><div class="scell"><svg><use href="#i-bike"/></svg><span>ride a bike</span></div><div class="scell"><svg><use href="#i-run"/></svg><span>run</span></div><div class="scell"><svg><use href="#i-sing"/></svg><span>sing</span></div><div class="scell"><svg><use href="#i-dance"/></svg><span>dance</span></div><div class="scell"><svg><use href="#i-cook"/></svg><span>cook</span></div><div class="scell"><svg><use href="#i-draw"/></svg><span>draw</span></div><div class="scell"><svg><use href="#i-football"/></svg><span>play football</span></div><div class="scell"><svg><use href="#i-tennis"/></svg><span>play tennis</span></div><div class="scell"><svg><use href="#i-piano"/></svg><span>play the piano</span></div><div class="scell"><svg><use href="#i-ski"/></svg><span>ski</span></div><div class="scell"><svg><use href="#i-skate"/></svg><span>skate</span></div></div></section>
  <section class="side">
@@ -281,9 +357,9 @@ h1 span{color:var(--sea)}
   <div><div class="lbl">Questions used</div><div class="dots"><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div></div>
   <div class="callout">Got it? <b>Now you ask!</b></div>
  </section>
-</div><div class="foot"><span>English &middot; 15 September</span><span>Game</span><span>6 / 7</span></div></div>
+</div><div class="foot"><span>English &middot; 15 September</span><span>Game</span><span>7 / 9</span></div></div>
 <div class="page"><div class="airmail"></div>
-<div class="ph"><div class="grp"><span class="no">6</span><h2>Homework</h2></div><span class="task">See you next week!</span></div>
+<div class="ph"><div class="grp"><span class="no">7</span><h2>Homework</h2></div><span class="task">See you next week!</span></div>
 <div class="hw">
  <div><h3><span class="num">1</span>Learn these words</h3><div class="vocab"><div class="r"><b>ride a bike</b><span class="l"></span></div><div class="r"><b>cook</b><span class="l"></span></div><div class="r"><b>draw</b><span class="l"></span></div><div class="r"><b>ski</b><span class="l"></span></div><div class="r"><b>skate</b><span class="l"></span></div><div class="r"><b>play the piano</b><span class="l"></span></div></div></div>
  <div><h3><span class="num">2</span>Write 3 sentences</h3><div class="starter">I can …</div><div class="wl short"></div><div class="starter">I can't …</div><div class="wl short"></div><div class="starter">My best friend can …</div><div class="wl short"></div></div>
@@ -291,4 +367,13 @@ h1 span{color:var(--sea)}
   <div class="draw"><span>Draw yourself doing something &middot; write one sentence with CAN</span></div></div>
 </div>
 <div class="bye">Great job today! See you next week!</div>
-<div class="foot"><span>English &middot; 15 September</span><span>Homework</span><span>7 / 7</span></div></div>
+<div class="foot"><span>English &middot; 15 September</span><span>Homework</span><span>8 / 9</span></div></div>
+<div class="page"><div class="airmail"></div>
+<div class="ph"><div class="grp"><span class="no">&#9733;</span><h2>If we have time!</h2></div><span class="task">Say a sentence with CAN to take a square. Three in a row wins!</span></div>
+<div class="two" style="grid-template-columns:1.5fr 1fr">
+ <section style="gap:5mm">
+   <div class="tttwrap"><span class="cap">Game 1</span><div class="ttt"><div>swim</div><div>cook</div><div>ski</div><div>sing</div><div>draw</div><div>dance</div><div>ride a bike</div><div>play the piano</div><div>run</div></div></div>
+   <div class="tttwrap"><span class="cap">Game 2</span><div class="ttt"><div>play tennis</div><div>skate</div><div>play football</div><div>draw</div><div>swim</div><div>sing</div><div>ski</div><div>cook</div><div>dance</div></div></div>
+ </section>
+ <section><div class="sub">Quick challenges</div><div class="quick"><div class="qk"><span class="n">1</span><span class="t">Say 5 things you can do.</span><svg><use href="#i-star"/></svg></div><div class="qk"><span class="n">2</span><span class="t">Spell your name out loud.</span><svg><use href="#i-star"/></svg></div><div class="qk"><span class="n">3</span><span class="t">Count from 1 to 20.</span><svg><use href="#i-star"/></svg></div><div class="qk"><span class="n">4</span><span class="t">Ask me 3 questions with CAN.</span><svg><use href="#i-star"/></svg></div><div class="qk"><span class="n">5</span><span class="t">Say a sentence about your mum with CAN.</span><svg><use href="#i-star"/></svg></div><div class="qk"><span class="n">6</span><span class="t">Name 3 things you can see in your room.</span><svg><use href="#i-star"/></svg></div></div></section>
+</div><div class="foot"><span>English &middot; 15 September</span><span>Bonus</span><span>9 / 9</span></div></div>
