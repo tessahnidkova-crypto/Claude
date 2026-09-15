@@ -15,3 +15,18 @@ Chromium je v kontejneru předinstalovaný, weasyprint ani wkhtmltopdf tam nejso
 - Barvy na pozadí se do PDF dostanou jen s `print-color-adjust:exact`.
 - Náhled ke kontrole: `--screenshot` na kopii HTML se `zoom:.36` a `display:inline-flex` na `.page`.
   ⚠️ `display:inline-block` v náhledovém override přebije `display:flex` a rozbije layout — pak náhled lže.
+
+## Recyklace mezi hodinami
+
+Kontejner se po session smaže, ale **fonty a styly z minulé hodiny jsou v repu** — v souborech `…-ZDROJ.html`. Není potřeba je stahovat znovu:
+
+```python
+import re
+s = open("…-ZDROJ.html", encoding="utf-8").read()
+faces = re.findall(r'@font-face\{[^}]*\}', s)          # vložené fonty (base64)
+css   = re.sub(r'@font-face\{[^}]*\}\s*', '',
+               re.search(r'<style>(.*?)</style>', s, re.S).group(1))   # styly bez fontů
+syms  = dict(re.findall(r'<symbol id="(i-[a-z]+)"[^>]*>(.*?)</symbol>', s, re.S))  # ikony
+```
+
+Tím se drží vizuální rodina napříč hodinami a ušetří se stahování přes proxy.
