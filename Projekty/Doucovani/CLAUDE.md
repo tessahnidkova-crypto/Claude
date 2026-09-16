@@ -13,6 +13,9 @@ Tessa doučuje. Tenhle projekt drží přípravy na hodiny, materiály a zpětno
 **Tessa není v angličtině pokročilá.** Neví spolehlivě, jak co říct a jak to vyslovit. Z toho plyne:
 
 - **Ke každé hodině patří tahák pro učitele** s frázemi, které bude potřebovat, a **s výslovností** — zjednodušený český přepis v hranatých závorkách, VELKÁ PÍSMENA = přízvuk.
+- **A k němu METODIKA — jedno cvičení na stranu.** Tessa si ji vyžádala a je to teď hlavní dokument, se kterým učí. Na každé cvičení: *cíl jednou větou · co říkáš · **co můžeš říct navíc** (6 rozšiřujících frází) · **gramatika za tím** včetně věty, kterou to vysvětlí česky · klíč · co dělat, když jí to nejde / jde moc snadno.*
+- **Gramatiku vždy vysvětli dvakrát:** odborně pro Tessu (aby chápala proč) a pak **jednou českou větou, kterou může Rozárce říct rovnou**. Bez té druhé věty jí vysvětlení není k ničemu.
+- **Vždy napiš, proč to dítě plete.** Když chyba plyne z předchozí hodiny (jako `likeS` vs. `can`), řekni to — Tessa pak nereaguje jako na nepozornost.
 - **Nikdy jí nedávej anglickou frázi bez výslovnosti.** Bez ní ji buď nepoužije, nebo ji vysloví špatně a Rozárka se to tak naučí.
 - **Nepředpokládej, že si frázi domyslí.** Co má říct, musí být napsané doslova — včetně pochval, oprav a přechodů mezi aktivitami.
 - **Piš jí i to, co dělat, když neví.** Legitimní odpověď je „řekni to česky" — u páté třídy je to normální a lepší než hádat.
