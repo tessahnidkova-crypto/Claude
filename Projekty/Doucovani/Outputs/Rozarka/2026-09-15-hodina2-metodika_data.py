@@ -160,8 +160,8 @@ CVICENI = [
  "Zúži výběr: <i>„Only the first row.“</i> [ounly ď férst rou] &mdash; jen první řada.",
  "Dej si limit <b>pět otázek</b> a hraj o body."),
 
-("8+9","Homework a bonus","3 min + rezerva",
- "Odejít s jasným zadáním. A mít co dělat, kdyby zbyl čas.",
+("8-10","Homework, check list a bonus","4 min + rezerva",
+ "Odejít s jasným zadáním a s tím, že ona sama ví, co už umí.",
  [("This is your homework.","dis iz jor HOUM-vérk","Tohle je tvůj domácí úkol."),
   ("Learn these six words.","lérn dýz siks vérdz","Nauč se těchhle šest slovíček."),
   ("Draw yourself.","dró jor-SELF","Nakresli sama sebe."),
@@ -280,7 +280,7 @@ DIALOGY = {
  ("<u>Do</u> you swim?","<b>Can</b> you swim?","Ve druhé polovině hry, když tvoří otázky sama. Čekej to."),
 ]),
 
-"8+9": ([
+"8-10": ([
  ("TY","Can you tell me the homework?","ken jú tel mí ď HOUM-vérk",""),
  ("ONA","Six words and three sentences.","siks vérdz end thrí SENTN-siz","Šest slovíček a tři věty."),
  ("TY","(piškvorky) Choose a square.","čúz e skwér",""),
@@ -346,11 +346,12 @@ POSTUP = {
  "Ty si tajně vyber činnost, ona se ptá a odškrtává si kolečka sama.",
 ],
 
-"8+9": [
- "Otevři stranu 8 listu a projděte všechny tři části úkolu.",
+"8-10": [
+ "Otevři stranu 8 listu a projděte všechny tři části úkolu. Slovíčka jsou tentokrát ta, která jí dneska nešla &mdash; <b>přečti jí každé nahlas</b> a nech ji to zopakovat.",
  "<i>„Can you tell me the homework?“</i> — ať ho <b>zopakuje vlastními slovy</b>. Tím ověříš, že rozumí.",
+ "<b>Strana 9 &mdash; check list.</b> Nech ji vybarvit hvězdu u všeho, co dneska zvládla. Řekni jí, ať je <b>upřímná</b>: nevybarvená hvězda není ostuda, jen nám říká, s čím začneme příště.",
  "Spočítejte hvězdy na straně 1: <i>„You got seven stars today!“</i>",
  "Rozluč se anglicky: <i>„Great job! See you next week!“</i>",
- "Zbyl čas? Strana 9 — piškvorky. Políčko jen <b>za vyslovenou větu</b>.",
+ "Zbyl čas? <b>Strana 10</b> &mdash; piškvorky. Políčko jen <b>za vyslovenou větu</b>.",
 ],
 }

@@ -71,6 +71,36 @@ EXTRA = '''
  width:10mm;height:10mm;border-radius:50%;display:flex;align-items:center;justify-content:center;flex:0 0 auto}
 .qk .t{font-family:'Fredoka',sans-serif;font-weight:600;font-size:14.5pt;line-height:1.15;flex:1}
 .qk svg{width:10mm;height:10mm;flex:0 0 auto}
+/* --- homework: slovíčka s výslovností --- */
+.hwtop{flex:1;min-height:0;display:grid;grid-template-columns:1.05fr 1fr .9fr;gap:9mm}
+.hwtop h3{font-family:'Fredoka',sans-serif;font-weight:600;font-size:18pt;margin:0 0 3.5mm;color:var(--sea)}
+.hwtop h3 .num{background:var(--sun);color:var(--ink);width:8mm;height:8mm;border-radius:50%;
+ display:inline-flex;align-items:center;justify-content:center;font-size:11pt;font-weight:700;margin-right:2mm;
+ font-family:'Nunito',sans-serif}
+.hwtop>div{display:flex;flex-direction:column}
+.vocab2{flex:1;display:flex;flex-direction:column;justify-content:space-between;gap:1mm}
+.vocab2 .r{display:flex;align-items:flex-end;gap:3mm}
+.vocab2 .w{width:37mm}
+.vocab2 .w b{font-family:'Fredoka',sans-serif;font-weight:600;font-size:15pt;display:block;line-height:1.05}
+.vocab2 .w span{font-family:'DejaVu Sans Mono',monospace;font-size:8.5pt;color:var(--sea);display:block;margin-top:.5mm}
+.vocab2 .w i{font-size:8.5pt;color:#7A939B;font-style:italic;display:block;margin-top:.5mm;line-height:1.25}
+.vocab2 .l{flex:1;border-bottom:.6mm dashed var(--line);height:8mm}
+.draw2{flex:1;min-height:0;border:.8mm dashed var(--line);border-radius:2mm;display:flex;
+ align-items:flex-end;justify-content:center;padding:3mm;text-align:center}
+.draw2 span{font-size:9.5pt;color:var(--grey,#7A939B);font-weight:700;letter-spacing:.06em;
+ text-transform:uppercase;line-height:1.4}
+/* --- check list --- */
+.check{flex:1;min-height:0;display:flex;flex-direction:column}
+.check .hd{display:flex;align-items:baseline;gap:4mm;margin-bottom:2mm}
+.check .hd h3{font-family:'Fredoka',sans-serif;font-weight:600;font-size:17pt;margin:0;color:var(--ink);display:none}
+.check .hd span{font-size:10pt;color:var(--sea);font-weight:700}
+.clist{flex:1;min-height:0;display:grid;grid-template-columns:1fr 1fr;grid-auto-rows:auto;
+ align-content:space-between;gap:3mm 12mm}
+.ci{display:flex;align-items:center;gap:4mm;border-bottom:.6mm dashed var(--line);padding-bottom:2.5mm}
+.ci svg{width:15mm;height:15mm;flex:0 0 auto}
+.ci .t{flex:1}
+.ci .t b{font-family:'Fredoka',sans-serif;font-weight:600;font-size:16pt;display:block;line-height:1.15}
+.ci .t i{font-size:11pt;color:#7A939B;font-style:italic;font-weight:600;display:block;margin-top:.8mm}
 '''
 
 ACTIONS = [
@@ -92,7 +122,7 @@ QUICK = ["Say 5 things you can do.","Spell your name out loud.","Count from 1 to
 PLAN = [("1","Hello again!","3 min"),("2","Action words","5 min"),("3","Word race","4 min"),
         ("4","I can / I can't","5 min"),("5","Can you…?","5 min"),("6","Secret action","5 min"),
         ("7","Homework","3 min")]
-TOT=9
+TOT=10
 
 def sprite():
     p=['<svg width="0" height="0" style="position:absolute" aria-hidden="true"><defs>']
@@ -193,23 +223,45 @@ H.append(f'''<div class="page"><div class="airmail"></div>
  </section>
 </div>{foot(7,"Game")}</div>''')
 
-# 8 homework
-HW2=["ride a bike","cook","draw","ski","skate","play the piano"]
-voc="".join('<div class="r"><b>%s</b><span class="l"></span></div>'%w for w in HW2)
+# 8 homework + check list
+# slovíčka, která jí 16. 9. nešla — s výslovností a příkladem
+HW2=[("seaside","SÍ-sajd","at the seaside"),
+     ("inside","in-SAJD","inside the house"),
+     ("outside","aut-SAJD","outside in the garden"),
+     ("but","bat","I can swim but I can't ski."),
+     ("need","níd","I need a ball."),
+     ("a little bit","e litl bit","I can cook a little bit.")]
+CHECK=[("I can say 12 actions in English.","Umím říct dvanáct činností anglicky."),
+       ("I can say what I CAN do.","I can swim."),
+       ("I can say what I CAN'T do.","I can't ski."),
+       ("I can ask: Can you …?","Umím se zeptat."),
+       ("I can answer: Yes, I can. / No, I can't.","Umím krátce odpovědět."),
+       ("I can say: My mum can … (no -s!)","Umím mluvit i o někom jiném."),
+       ("I know: seaside, inside, outside, but, need.","Nová slovíčka z dneška.")]
+voc="".join('<div class="r"><span class="w"><b>%s</b><span>[%s]</span><i>%s</i></span>'
+            '<span class="l"></span></div>'%w for w in HW2)
 ST=["I can …","I can't …","My best friend can …"]
 sts="".join('<div class="starter">%s</div><div class="wl short"></div>'%s for s in ST)
+chk="".join('<div class="ci"><svg><use href="#i-star"/></svg>'
+            '<span class="t"><b>%s</b><i>%s</i></span></div>'%c for c in CHECK)
 H.append(f'''<div class="page"><div class="airmail"></div>
 {head("7","Homework","See you next week!")}
-<div class="hw">
- <div><h3><span class="num">1</span>Learn these words</h3><div class="vocab">{voc}</div></div>
+<div class="hwtop">
+ <div><h3><span class="num">1</span>Learn these words</h3><div class="vocab2">{voc}</div></div>
  <div><h3><span class="num">2</span>Write 3 sentences</h3>{sts}</div>
  <div><h3><span class="num">3</span>Draw &amp; label</h3>
-  <div class="draw"><span>Draw yourself doing something &middot; write one sentence with CAN</span></div></div>
+  <div class="draw2"><span>Draw yourself doing something<br>write one sentence with CAN</span></div></div>
 </div>
-<div class="bye">Great job today! See you next week!</div>
 {foot(8,"Homework")}</div>''')
 
-# 9 bonus
+# 9 check list
+H.append(f'''<div class="page"><div class="airmail"></div>
+{head("8","What I can do now","Colour a star for every YES! Be honest &mdash; it's for you.")}
+<div class="check"><div class="clist">{chk}</div></div>
+<div class="bye" style="margin-top:4mm">Great job today! See you next week!</div>
+{foot(9,"Check")}</div>''')
+
+# 10 bonus
 t1="".join('<div>%s</div>'%w for w in TTT1)
 t2="".join('<div>%s</div>'%w for w in TTT2)
 qk="".join('<div class="qk"><span class="n">%d</span><span class="t">%s</span>'
@@ -222,7 +274,7 @@ H.append(f'''<div class="page"><div class="airmail"></div>
    <div class="tttwrap"><span class="cap">Game 2</span><div class="ttt">{t2}</div></div>
  </section>
  <section><div class="sub">Quick challenges</div><div class="quick">{qk}</div></section>
-</div>{foot(9,"Bonus")}</div>''')
+</div>{foot(10,"Bonus")}</div>''')
 
 out=os.path.join(sp,"list2.html")
 open(out,"w",encoding='utf-8').write("\n".join(H))

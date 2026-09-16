@@ -24,7 +24,8 @@ Rozárka umí na konci říct **co umí a co neumí** (`I can / I can't`), **zep
 | 6 | Can you…? (ptá se ONA) | 5 |
 | 7 | Secret action (hra) | 5 |
 | 8 | Homework | 3 |
-| **9** | **Bonus — jen když zbyde čas** | — |
+| **9** | **Check list — co už umím** | 1 |
+| **10** | **Bonus — jen když zbyde čas** | — |
 
 ---
 
@@ -70,10 +71,17 @@ Zakroužkuje si tajně jednu činnost, ty hádáš otázkami. Deset koleček na 
 
 ## 7 · Homework & bye — 3 min · strana 8
 
-Šest slovíček, tři věty (třetí zase s `can` ve třetí osobě), kresba.
-**Nech ji úkol zopakovat vlastními slovy** a spočítejte hvězdy.
+Tři věty (třetí zase s `can` ve třetí osobě), kresba a **šest slovíček — tentokrát ta, která jí 16. 9. nešla**: *seaside, inside, outside, but, need, a little bit*. U každého je v listu výslovnost i příklad ve větě; **přečti jí každé nahlas** a nech ji to zopakovat.
+**Nech ji úkol zopakovat vlastními slovy.**
 
-## ★ Bonus — strana 9, jen když zbyde čas
+## 8 · Check list — 1 min · strana 9
+
+Sedm vět „I can…" o tom, co se dneska učila. **Vybarví hvězdu u všeho, co zvládne.**
+- Řekni jí, ať je **upřímná**: nevybarvená hvězda není ostuda, jen nám říká, čím začneme příště.
+- Ty si po hodině vyfoť nebo opiš, které hvězdy zůstaly prázdné — z toho se staví hodina 3.
+- Pak teprve spočítejte hvězdy nahoře na straně 1.
+
+## ★ Bonus — strana 10, jen když zbyde čas
 
 **Piškvorky:** aby obsadila políčko, musí říct větu (*I can swim* / *I can't swim*). Tři v řadě vyhrávají. Hraj **naostro**, nenechávej ji vyhrát. Druhá mřížka je na odvetu.
 **Rychlé výzvy** vedle — když zbydou jen dvě minuty.
@@ -86,7 +94,7 @@ Zakroužkuje si tajně jednu činnost, ty hádáš otázkami. Deset koleček na 
 |---|---|
 | Zbývá 10 minut a jsi u strany 5 | Přeskoč stranu 6 rovnou na **hru** (strana 7), pak úkol. Hra naučí totéž rychleji. |
 | Word race jí nejde, blokne se | Zkrať na 30 sekund a počítej jen první řadu. Cílem je zážitek zlepšení, ne výkon. |
-| Zbyl čas | Strana 9 — piškvorky. |
+| Zbyl čas | Strana 10 — piškvorky. |
 | Plete si to s minulou hodinou (*cans*) | Očekávané. Ukaž rámeček na straně 6 a jeď dál — na jednu hodinu to nespravíš. |
 | Je unavená | Skoč na hru (strana 7) a skonči tam. |
 

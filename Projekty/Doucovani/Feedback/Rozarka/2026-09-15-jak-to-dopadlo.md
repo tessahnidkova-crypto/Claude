@@ -27,6 +27,11 @@
 - Říkala „cans"? Kolikrát:
 - Zvládla vytvořit otázku `Can you…?` sama?
 
+## ⚠️ Zjištěno 16. 9. (zapsáno průběžně)
+- **Slovíčka z hodiny 1 už umí všechna** — ride a bike, cook, draw, ski, skate, play the piano. Do úkolu se vyměnila za nová.
+- **Nešla jí tahle slovíčka:** `seaside`, `inside`, `outside`, `but`, `need` → zařazena do domácího úkolu s výslovností a příkladem, plus `a little bit` jako šesté.
+- Do listu přidán **check list na straně 9** — co z hodiny umí. Po hodině zapiš, které hvězdy zůstaly prázdné.
+
 ## Jazyk
 - Činnosti, které neuměla:
 - Výslovnost, co drhla:
