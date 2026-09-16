@@ -26,8 +26,8 @@ html,body{margin:0;background:#fff;color:var(--ink);font-family:'Nunito',sans-se
 .pgno span{font-size:6.5pt;letter-spacing:.1em;text-transform:uppercase;margin-top:.5mm}
 .top h1{font-family:'Fredoka',sans-serif;font-weight:600;font-size:21pt;margin:0;line-height:1.05;flex:1}
 .top .min{font-family:'Fredoka',sans-serif;font-weight:600;font-size:12pt;color:var(--sea);flex:0 0 auto}
-.goal{background:var(--ink);color:#fff;border-radius:2mm;padding:3mm 4mm;margin-bottom:4mm;
- font-family:'Fredoka',sans-serif;font-weight:500;font-size:12.5pt;line-height:1.3}
+.goal{background:var(--ink);color:#fff;border-radius:2mm;padding:2.4mm 3.5mm;margin-bottom:3mm;
+ font-family:'Fredoka',sans-serif;font-weight:500;font-size:11.5pt;line-height:1.28}
 .goal b{color:#F2B028}
 h2{font-family:'Fredoka',sans-serif;font-weight:600;font-size:12pt;margin:0 0 1.5mm;
  padding-left:3mm;border-left:1.6mm solid var(--sea);line-height:1.15;display:flex;
@@ -36,8 +36,8 @@ h2 i{font-style:normal;font-size:8pt;font-weight:400;color:var(--grey);letter-sp
 h2.plus{border-color:var(--sun);color:var(--sun)}
 h2.gram{border-color:var(--stamp);color:var(--stamp)}
 h2.key{border-color:var(--ok);color:var(--ok)}
-table{width:100%;border-collapse:collapse;margin-bottom:4mm}
-td{padding:1.4mm 2mm;vertical-align:top;border-bottom:.3mm solid var(--line)}
+table{width:100%;border-collapse:collapse;margin-bottom:3mm}
+td{padding:1.1mm 2mm;vertical-align:top;border-bottom:.3mm solid var(--line)}
 tr:nth-child(odd) td{background:var(--soft)}
 .en{font-weight:800;font-size:10.5pt;width:38%}
 .ph{font-family:'DejaVu Sans Mono',monospace;font-size:8.5pt;color:var(--sea);width:26%;padding-top:2mm}
@@ -51,14 +51,24 @@ table.plus .ph{color:var(--sun)}
 .gbox p b{color:var(--ink)}
 .gbox p i{color:var(--stamp);font-style:italic}
 .kbox{border:.4mm solid var(--line);border-left:1.6mm solid var(--ok);border-radius:1mm;
- padding:2.5mm 3.5mm;margin-bottom:4mm;background:var(--soft)}
+ padding:2mm 3mm;margin-bottom:3mm;background:var(--soft)}
 .kbox h3{font-family:'Fredoka',sans-serif;font-weight:600;font-size:10pt;margin:0 0 1mm;color:var(--ok)}
-.kbox p{margin:0;font-size:9.5pt;line-height:1.55;color:var(--ink);font-weight:600}
+.kbox p{margin:0;font-size:9pt;line-height:1.45;color:var(--ink);font-weight:600}
 .ends{margin-top:auto;display:grid;grid-template-columns:1fr 1fr;gap:4mm}
-.ends div{border:.4mm dashed var(--line);border-radius:1mm;padding:2.5mm 3mm;background:#fff}
+.ends div{border:.4mm dashed var(--line);border-radius:1mm;padding:2mm 2.5mm;background:#fff}
 .ends .h{font-size:8pt;font-weight:700;letter-spacing:.1em;text-transform:uppercase;margin-bottom:1mm}
 .ends .easy .h{color:var(--sea)} .ends .hard .h{color:var(--stamp)}
-.ends p{margin:0;font-size:9pt;line-height:1.4;color:var(--ink);font-weight:600}
+.ends p{margin:0;font-size:8.5pt;line-height:1.35;color:var(--ink);font-weight:600}
+h2.step{border-color:#7A5AA8;color:#7A5AA8}
+.steps{counter-reset:st;margin:0 0 3mm}
+.steps .s{display:flex;gap:2.5mm;align-items:flex-start;padding:1.1mm 0;border-bottom:.3mm solid var(--line)}
+.steps .s:last-child{border-bottom:none}
+.steps .n{flex:0 0 auto;width:6.5mm;height:6.5mm;border-radius:50%;background:#7A5AA8;color:#fff;
+ font-family:'Fredoka',sans-serif;font-weight:600;font-size:8.5pt;display:flex;align-items:center;
+ justify-content:center;margin-top:.3mm}
+.steps .x{font-size:9pt;line-height:1.4;color:var(--ink);font-weight:600}
+.steps .x b{color:var(--stamp)}
+.steps .x i{color:var(--sea);font-style:italic;font-weight:700}
 /* dialog */
 h2.dlg{border-color:#7A5AA8;color:#7A5AA8}
 table.dlgt td{padding:1mm 2mm}
@@ -156,6 +166,10 @@ for pg,name,mins,goal,rict,navic,gram,klic,easy,hard in M.CVICENI:
 
     # ---- strana A ----
     a='<div class="goal">%s</div>'%goal
+    a+='<h2 class="step">Jak na to <i>krok za krokem</i></h2><div class="steps">'
+    for si,stp in enumerate(M.POSTUP[pg], 1):
+        a+='<div class="s"><span class="n">%d</span><span class="x">%s</span></div>'%(si,stp)
+    a+='</div>'
     a+='<h2>Co říkáš <i>pokyny k tomuhle cvičení</i></h2>'+rows(rict)
     a+='<h2 class="plus">Co můžeš říct navíc <i>když chceš z ní dostat víc</i></h2>'+rows(navic,"plus")
     for h,t in klic:

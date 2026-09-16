@@ -292,3 +292,65 @@ DIALOGY = {
  ("Neví, co má za úkol","&mdash;","Nech ji podívat se na stranu 8 listu a přečíst to nahlas. Pak to zopakuj ty."),
 ]),
 }
+
+# ---------- JAK NA TO: postup cvičení krok za krokem ----------
+POSTUP = {
+
+"2": [
+ "Pozdrav a projeď tři otázky v levé půlce listu. Na každou chtěj <b>celou větu</b>, ne jedno slovo.",
+ "Přepni na pravou půlku: <i>„Show me your homework.“</i>",
+ "Nech ji šest slovíček dopsat <b>zpaměti</b>. Nenapovídej hned — dej jí pár vteřin ticha.",
+ "Až to vzdá, doplňte zbytek společně podle klíče vlevo dole.",
+ "<i>„Read me one sentence.“</i> — přečte jednu ze tří vět ze sešitu.",
+ "Pochval a jdi dál. Na tenhle blok máš <b>tři minuty</b>, nezdržuj se.",
+],
+
+"3": [
+ "Projdi všech dvanáct obrázků: ukaž na obrázek, ona řekne anglicky.",
+ "Co neví, řekni ty a nech ji to zopakovat: <i>„Repeat after me.“</i>",
+ "Druhé kolo <b>jen přes ta slova, která neuměla</b> — a rychleji.",
+ "Teprve teď ať píše české překlady do linek. Během psaní se ptej <i>„Can you do it?“</i>",
+ "Poslední minutu si ověř tři nejtěžší: <b>play the piano, ride a bike, draw</b>.",
+],
+
+"4": [
+ "Vysvětli pravidla <b>česky</b>: „Ukážu obrázek, ty řekneš anglicky. Máš minutu. Co nevíš, přeskočíme.“",
+ "Připrav si stopky na mobilu. <i>„Ready? Go!“</i>",
+ "Ukazuj po řadách a <b>počítej správné</b>. Neopravuj, nekomentuj, nezdržuj se.",
+ "<i>„Time's up! How many?“</i> — zapiš skóre do prvního políčka.",
+ "Dvacet vteřin pauza a jede se druhé kolo. Pak třetí.",
+ "Nejlepší výsledek zapiš do <b>žlutého rámečku</b> — příští hodinu ho bude překonávat.",
+],
+
+"5": [
+ "Ukaž na první obrázek a zeptej se: <i>„Can you swim?“</i> Ona odpoví a zakroužkuje <b>can</b> nebo <b>can't</b>.",
+ "Takhle projděte všech osm. <b>Rychle a ústně</b>, ještě se nepíše.",
+ "Teprve pak ať napíše tři věty na linky dole.",
+ "Třetí věta je <b>„My mum can …“</b> — tady se rozhodne, jestli gramatiku pochopila. Hlídej to -s.",
+ "<i>„Read them out loud.“</i> — přečte je nahlas, ty opravíš výslovnost.",
+],
+
+"6": [
+ "Otoč roli a řekni to <b>důrazně</b>: <i>„Now you ask ME!“</i> Je to změna a musí ji zaznamenat.",
+ "Ona čte první otázku, ty odpovídáš <b>pravdivě</b> o sobě.",
+ "<b>Kroužkuje ona</b>, ne ty — zakroužkuje tvoji odpověď YES nebo NO.",
+ "Po pěti otázkách: <i>„Now tell me about me!“</i>",
+ "Napíše dvě věty o tobě. Hlídej <b>My teacher can</b> &mdash; bez -s.",
+],
+
+"7": [
+ "<i>„Circle one — don't tell me!“</i> Otoč se od kamery nebo zavři oči, ať je to opravdová hra.",
+ "Ptej se <i>„Can you …?“</i> Ona odpovídá <b>Yes, I can / No, I can't</b> a odškrtává kolečka.",
+ "Když uhodneš: <i>„I know! You can cook!“</i>",
+ "<b>Pak výměna rolí.</b> Nech si na ni aspoň dvě minuty — je to ta cennější polovina.",
+ "Ty si tajně vyber činnost, ona se ptá a odškrtává si kolečka sama.",
+],
+
+"8+9": [
+ "Otevři stranu 8 listu a projděte všechny tři části úkolu.",
+ "<i>„Can you tell me the homework?“</i> — ať ho <b>zopakuje vlastními slovy</b>. Tím ověříš, že rozumí.",
+ "Spočítejte hvězdy na straně 1: <i>„You got seven stars today!“</i>",
+ "Rozluč se anglicky: <i>„Great job! See you next week!“</i>",
+ "Zbyl čas? Strana 9 — piškvorky. Políčko jen <b>za vyslovenou větu</b>.",
+],
+}

@@ -14,7 +14,8 @@ Tessa doučuje. Tenhle projekt drží přípravy na hodiny, materiály a zpětno
 
 - **Ke každé hodině patří tahák pro učitele** s frázemi, které bude potřebovat, a **s výslovností** — zjednodušený český přepis v hranatých závorkách, VELKÁ PÍSMENA = přízvuk.
 - **A k němu METODIKA — jedna DVOUSTRANA na cvičení.** Hlavní dokument, se kterým Tessa učí.
-  - **Levá strana = co říkáš ty:** cíl jednou větou · pokyny · *co můžeš říct navíc* (6 rozšiřujících frází) · klíč · co dělat, když jí to nejde / jde moc snadno.
+  - **Levá strana = co říkáš ty:** cíl jednou větou · **jak na to krok za krokem** (5–6 očíslovaných kroků: co dělat první, co druhé, kdy se přestane mluvit a začne psát) · pokyny · *co můžeš říct navíc* (6 rozšiřujících frází) · klíč · co dělat, když jí to nejde / jde moc snadno.
+  - **Kroky jsou povinné.** Fráze samy o sobě neřeknou, v jakém pořadí cvičení proběhne — a Tessa to za běhu vymýšlet nemá.
   - **Pravá strana = co řekne ona:** *modelový dialog* (střídavě TY / ONA, s výslovností a překladem) · *co řekne špatně* a co s tím · *gramatika za tím*.
   - **Dialog je povinný.** Bez očekávaných odpovědí Tessa nepozná, jestli je odpověď správná — a nemá co dítěti předříct, když se zasekne.
   - Do jedné strany se to nevejde; nezkoušej to tlačit, radši dvoustrana.
