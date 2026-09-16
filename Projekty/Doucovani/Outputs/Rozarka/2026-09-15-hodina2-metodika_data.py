@@ -29,7 +29,7 @@ CVICENI = [
 
 ("3","Action words","5 min",
  "Dvanáct nových činností &mdash; aktivně, ne jen přečíst.",
- [("What is this?","wot iz dis","Co je to?"),
+ [("What can he do?","wot ken hí dú","Co umí? — u obrázku"),
   ("Say it in English.","sej it in ING-liš","Řekni to anglicky."),
   ("Repeat after me.","ri-PÍT áftr mí","Opakuj po mně."),
   ("Now write it in Czech.","nau rajt it in ček","Teď to napiš česky.")],
@@ -184,3 +184,111 @@ CVICENI = [
  "Úkol zkrať na <b>tři slovíčka a jednu větu</b>. Lepší málo a hotové.",
  "Přidej: ať napíše <b>jednu větu o kamarádovi</b> a jednu <b>zápornou</b>."),
 ]
+
+# ---------- CO ŘEKNE ONA ----------
+# klíč = číslo strany listu; (modelový dialog, časté chyby)
+# dialog: (kdo, text, výslovnost, česky)   kdo: "TY" / "ONA"
+# chyby:  (co řekne, správně, proč)
+
+DIALOGY = {
+
+"2": ([
+ ("TY","How are you today?","hau ár jú tu-DEJ",""),
+ ("ONA","I'm fine, thank you.","ajm fajn, thenk jú","Mám se dobře, děkuju."),
+ ("TY","What's the weather like today?","wots ď WEDR lajk tu-DEJ",""),
+ ("ONA","It's sunny. / It's raining.","its SA-ny / its REJ-ning","Je slunečno. / Prší."),
+ ("TY","What day is it today?","wot dej iz it tu-DEJ",""),
+ ("ONA","It's Tuesday.","its TJÚZ-dej","Je úterý."),
+ ("TY","Read me one sentence.","ríd mí wan SENTNS",""),
+ ("ONA","In the summer I swim in the sea.","in ď SA-mr aj swim in ď sí","V létě plavu v moři."),
+],[
+ ("<u>Is</u> sunny.","<b>It's</b> sunny.",
+  "Vynechá <b>it</b> &mdash; čeština podmět vynechává („prší“), angličtina nikdy. <b>Nejčastější česká chyba vůbec.</b>"),
+ ("Fine.","<b>I'm</b> fine.","Jednoslovná odpověď. Řekni <i>„Full sentence, please.“</i> a počkej."),
+ ("Today is <u>tuesday</u>.","Today is <b>T</b>uesday.","Dny se píšou velkým písmenem. (Mluvenou verzi ber, opravuj jen psanou.)"),
+]),
+
+"3": ([
+ ("TY","What can he do?","wot ken hí dú",""),
+ ("ONA","He can swim.","hí ken swim","Umí plavat."),
+ ("TY","And this one?","end dis wan",""),
+ ("ONA","He can play the piano.","hí ken plej ď pi-E-nou","Umí hrát na klavír."),
+ ("TY","Can you do it?","ken jú dú it",""),
+ ("ONA","Yes, I can! / No, I can't.","jes aj ken / nou aj kánt","Ano, umím! / Ne, neumím."),
+ ("TY","Now write it in Czech.","nau rajt it in ček",""),
+ ("ONA","(píše „plavat“)","","Stačí jedno slovo, celou větu tu nechtěj."),
+],[
+ ("He can <u>swims</u>.","He can swim.","Přidá -s po can. Dnešní hlavní chyba &mdash; čekej ji."),
+ ("He can play <u>piano</u>.","He can play <b>the</b> piano.","U nástroje chybí <b>the</b>."),
+ ("He can <u>bike</u>.","He can <b>ride a</b> bike.","<i>Bike</i> je věc, ne činnost. Potřebuje <b>ride a</b>."),
+]),
+
+"4": ([
+ ("TY","Ready? Go!","RE-dy? gou",""),
+ ("ONA","Swim… bike… run… sing…","","Holá slova stačí, celé věty tady nechtěj."),
+ ("ONA","(zasekne se)","","Ty hned: <b>Skip it!</b> [skip it] &mdash; a ukaž na další."),
+ ("TY","Time's up! How many?","tajmz ap! hau ME-ny",""),
+ ("ONA","Twelve!","twelv","Dvanáct!"),
+ ("TY","Can you beat it?","ken jú bít it",""),
+],[
+ ("„plavat“ (česky)","<b>Swim.</b>","Řekni jen <i>„In English!“</i> [in ING-liš] a ukazuj dál. Nezastavuj se."),
+ ("Mlčí a přemýšlí","&mdash;","Tři vteřiny ticha = přeskoč. Běží čas, o to jde."),
+]),
+
+"5": ([
+ ("TY","Can you swim? Circle it.","ken jú swim? SÉR-kl it",""),
+ ("ONA","Yes, I can.","jes, aj ken","Ano, umím."),
+ ("TY","Now write three sentences.","nau rajt thrí SENTN-siz",""),
+ ("ONA","I can draw.","aj ken dró","Umím kreslit."),
+ ("ONA","I can't ski.","aj kánt skí","Neumím lyžovat."),
+ ("ONA","My mum can cook.","máj mam ken kuk","Máma umí vařit."),
+ ("TY","Are you good at it?","ár jú gud et it",""),
+ ("ONA","A little bit.","e litl bit","Trochu."),
+],[
+ ("My mum <u>cans</u> cook.","My mum <b>can</b> cook.","Ta hlavní. Neopravuj slovy &mdash; ukaž rámeček dole na straně 6 listu."),
+ ("I can <u>to</u> draw.","I can draw.","Po can jde holé sloveso."),
+ ("I <u>no can</u> ski.","I <b>can't</b> ski.","Zápor dělá can't, ne přidané <i>no</i>."),
+]),
+
+"6": ([
+ ("ONA","Can you cook?","ken jú kuk","Umíš vařit?"),
+ ("TY","Yes, I can.","jes, aj ken",""),
+ ("ONA","Can you ski?","ken jú skí","Umíš lyžovat?"),
+ ("TY","No, I can't.","nou, aj kánt",""),
+ ("ONA","Can you play the piano?","ken jú plej ď pi-E-nou","Umíš hrát na klavír?"),
+ ("TY","A little bit.","e litl bit",""),
+ ("TY","Now tell me about me!","nau tel mí e-BAUT mí",""),
+ ("ONA","My teacher can cook.","máj tíčr ken kuk","Moje učitelka umí vařit."),
+],[
+ ("<u>Do</u> you can cook?","<b>Can</b> you cook?","Přidá DO. Zopakuj otázku správně a nech ji ji říct po tobě."),
+ ("You can cook?","<b>Can you</b> cook?","Neprohodí pořadí. V mluvené řeči by to prošlo, ale teď to opravuj."),
+ ("My teacher <u>cans</u> cook.","My teacher <b>can</b> cook.","Zase to -s. Ukaž rámeček dole na straně 6 listu."),
+]),
+
+"7": ([
+ ("TY","Can you ride a bike?","ken jú rajd e bajk",""),
+ ("ONA","No, I can't.","nou, aj kánt","Ne, neumím."),
+ ("TY","Can you cook?","ken jú kuk",""),
+ ("ONA","Yes, I can!","jes, aj ken","Ano, umím!"),
+ ("TY","I know! You can cook!","aj nou! jú ken kuk",""),
+ ("ONA","You got me!","jú got mí","Dostalas mě!"),
+ ("TY","My turn is over. Your turn!","máj térn iz OU-vr. jor térn",""),
+ ("ONA","Can you swim?","ken jú swim","Umíš plavat? — teď se ptá ona"),
+],[
+ ("„Yes.“ samotné","<b>Yes, I can.</b>","Chtěj celou krátkou odpověď. Ukaž na rámeček vedle mřížky."),
+ ("„Ne.“ (česky)","<b>No, I can't.</b>","Řekni to za ni a nech ji to zopakovat."),
+ ("<u>Do</u> you swim?","<b>Can</b> you swim?","Ve druhé polovině hry, když tvoří otázky sama. Čekej to."),
+]),
+
+"8+9": ([
+ ("TY","Can you tell me the homework?","ken jú tel mí ď HOUM-vérk",""),
+ ("ONA","Six words and three sentences.","siks vérdz end thrí SENTN-siz","Šest slovíček a tři věty."),
+ ("TY","(piškvorky) Choose a square.","čúz e skwér",""),
+ ("ONA","I can dance!","aj ken dáns","Umím tancovat! — a políčko je její"),
+ ("TY","It's yours!","ic jorz",""),
+ ("ONA","Three in a row! I win!","thrí in e rou! aj win","Tři v řadě! Vyhrála jsem!"),
+],[
+ ("Řekne jen „dance“","<b>I can dance.</b>","Za holé slovo políčko není. Celá věta, nebo nic &mdash; jinak hra ztratí smysl."),
+ ("Neví, co má za úkol","&mdash;","Nech ji podívat se na stranu 8 listu a přečíst to nahlas. Pak to zopakuj ty."),
+]),
+}

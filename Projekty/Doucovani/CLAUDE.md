@@ -13,7 +13,11 @@ Tessa doučuje. Tenhle projekt drží přípravy na hodiny, materiály a zpětno
 **Tessa není v angličtině pokročilá.** Neví spolehlivě, jak co říct a jak to vyslovit. Z toho plyne:
 
 - **Ke každé hodině patří tahák pro učitele** s frázemi, které bude potřebovat, a **s výslovností** — zjednodušený český přepis v hranatých závorkách, VELKÁ PÍSMENA = přízvuk.
-- **A k němu METODIKA — jedno cvičení na stranu.** Tessa si ji vyžádala a je to teď hlavní dokument, se kterým učí. Na každé cvičení: *cíl jednou větou · co říkáš · **co můžeš říct navíc** (6 rozšiřujících frází) · **gramatika za tím** včetně věty, kterou to vysvětlí česky · klíč · co dělat, když jí to nejde / jde moc snadno.*
+- **A k němu METODIKA — jedna DVOUSTRANA na cvičení.** Hlavní dokument, se kterým Tessa učí.
+  - **Levá strana = co říkáš ty:** cíl jednou větou · pokyny · *co můžeš říct navíc* (6 rozšiřujících frází) · klíč · co dělat, když jí to nejde / jde moc snadno.
+  - **Pravá strana = co řekne ona:** *modelový dialog* (střídavě TY / ONA, s výslovností a překladem) · *co řekne špatně* a co s tím · *gramatika za tím*.
+  - **Dialog je povinný.** Bez očekávaných odpovědí Tessa nepozná, jestli je odpověď správná — a nemá co dítěti předříct, když se zasekne.
+  - Do jedné strany se to nevejde; nezkoušej to tlačit, radši dvoustrana.
 - **Gramatiku vždy vysvětli dvakrát:** odborně pro Tessu (aby chápala proč) a pak **jednou českou větou, kterou může Rozárce říct rovnou**. Bez té druhé věty jí vysvětlení není k ničemu.
 - **Vždy napiš, proč to dítě plete.** Když chyba plyne z předchozí hodiny (jako `likeS` vs. `can`), řekni to — Tessa pak nereaguje jako na nepozornost.
 - **Nikdy jí nedávej anglickou frázi bez výslovnosti.** Bez ní ji buď nepoužije, nebo ji vysloví špatně a Rozárka se to tak naučí.

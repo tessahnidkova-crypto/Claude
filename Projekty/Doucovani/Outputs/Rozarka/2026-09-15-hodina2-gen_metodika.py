@@ -37,28 +37,45 @@ h2.plus{border-color:var(--sun);color:var(--sun)}
 h2.gram{border-color:var(--stamp);color:var(--stamp)}
 h2.key{border-color:var(--ok);color:var(--ok)}
 table{width:100%;border-collapse:collapse;margin-bottom:4mm}
-td{padding:1.2mm 2mm;vertical-align:top;border-bottom:.3mm solid var(--line)}
+td{padding:1.4mm 2mm;vertical-align:top;border-bottom:.3mm solid var(--line)}
 tr:nth-child(odd) td{background:var(--soft)}
-.en{font-weight:800;font-size:9.5pt;width:38%}
-.ph{font-family:'DejaVu Sans Mono',monospace;font-size:8pt;color:var(--sea);width:26%;padding-top:1.7mm}
-.cz{font-size:8.5pt;color:var(--grey);font-weight:600}
+.en{font-weight:800;font-size:10.5pt;width:38%}
+.ph{font-family:'DejaVu Sans Mono',monospace;font-size:8.5pt;color:var(--sea);width:26%;padding-top:2mm}
+.cz{font-size:9.5pt;color:var(--grey);font-weight:600}
 table.plus tr:nth-child(odd) td{background:var(--warm)}
 table.plus .ph{color:var(--sun)}
 .gbox{border:.4mm solid var(--line);border-left:1.6mm solid var(--stamp);border-radius:1mm;
- padding:2.5mm 3.5mm;margin-bottom:2.5mm;background:#fff}
-.gbox h3{font-family:'Fredoka',sans-serif;font-weight:600;font-size:10.5pt;margin:0 0 1mm;color:var(--ink)}
-.gbox p{margin:0;font-size:9pt;line-height:1.45;color:var(--grey)}
+ padding:3mm 3.5mm;margin-bottom:3mm;background:#fff}
+.gbox h3{font-family:'Fredoka',sans-serif;font-weight:600;font-size:11pt;margin:0 0 1.2mm;color:var(--ink)}
+.gbox p{margin:0;font-size:9.5pt;line-height:1.5;color:var(--grey)}
 .gbox p b{color:var(--ink)}
 .gbox p i{color:var(--stamp);font-style:italic}
 .kbox{border:.4mm solid var(--line);border-left:1.6mm solid var(--ok);border-radius:1mm;
  padding:2.5mm 3.5mm;margin-bottom:4mm;background:var(--soft)}
 .kbox h3{font-family:'Fredoka',sans-serif;font-weight:600;font-size:10pt;margin:0 0 1mm;color:var(--ok)}
-.kbox p{margin:0;font-size:9pt;line-height:1.5;color:var(--ink);font-weight:600}
+.kbox p{margin:0;font-size:9.5pt;line-height:1.55;color:var(--ink);font-weight:600}
 .ends{margin-top:auto;display:grid;grid-template-columns:1fr 1fr;gap:4mm}
 .ends div{border:.4mm dashed var(--line);border-radius:1mm;padding:2.5mm 3mm;background:#fff}
 .ends .h{font-size:8pt;font-weight:700;letter-spacing:.1em;text-transform:uppercase;margin-bottom:1mm}
 .ends .easy .h{color:var(--sea)} .ends .hard .h{color:var(--stamp)}
 .ends p{margin:0;font-size:9pt;line-height:1.4;color:var(--ink);font-weight:600}
+/* dialog */
+h2.dlg{border-color:#7A5AA8;color:#7A5AA8}
+table.dlgt td{padding:1mm 2mm}
+table.dlgt tr:nth-child(odd) td{background:#fff}
+.dlgt .who{width:9%;font-family:'Fredoka',sans-serif;font-weight:600;font-size:9.5pt;
+ letter-spacing:.06em;padding-top:2mm}
+.dlgt .t-ty .who{color:var(--sea)} .dlgt .t-ona .who{color:var(--stamp)}
+.dlgt .t-ty td{background:#EFF7F6 !important} .dlgt .t-ona td{background:#FDF3EC !important}
+.dlgt .en{width:36%;font-size:11pt}
+.dlgt .ph{width:25%;font-size:8.5pt;padding-top:2mm}
+.dlgt .cz{font-size:9pt}
+table.wrong td{padding:1.3mm 2mm}
+.wrong .bad{width:27%;font-weight:800;font-size:10pt;color:var(--stamp)}
+.wrong .bad u{text-decoration:none;background:#FBE3DB;padding:0 1mm;border-radius:1mm}
+.wrong .good{width:22%;font-weight:800;font-size:10pt;color:var(--ok)}
+.wrong .why{font-size:9pt;color:var(--grey);font-weight:600;line-height:1.4}
+.wrong .why b{color:var(--ink)}
 /* úvodní strana */
 .hero{background:var(--ink);color:#fff;border-radius:2mm;padding:6mm;margin-bottom:5mm;text-align:center}
 .hero .l1{font-family:'Fredoka',sans-serif;font-weight:600;font-size:22pt;line-height:1.15}
@@ -91,7 +108,7 @@ CAN_ERR = [
  ("I <u>no can</u> swim.","I can't swim.","Zápor dělá <b>can't</b>, ne přidané <i>no</i>."),
 ]
 
-TOT = len(M.CVICENI) + 1
+TOT = len(M.CVICENI) * 2 + 1
 
 def rows(items, cls=""):
     o=['<table class="%s">'%cls]
@@ -132,23 +149,47 @@ H.append('<div class="page"><div class="airmail"></div>'
  '<h1>Gramatika CAN<br>na jedné straně</h1></div>'
  '<div class="body" style="flex:1;min-height:0">%s</div>%s</div>'%(b,foot(1,"Gramatika")))
 
-# --- strany cvičení ---
-for i,(pg,name,mins,goal,rict,navic,gram,klic,easy,hard) in enumerate(M.CVICENI, start=2):
-    b='<div class="goal">%s</div>'%goal
-    b+='<h2>Co říkáš <i>pokyny k tomuhle cvičení</i></h2>'+rows(rict)
-    b+='<h2 class="plus">Co můžeš říct navíc <i>když chceš z ní dostat víc</i></h2>'+rows(navic,"plus")
-    b+='<h2 class="gram">Gramatika za tím</h2>'
-    for h,t in gram:
-        b+='<div class="gbox"><h3>%s</h3><p>%s</p></div>'%(h,t)
+# --- strany cvičení: A = co říkáš ty, B = co řekne ona ---
+n = 2
+for pg,name,mins,goal,rict,navic,gram,klic,easy,hard in M.CVICENI:
+    dlg, chyby = M.DIALOGY[pg]
+
+    # ---- strana A ----
+    a='<div class="goal">%s</div>'%goal
+    a+='<h2>Co říkáš <i>pokyny k tomuhle cvičení</i></h2>'+rows(rict)
+    a+='<h2 class="plus">Co můžeš říct navíc <i>když chceš z ní dostat víc</i></h2>'+rows(navic,"plus")
     for h,t in klic:
-        b+='<div class="kbox" style="margin-top:3mm"><h3>%s</h3><p>%s</p></div>'%(h,t)
-    b+=('<div class="ends"><div class="easy"><div class="h">Když jí to nejde</div><p>%s</p></div>'
+        a+='<div class="kbox" style="margin-top:2mm"><h3>%s</h3><p>%s</p></div>'%(h,t)
+    a+=('<div class="ends"><div class="easy"><div class="h">Když jí to nejde</div><p>%s</p></div>'
         '<div class="hard"><div class="h">Když jí to jde moc snadno</div><p>%s</p></div></div>'%(easy,hard))
     H.append('<div class="page"><div class="airmail"></div>'
      '<div class="top"><div class="pgno"><b>%s</b><span>list</span></div>'
      '<h1>%s</h1><span class="min">%s</span></div>'
      '<div class="body" style="flex:1;min-height:0;display:flex;flex-direction:column">%s</div>%s</div>'
-     %(pg,name,mins,b,foot(i,"Cvičení")))
+     %(pg,name,mins,a,foot(n,"Co říkáš ty")))
+    n+=1
+
+    # ---- strana B ----
+    b='<h2 class="dlg">Co řekne ona <i>modelový průběh</i></h2><table class="dlgt">'
+    for who,en,ph,cz in dlg:
+        cls = "t-ty" if who=="TY" else "t-ona"
+        b+=('<tr class="%s"><td class="who">%s</td><td class="en">%s</td>'
+            '<td class="ph">%s</td><td class="cz">%s</td></tr>'
+            %(cls, who, en, ("[%s]"%ph) if ph else "", cz))
+    b+='</table>'
+    b+='<h2 class="gram">Co řekne špatně <i>a co s tím</i></h2><table class="wrong">'
+    for bad,good,why in chyby:
+        b+='<tr><td class="bad">%s</td><td class="good">%s</td><td class="why">%s</td></tr>'%(bad,good,why)
+    b+='</table>'
+    b+='<h2 class="gram">Gramatika za tím</h2>'
+    for h,t in gram:
+        b+='<div class="gbox"><h3>%s</h3><p>%s</p></div>'%(h,t)
+    H.append('<div class="page"><div class="airmail"></div>'
+     '<div class="top"><div class="pgno" style="background:var(--grey)"><b>%s</b><span>list</span></div>'
+     '<h1>%s <span style="font-size:12pt;color:#6E868D">&mdash; co řekne ona</span></h1></div>'
+     '<div class="body" style="flex:1;min-height:0;display:flex;flex-direction:column">%s</div>%s</div>'
+     %(pg,name,b,foot(n,"Co řekne ona")))
+    n+=1
 
 out=os.path.join(sp,"metodika.html")
 open(out,"w",encoding='utf-8').write("\n".join(H))
