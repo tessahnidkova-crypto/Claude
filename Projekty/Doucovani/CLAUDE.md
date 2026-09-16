@@ -54,6 +54,9 @@ Tessa doučuje. Tenhle projekt drží přípravy na hodiny, materiály a zpětno
 
 ## Kam co
 
+- **Domácí úkol dávej i jako samostatné jednostránkové PDF** (`…UKOL-pro-Rozarku.pdf`). Rozárka ho má doma bez zbytku listu — a proto v něm **český překlad musí být napsaný**, ne jen linka k dopsání. V listu při hodině zůstává linka (tam překlad dopisuje sama), v úkolu je hotový.
+- **Ke každému slovíčku v úkolu patří obrázek**, výslovnost a příklad ve větě. U abstraktních slov (`but`, `need`, `a little bit`) vymysli vizuální zkratku — fajfka vs. křížek, ruka s vykřičníkem, tři políčka s jedním vyplněným.
+
 - `Outputs/Rozarka/` — hotové hodiny:
   - `…nazev.pdf` — pracovní list, tohle se promítá
   - `…nazev-ZDROJ.html` — z toho se PDF vyrábí
