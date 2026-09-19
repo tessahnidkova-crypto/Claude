@@ -1,11 +1,11 @@
 # Motivační dopis — OPEN GATE
 
-Stav: rozpracováno, 2026-09-19. Deadline: pondělí.
+Stav: kompletní draft, 2026-09-19. Deadline: pondělí.
 Odevzdává se **vlastní rukou psaný** — tohle je zdroj, ze kterého Sofie opisuje.
 
 ---
 
-## Aktuální verze
+## Celý dopis
 
 Hlásím se na OPEN GATE, protože mám velký sen a věřím, že byste mi mohli pomoci ho uskutečnit. Chci být psychiatr. Chci rozumět lidem.
 
@@ -29,23 +29,24 @@ Angličtinu se učím i mimo školu — platím si doučování a koukám na fil
 
 OPEN GATE je místo, kde to není bláznovství. Kde jsou lidi, kteří vědí, co chtějí. A já vím, co chci. Chci psychiatrii. Chci si za tím stát.
 
+Chci si udělat IB maturitu a pak jít studovat do zahraničí. Vím, že to je běh na dlouhou trať, ale mám jasno, kam chci dojít.
+
+Vím, že přestup do vyššího ročníku není běžný. Ale taky vím, že jsem ochotná pro to udělat maximum. Budu ráda, když dostanu šanci se vám představit osobně.
+
 ---
 
-## Co ještě chybí
+## Před odevzdáním dořešit
 
-- **Rodinná situace** — email se ptal; zatím jen tatínek a teta. Z původního ručního dopisu: tatínek po úrazu na invalidním důchodu, maminka kuchařka ve škole v přírodě
-- **IB ročník + zahraniční VŠ** — Sofie chtěla zakomponovat, zatím vypadlo
-- **Závěr**
-
-## Neověřeno — musí potvrdit Sofie
-
-- **Judo: „nic není zadarmo"** — domyšleno, nepotvrzeno
-- **Zeměpis** — napsáno obecně, Sofie zatím neřekla, co přesně ji na něm baví
-- **Certifikát: „chci si ho udělat"** — nepotvrzeno, ať to u přijímaček obstojí
+- **Oslovení a podpis** — dopis je zatím bez nich. Doplnit oslovení podle toho, kdo psal e-mail, a na konec podpis.
+- **Zeměpis** — odstavec je napsaný obecně, Sofie zatím neupřesnila, co přesně ji na něm baví. Zní to nejslabší z celého dopisu.
+- **Certifikát „chci si ho udělat"** — ověřit, že to Sofie opravdu plánuje; u přijímaček se na to můžou zeptat.
+- **Odstavce 6–10** jsou krátké a jdou za sebou jako seznam. Zvážit sloučení do dvou bloků.
 
 ## Pravidla pro tenhle text (vzniklo při psaní)
 
 - Nesmí znít jako AI. Píše to patnáctiletá — krátké věty, žádné ozdoby.
 - **Neshazovat spolužáky.** Verze s „spolužáci přemýšlejí, jako by měli nekonečně času" vyřazena — u přijímaček působí povýšeně.
 - Limit patří k ní, ne ke škole: ne „škola mi nestačí", ale „sama se dostanu jen někam".
+- Žádná dramatizace vlastních zásluh („vydupala jsem si", „vysvětlila jsem to tak, že je to bavilo").
+- Nic, co není pravda — u přijímaček se na to můžou doptat.
 - Správně je **v Sušici** (město Sušice), ne „v Sušci".
