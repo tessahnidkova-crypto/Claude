@@ -19,7 +19,7 @@ Na gymnáziu v Sušici necítím takový posun, jako bych mohla dostat na OPEN G
 
 Chtěla jsem si sáhnout na svoje hranice, tak jsem si zjišťovala vojenský výcvik. Ptala jsem se tak dlouho, že armáda nakonec volala do naší školy. Kurz je až od osmnácti, takže jsem na něj nemohla. Domluvila jsem se ale, že po osmnáctinách nastoupím.
 
-Zajímá mě fyzika, hlavně termonukleární fúze. Koukám se na přednášky o ní, protože může změnit budoucnost celé energetiky.
+Zajímá mě fyzika, hlavně termonukleární fúze. Koukám se na přednášky o ní, protože má nevyčerpatelné palivo a neprodukuje emise. Kdyby se ji podařilo zvládnout, změní to celou energetiku.
 
 Tři roky dělám judo, občas jezdím na závody. Naučilo mě to disciplíně a tomu, že nic není zadarmo.
 
