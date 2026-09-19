@@ -25,9 +25,9 @@ Ve škole mě nejvíc baví zeměpis. Zajímá mě, jak se svět vyvíjí a pro�
 
 Angličtinu se učím i mimo školu — platím si doučování a koukám na filmy a seriály v angličtině. Certifikát zatím nemám, ale chci si ho udělat.
 
-OPEN GATE je místo, kde to není bláznovství. Kde jsou lidi, kteří vědí, co chtějí. A já vím, co chci. Chci psychiatrii. Chci si za tím stát.
+OPEN GATE je místo, kde to není bláznovství. Kde jsou lidi, kteří vědí, co chtějí. A já vím, co chci.
 
-Chci si udělat IB maturitu a pak jít studovat do zahraničí. Vím, že to je běh na dlouhou trať, ale mám jasno, kam chci dojít.
+Chci studovat medicínu v zahraničí a pak se specializovat na psychiatrii. Potřebuji k tomu IB maturitu a angličtinu na úrovni, na kterou se sama nedostanu. To je přesně to, co u vás můžu získat.
 
 Vím, že přestup do vyššího ročníku není běžný. Ale taky vím, že jsem ochotná pro to udělat maximum. Budu ráda, když dostanu šanci se vám představit osobně.
 
