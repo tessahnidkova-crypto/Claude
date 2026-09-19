@@ -19,7 +19,7 @@ Chtěla jsem absolvovat vojenský výcvik. Šla jsem si za tím tak dlouho, až 
 
 Zajímá mě fyzika, hlavně termonukleární fúze. Koukám se na přednášky o ní, protože může změnit budoucnost celé energetiky. Na prezentaci ve škole jsem si ji pak vzala jako téma.
 
-Tři roky dělám závodně judo. Naučilo mě to disciplíně a tomu, že nic není zadarmo.
+Tři roky dělám judo, občas jezdím na závody. Naučilo mě to disciplíně a tomu, že nic není zadarmo.
 
 Ve škole mě nejvíc baví zeměpis. Zajímá mě, jak se svět vyvíjí a proč vypadá tak, jak vypadá. Fyziku a politiku si dohledávám sama, mimo výuku.
 
