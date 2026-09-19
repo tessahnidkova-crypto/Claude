@@ -9,7 +9,7 @@ Odevzdává se **vlastní rukou psaný** — tohle je zdroj, ze kterého Sofie o
 
 Hlásím se na OPEN GATE, protože mám velký sen a věřím, že byste mi mohli pomoci ho uskutečnit. Chci být psychiatr. Chci rozumět lidem.
 
-Zažila jsem těžké věci. Tatínek měl úraz, teta zemřela. To mi otevřelo oči. Uvědomila jsem si, že je lepší riskovat a nezůstat v komfortní zóně. A chci vědět, proč se lidi chovají tak, jak se chovají, a jak je život ovlivní.
+Zažila jsem těžké chvíle. Tatínek měl úraz, teta zemřela. To mi otevřelo oči. Uvědomila jsem si, že je lepší riskovat a nezůstat v komfortní zóně. A chci vědět, proč se lidi chovají tak, jak se chovají, a jak je život ovlivní.
 
 Na gymnáziu v Sušici necítím takový posun, jako bych mohla dostat na OPEN GATE.
 
@@ -19,7 +19,7 @@ Chtěla jsem absolvovat vojenský výcvik. Šla jsem si za tím tak dlouho, až 
 
 Zajímá mě fyzika, hlavně termonukleární fúze. Koukám se na přednášky o ní, protože může změnit budoucnost celé energetiky. Na prezentaci ve škole jsem si ji pak vzala jako téma.
 
-Tři roky dělám judo a brzy začnu závodit. Naučilo mě to disciplíně a tomu, že nic není zadarmo.
+Tři roky dělám závodně judo. Naučilo mě to disciplíně a tomu, že nic není zadarmo.
 
 Ve škole mě nejvíc baví zeměpis. Zajímá mě, jak se svět vyvíjí a proč vypadá tak, jak vypadá. Fyziku a politiku si dohledávám sama, mimo výuku.
 
