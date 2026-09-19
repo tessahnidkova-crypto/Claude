@@ -7,15 +7,13 @@ Odevzdává se **vlastní rukou psaný** — tohle je zdroj, ze kterého Sofie o
 
 ## Celý dopis
 
-Hlásím se na OPEN GATE, protože mám velký sen a věřím, že byste mi mohli pomoci ho uskutečnit. Chci být psychiatr. Chci rozumět lidem.
+Hlásím se na OPEN GATE, protože mám velký sen a věřím, že byste mi mohli pomoci ho uskutečnit. Chci být psychiatr. Chci rozumět lidem. Chci vědět, proč se lidi chovají tak, jak se chovají, a jak je život ovlivní.
 
 Tatínek měl před lety vážný úraz. Dva roky strávil v nemocnici a dnes je v invalidním důchodu. Maminka pracuje jako kuchařka ve škole v přírodě. Přes týden jsem bydlela u tety, protože jinak bych to do školy měla moc daleko — rodiče jsem skoro neviděla. Pak teta zemřela.
 
-Neodradilo mě to. Naopak. Otevřelo mi to oči. Uvědomila jsem si, že je lepší riskovat a nezůstat v komfortní zóně. A chci vědět, proč se lidi chovají tak, jak se chovají, a jak je život ovlivní.
+Neodradilo mě to. Naopak. Otevřelo mi to oči. Uvědomila jsem si, že je lepší riskovat a nezůstat v komfortní zóně.
 
 Na gymnáziu v Sušici necítím takový posun, jako bych mohla dostat na OPEN GATE.
-
-Věci, které mě baví, si většinou musím sehnat sama.
 
 Chtěla jsem absolvovat vojenský výcvik. Šla jsem si za tím tak dlouho, až armáda volala do naší školy.
 
