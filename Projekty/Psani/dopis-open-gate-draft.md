@@ -9,9 +9,9 @@ Odevzdává se **vlastní rukou psaný** — tohle je zdroj, ze kterého Sofie o
 
 Hlásím se na OPEN GATE, protože mám velký sen a věřím, že byste mi mohli pomoci ho uskutečnit. Chci být psychiatr. Zajímá mě, jak lidé uvnitř fungují, proč se chovají tak, jak se chovají, a co s nimi udělá špatná situace.
 
-Chci studovat medicínu a pak se specializovat na psychiatrii. Zvažuju i zahraniční univerzitu, proto pro mě má IB maturita smysl. Potřebuju k tomu biologii, chemii a angličtinu na úrovni, na kterou se sama nedostanu. To je přesně to, co u vás můžu získat.
+Chci studovat medicínu a pak se specializovat na psychiatrii. Zvažuju i zahraniční univerzitu, proto pro mě má IB maturita smysl. U vás bych se mohla naplno věnovat biologii, chemii a fyzice a dostat se v angličtině na úroveň, na kterou se sama nedostanu. Zároveň bych si zvykla na nároky, které mě na vysoké škole čekají.
 
-Angličtině se věnuju i ve volném čase. Sama si platím doučování a koukám na filmy a seriály v originále. Certifikát zatím nemám, ale chystám se ho udělat.
+Angličtině se věnuju i ve volném čase. Chodím na doučování a koukám na filmy a seriály v originále. Certifikát zatím nemám, ale chystám se ho udělat.
 
 Tatínek měl před lety vážný úraz. Dva roky strávil v nemocnici a dnes je v invalidním důchodu. Maminka pracuje jako kuchařka ve škole v přírodě. Přes týden jsem bydlela u tety, protože jinak bych to do školy měla moc daleko a rodiče jsem skoro neviděla. Teta pak onemocněla vážnou nemocí a zemřela. Tatínek v té době ležel v nemocnici v umělém spánku. Bylo to pro mě hodně těžké.
 
