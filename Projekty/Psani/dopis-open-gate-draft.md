@@ -7,15 +7,15 @@ Odevzdává se **vlastní rukou psaný** — tohle je zdroj, ze kterého Sofie o
 
 ## Celý dopis
 
-Hlásím se na OPEN GATE, protože mám velký sen a věřím, že byste mi mohli pomoci ho uskutečnit. Chci být psychiatr. Chci rozumět lidem. Chci vědět, proč se lidi chovají tak, jak se chovají, a co s nimi udělá špatná situace.
+Hlásím se na OPEN GATE, protože mám velký sen a věřím, že byste mi mohli pomoci ho uskutečnit. Chci být psychiatr. Zajímá mě, jak lidé uvnitř fungují, proč se chovají tak, jak se chovají, a co s nimi udělá špatná situace.
 
-Chci studovat medicínu v zahraničí a pak se specializovat na psychiatrii. Potřebuji k tomu IB maturitu a angličtinu na úrovni, na kterou se sama nedostanu. To je přesně to, co u vás můžu získat.
+Plánuju studovat medicínu v zahraničí a pak se specializovat na psychiatrii. Potřebuji k tomu IB maturitu a angličtinu na úrovni, na kterou se sama nedostanu. To je přesně to, co u vás můžu získat.
 
 Tatínek měl před lety vážný úraz. Dva roky strávil v nemocnici a dnes je v invalidním důchodu. Maminka pracuje jako kuchařka ve škole v přírodě. Přes týden jsem bydlela u tety, protože jinak bych to do školy měla moc daleko. Rodiče jsem skoro neviděla. Teta pak onemocněla vážnou nemocí a zemřela. Tatínek v té době ležel v nemocnici v umělém spánku. Bylo to pro mě hodně těžké.
 
 Od té chvíle si vážím zdraví a snažím se užívat života. Otevřelo mi to oči v tom, že čas není samozřejmost. Radši budu riskovat, než abych zůstala v komfortní zóně.
 
-Na gymnáziu v Sušici necítím takový posun, jako bych mohla dostat na OPEN GATE.
+Na gymnáziu v Sušici necítím takový posun, jako bych mohla dostat na OPEN GATE. Věci, které mě posouvají, si musím shánět sama.
 
 Chtěla jsem si sáhnout na svoje hranice, tak jsem si zjišťovala vojenský výcvik. Ptala jsem se tak dlouho, že armáda nakonec volala do naší školy. Kurz je až od osmnácti, takže jsem na něj nemohla. Domluvila jsem se ale, že po osmnáctinách nastoupím.
 
