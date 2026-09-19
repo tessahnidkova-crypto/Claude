@@ -13,7 +13,7 @@ Chci studovat medicínu v zahraničí a pak se specializovat na psychiatrii. Pot
 
 Tatínek měl před lety vážný úraz. Dva roky strávil v nemocnici a dnes je v invalidním důchodu. Maminka pracuje jako kuchařka ve škole v přírodě. Přes týden jsem bydlela u tety, protože jinak bych to do školy měla moc daleko. Rodiče jsem skoro neviděla. Teta pak onemocněla vážnou nemocí a zemřela. Tatínek v té době ležel v nemocnici v umělém spánku. Bylo to pro mě hodně těžké.
 
-Neodradilo mě to. Naopak. Otevřelo mi to oči. Uvědomila jsem si, že je lepší riskovat a nezůstat v komfortní zóně.
+Od té chvíle si vážím zdraví a snažím se užívat života. Otevřelo mi to oči v tom, že čas není samozřejmost. Radši budu riskovat, než abych zůstala v komfortní zóně.
 
 Na gymnáziu v Sušici necítím takový posun, jako bych mohla dostat na OPEN GATE.
 
