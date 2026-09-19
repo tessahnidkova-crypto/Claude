@@ -11,7 +11,7 @@ Hlásím se na OPEN GATE, protože mám velký sen a věřím, že byste mi mohl
 
 Chci studovat medicínu v zahraničí a pak se specializovat na psychiatrii. Potřebuji k tomu IB maturitu a angličtinu na úrovni, na kterou se sama nedostanu. To je přesně to, co u vás můžu získat.
 
-Tatínek měl před lety vážný úraz. Dva roky strávil v nemocnici a dnes je v invalidním důchodu. Maminka pracuje jako kuchařka ve škole v přírodě. Přes týden jsem bydlela u tety, protože jinak bych to do školy měla moc daleko. Rodiče jsem skoro neviděla. Pak teta zemřela.
+Tatínek měl před lety vážný úraz. Dva roky strávil v nemocnici a dnes je v invalidním důchodu. Maminka pracuje jako kuchařka ve škole v přírodě. Přes týden jsem bydlela u tety, protože jinak bych to do školy měla moc daleko. Rodiče jsem skoro neviděla. Teta pak onemocněla vážnou nemocí a zemřela. Tatínek v té době ležel v nemocnici v umělém spánku. Bylo to pro mě hodně těžké.
 
 Neodradilo mě to. Naopak. Otevřelo mi to oči. Uvědomila jsem si, že je lepší riskovat a nezůstat v komfortní zóně.
 
