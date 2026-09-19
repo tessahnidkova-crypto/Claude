@@ -17,7 +17,7 @@ Od té chvíle si vážím zdraví a snažím se užívat života. Otevřelo mi 
 
 Na gymnáziu v Sušici necítím takový posun, jako bych mohla dostat na OPEN GATE.
 
-Chtěla jsem absolvovat vojenský výcvik. Šla jsem si za tím tak dlouho, až armáda volala do naší školy.
+Chtěla jsem si sáhnout na svoje hranice, tak jsem si zjišťovala vojenský výcvik. Ptala jsem se tak dlouho, že armáda nakonec volala do naší školy. Kurz je až od osmnácti, takže jsem na něj nemohla. Domluvila jsem se ale, že po osmnáctinách nastoupím.
 
 Zajímá mě fyzika, hlavně termonukleární fúze. Koukám se na přednášky o ní, protože může změnit budoucnost celé energetiky. Na prezentaci ve škole jsem si ji pak vzala jako téma.
 
