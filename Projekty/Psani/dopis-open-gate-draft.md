@@ -19,7 +19,7 @@ Od té chvíle si vážím zdraví a snažím se užívat života. Otevřelo mi 
 
 Na gymnáziu v Sušici necítím takový posun, jako bych mohla dostat na OPEN GATE. Věci, které mě posouvají, si musím shánět sama. Chtěla jsem si sáhnout na svoje hranice, tak jsem si zjišťovala vojenský výcvik. Ptala jsem se tak dlouho, že armáda nakonec volala do naší školy. Kurz je až od osmnácti, takže jsem na něj ještě nemohla, ale domluvila jsem se, že na něj nastoupím o letních prázdninách, až mi bude osmnáct.
 
-Zajímá mě fyzika, hlavně termonukleární fúze. Koukám se na přednášky o ní, protože má nevyčerpatelné palivo, neprodukuje emise a může změnit celou energetiku. Ve škole mě baví i zeměpis, protože mi rozšiřuje přehled o světovém dění.
+Zajímá mě fyzika, hlavně termonukleární fúze. Ráda se v ní vzdělávám. Má nevyčerpatelné palivo, neprodukuje emise a mohla by změnit celou energetiku. Ve škole mě baví i zeměpis, protože mi rozšiřuje přehled o světovém dění.
 
 Mimo školu se věnuju judu a jezdím na skateboardu. Na judu mě nejvíc baví respekt k soupeři a to, že se učím být odolná vůči bolesti. Skateboard mě naučil, že některé věci se člověk učí hodně dlouho a přes všechny pády nesmí ztratit naději.
 
