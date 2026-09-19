@@ -9,9 +9,9 @@ Odevzdává se **vlastní rukou psaný** — tohle je zdroj, ze kterého Sofie o
 
 Hlásím se na OPEN GATE, protože mám velký sen a věřím, že byste mi mohli pomoci ho uskutečnit. Chci být psychiatr. Zajímá mě, jak lidé uvnitř fungují, proč se chovají tak, jak se chovají, a co s nimi udělá špatná situace.
 
-Plánuju studovat medicínu v zahraničí a pak se specializovat na psychiatrii. Vím, že k tomu potřebuju biologii a chemii, IB maturitu a angličtinu na úrovni, na kterou se sama nedostanu. To je přesně to, co u vás můžu získat.
+Chci studovat medicínu a pak se specializovat na psychiatrii. Zvažuju i zahraniční univerzitu, proto pro mě má IB maturita smysl. Potřebuju k tomu biologii, chemii a angličtinu na úrovni, na kterou se sama nedostanu. To je přesně to, co u vás můžu získat.
 
-Angličtině se věnuju i ve volném čase. Sama si platím doučování a koukám na filmy a seriály v originále. Certifikát zatím nemám, ale vím, že na IB potřebuju ještě lepší úroveň, a proto na tom pracuju.
+Angličtině se věnuju i ve volném čase. Sama si platím doučování a koukám na filmy a seriály v originále. Certifikát zatím nemám, ale chystám se ho udělat.
 
 Tatínek měl před lety vážný úraz. Dva roky strávil v nemocnici a dnes je v invalidním důchodu. Maminka pracuje jako kuchařka ve škole v přírodě. Přes týden jsem bydlela u tety, protože jinak bych to do školy měla moc daleko a rodiče jsem skoro neviděla. Teta pak onemocněla vážnou nemocí a zemřela. Tatínek v té době ležel v nemocnici v umělém spánku. Bylo to pro mě hodně těžké.
 
@@ -23,7 +23,7 @@ Zajímá mě fyzika, hlavně termonukleární fúze. Koukám se na přednášky 
 
 Mimo školu se věnuju judu a jezdím na skateboardu. Na judu mě nejvíc baví respekt k soupeři a to, že se učím být odolná vůči bolesti. Skateboard mě naučil, že některé věci se člověk učí hodně dlouho a přes všechny pády nesmí ztratit naději.
 
-Žádám o přestup právě teď v průběhu roku, protože nechci ztrácet čas. Pokud mám zvládnout přechod na IB a přípravu na zahraniční medicínu, potřebuju se do náročného prostředí dostat co nejdřív.
+Žádám o přestup právě teď v průběhu roku, protože nechci ztrácet čas. Pokud mám zvládnout přechod na IB a přípravu na medicínu, potřebuju se do náročného prostředí dostat co nejdřív.
 
 OPEN GATE je místo, kde jsou lidi, kteří vědí, co chtějí. A já vím, co chci. Vím, že přestup do vyššího ročníku není běžný, ale taky vím, že jsem ochotná pro to udělat maximum.
 
@@ -47,4 +47,5 @@ Budu ráda, když dostanu šanci se vám představit osobně.
 - Konkrétní fakt vždy vyhrává nad frází: „sama si platím doučování" > „pracuji na jazykové úrovni".
 - **Nikdy neoslabovat větu o tom, proč bez školy nedojde k cíli.** „Na úroveň, na kterou se sama nedostanu" je nejsilnější argument celého dopisu.
 - Správně je **v Sušici** (město Sušice).
-- Angličtina: úroveň odhadnuta na **B1** (test 2026-09-19, tři věty). IB vyžaduje víc. Do dopisu se nepíše žádná úroveň.
+- Angličtina: úroveň odhadnuta na **B1** (test 2026-09-19, tři věty). IB vyžaduje víc. Do dopisu se nepíše žádná úroveň ani se v něm angličtina nepodceňuje — jen fakta (doučování, filmy, certifikát zatím není).
+- Zahraniční VŠ je v textu jako **možnost**, ne hotové rozhodnutí. Úplně ji vypustit nelze: škola ji v e-mailu uvádí mezi svými kritérii.
