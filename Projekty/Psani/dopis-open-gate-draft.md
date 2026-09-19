@@ -21,9 +21,7 @@ Chtěla jsem si sáhnout na svoje hranice, tak jsem si zjišťovala vojenský v�
 
 Zajímá mě fyzika, hlavně termonukleární fúze. Koukám se na přednášky o ní, protože má nevyčerpatelné palivo a neprodukuje emise. Kdyby se ji podařilo zvládnout, změní to celou energetiku.
 
-Tři roky dělám judo, občas jezdím na závody. Naučilo mě to disciplíně a tomu, že nic není zadarmo.
-
-Ve škole mě nejvíc baví zeměpis. Zajímá mě, jak se svět vyvíjí a proč vypadá tak, jak vypadá. Fyziku a politiku si dohledávám sama, mimo výuku.
+Mimo školu se věnuju judu a jezdím na skateboardu. Na judu mě nejvíc baví respekt, který musíš mít k soupeři, a to, že se učím být odolná vůči bolesti. Skateboard mě naučil, že některé věci trvají strašně dlouho a přes všechny pády se nesmí ztrácet naděje. Ve škole mě nejvíc baví zeměpis, protože mi rozšiřuje všeobecný přehled a znalosti o světovém dění.
 
 Angličtinu se učím i mimo školu. Platím si doučování a koukám na filmy a seriály v angličtině. Certifikát zatím nemám, ale chci si ho udělat.
 
