@@ -13,18 +13,33 @@ Zažila jsem těžké věci. Tatínek měl úraz, teta zemřela. To mi otevřelo
 
 Na gymnáziu v Sušici necítím takový posun, jako bych mohla dostat na OPEN GATE.
 
+Věci, které mě baví, si většinou musím sehnat sama.
+
+Chtěla jsem absolvovat vojenský výcvik. Šla jsem si za tím tak dlouho, až armáda volala do naší školy.
+
+Zajímá mě fyzika, hlavně termonukleární fúze. Koukám se na přednášky o ní, protože může změnit budoucnost celé energetiky. Na prezentaci ve škole jsem si ji pak vzala jako téma.
+
+Tři roky dělám judo a brzy začnu závodit. Naučilo mě to disciplíně a tomu, že nic není zadarmo.
+
+Ve škole mě nejvíc baví zeměpis. Zajímá mě, jak se svět vyvíjí a proč vypadá tak, jak vypadá. Fyziku a politiku si dohledávám sama, mimo výuku.
+
+Angličtinu se učím i mimo školu — platím si doučování a koukám na filmy a seriály v angličtině. Certifikát zatím nemám, ale chci si ho udělat.
+
 OPEN GATE je místo, kde to není bláznovství. Kde jsou lidi, kteří vědí, co chtějí. A já vím, co chci. Chci psychiatrii. Chci si za tím stát.
 
 ---
 
 ## Co ještě chybí
 
-- **Vojenský výcvik + fúze** — nejsilnější konkrétní důkazy, zatím nejsou v textu
-- **Angličtina** — email se na ni výslovně ptal (certifikát nemá; doučování mimo školu, filmy, seriály)
 - **Rodinná situace** — email se ptal; zatím jen tatínek a teta. Z původního ručního dopisu: tatínek po úrazu na invalidním důchodu, maminka kuchařka ve škole v přírodě
-- **Co ji baví ve škole** — email se ptal, zatím v textu není
 - **IB ročník + zahraniční VŠ** — Sofie chtěla zakomponovat, zatím vypadlo
 - **Závěr**
+
+## Neověřeno — musí potvrdit Sofie
+
+- **Judo: „nic není zadarmo"** — domyšleno, nepotvrzeno
+- **Zeměpis** — napsáno obecně, Sofie zatím neřekla, co přesně ji na něm baví
+- **Certifikát: „chci si ho udělat"** — nepotvrzeno, ať to u přijímaček obstojí
 
 ## Pravidla pro tenhle text (vzniklo při psaní)
 
