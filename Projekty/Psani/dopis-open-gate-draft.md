@@ -23,7 +23,7 @@ Zajímá mě fyzika, hlavně termonukleární fúze. Koukám se na přednášky 
 
 Mimo školu se věnuju judu a jezdím na skateboardu. Na judu mě nejvíc baví respekt, který musíš mít k soupeři, a to, že se učím být odolná vůči bolesti. Skateboard mě naučil, že některé věci se člověk učí hodně dlouho a přes všechny pády nesmí ztratit naději. Ve škole mě nejvíc baví zeměpis, protože mi rozšiřuje všeobecný přehled a znalosti o světovém dění.
 
-Angličtinu se učím i mimo školu. Platím si doučování a koukám na filmy a seriály v angličtině. Certifikát zatím nemám, ale chci si ho udělat.
+Angličtinu se učím i mimo školu. Platím si doučování a koukám na filmy a seriály v angličtině. Certifikát zatím nemám, ale vím, že na IB budu potřebovat lepší úroveň, než mám dnes. Proto na ní pracuju.
 
 OPEN GATE je místo, kde to není bláznovství. Kde jsou lidi, kteří vědí, co chtějí. A já vím, co chci.
 
