@@ -26,6 +26,21 @@ EXTRA = '''
 .yn .y{color:#2E8B57;border-color:#2E8B57} .yn .n{color:var(--stamp);border-color:var(--stamp)}
 .ivr{display:flex;align-items:center;gap:4mm;border-bottom:.6mm dashed var(--line);padding-bottom:2mm}
 .ivr .q{font-family:'Fredoka',sans-serif;font-weight:600;font-size:16pt;flex:1}
+/* --- český pokyn pod zadáním --- */
+.taskwrap{display:flex;flex-direction:column;align-items:flex-end;gap:1.2mm;max-width:138mm}
+.czhint{font-size:10.5pt;font-weight:700;color:var(--ink);background:var(--paper-warm);
+ border:.5mm solid var(--sun);border-radius:1.5mm;padding:1.5mm 3mm;text-align:right;line-height:1.3}
+/* --- slovni zasoba --- */
+.voctab{flex:1;min-height:0;display:grid;grid-template-columns:1fr 1fr;gap:6mm}
+.voctab>div{display:flex;flex-direction:column;min-height:0}
+.voctab h3{font-family:'Fredoka',sans-serif;font-weight:600;font-size:15pt;margin:0 0 2.5mm;color:var(--sea);
+ border-bottom:.8mm solid var(--line);padding-bottom:1.5mm}
+.voctab table{width:100%;border-collapse:collapse;flex:1}
+.voctab td{padding:1.3mm 2mm;border-bottom:.4mm solid var(--line);vertical-align:middle}
+.voctab tr:nth-child(odd) td{background:var(--paper-warm)}
+.voctab .ven{font-family:'Fredoka',sans-serif;font-weight:600;font-size:13pt;width:38%}
+.voctab .vph{font-family:'DejaVu Sans Mono',monospace;font-size:9pt;color:var(--sea);width:30%}
+.voctab .vcz{font-size:12pt;font-weight:700;color:var(--ink)}
 /* --- gramatické tabulky --- */
 .gtab{width:100%;border-collapse:collapse;margin-bottom:4mm}
 .gtab th{background:var(--ink);color:#fff;font-family:'Fredoka',sans-serif;font-weight:600;font-size:12pt;
@@ -101,10 +116,10 @@ EXTRA = '''
 .draw2 span{font-size:9.5pt;color:#7A939B;font-weight:700;letter-spacing:.06em;text-transform:uppercase;line-height:1.4}
 '''
 
-PLAN = [("1","Hello again","3 min"),("2","Verb BE","6 min"),("3","Word race","3 min"),
-        ("4","my / his / her","5 min"),("5","Questions","6 min"),("6","Wh- questions","3 min"),
-        ("7","'s + days","4 min"),("8","Homework","2 min")]
-TOT = 11
+PLAN = [("1","Hello again","3 min"),("2","Verb BE","5 min"),("3","Words","3 min"),
+        ("4","Word race","3 min"),("5","my / his / her","4 min"),("6","Questions","5 min"),
+        ("7","Wh- questions","3 min"),("8","'s + days","4 min")]
+TOT = 12
 
 CAN_Q = ["Can you swim?","Can you cook?","Can you ride a bike?","Can you play the piano?"]
 BE_POS = [("I","am","I'm"),("He / She / It","is","he's"),("We / You / They","are","we're")]
@@ -159,9 +174,10 @@ def sprite():
 def foot(n,lbl):
     return ('<div class="foot"><span>English &middot; Unit 2 &middot; 6 October</span>'
             '<span>%s</span><span>%d / %d</span></div>'%(lbl,n,TOT))
-def head(no,title,task):
+def head(no,title,task,cz=""):
+    czrow = '<div class="czhint">%s</div>'%cz if cz else ""
     return ('<div class="ph"><div class="grp"><span class="no">%s</span><h2>%s</h2></div>'
-            '<span class="task">%s</span></div>'%(no,title,task))
+            '<div class="taskwrap"><span class="task">%s</span>%s</div></div>'%(no,title,task,czrow))
 
 H=['<meta charset="utf-8">','<title>Unit 2 — test practice</title>','<style>',fonts,base,EXTRA,'</style>',sprite()]
 
@@ -182,7 +198,8 @@ qs="".join('<div class="qrow"><div class="t">%s</div><div class="h">%s</div><div
 cans="".join('<div class="ivr"><span class="q">%s</span>'
              '<div class="yn"><span class="y">YES</span><span class="n">NO</span></div></div>'%q for q in CAN_Q)
 H.append(f'''<div class="page"><div class="airmail"></div>
-{head("1","Hello again!","We haven't seen each other for a while. Let's warm up!")}
+{head("1","Hello again!","We haven't seen each other for a while. Let's warm up!",
+      "Vlevo odpovídej celou větou. Vpravo zakroužkuj YES/NO a odpověz: Yes, I can. / No, I can't.")}
 <div class="two">
  <section><div class="sub">Talk to me</div><div class="qlist">{qs}</div></section>
  <section><div class="sub">Do you still remember CAN?</div>
@@ -200,23 +217,49 @@ def gtab(rows, head2, head3):
 fs="".join('<div class="fs"><span class="n">%d</span><span class="t">%s <u></u> %s <u></u></span>'
            '<svg><use href="#%s"/></svg></div>'%(i,a,b,f) for i,(a,b,f) in enumerate(FSENT,1))
 H.append(f'''<div class="page"><div class="airmail"></div>
-{head("2","Verb BE","Fill in the table. Then complete the sentences &mdash; and say the country!")}
+{head("2","Verb BE","Fill in the table. Then complete the sentences &mdash; and say the country!",
+      "Do tabulky doplň krátké tvary. Pak doplň věty a řekni, odkud kdo je.")}
 <div class="two" style="grid-template-columns:1fr 1.15fr">
  <section>{gtab(BE_POS,"long form","short form")}{gtab(BE_NEG,"negative long","negative short")}</section>
  <section><div class="fsent">{fs}</div></section>
 </div>{foot(3,"Grammar")}</div>''')
 
-# 4 word race
+
+# 4 slovni zasoba
+COUNTRIES=[("Britain","BRI-tn","Británie"),("the USA","ď jú-es-EJ","Spojené státy"),
+ ("France","fráns","Francie"),("Italy","I-te-ly","Itálie"),("Spain","spejn","Španělsko"),
+ ("Japan","dže-PEN","Japonsko"),("the Czech Republic","ď ček ri-PAB-lik","Česká republika"),
+ ("Greece","grís","Řecko")]
+FAMILY=[("mother","MA-dr","matka"),("father","FÁ-dr","otec"),("sister","SIS-tr","sestra"),
+ ("brother","BRA-dr","bratr"),("grandmother","GREN-ma-dr","babička"),
+ ("grandfather","GREN-fá-dr","dědeček"),("parents","PE-rnts","rodiče"),
+ ("children","ČIL-drn","děti"),("aunt","ánt","teta"),("uncle","ANKL","strýc"),
+ ("cousin","KAZN","bratranec / sestřenice"),("daughter","DÓ-tr","dcera")]
+def vtab(rows):
+    t="<table>"
+    for en,ph,cz in rows:
+        t+='<tr><td class="ven">%s</td><td class="vph">[%s]</td><td class="vcz">%s</td></tr>'%(en,ph,cz)
+    return t+"</table>"
+H.append(f'''<div class="page"><div class="airmail"></div>
+{head("3","Words for the test","Read them out loud. The pronunciation is in brackets.",
+      "Přečti každé slovo nahlas. V hranaté závorce je výslovnost.")}
+<div class="voctab">
+ <div><h3>Countries</h3>{vtab(COUNTRIES)}</div>
+ <div><h3>Family</h3>{vtab(FAMILY)}</div>
+</div>{foot(4,"Vocabulary")}</div>''')
+
+# 5 word race
 rc="".join('<div class="rcell">%s</div>'%w for w in RACE)
 H.append(f'''<div class="page"><div class="airmail"></div>
-{head("3","Word race","Say every word in English. Ready? GO!")}
+{head("4","Word race","Say every word in English. Ready? GO!",
+      "Česky je napsané, ty říkáš anglicky. Minuta na kolo, tři kola.")}
 <div class="race">{rc}</div>
 <div class="score">
  <div class="sbox"><span class="h">Round 1 &middot; 60 s</span><span class="l"></span></div>
  <div class="sbox"><span class="h">Round 2 &middot; 60 s</span><span class="l"></span></div>
  <div class="sbox"><span class="h">Round 3 &middot; 60 s</span><span class="l"></span></div>
  <div class="sbox rec"><span class="h">&#9733; My best score</span><span class="l"></span></div>
-</div>{foot(4,"Speed game")}</div>''')
+</div>{foot(5,"Speed game")}</div>''')
 
 # 5 pronouns
 pt='<table class="gtab"><tr><th>pronoun</th><th>possessive</th></tr>'
@@ -225,7 +268,8 @@ pt+='</table>'
 ps="".join('<div class="fs"><span class="n">%d</span><span class="t">%s</span></div>'%(i,s)
            for i,s in enumerate(PSENT,1))
 H.append(f'''<div class="page"><div class="airmail"></div>
-{head("4","my / your / his / her","Fill in the table. Then complete the sentences.")}
+{head("5","my / your / his / her","Fill in the table. Then complete the sentences.",
+      "Do tabulky doplň druhý sloupec. Pak do každé věty doplň chybějící zájmeno.")}
 <div class="two" style="grid-template-columns:.75fr 1.25fr">
  <section>{pt}
   <div class="callout" style="font-size:12pt;line-height:1.45">
@@ -233,13 +277,14 @@ H.append(f'''<div class="page"><div class="airmail"></div>
    <span style="font-size:10pt;color:#7A939B">but</span><br>
    <b style="color:#E4572E">It's</b> my dog. = It is</div></section>
  <section><div class="fsent">{ps}</div></section>
-</div>{foot(5,"Grammar")}</div>''')
+</div>{foot(6,"Grammar")}</div>''')
 
 # 6 questions
 yn="".join('<div class="ivr"><span class="q">%s</span>'
            '<div class="yn"><span class="y">YES</span><span class="n">NO</span></div></div>'%q for q in YNQ)
 H.append(f'''<div class="page"><div class="airmail"></div>
-{head("5","Questions and short answers","Circle YES or NO. Then say the whole short answer out loud.")}
+{head("6","Questions and short answers","Circle YES or NO. Then say the whole short answer out loud.",
+      "Zakroužkuj YES nebo NO. Pak řekni CELOU odpověď: Yes, I am. / No, she isn't.")}
 <div class="two" style="grid-template-columns:1.25fr .75fr">
  <section><div class="qlist">{yn}</div></section>
  <section class="side" style="justify-content:center;gap:5mm">
@@ -248,7 +293,7 @@ H.append(f'''<div class="page"><div class="airmail"></div>
    Yes, he's. &nbsp; Yes, they're.</div>
   <div class="callout">No, he <b>isn't</b>.<br>No, they <b>aren't</b>.</div>
  </section>
-</div>{foot(6,"Speaking")}</div>''')
+</div>{foot(8,"Speaking")}</div>''')
 
 # 7 wh-questions
 # odpovědi schválně v jiném pořadí, jinak by nebylo co spojovat
@@ -258,7 +303,8 @@ for q,ai in zip(WHQ,SHUF):
     mm+='<div class="mq">%s</div><div class="ma">%s</div>'%(q,WHA[ai])
 assert sorted(SHUF)==list(range(6)) and all(SHUF[i]!=i for i in range(6)), "každá odpověď musí být u jiné otázky"
 H.append(f'''<div class="page"><div class="airmail"></div>
-{head("6","Wh- questions","Draw a line: question &rarr; answer. Then answer about YOU.")}
+{head("7","Wh- questions","Draw a line: question &rarr; answer. Then answer about YOU.",
+      "Spoj čarou otázku s odpovědí. Dole pak odpověz sama za sebe.")}
 <div class="match">{mm}</div>
 <div class="score" style="margin-top:4mm">
  <div class="sbox"><span class="h">What's your name?</span><span class="l"></span></div>
@@ -273,7 +319,8 @@ CUES=[("Mel / pen","This is Mel's pen."),("Joe / watch",""),("Jack and Maya / do
 pr="".join('<div class="pr"><span class="cue">%s</span><span class="l"></span></div>'%c for c,_ in CUES)
 dys="".join('<div class="day"><b>%s</b><span class="l"></span></div>'%d for d in ["M","T","W","T","F","S","S"])
 H.append(f'''<div class="page"><div class="airmail"></div>
-{head("7","Possessive 's and days","Whose is it? Write the sentence. Then write all seven days.")}
+{head("8","Possessive 's and days","Whose is it? Write the sentence. Then write all seven days.",
+      "Vlevo napiš celou větu: This is Mel's pen. Vpravo doplň dny v týdnu.")}
 <div class="two">
  <section><div class="sub">Whose is it? &mdash; write sentences</div>
   <div class="callout" style="margin-bottom:4mm;font-size:13pt">
@@ -284,7 +331,7 @@ H.append(f'''<div class="page"><div class="airmail"></div>
    <div class="vrow"><b>Today is</b><span class="l"></span></div>
    <div class="vrow"><b>My birthday is on</b><span class="l"></span></div>
   </div></section>
-</div>{foot(8,"Grammar")}</div>''')
+</div>{foot(9,"Grammar")}</div>''')
 
 # 9 homework
 voc="".join('<div class="r"><span class="w"><b>%s</b><span>[%s]</span></span><span class="l"></span></div>'%(e,p)
@@ -292,30 +339,33 @@ voc="".join('<div class="r"><span class="w"><b>%s</b><span>[%s]</span></span><sp
 ST=["I'm from …","My mum is …","My best friend isn't …"]
 sts="".join('<div class="starter">%s</div><div class="wl short"></div>'%s for s in ST)
 H.append(f'''<div class="page"><div class="airmail"></div>
-{head("7","Homework","See you next week &mdash; and good luck in the test!")}
+{head("9","Homework","See you next week &mdash; and good luck in the test!",
+      "Domácí úkol: nauč se slovíčka, napiš tři věty, nakresli rodinu.")}
 <div class="hwtop">
  <div><h3><span class="num">1</span>Learn these words</h3><div class="vocab2">{voc}</div></div>
  <div><h3><span class="num">2</span>Write 3 sentences</h3>{sts}</div>
  <div><h3><span class="num">3</span>Draw &amp; label</h3>
   <div class="draw2"><span>Draw your family &middot; write one sentence<br>with HIS, HER or THEIR</span></div></div>
-</div>{foot(9,"Homework")}</div>''')
+</div>{foot(10,"Homework")}</div>''')
 
 # 10 check list
 chk="".join('<div class="ci"><svg><use href="#i-star"/></svg>'
             '<span class="t"><b>%s</b><i>%s</i></span></div>'%c for c in CHECK)
 H.append(f'''<div class="page"><div class="airmail"></div>
-{head("9","What I can do now","Colour a star for every YES! Be honest &mdash; it shows us what to practise.")}
+{head("10","What I can do now","Colour a star for every YES! Be honest &mdash; it shows us what to practise.",
+      "Vybarvi hvězdu u všeho, co umíš. Co nevybarvíš, na to se příště podíváme.")}
 <div class="check"><div class="clist">{chk}</div></div>
-{foot(10,"Check")}</div>''')
+{foot(11,"Check")}</div>''')
 
 # 11 mini test
 mt="".join('<div class="mti"><span class="n">%d</span><span class="t">%s</span></div>'%(i,t)
            for i,t in enumerate(MT,1))
 H.append(f'''<div class="page"><div class="airmail"></div>
-{head("&#9733;","Mini test","Twelve questions, like in the Progress check. No help &mdash; try it alone!")}
+{head("&#9733;","Mini test","Twelve questions, like in the Progress check. No help &mdash; try it alone!",
+      "Dvanáct úkolů jako v testu ve škole. Zkus to sama, bez nápovědy.")}
 <div class="mt">{mt}</div>
 <div class="bye" style="margin-top:4mm">Good luck! You can do it!</div>
-{foot(11,"Mini test")}</div>''')
+{foot(12,"Mini test")}</div>''')
 
 out=os.path.join(sp,"list3.html")
 open(out,"w",encoding='utf-8').write("\n".join(H))

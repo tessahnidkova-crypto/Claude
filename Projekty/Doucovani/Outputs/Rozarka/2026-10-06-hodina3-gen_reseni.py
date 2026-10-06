@@ -54,19 +54,23 @@ P1 = [
  ex("2","Hello again! + CAN","3 min",
    "<p><b>Yes, I can.</b> / <b>No, I can't.</b> &mdash; víc dnes nechtěj.</p>"
    "<p class='cz'>Dole: <i>I can … but I can't …</i></p>"),
- ex("3","Verb BE","6 min",
+ ex("3","Verb BE","5 min",
    "<p class='tabline'>I <b>'m</b> &middot; he / she / it <b>'s</b> &middot; we / you / they <b>'re</b></p>"
    "<p class='tabline'>I<b>'m not</b> &middot; he <b>isn't</b> &middot; we <b>aren't</b></p>"
    "<p>1 She<b>'s</b> from <b>Italy</b>. &nbsp; 2 I<b>'m</b> from <b>Spain</b>. &nbsp; 3 We<b>'re</b> from <b>Japan</b>.</p>"
    "<p>4 He<b>'s</b> from <b>Hungary</b>. &nbsp; 5 They<b>'re</b> from <b>the Czech Republic</b>.</p>"),
- ex("4","Word race","3 min",
+ ex("4","Words for the test","3 min",
+   "<p>Tahle strana nemá řešení &mdash; je to <b>přehled k přečtení</b>. "
+   "Nech ji každé slovo přečíst nahlas podle výslovnosti v závorce.</p>"
+   "<p class='cz'>Jsou to přesně ta slova, která pak jedete na čas na straně 5.</p>"),
+ ex("5","Word race","3 min",
    "<p><b>1.</b> Britain &middot; the USA &middot; France &middot; Italy &middot; Spain<br>"
    "<b>2.</b> Japan &middot; the Czech Republic &middot; Greece &middot; mother &middot; father<br>"
    "<b>3.</b> sister &middot; brother &middot; grandmother &middot; grandfather &middot; parents<br>"
    "<b>4.</b> children &middot; aunt &middot; uncle &middot; cousin &middot; daughter</p>"
    "<p class='cz'>Výslovnost: Hungary [HAN-ge-ry] &middot; aunt [ánt] &middot; uncle [ANKL] &middot; "
    "cousin [KAZN] &middot; daughter [DÓ-tr] &middot; Greece [grís]</p>"),
- ex("5","my / your / his / her","5 min",
+ ex("6","my / your / his / her","4 min",
    "<p class='tabline'>I&rarr;my &middot; you&rarr;your &middot; he&rarr;his &middot; she&rarr;her &middot; "
    "it&rarr;its &middot; we&rarr;our &middot; they&rarr;their</p>"
    "<div class='grid2'><p>1 <b>His</b> name's Joe.</p><p>4 <b>Her</b> dog is Mut.</p>"
@@ -75,7 +79,7 @@ P1 = [
 ]
 
 P2 = [
- ex("6","Questions and short answers","6 min",
+ ex("7","Questions and short answers","5 min",
    "<div class='grid2'>"
    "<p>Are you…? &rarr; <b>Yes, I am. / No, I'm not.</b></p>"
    "<p>Is your mum…? &rarr; <b>Yes, she is. / No, she isn't.</b></p>"
@@ -83,22 +87,22 @@ P2 = [
    "<p>Is your dog…? &rarr; <b>Yes, it is. / No, it isn't.</b></p>"
    "<p>Am I…? &rarr; <b>Yes, you are. / No, you aren't.</b></p>"
    "<p>Are we…? &rarr; <b>Yes, we are. / No, we aren't.</b></p></div>"),
- ex("7","Wh- questions","3 min",
+ ex("8","Wh- questions","3 min",
    "<p>What's your name? &rarr; <b>My name's Rozárka.</b> &nbsp;|&nbsp; "
    "Where are you from? &rarr; <b>I'm from the Czech Republic.</b></p>"
    "<p>How old are you? &rarr; <b>I'm eleven.</b> &nbsp;|&nbsp; "
    "When is your birthday? &rarr; <b>It's on 5th May.</b></p>"
    "<p>Who is your teacher? &rarr; <b>Mrs Nováková.</b> &nbsp;|&nbsp; "
    "Whose dog is it? &rarr; <b>It's my sister's.</b></p>"),
- ex("8","Possessive 's a dny","4 min",
+ ex("9","Possessive 's a dny","4 min",
    "<p>This is <b>Mel's</b> pen. &middot; <b>Joe's</b> watch. &middot; <b>Jack and Maya's</b> dog. &middot; "
    "<b>Lin's</b> book. &middot; <b>Granddad and Grandma's</b> house.</p>"
    "<p class='cz'>Monday [MAN-dej] &middot; Tuesday [TJÚZ-dej] &middot; <b style='color:#E4572E'>Wednesday [WENZ-dej]</b> &middot; "
    "Thursday [THÉRZ-dej] &middot; Friday [FRAJ-dej] &middot; Saturday [SE-tr-dej] &middot; Sunday [SAN-dej]</p>"),
- ex("9","Homework","2 min",
+ ex("10","Homework","2 min",
    "<p>I'm from <b>Brno</b>. &middot; My mother's name is <b>…</b> &middot; My friends aren't <b>…</b></p>"
    "<p class='cz'>Slovíčka: mother &middot; father &middot; parents &middot; children &middot; cousin &middot; Whose?</p>"),
- ex("11","Mini test","bonus",
+ ex("12","Mini test","bonus",
    "<div class='grid2'>"
    "<p>1 <b>'m</b> &nbsp; 2 <b>isn't</b> &nbsp; 3 <b>Are</b> &nbsp; 4 <b>His</b></p>"
    "<p>5 <b>are</b> &nbsp; 6 <b>How</b> &nbsp; 7 <b>are</b> &nbsp; 8 <b>isn't</b></p>"
@@ -127,8 +131,8 @@ def page(n, title, sub, blocks, extra=""):
 
 HTML = ('<meta charset="utf-8">\n<title>Řešení — hodina 3</title>\n<style>\n'
         + fonts + CSS + '\n</style>\n'
-        + page(1,"Řešení všech cvičení","Hodina 3 &middot; Unit 2 &middot; strany 2&ndash;5 listu", P1)
-        + page(2,"Řešení &mdash; pokračování","Strany 6&ndash;11 listu", P2, mt))
+        + page(1,"Řešení všech cvičení","Hodina 3 &middot; Unit 2 &middot; strany 2&ndash;6 listu", P1)
+        + page(2,"Řešení &mdash; pokračování","Strany 7&ndash;12 listu", P2, mt))
 
 out=os.path.join(sp,"reseni.html")
 open(out,"w",encoding='utf-8').write(HTML)
