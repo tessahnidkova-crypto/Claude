@@ -296,7 +296,7 @@ H.append(f'''<div class="page"><div class="airmail"></div>
    Yes, he's. &nbsp; Yes, they're.</div>
   <div class="callout">No, he <b>isn't</b>.<br>No, they <b>aren't</b>.</div>
  </section>
-</div>{foot(8,"Speaking")}</div>''')
+</div>{foot(7,"Speaking")}</div>''')
 
 # 7 wh-questions
 # odpovědi schválně v jiném pořadí, jinak by nebylo co spojovat
@@ -313,7 +313,7 @@ H.append(f'''<div class="page"><div class="airmail"></div>
  <div class="sbox"><span class="h">What's your name?</span><span class="l"></span></div>
  <div class="sbox"><span class="h">How old are you?</span><span class="l"></span></div>
  <div class="sbox"><span class="h">When is your birthday?</span><span class="l"></span></div>
-</div>{foot(7,"Speaking")}</div>''')
+</div>{foot(8,"Speaking")}</div>''')
 
 
 # 8 possessive 's + days of the week

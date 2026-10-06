@@ -70,3 +70,32 @@ Tessa doučuje. Tenhle projekt drží přípravy na hodiny, materiály a zpětno
 - `Inputs/` — co dodá rodič nebo škola (učebnice, zadání od učitelky)
 - `nastroje/` — technické postupy (výroba PDF)
 - `LOG.md` — jedna řádka na hodinu
+
+## Řešení = jedna strana na cvičení (revize 2026-10-06, 2. kolo)
+
+Zhuštěné řešení (3 strany, všechno v tabulce vedle sebe) Tessa odmítla jako
+nepřehledné a neúplné. Platí:
+
+- **Jedna strana = jedno cvičení.** Nikdy nemačkat víc cvičení na stranu.
+- Layout: vlevo úzký sloupec (Co se učí / Řekni jí / Pozor), vpravo široké
+  **úplně vypsané řešení**. Ne zkratky, ne „viz výše".
+- **Celé věty, ne jen doplňované slovo.** `This is Rosa. She's from Italy.`
+  ne `1 — 's, Italy`.
+- Gramatika **vždy jako tabulka** s hlavičkou, nikdy jako souvislý řádek.
+- U každé anglické odpovědi, kterou má Tessa říct nahlas, **výslovnost**.
+- Na konci samostatná strana **Deset chyb, které uslyšíš** (špatně / správně / proč).
+- Na titulce **časovka** a poctivé přiznání, co se do 30 minut nevejde.
+
+### Jak ověřit, že se obsah vejde
+Oko nestačí — pusť měřicí skript: do HTML přidej `<script>`, který po `load`
+spočítá `scrollHeight - clientHeight` u každého `.resbody` a `.left`, vypiš
+přes `chrome --headless --virtual-time-budget=4000 --dump-dom`. Co je > 0,
+přetéká a v PDF se **tiše uřízne**. Stupně zhuštění `.t1` / `.t2` se zapisují
+do `res3_tight.json` (strana → třída), generátor si je načte.
+
+- ⚠️ **`table-layout:fixed` + úzký sloupec v mm = zalomená čísla.** Sloupec
+  „#" o šířce pár mm sežere padding a dvojciferné číslo se zlomí na dva řádky.
+  Řešení: číslo dát **dovnitř** textové buňky (`<b class="q">10</b> …`),
+  ne do vlastního sloupce.
+- ⚠️ **Krátký tvar psát jako celé slovo.** `A%"She's"`, ne `"She " + A%"'s"` —
+  jinak se v PDF vysází `She 's` s mezerou.
