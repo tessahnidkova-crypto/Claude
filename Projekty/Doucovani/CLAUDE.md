@@ -41,7 +41,7 @@ Tessa doučuje. Tenhle projekt drží přípravy na hodiny, materiály a zpětno
 ## Pravidla pro přípravy
 
 - **Ne prezentace, ale nástroj.** Každý blok má na obrazovce něco, na co se dá kliknout — karta, tlačítko, generátor.
-- **⚠️ REVIZE 2026-10-06: zadání v listu piš dvojjazyčně.** Anglicky velké (pro Rozárku), a pod tím **malý český řádek, co se dělá**. Tessa anglicky dost neumí a bez českého pokynu sama nepozná, co se má v cvičení dělat — anglické zadání je pak k ničemu oběma. Odpovědi a poznámky pro učitele v listu pořád nejsou.
+- **⚠️ REVIZE 2026-10-06: zadání v listu piš dvojjazyčně — a to u KAŽDÉHO cvičení, ne jednou na stránku.** Anglicky velké (pro Rozárku), a k tomu **český pruh u každého bloku zvlášť**. Na stránce bývají dvě cvičení vedle sebe; jeden pokyn v hlavičce je nepokryje. Tessa anglicky dost neumí a bez českého pokynu sama nepozná, co se má v cvičení dělat — anglické zadání je pak k ničemu oběma. Odpovědi a poznámky pro učitele v listu pořád nejsou.
 - **Ke každé hodině patří strana se slovní zásobou** — tabulka *anglicky / [výslovnost] / česky* se všemi slovy, která se v hodině zkoušejí. Bez ní nemá Rozárka z čeho se učit a prázdné tabulky k doplnění vypadají, jako by v materiálu slovíčka chyběla.
 - **Scénář a klíč jsou vždy samostatný markdown**, který se nesdílí.
 - **Anglická slovíčka a fráze kontroluj.** Chybné slovíčko se dítě naučí jako správné. Když si nejsi jistá vazbou, ověř nebo ji nepoužij.

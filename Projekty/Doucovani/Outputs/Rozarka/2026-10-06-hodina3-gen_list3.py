@@ -28,8 +28,11 @@ EXTRA = '''
 .ivr .q{font-family:'Fredoka',sans-serif;font-weight:600;font-size:16pt;flex:1}
 /* --- český pokyn pod zadáním --- */
 .taskwrap{display:flex;flex-direction:column;align-items:flex-end;gap:1.2mm;max-width:138mm}
-.czhint{font-size:10.5pt;font-weight:700;color:var(--ink);background:var(--paper-warm);
- border:.5mm solid var(--sun);border-radius:1.5mm;padding:1.5mm 3mm;text-align:right;line-height:1.3}
+.czhint{font-size:11.5pt;font-weight:800;color:var(--ink);background:#FFF4DE;
+ border:.7mm solid var(--sun);border-radius:1.5mm;padding:2mm 3.5mm;text-align:right;line-height:1.3}
+.cz2{font-size:11pt;font-weight:700;color:var(--ink);background:#FFF4DE;border-left:1.6mm solid var(--sun);
+ border-radius:1mm;padding:1.8mm 3mm;margin:0 0 3mm;line-height:1.35}
+.cz2 b{color:var(--stamp)}
 /* --- slovni zasoba --- */
 .voctab{flex:1;min-height:0;display:grid;grid-template-columns:1fr 1fr;gap:6mm}
 .voctab>div{display:flex;flex-direction:column;min-height:0}
@@ -201,8 +204,8 @@ H.append(f'''<div class="page"><div class="airmail"></div>
 {head("1","Hello again!","We haven't seen each other for a while. Let's warm up!",
       "Vlevo odpovídej celou větou. Vpravo zakroužkuj YES/NO a odpověz: Yes, I can. / No, I can't.")}
 <div class="two">
- <section><div class="sub">Talk to me</div><div class="qlist">{qs}</div></section>
- <section><div class="sub">Do you still remember CAN?</div>
+ <section><div class="sub">Talk to me</div><div class="cz2">Zeptej se jí na tyhle tři věci. Odpovídá <b>celou větou</b>, ne jedním slovem.</div><div class="qlist">{qs}</div></section>
+ <section><div class="sub">Do you still remember CAN?</div><div class="cz2">Zakroužkuje YES nebo NO a řekne <b>Yes, I can.</b> / <b>No, I can't.</b></div>
   <div class="qlist">{cans}
    <div class="vrow"><b>I can</b><span class="l"></span><b>but I can't</b><span class="l"></span></div>
   </div></section>
@@ -220,8 +223,8 @@ H.append(f'''<div class="page"><div class="airmail"></div>
 {head("2","Verb BE","Fill in the table. Then complete the sentences &mdash; and say the country!",
       "Do tabulky doplň krátké tvary. Pak doplň věty a řekni, odkud kdo je.")}
 <div class="two" style="grid-template-columns:1fr 1.15fr">
- <section>{gtab(BE_POS,"long form","short form")}{gtab(BE_NEG,"negative long","negative short")}</section>
- <section><div class="fsent">{fs}</div></section>
+ <section><div class="cz2">Do prázdného sloupce doplní <b>krátký tvar</b>: am &rarr; ’m, is &rarr; ’s, are &rarr; ’re.</div>{gtab(BE_POS,"long form","short form")}{gtab(BE_NEG,"negative long","negative short")}</section>
+ <section><div class="cz2">Doplní sloveso <b>a</b> zemi podle vlajky: <i>She’s from Italy.</i></div><div class="fsent">{fs}</div></section>
 </div>{foot(3,"Grammar")}</div>''')
 
 
@@ -244,8 +247,8 @@ H.append(f'''<div class="page"><div class="airmail"></div>
 {head("3","Words for the test","Read them out loud. The pronunciation is in brackets.",
       "Přečti každé slovo nahlas. V hranaté závorce je výslovnost.")}
 <div class="voctab">
- <div><h3>Countries</h3>{vtab(COUNTRIES)}</div>
- <div><h3>Family</h3>{vtab(FAMILY)}</div>
+ <div><h3>Countries</h3><div class="cz2">Osm zemí. Čte nahlas podle závorky.</div>{vtab(COUNTRIES)}</div>
+ <div><h3>Family</h3><div class="cz2">Dvanáct slov o rodině. Taky nahlas.</div>{vtab(FAMILY)}</div>
 </div>{foot(4,"Vocabulary")}</div>''')
 
 # 5 word race
@@ -253,7 +256,7 @@ rc="".join('<div class="rcell">%s</div>'%w for w in RACE)
 H.append(f'''<div class="page"><div class="airmail"></div>
 {head("4","Word race","Say every word in English. Ready? GO!",
       "Česky je napsané, ty říkáš anglicky. Minuta na kolo, tři kola.")}
-<div class="race">{rc}</div>
+<div class="cz2">Ukazuj po řadách, ona říká <b>anglicky</b>. Minuta, pak zapiš skóre dole. Tři kola.</div><div class="race">{rc}</div>
 <div class="score">
  <div class="sbox"><span class="h">Round 1 &middot; 60 s</span><span class="l"></span></div>
  <div class="sbox"><span class="h">Round 2 &middot; 60 s</span><span class="l"></span></div>
@@ -271,12 +274,12 @@ H.append(f'''<div class="page"><div class="airmail"></div>
 {head("5","my / your / his / her","Fill in the table. Then complete the sentences.",
       "Do tabulky doplň druhý sloupec. Pak do každé věty doplň chybějící zájmeno.")}
 <div class="two" style="grid-template-columns:.75fr 1.25fr">
- <section>{pt}
+ <section><div class="cz2">Ke každému zájmenu doplní <b>přivlastňovací</b> tvar: I &rarr; my.</div>{pt}
   <div class="callout" style="font-size:12pt;line-height:1.45">
    This is my dog.<br><b style="color:#0F8B8D">Its</b> name is Mut.<br>
    <span style="font-size:10pt;color:#7A939B">but</span><br>
    <b style="color:#E4572E">It's</b> my dog. = It is</div></section>
- <section><div class="fsent">{ps}</div></section>
+ <section><div class="cz2">Do každé věty doplní <b>jedno slovo</b> z tabulky vlevo.</div><div class="fsent">{ps}</div></section>
 </div>{foot(6,"Grammar")}</div>''')
 
 # 6 questions
@@ -286,7 +289,7 @@ H.append(f'''<div class="page"><div class="airmail"></div>
 {head("6","Questions and short answers","Circle YES or NO. Then say the whole short answer out loud.",
       "Zakroužkuj YES nebo NO. Pak řekni CELOU odpověď: Yes, I am. / No, she isn't.")}
 <div class="two" style="grid-template-columns:1.25fr .75fr">
- <section><div class="qlist">{yn}</div></section>
+ <section><div class="cz2">Zakroužkuje YES/NO a pak řekne <b>celou krátkou odpověď</b> nahlas.</div><div class="qlist">{yn}</div></section>
  <section class="side" style="justify-content:center;gap:5mm">
   <div class="callout" style="border-color:#2E8B57;color:#2E8B57">Yes, he <b>is</b>.<br>Yes, they <b>are</b>.</div>
   <div class="callout" style="border-color:var(--stamp);color:var(--stamp);text-decoration:line-through">
@@ -305,7 +308,7 @@ assert sorted(SHUF)==list(range(6)) and all(SHUF[i]!=i for i in range(6)), "kaž
 H.append(f'''<div class="page"><div class="airmail"></div>
 {head("7","Wh- questions","Draw a line: question &rarr; answer. Then answer about YOU.",
       "Spoj čarou otázku s odpovědí. Dole pak odpověz sama za sebe.")}
-<div class="match">{mm}</div>
+<div class="cz2">Spojí čarou otázku vlevo se správnou odpovědí vpravo. Odpovědi jsou <b>zpřeházené</b>.</div><div class="match">{mm}</div>
 <div class="score" style="margin-top:4mm">
  <div class="sbox"><span class="h">What's your name?</span><span class="l"></span></div>
  <div class="sbox"><span class="h">How old are you?</span><span class="l"></span></div>
@@ -322,11 +325,11 @@ H.append(f'''<div class="page"><div class="airmail"></div>
 {head("8","Possessive 's and days","Whose is it? Write the sentence. Then write all seven days.",
       "Vlevo napiš celou větu: This is Mel's pen. Vpravo doplň dny v týdnu.")}
 <div class="two">
- <section><div class="sub">Whose is it? &mdash; write sentences</div>
+ <section><div class="sub">Whose is it? &mdash; write sentences</div><div class="cz2">Z nápovědy vlevo napíše celou větu: <b>This is Mel's pen.</b></div>
   <div class="callout" style="margin-bottom:4mm;font-size:13pt">
    Mel <b style="color:#0F8B8D">+ 's</b> &rarr; This is <b style="color:#0F8B8D">Mel's</b> pen.</div>
   <div class="poss">{pr}</div></section>
- <section><div class="sub">Days of the week</div>
+ <section><div class="sub">Days of the week</div><div class="cz2">Doplní sedm dní v týdnu. První písmeno je napovězené.</div>
   <div class="days">{dys}
    <div class="vrow"><b>Today is</b><span class="l"></span></div>
    <div class="vrow"><b>My birthday is on</b><span class="l"></span></div>
@@ -354,7 +357,7 @@ chk="".join('<div class="ci"><svg><use href="#i-star"/></svg>'
 H.append(f'''<div class="page"><div class="airmail"></div>
 {head("10","What I can do now","Colour a star for every YES! Be honest &mdash; it shows us what to practise.",
       "Vybarvi hvězdu u všeho, co umíš. Co nevybarvíš, na to se příště podíváme.")}
-<div class="check"><div class="clist">{chk}</div></div>
+<div class="cz2">U všeho, co umí, vybarví hvězdu. <b>Ať je upřímná</b> &mdash; nevybarvené si vezmeme příště.</div><div class="check"><div class="clist">{chk}</div></div>
 {foot(11,"Check")}</div>''')
 
 # 11 mini test
@@ -363,7 +366,7 @@ mt="".join('<div class="mti"><span class="n">%d</span><span class="t">%s</span><
 H.append(f'''<div class="page"><div class="airmail"></div>
 {head("&#9733;","Mini test","Twelve questions, like in the Progress check. No help &mdash; try it alone!",
       "Dvanáct úkolů jako v testu ve škole. Zkus to sama, bez nápovědy.")}
-<div class="mt">{mt}</div>
+<div class="cz2">Doplní jedno slovo na každou linku. <b>Sama, bez nápovědy</b> &mdash; ať víme, jak na tom je.</div><div class="mt">{mt}</div>
 <div class="bye" style="margin-top:4mm">Good luck! You can do it!</div>
 {foot(12,"Mini test")}</div>''')
 
