@@ -7,9 +7,10 @@
 - [ ] 5 · my / his / her
 - [ ] 6 · Questions + short answers
 - [ ] 7 · Wh- questions
-- [ ] 8 · Homework
-- [ ] 9 · Check list
-- [ ] 10 · Mini test — stihli / zadáno na doma / nezadáno
+- [ ] 8 · Possessive 's + dny v týdnu
+- [ ] 9 · Homework
+- [ ] 10 · Check list
+- [ ] 11 · Mini test — stihli / zadáno na doma / nezadáno
 
 ## ⏱ Word race
 - Kolo 1: ____ / Kolo 2: ____ / Kolo 3: ____
@@ -30,8 +31,14 @@
 - Plete his / her?
 - Plete its / it's?
 
-## Mini test (strana 10)
-- Kolik z 10:
+## Possessive 's a dny
+- Zvládla 's? (Mel's pen)
+- Chytla se na „Jack and Maya's"?
+- Umí všech sedm dní? Které chyběly:
+- Vyslovuje Wednesday jako [WENZ-dej]?
+
+## Mini test (strana 11)
+- Kolik z 12:
 - Které úkoly nezvládla:
 
 ## Test ve škole

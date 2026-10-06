@@ -273,6 +273,16 @@ h1 span{color:var(--sea)}
 .ci svg{width:15mm;height:15mm;flex:0 0 auto}
 .ci .t b{font-family:'Fredoka',sans-serif;font-weight:600;font-size:15pt;display:block;line-height:1.15}
 .ci .t i{font-size:10.5pt;color:#7A939B;font-style:italic;font-weight:600;display:block;margin-top:.8mm}
+/* --- possessive 's + days --- */
+.poss{flex:1;display:flex;flex-direction:column;justify-content:space-between}
+.pr{display:flex;align-items:center;gap:4mm;border-bottom:.6mm dashed var(--line);padding-bottom:2.5mm}
+.pr .cue{font-family:'Fredoka',sans-serif;font-weight:600;font-size:14pt;color:var(--stamp);
+ width:52mm;flex:0 0 auto}
+.pr .l{flex:1;border-bottom:.6mm solid var(--line);height:10mm}
+.days{flex:1;display:flex;flex-direction:column;justify-content:space-between}
+.day{display:flex;align-items:flex-end;gap:3mm}
+.day b{font-family:'Fredoka',sans-serif;font-weight:600;font-size:17pt;width:8mm;flex:0 0 auto}
+.day .l{flex:1;border-bottom:.6mm solid var(--line);height:10mm}
 /* --- homework --- */
 .hwtop{flex:1;min-height:0;display:grid;grid-template-columns:1.05fr 1fr .9fr;gap:9mm}
 .hwtop>div{display:flex;flex-direction:column}
@@ -445,7 +455,7 @@ h1 span{color:var(--sea)}
 <h1>Ready for<br>the <span>test!</span></h1>
 <div class="namebox"><b>My name is</b><span class="l"></span></div>
 <div class="starrow"><span class="lbl">My stars today</span><svg><use href="#i-star"/></svg><svg><use href="#i-star"/></svg><svg><use href="#i-star"/></svg><svg><use href="#i-star"/></svg><svg><use href="#i-star"/></svg><svg><use href="#i-star"/></svg><svg><use href="#i-star"/></svg><svg><use href="#i-star"/></svg><svg><use href="#i-star"/></svg><svg><use href="#i-star"/></svg></div></div>
-<div class="plan"><div><span class="n">1</span><div class="t">Hello again</div><span class="m">3 min</span></div><div><span class="n">2</span><div class="t">Verb BE</div><span class="m">6 min</span></div><div><span class="n">3</span><div class="t">Word race</div><span class="m">4 min</span></div><div><span class="n">4</span><div class="t">my / his / her</div><span class="m">5 min</span></div><div><span class="n">5</span><div class="t">Questions</div><span class="m">6 min</span></div><div><span class="n">6</span><div class="t">Wh- questions</div><span class="m">4 min</span></div><div><span class="n">7</span><div class="t">Homework</div><span class="m">2 min</span></div></div></div><div class="foot"><span>English &middot; Unit 2 &middot; 6 October</span><span>Lesson 3</span><span>1 / 10</span></div></div>
+<div class="plan"><div><span class="n">1</span><div class="t">Hello again</div><span class="m">3 min</span></div><div><span class="n">2</span><div class="t">Verb BE</div><span class="m">6 min</span></div><div><span class="n">3</span><div class="t">Word race</div><span class="m">3 min</span></div><div><span class="n">4</span><div class="t">my / his / her</div><span class="m">5 min</span></div><div><span class="n">5</span><div class="t">Questions</div><span class="m">6 min</span></div><div><span class="n">6</span><div class="t">Wh- questions</div><span class="m">3 min</span></div><div><span class="n">7</span><div class="t">'s + days</div><span class="m">4 min</span></div><div><span class="n">8</span><div class="t">Homework</div><span class="m">2 min</span></div></div></div><div class="foot"><span>English &middot; Unit 2 &middot; 6 October</span><span>Lesson 3</span><span>1 / 11</span></div></div>
 <div class="page"><div class="airmail"></div>
 <div class="ph"><div class="grp"><span class="no">1</span><h2>Hello again!</h2></div><span class="task">We haven't seen each other for a while. Let's warm up!</span></div>
 <div class="two">
@@ -454,13 +464,13 @@ h1 span{color:var(--sea)}
   <div class="qlist"><div class="ivr"><span class="q">Can you swim?</span><div class="yn"><span class="y">YES</span><span class="n">NO</span></div></div><div class="ivr"><span class="q">Can you cook?</span><div class="yn"><span class="y">YES</span><span class="n">NO</span></div></div><div class="ivr"><span class="q">Can you ride a bike?</span><div class="yn"><span class="y">YES</span><span class="n">NO</span></div></div><div class="ivr"><span class="q">Can you play the piano?</span><div class="yn"><span class="y">YES</span><span class="n">NO</span></div></div>
    <div class="vrow"><b>I can</b><span class="l"></span><b>but I can't</b><span class="l"></span></div>
   </div></section>
-</div><div class="foot"><span>English &middot; Unit 2 &middot; 6 October</span><span>Warm-up</span><span>2 / 10</span></div></div>
+</div><div class="foot"><span>English &middot; Unit 2 &middot; 6 October</span><span>Warm-up</span><span>2 / 11</span></div></div>
 <div class="page"><div class="airmail"></div>
 <div class="ph"><div class="grp"><span class="no">2</span><h2>Verb BE</h2></div><span class="task">Fill in the table. Then complete the sentences &mdash; and say the country!</span></div>
 <div class="two" style="grid-template-columns:1fr 1.15fr">
  <section><table class="gtab"><tr><th>who</th><th>long form</th><th>short form</th></tr><tr><td class="who">I</td><td>am</td><td class="gap"></td></tr><tr><td class="who">He / She / It</td><td>is</td><td class="gap"></td></tr><tr><td class="who">We / You / They</td><td>are</td><td class="gap"></td></tr></table><table class="gtab"><tr><th>who</th><th>negative long</th><th>negative short</th></tr><tr><td class="who">I</td><td>am not</td><td class="gap"></td></tr><tr><td class="who">He / She / It</td><td>is not</td><td class="gap"></td></tr><tr><td class="who">We / You / They</td><td>are not</td><td class="gap"></td></tr></table></section>
  <section><div class="fsent"><div class="fs"><span class="n">1</span><span class="t">This is Rosa. She <u></u> from <u></u></span><svg><use href="#f-it"/></svg></div><div class="fs"><span class="n">2</span><span class="t">I <u></u> from <u></u></span><svg><use href="#f-es"/></svg></div><div class="fs"><span class="n">3</span><span class="t">We <u></u> from <u></u></span><svg><use href="#f-jp"/></svg></div><div class="fs"><span class="n">4</span><span class="t">This is Hans. He <u></u> from <u></u></span><svg><use href="#f-hu"/></svg></div><div class="fs"><span class="n">5</span><span class="t">They <u></u> from <u></u></span><svg><use href="#f-cz"/></svg></div></div></section>
-</div><div class="foot"><span>English &middot; Unit 2 &middot; 6 October</span><span>Grammar</span><span>3 / 10</span></div></div>
+</div><div class="foot"><span>English &middot; Unit 2 &middot; 6 October</span><span>Grammar</span><span>3 / 11</span></div></div>
 <div class="page"><div class="airmail"></div>
 <div class="ph"><div class="grp"><span class="no">3</span><h2>Word race</h2></div><span class="task">Say every word in English. Ready? GO!</span></div>
 <div class="race"><div class="rcell">Británie</div><div class="rcell">Spojené státy</div><div class="rcell">Francie</div><div class="rcell">Itálie</div><div class="rcell">Španělsko</div><div class="rcell">Japonsko</div><div class="rcell">Česká republika</div><div class="rcell">Řecko</div><div class="rcell">matka</div><div class="rcell">otec</div><div class="rcell">sestra</div><div class="rcell">bratr</div><div class="rcell">babička</div><div class="rcell">dědeček</div><div class="rcell">rodiče</div><div class="rcell">děti</div><div class="rcell">teta</div><div class="rcell">strýc</div><div class="rcell">bratranec</div><div class="rcell">dcera</div></div>
@@ -469,7 +479,7 @@ h1 span{color:var(--sea)}
  <div class="sbox"><span class="h">Round 2 &middot; 60 s</span><span class="l"></span></div>
  <div class="sbox"><span class="h">Round 3 &middot; 60 s</span><span class="l"></span></div>
  <div class="sbox rec"><span class="h">&#9733; My best score</span><span class="l"></span></div>
-</div><div class="foot"><span>English &middot; Unit 2 &middot; 6 October</span><span>Speed game</span><span>4 / 10</span></div></div>
+</div><div class="foot"><span>English &middot; Unit 2 &middot; 6 October</span><span>Speed game</span><span>4 / 11</span></div></div>
 <div class="page"><div class="airmail"></div>
 <div class="ph"><div class="grp"><span class="no">4</span><h2>my / your / his / her</h2></div><span class="task">Fill in the table. Then complete the sentences.</span></div>
 <div class="two" style="grid-template-columns:.75fr 1.25fr">
@@ -479,7 +489,7 @@ h1 span{color:var(--sea)}
    <span style="font-size:10pt;color:#7A939B">but</span><br>
    <b style="color:#E4572E">It's</b> my dog. = It is</div></section>
  <section><div class="fsent"><div class="fs"><span class="n">1</span><span class="t">This is my brother. <u></u> name's Joe.</span></div><div class="fs"><span class="n">2</span><span class="t">These are my parents. <u></u> names are Mary and Jack.</span></div><div class="fs"><span class="n">3</span><span class="t">I've got a dog. <u></u> name's Buddy.</span></div><div class="fs"><span class="n">4</span><span class="t">This is Millie. <u></u> dog is Mut.</span></div><div class="fs"><span class="n">5</span><span class="t">We're in Class 7. <u></u> teacher is Mr Brown.</span></div><div class="fs"><span class="n">6</span><span class="t">What's <u></u> name? I'm Rozárka.</span></div></div></section>
-</div><div class="foot"><span>English &middot; Unit 2 &middot; 6 October</span><span>Grammar</span><span>5 / 10</span></div></div>
+</div><div class="foot"><span>English &middot; Unit 2 &middot; 6 October</span><span>Grammar</span><span>5 / 11</span></div></div>
 <div class="page"><div class="airmail"></div>
 <div class="ph"><div class="grp"><span class="no">5</span><h2>Questions and short answers</h2></div><span class="task">Circle YES or NO. Then say the whole short answer out loud.</span></div>
 <div class="two" style="grid-template-columns:1.25fr .75fr">
@@ -490,7 +500,7 @@ h1 span{color:var(--sea)}
    Yes, he's. &nbsp; Yes, they're.</div>
   <div class="callout">No, he <b>isn't</b>.<br>No, they <b>aren't</b>.</div>
  </section>
-</div><div class="foot"><span>English &middot; Unit 2 &middot; 6 October</span><span>Speaking</span><span>6 / 10</span></div></div>
+</div><div class="foot"><span>English &middot; Unit 2 &middot; 6 October</span><span>Speaking</span><span>6 / 11</span></div></div>
 <div class="page"><div class="airmail"></div>
 <div class="ph"><div class="grp"><span class="no">6</span><h2>Wh- questions</h2></div><span class="task">Draw a line: question &rarr; answer. Then answer about YOU.</span></div>
 <div class="match"><div class="mq">What's your name?</div><div class="ma">I'm eleven.</div><div class="mq">Where are you from?</div><div class="ma">It's my sister's.</div><div class="mq">How old are you?</div><div class="ma">My name's Rozárka.</div><div class="mq">When is your birthday?</div><div class="ma">Mrs Nováková.</div><div class="mq">Who is your teacher?</div><div class="ma">I'm from the Czech Republic.</div><div class="mq">Whose dog is it?</div><div class="ma">It's on 5th May.</div></div>
@@ -498,7 +508,20 @@ h1 span{color:var(--sea)}
  <div class="sbox"><span class="h">What's your name?</span><span class="l"></span></div>
  <div class="sbox"><span class="h">How old are you?</span><span class="l"></span></div>
  <div class="sbox"><span class="h">When is your birthday?</span><span class="l"></span></div>
-</div><div class="foot"><span>English &middot; Unit 2 &middot; 6 October</span><span>Speaking</span><span>7 / 10</span></div></div>
+</div><div class="foot"><span>English &middot; Unit 2 &middot; 6 October</span><span>Speaking</span><span>7 / 11</span></div></div>
+<div class="page"><div class="airmail"></div>
+<div class="ph"><div class="grp"><span class="no">7</span><h2>Possessive 's and days</h2></div><span class="task">Whose is it? Write the sentence. Then write all seven days.</span></div>
+<div class="two">
+ <section><div class="sub">Whose is it? &mdash; write sentences</div>
+  <div class="callout" style="margin-bottom:4mm;font-size:13pt">
+   Mel <b style="color:#0F8B8D">+ 's</b> &rarr; This is <b style="color:#0F8B8D">Mel's</b> pen.</div>
+  <div class="poss"><div class="pr"><span class="cue">Mel / pen</span><span class="l"></span></div><div class="pr"><span class="cue">Joe / watch</span><span class="l"></span></div><div class="pr"><span class="cue">Jack and Maya / dog</span><span class="l"></span></div><div class="pr"><span class="cue">Lin / book</span><span class="l"></span></div><div class="pr"><span class="cue">Granddad and Grandma / house</span><span class="l"></span></div></div></section>
+ <section><div class="sub">Days of the week</div>
+  <div class="days"><div class="day"><b>M</b><span class="l"></span></div><div class="day"><b>T</b><span class="l"></span></div><div class="day"><b>W</b><span class="l"></span></div><div class="day"><b>T</b><span class="l"></span></div><div class="day"><b>F</b><span class="l"></span></div><div class="day"><b>S</b><span class="l"></span></div><div class="day"><b>S</b><span class="l"></span></div>
+   <div class="vrow"><b>Today is</b><span class="l"></span></div>
+   <div class="vrow"><b>My birthday is on</b><span class="l"></span></div>
+  </div></section>
+</div><div class="foot"><span>English &middot; Unit 2 &middot; 6 October</span><span>Grammar</span><span>8 / 11</span></div></div>
 <div class="page"><div class="airmail"></div>
 <div class="ph"><div class="grp"><span class="no">7</span><h2>Homework</h2></div><span class="task">See you next week &mdash; and good luck in the test!</span></div>
 <div class="hwtop">
@@ -506,13 +529,13 @@ h1 span{color:var(--sea)}
  <div><h3><span class="num">2</span>Write 3 sentences</h3><div class="starter">I'm from …</div><div class="wl short"></div><div class="starter">My mum is …</div><div class="wl short"></div><div class="starter">My best friend isn't …</div><div class="wl short"></div></div>
  <div><h3><span class="num">3</span>Draw &amp; label</h3>
   <div class="draw2"><span>Draw your family &middot; write one sentence<br>with HIS, HER or THEIR</span></div></div>
-</div><div class="foot"><span>English &middot; Unit 2 &middot; 6 October</span><span>Homework</span><span>8 / 10</span></div></div>
+</div><div class="foot"><span>English &middot; Unit 2 &middot; 6 October</span><span>Homework</span><span>9 / 11</span></div></div>
 <div class="page"><div class="airmail"></div>
-<div class="ph"><div class="grp"><span class="no">8</span><h2>What I can do now</h2></div><span class="task">Colour a star for every YES! Be honest &mdash; it shows us what to practise.</span></div>
-<div class="check"><div class="clist"><div class="ci"><svg><use href="#i-star"/></svg><span class="t"><b>I can use am / is / are.</b><i>Umím použít am, is, are.</i></span></div><div class="ci"><svg><use href="#i-star"/></svg><span class="t"><b>I can make short forms: I'm, he's, we're.</b><i>Umím krátké tvary.</i></span></div><div class="ci"><svg><use href="#i-star"/></svg><span class="t"><b>I can make negatives: isn't, aren't.</b><i>Umím zápor.</i></span></div><div class="ci"><svg><use href="#i-star"/></svg><span class="t"><b>I can ask: Are you…? Is he…?</b><i>Umím se zeptat.</i></span></div><div class="ci"><svg><use href="#i-star"/></svg><span class="t"><b>I can answer: Yes, he is. / No, he isn't.</b><i>Umím krátce odpovědět.</i></span></div><div class="ci"><svg><use href="#i-star"/></svg><span class="t"><b>I can use my, his, her, its, our, their.</b><i>Umím přivlastňovací zájmena.</i></span></div><div class="ci"><svg><use href="#i-star"/></svg><span class="t"><b>I can ask Wh- questions: What? Where? How old?</b><i>Umím otázky s What, Where, How old.</i></span></div><div class="ci"><svg><use href="#i-star"/></svg><span class="t"><b>I know 8 countries and 10 family words.</b><i>Znám země a slovíčka o rodině.</i></span></div></div></div>
-<div class="foot"><span>English &middot; Unit 2 &middot; 6 October</span><span>Check</span><span>9 / 10</span></div></div>
+<div class="ph"><div class="grp"><span class="no">9</span><h2>What I can do now</h2></div><span class="task">Colour a star for every YES! Be honest &mdash; it shows us what to practise.</span></div>
+<div class="check"><div class="clist"><div class="ci"><svg><use href="#i-star"/></svg><span class="t"><b>I can use am / is / are.</b><i>Umím použít am, is, are.</i></span></div><div class="ci"><svg><use href="#i-star"/></svg><span class="t"><b>I can make short forms: I'm, he's, we're.</b><i>Umím krátké tvary.</i></span></div><div class="ci"><svg><use href="#i-star"/></svg><span class="t"><b>I can make negatives: isn't, aren't.</b><i>Umím zápor.</i></span></div><div class="ci"><svg><use href="#i-star"/></svg><span class="t"><b>I can ask: Are you…? Is he…?</b><i>Umím se zeptat.</i></span></div><div class="ci"><svg><use href="#i-star"/></svg><span class="t"><b>I can answer: Yes, he is. / No, he isn't.</b><i>Umím krátce odpovědět.</i></span></div><div class="ci"><svg><use href="#i-star"/></svg><span class="t"><b>I can use my, his, her, its, our, their.</b><i>Umím přivlastňovací zájmena.</i></span></div><div class="ci"><svg><use href="#i-star"/></svg><span class="t"><b>I can ask Wh- questions: What? Where? How old?</b><i>Umím otázky s What, Where, How old.</i></span></div><div class="ci"><svg><use href="#i-star"/></svg><span class="t"><b>I know 8 countries and 10 family words.</b><i>Znám země a slovíčka o rodině.</i></span></div><div class="ci"><svg><use href="#i-star"/></svg><span class="t"><b>I can use 's: This is Mel's pen.</b><i>Umím přivlastňovací 's.</i></span></div><div class="ci"><svg><use href="#i-star"/></svg><span class="t"><b>I know all seven days of the week.</b><i>Znám všech sedm dní v týdnu.</i></span></div></div></div>
+<div class="foot"><span>English &middot; Unit 2 &middot; 6 October</span><span>Check</span><span>10 / 11</span></div></div>
 <div class="page"><div class="airmail"></div>
-<div class="ph"><div class="grp"><span class="no">&#9733;</span><h2>Mini test</h2></div><span class="task">Ten questions, like in the Progress check. No help &mdash; try it alone!</span></div>
-<div class="mt"><div class="mti"><span class="n">1</span><span class="t">I <u></u> from Brno.</span></div><div class="mti"><span class="n">2</span><span class="t">She <u></u> from Spain. (NOT)</span></div><div class="mti"><span class="n">3</span><span class="t"><u></u> you twelve?</span></div><div class="mti"><span class="n">4</span><span class="t">This is my brother. <u></u> name's Tom.</span></div><div class="mti"><span class="n">5</span><span class="t">Where <u></u> you from?</span></div><div class="mti"><span class="n">6</span><span class="t"><u></u> old are you?</span></div><div class="mti"><span class="n">7</span><span class="t">We <u></u> in the garden.</span></div><div class="mti"><span class="n">8</span><span class="t">Is Paul your friend? No, he <u></u>.</span></div><div class="mti"><span class="n">9</span><span class="t">This is Millie. <u></u> dog is Mut.</span></div><div class="mti"><span class="n">10</span><span class="t"><u></u> is your birthday?</span></div></div>
+<div class="ph"><div class="grp"><span class="no">&#9733;</span><h2>Mini test</h2></div><span class="task">Twelve questions, like in the Progress check. No help &mdash; try it alone!</span></div>
+<div class="mt"><div class="mti"><span class="n">1</span><span class="t">I <u></u> from Brno.</span></div><div class="mti"><span class="n">2</span><span class="t">She <u></u> from Spain. (NOT)</span></div><div class="mti"><span class="n">3</span><span class="t"><u></u> you twelve?</span></div><div class="mti"><span class="n">4</span><span class="t">This is my brother. <u></u> name's Tom.</span></div><div class="mti"><span class="n">5</span><span class="t">Where <u></u> you from?</span></div><div class="mti"><span class="n">6</span><span class="t"><u></u> old are you?</span></div><div class="mti"><span class="n">7</span><span class="t">We <u></u> in the garden.</span></div><div class="mti"><span class="n">8</span><span class="t">Is Paul your friend? No, he <u></u>.</span></div><div class="mti"><span class="n">9</span><span class="t">This is Millie. <u></u> dog is Mut.</span></div><div class="mti"><span class="n">10</span><span class="t"><u></u> is your birthday?</span></div><div class="mti"><span class="n">11</span><span class="t">This is Mel. It's <u></u> pen. (Mel + 's)</span></div><div class="mti"><span class="n">12</span><span class="t">After Monday it's <u></u>.</span></div></div>
 <div class="bye" style="margin-top:4mm">Good luck! You can do it!</div>
-<div class="foot"><span>English &middot; Unit 2 &middot; 6 October</span><span>Mini test</span><span>10 / 10</span></div></div>
+<div class="foot"><span>English &middot; Unit 2 &middot; 6 October</span><span>Mini test</span><span>11 / 11</span></div></div>

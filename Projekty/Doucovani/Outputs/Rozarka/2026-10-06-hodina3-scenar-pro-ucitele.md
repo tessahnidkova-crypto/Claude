@@ -1,22 +1,24 @@
 # Scénář hodiny 3 · 2026-10-06 — Unit 2: ready for the test (30 min)
 
-**Co promítat:** `2026-10-06-hodina3-unit2-test-practice.pdf` (10 stran, A4 na šířku) — GoodNotes, sdílej okno.
-**Co mít vedle sebe:** `2026-10-06-hodina3-METODIKA-cviceni.pdf` (15 stran). **Nesdílej ji.**
+**Co promítat:** `2026-10-06-hodina3-unit2-test-practice.pdf` (11 stran, A4 na šířku) — GoodNotes, sdílej okno.
+**Co mít vedle sebe:** `2026-10-06-hodina3-METODIKA-cviceni.pdf` (17 stran). **Nesdílej ji.**
 **Co poslat Rozárce domů:** `2026-10-06-hodina3-UKOL-pro-Rozarku.pdf` (1 strana).
 
 ---
 
 ## Z čeho hodina vychází
 
-Učebnice **Project 1, Unit 2 — Friends and family** (fotky v `Inputs/Rozarka/`). Hodina pokrývá přesně to, co je v **Progress checku** a **Self-assessmentu**:
+Učebnice **Project 1, Unit 2 — Friends and family** — učebnice, workbook, Revision i slovníček (40 fotek v `Inputs/Rozarka/`).
+**Výslovnost v metodice je ověřená proti slovníčku na str. 97** — proto *Hungary* [HAN-ge-ry], ne „hungary", a *aunt* [ánt], ne „ent". Hodina pokrývá přesně to, co je v **Progress checku** a **Self-assessmentu**:
 
 | Učebnice | Co z toho je v hodině |
 |---|---|
 | 2A — countries, verb *be* | strana 3 (tabulka + věty s vlajkami), strana 4 (země) |
 | 2B — family, possessive adjectives | strana 4 (rodina), strana 5 (my/his/her) |
 | 2C — *be* questions, short answers | strana 6 |
-| 2D — Wh- questions | strana 7 |
-| Progress check | strana 10 (mini test, 10 úkolů ve stejném stylu) |
+| 2D — Wh- questions, days of the week | strana 7, strana 8 |
+| 2B/Revision — possessive 's | strana 8 |
+| Progress check | strana 11 (mini test, 12 úkolů ve stejném stylu) |
 
 **Dvě věci, které hodinu tvarují:**
 1. **Tři týdny pauza** — první blok je rozmluvení, ne výkon.
@@ -30,13 +32,14 @@ Učebnice **Project 1, Unit 2 — Friends and family** (fotky v `Inputs/Rozarka/
 |---|---|---|
 | 2 | Hello again + oživení CAN | 3 |
 | 3 | **Verb BE** — tabulka + věty s vlajkami | 6 |
-| 4 | Word race (20 slov z unitu 2) | 4 |
+| 4 | Word race (20 slov z unitu 2) | 3 |
 | 5 | my / your / his / her | 5 |
 | 6 | Questions + short answers | 6 |
-| 7 | Wh- questions | 4 |
-| 8 | Homework | 2 |
-| 9 | Check list — co na test umím | 1 |
-| 10 | Mini test — bonus / na doma | — |
+| 7 | Wh- questions | 3 |
+| **8** | **Possessive 's + dny v týdnu** | **4** |
+| 9 | Homework | 2 |
+| 10 | Check list — co na test umím | 1 |
+| 11 | Mini test — bonus / na doma | — |
 
 ---
 
@@ -65,9 +68,14 @@ Učebnice **Project 1, Unit 2 — Friends and family** (fotky v `Inputs/Rozarka/
 
 **Strana 7 (Wh-).** Chyták je **Who** (kdo) vs. **Whose** (čí). Zní skoro stejně, význam je jiný.
 
-**Strana 9 (check list).** Vyfoť si ji po hodině. Prázdné hvězdy jsou plán na příští hodinu.
+**Strana 8 (possessive 's + dny).** Doplněno podle druhé dávky fotek — obojí je v Revision i v Self-assessmentu, takže to v testu bude.
+- `'s` se lepí na **majitele**: *Mel + 's → Mel's pen*.
+- U dvou jmen jen na poslední: *Jack and Maya**'s** dog*.
+- **Wednesday [WENZ-dej]** — první *d* se nevyslovuje. Vyslovte to třikrát.
 
-**Strana 10 (mini test).** Bonus. Když zbyde pět minut, udělejte ho spolu; jinak na doma. **Neopravuj ho na známku** — je to nácvik, ne zkouška.
+**Strana 10 (check list).** Vyfoť si ji po hodině. Prázdné hvězdy jsou plán na příští hodinu.
+
+**Strana 11 (mini test).** Bonus. Když zbyde pět minut, udělejte ho spolu; jinak na doma. **Neopravuj ho na známku** — je to nácvik, ne zkouška.
 
 ---
 
@@ -75,11 +83,11 @@ Učebnice **Project 1, Unit 2 — Friends and family** (fotky v `Inputs/Rozarka/
 
 | Situace | Co udělat |
 |---|---|
-| Zbývá 10 minut a jsi u strany 5 | Přeskoč stranu 7. Strany 6 (krátké odpovědi) a 9 (check list) jsou pro test důležitější. |
+| Zbývá 10 minut a jsi u strany 5 | Přeskoč stranu 7. Strany 6 (krátké odpovědi), 8 ('s + dny) a 10 (check list) jsou pro test důležitější. |
 | Po pauze se nerozjíždí | Dvě minuty česky o škole nejsou ztráta času. Pak teprve angličtina. |
 | Plete si *can* a *be* | Čekané. Ukaž tabulku na straně 3 a jeď dál. |
 | Vybarví všechny hvězdy bez rozmyslu | Zeptej se na jednu konkrétní: *„Say a negative sentence."* Teprve pak je hvězda zasloužená. |
-| Je nervózní z testu | Strana 10 ji uklidní víc než cokoli jiného — uvidí, že to zná. Skonči tím. |
+| Je nervózní z testu | Strana 11 ji uklidní víc než cokoli jiného — uvidí, že to zná. Skonči tím. |
 
 ## Po hodině
-Vyplň `Feedback/Rozarka/2026-10-06-jak-to-dopadlo.md` — hlavně **prázdné hvězdy z check listu** a **slova z Word race, která neuměla**.
+Vyplň `Feedback/Rozarka/2026-10-06-jak-to-dopadlo.md` — hlavně **prázdné hvězdy z check listu (strana 10)** a **slova z Word race, která neuměla**.

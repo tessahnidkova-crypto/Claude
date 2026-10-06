@@ -79,7 +79,11 @@ CVICENI = [
    "<b>1.</b> Britain &middot; the USA &middot; France &middot; Italy &middot; Spain<br>"
    "<b>2.</b> Japan &middot; the Czech Republic &middot; Greece &middot; mother &middot; father<br>"
    "<b>3.</b> sister &middot; brother &middot; grandmother &middot; grandfather &middot; parents<br>"
-   "<b>4.</b> children &middot; aunt &middot; uncle &middot; cousin &middot; daughter")],
+   "<b>4.</b> children &middot; aunt &middot; uncle &middot; cousin &middot; daughter"),
+  ("⚠️ Výslovnost &mdash; ověřeno proti slovníčku v učebnici (str. 97)",
+   "<b>Hungary [HAN-ge-ry]</b> &mdash; ne „hungary“ &middot; <b>aunt [ánt]</b> &mdash; ne „ent“ &middot; "
+   "<b>uncle [ANKL]</b> &middot; <b>cousin [KAZN]</b> &middot; <b>daughter [DÓ-tr]</b> &middot; "
+   "<b>Greece [grís]</b> &middot; <b>Italy [I-te-ly]</b>")],
  "Zkrať na 30 sekund a počítej jen první dvě řady.",
  "Ať u zemí přidá celou větu: <b>I'm from Italy.</b>"),
 
@@ -175,7 +179,42 @@ CVICENI = [
  "Přečti otázku nahlas a ukaž na dvě možné odpovědi &mdash; ať vybere z dvou.",
  "Zakryj odpovědi a ať odpovídá rovnou o sobě."),
 
-("8-10","Homework, check list a mini test","2 min + rezerva",
+("8","Possessive 's a dny v týdnu","4 min",
+ "Dvě věci, které jsou v Revision i v Self-assessmentu, a dosud jsme je neprobírali.",
+ [("Whose is it?","húz iz it","Čí to je?"),
+  ("Mel plus 's.","mel plas es","Mel a 's."),
+  ("Write the sentence.","rajt ď SENTNS","Napiš tu větu."),
+  ("Now the days of the week.","nau ď dejz ov ď wík","Teď dny v týdnu."),
+  ("What day is it today?","wot dej iz it tu-DEJ","Jaký je dnes den?")],
+ [("Whose bag is this?","húz beg iz dis","Čí je tahle taška?"),
+  ("It's mine!","ic majn","Je moje!"),
+  ("Say the days again, faster.","sej ď dejz e-GEJN FÁS-tr","Řekni dny znovu, rychleji."),
+  ("What's your favourite day?","wots jor FEJ-vrit dej","Který den máš nejradši?"),
+  ("When is your mum's birthday?","wen iz jor mamz BÉRTH-dej","Kdy má máma narozeniny?"),
+  ("Backwards! Sunday, Saturday…","BEK-vrdz","Pozpátku!")],
+ [("<b>'s</b> se lepí na <u>majitele</u>, ne na tu věc.",
+   "Mel <b>+ 's</b> &rarr; <b>Mel's</b> pen. Česky „Melina propiska“ &mdash; koncovka je u Mel, ne u propisky."),
+  ("U dvou jmen jde <b>'s</b> jen na to poslední.",
+   "<i>Jack and Maya<b>'s</b> dog</i> &mdash; ne <i>Jack's and Maya's</i>. Stejně "
+   "<i>Granddad and Grandma<b>'s</b> house</i>. V Revision je to cvičení 6."),
+  ("⚠️ <b>Mel's</b> má dva významy.",
+   "<i>Mel<b>'s</b> pen</i> = Melina propiska (přivlastňovací) &middot; <i>Mel<b>'s</b> twelve</i> = Mel is twelve. "
+   "Pozná se to z toho, co následuje. Na tohle se v testu chytají."),
+  ("Dny: vždycky <b>velké písmeno</b> a předložka <b>on</b>.",
+   "<i>Monday, Tuesday…</i> &mdash; v češtině malé, v angličtině velké. "
+   "A „v pondělí“ = <b>on</b> Monday.<br>"
+   "⚠️ <b>Wednesday</b> se čte <b>[WENZ-dej]</b> &mdash; první <i>d</i> se nevyslovuje.")],
+ [("Klíč &mdash; possessive 's",
+   "This is <b>Mel's</b> pen. &middot; This is <b>Joe's</b> watch. &middot; "
+   "This is <b>Jack and Maya's</b> dog. &middot; This is <b>Lin's</b> book. &middot; "
+   "This is <b>Granddad and Grandma's</b> house."),
+  ("Klíč &mdash; dny s výslovností",
+   "Monday [MAN-dej] &middot; Tuesday [TJÚZ-dej] &middot; <b>Wednesday [WENZ-dej]</b> &middot; "
+   "Thursday [THÉRZ-dej] &middot; Friday [FRAJ-dej] &middot; Saturday [SE-tr-dej] &middot; Sunday [SAN-dej]")],
+ "Dny napiš ty a nech ji jen přečíst nahlas. Psaní nech na doma.",
+ "Ať řekne dny <b>pozpátku</b> a pak <i>„My birthday is on…“</i>."),
+
+("9-11","Homework, check list a mini test","2 min + rezerva",
  "Odejít s úkolem a s tím, že sama ví, co na test umí a co ne.",
  [("This is your homework.","dis iz jor HOUM-vérk","Tohle je tvůj domácí úkol."),
   ("Learn these six words.","lérn dýz siks vérdz","Nauč se těchhle šest slovíček."),
@@ -268,7 +307,19 @@ DIALOGY = {
  ("Where <u>you are</u> from?","Where <b>are you</b> from?","Zapomene prohodit pořadí po tázacím slově."),
  ("How old <u>you</u>?","How old <b>are</b> you?","Vynechá <i>are</i> &mdash; zase ta česká chyba s vynechaným slovesem.")]),
 
-"8-10": ([("TY","Can you tell me the homework?","ken jú tel mí ď HOUM-vérk",""),
+"8": ([("TY","Whose is it? Mel plus 's.","húz iz it",""),
+ ("ONA","This is Mel's pen.","dis iz melz pen","Tohle je Melina propiska."),
+ ("TY","And Jack and Maya?","end džek end MA-ja",""),
+ ("ONA","This is Jack and Maya's dog.","dis iz džek end MA-jaz dog","Tohle je Jackův a Mayin pes."),
+ ("TY","Now the days. What's after Monday?","wots ÁF-tr MAN-dej",""),
+ ("ONA","Tuesday.","TJÚZ-dej","Úterý."),
+ ("TY","And what day is it today?","wot dej iz it tu-DEJ",""),
+ ("ONA","It's Wednesday.","ic WENZ-dej","Je středa.")],
+[("This is <u>Mel pen</u>.","This is <b>Mel's</b> pen.","Zapomene 's. Ukaž na rámeček nahoře."),
+ ("<u>Jack's and Maya's</u> dog","<b>Jack and Maya's</b> dog","U dvou jmen jen na posledním."),
+ ("[WED-nes-dej]","[<b>WENZ-dej</b>]","První <i>d</i> se nevyslovuje. Tohle slovo vyslov nahlas třikrát.")]),
+
+"9-11": ([("TY","Can you tell me the homework?","ken jú tel mí ď HOUM-vérk",""),
  ("ONA","Six words and three sentences.","siks vérdz end thrí SENTN-siz","Šest slovíček a tři věty."),
  ("TY","Now the check list. Be honest!","nau ď ček list. bí O-nist",""),
  ("ONA","(vybarvuje hvězdy)","","U čeho hvězdu nevybarví, tam začneme příště."),
@@ -309,9 +360,14 @@ POSTUP = {
  "Zvlášť se zastav u <b>Who</b> a <b>Whose</b> &mdash; to je ten chyták.",
  "Dole jsou tři políčka: ať odpoví <b>sama za sebe</b> a napíše to.",
  "Na konec: <i>„Ask me three questions.“</i>"],
-"8-10": ["Projděte stranu 8 &mdash; šest slovíček, tři věty, kresba rodiny.",
+"8": ["Ukaž rámeček nahoře: <b>Mel + 's &rarr; Mel's pen</b>. Jedna věta vysvětlení stačí.",
+ "Projděte pět zadání. <b>Ústně nejdřív</b>, teprve pak ať píše.",
+ "U <i>Jack and Maya</i> se zastav &mdash; <b>'s</b> jde jen na poslední jméno.",
+ "Přepni na dny. Napiš je ty a nech ji je <b>přečíst nahlas</b> &mdash; tohle je o výslovnosti, ne o psaní.",
+ "<b>Wednesday</b> vyslovte třikrát: [WENZ-dej]. Pak <i>„What day is it today?“</i>"],
+"9-11": ["Projděte stranu 9 &mdash; šest slovíček, tři věty, kresba rodiny.",
  "<i>„Can you tell me the homework?“</i> Ať ho zopakuje vlastními slovy.",
- "<b>Strana 9 &mdash; check list.</b> Vybarví hvězdu u všeho, co umí. Řekni jí, ať je upřímná.",
- "<b>Vyfoť si stranu 9</b> nebo si opiš prázdné hvězdy &mdash; to je plán na příští hodinu.",
- "Zbyl čas? Strana 10 &mdash; mini test. Jinak ho zadej na doma."],
+ "<b>Strana 10 &mdash; check list.</b> Vybarví hvězdu u všeho, co umí. Řekni jí, ať je upřímná.",
+ "<b>Vyfoť si stranu 10</b> nebo si opiš prázdné hvězdy &mdash; to je plán na příští hodinu.",
+ "Zbyl čas? Strana 11 &mdash; mini test. Jinak ho zadej na doma."],
 }

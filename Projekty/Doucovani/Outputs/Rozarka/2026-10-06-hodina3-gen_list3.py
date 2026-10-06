@@ -73,6 +73,16 @@ EXTRA = '''
 .ci svg{width:15mm;height:15mm;flex:0 0 auto}
 .ci .t b{font-family:'Fredoka',sans-serif;font-weight:600;font-size:15pt;display:block;line-height:1.15}
 .ci .t i{font-size:10.5pt;color:#7A939B;font-style:italic;font-weight:600;display:block;margin-top:.8mm}
+/* --- possessive 's + days --- */
+.poss{flex:1;display:flex;flex-direction:column;justify-content:space-between}
+.pr{display:flex;align-items:center;gap:4mm;border-bottom:.6mm dashed var(--line);padding-bottom:2.5mm}
+.pr .cue{font-family:'Fredoka',sans-serif;font-weight:600;font-size:14pt;color:var(--stamp);
+ width:52mm;flex:0 0 auto}
+.pr .l{flex:1;border-bottom:.6mm solid var(--line);height:10mm}
+.days{flex:1;display:flex;flex-direction:column;justify-content:space-between}
+.day{display:flex;align-items:flex-end;gap:3mm}
+.day b{font-family:'Fredoka',sans-serif;font-weight:600;font-size:17pt;width:8mm;flex:0 0 auto}
+.day .l{flex:1;border-bottom:.6mm solid var(--line);height:10mm}
 /* --- homework --- */
 .hwtop{flex:1;min-height:0;display:grid;grid-template-columns:1.05fr 1fr .9fr;gap:9mm}
 .hwtop>div{display:flex;flex-direction:column}
@@ -91,10 +101,10 @@ EXTRA = '''
 .draw2 span{font-size:9.5pt;color:#7A939B;font-weight:700;letter-spacing:.06em;text-transform:uppercase;line-height:1.4}
 '''
 
-PLAN = [("1","Hello again","3 min"),("2","Verb BE","6 min"),("3","Word race","4 min"),
-        ("4","my / his / her","5 min"),("5","Questions","6 min"),("6","Wh- questions","4 min"),
-        ("7","Homework","2 min")]
-TOT = 10
+PLAN = [("1","Hello again","3 min"),("2","Verb BE","6 min"),("3","Word race","3 min"),
+        ("4","my / his / her","5 min"),("5","Questions","6 min"),("6","Wh- questions","3 min"),
+        ("7","'s + days","4 min"),("8","Homework","2 min")]
+TOT = 11
 
 CAN_Q = ["Can you swim?","Can you cook?","Can you ride a bike?","Can you play the piano?"]
 BE_POS = [("I","am","I'm"),("He / She / It","is","he's"),("We / You / They","are","we're")]
@@ -124,7 +134,8 @@ WHA = ["My name's Rozárka.","I'm from the Czech Republic.","I'm eleven.",
 MT = ["I <u></u> from Brno.","She <u></u> from Spain. (NOT)","<u></u> you twelve?",
       "This is my brother. <u></u> name's Tom.","Where <u></u> you from?","<u></u> old are you?",
       "We <u></u> in the garden.","Is Paul your friend? No, he <u></u>.",
-      "This is Millie. <u></u> dog is Mut.","<u></u> is your birthday?"]
+      "This is Millie. <u></u> dog is Mut.","<u></u> is your birthday?",
+      "This is Mel. It's <u></u> pen. (Mel + 's)","After Monday it's <u></u>."]
 HW_W = [("mother","MA-dr","matka"),("father","FÁ-dr","otec"),("parents","PE-rnts","rodiče"),
         ("children","ČIL-drn","děti"),("cousin","KA-zn","bratranec / sestřenice"),
         ("Whose?","húz","Čí?")]
@@ -135,7 +146,9 @@ CHECK = [("I can use am / is / are.","Umím použít am, is, are."),
          ("I can answer: Yes, he is. / No, he isn't.","Umím krátce odpovědět."),
          ("I can use my, his, her, its, our, their.","Umím přivlastňovací zájmena."),
          ("I can ask Wh- questions: What? Where? How old?","Umím otázky s What, Where, How old."),
-         ("I know 8 countries and 10 family words.","Znám země a slovíčka o rodině.")]
+         ("I know 8 countries and 10 family words.","Znám země a slovíčka o rodině."),
+         ("I can use 's: This is Mel's pen.","Umím přivlastňovací 's."),
+         ("I know all seven days of the week.","Znám všech sedm dní v týdnu.")]
 
 def sprite():
     p=['<svg width="0" height="0" style="position:absolute" aria-hidden="true"><defs>']
@@ -253,7 +266,27 @@ H.append(f'''<div class="page"><div class="airmail"></div>
  <div class="sbox"><span class="h">When is your birthday?</span><span class="l"></span></div>
 </div>{foot(7,"Speaking")}</div>''')
 
-# 8 homework
+
+# 8 possessive 's + days of the week
+CUES=[("Mel / pen","This is Mel's pen."),("Joe / watch",""),("Jack and Maya / dog",""),
+      ("Lin / book",""),("Granddad and Grandma / house","")]
+pr="".join('<div class="pr"><span class="cue">%s</span><span class="l"></span></div>'%c for c,_ in CUES)
+dys="".join('<div class="day"><b>%s</b><span class="l"></span></div>'%d for d in ["M","T","W","T","F","S","S"])
+H.append(f'''<div class="page"><div class="airmail"></div>
+{head("7","Possessive 's and days","Whose is it? Write the sentence. Then write all seven days.")}
+<div class="two">
+ <section><div class="sub">Whose is it? &mdash; write sentences</div>
+  <div class="callout" style="margin-bottom:4mm;font-size:13pt">
+   Mel <b style="color:#0F8B8D">+ 's</b> &rarr; This is <b style="color:#0F8B8D">Mel's</b> pen.</div>
+  <div class="poss">{pr}</div></section>
+ <section><div class="sub">Days of the week</div>
+  <div class="days">{dys}
+   <div class="vrow"><b>Today is</b><span class="l"></span></div>
+   <div class="vrow"><b>My birthday is on</b><span class="l"></span></div>
+  </div></section>
+</div>{foot(8,"Grammar")}</div>''')
+
+# 9 homework
 voc="".join('<div class="r"><span class="w"><b>%s</b><span>[%s]</span></span><span class="l"></span></div>'%(e,p)
             for e,p,c in HW_W)
 ST=["I'm from …","My mum is …","My best friend isn't …"]
@@ -265,24 +298,24 @@ H.append(f'''<div class="page"><div class="airmail"></div>
  <div><h3><span class="num">2</span>Write 3 sentences</h3>{sts}</div>
  <div><h3><span class="num">3</span>Draw &amp; label</h3>
   <div class="draw2"><span>Draw your family &middot; write one sentence<br>with HIS, HER or THEIR</span></div></div>
-</div>{foot(8,"Homework")}</div>''')
+</div>{foot(9,"Homework")}</div>''')
 
-# 9 check list
+# 10 check list
 chk="".join('<div class="ci"><svg><use href="#i-star"/></svg>'
             '<span class="t"><b>%s</b><i>%s</i></span></div>'%c for c in CHECK)
 H.append(f'''<div class="page"><div class="airmail"></div>
-{head("8","What I can do now","Colour a star for every YES! Be honest &mdash; it shows us what to practise.")}
+{head("9","What I can do now","Colour a star for every YES! Be honest &mdash; it shows us what to practise.")}
 <div class="check"><div class="clist">{chk}</div></div>
-{foot(9,"Check")}</div>''')
+{foot(10,"Check")}</div>''')
 
-# 10 mini test
+# 11 mini test
 mt="".join('<div class="mti"><span class="n">%d</span><span class="t">%s</span></div>'%(i,t)
            for i,t in enumerate(MT,1))
 H.append(f'''<div class="page"><div class="airmail"></div>
-{head("&#9733;","Mini test","Ten questions, like in the Progress check. No help &mdash; try it alone!")}
+{head("&#9733;","Mini test","Twelve questions, like in the Progress check. No help &mdash; try it alone!")}
 <div class="mt">{mt}</div>
 <div class="bye" style="margin-top:4mm">Good luck! You can do it!</div>
-{foot(10,"Mini test")}</div>''')
+{foot(11,"Mini test")}</div>''')
 
 out=os.path.join(sp,"list3.html")
 open(out,"w",encoding='utf-8').write("\n".join(H))
