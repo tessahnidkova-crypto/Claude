@@ -17,6 +17,8 @@ Tessa doučuje. Tenhle projekt drží přípravy na hodiny, materiály a zpětno
   - **Levá strana = co říkáš ty:** cíl jednou větou · **jak na to krok za krokem** (5–6 očíslovaných kroků: co dělat první, co druhé, kdy se přestane mluvit a začne psát) · pokyny · *co můžeš říct navíc* (6 rozšiřujících frází) · klíč · co dělat, když jí to nejde / jde moc snadno.
   - **Kroky jsou povinné.** Fráze samy o sobě neřeknou, v jakém pořadí cvičení proběhne — a Tessa to za běhu vymýšlet nemá.
   - **Pravá strana = co řekne ona:** *modelový dialog* (střídavě TY / ONA, s výslovností a překladem) · *co řekne špatně* a co s tím · *gramatika za tím*.
+  - **Ke každé hodině patří i ŘEŠENÍ na dvou stranách** — klíč ke všem cvičením pohromadě, aby Tessa při hodině nelistovala metodikou. Metodika je na přípravu, řešení na běh hodiny.
+  - **Materiály pro učitele slučuj do jednoho PDF** (řešení + metodika, se záložkami). **Pracovní list a úkol nikdy nepřidávej** — list se promítá a nesmí obsahovat klíč, úkol se posílá dítěti.
   - **Dialog je povinný.** Bez očekávaných odpovědí Tessa nepozná, jestli je odpověď správná — a nemá co dítěti předříct, když se zasekne.
   - Do jedné strany se to nevejde; nezkoušej to tlačit, radši dvoustrana.
 - **Gramatiku vždy vysvětli dvakrát:** odborně pro Tessu (aby chápala proč) a pak **jednou českou větou, kterou může Rozárce říct rovnou**. Bez té druhé věty jí vysvětlení není k ničemu.
