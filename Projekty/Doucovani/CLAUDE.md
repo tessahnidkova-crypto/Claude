@@ -99,3 +99,18 @@ do `res3_tight.json` (strana → třída), generátor si je načte.
   ne do vlastního sloupce.
 - ⚠️ **Krátký tvar psát jako celé slovo.** `A%"She's"`, ne `"She " + A%"'s"` —
   jinak se v PDF vysází `She 's` s mezerou.
+
+## Měření přetečení — hlídat OBA sloupce (2026-10-13)
+
+Skript z hodiny 3 kontroloval jen `.resbody` (pravý sloupec s řešením). U hodiny 4
+přetékal **levý sloupec** — delší texty v *Co se učí / Řekni jí / Pozor*. V PDF se
+tiše uřízly. Měř vždycky `.resbody` **i** `.left`, a u listu navíc kolizi s patičkou
+(ta je `position:absolute`, takže `overflow` ji nezachytí — porovnávej
+`element.bottom` proti `.foot.top`, ne proti okraji stránky).
+
+Stupně zhuštění `.t1` / `.t2` musí sahat i na levý sloupec a smí **rozšířit mřížku**
+(`grid-template-columns: 82mm → 88mm → 94mm`) — to zabere nejvíc.
+
+- ⚠️ **Patička „1 / 1" na titulce řešení.** `TOT` se počítalo až pod voláním
+  `foot(1, 1, …)`. Po každé změně počtu stran zkontroluj pořadí patiček:
+  `grep -o '<span>[0-9]* / N</span>' soubor.html` musí dát 1..N.
