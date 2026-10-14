@@ -1,0 +1,216 @@
+<!doctype html><html lang="cs"><head><meta charset="utf-8"><title>Týden pro paměť</title><style>
+@page { size: A4; margin: 14mm 15mm 14mm 15mm; }
+* { box-sizing: border-box; }
+body { font-family: 'DejaVu Serif', serif; font-size: 13.5pt; line-height: 1.38; color: #1c1c1c; margin: 0; }
+h1, h2, h3, .dayhead { font-family: 'DejaVu Sans', sans-serif; }
+.page { page-break-after: always; break-after: page; }
+.page:last-child { page-break-after: auto; }
+h3 { font-size: 15pt; color: #2d5a35; margin: 3.5mm 0 1.5mm; border-bottom: 1.5px solid #2d5a35; padding-bottom: 1mm; }
+.navod { margin: 0 0 2mm; font-style: italic; color: #333; }
+.line { border-bottom: 1px solid #8a8a8a; height: 8.6mm; }
+.dayhead { display: flex; align-items: baseline; gap: 5mm; border-bottom: 3px solid #7a4a1e; padding-bottom: 2mm; }
+.dayhead .num { background: #7a4a1e; color: #fff; padding: 1mm 3mm; border-radius: 2mm; font-size: 13pt; font-weight: bold; }
+.dayhead .dname { font-size: 26pt; font-weight: bold; color: #7a4a1e; }
+.dayhead .tema { font-size: 16pt; margin-left: auto; color: #333; }
+.ranni { margin-top: 4mm; background: #f4efe6; border-left: 4px solid #7a4a1e; padding: 2mm 3mm 0; }
+ol { margin: 0; padding-left: 8mm; }
+.vzp li { margin-bottom: 2mm; }
+.q { font-weight: bold; }
+.kviz li { margin-bottom: 2.6mm; }
+.opts { display: flex; gap: 8mm; flex-wrap: wrap; margin-top: 0.5mm; }
+.circ { display: inline-block; width: 7mm; height: 7mm; border: 1.5px solid #444; border-radius: 50%; text-align: center; line-height: 6.4mm; font-family: 'DejaVu Sans'; font-size: 11pt; }
+.dopl li { margin-bottom: 3.2mm; }
+.vzkaz { border: 2px dashed #7a4a1e; padding: 2mm 4mm; margin-top: 3mm; border-radius: 3mm; }
+.taj { border-collapse: separate; border-spacing: 1mm; margin-left: -1.2mm; }
+.taj .clue { padding-right: 3mm; width: 88mm; font-size: 12.5pt; }
+.taj .cnt { color: #777; font-size: 11pt; }
+.taj .box { width: 9mm; height: 9mm; border: 1.5px solid #444; }
+.taj .box.key { background: #e9dcc5; border: 2.5px solid #7a4a1e; }
+.taj .nobox { width: 9mm; }
+.taj-out { margin-top: 2mm; font-weight: bold; }
+.fill { display: inline-block; border-bottom: 1px solid #555; width: 70mm; height: 6mm; vertical-align: bottom; }
+.fill.short { width: 45mm; }
+.rada li { margin-bottom: 2mm; font-size: 14.5pt; letter-spacing: .3px; }
+.presm { display: grid; grid-template-columns: 1fr 1fr; gap: 3mm 8mm; font-size: 14pt; }
+.spoj { width: 100%; font-size: 14pt; border-collapse: collapse; }
+.spoj td { padding: 2mm 0; }
+.spoj .l { text-align: right; width: 35%; } .spoj .r { width: 45%; } .spoj .gap { width: 20%; }
+.dot { color: #7a4a1e; }
+.poradi div { margin-bottom: 1.6mm; font-size: 14pt; }
+.numbox { display: inline-block; width: 9mm; height: 9mm; border: 1.5px solid #444; vertical-align: middle; margin-right: 3mm; }
+.seznam { font-size: 17pt; font-weight: bold; text-align: center; border: 2px solid #2d5a35; border-radius: 3mm; padding: 3mm; line-height: 1.6; margin-bottom: 2mm; }
+.pocty li { margin-bottom: 2.5mm; } .ans { margin-top: 1mm; }
+.clanek p { font-size: 12.8pt; line-height: 1.33; margin: 0 0 1.5mm; text-align: justify; hyphens: auto; }
+.potclanku { background: #eef3ec; padding: 2mm 4mm 1mm; border-radius: 2mm; margin-top: 2mm; }
+.potclanku li { margin-bottom: 1mm; }
+.denik .dr { display: flex; align-items: flex-end; gap: 3mm; } .denik .dr span { white-space: nowrap; font-weight: bold; }
+.denik .dr .line { flex: 1; }
+/* titulní strana */
+.cover { text-align: center; padding-top: 30mm; }
+.cover h1 { font-size: 40pt; color: #7a4a1e; margin: 0 0 4mm; }
+.cover .sub { font-size: 19pt; color: #2d5a35; margin-bottom: 14mm; }
+.cover .orn { font-size: 46pt; margin: 10mm 0; }
+.cover .box { text-align: left; border: 2px solid #2d5a35; border-radius: 4mm; padding: 5mm 8mm; font-size: 14.5pt; margin: 0 6mm; }
+.cover .box li { margin-bottom: 2mm; }
+.cover .sign { margin-top: 12mm; font-size: 17pt; font-style: italic; }
+.res h2 { font-size: 22pt; color: #7a4a1e; }
+.res .d { margin-bottom: 4mm; font-size: 12.5pt; }
+.res .d b.h { font-family: 'DejaVu Sans'; color: #2d5a35; }
+.res .d div { margin-left: 5mm; }
+</style></head><body>
+<section class="page cover">
+  <div class="orn">🌻</div>
+  <h1>Týden pro paměť</h1>
+  <div class="sub">pro babičku a dědu · týden č. 1</div>
+  <div class="box">
+    <b>Jak na to:</b>
+    <ul>
+      <li>Každý den jeden list. Nejlépe ráno ke kávě, v klidu a spolu.</li>
+      <li>Nic se nehodnotí, nikdo nezkouší. Když něco nevíte, nevadí – přeskočte to, nebo se podívejte do řešení na konci.</li>
+      <li>Nejdůležitější je <b>povídání</b>. Vy víte věci, které my mladší už nevíme – každá zapsaná vzpomínka je pro nás poklad.</li>
+      <li>Večer zapište pár slov o tom, co jste ten den dělali. Druhý den ráno si to zkusíte vybavit.</li>
+    </ul>
+  </div>
+  <div class="sign">S láskou, vaše vnučka</div>
+</section>
+
+<section class="page">
+  <header class="dayhead"><span class="num">Den 1</span><span class="dname">Pondělí</span>
+    <span class="tema">🐓 Na statku</span></header>
+  <div class="ranni"><b>Ranní rozcvička:</b> Jaké je dnes datum? A co jste včera měli k večeři?<div class="line"></div></div>
+  <h3>❦ Povídání a vzpomínky</h3>
+  <p class="navod">Povídejte si spolu a pár slov zapište.</p>
+  <ol class="vzp"><li><div class="q">Jak se jmenovala vaše první kráva nebo kůň? Proč zrovna tak?</div><div class="line"></div><div class="line"></div></li><li><div class="q">Co všechno se na statku muselo udělat v říjnu, než přišla zima?</div><div class="line"></div><div class="line"></div></li><li><div class="q">Jak u vás probíhala zabijačka? Kdo měl co na starosti?</div><div class="line"></div><div class="line"></div></li></ol>
+  
+  <h3>? Kvíz</h3><ol class="kviz"><li><div class="q">Jak dlouho nosí kráva tele?</div><div class="opts"><span class="opt"><span class="circ">a</span> asi 6 měsíců</span><span class="opt"><span class="circ">b</span> asi 9 měsíců</span><span class="opt"><span class="circ">c</span> asi 12 měsíců</span></div></li><li><div class="q">Jak se jmenuje mládě kozy?</div><div class="opts"><span class="opt"><span class="circ">a</span> jehně</span><span class="opt"><span class="circ">b</span> kůzle</span><span class="opt"><span class="circ">c</span> hříbě</span></div></li><li><div class="q">Za kolik dní se z vajíčka vylíhne kuře?</div><div class="opts"><span class="opt"><span class="circ">a</span> 14</span><span class="opt"><span class="circ">b</span> 21</span><span class="opt"><span class="circ">c</span> 30</span></div></li><li><div class="q">Čím se dříve ručně mlátilo obilí?</div><div class="opts"><span class="opt"><span class="circ">a</span> srpem</span><span class="opt"><span class="circ">b</span> cepem</span><span class="opt"><span class="circ">c</span> hráběmi</span></div></li><li><div class="q">Jak se říká samci kachny?</div><div class="opts"><span class="opt"><span class="circ">a</span> kačer</span><span class="opt"><span class="circ">b</span> houser</span><span class="opt"><span class="circ">c</span> kohout</span></div></li></ol>
+</section>
+<section class="page">
+  <div class="hadanka"><h3>✎ Tajenka</h3><p class="navod">První písmena shora dolů dají tajenku – místo, kam se sváželo seno a obilí.</p><table class="taj"><tr><td class="clue">Usušená tráva pro dobytek na zimu <span class="cnt">(4)</span></td><td class="box key"></td><td class="box"></td><td class="box"></td><td class="box"></td><td class="nobox"></td><td class="nobox"></td><td class="nobox"></td></tr><tr><td class="clue">Mládě krávy <span class="cnt">(4)</span></td><td class="box key"></td><td class="box"></td><td class="box"></td><td class="box"></td><td class="nobox"></td><td class="nobox"></td><td class="nobox"></td></tr><tr><td class="clue">Obilí, které nejraději žerou koně <span class="cnt">(4)</span></td><td class="box key"></td><td class="box"></td><td class="box"></td><td class="box"></td><td class="nobox"></td><td class="nobox"></td><td class="nobox"></td></tr><tr><td class="clue">Co se dělá s kravou ráno a večer <span class="cnt">(5)</span></td><td class="box key"></td><td class="box"></td><td class="box"></td><td class="box"></td><td class="box"></td><td class="nobox"></td><td class="nobox"></td></tr><tr><td class="clue">Zvíře, které dává vlnu <span class="cnt">(4)</span></td><td class="box key"></td><td class="box"></td><td class="box"></td><td class="box"></td><td class="nobox"></td><td class="nobox"></td><td class="nobox"></td></tr><tr><td class="clue">Kde se seče tráva <span class="cnt">(5)</span></td><td class="box key"></td><td class="box"></td><td class="box"></td><td class="box"></td><td class="box"></td><td class="nobox"></td><td class="nobox"></td></tr><tr><td class="clue">Keř s chlupatými kyselými kuličkami <span class="cnt">(7)</span></td><td class="box key"></td><td class="box"></td><td class="box"></td><td class="box"></td><td class="box"></td><td class="box"></td><td class="box"></td></tr></table><p class="taj-out">Tajenka: <span class="fill"></span></p></div>
+  <article class="clanek"><h3>☕ Čtení ke kávě: Proč kohout kokrhá ještě za tmy?</h3><p>Kohout se ozve dřív, než vyjde slunce. Dlouho se myslelo, že ho probudí první světlo. Japonští vědci z univerzity v Nagoji to v roce 2013 vyzkoušeli.</p><p>Kohouty zavřeli do místnosti, kde bylo pořád stejné tlumené světlo. A kohouti přesto kokrhali každý den zhruba ve stejnou dobu, kdy by venku začínalo svítat. Mají totiž v těle vlastní „hodiny“, které běží přibližně 24 hodin.</p><p>Vědci zjistili ještě jednu věc: v hejnu se jako první ozývá vždycky kohout nejvyšší v pořadí – ten nejsilnější. Ostatní počkají, až začne on. Kdo by si taky troufl kokrhat dřív než pán dvora?</p></article>
+  <div class="potclanku"><b>Zakryjte článek a zkuste si vzpomenout:</b><ol><li><div class="q">Ve které zemi vědci pokus dělali?</div><div class="line"></div></li><li><div class="q">Který kohout v hejnu začíná kokrhat jako první?</div><div class="line"></div></li></ol></div>
+  <div class="denik"><h3>☾ Večer: co jsme dnes dělali</h3>
+    <div class="dr"><span>Dopoledne:</span><div class="line"></div></div>
+    <div class="dr"><span>Odpoledne:</span><div class="line"></div></div>
+    <div class="dr"><span>Dnes nás potěšilo:</span><div class="line"></div></div>
+  </div>
+</section>
+<section class="page">
+  <header class="dayhead"><span class="num">Den 2</span><span class="dname">Úterý</span>
+    <span class="tema">🦌 V lese a na honu</span></header>
+  <div class="ranni"><b>Ranní rozcvička:</b> Vzpomenete si na tajenku ze včerejška? Co jste včera dělali odpoledne?<div class="line"></div></div>
+  <h3>❦ Povídání a vzpomínky</h3>
+  <p class="navod">Povídejte si spolu a pár slov zapište.</p>
+  <ol class="vzp"><li><div class="q">Dědo, na který hon nejraději vzpomínáš? Kdo tam s tebou byl?</div><div class="line"></div><div class="line"></div></li><li><div class="q">Jakého jsi měl psa? Jak se jmenoval a co všechno uměl?</div><div class="line"></div><div class="line"></div></li><li><div class="q">Jaké nejvzácnější zvíře jsi kdy v lese viděl?</div><div class="line"></div><div class="line"></div></li></ol>
+  
+  <h3>? Kvíz</h3><p class="navod">Myslivecká mluva. Dědo, dnes jsi zkoušející ty – babička odpovídá, ty kontroluješ a vysvětluješ!</p><ol class="kviz"><li><div class="q">Jak myslivci říkají krvi zvěře?</div><div class="opts"><span class="opt"><span class="circ">a</span> šťáva</span><span class="opt"><span class="circ">b</span> barva</span><span class="opt"><span class="circ">c</span> stopa</span></div></li><li><div class="q">Jak myslivci říkají očím zvěře?</div><div class="opts"><span class="opt"><span class="circ">a</span> světla</span><span class="opt"><span class="circ">b</span> kukadla</span><span class="opt"><span class="circ">c</span> lampy</span></div></li><li><div class="q">Jak se jmenuje samec divokého prasete?</div><div class="opts"><span class="opt"><span class="circ">a</span> beran</span><span class="opt"><span class="circ">b</span> kňour</span><span class="opt"><span class="circ">c</span> jelen</span></div></li><li><div class="q">Jak se jmenuje samice jelena?</div><div class="opts"><span class="opt"><span class="circ">a</span> laň</span><span class="opt"><span class="circ">b</span> srna</span><span class="opt"><span class="circ">c</span> muflonka</span></div></li><li><div class="q">Kdo je patronem myslivců?</div><div class="opts"><span class="opt"><span class="circ">a</span> svatý Václav</span><span class="opt"><span class="circ">b</span> svatý Hubert</span><span class="opt"><span class="circ">c</span> svatý Martin</span></div></li></ol>
+</section>
+<section class="page">
+  <div class="hadanka"><h3>✎ Co nepatří do řady?</h3><p class="navod">V každém řádku jedno slovo nepatří k ostatním. Škrtněte ho a řekněte proč.</p><ol class="rada"><li>srnec · jelen · daněk · zajíc</li><li>liška · jezevec · kuna · bažant</li><li>dub · buk · smrk · javor</li><li>sova · datel · káně · netopýr</li></ol><p class="navod">Přesmyčky – přeházená písmena dají zvíře z lesa:</p><div class="presm"><div><b>KAŠIL</b> → <span class="fill short"></span></div><div><b>NELEJ</b> → <span class="fill short"></span></div><div><b>VASO</b> → <span class="fill short"></span></div><div><b>CENRS</b> → <span class="fill short"></span></div></div></div>
+  <article class="clanek"><h3>☕ Čtení ke kávě: Svatý Hubert – proč je patronem myslivců</h3><p>Podle staré legendy byl Hubert šlechtic, který žil asi před 1300 lety v Ardenách, na území dnešní Belgie. Lov miloval nade všechno – prý vyrazil do lesa i na Velký pátek, kdy se lovit nemělo. V lese před ním stanul jelen a mezi jeho parožím zářil kříž. Hubert uslyšel hlas, který ho vyzval, aby změnil svůj život.</p><p>Od té doby lovil s úctou, stal se knězem a nakonec biskupem. Zemřel kolem roku 727. Z legendy vzešlo pravidlo, které myslivci dodržují dodnes: zvěř šetřit, nestřílet zbytečně a ulovenému kusu vzdát poslední čest – třeba zelenou větvičkou, „posledním hryzem“.</p><p>Svátek svatého Huberta je 3. listopadu. Kolem tohoto dne se po celé republice konají hubertské mše, hony a hubertovské jízdy na koních.</p></article>
+  <div class="potclanku"><b>Zakryjte článek a zkuste si vzpomenout:</b><ol><li><div class="q">Co uviděl Hubert mezi parožím jelena?</div><div class="line"></div></li><li><div class="q">Kdy má svatý Hubert svátek?</div><div class="line"></div></li></ol></div>
+  <div class="denik"><h3>☾ Večer: co jsme dnes dělali</h3>
+    <div class="dr"><span>Dopoledne:</span><div class="line"></div></div>
+    <div class="dr"><span>Odpoledne:</span><div class="line"></div></div>
+    <div class="dr"><span>Dnes nás potěšilo:</span><div class="line"></div></div>
+  </div>
+</section>
+<section class="page">
+  <header class="dayhead"><span class="num">Den 3</span><span class="dname">Středa</span>
+    <span class="tema">🇮🇹 Za hranice: Itálie</span></header>
+  <div class="ranni"><b>Ranní rozcvička:</b> Jaký den byl předevčírem? Co jste včera měli k obědu?<div class="line"></div></div>
+  <h3>❦ Povídání a vzpomínky</h3>
+  <p class="navod">Povídejte si spolu a pár slov zapište.</p>
+  <ol class="vzp"><li><div class="q">Babičko, kam ses v životě podívala nejdál?</div><div class="line"></div><div class="line"></div></li><li><div class="q">Které cizí jídlo vám nejvíc chutnalo – nebo které byste rádi ochutnali?</div><div class="line"></div><div class="line"></div></li><li><div class="q">Kdybyste zítra mohli odjet kamkoli na světě, kam by to bylo a proč?</div><div class="line"></div><div class="line"></div></li></ol>
+  
+  <h3>? Kvíz</h3><ol class="kviz"><li><div class="q">Jaké je hlavní město Itálie?</div><div class="opts"><span class="opt"><span class="circ">a</span> Milán</span><span class="opt"><span class="circ">b</span> Řím</span><span class="opt"><span class="circ">c</span> Neapol</span></div></li><li><div class="q">Ve kterém městě stojí šikmá věž?</div><div class="opts"><span class="opt"><span class="circ">a</span> v Pise</span><span class="opt"><span class="circ">b</span> ve Florencii</span><span class="opt"><span class="circ">c</span> v Benátkách</span></div></li><li><div class="q">Která sopka zasypala starověké město Pompeje?</div><div class="opts"><span class="opt"><span class="circ">a</span> Etna</span><span class="opt"><span class="circ">b</span> Vesuv</span><span class="opt"><span class="circ">c</span> Stromboli</span></div></li><li><div class="q">Jaká řeka teče Římem?</div><div class="opts"><span class="opt"><span class="circ">a</span> Pád</span><span class="opt"><span class="circ">b</span> Tibera</span><span class="opt"><span class="circ">c</span> Arno</span></div></li><li><div class="q">Jak se italsky řekne „děkuji“?</div><div class="opts"><span class="opt"><span class="circ">a</span> gracias</span><span class="opt"><span class="circ">b</span> grazie</span><span class="opt"><span class="circ">c</span> merci</span></div></li></ol>
+</section>
+<section class="page">
+  <div class="hadanka"><h3>✎ Spojte čarou</h3><p class="navod">Spojte každou zemi s tím, čím je známá.</p><table class="spoj"><tr><td class="l">Francie <span class="dot">●</span></td><td class="gap"></td><td class="r"><span class="dot">●</span> pyramidy</td></tr><tr><td class="l">Nizozemsko <span class="dot">●</span></td><td class="gap"></td><td class="r"><span class="dot">●</span> Big Ben</td></tr><tr><td class="l">Egypt <span class="dot">●</span></td><td class="gap"></td><td class="r"><span class="dot">●</span> Eiffelova věž</td></tr><tr><td class="l">Řecko <span class="dot">●</span></td><td class="gap"></td><td class="r"><span class="dot">●</span> Alpy a sýr s dírami</td></tr><tr><td class="l">Švýcarsko <span class="dot">●</span></td><td class="gap"></td><td class="r"><span class="dot">●</span> Akropolis</td></tr><tr><td class="l">Anglie <span class="dot">●</span></td><td class="gap"></td><td class="r"><span class="dot">●</span> větrné mlýny a tulipány</td></tr></table></div>
+  <article class="clanek"><h3>☕ Čtení ke kávě: Benátky – město, které stojí na dřevě</h3><p>Benátky jsou postavené na více než stovce malých ostrovů v laguně u Jaderského moře. Místo ulic mají kanály, místo aut lodě – a nejslavnější z nich jsou černé gondoly.</p><p>Jak se dá postavit kamenný palác na bahně? Benátčané před staletími zatloukali do dna laguny miliony dřevěných kůlů, hlavně z dubu a modřínu. Na ně položili dřevěné desky a teprve na ně kámen. Dřevo, které je celé pod vodou a v bahně, se nedostane ke vzduchu – a proto nehnije. Domy na něm stojí celá staletí.</p><p>Na podzim a v zimě přichází „acqua alta“ – vysoká voda, kdy moře zaplaví i náměstí svatého Marka a lidé chodí po dřevěných lávkách. Od roku 2020 město chrání obří pohyblivé hráze jménem MOSE, které se při velké vodě zvednou ze dna moře.</p></article>
+  <div class="potclanku"><b>Zakryjte článek a zkuste si vzpomenout:</b><ol><li><div class="q">Z jakého dřeva jsou kůly pod Benátkami?</div><div class="line"></div></li><li><div class="q">Proč dřevo pod vodou nehnije?</div><div class="line"></div></li></ol></div>
+  <div class="denik"><h3>☾ Večer: co jsme dnes dělali</h3>
+    <div class="dr"><span>Dopoledne:</span><div class="line"></div></div>
+    <div class="dr"><span>Odpoledne:</span><div class="line"></div></div>
+    <div class="dr"><span>Dnes nás potěšilo:</span><div class="line"></div></div>
+  </div>
+</section>
+<section class="page">
+  <header class="dayhead"><span class="num">Den 4</span><span class="dname">Čtvrtek</span>
+    <span class="tema">📜 Kus naší historie</span></header>
+  <div class="ranni"><b>Ranní rozcvička:</b> Na čem stojí Benátky? A co jste dělali včera večer?<div class="line"></div></div>
+  <h3>❦ Povídání a vzpomínky</h3>
+  <p class="navod">Povídejte si spolu a pár slov zapište.</p>
+  <ol class="vzp"><li><div class="q">Dědo, co ti o válce vyprávěli tvoji rodiče nebo prarodiče?</div><div class="line"></div><div class="line"></div></li><li><div class="q">Kde jste byli a co jste dělali v srpnu 1968?</div><div class="line"></div><div class="line"></div></li><li><div class="q">Jak se u vás na vesnici změnil život, když vzniklo JZD?</div><div class="line"></div><div class="line"></div></li></ol>
+  
+  <h3>? Kvíz</h3><ol class="kviz"><li><div class="q">Kdy vzniklo Československo?</div><div class="opts"><span class="opt"><span class="circ">a</span> 28. října 1918</span><span class="opt"><span class="circ">b</span> 1. ledna 1920</span><span class="opt"><span class="circ">c</span> 9. května 1945</span></div></li><li><div class="q">Kdo byl prvním československým prezidentem?</div><div class="opts"><span class="opt"><span class="circ">a</span> Edvard Beneš</span><span class="opt"><span class="circ">b</span> T. G. Masaryk</span><span class="opt"><span class="circ">c</span> Ludvík Svoboda</span></div></li><li><div class="q">Které město osvobodila v květnu 1945 americká armáda?</div><div class="opts"><span class="opt"><span class="circ">a</span> Plzeň</span><span class="opt"><span class="circ">b</span> Brno</span><span class="opt"><span class="circ">c</span> Olomouc</span></div></li><li><div class="q">Jak se jmenovali parašutisté, kteří v roce 1942 provedli atentát na Heydricha?</div><div class="opts"><span class="opt"><span class="circ">a</span> Gabčík a Kubiš</span><span class="opt"><span class="circ">b</span> Mašín a Morávek</span><span class="opt"><span class="circ">c</span> Švec a Šrámek</span></div></li><li><div class="q">Ve kterém roce skončila druhá světová válka v Evropě?</div><div class="opts"><span class="opt"><span class="circ">a</span> 1944</span><span class="opt"><span class="circ">b</span> 1945</span><span class="opt"><span class="circ">c</span> 1946</span></div></li></ol>
+</section>
+<section class="page">
+  <div class="hadanka"><h3>✎ Seřaďte podle času</h3><p class="navod">Očíslujte události od nejstarší (1) po nejnovější (6).</p><div class="poradi"><div><span class="numbox"></span> Atentát na Heydricha</div><div><span class="numbox"></span> Vznik Československa</div><div><span class="numbox"></span> Sametová revoluce</div><div><span class="numbox"></span> Mnichovská dohoda</div><div><span class="numbox"></span> Konec druhé světové války</div><div><span class="numbox"></span> Příjezd vojsk Varšavské smlouvy</div></div></div>
+  <article class="clanek"><h3>☕ Čtení ke kávě: Josef František – Čech, který bránil Londýn</h3><p>V létě 1940 stála Británie proti Hitlerovi sama. Německá letadla útočila na anglická letiště a města a o všem se rozhodovalo ve vzduchu. Tomu se říká Bitva o Británii.</p><p>Mezi piloty, kteří Británii bránili, byli i Čechoslováci, kteří utekli z okupované vlasti. Nejslavnější z nich byl Josef František, rodák z Otaslavic u Prostějova. Létal s polskou 303. perutí – s Poláky už předtím bojoval v Polsku i ve Francii. Během září 1940 sestřelil 17 nepřátelských letadel a patřil k nejúspěšnějším pilotům celé bitvy.</p><p>Domů se už nevrátil. Zahynul 8. října 1940 při letecké nehodě, den po svých 26. narozeninách. V Británii, v Polsku i u nás na něj dodnes vzpomínají jako na hrdinu.</p></article>
+  <div class="potclanku"><b>Zakryjte článek a zkuste si vzpomenout:</b><ol><li><div class="q">S jakou perutí Josef František létal?</div><div class="line"></div></li><li><div class="q">Kolik nepřátelských letadel sestřelil?</div><div class="line"></div></li></ol></div>
+  <div class="denik"><h3>☾ Večer: co jsme dnes dělali</h3>
+    <div class="dr"><span>Dopoledne:</span><div class="line"></div></div>
+    <div class="dr"><span>Odpoledne:</span><div class="line"></div></div>
+    <div class="dr"><span>Dnes nás potěšilo:</span><div class="line"></div></div>
+  </div>
+</section>
+<section class="page">
+  <header class="dayhead"><span class="num">Den 5</span><span class="dname">Pátek</span>
+    <span class="tema">🥧 Zahrada a kuchyně</span></header>
+  <div class="ranni"><b>Ranní rozcvička:</b> Kdo byl Josef František? A s kým jste včera mluvili?<div class="line"></div></div>
+  <h3>❦ Povídání a vzpomínky</h3>
+  <p class="navod">Povídejte si spolu a pár slov zapište.</p>
+  <ol class="vzp"><li><div class="q">Babičko, který recept po mamince umíš dodnes zpaměti? Napiš ho sem.</div><div class="line"></div><div class="line"></div></li><li><div class="q">Co jste nejraději zavařovali nebo sušili na zimu?</div><div class="line"></div><div class="line"></div></li><li><div class="q">Kdo u vás doma pekl nejlepší chleba nebo koláče?</div><div class="line"></div><div class="line"></div></li></ol>
+  
+  <h3>? Kvíz</h3><p class="navod">Doplňte pranostiky a přísloví.</p><ol class="dopl"><li>Medard kápě, ________ dní kape.</li><li>Na svatého ________ přijíždí na bílém koni.</li><li>Únor bílý, ________ sílí.</li><li>Na Hromnice o ________ více.</li><li>Pankrác, Servác, Bonifác – říká se jim ________ muži.</li><li>Bez práce nejsou ________.</li></ol>
+</section>
+<section class="page">
+  <div class="hadanka"><h3>✎ Nákupní seznam – paměťová hra</h3><p class="navod">Přečtěte si pomalu seznam. Pak ho zakryjte papírem a napište, co si pamatujete. Pomůže představit si, že z toho pečete koláče.</p><div class="seznam">mouka · vejce · máslo · droždí · cukr · mléko · švestky · mák · sůl · tvaroh</div><p class="navod">Co si pamatujete (bez koukání!):</p><div class="line"></div><div class="line"></div><div class="line"></div></div>
+  <article class="clanek"><h3>☕ Čtení ke kávě: Jak brambory přišly do Čech</h3><p>Brambory u nás nebyly odjakživa. Pocházejí z Jižní Ameriky, z hor zvaných Andy, kde je místní obyvatelé pěstovali tisíce let. Do Evropy je přivezli Španělé v 16. století. Zpočátku je lidé pěstovali spíš pro hezké květy a jíst se je báli – zelené bobule i nať jsou totiž jedovaté.</p><p>Své české jméno dostaly podle sousedního Braniborska – brambory jsou vlastně „braniborky“. Opravdu se u nás rozšířily až po velkém hladomoru v letech 1770–1772, kdy lidé poznali, že brambory rodinu uživí, i když se obilí neurodí.</p><p>Pak už to šlo rychle – knedlíky, bramboráky, škubánky, kaše… Dnes si českou kuchyni bez brambor neumíme představit.</p></article>
+  <div class="potclanku"><b>Zakryjte článek a zkuste si vzpomenout:</b><ol><li><div class="q">Odkud brambory původně pocházejí?</div><div class="line"></div></li><li><div class="q">Podle kterého kraje dostaly brambory své české jméno?</div><div class="line"></div></li></ol></div>
+  <div class="denik"><h3>☾ Večer: co jsme dnes dělali</h3>
+    <div class="dr"><span>Dopoledne:</span><div class="line"></div></div>
+    <div class="dr"><span>Odpoledne:</span><div class="line"></div></div>
+    <div class="dr"><span>Dnes nás potěšilo:</span><div class="line"></div></div>
+  </div>
+</section>
+<section class="page">
+  <header class="dayhead"><span class="num">Den 6</span><span class="dname">Sobota</span>
+    <span class="tema">🧭 Na cestách po světě</span></header>
+  <div class="ranni"><b>Ranní rozcvička:</b> Odkud pocházejí brambory? Co jste včera měli k obědu?<div class="line"></div></div>
+  <h3>❦ Povídání a vzpomínky</h3>
+  <p class="navod">Povídejte si spolu a pár slov zapište.</p>
+  <ol class="vzp"><li><div class="q">Pamatujete si na pohlednici, kterou jste dostali z ciziny? Odkud byla a kdo ji poslal?</div><div class="line"></div><div class="line"></div></li><li><div class="q">Babičko, jaké cizí slovo nebo větu znáš? Nauč ji dědu.</div><div class="line"></div><div class="line"></div></li><li><div class="q">Dědo, kde jsi byl v životě nejdál od domova?</div><div class="line"></div><div class="line"></div></li></ol>
+  
+  <h3>? Kvíz</h3><ol class="kviz"><li><div class="q">Ve které zemi žijí ve volné přírodě klokani?</div><div class="opts"><span class="opt"><span class="circ">a</span> v Keni</span><span class="opt"><span class="circ">b</span> v Austrálii</span><span class="opt"><span class="circ">c</span> v Brazílii</span></div></li><li><div class="q">Která hora je nejvyšší na světě?</div><div class="opts"><span class="opt"><span class="circ">a</span> Mont Blanc</span><span class="opt"><span class="circ">b</span> Mount Everest</span><span class="opt"><span class="circ">c</span> Kilimandžáro</span></div></li><li><div class="q">Do kterého moře se vlévá Dunaj?</div><div class="opts"><span class="opt"><span class="circ">a</span> do Černého</span><span class="opt"><span class="circ">b</span> do Severního</span><span class="opt"><span class="circ">c</span> do Středozemního</span></div></li><li><div class="q">Ve kterém městě stojí Socha svobody?</div><div class="opts"><span class="opt"><span class="circ">a</span> v Londýně</span><span class="opt"><span class="circ">b</span> v Paříži</span><span class="opt"><span class="circ">c</span> v New Yorku</span></div></li><li><div class="q">Jaké je hlavní město Norska?</div><div class="opts"><span class="opt"><span class="circ">a</span> Oslo</span><span class="opt"><span class="circ">b</span> Stockholm</span><span class="opt"><span class="circ">c</span> Kodaň</span></div></li></ol>
+</section>
+<section class="page">
+  <div class="hadanka"><h3>✎ Tajenka</h3><p class="navod">Vyluštěte slova. První písmena shora dolů dají tajenku – zemi, o které je dnešní článek.</p><table class="taj"><tr><td class="clue">Řeka, která teče Egyptem <span class="cnt">(3)</span></td><td class="box key"></td><td class="box"></td><td class="box"></td><td class="nobox"></td><td class="nobox"></td><td class="nobox"></td><td class="nobox"></td><td class="nobox"></td></tr><tr><td class="clue">Velká slaná voda mezi světadíly <span class="cnt">(5)</span></td><td class="box key"></td><td class="box"></td><td class="box"></td><td class="box"></td><td class="box"></td><td class="nobox"></td><td class="nobox"></td><td class="nobox"></td></tr><tr><td class="clue">Naši jižní sousedé s hlavním městem Vídní <span class="cnt">(8)</span></td><td class="box key"></td><td class="box"></td><td class="box"></td><td class="box"></td><td class="box"></td><td class="box"></td><td class="box"></td><td class="box"></td></tr><tr><td class="clue">Největší horká poušť na světě <span class="cnt">(6)</span></td><td class="box key"></td><td class="box"></td><td class="box"></td><td class="box"></td><td class="box"></td><td class="box"></td><td class="nobox"></td><td class="nobox"></td></tr><tr><td class="clue">Zvíře, které nosí mládě ve vaku <span class="cnt">(6)</span></td><td class="box key"></td><td class="box"></td><td class="box"></td><td class="box"></td><td class="box"></td><td class="box"></td><td class="nobox"></td><td class="nobox"></td></tr><tr><td class="clue">Kus země, ze všech stran obklopený vodou <span class="cnt">(6)</span></td><td class="box key"></td><td class="box"></td><td class="box"></td><td class="box"></td><td class="box"></td><td class="box"></td><td class="nobox"></td><td class="nobox"></td></tr></table><p class="taj-out">Tajenka: <span class="fill"></span></p></div>
+  <article class="clanek"><h3>☕ Čtení ke kávě: Norsko – země půlnočního slunce</h3><p>Norsko je dlouhá země na severu Evropy. Jeho pobřeží je rozbrázděné fjordy – úzkými, hlubokými zálivy se strmými skalami, které sahají daleko do vnitrozemí. Vyhloubily je obří ledovce v dobách ledových. Nejdelší, Sognefjord, měří přes 200 kilometrů.</p><p>Na severu Norska, za polárním kruhem, slunce v létě celé týdny nezapadá – i o půlnoci je světlo. V zimě je to naopak a slunce se dlouho neukáže vůbec. Zato je za tmy vidět polární záře – zelené pruhy světla, které se vlní po obloze.</p><p>Podél pobřeží jezdí už od roku 1893 lodě Hurtigruten. Dřív vozily poštu a zásoby do vesnic, kam nevedla silnice. Dnes s nimi cestují i turisté.</p></article>
+  <div class="potclanku"><b>Zakryjte článek a zkuste si vzpomenout:</b><ol><li><div class="q">Co vytvořilo norské fjordy?</div><div class="line"></div></li><li><div class="q">Co je vidět na obloze v norské zimě?</div><div class="line"></div></li></ol></div>
+  <div class="denik"><h3>☾ Večer: co jsme dnes dělali</h3>
+    <div class="dr"><span>Dopoledne:</span><div class="line"></div></div>
+    <div class="dr"><span>Odpoledne:</span><div class="line"></div></div>
+    <div class="dr"><span>Dnes nás potěšilo:</span><div class="line"></div></div>
+  </div>
+</section>
+<section class="page">
+  <header class="dayhead"><span class="num">Den 7</span><span class="dname">Neděle</span>
+    <span class="tema">💛 Rodina a velký týdenní kvíz</span></header>
+  <div class="ranni"><b>Ranní rozcvička:</b> Co jste dělali včera? A co vás tento týden nejvíc pobavilo?<div class="line"></div></div>
+  <h3>❦ Povídání a vzpomínky</h3>
+  <p class="navod">Povídejte si spolu a pár slov zapište.</p>
+  <ol class="vzp"><li><div class="q">Jak jste se vy dva poznali? Kdo koho první oslovil?</div><div class="line"></div><div class="line"></div></li><li><div class="q">Jak vypadala vaše svatba? Co se jedlo, kdo hrál k tanci?</div><div class="line"></div><div class="line"></div></li></ol>
+  <div class="vzkaz"><div class="q"><b>Vzkaz pro vnoučata: co jste se v životě naučili a v žádné knížce to nestojí?</b></div><div class="line"></div><div class="line"></div><div class="line"></div><div class="line"></div></div>
+  <h3>? Kvíz</h3><p class="navod">Velký týdenní kvíz – bez nahlížení dozadu! Kolik si toho pamatujete?</p><ol class="dopl"><li>Proč kohout kokrhá ještě za tmy? ____________________</li><li>Co uviděl svatý Hubert mezi parožím jelena? ____________</li><li>Na čem stojí Benátky? ____________________</li><li>S jakou perutí létal Josef František? ______________</li><li>Podle čeho mají brambory své jméno? ______________</li><li>Kdy v severním Norsku nezapadá slunce? ____________</li></ol>
+</section>
+<section class="page">
+  <div class="hadanka"><h3>✎ Počty z dvora</h3><ol class="pocty"><li>Na dvoře je 8 slepic a 3 kachny. Kolik mají dohromady nohou?<div class="ans">Výsledek: <span class="fill short"></span></div></li><li>Babička nasbírala 24 vajec a dává je do plat po deseti. Kolik plat naplní celých a kolik vajec zbude?<div class="ans">Výsledek: <span class="fill short"></span></div></li><li>Děda vyrazil na hon v 7:30 a vrátil se ve 13:15. Jak dlouho byl pryč?<div class="ans">Výsledek: <span class="fill short"></span></div></li><li>Kilo švestek stojí 40 Kč. Kolik zaplatíte za tři a půl kila?<div class="ans">Výsledek: <span class="fill short"></span></div></li></ol></div>
+  <article class="clanek"><h3>☕ Čtení ke kávě: Emil a Dana – narození ve stejný den</h3><p>Emil a Dana Zátopkovi se narodili ve stejný den – 19. září 1922. On v Kopřivnici, ona ve Fryštátě u Karviné. Potkali se až jako dospělí sportovci a zůstali spolu celý život.</p><p>Na olympiádě v Helsinkách v roce 1952 Emil vyhrál běh na 5 a 10 kilometrů a nakonec i maraton – který běžel vůbec poprvé v životě. Tři zlaté medaile na jedněch hrách! A Dana? Ta vyhrála hod oštěpem – ve stejný den, kdy Emil vyhrál pětku.</p><p>Emil zemřel v roce 2000, Dana se dožila 97 let. Celý život táhli za jeden provaz – a když se jednomu nedařilo, druhý ho podržel.</p></article>
+  <div class="potclanku"><b>Zakryjte článek a zkuste si vzpomenout:</b><ol><li><div class="q">Co měli Emil a Dana společného už od narození?</div><div class="line"></div></li><li><div class="q">Kolik zlatých medailí získal Emil v Helsinkách?</div><div class="line"></div></li></ol></div>
+  <div class="denik"><h3>☾ Večer: co jsme dnes dělali</h3>
+    <div class="dr"><span>Dopoledne:</span><div class="line"></div></div>
+    <div class="dr"><span>Odpoledne:</span><div class="line"></div></div>
+    <div class="dr"><span>Dnes nás potěšilo:</span><div class="line"></div></div>
+  </div>
+</section><section class="page res"><h2>Řešení</h2><div class="d"><b class="h">Pondělí</b><div>Kvíz: 1b (asi 9 měsíců) · 2b (kůzle) · 3b (21 dní) · 4b (cepem) · 5a (kačer)</div><div>Tajenka: SENO, TELE, OVES, DOJIT, OVCE, LOUKA, ANGREŠT → <b>STODOLA</b></div><div>Článek: v Japonsku · ten nejvyšší v pořadí (nejsilnější)</div></div><div class="d"><b class="h">Úterý</b><div>Kvíz: 1b (barva) · 2a (světla) · 3b (kňour) · 4a (laň) · 5b (sv. Hubert)</div><div>Nepatří: zajíc (nemá paroží) · bažant (je pták) · smrk (jehličnan) · netopýr (savec, ne pták)</div><div>Přesmyčky: LIŠKA, JELEN, SOVA, SRNEC</div><div>Článek: kříž · 3. listopadu</div></div><div class="d"><b class="h">Středa</b><div>Kvíz: 1b (Řím) · 2a (Pisa) · 3b (Vesuv) · 4b (Tibera) · 5b (grazie)</div><div>Spojovačka: Francie – Eiffelova věž · Nizozemsko – mlýny a tulipány · Egypt – pyramidy · Řecko – Akropolis · Švýcarsko – Alpy a sýr · Anglie – Big Ben</div><div>Článek: dub a modřín · nedostane se k němu vzduch</div></div><div class="d"><b class="h">Čtvrtek</b><div>Kvíz: 1a (28. 10. 1918) · 2b (Masaryk) · 3a (Plzeň) · 4a (Gabčík a Kubiš) · 5b (1945)</div><div>Pořadí: 1 Vznik ČSR (1918) · 2 Mnichov (1938) · 3 Atentát (1942) · 4 Konec války (1945) · 5 Srpen 1968 · 6 Sametová revoluce (1989)</div><div>Článek: s polskou 303. perutí · 17</div></div><div class="d"><b class="h">Pátek</b><div>Pranostiky: čtyřicet · Martina · pole · hodinu · ledoví · koláče</div><div>Článek: z Jižní Ameriky (z And) · podle Braniborska</div></div><div class="d"><b class="h">Sobota</b><div>Kvíz: 1b (Austrálie) · 2b (Everest) · 3a (Černé) · 4c (New York) · 5a (Oslo)</div><div>Tajenka: NIL, OCEÁN, RAKOUSKO, SAHARA, KLOKAN, OSTROV → <b>NORSKO</b></div><div>Článek: ledovce · polární záře</div></div><div class="d"><b class="h">Neděle</b><div>Týdenní kvíz: má vnitřní „hodiny“ · kříž · na dřevěných kůlech · s polskou 303. perutí · podle Braniborska · v létě</div><div>Počty: 22 nohou · 2 plata a 4 vejce zbudou · 5 hodin 45 minut · 140 Kč</div><div>Článek: narodili se ve stejný den · tři</div></div></section></body></html>
